@@ -3,35 +3,150 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Dashboard Pessoal</title>
+    <title>Coffee & Breakfast Control</title>
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="icon" href="data:,">
-    <style>
-        ::-webkit-scrollbar { width: 6px; }
-        ::-webkit-scrollbar-thumb { background: #4a5568; border-radius: 10px; }
-    </style>
 </head>
-<body class="bg-slate-900 text-slate-100 min-h-screen font-sans">
+<body class="bg-slate-900 text-slate-100 min-h-screen p-4 md:p-8">
 
-    <div class="max-w-5xl mx-auto p-4 md:p-8">
-        <header class="mb-8 flex justify-between items-center border-b border-slate-800 pb-4">
-            <h1 class="text-2xl font-bold bg-gradient-to-r from-blue-400 to-emerald-400 bg-clip-text text-transparent">
-                Comando Central
+    <div class="max-w-4xl mx-auto space-y-6">
+        <header class="flex justify-between items-center border-b border-slate-800 pb-4">
+            <h1 class="text-xl font-bold bg-gradient-to-r from-blue-400 to-emerald-400 bg-clip-text text-transparent">
+                Coffee & Breakfast Control
             </h1>
-            <div id="relogio" class="text-slate-400 font-mono text-lg"></div>
+            <div id="relogio" class="font-mono text-slate-400 text-sm"></div>
         </header>
 
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-            
-            <div class="md:col-span-2 space-y-6">
-                <div class="bg-slate-800 rounded-2xl p-6 shadow-xl border border-slate-700">
-                    <h2 class="text-xl font-semibold mb-4 flex items-center gap-2">
-                        <span class="text-2xl">💬</span> Mural do Grupo
-                    </h2>
-                    <div id="mural" class="h-80 overflow-y-auto mb-4 space-y-3 pr-2">
-                        </div>
-                    <div class="flex gap-2">
-                        <input id="inputMsg" type="text" placeholder="Escreve um aviso..." 
-                            class="flex-1 bg-slate-900 border border-slate-700 rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500">
-                        <button onclick="enviarMensagem()"
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div class="bg-slate-800 rounded-2xl p-6 shadow-xl border border-slate-700">
+                <h2 class="text-lg font-bold mb-4 flex items-center gap-2">
+                    <span class="text-blue-400">💬</span> Mural de Avisos
+                </h2>
+                <div id="mural" class="h-80 overflow-y-auto mb-4 space-y-3 p-3 bg-slate-950 rounded-lg border border-slate-800 shadow-inner">
+                    </div>
+                <div class="flex gap-2">
+                    <input id="inputMsg" type="text" placeholder="Escreve uma mensagem..." 
+                        class="flex-1 bg-slate-800 border border-slate-700 rounded-lg px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all">
+                    <button onclick="enviarMensagem()" 
+                        class="bg-blue-600 hover:bg-blue-500 text-white px-5 py-2 rounded-lg font-bold text-sm transition-transform active:scale-95">
+                        Enviar
+                    </button>
+                </div>
+            </div>
+
+            <div class="space-y-6">
+                <div class="bg-gradient-to-br from-blue-600/20 to-blue-800/20 rounded-2xl p-6 border border-blue-500/30">
+                    <h3 class="text-xs font-bold uppercase tracking-widest text-blue-400 mb-3">Meteorologia</h3>
+                    <div id="weather-ui">
+                        <p id="temp" class="text-4xl font-bold">--°C</p>
+                        <p id="wind" class="text-sm text-slate-400 mt-1 italic text-xs">A aguardar dados...</p>
+                    </div>
+                </div>
+                
+                <div class="bg-slate-800/50 rounded-2xl p-6 border border-slate-700">
+                    <h3 class="text-xs font-bold uppercase tracking-widest text-emerald-400 mb-4 flex items-center gap-2">
+                        <span>📰</span> Principais Notícias
+                    </h3>
+                    <ul id="news-list" class="text-sm space-y-3">
+                        <li class="text-slate-500 text-xs italic">A carregar data.json...</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // --- CONFIGURAÇÃO SUPABASE ---
+        // URL extraída do teu token (nmexasadcnjavihadoujy)
+        const S_URL = 'https://nmexasadcnjavihadoujy.supabase.co'; 
+        const S_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5tZXhhc2FkbmNqYXZpaGFvdWp5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE1OTQ1OTQsImV4cCI6MjA4NzE3MDU5NH0.XviHaQd4jtItUgKqDRBJDJmbj2Mu8PiWH6X3xjUzSv0';
+
+        // Inicializamos como 'supabaseClient' para evitar o erro de Syntax
+        const supabaseClient = supabase.createClient(S_URL, S_KEY);
+
+        // --- LÓGICA DO MURAL ---
+
+        async function carregarMensagens() {
+            try {
+                const { data, error } = await supabaseClient
+                    .from('mensagens')
+                    .select('*')
+                    .order('created_at', { ascending: true });
+
+                if (error) throw error;
+                
+                const mural = document.getElementById('mural');
+                mural.innerHTML = ''; // Limpa antes de carregar
+                if (data) data.forEach(msg => adicionarNoEcra(msg));
+            } catch (err) {
+                console.error("Erro ao carregar mensagens:", err.message);
+                document.getElementById('mural').innerHTML = `<p class="text-red-400 text-xs p-2">Erro: ${err.message}. Verifica se a tabela 'mensagens' existe no Supabase.</p>`;
+            }
+        }
+
+        async function enviarMensagem() {
+            const input = document.getElementById('inputMsg');
+            const texto = input.value.trim();
+            if (!texto) return;
+
+            const { error } = await supabaseClient
+                .from('mensagens')
+                .insert([{ conteudo: texto, autor: 'Grupo' }]);
+
+            if (error) {
+                console.error("Erro ao enviar:", error.message);
+                alert("Erro ao enviar: " + error.message);
+            }
+            input.value = '';
+        }
+
+        // Tempo Real
+        supabaseClient.channel('mural-live')
+            .on('postgres_changes', { event: 'INSERT', schema: 'public', table: 'mensagens' }, payload => {
+                adicionarNoEcra(payload.new);
+            })
+            .subscribe();
+
+        function adicionarNoEcra(msg) {
+            const mural = document.getElementById('mural');
+            const div = document.createElement('div');
+            div.className = "bg-slate-900 p-3 rounded-lg border-l-4 border-blue-500 shadow-sm animate-in fade-in duration-500";
+            div.innerHTML = `<p class="text-[10px] text-blue-400 font-bold uppercase mb-1">${msg.autor}</p>
+                              <p class="text-sm text-slate-200">${msg.conteudo}</p>`;
+            mural.appendChild(div);
+            mural.scrollTop = mural.scrollHeight;
+        }
+
+        // --- RELÓGIO ---
+        function updateClock() {
+            document.getElementById('relogio').innerText = new Date().toLocaleTimeString('pt-PT', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
+        }
+        setInterval(updateClock, 1000);
+        updateClock();
+
+        // --- DADOS GITHUB ACTIONS ---
+        async function fetchGithubData() {
+            try {
+                const res = await fetch('data.json');
+                const data = await res.json();
+                document.getElementById('temp').innerText = `${data.weather.temperature}°C`;
+                document.getElementById('wind').innerText = `Vento: ${data.weather.windspeed} km/h`;
+                
+                const newsHtml = data.news.map(n => `
+                    <li class="border-b border-slate-700 pb-2 last:border-0">
+                        <a href="${n.url}" target="_blank" class="hover:text-blue-400 transition-colors">• ${n.title}</a>
+                    </li>
+                `).join('');
+                document.getElementById('news-list').innerHTML = newsHtml;
+            } catch (e) {
+                console.log("data.json ainda não disponível.");
+            }
+        }
+
+        // Início
+        carregarMensagens();
+        fetchGithubData();
+    </script>
+</body>
+</html>
