@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Dashboard Pessoal</title>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-900 text-white p-5">
+
+    <div class="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
+        
+        <div class="bg-slate-800 p-6 rounded-xl shadow-lg border border-slate-700">
+            <h2 class="text-xl font-bold mb-4 flex items-center">💬 Mural do Grupo</h2>
+            <div id="mural" class="h-64 overflow-y-auto mb-4 p-2 bg-slate-950 rounded border border-slate-800 text-sm space-y-2">
+                </div>
+            <div class="flex gap-2">
+                <input id="inputMsg" type="text" placeholder="Escreve algo..." class="flex-1 p-2 rounded bg-slate-700 border-none outline-none focus:ring-2 ring-blue-500 text-white">
+                <button onclick="enviarMensagem()" class="bg-blue-600 px-4 py-2 rounded font-bold hover:bg-blue-500 transition">Enviar</button>
+            </div>
+        </div>
+
+        <div class="bg-slate-800 p-6 rounded-xl shadow-lg border border-slate-700">
+            <h2 class="text-xl font-bold mb-4">🌤️ Info & Notícias</h2>
+            <div id="info-content" class="text-slate-400">
+                A carregar dados automáticos...
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        // CONFIGURAÇÃO SUPABASE (Substitui pelos teus dados do Settings > API)
+        const SUPABASE_URL = 'https://nmexasadncjavihaoujy.supabase.co';
+        const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5tZXhhc2FkbmNqYXZpaGFvdWp5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE1OTQ1OTQsImV4cCI6MjA4NzE3MDU5NH0.XviHaQd4jtItUgKqDRBJDJmbj2Mu8PiWH6X3xjUzSv0';
+        const supabase = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+
+        // 1. Carregar mensagens antigas
+        async function carregarMensagens() {
+            const { data } = await supabase.from('mensagens').select('*').order('created_at', { ascending: true });
+            data.forEach(msg => adicionarNoEcra(msg));
+        }
+
+        // 2. Ouvir novas mensagens em TEMPO REAL
+        supabase.channel('custom-all-channel')
+        .on('postgres_changes', { event: 'INSERT', schema: 'public', table: 'mensagens' }, payload => {
+            adicionarNoEcra(payload.new);
+        }).subscribe();
+
+        // 3. Enviar nova mensagem
+        async function enviarMensagem() {
+            const input = document.getElementById('inputMsg');
+            if (!input.value) return;
+            
+            await supabase.from('mensagens').insert([{ conteudo: input.value, autor: 'User' }]);
+            input.value = '';
+        }
+
+        function adicionarNoEcra(msg) {
+            const mural = document.getElementById('mural');
+            const div = document.createElement('div');
+            div.className = "bg-slate-800 p-2 rounded shadow-sm border-l-4 border-blue-500";
+            div.innerHTML = `<span class="font-bold text-blue-400">${msg.autor}:</span> ${msg.conteudo}`;
+            mural.appendChild(div);
+            mural.scrollTop = mural.scrollHeight;
+        }
+
+        carregarMensagens();
+    </script>
+</body>
+</html>
