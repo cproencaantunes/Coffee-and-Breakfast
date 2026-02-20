@@ -1,0 +1,17 @@
+{
+    "weather": {
+        "time": "2026-02-20T19:30",
+        "interval": 900,
+        "temperature": 12.6,
+        "windspeed": 9.1,
+        "winddirection": 351,
+        "is_day": 0,
+        "weathercode": 0
+    },
+    "news": [
+        {
+            "title": "Ligar robô às notícias...",
+            "url": "#"
+        }
+    ]
+}
