@@ -1,12 +1,7 @@
 {
     "weather": {
-        "time": "2026-02-21T04:45",
-        "interval": 900,
-        "temperature": 9.0,
-        "windspeed": 4.7,
-        "winddirection": 360,
-        "is_day": 0,
-        "weathercode": 0
+        "temperature": "--",
+        "windspeed": "--"
     },
     "news": [
         {
