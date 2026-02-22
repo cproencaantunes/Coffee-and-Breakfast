@@ -1,11 +1,11 @@
 {
     "weather": {
-        "time": "2026-02-22T05:00",
+        "time": "2026-02-22T07:45",
         "interval": 900,
-        "temperature": 12.2,
-        "windspeed": 4.4,
-        "winddirection": 9,
-        "is_day": 0,
+        "temperature": 11.7,
+        "windspeed": 4.5,
+        "winddirection": 14,
+        "is_day": 1,
         "weathercode": 1
     },
     "news": [
