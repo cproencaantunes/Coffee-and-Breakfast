@@ -9,6 +9,28 @@
         "max": 19.2,
         "min": 12.8
     },
-    "news": [],
-    "finance": []
+    "news": [
+        {
+            "title": "UEFA arquiva queixa do Benfica sobre eventual agressão de Valverde a Dahl",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/desporto/noticia/uefa-arquiva-queixa-benfica-eventual-agressao-valverde-dahl-2165776"
+        },
+        {
+            "title": "Montenegro vai a Queluz apresentar PTRR a Seguro nesta terça-feira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/politica/noticia/montenegro-vai-queluz-apresentar-ptrr-seguro-tercafeira-2165773"
+        },
+        {
+            "title": "ChatGPT usado para planear homicídios em série na Coreia do Sul",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/enter/noticia/chatgpt-usado-planear-homicidios-serie-coreia-sul-2165752"
+        },
+        {
+            "title": "BioNTech processa Moderna por infracção de patentes relativas a vacinas contra a covid",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/ciencia/noticia/biontech-processa-moderna-infraccao-patentes-relativas-vacinas-covid-2165469"
+        },
+        {
+            "title": "Ao quarto ano, a Ucrânia resiste aos ataques russos e à pressão de Trump",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/mundo/noticia/quarto-ano-ucrania-resiste-ataques-russos-pressao-trump-2165713"
+        }
+    ],
+    "finance": [],
+    "last_update": "23/02/2026 20:06"
 }
