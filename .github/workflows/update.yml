@@ -24,7 +24,6 @@ jobs:
         run: |
           python - <<EOF
           import requests
-          from bs4 import BeautifulSoup
           import json
 
           # 1. Clima
