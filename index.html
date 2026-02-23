@@ -8,75 +8,90 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="icon" href="data:,">
     <style>
-        ::-webkit-scrollbar { width: 6px; }
-        ::-webkit-scrollbar-track { background: #1e293b; }
-        ::-webkit-scrollbar-thumb { background: #475569; border-radius: 10px; }
+        ::-webkit-scrollbar { width: 5px; }
+        ::-webkit-scrollbar-track { background: #0f172a; }
+        ::-webkit-scrollbar-thumb { background: #334155; border-radius: 10px; }
+        .glass { background: rgba(30, 41, 59, 0.7); backdrop-filter: blur(10px); }
     </style>
 </head>
-<body class="bg-slate-900 text-slate-100 min-h-screen p-4 md:p-8">
+<body class="bg-slate-950 text-slate-100 min-h-screen p-4 md:p-8 font-sans">
 
-    <div class="max-w-5xl mx-auto space-y-6">
-        <header class="flex justify-between items-center border-b border-slate-800 pb-4">
+    <div class="max-w-6xl mx-auto space-y-6">
+        <header class="flex justify-between items-end border-b border-slate-800 pb-6">
             <div>
-                <h1 class="text-2xl font-bold bg-gradient-to-r from-blue-400 to-emerald-400 bg-clip-text text-transparent">
-                    Coffee & Breakfast Control
+                <h1 class="text-3xl font-black tracking-tighter bg-gradient-to-r from-blue-400 via-emerald-400 to-amber-400 bg-clip-text text-transparent">
+                    COFFEE & BREAKFAST
                 </h1>
-                <p class="text-xs text-slate-500 font-mono uppercase tracking-tighter">Automated Dashboard v2.0</p>
+                <p id="last-update" class="text-[10px] text-slate-500 font-mono mt-1 uppercase italic">Sincronizando...</p>
             </div>
-            <div id="relogio" class="font-mono text-xl text-blue-400 bg-slate-800 px-4 py-1 rounded-lg border border-slate-700 shadow-lg"></div>
+            <div id="relogio" class="font-mono text-2xl text-blue-500 font-bold bg-slate-900/50 px-4 py-1 rounded-lg border border-slate-800"></div>
         </header>
 
-        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-6">
             
-            <div class="lg:col-span-2 bg-slate-800 rounded-2xl p-6 shadow-xl border border-slate-700 flex flex-col h-[600px]">
-                <h2 class="text-lg font-bold mb-4 flex items-center gap-2">
-                    <span class="text-blue-400">💬</span> Mural de Avisos
-                </h2>
-                
-                <div id="mural" class="flex-1 overflow-y-auto mb-4 space-y-3 p-4 bg-slate-950 rounded-xl border border-slate-800 shadow-inner">
-                    <p class="text-slate-600 text-center text-sm animate-pulse">A ligar ao servidor...</p>
-                </div>
-
-                <div class="flex gap-2 bg-slate-900 p-2 rounded-xl border border-slate-700">
-                    <input id="inputMsg" type="text" placeholder="Escreve uma nota para o grupo..." 
-                        class="flex-1 bg-transparent border-none px-4 py-2 text-sm focus:outline-none text-white">
-                    <button onclick="enviarMensagem()" 
-                        class="bg-blue-600 hover:bg-blue-500 text-white px-6 py-2 rounded-lg font-bold text-sm transition-all active:scale-95 shadow-lg shadow-blue-900/20">
-                        Enviar
-                    </button>
+            <div class="lg:col-span-7 space-y-6">
+                <div class="bg-slate-900 rounded-3xl p-6 border border-slate-800 shadow-2xl flex flex-col h-[600px]">
+                    <h2 class="text-lg font-bold mb-4 flex items-center gap-2">
+                        <span class="text-blue-500 text-xl">💬</span> Mural de Avisos
+                    </h2>
+                    <div id="mural" class="flex-1 overflow-y-auto mb-4 space-y-4 p-4 bg-slate-950/50 rounded-2xl border border-slate-900 shadow-inner">
+                        </div>
+                    <div class="flex gap-2 p-1 bg-slate-950 rounded-2xl border border-slate-800">
+                        <input id="inputMsg" type="text" placeholder="Escreve aqui..." 
+                            class="flex-1 bg-transparent border-none px-4 py-3 text-sm focus:outline-none text-white">
+                        <button onclick="enviarMensagem()" 
+                            class="bg-blue-600 hover:bg-blue-500 text-white px-8 py-3 rounded-xl font-bold text-sm transition-all active:scale-95 shadow-lg shadow-blue-900/40">
+                            Enviar
+                        </button>
+                    </div>
                 </div>
             </div>
 
-            <div class="space-y-6">
+            <div class="lg:col-span-5 space-y-6">
                 
-                <div class="bg-gradient-to-br from-blue-600/20 to-indigo-900/20 rounded-2xl p-6 border border-blue-500/30 shadow-lg">
-                    <h3 class="text-xs font-bold uppercase tracking-widest text-blue-400 mb-3 flex justify-between">
-                        Meteorologia <span>Lisboa</span>
-                    </h3>
-                    <div id="weather-ui" class="flex items-center justify-between">
+                <div class="bg-gradient-to-br from-blue-600/10 to-transparent rounded-3xl p-6 border border-blue-500/20">
+                    <div class="flex justify-between items-start mb-6">
                         <div>
-                            <p id="temp" class="text-5xl font-black text-white">--°C</p>
-                            <p id="wind" class="text-xs text-blue-300 mt-1 font-mono uppercase">A carregar...</p>
+                            <p class="text-[10px] font-bold text-blue-400 uppercase tracking-widest mb-1">Lisboa, Portugal</p>
+                            <h3 id="temp" class="text-6xl font-black text-white">--°C</h3>
                         </div>
-                        <div class="text-4xl text-blue-400">☁️</div>
+                        <div class="text-right">
+                            <span class="text-4xl">☀️</span>
+                            <p id="forecast-amanha" class="text-[10px] text-slate-400 mt-2 font-mono italic">--</p>
+                        </div>
+                    </div>
+
+                    <div class="grid grid-cols-3 gap-4 border-t border-blue-500/10 pt-6">
+                        <div class="text-center">
+                            <p class="text-[9px] uppercase text-slate-500 font-bold mb-1">Manhã</p>
+                            <p id="temp-manha" class="text-lg font-bold text-blue-200">--°</p>
+                        </div>
+                        <div class="text-center bg-blue-500/5 rounded-xl py-2">
+                            <p class="text-[9px] uppercase text-slate-500 font-bold mb-1">Tarde</p>
+                            <p id="temp-tarde" class="text-lg font-bold text-blue-400">--°</p>
+                        </div>
+                        <div class="text-center">
+                            <p class="text-[9px] uppercase text-slate-500 font-bold mb-1">Noite</p>
+                            <p id="temp-noite" class="text-lg font-bold text-indigo-300">--°</p>
+                        </div>
                     </div>
                 </div>
-                
-                <div class="bg-slate-800/50 rounded-2xl p-6 border border-slate-700 shadow-md">
-                    <h3 class="text-xs font-bold uppercase tracking-widest text-emerald-400 mb-4 flex items-center gap-2">
-                        <span class="bg-emerald-400/10 p-1 rounded">📰</span> Últimas Notícias
+
+                <div class="bg-slate-900 rounded-3xl p-6 border border-slate-800">
+                    <h3 class="text-[10px] font-bold uppercase tracking-widest text-emerald-500 mb-4 flex items-center gap-2">
+                        <span class="w-2 h-2 bg-emerald-500 rounded-full animate-pulse"></span> Últimas Notícias
                     </h3>
-                    <ul id="news-list" class="text-sm space-y-3">
-                        <li class="text-slate-500 text-xs italic">A sincronizar com Público.pt...</li>
+                    <ul id="news-list" class="text-sm space-y-4">
+                        <li class="text-slate-600 text-xs italic">Sincronizando com Público...</li>
                     </ul>
                 </div>
 
-                <div class="bg-slate-800/50 rounded-2xl p-6 border border-amber-500/20 shadow-md">
-                    <h3 class="text-xs font-bold uppercase tracking-widest text-amber-400 mb-4 flex items-center gap-2">
-                        <span class="bg-amber-400/10 p-1 rounded">📈</span> Mercado Financeiro
+                <div class="bg-slate-900 rounded-3xl p-6 border border-slate-800">
+                    <h3 class="text-[10px] font-bold uppercase tracking-widest text-amber-500 mb-4 flex items-center gap-2">
+                        <span class="w-2 h-2 bg-amber-500 rounded-full animate-pulse"></span> Mercado (TipRanks)
                     </h3>
-                    <ul id="finance-list" class="text-sm space-y-3">
-                        <li class="text-slate-500 text-xs italic">A carregar TipRanks...</li>
+                    <ul id="finance-list" class="text-sm space-y-4">
+                        <li class="text-slate-600 text-xs italic">A carregar tendências...</li>
                     </ul>
                 </div>
 
@@ -85,129 +100,90 @@
     </div>
 
     <script>
-        // --- 1. CONFIGURAÇÃO SUPABASE ---
+        // --- CONFIGURAÇÃO SUPABASE ---
         const S_URL = 'https://nmexasadncjavihaoujy.supabase.co'; 
         const S_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5tZXhhc2FkbmNqYXZpaGFvdWp5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE1OTQ1OTQsImV4cCI6MjA4NzE3MDU5NH0.XviHaQd4jtItUgKqDRBJDJmbj2Mu8PiWH6X3xjUzSv0';
-
         const supabaseClient = supabase.createClient(S_URL, S_KEY);
 
-        // --- 2. LÓGICA DO MURAL (REALTIME) ---
+        // --- MURAL ---
         async function carregarMensagens() {
-            try {
-                const { data, error } = await supabaseClient
-                    .from('mensagens')
-                    .select('*')
-                    .order('created_at', { ascending: true });
-
-                if (error) throw error;
-                const mural = document.getElementById('mural');
-                mural.innerHTML = ''; 
-                if (data && data.length > 0) {
-                    data.forEach(msg => adicionarNoEcra(msg));
-                } else {
-                    mural.innerHTML = '<p class="text-slate-600 text-center text-xs mt-10">Nenhuma mensagem hoje.</p>';
-                }
-            } catch (err) {
-                console.error("Erro Supabase:", err.message);
-            }
+            const { data } = await supabaseClient.from('mensagens').select('*').order('created_at', { ascending: true });
+            const mural = document.getElementById('mural');
+            mural.innerHTML = '';
+            if (data) data.forEach(msg => adicionarNoEcra(msg));
         }
 
         async function enviarMensagem() {
             const input = document.getElementById('inputMsg');
             const texto = input.value.trim();
             if (!texto) return;
-
-            const { error } = await supabaseClient
-                .from('mensagens')
-                .insert([{ conteudo: texto, autor: 'Grupo' }]);
-
-            if (error) alert("Erro ao enviar: " + error.message);
+            await supabaseClient.from('mensagens').insert([{ conteudo: texto, autor: 'Grupo' }]);
             input.value = '';
         }
 
-        // Escutar mensagens novas em tempo real
-        supabaseClient.channel('mural-live')
-            .on('postgres_changes', { event: 'INSERT', schema: 'public', table: 'mensagens' }, payload => {
-                adicionarNoEcra(payload.new);
-            })
-            .subscribe();
+        supabaseClient.channel('mural-live').on('postgres_changes', { event: 'INSERT', schema: 'public', table: 'mensagens' }, p => adicionarNoEcra(p.new)).subscribe();
 
         function adicionarNoEcra(msg) {
             const mural = document.getElementById('mural');
-            // Remove a mensagem de "vazio" se ela existir
-            if (mural.querySelector('.text-slate-600')) mural.innerHTML = '';
-
             const div = document.createElement('div');
-            div.className = "bg-slate-900 p-3 rounded-lg border-l-4 border-blue-500 shadow-sm transition-all hover:bg-slate-800";
+            div.className = "bg-slate-900/80 p-4 rounded-2xl border border-slate-800 shadow-sm animate-in fade-in slide-in-from-bottom-2 duration-500";
             div.innerHTML = `
                 <div class="flex justify-between items-center mb-1">
-                    <span class="text-[10px] text-blue-400 font-black uppercase tracking-tighter">${msg.autor}</span>
-                    <span class="text-[9px] text-slate-600">${new Date(msg.created_at).toLocaleTimeString('pt-PT', {hour:'2-digit', minute:'2-digit'})}</span>
+                    <span class="text-[9px] text-blue-500 font-black uppercase tracking-widest">${msg.autor}</span>
+                    <span class="text-[8px] text-slate-600">${new Date(msg.created_at).toLocaleTimeString('pt-PT', {hour:'2-digit', minute:'2-digit'})}</span>
                 </div>
-                <p class="text-sm text-slate-200">${msg.conteudo}</p>`;
+                <p class="text-sm text-slate-200 leading-relaxed">${msg.conteudo}</p>`;
             mural.appendChild(div);
             mural.scrollTop = mural.scrollHeight;
         }
 
-        // --- 3. RELÓGIO ---
+        // --- RELÓGIO ---
         function updateClock() {
             document.getElementById('relogio').innerText = new Date().toLocaleTimeString('pt-PT', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
         }
         setInterval(updateClock, 1000);
-        updateClock();
 
-        // --- 4. DADOS AUTOMATIZADOS (GITHUB ACTIONS JSON) ---
+        // --- FETCH DATA (GITHUB) ---
         async function fetchGithubData() {
             try {
-                // O cache-buster (?v=...) garante que o browser lê a versão mais recente do JSON
-                const res = await fetch('data.json?v=' + Math.random());
-                if (!res.ok) throw new Error("JSON não encontrado");
+                const res = await fetch('data.json?v=' + Date.now());
                 const data = await res.json();
                 
                 // Clima
                 if (data.weather) {
-                    document.getElementById('temp').innerText = `${Math.round(data.weather.temperature)}°C`;
-                    document.getElementById('wind').innerText = `Vento: ${data.weather.windspeed} km/h`;
+                    document.getElementById('temp').innerText = `${Math.round(data.weather.atual)}°C`;
+                    document.getElementById('temp-manha').innerText = `${Math.round(data.weather.manha)}°`;
+                    document.getElementById('temp-tarde').innerText = `${Math.round(data.weather.tarde)}°`;
+                    document.getElementById('temp-noite').innerText = `${Math.round(data.weather.noite)}°`;
                 }
-                
-                // Notícias Público
-                if (data.news) {
-                    const newsHtml = data.news.map(n => `
-                        <li class="border-b border-slate-700/50 pb-2 last:border-0">
-                            <a href="${n.url}" target="_blank" class="hover:text-emerald-400 transition-colors flex gap-2">
-                                <span class="text-emerald-600">•</span> ${n.title}
-                            </a>
-                        </li>
-                    `).join('');
-                    document.getElementById('news-list').innerHTML = newsHtml;
+                if (data.forecast) {
+                    document.getElementById('forecast-amanha').innerText = `Amanhã: ${Math.round(data.forecast.min)}° - ${Math.round(data.forecast.max)}°`;
                 }
 
-                // TipRanks (Finance)
-                if (data.finance) {
-                    const financeHtml = data.finance.map(f => `
-                        <li class="border-b border-slate-700/50 pb-2 last:border-0">
-                            <a href="${f.url}" target="_blank" class="hover:text-amber-400 transition-colors flex gap-2">
-                                <span class="text-amber-600">»</span> ${f.title}
-                            </a>
-                        </li>
-                    `).join('');
-                    document.getElementById('finance-list').innerHTML = financeHtml;
+                // Notícias
+                if (data.news) {
+                    document.getElementById('news-list').innerHTML = data.news.map(n => `
+                        <li><a href="${n.url}" target="_blank" class="text-slate-300 hover:text-emerald-400 block transition-all">
+                            <span class="text-emerald-500 font-bold">●</span> ${n.title}
+                        </a></li>`).join('');
                 }
-            } catch (e) {
-                console.warn("A carregar dados do GitHub Actions...");
-            }
+
+                // Mercado
+                if (data.finance) {
+                    document.getElementById('finance-list').innerHTML = data.finance.map(f => `
+                        <li><a href="${f.url}" target="_blank" class="text-slate-300 hover:text-amber-400 block transition-all">
+                            <span class="text-amber-500 font-bold">»</span> ${f.title}
+                        </a></li>`).join('');
+                }
+
+                if (data.last_update) document.getElementById('last-update').innerText = `Atualizado em: ${data.last_update}`;
+
+            } catch (e) { console.warn("Sincronizando..."); }
         }
 
-        // Inicialização
         carregarMensagens();
         fetchGithubData();
-        // Atualiza os dados a cada 2 minutos para manter o dashboard fresco
-        setInterval(fetchGithubData, 120000);
-
-        // Atalho de teclado: Enviar com Enter
-        document.getElementById('inputMsg').addEventListener('keypress', function (e) {
-            if (e.key === 'Enter') enviarMensagem();
-        });
+        setInterval(fetchGithubData, 60000);
     </script>
 </body>
 </html>
