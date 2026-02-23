@@ -2,8 +2,11 @@ name: Update Data
 
 on:
   schedule:
-    - cron: '0 * * * *' # Corre de hora a hora
-  workflow_dispatch: # Permite correr manualmente
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -25,38 +28,29 @@ jobs:
           python - <<EOF
           import requests
           import json
-
-          # 1. Clima
-          w = requests.get("https://api.open-meteo.com/v1/forecast?latitude=38.71&longitude=-9.13&current_weather=true").json()
-
-          # 2. Notícias Público
-          p_req = requests.get("https://www.publico.pt/api/list/ultimas")
-          noticias_p = []
-          if p_req.status_code == 200:
-              noticias_p = [{"title": n['titulo'], "url": n['share_url']} for n in p_req.json()[:5]]
-
-          # 3. Notícias TipRanks (Finance)
-          headers = {'User-Agent': 'Mozilla/5.0'}
-          tr_req = requests.get("https://www.tipranks.com/api/news/posts?limit=5", headers=headers)
-          noticias_tr = []
-          if tr_req.status_code == 200:
-              tr_data = tr_req.json()
-              noticias_tr = [{"title": n['title'], "url": f"https://www.tipranks.com/news/{n['slug']}"} for n in tr_data['posts']]
-
-          # Guardar tudo no data.json
-          result = {
-              "weather": w['current_weather'],
-              "news": noticias_p,
-              "finance": noticias_tr
-          }
-          with open("data.json", "w") as f:
-              json.dump(result, f, indent=4)
+          try:
+              # 1. Clima
+              w = requests.get("https://api.open-meteo.com/v1/forecast?latitude=38.71&longitude=-9.13&current_weather=true").json()
+              # 2. Notícias Público
+              p_req = requests.get("https://www.publico.pt/api/list/ultimas")
+              noticias_p = [{"title": n['titulo'], "url": n['share_url']} for n in p_req.json()[:5]] if p_req.status_code == 200 else []
+              # 3. TipRanks
+              headers = {'User-Agent': 'Mozilla/5.0'}
+              tr_req = requests.get("https://www.tipranks.com/api/news/posts?limit=5", headers=headers)
+              noticias_tr = [{"title": n['title'], "url": f"https://www.tipranks.com/news/{n['slug']}"} for n in tr_req.json()['posts']] if tr_req.status_code == 200 else []
+              
+              result = {"weather": w['current_weather'], "news": noticias_p, "finance": noticias_tr}
+              with open("data.json", "w", encoding='utf-8') as f:
+                  json.dump(result, f, indent=4, ensure_ascii=False)
+          except Exception as e:
+              print(f"Erro: {e}")
+              exit(1)
           EOF
 
       - name: Commit and Push
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json
-          git commit -m "Update data.json with TipRanks" || exit 0
+          git commit -m "Update data.json" || exit 0
           git push
