@@ -24,7 +24,7 @@
                     <span class="text-blue-400">💬</span> Mural de Avisos
                 </h2>
                 <div id="mural" class="h-80 overflow-y-auto mb-4 space-y-3 p-3 bg-slate-950 rounded-lg border border-slate-800 shadow-inner">
-                    </div>
+                </div>
                 <div class="flex gap-2">
                     <input id="inputMsg" type="text" placeholder="Escreve uma mensagem..." 
                         class="flex-1 bg-slate-800 border border-slate-700 rounded-lg px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all">
@@ -49,7 +49,16 @@
                         <span>📰</span> Principais Notícias
                     </h3>
                     <ul id="news-list" class="text-sm space-y-3">
-                        <li class="text-slate-500 text-xs italic">A carregar data.json...</li>
+                        <li class="text-slate-500 text-xs italic">A carregar notícias...</li>
+                    </ul>
+                </div>
+
+                <div class="bg-slate-800/50 rounded-2xl p-6 border border-amber-500/30">
+                    <h3 class="text-xs font-bold uppercase tracking-widest text-amber-400 mb-4 flex items-center gap-2">
+                        <span>📈</span> Mercado (TipRanks)
+                    </h3>
+                    <ul id="finance-list" class="text-sm space-y-3">
+                        <li class="text-slate-500 text-xs italic">A carregar mercados...</li>
                     </ul>
                 </div>
             </div>
@@ -57,24 +66,13 @@
     </div>
 
     <script>
-        <div class="bg-slate-800/50 rounded-2xl p-6 border border-amber-500/30">
-    <h3 class="text-xs font-bold uppercase tracking-widest text-amber-400 mb-4 flex items-center gap-2">
-        <span>📈</span> Mercado (TipRanks)
-    </h3>
-    <ul id="finance-list" class="text-sm space-y-3">
-        <li class="text-slate-500 text-xs italic">A carregar mercados...</li>
-    </ul>
-</div>
         // --- CONFIGURAÇÃO SUPABASE ---
-        // URL extraída do teu token (nmexasadcnjavihadoujy)
         const S_URL = 'https://nmexasadncjavihaoujy.supabase.co'; 
-const S_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5tZXhhc2FkbmNqYXZpaGFvdWp5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE1OTQ1OTQsImV4cCI6MjA4NzE3MDU5NH0.XviHaQd4jtItUgKqDRBJDJmbj2Mu8PiWH6X3xjUzSv0';
+        const S_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5tZXhhc2FkbmNqYXZpaGFvdWp5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE1OTQ1OTQsImV4cCI6MjA4NzE3MDU5NH0.XviHaQd4jtItUgKqDRBJDJmbj2Mu8PiWH6X3xjUzSv0';
 
-        // Inicializamos como 'supabaseClient' para evitar o erro de Syntax
         const supabaseClient = supabase.createClient(S_URL, S_KEY);
 
         // --- LÓGICA DO MURAL ---
-
         async function carregarMensagens() {
             try {
                 const { data, error } = await supabaseClient
@@ -85,11 +83,10 @@ const S_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJl
                 if (error) throw error;
                 
                 const mural = document.getElementById('mural');
-                mural.innerHTML = ''; // Limpa antes de carregar
+                mural.innerHTML = ''; 
                 if (data) data.forEach(msg => adicionarNoEcra(msg));
             } catch (err) {
                 console.error("Erro ao carregar mensagens:", err.message);
-                document.getElementById('mural').innerHTML = `<p class="text-red-400 text-xs p-2">Erro: ${err.message}. Verifica se a tabela 'mensagens' existe no Supabase.</p>`;
             }
         }
 
@@ -102,14 +99,10 @@ const S_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJl
                 .from('mensagens')
                 .insert([{ conteudo: texto, autor: 'Grupo' }]);
 
-            if (error) {
-                console.error("Erro ao enviar:", error.message);
-                alert("Erro ao enviar: " + error.message);
-            }
+            if (error) alert("Erro ao enviar: " + error.message);
             input.value = '';
         }
 
-        // Tempo Real
         supabaseClient.channel('mural-live')
             .on('postgres_changes', { event: 'INSERT', schema: 'public', table: 'mensagens' }, payload => {
                 adicionarNoEcra(payload.new);
@@ -119,7 +112,7 @@ const S_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJl
         function adicionarNoEcra(msg) {
             const mural = document.getElementById('mural');
             const div = document.createElement('div');
-            div.className = "bg-slate-900 p-3 rounded-lg border-l-4 border-blue-500 shadow-sm animate-in fade-in duration-500";
+            div.className = "bg-slate-900 p-3 rounded-lg border-l-4 border-blue-500 shadow-sm";
             div.innerHTML = `<p class="text-[10px] text-blue-400 font-bold uppercase mb-1">${msg.autor}</p>
                               <p class="text-sm text-slate-200">${msg.conteudo}</p>`;
             mural.appendChild(div);
@@ -133,28 +126,25 @@ const S_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJl
         setInterval(updateClock, 1000);
         updateClock();
 
-        // --- DADOS GITHUB ACTIONS ---
+        // --- DADOS GITHUB ACTIONS (JSON) ---
         async function fetchGithubData() {
             try {
                 const res = await fetch('data.json');
                 const data = await res.json();
+                
+                // Atualiza Clima
                 document.getElementById('temp').innerText = `${data.weather.temperature}°C`;
                 document.getElementById('wind').innerText = `Vento: ${data.weather.windspeed} km/h`;
                 
+                // Atualiza Notícias Público
                 const newsHtml = data.news.map(n => `
                     <li class="border-b border-slate-700 pb-2 last:border-0">
-                        <a href="${n.url}" target="_blank" class="hover:text-blue-400 transition-colors">• ${n.title}</a>
+                        <a href="${n.url}" target="_blank" class="hover:text-emerald-400 transition-colors">• ${n.title}</a>
                     </li>
                 `).join('');
                 document.getElementById('news-list').innerHTML = newsHtml;
-            } catch (e) {
-                console.log("data.json ainda não disponível.");
-            }
-        }
 
-        // Início
-        carregarMensagens();
-        fetchGithubData();
-    </script>
-</body>
-</html>
+                // Atualiza TipRanks (Finance)
+                if (data.finance) {
+                    const financeHtml = data.finance.map(f => `
+                        <li class="border
