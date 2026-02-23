@@ -40,3 +40,9 @@ with open('data.json', 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, indent=4)
 
 print("Sucesso: data.json foi atualizado!")
+const financeHtml = data.finance.map(f => `
+    <li class="border-b border-slate-700 pb-2 last:border-0">
+        <a href="${f.url}" target="_blank" class="hover:text-amber-400 transition-colors">• ${f.title}</a>
+    </li>
+`).join('');
+document.getElementById('finance-list').innerHTML = financeHtml;
