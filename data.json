@@ -1,17 +1,13 @@
 {
     "weather": {
-        "time": "2026-02-23T14:30",
+        "time": "2026-02-23T18:30",
         "interval": 900,
-        "temperature": 20.4,
-        "windspeed": 9.1,
-        "winddirection": 198,
-        "is_day": 1,
+        "temperature": 16.6,
+        "windspeed": 8.7,
+        "winddirection": 222,
+        "is_day": 0,
         "weathercode": 3
     },
-    "news": [
-        {
-            "title": "Ligar robô às notícias...",
-            "url": "#"
-        }
-    ]
+    "news": [],
+    "finance": []
 }
