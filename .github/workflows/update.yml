@@ -28,15 +28,25 @@ jobs:
           python - <<EOF
           import requests
           import json
+          from datetime import datetime
 
+          # 1. Estrutura Inicial
           data = {
               "weather": {"atual": 0, "manha": 0, "tarde": 0, "noite": 0},
               "forecast": {"max": 0, "min": 0},
               "news": [],
-              "finance": []
+              "finance": [],
+              "last_update": datetime.now().strftime("%d/%m/%Y %H:%M")
           }
 
-          # 1. CLIMA
+          # Configuração de Headers para evitar bloqueios (Simular Chrome Real)
+          headers = {
+              'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+              'Accept': 'application/json, text/plain, */*',
+              'Accept-Language': 'pt-PT,pt;q=0.9,en-US;q=0.8,en;q=0.7'
+          }
+
+          # --- 1. CLIMA (Open-Meteo) ---
           try:
               w_url = "https://api.open-meteo.com/v1/forecast?latitude=38.71&longitude=-9.13&hourly=temperature_2m&daily=temperature_2m_max,temperature_2m_min&timezone=Europe/London"
               w = requests.get(w_url, timeout=15).json()
@@ -50,26 +60,47 @@ jobs:
                   "max": w['daily']['temperature_2m_max'][1],
                   "min": w['daily']['temperature_2m_min'][1]
               }
-          except Exception as e: print(f"Erro Clima: {e}")
+              print("✅ Clima capturado.")
+          except Exception as e:
+              print(f"❌ Erro Clima: {e}")
 
-          # 2. NOTÍCIAS
+          # --- 2. NOTÍCIAS (Público) ---
           try:
-              p_res = requests.get("https://www.publico.pt/api/list/ultimas", timeout=15)
+              # Usamos a API de últimas notícias que alimenta o site mobile
+              p_res = requests.get("https://www.publico.pt/api/list/ultimas", headers=headers, timeout=15)
               if p_res.status_code == 200:
                   p_data = p_res.json()
+                  # O Público pode retornar lista ou dicionário com chave 'noticias'
                   items = p_data if isinstance(p_data, list) else p_data.get('noticias', [])
-                  data["news"] = [{"title": n['titulo'], "url": n['share_url']} for n in items[:5]]
-          except Exception as e: print(f"Erro Noticias: {e}")
+                  for n in items[:5]:
+                      titulo = n.get('titulo') or n.get('headline')
+                      url = n.get('share_url') or f"https://www.publico.pt{n.get('url')}"
+                      if titulo and url:
+                          data["news"].append({"title": titulo, "url": url})
+                  print(f"✅ Notícias: {len(data['news'])} encontradas.")
+          except Exception as e:
+              print(f"❌ Erro Público: {e}")
 
-          # 3. FINANCEIRO
+          # --- 3. FINANCEIRO (TipRanks) ---
           try:
-              h = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0'}
-              t_res = requests.get("https://www.tipranks.com/api/news/posts?limit=5", headers=h, timeout=15)
+              # URL de notícias globais de mercado
+              t_url = "https://www.tipranks.com/api/news/posts?limit=5"
+              t_res = requests.get(t_url, headers=headers, timeout=15)
               if t_res.status_code == 200:
-                  posts = t_res.json().get('posts', [])
-                  data["finance"] = [{"title": p['title'], "url": f"https://www.tipranks.com/news/{p['slug']}"} for p in posts]
-          except Exception as e: print(f"Erro Finance: {e}")
+                  t_data = t_res.json()
+                  posts = t_data.get('posts', []) if isinstance(t_data, dict) else t_data
+                  for p in posts[:5]:
+                      data["finance"].append({
+                          "title": p.get('title'),
+                          "url": f"https://www.tipranks.com/news/{p.get('slug')}" if p.get('slug') else p.get('url')
+                      })
+                  print(f"✅ Financeiro: {len(data['finance'])} encontrados.")
+              else:
+                  print(f"⚠️ TipRanks bloqueado (Status {t_res.status_code})")
+          except Exception as e:
+              print(f"❌ Erro TipRanks: {e}")
 
+          # Salva o arquivo final
           with open("data.json", "w", encoding='utf-8') as f:
               json.dump(data, f, indent=4, ensure_ascii=False)
           EOF
@@ -79,5 +110,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json
-          git commit -m "Update dashboard data" || exit 0
+          git commit -m "Update dashboard data: $(date +'%Y-%m-%d %H:%M')" || exit 0
           git push
