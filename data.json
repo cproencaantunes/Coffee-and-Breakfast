@@ -1,13 +1,15 @@
 {
     "weather": {
-        "time": "2026-02-23T18:30",
-        "interval": 900,
-        "temperature": 16.6,
-        "windspeed": 8.7,
-        "winddirection": 222,
-        "is_day": 0,
-        "weathercode": 3
+        "atual": 14.9,
+        "manha": 12.5,
+        "tarde": 21.1,
+        "noite": 14.4
+    },
+    "forecast": {
+        "max": 19.2,
+        "min": 12.8
     },
     "news": [],
-    "finance": []
+    "finance": [],
+    "last_update": "2026-02-23 18:50:27"
 }
