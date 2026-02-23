@@ -2,8 +2,8 @@ name: Update Data
 
 on:
   schedule:
-    - cron: '0 * * * *' # Corre de hora a hora
-  workflow_dispatch: # Permite correr manualmente
+    - cron: '0 * * * *' # Atualiza de hora a hora
+  workflow_dispatch: # Permite correr manualmente para testes
 
 permissions:
   contents: write
@@ -30,53 +30,63 @@ jobs:
           import json
           from datetime import datetime
 
+          # Estrutura base para evitar erros no JavaScript caso uma API falhe
           data = {
-              "weather": {},
-              "forecast": {},
+              "weather": {"atual": 0, "manha": 0, "tarde": 0, "noite": 0},
+              "forecast": {"max": 0, "min": 0},
               "news": [],
               "finance": [],
-              "last_update": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+              "last_update": datetime.now().strftime("%d/%m/%Y %H:%M")
           }
 
-          # 1. CLIMA DETALHADO (Lisboa)
+          # 1. CLIMA - Lisboa (Open-Meteo)
           try:
               w_url = "https://api.open-meteo.com/v1/forecast?latitude=38.71&longitude=-9.13&hourly=temperature_2m&daily=temperature_2m_max,temperature_2m_min&timezone=Europe/London"
-              w_req = requests.get(w_url, timeout=15).json()
-              
-              # Temperaturas por período (Hoje)
+              w = requests.get(w_url, timeout=15).json()
               data["weather"] = {
-                  "atual": w_req['hourly']['temperature_2m'][0],
-                  "manha": w_req['hourly']['temperature_2m'][9],
-                  "tarde": w_req['hourly']['temperature_2m'][15],
-                  "noite": w_req['hourly']['temperature_2m'][21]
+                  "atual": w['hourly']['temperature_2m'][0],
+                  "manha": w['hourly']['temperature_2m'][9],
+                  "tarde": w['hourly']['temperature_2m'][15],
+                  "noite": w['hourly']['temperature_2m'][21]
               }
-              # Previsão para Amanhã
               data["forecast"] = {
-                  "max": w_req['daily']['temperature_2m_max'][1],
-                  "min": w_req['daily']['temperature_2m_min'][1]
+                  "max": w['daily']['temperature_2m_max'][1],
+                  "min": w['daily']['temperature_2m_min'][1]
               }
-              print("Clima atualizado.")
+              print("Clima: OK")
           except Exception as e:
-              print(f"Erro no Clima: {e}")
+              print(f"Erro Clima: {e}")
 
-          # 2. NOTÍCIAS PÚBLICO
+          # 2. NOTÍCIAS - Público (API de Últimas)
           try:
-              p_req = requests.get("https://www.publico.pt/api/list/ultimas", timeout=15).json()
-              data["news"] = [{"title": n['titulo'], "url": n['share_url']} for n in p_req[:5]]
-              print("Notícias Público atualizadas.")
+              p_res = requests.get("https://www.publico.pt/api/list/ultimas", timeout=15)
+              if p_res.status_code == 200:
+                  p_data = p_res.json()
+                  # Garante que lemos uma lista, independentemente do formato da API
+                  items = p_data if isinstance(p_data, list) else p_data.get('noticias', [])
+                  data["news"] = [{"title": n['titulo'], "url": n['share_url']} for n in items[:5]]
+                  print("Notícias: OK")
           except Exception as e:
-              print(f"Erro no Público: {e}")
+              print(f"Erro Público: {e}")
 
-          # 3. MERCADO FINANCEIRO (TipRanks)
+          # 3. FINANCEIRO - TipRanks (Com Headers de Browser Real para evitar 403)
           try:
-              headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
-              t_req = requests.get("https://www.tipranks.com/api/news/posts?limit=5", headers=headers, timeout=15).json()
-              data["finance"] = [{"title": n['title'], "url": f"https://www.tipranks.com/news/{n['slug']}"} for n in t_req.get('posts', [])]
-              print("TipRanks atualizado.")
+              headers = {
+                  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                  'Accept': 'application/json'
+              }
+              t_res = requests.get("https://www.tipranks.com/api/news/posts?limit=5", headers=headers, timeout=15)
+              if t_res.status_code == 200:
+                  t_data = t_res.json()
+                  posts = t_data.get('posts', [])
+                  data["finance"] = [{"title": p['title'], "url": f"https://www.tipranks.com/news/{p['slug']}"} for p in posts]
+                  print("Financeiro: OK")
+              else:
+                  print(f"TipRanks erro status: {t_res.status_code}")
           except Exception as e:
-              print(f"Erro no TipRanks: {e}")
+              print(f"Erro TipRanks: {e}")
 
-          # GRAVAR FICHEIRO
+          # Salva o ficheiro data.json
           with open("data.json", "w", encoding='utf-8') as f:
               json.dump(data, f, indent=4, ensure_ascii=False)
           EOF
@@ -86,5 +96,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json
-          git commit -m "Automated data update: $(date +'%Y-%m-%d %H:%M')" || exit 0
+          git commit -m "Update data: $(date +'%Y-%m-%d %H:%M')" || exit 0
           git push
