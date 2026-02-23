@@ -3,34 +3,34 @@
         "atual": 14.9,
         "manha": 12.5,
         "tarde": 21.1,
-        "noite": 14.4
+        "noite": 14.3
     },
     "forecast": {
-        "max": 19.2,
-        "min": 12.8
+        "max": 18.9,
+        "min": 13.0
     },
     "news": [
         {
-            "title": "UEFA arquiva queixa do Benfica sobre eventual agressão de Valverde a Dahl",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/desporto/noticia/uefa-arquiva-queixa-benfica-eventual-agressao-valverde-dahl-2165776"
+            "title": "Benfica em vantagem no <em>derby </em>com o Sporting com golo no fim",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/desporto/noticia/benfica-vantagem-derby-sporting-golo-fim-2165785"
         },
         {
-            "title": "Montenegro vai a Queluz apresentar PTRR a Seguro nesta terça-feira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/politica/noticia/montenegro-vai-queluz-apresentar-ptrr-seguro-tercafeira-2165773"
+            "title": "A Rússia não está a ganhar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/opiniao/editorial/russia-nao-ganhar-2165781"
         },
         {
-            "title": "ChatGPT usado para planear homicídios em série na Coreia do Sul",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/enter/noticia/chatgpt-usado-planear-homicidios-serie-coreia-sul-2165752"
+            "title": "Sam Altman considera “ridícula” a ideia de colocar centros de dados no espaço",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/enter/noticia/sam-altman-considera-ridicula-ideia-colocar-centros-dados-espaco-2165742"
         },
         {
-            "title": "BioNTech processa Moderna por infracção de patentes relativas a vacinas contra a covid",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/ciencia/noticia/biontech-processa-moderna-infraccao-patentes-relativas-vacinas-covid-2165469"
+            "title": "Ac&ccedil;&atilde;o humana tornou o calor extremo dez vezes mais comum na Europa entre 2010 e 2024",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/azul/noticia/acção-humana-tornou-calor-extremo-dez-vezes-comum-europa-2010-2024-2165750"
         },
         {
-            "title": "Ao quarto ano, a Ucrânia resiste aos ataques russos e à pressão de Trump",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/mundo/noticia/quarto-ano-ucrania-resiste-ataques-russos-pressao-trump-2165713"
+            "title": "Suspeito de atropelar cinco pessoas em Lisboa fica em prisão preventiva",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/sociedade/noticia/suspeito-atropelar-cinco-pessoas-lisboa-fica-prisao-preventiva-2165783"
         }
     ],
     "finance": [],
-    "last_update": "23/02/2026 20:06"
+    "last_update": "23/02/2026 23:08"
 }
