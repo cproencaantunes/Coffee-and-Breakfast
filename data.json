@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.3,
         "manha": 13.6,
-        "tarde": 17.4,
-        "noite": 14.9
+        "tarde": 16.5,
+        "noite": 14.4
     },
     "forecast": {
-        "max": 17.6,
-        "min": 14.0
+        "max": 17.4,
+        "min": 13.4
     },
     "news": [
         {
-            "title": "Rio de Janeiro aposta no intercâmbio com setor de vinhos em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/publico-brasil/noticia/rio-janeiro-aposta-intercambio-setor-vinhos-portugal-2165845"
+            "title": "Montenegro reuniu-se duas horas e meia com Seguro, amanhã é a vez dos partidos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/politica/noticia/montenegro-reuniu-duas-horas-meia-seguro-queluz-amanha-partidos-2165861"
         },
         {
-            "title": "Operação <em>metrobus </em>da Boavista arranca no sábado com várias afinações por fazer",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/local/noticia/operacao-metrobus-boavista-arranca-sabado-varias-afinacoes-2165847"
+            "title": "A família de Nancy Guthrie oferece uma recompensa de um milhão por informações que levem ao seu resgate",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/impar/noticia/familia-nancy-guthrie-oferece-recompensa-milhao-informacoes-levem-resgate-2165903"
         },
         {
-            "title": "Meta investe 100 mil milhões em <i>chips</i> da AMD para impulsionar a IA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/enter/noticia/meta-investe-100-mil-milhoes-chips-amd-impulsionar-ia-2165843"
+            "title": "Sai Bethânia, entra Caetano. Veja quem já está confirmado para o Coala Festival",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/publico-brasil/noticia/sai-bethania-entra-caetano-veja-ja-confirmado-coala-festival-2165902"
         },
         {
-            "title": "Cirurgia cardíaca: Governo não fecha a porta a novos centros, desde que peritos concordem",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/sociedade/noticia/cirurgia-cardiaca-governo-nao-fecha-porta-novos-centros-desde-peritos-concordem-2165841"
+            "title": "Heliporto do hospital de Matosinhos encerrado por questões de segurança",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/sociedade/noticia/heliporto-hospital-matosinhos-encerrado-questoes-seguranca-2165899"
         },
         {
-            "title": "Países europeus e árabes condenam medidas de Israel para anexar a Cisjordânia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/mundo/noticia/paises-europeus-arabes-condenam-medidas-israel-anexar-cisjordania-2165838"
+            "title": "Mau tempo: PSD pede “bom senso” à oposição e que não se queira substituir ao Governo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/politica/noticia/mau-tempo-psd-pede-bom-senso-oposicao-nao-queira-substituir-governo-2165893"
         }
     ],
     "finance": [],
-    "last_update": "24/02/2026 15:11"
+    "last_update": "24/02/2026 19:31"
 }
