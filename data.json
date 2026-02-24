@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 13.3,
-        "manha": 14.1,
-        "tarde": 18.2,
-        "noite": 15.2
+        "manha": 14.0,
+        "tarde": 17.6,
+        "noite": 15.1
     },
     "forecast": {
-        "max": 17.0,
-        "min": 14.0
+        "max": 17.6,
+        "min": 13.7
     },
     "news": [
         {
-            "title": "Protecção de Dados junta-se a alerta mundial para imagens íntimas geradas por IA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/enter/noticia/proteccao-dados-juntase-alerta-mundial-imagens-intimas-geradas-ia-2165797"
+            "title": "Só um",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/p3/cronica/so-2165818"
         },
         {
-            "title": "Polícia fica ferido após abordagem a suspeito de tráfico de droga detido no Porto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/sociedade/noticia/policia-fica-ferido-apos-abordagem-suspeito-trafico-droga-detido-porto-2165796"
+            "title": "Federação pela Vida acusa Comissão Europeia de financiar “turismo do aborto”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/sociedade/noticia/federacao-vida-acusa-comissao-europeia-financiar-turismo-aborto-2165733"
         },
         {
-            "title": "António Costa: “É essencial que a Europa se prepare para falar com a Rússia”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/mundo/entrevista/antonio-costa-essencial-europa-prepare-falar-russia-2165794"
+            "title": "O primeiro <em>supper club</em> do Porto num livro que receitas que é muito mais do que isso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/fugas/noticia/supper-club-porto-livro-receitas-2165499"
         },
         {
-            "title": "No quarto aniversário da guerra, Zelensky diz que Putin falhou objectivos na Ucrânia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/mundo/noticia/quarto-aniversario-guerra-zelensky-putin-falhou-objectivos-ucrania-2165793"
+            "title": "Camila recebeu Gisèle Pellicot: “Fiquei chocada com o seu caso”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/impar/noticia/camila-recebeu-gisele-pellicot-fiquei-chocada-caso-2165810"
         },
         {
-            "title": "Despertador: A guerra na Ucrânia, quatro anos depois. Ataque ao Irão: Trump dá tempo à diplomacia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/newsletter/despertador"
+            "title": "PGR vai criar equipas de magistrados especializados no combate à fraude no SNS",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/sociedade/noticia/pgr-vai-criar-equipas-magistrados-especializados-combate-fraude-sns-2165814"
         }
     ],
     "finance": [],
-    "last_update": "24/02/2026 08:04"
+    "last_update": "24/02/2026 11:27"
 }
