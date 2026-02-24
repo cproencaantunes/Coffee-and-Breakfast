@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 13.3,
-        "manha": 14.0,
-        "tarde": 17.6,
-        "noite": 15.1
+        "manha": 13.6,
+        "tarde": 17.4,
+        "noite": 14.9
     },
     "forecast": {
         "max": 17.6,
-        "min": 13.7
+        "min": 14.0
     },
     "news": [
         {
-            "title": "Só um",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/p3/cronica/so-2165818"
+            "title": "Rio de Janeiro aposta no intercâmbio com setor de vinhos em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/publico-brasil/noticia/rio-janeiro-aposta-intercambio-setor-vinhos-portugal-2165845"
         },
         {
-            "title": "Federação pela Vida acusa Comissão Europeia de financiar “turismo do aborto”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/sociedade/noticia/federacao-vida-acusa-comissao-europeia-financiar-turismo-aborto-2165733"
+            "title": "Operação <em>metrobus </em>da Boavista arranca no sábado com várias afinações por fazer",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/local/noticia/operacao-metrobus-boavista-arranca-sabado-varias-afinacoes-2165847"
         },
         {
-            "title": "O primeiro <em>supper club</em> do Porto num livro que receitas que é muito mais do que isso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/fugas/noticia/supper-club-porto-livro-receitas-2165499"
+            "title": "Meta investe 100 mil milhões em <i>chips</i> da AMD para impulsionar a IA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/enter/noticia/meta-investe-100-mil-milhoes-chips-amd-impulsionar-ia-2165843"
         },
         {
-            "title": "Camila recebeu Gisèle Pellicot: “Fiquei chocada com o seu caso”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/impar/noticia/camila-recebeu-gisele-pellicot-fiquei-chocada-caso-2165810"
+            "title": "Cirurgia cardíaca: Governo não fecha a porta a novos centros, desde que peritos concordem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/sociedade/noticia/cirurgia-cardiaca-governo-nao-fecha-porta-novos-centros-desde-peritos-concordem-2165841"
         },
         {
-            "title": "PGR vai criar equipas de magistrados especializados no combate à fraude no SNS",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/sociedade/noticia/pgr-vai-criar-equipas-magistrados-especializados-combate-fraude-sns-2165814"
+            "title": "Países europeus e árabes condenam medidas de Israel para anexar a Cisjordânia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/mundo/noticia/paises-europeus-arabes-condenam-medidas-israel-anexar-cisjordania-2165838"
         }
     ],
     "finance": [],
-    "last_update": "24/02/2026 11:27"
+    "last_update": "24/02/2026 15:11"
 }
