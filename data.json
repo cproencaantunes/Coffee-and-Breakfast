@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.9,
-        "manha": 12.5,
-        "tarde": 21.1,
-        "noite": 14.3
+        "atual": 13.3,
+        "manha": 14.2,
+        "tarde": 18.9,
+        "noite": 15.4
     },
     "forecast": {
-        "max": 18.9,
-        "min": 13.0
+        "max": 17.0,
+        "min": 14.1
     },
     "news": [
         {
-            "title": "Benfica em vantagem no <em>derby </em>com o Sporting com golo no fim",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/desporto/noticia/benfica-vantagem-derby-sporting-golo-fim-2165785"
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/opiniao/opiniao/cartas-director-2165734"
         },
         {
-            "title": "A Rússia não está a ganhar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/opiniao/editorial/russia-nao-ganhar-2165781"
+            "title": "Ataque ao Irão: Trump dá tempo à diplomacia de Kushner e Witkoff, general aponta riscos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/mundo/noticia/ataque-irao-trump-tempo-diplomacia-kushner-witkoff-general-aponta-riscos-2165789"
         },
         {
-            "title": "Sam Altman considera “ridícula” a ideia de colocar centros de dados no espaço",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/enter/noticia/sam-altman-considera-ridicula-ideia-colocar-centros-dados-espaco-2165742"
+            "title": "O problema do marxismo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/opiniao/cronica/problema-marxismo-2165729"
         },
         {
-            "title": "Ac&ccedil;&atilde;o humana tornou o calor extremo dez vezes mais comum na Europa entre 2010 e 2024",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/azul/noticia/acção-humana-tornou-calor-extremo-dez-vezes-comum-europa-2010-2024-2165750"
+            "title": "PSD de Cascais dá pelouros municipais ao Chega e PS entrega os seus em protesto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/politica/noticia/psd-cascais-pelouros-municipais-chega-ps-entrega-protesto-2165788"
         },
         {
-            "title": "Suspeito de atropelar cinco pessoas em Lisboa fica em prisão preventiva",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/sociedade/noticia/suspeito-atropelar-cinco-pessoas-lisboa-fica-prisao-preventiva-2165783"
+            "title": "O que tem Luís Neves para ser amado por todos?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/23/politica/noticia/luis-neves-amado-2165699"
         }
     ],
     "finance": [],
-    "last_update": "23/02/2026 23:08"
+    "last_update": "24/02/2026 05:14"
 }
