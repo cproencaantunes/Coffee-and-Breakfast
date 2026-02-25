@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.4,
-        "manha": 13.7,
-        "tarde": 17.4,
-        "noite": 14.1
+        "manha": 13.9,
+        "tarde": 16.9,
+        "noite": 14.0
     },
     "forecast": {
-        "max": 20.5,
-        "min": 11.9
+        "max": 19.8,
+        "min": 12.0
     },
     "news": [
         {
-            "title": "Mundial 2026: Infantino “tranquilo” apesar da onda de violência no México",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/desporto/noticia/mundial-2026-infantino-tranquilo-apesar-onda-violencia-mexico-2165925"
+            "title": "Impresa precisa de resposta até 11 de Março sobre eventual OPA italiana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/economia/noticia/impresa-precisa-resposta-ate-11-marco-eventual-opa-italiana-2165941"
         },
         {
-            "title": "Despertador: O falso milagre económico de Trump. Drones e munições da UE a caminho da Ucrânia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/newsletter/despertador"
+            "title": "O que podemos aprender com o extraordinário percurso da medalhada Eileen Gu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/impar/noticia/podemos-aprender-extraordinario-percurso-medalhada-eileen-gu-2165935"
         },
         {
-            "title": "Real-Madrid-Benfica: mais do que só um jogo de futebol",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/desporto/noticia/realmadridbenfica-so-jogo-futebol-2165898"
+            "title": "Japão vai posicionar mísseis perto de Taiwan até 2031",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/mundo/noticia/japao-vai-posicionar-misseis-perto-taiwan-ate-2031-2165938"
         },
         {
-            "title": "Quando a causa vira palco: a militância e a instrumentalização do imigrante",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/publico-brasil/opiniao/causa-vira-palco-militancia-instrumentalizacao-imigrante-2165910"
+            "title": "Processo extraordinário de redução de espera para juntas médicas começa dentro de dois meses",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/sociedade/noticia/processo-extraordinario-reducao-espera-juntas-medicas-comeca-dentro-dois-meses-2165943"
         },
         {
-            "title": "Neutralidade carbónica até 2045 e <em>windfall tax</em>: BE propõe pacto climático ao Governo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/politica/noticia/neutralidade-carbonica-ate-2045-windfall-tax-be-propoe-pacto-climatico-governo-2165765"
+            "title": "O mais revolucionário é ficar juntos para sempre",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/p3/cronica/revolucionario-ficar-juntos-2163820"
         }
     ],
     "finance": [],
-    "last_update": "25/02/2026 08:06"
+    "last_update": "25/02/2026 11:31"
 }
