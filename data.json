@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.4,
         "manha": 13.7,
-        "tarde": 16.8,
+        "tarde": 17.4,
         "noite": 14.1
     },
     "forecast": {
         "max": 20.5,
-        "min": 12.1
+        "min": 11.9
     },
     "news": [
         {
-            "title": "O raspanete da autarca “tesa” ao ministro da Agricultura",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/politica/noticia/raspanete-autarca-tesa-ministro-agricultura-2165921"
+            "title": "Mundial 2026: Infantino “tranquilo” apesar da onda de violência no México",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/desporto/noticia/mundial-2026-infantino-tranquilo-apesar-onda-violencia-mexico-2165925"
         },
         {
-            "title": "Por uma máquina de desencardir",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/opiniao/cronica/maquina-desencardir-2165880"
+            "title": "Despertador: O falso milagre económico de Trump. Drones e munições da UE a caminho da Ucrânia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/newsletter/despertador"
         },
         {
-            "title": "Maior equidade no acesso a medicamentos poderia evitar mais de 1500 mortes num ano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/sociedade/noticia/maior-equidade-acesso-medicamentos-evitar-1500-mortes-ano-2165875"
+            "title": "Real-Madrid-Benfica: mais do que só um jogo de futebol",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/desporto/noticia/realmadridbenfica-so-jogo-futebol-2165898"
         },
         {
-            "title": "Ana Abrunhosa repreende ministro: “Em Coimbra, não volta a fazer a isto”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/video/autarca-coimbra-repreende-ministro-agricultura-mar-20260224-224847"
+            "title": "Quando a causa vira palco: a militância e a instrumentalização do imigrante",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/publico-brasil/opiniao/causa-vira-palco-militancia-instrumentalizacao-imigrante-2165910"
         },
         {
-            "title": "Rei da Noruega hospitalizado nas Canárias com uma infecção",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/impar/noticia/rei-noruega-hospitalizado-canarias-infeccao-2165916"
+            "title": "Neutralidade carbónica até 2045 e <em>windfall tax</em>: BE propõe pacto climático ao Governo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/politica/noticia/neutralidade-carbonica-ate-2045-windfall-tax-be-propoe-pacto-climatico-governo-2165765"
         }
     ],
     "finance": [],
-    "last_update": "25/02/2026 05:16"
+    "last_update": "25/02/2026 08:06"
 }
