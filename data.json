@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.4,
         "manha": 14.1,
-        "tarde": 18.0,
-        "noite": 14.3
+        "tarde": 17.6,
+        "noite": 14.2
     },
     "forecast": {
-        "max": 19.8,
-        "min": 11.8
+        "max": 19.7,
+        "min": 11.9
     },
     "news": [
         {
-            "title": "<em>Terra Vil </em>sufoca as possibilidades de violência ou de desordem",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/culturaipsilon/critica/terra-vil-sufoca-possibilidades-violencia-desordem-2165761"
+            "title": "ERC dá aval a nome do Governo para RTP e não responde a Arons sobre prazo de mandato",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/politica/noticia/erc-aval-nome-governo-rtp-nao-responde-arons-prazo-mandato-2166032"
         },
         {
-            "title": "Avaliação bancária das casas sobe 24 euros em Janeiro para novo recorde",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/economia/noticia/avaliacao-bancaria-casas-sobe-24-euros-janeiro-novo-recorde-2165969"
+            "title": "O que significa ser nacionalista hoje?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/p3/cronica/significa-nacionalista-hoje-2166005"
         },
         {
-            "title": "Seguro cessou funções académicas e empresariais e doou participações aos filhos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/politica/noticia/seguro-cessou-funcoes-academicas-empresariais-doou-participacoes-filhos-2165972"
+            "title": "FPF vai apresentar ao Governo pacote de iniciativas contra violência no futebol",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/desporto/noticia/fpf-vai-apresentar-governo-pacote-iniciativas-violencia-futebol-2166041"
         },
         {
-            "title": "Só em Alenquer há 400 hectares de vinhas afectados. Concelho vai ter apoios",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/terroir/noticia/so-alenquer-ha-400-hectares-vinhas-afectados-concelho-vai-apoios-2165952"
+            "title": "Quem é Nick Land, o “filósofo do apocalipse favorito de <em>Silicon Valley</em>”?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/enter/noticia/nick-land-filosofo-apocalipse-favorito-silicon-valley-2165956"
         },
         {
-            "title": "O relatório “célere” da Autoridade da Mobilidade e dos Transportes sobre o elevador da Glória, afinal, nunca existiu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/sociedade/noticia/relatorio-celere-autoridade-mobillidade-transportes-elevador-gloria-afinal-existiu-2165936"
+            "title": "Amnistia desafia ilustradores a celebrar os 50 anos da Constituição",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/p3/noticia/amnistia-desafia-ilustradores-celebrar-50-anos-constituicao-2166038"
         }
     ],
     "finance": [],
-    "last_update": "25/02/2026 14:41"
+    "last_update": "25/02/2026 18:16"
 }
