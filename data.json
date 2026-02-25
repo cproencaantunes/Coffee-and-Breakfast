@@ -1,15 +1,27 @@
 {
     "weather": {
-        "atual": 13.3,
-        "manha": 13.6,
-        "tarde": 16.5,
-        "noite": 14.0
+        "atual": 14.4,
+        "manha": 13.7,
+        "tarde": 16.8,
+        "noite": 14.1
     },
     "forecast": {
-        "max": 17.4,
-        "min": 13.4
+        "max": 20.5,
+        "min": 12.1
     },
     "news": [
+        {
+            "title": "O raspanete da autarca “tesa” ao ministro da Agricultura",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/politica/noticia/raspanete-autarca-tesa-ministro-agricultura-2165921"
+        },
+        {
+            "title": "Por uma máquina de desencardir",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/opiniao/cronica/maquina-desencardir-2165880"
+        },
+        {
+            "title": "Maior equidade no acesso a medicamentos poderia evitar mais de 1500 mortes num ano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/sociedade/noticia/maior-equidade-acesso-medicamentos-evitar-1500-mortes-ano-2165875"
+        },
         {
             "title": "Ana Abrunhosa repreende ministro: “Em Coimbra, não volta a fazer a isto”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/video/autarca-coimbra-repreende-ministro-agricultura-mar-20260224-224847"
@@ -17,20 +29,8 @@
         {
             "title": "Rei da Noruega hospitalizado nas Canárias com uma infecção",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/impar/noticia/rei-noruega-hospitalizado-canarias-infeccao-2165916"
-        },
-        {
-            "title": "CDS-PP critica PSD por chamar Chega para a governação da Câmara de Cascais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/politica/noticia/cdspp-critica-psd-chamar-chega-governacao-camara-cascais-2165896"
-        },
-        {
-            "title": "Bodo/Glimt avança e entra na rota do Sporting",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/desporto/noticia/bodoglimt-avanca-entra-rota-sporting-2165917"
-        },
-        {
-            "title": "Nova exposição do MAC/CCB foi feita para ziguezaguear e nela é a Ellipse que tem mais peso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/24/culturaipsilon/noticia/nova-exposicao-macccb-ziguezaguear-nela-ellipse-peso-2165912"
         }
     ],
     "finance": [],
-    "last_update": "24/02/2026 23:04"
+    "last_update": "25/02/2026 05:16"
 }
