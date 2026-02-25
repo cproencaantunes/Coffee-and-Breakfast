@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.4,
-        "manha": 13.9,
-        "tarde": 16.9,
-        "noite": 14.0
+        "manha": 14.1,
+        "tarde": 18.0,
+        "noite": 14.3
     },
     "forecast": {
         "max": 19.8,
-        "min": 12.0
+        "min": 11.8
     },
     "news": [
         {
-            "title": "Impresa precisa de resposta até 11 de Março sobre eventual OPA italiana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/economia/noticia/impresa-precisa-resposta-ate-11-marco-eventual-opa-italiana-2165941"
+            "title": "<em>Terra Vil </em>sufoca as possibilidades de violência ou de desordem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/culturaipsilon/critica/terra-vil-sufoca-possibilidades-violencia-desordem-2165761"
         },
         {
-            "title": "O que podemos aprender com o extraordinário percurso da medalhada Eileen Gu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/impar/noticia/podemos-aprender-extraordinario-percurso-medalhada-eileen-gu-2165935"
+            "title": "Avaliação bancária das casas sobe 24 euros em Janeiro para novo recorde",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/economia/noticia/avaliacao-bancaria-casas-sobe-24-euros-janeiro-novo-recorde-2165969"
         },
         {
-            "title": "Japão vai posicionar mísseis perto de Taiwan até 2031",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/mundo/noticia/japao-vai-posicionar-misseis-perto-taiwan-ate-2031-2165938"
+            "title": "Seguro cessou funções académicas e empresariais e doou participações aos filhos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/politica/noticia/seguro-cessou-funcoes-academicas-empresariais-doou-participacoes-filhos-2165972"
         },
         {
-            "title": "Processo extraordinário de redução de espera para juntas médicas começa dentro de dois meses",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/sociedade/noticia/processo-extraordinario-reducao-espera-juntas-medicas-comeca-dentro-dois-meses-2165943"
+            "title": "Só em Alenquer há 400 hectares de vinhas afectados. Concelho vai ter apoios",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/terroir/noticia/so-alenquer-ha-400-hectares-vinhas-afectados-concelho-vai-apoios-2165952"
         },
         {
-            "title": "O mais revolucionário é ficar juntos para sempre",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/p3/cronica/revolucionario-ficar-juntos-2163820"
+            "title": "O relatório “célere” da Autoridade da Mobilidade e dos Transportes sobre o elevador da Glória, afinal, nunca existiu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/25/sociedade/noticia/relatorio-celere-autoridade-mobillidade-transportes-elevador-gloria-afinal-existiu-2165936"
         }
     ],
     "finance": [],
-    "last_update": "25/02/2026 11:31"
+    "last_update": "25/02/2026 14:41"
 }
