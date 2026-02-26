@@ -2,7 +2,7 @@
     "weather": {
         "atual": 13.6,
         "manha": 12.5,
-        "tarde": 18.8,
+        "tarde": 19.1,
         "noite": 15.7
     },
     "forecast": {
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Passos Coelho líder da oposição a Luís Montenegro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/politica/noticia/passos-coelho-lider-oposicao-luis-montenegro-2165980"
+            "title": "Despertador: Tempestade aumenta combustível para fogos em florestas. Hugo Soares responde a Passos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/newsletter/despertador"
         },
         {
-            "title": "Qual é o Estado da União de Trump? Vamos ter uma nova guerra com o Irão?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/mundo/noticia/estado-uniao-trump-vamos-nova-guerra-irao-2166086"
+            "title": "Epidemia de cólera em Moçambique com mais de 200 novos casos em dois dias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/mundo/noticia/epidemia-colera-mocambique-200-novos-casos-dois-dias-2166089"
         },
         {
-            "title": "Trump sugere enviar congressistas muçulmanas que o interromperam “de volta para onde vieram”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/mundo/noticia/trump-sugere-enviar-congressistas-muculmanas-interromperam-volta-onde-vieram-2166083"
+            "title": "Governo dos EUA reexamina documentos de caso Epstein com ligações a Trump",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/mundo/noticia/governo-eua-reexamina-documentos-caso-epstein-ligacoes-trump-2166088"
         },
         {
-            "title": "\"Estamos a vencer demasiado, não aguentamos mais\"",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/newsletter/aquinaamerica"
+            "title": "Expulsão de estrangeiros: depois de falhar PRR para centros, PSP paga 800 mil euros por contentores no Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/sociedade/noticia/expulsao-estrangeiros-falhar-prr-centros-psp-paga-800-mil-euros-contentores-porto-2166031"
         },
         {
-            "title": "Só quero que não me chateiem",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/opiniao/cronica/so-quero-nao-chateiem-2166007"
+            "title": "Cientistas apontam a Portugal falhas estruturais que agravam efeitos das tempestades",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/azul/noticia/cientistas-apontam-portugal-falhas-estruturais-agravam-efeitos-tempestades-2166017"
         }
     ],
     "finance": [],
-    "last_update": "26/02/2026 05:13"
+    "last_update": "26/02/2026 08:03"
 }
