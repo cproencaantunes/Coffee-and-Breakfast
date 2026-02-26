@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 13.6,
-        "manha": 12.3,
-        "tarde": 18.7,
-        "noite": 15.5
+        "manha": 12.7,
+        "tarde": 19.3,
+        "noite": 15.3
     },
     "forecast": {
-        "max": 15.8,
+        "max": 16.0,
         "min": 11.2
     },
     "news": [
         {
-            "title": "Yiyun Li depois do suicídio dos filhos: “Como tornar o abismo um <em>habitat</em> natural?”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/culturaipsilon/entrevista/yiyun-li-suicidio-filhos-tornar-abismo-habitat-natural-2165848"
+            "title": "Miet Warlop comanda um “exorcismo” com seis quilómetros de tecido",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/culturaipsilon/noticia/miet-warlop-comanda-exorcismo-seis-quilometros-tecido-2165753"
         },
         {
-            "title": "Miguel Alves assume direcção financeira do Banco de Fomento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/economia/noticia/miguel-alves-assume-direccao-financeira-banco-fomento-2166099"
+            "title": "Quem pode rezar no Muro? Proposta legislativa deixa Israel “mais próximo do Irão”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/mundo/noticia/rezar-muro-proposta-legislativa-deixa-israel-proximo-irao-2166116"
         },
         {
-            "title": "Tribunal dá razão a recurso de Jimmy Lai, mas activista continua preso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/mundo/noticia/tribunal-razao-recurso-jimmy-lai-activista-continua-preso-2166102"
+            "title": "Sintra em flor: vila romântica celebra as camélias “no auge da sua glória”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/fugas/noticia/sintra-flor-vila-romantica-celebra-camelias-auge-gloria-2166118"
         },
         {
-            "title": "Embaixada do Brasil em Lisboa promove programação especial no Mês da Mulher",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/publico-brasil/noticia/embaixada-brasil-lisboa-promove-programacao-especial-mes-mulher-2165970"
+            "title": "Crédito à habitação registou em Janeiro o maior crescimento em 20 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/economia/noticia/credito-habitacao-registou-janeiro-maior-crescimento-20-anos-2166124"
         },
         {
-            "title": "Em Almada, 35 casas da Azinhaga dos Formozinhos terão de ser demolidas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/local/noticia/almada-35-casas-azinhaga-formozinhos-terao-demolidas-2166107"
+            "title": "Cuba promove-se e resiste na feira de turismo de Lisboa: “O turismo não parou”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/fugas/noticia/cuba-promovese-resiste-feira-turismo-lisboa-turismo-nao-parou-2166092"
         }
     ],
     "finance": [],
-    "last_update": "26/02/2026 11:27"
+    "last_update": "26/02/2026 14:40"
 }
