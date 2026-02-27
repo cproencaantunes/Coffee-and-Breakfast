@@ -6,10 +6,22 @@
         "noite": 11.9
     },
     "forecast": {
-        "max": 15.9,
+        "max": 15.7,
         "min": 10.3
     },
     "news": [
+        {
+            "title": "S&P mantém <em>rating</em> de Portugal mas melhora perspectiva",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/27/economia/noticia/sp-mantem-rating-portugal-melhora-perspectiva-2166360"
+        },
+        {
+            "title": "Warner Bros. chega finalmente a um acordo multimilionário com a Paramount",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/27/culturaipsilon/noticia/warner-bros-chega-finalmente-acordo-multimilionario-paramount-2166358"
+        },
+        {
+            "title": "AIMA ganha prêmio de transformação digital mesmo com projeto ainda em teste",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/27/publico-brasil/noticia/aima-ganha-premio-transformacao-digital-projeto-teste-2166348"
+        },
         {
             "title": "Marco António Amaro é o novo advogado nomeado para Sócrates",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/02/27/sociedade/noticia/marco-antonio-amaro-novo-advogado-nomeado-socrates-2166350"
@@ -17,20 +29,8 @@
         {
             "title": "FC Porto ainda se assustou, mas venceu o Arouca",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/02/27/desporto/cronica_de_jogo/fc-porto-assustou-venceu-arouca-2166351"
-        },
-        {
-            "title": "Quatro autores portugueses numa Feira do Livro de Leipzig com aposta na tradução",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/27/culturaipsilon/noticia/quatro-autores-portugueses-feira-livro-leipzig-aposta-traducao-2166347"
-        },
-        {
-            "title": "AIMA avisa: imigrantes não precisam ir a uma loja para entregar documentos em falta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/27/publico-brasil/noticia/aima-avisa-imigrantes-nao-precisam-ir-loja-entregar-documentos-falta-2166342"
-        },
-        {
-            "title": "Paquistão abre guerra a Cabul para resolver um problema que ajudou a criar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/27/mundo/noticia/paquistao-abre-guerra-cabul-resolver-problema-ajudou-criar-2166294"
         }
     ],
     "finance": [],
-    "last_update": "27/02/2026 20:58"
+    "last_update": "27/02/2026 21:54"
 }
