@@ -1,15 +1,27 @@
 {
     "weather": {
         "atual": 13.6,
-        "manha": 12.7,
-        "tarde": 19.7,
-        "noite": 15.4
+        "manha": 12.8,
+        "tarde": 16.4,
+        "noite": 11.8
     },
     "forecast": {
-        "max": 16.3,
-        "min": 11.3
+        "max": 15.6,
+        "min": 10.3
     },
     "news": [
+        {
+            "title": "Guião de Carneiro passa por denúncias de corrupção e afastar crises",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/27/politica/noticia/guiao-carneiro-passa-denuncias-corrupcao-afastar-crises-2166225"
+        },
+        {
+            "title": "O futuro às moscas pertence",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/27/opiniao/cronica/futuro-moscas-pertence-2166152"
+        },
+        {
+            "title": "CD multa Sporting de Braga e Vitória de Guimarães em mais de 39 mil euros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/27/desporto/noticia/cd-multa-sporting-braga-vitoria-guimaraes-39-mil-euros-2166224"
+        },
         {
             "title": "Zelensky sugere nova reunião com EUA e Rússia já no início de Março",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/mundo/noticia/zelensky-sugere-nova-reuniao-eua-russia-ja-inicio-marco-2166222"
@@ -17,20 +29,8 @@
         {
             "title": "Trump é instado a declarar emergência para obter poder executivo sobre eleições",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/mundo/noticia/trump-instado-declarar-emergencia-obter-executivo-eleicoes-2166221"
-        },
-        {
-            "title": "Sporting “hesita” entre “carrasco” do Benfica e ameaça norueguesa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/desporto/noticia/sporting-hesita-carrasco-benfica-ameaca-norueguesa-2166214"
-        },
-        {
-            "title": "Passos Coelho quer voltar a ser líder. Vai conseguir?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/newsletter/diarios-republica"
-        },
-        {
-            "title": "Secretária-geral recusa responsabilidades na falta de conhecimento da greve no INEM",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/sociedade/noticia/secretariageral-recusa-responsabilidades-falta-conhecimento-greve-inem-2166218"
         }
     ],
     "finance": [],
-    "last_update": "26/02/2026 23:57"
+    "last_update": "27/02/2026 05:06"
 }
