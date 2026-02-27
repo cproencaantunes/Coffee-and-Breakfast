@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.6,
         "manha": 12.8,
-        "tarde": 16.4,
-        "noite": 11.8
+        "tarde": 16.3,
+        "noite": 11.6
     },
     "forecast": {
         "max": 15.6,
-        "min": 10.3
+        "min": 10.4
     },
     "news": [
         {
-            "title": "Guião de Carneiro passa por denúncias de corrupção e afastar crises",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/27/politica/noticia/guiao-carneiro-passa-denuncias-corrupcao-afastar-crises-2166225"
+            "title": "Aqueles que correm em direcção às balas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/27/mundo/cronica/correm-direccao-balas-2166198"
         },
         {
-            "title": "O futuro às moscas pertence",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/27/opiniao/cronica/futuro-moscas-pertence-2166152"
+            "title": "Autarquias desafiadas a banir anúncios a combustíveis fósseis em espaços públicos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/27/azul/noticia/autarquias-desafiadas-banir-anuncios-combustiveis-fosseis-espacos-publicos-2165824"
         },
         {
-            "title": "CD multa Sporting de Braga e Vitória de Guimarães em mais de 39 mil euros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/27/desporto/noticia/cd-multa-sporting-braga-vitoria-guimaraes-39-mil-euros-2166224"
+            "title": "Lisboa a arder ou como um <em>derby</em> pode ficar empatado duas vezes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/27/desporto/opiniao/lisboa-arder-derby-ficar-empatado-duas-vezes-2166154"
         },
         {
-            "title": "Zelensky sugere nova reunião com EUA e Rússia já no início de Março",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/mundo/noticia/zelensky-sugere-nova-reuniao-eua-russia-ja-inicio-marco-2166222"
+            "title": "De faxineira a dona de 11 empresas: a reviravolta de uma mineira em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/27/publico-brasil/noticia/faxineira-dona-11-empresas-reviravolta-mineira-portugal-2166132"
         },
         {
-            "title": "Trump é instado a declarar emergência para obter poder executivo sobre eleições",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/26/mundo/noticia/trump-instado-declarar-emergencia-obter-executivo-eleicoes-2166221"
+            "title": "Paquistão entra em “guerra aberta” com Afeganistão após combates na fronteira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/27/mundo/noticia/paquistao-entra-guerra-aberta-afeganistao-apos-combates-fronteira-2166228"
         }
     ],
     "finance": [],
-    "last_update": "27/02/2026 05:06"
+    "last_update": "27/02/2026 07:59"
 }
