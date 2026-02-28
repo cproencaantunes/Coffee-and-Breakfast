@@ -2,35 +2,35 @@
     "weather": {
         "atual": 11.8,
         "manha": 11.7,
-        "tarde": 16.3,
-        "noite": 11.8
+        "tarde": 16.2,
+        "noite": 11.9
     },
     "forecast": {
-        "max": 17.5,
-        "min": 9.4
+        "max": 17.3,
+        "min": 9.5
     },
     "news": [
         {
-            "title": "Grupo português Barraqueiro assume operação dos trens do Rio após decisão judicial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/publico-brasil/noticia/grupo-portugues-barraqueiro-assume-operacao-trens-rio-apos-decisao-judicial-2166386"
+            "title": "Guerra após guerra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/opiniao/editorial/guerra-apos-guerra-2166412"
         },
         {
-            "title": "Carneiro defende que a sua liderança uniu o PS quando o “declínio parecia irreversível”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/politica/noticia/carneiro-defende-lideranca-uniu-ps-declinio-parecia-irreversivel-2166407"
+            "title": "O que é o +Liberdade: origem, influência e ideias da direita liberal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/politica/perguntaserespostas/liberdade-origem-influencia-ideias-direita-liberal-2166394"
         },
         {
-            "title": "Sempre a falar da paz, Trump atacou seis países desde o início do mandato",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/mundo/noticia/falar-paz-trump-atacou-seis-paises-desde-inicio-mandato-2166405"
+            "title": "As bases dos EUA no Médio Oriente que o Irão considera “alvos legítimos”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/mundo/noticia/bases-eua-medio-oriente-irao-considera-alvos-legitimos-2166403"
         },
         {
-            "title": "Caos nas viagens atinge Médio Oriente após ataques dos EUA e Israel ao Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/fugas/noticia/caos-viagens-atinge-medio-oriente-apos-ataques-eua-israel-irao-2166404"
+            "title": "Montenegro condena “injustificáveis ataques” iranianos e apela à “máxima contenção”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/politica/noticia/montenegro-condena-injustificaveis-ataques-iranianos-apela-maxima-contencao-2166411"
         },
         {
-            "title": "Portugal se torna o maior emissor de turistas da Europa para o Brasil, diz ministério",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/publico-brasil/noticia/portugal-torna-maior-emissor-turistas-europa-brasil-ministerio-2166402"
+            "title": "Milhares manifestaram-se em Lisboa e no Porto contra o pacote laboral",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/economia/noticia/milhares-manifestaramse-lisboa-porto-pacote-laboral-2166409"
         }
     ],
     "finance": [],
-    "last_update": "28/02/2026 17:41"
+    "last_update": "28/02/2026 18:58"
 }
