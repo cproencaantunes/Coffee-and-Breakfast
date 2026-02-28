@@ -3,13 +3,25 @@
         "atual": 11.8,
         "manha": 11.7,
         "tarde": 16.2,
-        "noite": 11.9
+        "noite": 11.6
     },
     "forecast": {
-        "max": 17.3,
-        "min": 9.5
+        "max": 17.6,
+        "min": 9.4
     },
     "news": [
+        {
+            "title": "Luís Amado: “Ter uma guerra civil no Irão será um pesadelo”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/politica/entrevista/luis-amado-guerra-civil-irao-sera-pesadelo-2166209"
+        },
+        {
+            "title": "Pedro Alves vence concelhia do PSD de Viseu já com foco nas eleições autárquicas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/politica/noticia/pedro-alves-vence-concelhia-psd-viseu-ja-foco-eleicoes-autarquicas-2166430"
+        },
+        {
+            "title": "Igor Thiago, de pedreiro a goleador na Premier League",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/desporto/noticia/igor-thiago-pedreiro-goleador-2166429"
+        },
         {
             "title": "Passos não exclui regresso e se acontecer “não será pelas melhores razões”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/politica/noticia/passos-nao-exclui-regresso-acontecer-nao-sera-melhores-razoes-2166427"
@@ -17,20 +29,8 @@
         {
             "title": "Vila Galé investirá mais de 16 milhões de euros em hotel e restaurantes na Paraíba",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/publico-brasil/noticia/vila-gale-investira-16-milhoes-euros-hotel-restaurantes-paraiba-2166426"
-        },
-        {
-            "title": "Passos Coelho: o programa do “primeiro-ministro sombra” de Montenegro para o país",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/politica/noticia/passos-coelho-programa-primeiroministro-sombra-montenegro-pais-2166417"
-        },
-        {
-            "title": "Netanyahu diz que “há sinais” de que Khamenei morreu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/mundo/noticia/netanyahu-ha-sinais-khamenei-morreu-2166418"
-        },
-        {
-            "title": "<em>Ajax </em>e “Grande Satã”: pequena história das relações anglo-americanas com o Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/mundo/noticia/ajax-sata-historia-relacoes-angloamericanas-irao-2166421"
         }
     ],
     "finance": [],
-    "last_update": "28/02/2026 21:39"
+    "last_update": "28/02/2026 22:48"
 }
