@@ -2,35 +2,35 @@
     "weather": {
         "atual": 11.8,
         "manha": 11.7,
-        "tarde": 15.7,
-        "noite": 11.4
+        "tarde": 16.3,
+        "noite": 11.8
     },
     "forecast": {
-        "max": 17.3,
-        "min": 9.6
+        "max": 17.5,
+        "min": 9.4
     },
     "news": [
         {
+            "title": "Caos nas viagens atinge Médio Oriente após ataques dos EUA e Israel ao Irão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/fugas/noticia/caos-viagens-atinge-medio-oriente-apos-ataques-eua-israel-irao-2166404"
+        },
+        {
+            "title": "Portugal se torna o maior emissor de turistas da Europa para o Brasil, diz ministério",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/publico-brasil/noticia/portugal-torna-maior-emissor-turistas-europa-brasil-ministerio-2166402"
+        },
+        {
+            "title": "Quercus salvou 1700 animais em 2025: a história da coruja <em>babysitter</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/azul/noticia/quercus-salvou-1700-animais-2025-historia-coruja-babysitter-2166256"
+        },
+        {
+            "title": "Marcelo pede que portugueses se “unam ainda mais” em torno de Seguro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/politica/noticia/marcelo-pede-portugueses-unam-torno-seguro-2166397"
+        },
+        {
             "title": "“Não se pode fazer uma mudança de regime no Irão, isso é o <em>Missão Impossível</em>”, diz Teerão",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/mundo/noticia/nao-mudanca-regime-irao-missao-impossivel-teerao-2166401"
-        },
-        {
-            "title": "Para metade dos norte-americanos, jantar fora ou ir de férias é um luxo inalcançável",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/mundo/noticia/metade-norteamericanos-jantar-ir-ferias-luxo-inalcancavel-2166396"
-        },
-        {
-            "title": "Guerra no Irão: “erro de cálculo” e “ataque ilegal” de “dois líderes acossados”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/mundo/noticia/geuerra-irao-erro-calculo-ataque-ilegal-dois-lideres-acossados-2166393"
-        },
-        {
-            "title": "Khamenei, Guardas da Revolução,<em> mujahedin</em> e monárquicos: o quebra-cabeças do regime no Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/mundo/noticia/khamenei-guardas-revolucao-mujahedin-monarquicos-quebracabecas-regime-irao-2166391"
-        },
-        {
-            "title": "Lucro da Sporting SAD duplica para 32 milhões de euros no primeiro semestre da época",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/desporto/noticia/lucro-sporting-sad-duplica-32-semestre-epoca-2166395"
         }
     ],
     "finance": [],
-    "last_update": "28/02/2026 15:40"
+    "last_update": "28/02/2026 16:51"
 }
