@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 11.5,
-        "manha": 10.2,
-        "tarde": 16.9,
-        "noite": 12.9
+        "manha": 10.3,
+        "tarde": 17.1,
+        "noite": 12.6
     },
     "forecast": {
-        "max": 13.8,
-        "min": 11.2
+        "max": 13.4,
+        "min": 11.0
     },
     "news": [
+        {
+            "title": "Por que razão os seres humanos são diurnos? A resposta está num “interruptor celular”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/ciencia/noticia/razao-seres-humanos-sao-diurnos-resposta-interruptor-celular-2166303"
+        },
+        {
+            "title": "O PRR do património cultural estará a caminho de uma execução a 100%, “ao cêntimo”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/culturaipsilon/noticia/prr-patrimonio-cultural-estara-caminho-execucao-100-centimo-2166400"
+        },
         {
             "title": "O PRR no património cultural por esse país fora",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/infografia/prr-patrimonio-cultural-pais-886"
@@ -21,16 +29,8 @@
         {
             "title": "Palcos da semana: Avishai e Chaplin entre livros, Periferias e francofonia",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/culturaipsilon/noticia/palcos-semana-avishai-chaplin-livros-periferias-francofonia-2166281"
-        },
-        {
-            "title": "Uma biblioteca sobre rodas anda por Almada a levar livros onde eles menos chegam",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/local/noticia/biblioteca-rodas-anda-almada-levar-livros-onde-menos-chegam-2164847"
-        },
-        {
-            "title": "<em>Los Domingos</em> e <em>Sirât</em> foram os vencedores dos Goya em Barcelona",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/culturaipsilon/noticia/los-domingos-sirat-vencedores-goya-barcelona-2166435"
         }
     ],
     "finance": [],
-    "last_update": "01/03/2026 08:59"
+    "last_update": "01/03/2026 09:53"
 }
