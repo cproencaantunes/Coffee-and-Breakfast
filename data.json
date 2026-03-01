@@ -1,9 +1,9 @@
 {
     "weather": {
         "atual": 11.5,
-        "manha": 10.5,
-        "tarde": 17.2,
-        "noite": 13.0
+        "manha": 10.2,
+        "tarde": 16.9,
+        "noite": 12.9
     },
     "forecast": {
         "max": 13.8,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Morreu Ali Khamenei, o religioso discreto que controlou o Irão com uma mão de ferro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/mundo/noticia/morreu-ali-khamenei-religioso-discreto-mao-ferro-irao-2166425"
+            "title": "Irão confirma morte do ministro da Defesa e do chefe das Forças Armadas. Teerão faz com novos ataques",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/mundo/noticia/irao-confirma-morte-ministro-defesa-chefe-forcas-armadas-teerao-faz-novos-ataques-2166436"
         },
         {
-            "title": "O que sabemos sobre o ataque dos EUA e Israel ao Irão que matou Ali Khamenei",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/mundo/noticia/sabemos-ataque-eua-israel-irao-retaliacao-2166434"
+            "title": "O poder das relações saudáveis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/impar/opiniao/relacoes-saudaveis-2165730"
         },
         {
-            "title": "Festival da Canção: passam Silvana Peres, Bandidos do Cante, João Ribeiro, Sandrino e Gonçalo Gomes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/culturaipsilon/noticia/festival-cancao-passam-silvana-peres-bandidos-cante-joao-ribeiro-sandrino-goncalo-gomes-2166431"
+            "title": "O quebra-cabeças do ensino português",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/publico-brasil/opiniao/quebracabecas-ensino-portugues-2166420"
         },
         {
-            "title": "Luís Amado: “Ter uma guerra civil no Irão será um pesadelo”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/politica/entrevista/luis-amado-guerra-civil-irao-sera-pesadelo-2166209"
+            "title": "A “mãe <em>sexy</em>” e outras teorias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/opiniao/cronica/mae-sexy-teorias-2166260"
         },
         {
-            "title": "Pedro Alves vence concelhia do PSD de Viseu já com foco nas eleições autárquicas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/politica/noticia/pedro-alves-vence-concelhia-psd-viseu-ja-foco-eleicoes-autarquicas-2166430"
+            "title": "Sete Montes dos Vendavais, ordenados pela força com que os montes vendavalam",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/opiniao/cronica/sete-montes-vendavais-ordenados-forca-montes-vendavalam-2166274"
         }
     ],
     "finance": [],
-    "last_update": "01/03/2026 05:11"
+    "last_update": "01/03/2026 07:47"
 }
