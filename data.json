@@ -3,34 +3,34 @@
         "atual": 11.5,
         "manha": 10.5,
         "tarde": 17.5,
-        "noite": 13.1
+        "noite": 13.0
     },
     "forecast": {
-        "max": 13.8,
+        "max": 13.6,
         "min": 11.4
     },
     "news": [
         {
+            "title": "Trump insta Guardas da Revolução do Irão a “pousarem as armas ou enfrentarem morte certa”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/mundo/noticia/trump-insta-guardas-revolucao-irao-pousarem-armas-enfrentarem-morte-certa-2166486"
+        },
+        {
+            "title": "Irão: o Governo meteu-nos numa guerra e não deu cavaco a ninguém",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/opiniao/cronica/irao-governo-meteunos-guerra-nao-deu-cavaco-ninguem-2166484"
+        },
+        {
+            "title": "Passos Coelho e Sérgio Sousa Pinto preparam estudo sobre bloqueios da economia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/politica/noticia/passos-coelho-sergio-sousa-pinto-preparam-estudo-bloqueios-economia-2166475"
+        },
+        {
+            "title": "Pesquisa brasileira dá esperança a pacientes com lesões na medula",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/publico-brasil/noticia/pesquisa-brasileira-esperanca-pacientes-lesoes-medula-2166442"
+        },
+        {
             "title": "O que (também) se passa na escola",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/opiniao/editorial/tambem-passa-escola-2166334"
-        },
-        {
-            "title": "Marinheiros querem travar venda do navio Mondego à República Dominicana: dizem que destruirá provas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/sociedade/noticia/marinheiros-querem-travar-venda-navio-mondego-republica-dominicana-destruira-provas-2166480"
-        },
-        {
-            "title": "“Cortisol alto”: como a desinformação criou um pseudoproblema e propôs uma pseudo-solução",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/ciencia/noticia/cortisol-alto-desinformacao-criou-pseudoproblema-propos-pseudosolucao-2166207"
-        },
-        {
-            "title": "Do fim de Khamenei à mudança de regime",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/mundo/analise/fim-khamenei-mudanca-regime-2166485"
-        },
-        {
-            "title": "O Pontapé de Canto FC volta a atacar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/desporto/noticia/pontape-canto-fc-volta-atacar-2166482"
         }
     ],
     "finance": [],
-    "last_update": "01/03/2026 21:41"
+    "last_update": "01/03/2026 22:52"
 }
