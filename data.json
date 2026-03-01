@@ -6,10 +6,22 @@
         "noite": 13.1
     },
     "forecast": {
-        "max": 14.2,
-        "min": 11.1
+        "max": 13.8,
+        "min": 11.4
     },
     "news": [
+        {
+            "title": "Xiaomi Tag: o localizador que funciona com iPhone e Android",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/enter/noticia/xiaomi-tag-localizador-funciona-iphone-android-2166428"
+        },
+        {
+            "title": "“Vamos conversar”: Donald Trump concordou falar com nova liderança iraniana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/mundo/noticia/vamos-conversar-donald-trump-concordou-falar-nova-lideranca-iraniana-2166469"
+        },
+        {
+            "title": "No Correntes, entre as TrupeLias de Laborinho Lúcio e o espelho mal-educado de Valter Hugo Mãe",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/culturaipsilon/noticia/correntes-trupelias-laborinho-lucio-espelho-maleducado-valter-hugo-mae-2166453"
+        },
         {
             "title": "Países do Golfo alinham-se na resposta contra o Irão, mas não são aliados",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/mundo/noticia/paises-golfo-alinhamse-resposta-irao-nao-sao-aliados-2166465"
@@ -17,20 +29,8 @@
         {
             "title": "Ventura propõe comissão no Parlamento sobre reforma do Estado presidida por Passos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/politica/noticia/ventura-propoe-comissao-parlamento-reforma-estado-presidida-passos-2166468"
-        },
-        {
-            "title": "Portugal Fashion precisa da aprovação de fundos para seguir internacionalização",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/impar/noticia/portugal-fashion-precisa-aprovacao-fundos-seguir-internacionalizacao-2166464"
-        },
-        {
-            "title": "Bioética: a segurança hídrica “é hoje um imperativo moral, científico e político”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/azul/noticia/bioetica-seguranca-hidrica-hoje-imperativo-moral-cientifico-politico-2166313"
-        },
-        {
-            "title": "De um lado, luto. Do outro, alegria: “Eu disse que dançaríamos no túmulo” de Khamenei",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/mundo/noticia/lado-luto-alegria-dancariamos-tumulo-khamenei-2166460"
         }
     ],
     "finance": [],
-    "last_update": "01/03/2026 17:46"
+    "last_update": "01/03/2026 19:00"
 }
