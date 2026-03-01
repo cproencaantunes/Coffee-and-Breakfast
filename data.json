@@ -1,15 +1,27 @@
 {
     "weather": {
-        "atual": 11.8,
-        "manha": 11.7,
-        "tarde": 16.2,
-        "noite": 11.6
+        "atual": 11.5,
+        "manha": 10.5,
+        "tarde": 17.2,
+        "noite": 13.0
     },
     "forecast": {
-        "max": 17.6,
-        "min": 9.4
+        "max": 13.8,
+        "min": 11.2
     },
     "news": [
+        {
+            "title": "Morreu Ali Khamenei, o religioso discreto que controlou o Irão com uma mão de ferro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/mundo/noticia/morreu-ali-khamenei-religioso-discreto-mao-ferro-irao-2166425"
+        },
+        {
+            "title": "O que sabemos sobre o ataque dos EUA e Israel ao Irão que matou Ali Khamenei",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/mundo/noticia/sabemos-ataque-eua-israel-irao-retaliacao-2166434"
+        },
+        {
+            "title": "Festival da Canção: passam Silvana Peres, Bandidos do Cante, João Ribeiro, Sandrino e Gonçalo Gomes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/culturaipsilon/noticia/festival-cancao-passam-silvana-peres-bandidos-cante-joao-ribeiro-sandrino-goncalo-gomes-2166431"
+        },
         {
             "title": "Luís Amado: “Ter uma guerra civil no Irão será um pesadelo”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/politica/entrevista/luis-amado-guerra-civil-irao-sera-pesadelo-2166209"
@@ -17,20 +29,8 @@
         {
             "title": "Pedro Alves vence concelhia do PSD de Viseu já com foco nas eleições autárquicas",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/politica/noticia/pedro-alves-vence-concelhia-psd-viseu-ja-foco-eleicoes-autarquicas-2166430"
-        },
-        {
-            "title": "Igor Thiago, de pedreiro a goleador na Premier League",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/desporto/noticia/igor-thiago-pedreiro-goleador-2166429"
-        },
-        {
-            "title": "Passos não exclui regresso e se acontecer “não será pelas melhores razões”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/politica/noticia/passos-nao-exclui-regresso-acontecer-nao-sera-melhores-razoes-2166427"
-        },
-        {
-            "title": "Vila Galé investirá mais de 16 milhões de euros em hotel e restaurantes na Paraíba",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/02/28/publico-brasil/noticia/vila-gale-investira-16-milhoes-euros-hotel-restaurantes-paraiba-2166426"
         }
     ],
     "finance": [],
-    "last_update": "28/02/2026 23:39"
+    "last_update": "01/03/2026 05:11"
 }
