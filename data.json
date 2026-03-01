@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 11.5,
-        "manha": 10.3,
-        "tarde": 17.1,
-        "noite": 12.6
+        "manha": 10.5,
+        "tarde": 17.3,
+        "noite": 12.8
     },
     "forecast": {
-        "max": 13.4,
-        "min": 11.0
+        "max": 13.9,
+        "min": 11.3
     },
     "news": [
         {
-            "title": "Argentina aprova projeto de lei para promover a mineração perto dos glaciares",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/azul/noticia/argentina-aprova-projeto-lei-promover-mineracao-perto-glaciares-2166249"
+            "title": "Presidente do Irão reaparece, organiza sucessão e promete vingança",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/mundo/noticia/presidente-irao-reaparece-organiza-sucessao-promete-vinganca-2166456"
         },
         {
-            "title": "Os telefonemas de MBS e a pressão de Netanyahu: como sauditas e israelitas empurraram Trump para a guerra no Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/mundo/noticia/telefonemas-mbs-pressao-netanyahu-sauditas-israelitas-empurraram-trump-guerra-irao-2166439"
+            "title": "Em Milão, Davii e Pé de Chumbo buscam oportunidades para crescer na crise da moda",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/impar/reportagem/milao-davii-pe-chumbo-buscam-oportunidades-crescer-crise-moda-2166437"
         },
         {
-            "title": "Montenegro sofre derrotas na distrital de Braga e na concelhia de Espinho do PSD",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/politica/noticia/montenegro-sofre-derrotas-distrital-braga-concelhia-espinho-psd-2166440"
+            "title": "Imigrantes vão pagar mais caro pelos serviços da AIMA. Taxas aumentam até 33%",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/publico-brasil/noticia/imigrantes-vao-pagar-caro-servicos-aima-taxas-aumentam-ate-33-2166454"
         },
         {
-            "title": "Volvo EX90 em teste: manter (toda) a família em segurança",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/enter/critica/volvo-ex90-teste-manter-familia-seguranca-2165738"
+            "title": "Fecho do estreito de Ormuz reforça cenário de escalada dos preços do petróleo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/economia/noticia/fecho-estreito-ormuz-reforca-cenario-escalada-precos-petroleo-2166452"
         },
         {
-            "title": "Arouca desfavorável a nova central fotovoltaica por risco de “prejuízos relevantes”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/azul/noticia/arouca-desfavoravel-nova-central-fotovoltaica-risco-prejuizos-relevantes-2166300"
+            "title": "CIA deu a Israel informação de “elevada precisão” sobre a localização de Khamenei",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/mundo/noticia/cia-deu-israel-informacao-elevada-precisao-localizacao-khamenei-2166446"
         }
     ],
     "finance": [],
-    "last_update": "01/03/2026 11:38"
+    "last_update": "01/03/2026 13:51"
 }
