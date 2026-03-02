@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 11.5,
-        "manha": 10.5,
-        "tarde": 17.5,
-        "noite": 13.0
+        "atual": 12.2,
+        "manha": 12.6,
+        "tarde": 13.2,
+        "noite": 12.1
     },
     "forecast": {
-        "max": 13.6,
-        "min": 11.4
+        "max": 19.7,
+        "min": 11.8
     },
     "news": [
+        {
+            "title": "Ataques ao Irão continuam, retaliações também. Reino Unido cede bases aos EUA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/mundo/noticia/ataques-irao-continuam-retaliacoes-tambem-reino-unido-cede-bases-eua-2166490"
+        },
         {
             "title": "Só um em cada quatro norte-americanos apoia os ataques ao Irão",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/mundo/noticia/so-quatro-norteamericanos-apoia-ataques-irao-2166470"
@@ -25,12 +29,8 @@
         {
             "title": "Passos Coelho e Sérgio Sousa Pinto preparam estudo sobre bloqueios da economia",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/politica/noticia/passos-coelho-sergio-sousa-pinto-preparam-estudo-bloqueios-economia-2166475"
-        },
-        {
-            "title": "Pesquisa brasileira dá esperança a pacientes com lesões na medula",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/publico-brasil/noticia/pesquisa-brasileira-esperanca-pacientes-lesoes-medula-2166442"
         }
     ],
     "finance": [],
-    "last_update": "01/03/2026 23:43"
+    "last_update": "02/03/2026 05:08"
 }
