@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 12.2,
-        "manha": 12.7,
-        "tarde": 13.2,
-        "noite": 11.8
+        "manha": 12.4,
+        "tarde": 13.4,
+        "noite": 12.0
     },
     "forecast": {
-        "max": 19.7,
-        "min": 11.8
+        "max": 19.6,
+        "min": 11.6
     },
     "news": [
         {
-            "title": "Tão longe, tão perto: vinhos brasileiros para degustar em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/publico-brasil/noticia/tao-longe-tao-perto-vinhos-brasileiros-degustar-portugal-2166488"
+            "title": "Galp com maior lucro de sempre: 1154 milhões em 2025. Dividendo sobe 4%",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/economia/noticia/galp-maior-lucro-1154-milhoes-2025-dividendo-sobe-4-2166509"
         },
         {
-            "title": "Proibida na Dinamarca, a <em>ashwagandha </em>preocupa as autoridades europeias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/ciencia/noticia/proibida-dinamarca-ashwagandha-preocupa-autoridades-europeias-2166279"
+            "title": "Biblioteca de Bolso com Miguel Cardoso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/culturaipsilon/noticia/biblioteca-bolso-miguel-cardoso-2166510"
         },
         {
-            "title": "O xampu filosofal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/publico-brasil/opiniao/xampu-filosofal-2166487"
+            "title": "Contribuintes têm até ao final desta segunda-feira para validar facturas do IRS de 2025",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/economia/noticia/contribuintes-ate-final-segundafeira-validar-facturas-irs-2025-2166507"
         },
         {
-            "title": "Trump quer conduzir Cuba para a dependência total dos EUA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/mundo/noticia/trump-quer-conduzir-cuba-dependencia-total-eua-2166308"
+            "title": "Que países do Médio Oriente foram atacados pelo Irão?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/mundo/noticia/paises-medio-oriente-atacados-irao-2166506"
         },
         {
-            "title": "O ataque ao Irão interessa mais a Israel do que aos EUA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/mundo/noticia/ataque-irao-interessa-israel-eua-2166489"
+            "title": "Actor Awards: estrelas reúnem-se na passadeira vermelha para reimaginar Hollywood",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/impar/noticia/actor-awards-estrelas-reunemse-passadeira-vermelha-reimaginar-hollywood-2166498"
         }
     ],
     "finance": [],
-    "last_update": "02/03/2026 08:00"
+    "last_update": "02/03/2026 11:09"
 }
