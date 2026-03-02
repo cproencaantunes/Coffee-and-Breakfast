@@ -2,8 +2,8 @@
     "weather": {
         "atual": 12.2,
         "manha": 12.4,
-        "tarde": 13.4,
-        "noite": 12.0
+        "tarde": 12.7,
+        "noite": 11.8
     },
     "forecast": {
         "max": 19.6,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Galp com maior lucro de sempre: 1154 milhões em 2025. Dividendo sobe 4%",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/economia/noticia/galp-maior-lucro-1154-milhoes-2025-dividendo-sobe-4-2166509"
+            "title": "Trump diz que guerra vai durar “quatro semanas”, Israel “o que for preciso”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/mundo/noticia/trump-guerra-vai-durar-quatro-semanas-israel-preciso-2166524"
         },
         {
-            "title": "Biblioteca de Bolso com Miguel Cardoso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/culturaipsilon/noticia/biblioteca-bolso-miguel-cardoso-2166510"
+            "title": "AIMA lançará portal único para atender imigrantes. E pagará 208 mil euros por ele",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/publico-brasil/noticia/aima-lancara-portal-unico-atender-imigrantes-pagara-208-mil-euros-2166532"
         },
         {
-            "title": "Contribuintes têm até ao final desta segunda-feira para validar facturas do IRS de 2025",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/economia/noticia/contribuintes-ate-final-segundafeira-validar-facturas-irs-2025-2166507"
+            "title": "Portugal deixou de ser destino final. Tornou-se plataforma",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/publico-brasil/opiniao/portugal-deixou-destino-final-tornouse-plataforma-2166541"
         },
         {
-            "title": "Que países do Médio Oriente foram atacados pelo Irão?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/mundo/noticia/paises-medio-oriente-atacados-irao-2166506"
+            "title": "Conflito no Médio Oriente provoca disrupção e indefinição nas viagens",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/economia/noticia/conflito-medio-oriente-provoca-disrupcao-indefinicao-viagens-2166533"
         },
         {
-            "title": "Actor Awards: estrelas reúnem-se na passadeira vermelha para reimaginar Hollywood",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/impar/noticia/actor-awards-estrelas-reunemse-passadeira-vermelha-reimaginar-hollywood-2166498"
+            "title": "Os alvos iniciais dos ataques dos EUA e de Israel no Irão e onde Teerão retaliou",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/mundo/noticia/alvos-iniciais-ataques-eua-israel-irao-onde-teerao-retaliou-2166457"
         }
     ],
     "finance": [],
-    "last_update": "02/03/2026 11:09"
+    "last_update": "02/03/2026 14:29"
 }
