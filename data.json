@@ -2,35 +2,35 @@
     "weather": {
         "atual": 12.2,
         "manha": 12.4,
-        "tarde": 12.7,
-        "noite": 11.8
+        "tarde": 13.9,
+        "noite": 11.9
     },
     "forecast": {
-        "max": 19.6,
+        "max": 19.4,
         "min": 11.6
     },
     "news": [
         {
-            "title": "Trump diz que guerra vai durar “quatro semanas”, Israel “o que for preciso”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/mundo/noticia/trump-guerra-vai-durar-quatro-semanas-israel-preciso-2166524"
+            "title": "Câmara de Coimbra anula concurso de programador para Convento São Francisco",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/culturaipsilon/noticia/camara-coimbra-anula-concurso-programador-convento-sao-francisco-2166571"
         },
         {
-            "title": "AIMA lançará portal único para atender imigrantes. E pagará 208 mil euros por ele",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/publico-brasil/noticia/aima-lancara-portal-unico-atender-imigrantes-pagara-208-mil-euros-2166532"
+            "title": "Caças norte-americanos \"acidentalmente\" abatidos pelo Kuwait",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/video/cacas-norteamericanos-acidentalmente-abatidos-kuwait-20260302-170125"
         },
         {
-            "title": "Portugal deixou de ser destino final. Tornou-se plataforma",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/publico-brasil/opiniao/portugal-deixou-destino-final-tornouse-plataforma-2166541"
+            "title": "É um <em>smartphone</em>, mas também é uma espécie de robot",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/video/smartphone-tambem-genero-robo-20260302-141812"
         },
         {
-            "title": "Conflito no Médio Oriente provoca disrupção e indefinição nas viagens",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/economia/noticia/conflito-medio-oriente-provoca-disrupcao-indefinicao-viagens-2166533"
+            "title": "Novo advogado oficioso de Sócrates ainda pode pedir dispensa da <em>Operação Marquês</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/sociedade/noticia/novo-defensor-oficioso-socrates-pedir-dispensa-operacao-marques-2166572"
         },
         {
-            "title": "Os alvos iniciais dos ataques dos EUA e de Israel no Irão e onde Teerão retaliou",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/mundo/noticia/alvos-iniciais-ataques-eua-israel-irao-onde-teerao-retaliou-2166457"
+            "title": "Apple lança iPhone 17e por 739 euros e aumenta armazenamento base para 256 GB",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/enter/noticia/apple-lanca-iphone-17e-739-euros-aumenta-armazenamento-base-256-gb-2166559"
         }
     ],
     "finance": [],
-    "last_update": "02/03/2026 14:29"
+    "last_update": "02/03/2026 17:32"
 }
