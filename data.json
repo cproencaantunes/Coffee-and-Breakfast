@@ -1,9 +1,9 @@
 {
     "weather": {
         "atual": 12.2,
-        "manha": 12.6,
+        "manha": 12.7,
         "tarde": 13.2,
-        "noite": 12.1
+        "noite": 11.8
     },
     "forecast": {
         "max": 19.7,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Ataques ao Irão continuam, retaliações também. Reino Unido cede bases aos EUA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/mundo/noticia/ataques-irao-continuam-retaliacoes-tambem-reino-unido-cede-bases-eua-2166490"
+            "title": "Tão longe, tão perto: vinhos brasileiros para degustar em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/publico-brasil/noticia/tao-longe-tao-perto-vinhos-brasileiros-degustar-portugal-2166488"
         },
         {
-            "title": "Só um em cada quatro norte-americanos apoia os ataques ao Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/mundo/noticia/so-quatro-norteamericanos-apoia-ataques-irao-2166470"
+            "title": "Proibida na Dinamarca, a <em>ashwagandha </em>preocupa as autoridades europeias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/ciencia/noticia/proibida-dinamarca-ashwagandha-preocupa-autoridades-europeias-2166279"
         },
         {
-            "title": "Trump insta Guardas da Revolução do Irão a “pousarem as armas ou enfrentarem morte certa”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/mundo/noticia/trump-insta-guardas-revolucao-irao-pousarem-armas-enfrentarem-morte-certa-2166486"
+            "title": "O xampu filosofal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/publico-brasil/opiniao/xampu-filosofal-2166487"
         },
         {
-            "title": "Irão: o Governo meteu-nos numa guerra e não deu cavaco a ninguém",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/opiniao/cronica/irao-governo-meteunos-guerra-nao-deu-cavaco-ninguem-2166484"
+            "title": "Trump quer conduzir Cuba para a dependência total dos EUA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/mundo/noticia/trump-quer-conduzir-cuba-dependencia-total-eua-2166308"
         },
         {
-            "title": "Passos Coelho e Sérgio Sousa Pinto preparam estudo sobre bloqueios da economia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/01/politica/noticia/passos-coelho-sergio-sousa-pinto-preparam-estudo-bloqueios-economia-2166475"
+            "title": "O ataque ao Irão interessa mais a Israel do que aos EUA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/mundo/noticia/ataque-irao-interessa-israel-eua-2166489"
         }
     ],
     "finance": [],
-    "last_update": "02/03/2026 05:08"
+    "last_update": "02/03/2026 08:00"
 }
