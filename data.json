@@ -3,34 +3,34 @@
         "atual": 13.3,
         "manha": 13.9,
         "tarde": 19.3,
-        "noite": 16.8
+        "noite": 16.5
     },
     "forecast": {
         "max": 19.9,
-        "min": 13.4
+        "min": 13.3
     },
     "news": [
         {
-            "title": "Reconstruir e reparar o mundo a partir da experiência sul-africana com os MADEYOULOOK",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/culturaipsilon/noticia/reconstruir-reparar-mundo-partir-experiencia-sulafricana-madeyoulook-2166382"
+            "title": "Sporting ganha vantagem ao FC Porto na Taça de Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/desporto/noticia/sporting-ganha-vantagem-fc-porto-taca-portugal-2166752"
         },
         {
-            "title": "Portugal marca fora de horas e entra a ganhar na corrida ao Mundial feminino",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/desporto/noticia/portugal-marca-horas-entra-ganhar-corrida-mundial-feminino-2166749"
+            "title": "“O rio é uma sepultura muito grande”: 25 anos depois, ainda há feridas por sarar em Castelo de Paiva",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/local/reportagem/rio-sepultura-25-anos-ha-feridas-sarar-castelo-paiva-2166702"
         },
         {
-            "title": "Chega e IL ao lado do Governo no uso das Lajes, PS mais distante",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/politica/noticia/chega-il-lado-governo-uso-lajes-ps-distante-2166741"
+            "title": "Democracias 88, ditaduras 91",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/opiniao/editorial/democracias-88-ditaduras-91-2166666"
         },
         {
-            "title": "Irão: Espanha lembra a Trump que acordos comerciais são negociados com a UE",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/economia/noticia/irao-espanha-lembra-trump-acordos-comerciais-sao-negociados-ue-2166747"
+            "title": "Esqueleto de <em>Triceratops </em>vai a leilão numa fase de crescimento do mercado de dinossauros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/ciencia/noticia/esqueleto-triceratops-vai-leilao-fase-crescimento-mercado-dinossauros-2166748"
         },
         {
-            "title": "Há trinta deputados ao Parlamento que acumulam mandato com vereação municipal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/politica/noticia/ha-trinta-deputados-parlamento-acumulam-mandato-vereacao-municipal-2166608"
+            "title": "Deve o Direito ser lecionado em Inglês nas universidades portuguesas?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/opiniao/opiniao/direito-lecionado-ingles-universidades-portuguesas-2166631"
         }
     ],
     "finance": [],
-    "last_update": "03/03/2026 21:02"
+    "last_update": "03/03/2026 22:56"
 }
