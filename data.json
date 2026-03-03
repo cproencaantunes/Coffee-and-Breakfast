@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.3,
         "manha": 13.9,
-        "tarde": 19.4,
-        "noite": 17.0
+        "tarde": 19.3,
+        "noite": 16.8
     },
     "forecast": {
-        "max": 20.3,
-        "min": 13.8
+        "max": 19.9,
+        "min": 13.4
     },
     "news": [
         {
-            "title": "Donald Trump está viciado no poderio militar americano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/newsletter/mundo-hoje"
+            "title": "<em>A Mulher Desarvorada</em>: atriz brasileira mostra o caos da maternidade em peça",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/publico-brasil/noticia/mulher-desarvorada-atriz-brasileira-mostra-caos-maternidade-peca-2166709"
         },
         {
-            "title": "Google derruba muros com realidade aumentada e faz pontes para o iPhone",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/video/google-derruba-muros-realidade-aumentada-faz-pontes-iphone-20260303-155341"
+            "title": "Porto convida para novo concurso empresa de segurança que incumpriu contrato anterior",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/local/noticia/porto-convida-novo-concurso-empresa-seguranca-incumpriu-contrato-anterior-2166733"
         },
         {
-            "title": "Conflito alastra: países do Golfo continuam sob fogo do Irão e Israel anuncia entrada no Líbano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/mundo/noticia/conflito-alastra-paises-golfo-continuam-fogo-irao-israel-anuncia-entrada-libano-2166687"
+            "title": "Filho da princesa Mette-Marit soma mais duas acusações no julgamento por violação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/impar/noticia/filho-princesa-mettemarit-soma-duas-acusacoes-julgamento-violacao-2166717"
         },
         {
-            "title": "Guerra do Irão ameaça estabilidade recente das taxas Euribor",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/economia/noticia/guerra-irao-ameaca-estabilidade-recente-taxas-euribor-2166673"
+            "title": "Climatérico e climactérico: as dúvidas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/opiniao/opiniao/climaterico-climacterico-duvidas-2166740"
         },
         {
-            "title": "Frases inesperadas são das coisas mais divertidas da maternidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/impar/cronica/frases-inesperadas-sao-divertidas-maternidade-2166693"
+            "title": "BEI: fugir dos fósseis e investir na defesa para tornar a “Europa grande”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/economia/noticia/bei-fugir-fosseis-investir-defesa-tornar-europa-2166701"
         }
     ],
     "finance": [],
-    "last_update": "03/03/2026 17:30"
+    "last_update": "03/03/2026 19:52"
 }
