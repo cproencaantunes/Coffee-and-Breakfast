@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.3,
         "manha": 13.9,
-        "tarde": 19.9,
-        "noite": 17.1
+        "tarde": 19.4,
+        "noite": 17.0
     },
     "forecast": {
-        "max": 20.6,
+        "max": 20.3,
         "min": 13.8
     },
     "news": [
         {
-            "title": "Eis as apostas de conservação da WWF: Gerês, Caldeirão e cavalos-marinhos no Tejo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/azul/noticia/eis-apostas-conservacao-wwf-geres-caldeirao-cavalosmarinhos-tejo-2166613"
+            "title": "Donald Trump está viciado no poderio militar americano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/newsletter/mundo-hoje"
         },
         {
-            "title": "Voos recomeçam no Médio Oriente, mas estão muito longe da normalização",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/economia/noticia/voos-recomecam-medio-oriente-estao-longe-normalizacao-2166665"
+            "title": "Google derruba muros com realidade aumentada e faz pontes para o iPhone",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/video/google-derruba-muros-realidade-aumentada-faz-pontes-iphone-20260303-155341"
         },
         {
-            "title": "Milhares assistiram ao funeral de crianças mortas em ataque a escola no Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/video/milhares-assistiram-funeral-criancas-mortas-ataque-aereo-escola-irao-20260303-132026"
+            "title": "Conflito alastra: países do Golfo continuam sob fogo do Irão e Israel anuncia entrada no Líbano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/mundo/noticia/conflito-alastra-paises-golfo-continuam-fogo-irao-israel-anuncia-entrada-libano-2166687"
         },
         {
-            "title": "Ministério Público pede aplicação de multa até 1530 euros a Sócrates",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/sociedade/noticia/ministerio-publico-pede-aplicacao-multa-ate-1530-euros-socrates-2166664"
+            "title": "Guerra do Irão ameaça estabilidade recente das taxas Euribor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/economia/noticia/guerra-irao-ameaca-estabilidade-recente-taxas-euribor-2166673"
         },
         {
-            "title": "“Vamos ter escassez de frutos vermelhos e os preços vão aumentar”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/azul/noticia/vamos-escassez-frutos-vermelhos-precos-vao-aumentar-2166544"
+            "title": "Frases inesperadas são das coisas mais divertidas da maternidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/impar/cronica/frases-inesperadas-sao-divertidas-maternidade-2166693"
         }
     ],
     "finance": [],
-    "last_update": "03/03/2026 14:32"
+    "last_update": "03/03/2026 17:30"
 }
