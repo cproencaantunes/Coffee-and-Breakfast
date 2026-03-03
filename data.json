@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.3,
         "manha": 13.8,
-        "tarde": 19.7,
-        "noite": 17.1
+        "tarde": 19.8,
+        "noite": 17.2
     },
     "forecast": {
-        "max": 20.6,
-        "min": 13.9
+        "max": 20.4,
+        "min": 14.0
     },
     "news": [
         {
-            "title": "Guerra no Irão: preços de energia voltam a subir e as bolsas perdem 2%",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/economia/noticia/guerra-irao-precos-energia-voltam-subir-bolsas-perdem-2-2166634"
+            "title": "Democratas acreditam em vitória no Texas: com um seminarista ou uma espalha-brasas?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/mundo/noticia/democratas-acreditam-vitoria-texas-seminarista-espalhabrasas-2166645"
         },
         {
-            "title": "Sombra do afastamento de chefes militares deve pairar sobre Congresso chinês",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/mundo/noticia/sombra-afastamento-chefes-militares-pairar-congresso-chines-2166551"
+            "title": "Madalena Sá Fernandes: “Há uma necessidade de que toda a gente seja influencer na sua área... é desgastante”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/impar/podcast/madalena-sa-fernandes-ha-necessidade-gente-influencer-area-desgastante-2166567"
         },
         {
-            "title": "Restauro da Natureza: o caminho para a vida selvagem",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/azul/opiniao/restauro-natureza-caminho-vida-selvagem-2166355"
+            "title": "<em>Quando um fio s’ensarilha?</em>, as vozes das Segue-me à Capela desensarilham-no a cantar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/culturaipsilon/noticia/fio-sensarilha-vozes-segueme-capela-desensarilhamno-cantar-2166648"
         },
         {
-            "title": "Uma só casa para pais e filhos adultos: como gerir a rotina e preparar a saída",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/impar/noticia/so-casa-pais-filhos-adultos-gerir-rotina-preparar-saida-2166164"
+            "title": "Norte-americana Laurie Anderson de volta a Portugal para concertos em Lisboa e Braga",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/culturaipsilon/noticia/norteamericana-laurie-anderson-volta-portugal-concertos-lisboa-braga-2166649"
         },
         {
-            "title": "Oportunidades para empreendedores e investidores brasileiros em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/publico-brasil/opiniao/oportunidades-empreendedores-investidores-brasileiros-portugal-2166632"
+            "title": "Quase 20% das mulheres em Portugal sofreram violência física ou sexual",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/sociedade/noticia/quase-20-mulheres-portugal-sofreram-violencia-fisica-sexual-2166633"
         }
     ],
     "finance": [],
-    "last_update": "03/03/2026 10:05"
+    "last_update": "03/03/2026 11:57"
 }
