@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 13.3,
-        "manha": 13.8,
-        "tarde": 19.8,
-        "noite": 17.2
+        "manha": 13.9,
+        "tarde": 19.9,
+        "noite": 17.1
     },
     "forecast": {
-        "max": 20.4,
-        "min": 14.0
+        "max": 20.6,
+        "min": 13.8
     },
     "news": [
         {
-            "title": "Democratas acreditam em vitória no Texas: com um seminarista ou uma espalha-brasas?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/mundo/noticia/democratas-acreditam-vitoria-texas-seminarista-espalhabrasas-2166645"
+            "title": "Eis as apostas de conservação da WWF: Gerês, Caldeirão e cavalos-marinhos no Tejo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/azul/noticia/eis-apostas-conservacao-wwf-geres-caldeirao-cavalosmarinhos-tejo-2166613"
         },
         {
-            "title": "Madalena Sá Fernandes: “Há uma necessidade de que toda a gente seja influencer na sua área... é desgastante”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/impar/podcast/madalena-sa-fernandes-ha-necessidade-gente-influencer-area-desgastante-2166567"
+            "title": "Voos recomeçam no Médio Oriente, mas estão muito longe da normalização",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/economia/noticia/voos-recomecam-medio-oriente-estao-longe-normalizacao-2166665"
         },
         {
-            "title": "<em>Quando um fio s’ensarilha?</em>, as vozes das Segue-me à Capela desensarilham-no a cantar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/culturaipsilon/noticia/fio-sensarilha-vozes-segueme-capela-desensarilhamno-cantar-2166648"
+            "title": "Milhares assistiram ao funeral de crianças mortas em ataque a escola no Irão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/video/milhares-assistiram-funeral-criancas-mortas-ataque-aereo-escola-irao-20260303-132026"
         },
         {
-            "title": "Norte-americana Laurie Anderson de volta a Portugal para concertos em Lisboa e Braga",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/culturaipsilon/noticia/norteamericana-laurie-anderson-volta-portugal-concertos-lisboa-braga-2166649"
+            "title": "Ministério Público pede aplicação de multa até 1530 euros a Sócrates",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/sociedade/noticia/ministerio-publico-pede-aplicacao-multa-ate-1530-euros-socrates-2166664"
         },
         {
-            "title": "Quase 20% das mulheres em Portugal sofreram violência física ou sexual",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/sociedade/noticia/quase-20-mulheres-portugal-sofreram-violencia-fisica-sexual-2166633"
+            "title": "“Vamos ter escassez de frutos vermelhos e os preços vão aumentar”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/azul/noticia/vamos-escassez-frutos-vermelhos-precos-vao-aumentar-2166544"
         }
     ],
     "finance": [],
-    "last_update": "03/03/2026 11:57"
+    "last_update": "03/03/2026 14:32"
 }
