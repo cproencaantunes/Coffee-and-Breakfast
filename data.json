@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 13.3,
-        "manha": 13.5,
-        "tarde": 19.8,
-        "noite": 17.2
+        "manha": 13.8,
+        "tarde": 19.7,
+        "noite": 17.1
     },
     "forecast": {
         "max": 20.6,
-        "min": 14.1
+        "min": 13.9
     },
     "news": [
         {
-            "title": "Mais uma Audrey Hepburn",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/opiniao/cronica/audrey-hepburn-2166555"
+            "title": "Irão retalia e ataca base do Bahrein e embaixada dos EUA em Riade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/mundo/noticia/irao-retalia-ataca-base-bahrein-embaixada-eua-riade-2166626"
         },
         {
-            "title": "Brasileiros não poderão pedir vistos para Portugal pelos Correios a partir de abril",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/publico-brasil/noticia/brasileiros-nao-poderao-pedir-vistos-portugal-correios-partir-abril-2166622"
+            "title": "Da comparticipação de fármacos a incentivos fiscais a hábitos saudáveis: medidas para prevenir e tratar a obesidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/sociedade/noticia/comparticipacao-farmacos-incentivos-fiscais-habitos-saudaveis-medidas-prevenir-tratar-obesidade-2166564"
         },
         {
-            "title": "Brasil usa comida como cartão de visita em feira de turismo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/publico-brasil/noticia/brasil-usa-comida-cartao-visita-feira-turismo-2166518"
+            "title": "Inteligência artificial recomenda casinos ilegais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/sociedade/noticia/inteligencia-artificial-recomenda-casinos-ilegais-2166504"
         },
         {
-            "title": "Governo autorizou uso condicional das Lajes após ataque ao Irão, diz Rangel",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/politica/noticia/governo-autorizou-uso-condicional-lajes-apos-ataque-irao-rangel-2166618"
+            "title": "A guerra alastra pelo Médio Oriente e o mundo sabe muito pouco sobre a guerra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/mundo/noticia/guerra-alastra-medio-oriente-mundo-sabe-guerra-2166612"
         },
         {
-            "title": "Gil Vicente estudou bem a lição, mas Benfica passou teste em Barcelos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/02/desporto/cronica_de_jogo/gil-vicente-estudou-bem-licao-benfica-passou-teste-barcelos-2166616"
+            "title": "A morte do <em>ayatollah </em>não faz a paz e a democracia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/03/opiniao/opiniao/morte-ayatollah-nao-faz-paz-democracia-2166594"
         }
     ],
     "finance": [],
-    "last_update": "03/03/2026 05:06"
+    "last_update": "03/03/2026 07:56"
 }
