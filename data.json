@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 15.5,
-        "manha": 14.2,
-        "tarde": 20.1,
-        "noite": 15.2
+        "manha": 14.1,
+        "tarde": 20.0,
+        "noite": 15.1
     },
     "forecast": {
-        "max": 15.7,
-        "min": 10.2
+        "max": 14.9,
+        "min": 10.4
     },
     "news": [
         {
-            "title": "Já provou “hambúrguer sem pão”? É criação de uma brasileira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/publico-brasil/noticia/ja-provou-hamburguer-pao-criacao-brasileira-2166697"
+            "title": "É na rua que os miúdos (mais) aprendem a conviver",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/local/reportagem/rua-miudos-aprendem-conviver-2166380"
         },
         {
-            "title": "Como os Estados Unidos usaram a IA da Anthropic no ataque ao Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/mundo/noticia/estados-unidos-usaram-ia-anthropic-ataque-irao-2166692"
+            "title": "<em>Pillion</em>: os meninos de couro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/culturaipsilon/critica/pillion-meninos-couro-2166579"
         },
         {
-            "title": "O julgamento de Sócrates caminha para a eternidade, agora com a renúncia de advogados em defendê-lo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/sociedade/noticia/julgamento-socrates-caminha-eternidade-renuncia-advogados-defendelo-2166754"
+            "title": "Bolsas em queda na Ásia e estabilizadas na Europa, petróleo continua a subir",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/economia/noticia/bolsas-queda-asia-estabilizadas-europa-petroleo-continua-subir-2166761"
         },
         {
-            "title": "“Vivem anos sem diagnóstico”: 368 mil portugueses terão demência em 2050",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/sociedade/noticia/vivem-anos-diagnostico-368-mil-portugueses-terao-demencia-2050-2166336"
+            "title": "“Este é um problema social grave”: há mais gente a pedir ajuda para pagar a renda",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/sociedade/noticia/privacao-habitacional-severa-agravouse-ha-gente-pedir-ajuda-pagar-renda-2166734"
         },
         {
-            "title": "Dia Mundial da Obesidade: prevenir desigualdades para não tratar (e gastar) amanhã",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/ciencia/opiniao/dia-mundial-obesidade-prevenir-desigualdades-nao-tratar-gastar-amanha-2166615"
+            "title": "PSP e PJ realizam operação de prevenção criminal na Cova da Moura",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/sociedade/noticia/psp-pj-realizam-operacao-prevencao-criminal-cova-moura-2166759"
         }
     ],
     "finance": [],
-    "last_update": "04/03/2026 07:27"
+    "last_update": "04/03/2026 10:00"
 }
