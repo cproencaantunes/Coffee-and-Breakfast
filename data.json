@@ -3,34 +3,34 @@
         "atual": 15.5,
         "manha": 14.2,
         "tarde": 19.3,
-        "noite": 14.3
+        "noite": 14.2
     },
     "forecast": {
-        "max": 14.7,
-        "min": 9.9
+        "max": 14.9,
+        "min": 10.2
     },
     "news": [
         {
-            "title": "Souto de Moura: \"Estou morto por fazer habitação para a classe média e habitação social\"",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/video/souto-moura-morto-habitacao-classe-media-habitacao-social-20260304-153527"
+            "title": "Montenegro propõe eleições no PSD em Maio e desafia Passos Coelho a concorrer",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/politica/noticia/montenegro-propoe-eleicoes-psd-maio-desafia-passos-coelho-concorrer-2166896"
         },
         {
-            "title": "Eduardo Souto de Moura: “Estou quase sempre a desenhar a mesma casa”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/culturaipsilon/entrevista/eduardo-souto-moura-quase-desenhar-casa-2166657"
+            "title": "Ana Seabra e a experiência no andebol do Irão: “O regime pressiona por medalhas, desvalorizando o processo”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/desporto/entrevista/ana-seabra-experiencia-andebol-irao-regime-pressiona-medalhas-desvalorizando-processo-2166855"
         },
         {
-            "title": "Marcelo Rebelo de Sousa eternizou-se num retrato de Vhils feito de páginas de jornais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/culturaipsilon/noticia/marcelo-rebelo-sousa-eternizouse-retrato-vhils-paginas-jornais-2166813"
+            "title": "Apple lança MacBook Neo por 699 euros para desafiar Chromebooks e PCs Windows",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/enter/noticia/apple-lanca-macbook-neo-699-euros-desafiar-chromebooks-pcs-windows-2166889"
         },
         {
-            "title": "Na <em>movida</em> dos anos 80 e 90, a fotografia de um selvagem entre selvagens: Álvaro Rosendo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/culturaipsilon/noticia/movida-anos-80-90-fotografia-selvagem-selvagens-alvaro-rosendo-2166711"
+            "title": "Francisco Trincão renova com o Sporting até 2030",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/desporto/noticia/francisco-trincao-renova-sporting-ate-2030-2166893"
         },
         {
-            "title": "Adrenalina em duas rodas é fazer spinning com banda ao vivo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/impar/reportagem/adrenalina-duas-rodas-spinning-banda-vivo-2166694"
+            "title": "Sob cem olhos: o lar e a arquitectura invisível de vigilância",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/ciencia/ensaio/cem-olhos-lar-arquitectura-invisivel-vigilancia-2166500"
         }
     ],
     "finance": [],
-    "last_update": "04/03/2026 21:01"
+    "last_update": "04/03/2026 23:01"
 }
