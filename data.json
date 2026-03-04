@@ -2,35 +2,35 @@
     "weather": {
         "atual": 15.5,
         "manha": 14.2,
-        "tarde": 19.9,
+        "tarde": 19.3,
         "noite": 14.3
     },
     "forecast": {
-        "max": 14.3,
+        "max": 14.7,
         "min": 9.9
     },
     "news": [
         {
-            "title": "Se há rede, filtro de barro e cuia de chimarrão, é uma casa brasileira, com certeza",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/publico-brasil/noticia/ha-rede-filtro-barro-cuia-chimarrao-casa-brasileira-certeza-2166842"
+            "title": "Lula sanciona acordo que mantém isenção de vistos a brasileiros na União Europeia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/publico-brasil/noticia/lula-sanciona-acordo-mantem-isencao-vistos-brasileiros-uniao-europeia-2166883"
         },
         {
-            "title": "Renegociar crédito à habitação em Janeiro garantiu taxa mais baixa que nos novos contratos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/economia/noticia/renegociar-credito-habitacao-janeiro-garantiu-taxa-baixa-novos-contratos-2166847"
+            "title": "Mau tempo: Fundo Ambiental mobilizou 137 milhões de euros para apoios de emergência",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/azul/noticia/mau-tempo-fundo-ambiental-mobilizou-137-milhoes-euros-apoios-emergencia-2166884"
         },
         {
-            "title": "“Não à guerra”: Sánchez destoa do resto da Europa e provoca (mais uma vez) a ira de Trump",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/mundo/noticia/nao-guerra-sanchez-destoa-resto-europa-provoca-ira-trump-2166832"
+            "title": "Fechadas as cicatrizes, Fernando Alves regressa à TSF",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/newsletter/livre-estilo"
         },
         {
-            "title": "James Talarico vence primárias Democratas no Texas e promete trazer “esperança” para o estado Republicano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/mundo/noticia/james-talarico-vence-primarias-democratas-texas-promete-trazer-esperanca-estado-republicano-2166829"
+            "title": "FC Porto já apresentou queixa contra Luis Suárez e vai apresentar contra Frederico Varandas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/desporto/noticia/fc-porto-ja-apresentou-queixa-luis-suarez-vai-apresentar-frederico-varandas-2166885"
         },
         {
-            "title": "Submarino dos EUA afunda navio de guerra iraniano ao largo do Sri Lanka",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/mundo/noticia/submarino-eua-afunda-navio-guerra-iraniano-largo-sri-lanka-2166844"
+            "title": "Presidente da ANMP: “Uma parte do território ainda está em estado de emergência”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/local/noticia/presidente-anmp-parte-territorio-estado-emergencia-2166882"
         }
     ],
     "finance": [],
-    "last_update": "04/03/2026 17:10"
+    "last_update": "04/03/2026 19:52"
 }
