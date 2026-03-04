@@ -2,35 +2,35 @@
     "weather": {
         "atual": 15.5,
         "manha": 14.2,
-        "tarde": 20.2,
-        "noite": 14.8
+        "tarde": 19.9,
+        "noite": 14.3
     },
     "forecast": {
-        "max": 14.8,
-        "min": 10.4
+        "max": 14.3,
+        "min": 9.9
     },
     "news": [
         {
-            "title": "Ataques ao Irão já terão provocado mais de mil mortos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/mundo/noticia/ataques-irao-ja-terao-provocado-mil-mortos-2166803"
+            "title": "Se há rede, filtro de barro e cuia de chimarrão, é uma casa brasileira, com certeza",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/publico-brasil/noticia/ha-rede-filtro-barro-cuia-chimarrao-casa-brasileira-certeza-2166842"
         },
         {
-            "title": "Brasileiras e ex-servidoras da AIMA criam startup voltada à imigração em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/publico-brasil/noticia/brasileiras-exservidoras-aima-criam-startup-voltada-imigracao-portugal-2166800"
+            "title": "Renegociar crédito à habitação em Janeiro garantiu taxa mais baixa que nos novos contratos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/economia/noticia/renegociar-credito-habitacao-janeiro-garantiu-taxa-baixa-novos-contratos-2166847"
         },
         {
-            "title": "Oposição aprova <em>layoff </em>pago a 100%; PSD critica “trapalhada” e “folclore parlamentar”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/politica/noticia/oposicao-aprova-layoff-pago-100-psd-critica-trapalhada-folclore-parlamentar-2166785"
+            "title": "“Não à guerra”: Sánchez destoa do resto da Europa e provoca (mais uma vez) a ira de Trump",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/mundo/noticia/nao-guerra-sanchez-destoa-resto-europa-provoca-ira-trump-2166832"
         },
         {
-            "title": "Conferência de líderes marca eleições para órgãos externos para 1 de Abril",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/politica/noticia/conferencia-lideres-marca-eleicoes-orgaos-externos-1-abril-2166784"
+            "title": "James Talarico vence primárias Democratas no Texas e promete trazer “esperança” para o estado Republicano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/mundo/noticia/james-talarico-vence-primarias-democratas-texas-promete-trazer-esperanca-estado-republicano-2166829"
         },
         {
-            "title": "Voo da Emirates do Dubai com chegada prevista a Lisboa pelas 19h30",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/economia/noticia/voo-emirates-dubai-chegada-prevista-lisboa-19h30-2166798"
+            "title": "Submarino dos EUA afunda navio de guerra iraniano ao largo do Sri Lanka",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/04/mundo/noticia/submarino-eua-afunda-navio-guerra-iraniano-largo-sri-lanka-2166844"
         }
     ],
     "finance": [],
-    "last_update": "04/03/2026 14:10"
+    "last_update": "04/03/2026 17:10"
 }
