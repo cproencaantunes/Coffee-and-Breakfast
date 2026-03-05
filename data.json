@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.3,
         "manha": 12.7,
-        "tarde": 13.1,
-        "noite": 10.5
+        "tarde": 13.5,
+        "noite": 10.7
     },
     "forecast": {
-        "max": 13.1,
-        "min": 9.3
+        "max": 12.9,
+        "min": 9.5
     },
     "news": [
         {
-            "title": "Cocanha, Sara Fontan e Tarta Relena cantam o labor feminino",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/culturaipsilon/noticia/cocanha-sara-fontan-tarta-relena-cantam-labor-feminino-2165858"
+            "title": "Trump despede Kristi Noem e abre dúvidas sobre o futuro da agenda migratória",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/mundo/noticia/trump-despede-kristi-noem-abre-duvidas-futuro-agenda-migratoria-2167002"
         },
         {
-            "title": "Um Encruzado fiel aos pergaminhos da casta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/terroir/noticia/encruzado-fiel-pergaminhos-casta-2166795"
+            "title": "E-fatura permitirá validar facturas de livros e espectáculos a partir de Abril",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/economia/noticia/efatura-permitira-validar-facturas-livros-espectaculos-partir-abril-2166999"
         },
         {
-            "title": "Falta de passagens sob a linha do Norte é “intolerável” e Gaia exige correcção à IP",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/local/noticia/falta-passagens-linha-norte-intoleravel-gaia-exige-correccao-ip-2166947"
+            "title": "Guerra no Irão: Portugal activou mecanismo para repatriamento de cidadãos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/sociedade/noticia/guerra-irao-portugal-activou-mecanismo-repatriamento-cidadaos-2167007"
         },
         {
-            "title": "O novo restaurante de Henrique Sá Pessoa aponta às estrelas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/fugas/reportagem/novo-restaurante-henrique-sa-pessoa-aponta-estrelas-2166620"
+            "title": "Um escritor em luta com o Nobel que “secretamente” queria — e que lhe escapou",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/culturaipsilon/noticia/escritor-luta-nobel-secretamente-queria-escapou-2166978"
         },
         {
-            "title": "António Lobo Antunes: Os jornais & eu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/culturaipsilon/noticia/antonio-lobo-antunes-jornais-2166936"
+            "title": "Redução do ruído do aeroporto Humberto Delgado abrangerá 43 mil pessoas até 2029",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/local/noticia/reducao-ruido-aeroporto-humberto-delgado-abrangera-43-mil-pessoas-ate-2029-2166998"
         }
     ],
     "finance": [],
-    "last_update": "05/03/2026 14:33"
+    "last_update": "05/03/2026 19:38"
 }
