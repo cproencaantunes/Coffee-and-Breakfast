@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 13.3,
-        "manha": 12.9,
-        "tarde": 13.3,
-        "noite": 10.4
+        "manha": 12.7,
+        "tarde": 13.1,
+        "noite": 10.5
     },
     "forecast": {
-        "max": 12.8,
-        "min": 9.5
+        "max": 13.1,
+        "min": 9.3
     },
     "news": [
         {
-            "title": "O telemóvel modular que quer acabar com o prazo de validade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/video/telemovel-modular-quer-acabar-prazo-validade-20260305-112128"
+            "title": "Cocanha, Sara Fontan e Tarta Relena cantam o labor feminino",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/culturaipsilon/noticia/cocanha-sara-fontan-tarta-relena-cantam-labor-feminino-2165858"
         },
         {
-            "title": "AIMA alerta para site falso, que tenta enganar imigrantes: “Mantenha-se atento”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/publico-brasil/noticia/aima-alerta-site-falso-tenta-enganar-imigrantes-mantenhase-atento-2166916"
+            "title": "Um Encruzado fiel aos pergaminhos da casta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/terroir/noticia/encruzado-fiel-pergaminhos-casta-2166795"
         },
         {
-            "title": "Portugueses retidos no Qatar queixam-se de falta de soluções para repatriamento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/mundo/noticia/portugueses-retidos-qatar-queixamse-falta-solucoes-repatriamento-2166914"
+            "title": "Falta de passagens sob a linha do Norte é “intolerável” e Gaia exige correcção à IP",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/local/noticia/falta-passagens-linha-norte-intoleravel-gaia-exige-correccao-ip-2166947"
         },
         {
-            "title": "Moderação com moderação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/impar/cronica/moderacao-moderacao-2166912"
+            "title": "O novo restaurante de Henrique Sá Pessoa aponta às estrelas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/fugas/reportagem/novo-restaurante-henrique-sa-pessoa-aponta-estrelas-2166620"
         },
         {
-            "title": "De <em>A Noiva!</em> à <em>Odisseia</em> de Christopher Nolan: a febre dos clássicos no ecrã",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/culturaipsilon/noticia/noiva-odisseia-christopher-nolan-febre-classicos-ecra-2166531"
+            "title": "António Lobo Antunes: Os jornais & eu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/culturaipsilon/noticia/antonio-lobo-antunes-jornais-2166936"
         }
     ],
     "finance": [],
-    "last_update": "05/03/2026 11:59"
+    "last_update": "05/03/2026 14:33"
 }
