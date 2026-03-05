@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 13.3,
-        "manha": 13.0,
-        "tarde": 13.5,
-        "noite": 10.5
+        "manha": 12.9,
+        "tarde": 13.4,
+        "noite": 10.7
     },
     "forecast": {
         "max": 13.1,
-        "min": 9.4
+        "min": 9.7
     },
     "news": [
         {
-            "title": "A imaculadofilia, a binaromania e a hibridofobia entram num dicionário",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/opiniao/opiniao/imaculadofilia-binaromania-hibridofobia-entram-dicionario-2166881"
+            "title": "Despertador: PÚBLICO celebra 36 anos com foco na habitação e Eduardo Souto de Moura como director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/newsletter/despertador"
         },
         {
-            "title": "De casa em casa, por entre memórias e algumas canções",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/culturaipsilon/opiniao/casa-casa-memorias-cancoes-2166682"
+            "title": "Várias explosões sentidas em Teerão e Beirute",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/mundo/noticia/varias-explosoes-sentidas-teerao-beirute-2166901"
         },
         {
-            "title": "Foi fatal proletarizar os professores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/opiniao/opiniao/fatal-proletarizar-professores-2166859"
+            "title": "Política pública de habitação está a acentuar assimetrias territoriais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/economia/noticia/politica-publica-habitacao-acentuar-assimetrias-territoriais-2166478"
         },
         {
-            "title": "Adiamentos sem fim? Não conseguimos aprender o corrigir?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/opiniao/opiniao/adiamentos-fim-nao-conseguimos-aprender-corrigir-2166828"
+            "title": "Habitação pública é cada vez mais essencial, mas sempre foi uma raridade em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/local/noticia/habitacao-publica-essencial-raridade-portugal-2166338"
         },
         {
-            "title": "Uma obra do Diabo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/opiniao/cronica/obra-diabo-2166801"
+            "title": "A casa longe do trabalho: “Quando era mais nova, queria morar em Lisboa. Agora não”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/local/reportagem/casa-longe-trabalho-nova-queria-morar-lisboa-nao-2166422"
         }
     ],
     "finance": [],
-    "last_update": "05/03/2026 05:04"
+    "last_update": "05/03/2026 07:56"
 }
