@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.3,
         "manha": 12.9,
-        "tarde": 13.4,
-        "noite": 10.7
+        "tarde": 13.3,
+        "noite": 10.4
     },
     "forecast": {
-        "max": 13.1,
-        "min": 9.7
+        "max": 12.8,
+        "min": 9.5
     },
     "news": [
         {
-            "title": "Despertador: PÚBLICO celebra 36 anos com foco na habitação e Eduardo Souto de Moura como director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/newsletter/despertador"
+            "title": "A Lei do Oceano da UE não está a ir por bom caminho, diz Fundação Oceano Azul",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/azul/noticia/lei-oceano-ue-nao-ir-bom-caminho-fundacao-oceano-azul-2166892"
         },
         {
-            "title": "Várias explosões sentidas em Teerão e Beirute",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/mundo/noticia/varias-explosoes-sentidas-teerao-beirute-2166901"
+            "title": "Zia Soares agarra em Bernard-Marie Koltès para pensar a fronteira e o colonialismo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/culturaipsilon/noticia/zia-soares-agarra-bernardmarie-koltes-pensar-fronteira-colonialismo-2166799"
         },
         {
-            "title": "Política pública de habitação está a acentuar assimetrias territoriais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/economia/noticia/politica-publica-habitacao-acentuar-assimetrias-territoriais-2166478"
+            "title": "A guerra chegou aos Jogos Paralímpicos de Inverno",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/desporto/noticia/guerra-chegou-jogos-paralimpicos-2166891"
         },
         {
-            "title": "Habitação pública é cada vez mais essencial, mas sempre foi uma raridade em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/local/noticia/habitacao-publica-essencial-raridade-portugal-2166338"
+            "title": "Loja de brasileira foi engolida pelas águas, mas ela está pronta para recomeçar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/publico-brasil/noticia/loja-brasileira-engolida-aguas-pronta-recomecar-2166905"
         },
         {
-            "title": "A casa longe do trabalho: “Quando era mais nova, queria morar em Lisboa. Agora não”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/local/reportagem/casa-longe-trabalho-nova-queria-morar-lisboa-nao-2166422"
+            "title": "Contra o “pessimismo” e o “engano”, as cooperativas renascem e resistem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/economia/noticia/pessimismo-engano-cooperativas-renascem-resistem-2166467"
         }
     ],
     "finance": [],
-    "last_update": "05/03/2026 07:56"
+    "last_update": "05/03/2026 10:07"
 }
