@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 10.0,
-        "manha": 11.1,
-        "tarde": 12.6,
+        "atual": 10.1,
+        "manha": 11.0,
+        "tarde": 12.3,
         "noite": 11.5
     },
     "forecast": {
-        "max": 15.8,
-        "min": 10.5
+        "max": 15.9,
+        "min": 10.4
     },
     "news": [
         {
-            "title": "Nós por cá todos bem",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/opiniao/opiniao/ca-bem-2166985"
+            "title": "O Presidente Marcelo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/opiniao/opiniao/presidente-marcelo-2167010"
         },
         {
-            "title": "“A morte pode destruir-me, mas não me mata”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/culturaipsilon/cronica/morte-destruirme-nao-mata-2166954"
+            "title": "Do caso da baleia azul ao desafio do paracetamol",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/opiniao/opiniao/caso-baleia-azul-desafio-paracetamol-2166971"
         },
         {
-            "title": "A Guerra Colonial levou “fantasmas” e a “morte concreta” à obra de Lobo Antunes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/culturaipsilon/noticia/guerra-colonial-levou-fantasmas-morte-concreta-obra-lobo-antunes-2167005"
+            "title": "A PAC e o território: é tempo de descentralizar!",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/opiniao/opiniao/pac-territorio-tempo-descentralizar-2166980"
         },
         {
-            "title": "Do trabalhar “para o boneco” às reportagens de casamento: memórias políticas de 36 anos de PÚBLICO",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/politica/noticia/trabalhar-boneco-reportagens-casamento-memorias-politicas-36-anos-publico-2167019"
+            "title": "Quem quer ser “<em>outsider</em>” tem de se comportar como tal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/opiniao/opiniao/quer-outsider-comportar-tal-2166991"
         },
         {
-            "title": "Num voo da electricidade rock ao balanço sintético, os Ganso aterram no Coliseu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/culturaipsilon/noticia/voo-electricidade-rock-balanco-sintetico-ganso-aterram-coliseu-2166812"
+            "title": "A doença mental colectiva e a uberização da sociedade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/opiniao/cronica/doenca-mental-colectiva-uberizacao-sociedade-2166850"
         }
     ],
     "finance": [],
-    "last_update": "06/03/2026 00:01"
+    "last_update": "06/03/2026 05:13"
 }
