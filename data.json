@@ -3,34 +3,34 @@
         "atual": 10.1,
         "manha": 11.2,
         "tarde": 13.0,
-        "noite": 11.7
+        "noite": 11.8
     },
     "forecast": {
-        "max": 17.1,
+        "max": 17.3,
         "min": 10.7
     },
     "news": [
         {
-            "title": "Marcelo, um Presidente de “ideias loucas”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/opiniao/editorial/marcelo-presidente-ideias-loucas-2167108"
+            "title": "Sporting vence Benfica e segue em frente na Champions de futsal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/desporto/noticia/sporting-vence-benfica-segue-frente-champions-futsal-2167144"
         },
         {
-            "title": "Cidades do interior do Rio Grande do Sul entram na disputa por turistas estrangeiros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/publico-brasil/noticia/cidades-interior-rio-sul-entram-disputa-turistas-estrangeiros-2167138"
+            "title": "“Há revisões constitucionais destinadas a subverter a própria Constituição”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/sociedade/noticia/ha-revisoes-constitucionais-destinadas-subverter-propria-constituicao-2167141"
         },
         {
-            "title": "A dupla memória do Presidente-rei",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/politica/opiniao/dupla-memoria-presidenterei-2166861"
+            "title": "Escócia legaliza “aquamação”, técnica funerária que dissolve cadáveres em água",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/azul/noticia/escocia-legaliza-aquamacao-tecnica-funeraria-dissolve-cadaveres-agua-2166942"
         },
         {
-            "title": "Revolução, casa, sangue: um périplo pelas galerias portuguesas na ARCOmadrid",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/culturaipsilon/noticia/revolucao-casa-sangue-periplo-galerias-portuguesas-arcomadrid-2167137"
+            "title": "Polícia da Geórgia, nos Estados Unidos, mata brasileiro em crise de saúde mental",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/publico-brasil/noticia/policia-georgia-estados-unidos-mata-brasileiro-crise-saude-mental-2167142"
         },
         {
-            "title": "Secretário de Estado considera um insulto PS acusar executivo de não contactar portugueses nos Emirados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/politica/noticia/secretario-estado-considera-insulto-ps-acusar-executivo-nao-contactar-portugueses-emirados-2167128"
+            "title": "Marcelo fez 2494 condecorações e preferiu destacar trabalhadores em vez de CEO",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/politica/noticia/marcelo-fez-2494-condecoracoes-preferiu-destacar-trabalhadores-ceo-2167073"
         }
     ],
     "finance": [],
-    "last_update": "06/03/2026 21:00"
+    "last_update": "06/03/2026 21:55"
 }
