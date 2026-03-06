@@ -2,35 +2,35 @@
     "weather": {
         "atual": 10.1,
         "manha": 11.2,
-        "tarde": 12.5,
-        "noite": 11.6
+        "tarde": 13.0,
+        "noite": 11.7
     },
     "forecast": {
-        "max": 16.4,
-        "min": 10.5
+        "max": 17.1,
+        "min": 10.7
     },
     "news": [
         {
-            "title": "Rússia estará a fornecer ao Irão informações para atacar forças dos EUA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/mundo/noticia/russia-estara-fornecer-irao-informacoes-atacar-forcas-eua-2167089"
+            "title": "A China vai reduzir 17% das emissões até 2030, abaixo das expectativas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/azul/noticia/china-vai-reduzir-17-emissoes-ate-2030-abaixo-expectativas-2167096"
         },
         {
-            "title": "Apesar de condenar ameaças de Trump a Espanha, Montenegro garante estar “ao lado dos EUA”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/politica/noticia/apesar-condenar-ameacas-trump-montenegro-garante-estar-lado-eua-2167078"
+            "title": "Oeno: justiça britânica declara insolvência da corretora de vinhos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/terroir/noticia/oeno-justica-britanica-declara-insolvencia-corretora-vinhos-2166786"
         },
         {
-            "title": "Quinze distritos sob avisos devido à neve, vento e agitação marítima",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/sociedade/noticia/quinze-distritos-avisos-devido-neve-vento-agitacao-maritima-2167079"
+            "title": "Médicos defendem que atestados para carta de condução devem ser passados em consultas presenciais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/sociedade/noticia/medicos-defendem-atestados-carta-conducao-passados-consultas-presenciais-2167119"
         },
         {
-            "title": "Relatório nota risco elevado para árvores com obras de <em>metrobus </em>em rua de Coimbra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/local/noticia/relatorio-nota-risco-elevado-arvores-obras-metrobus-rua-coimbra-2167065"
+            "title": "As odes e <em>siguiriyas </em>destes dias tristes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/fugas/cronica/odes-siguiriyas-dias-tristes-2166652"
         },
         {
-            "title": "Mau tempo: Óbidos adia início do Festival de Chocolate",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/fugas/noticia/mau-tempo-obidos-adia-inicio-festival-chocolate-2167081"
+            "title": "Administração Trump está a recusar pedidos de devolução de taxas ilegais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/economia/noticia/administracao-trump-recusar-pedidos-devolucao-taxas-ilegais-2167109"
         }
     ],
     "finance": [],
-    "last_update": "06/03/2026 16:05"
+    "last_update": "06/03/2026 18:04"
 }
