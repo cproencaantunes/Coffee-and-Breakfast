@@ -1,15 +1,23 @@
 {
     "weather": {
-        "atual": 13.3,
-        "manha": 12.7,
-        "tarde": 13.5,
-        "noite": 10.6
+        "atual": 10.0,
+        "manha": 11.1,
+        "tarde": 12.6,
+        "noite": 11.5
     },
     "forecast": {
-        "max": 12.7,
-        "min": 9.5
+        "max": 15.8,
+        "min": 10.5
     },
     "news": [
+        {
+            "title": "Nós por cá todos bem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/opiniao/opiniao/ca-bem-2166985"
+        },
+        {
+            "title": "“A morte pode destruir-me, mas não me mata”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/culturaipsilon/cronica/morte-destruirme-nao-mata-2166954"
+        },
         {
             "title": "A Guerra Colonial levou “fantasmas” e a “morte concreta” à obra de Lobo Antunes",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/culturaipsilon/noticia/guerra-colonial-levou-fantasmas-morte-concreta-obra-lobo-antunes-2167005"
@@ -21,16 +29,8 @@
         {
             "title": "Num voo da electricidade rock ao balanço sintético, os Ganso aterram no Coliseu",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/culturaipsilon/noticia/voo-electricidade-rock-balanco-sintetico-ganso-aterram-coliseu-2166812"
-        },
-        {
-            "title": "Descomposto apanhado do meu amigo António, agora lá em cima",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/culturaipsilon/cronica/descomposto-apanhado-amigo-antonio-cima-2166997"
-        },
-        {
-            "title": "Milícias curdas iranianas no Iraque preparadas para entrar no Irão com apoio dos EUA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/05/mundo/noticia/milicias-curdas-iraquianas-preparadas-entrar-irao-apoio-eua-2166983"
         }
     ],
     "finance": [],
-    "last_update": "05/03/2026 21:51"
+    "last_update": "06/03/2026 00:01"
 }
