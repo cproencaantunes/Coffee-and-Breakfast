@@ -2,35 +2,35 @@
     "weather": {
         "atual": 10.1,
         "manha": 11.2,
-        "tarde": 12.6,
-        "noite": 11.7
+        "tarde": 12.5,
+        "noite": 11.6
     },
     "forecast": {
-        "max": 16.5,
-        "min": 10.6
+        "max": 16.4,
+        "min": 10.5
     },
     "news": [
         {
-            "title": "Claude nas bocas do mundo: Anthropic perde Pentágono, mas ganha a América",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/enter/noticia/claude-bocas-mundo-anthropic-perde-pentagono-ganha-america-2167055"
+            "title": "Rússia estará a fornecer ao Irão informações para atacar forças dos EUA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/mundo/noticia/russia-estara-fornecer-irao-informacoes-atacar-forcas-eua-2167089"
         },
         {
-            "title": "Brasileiros começam a sair de países do Oriente Médio. Alguns voos são retomados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/publico-brasil/noticia/brasileiros-comecam-sair-paises-oriente-medio-voos-sao-retomados-2167063"
+            "title": "Apesar de condenar ameaças de Trump a Espanha, Montenegro garante estar “ao lado dos EUA”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/politica/noticia/apesar-condenar-ameacas-trump-montenegro-garante-estar-lado-eua-2167078"
         },
         {
-            "title": "Mãe com deficiência e dois filhos, um deles autista, despejados pela Câmara de Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/local/noticia/mae-deficiencia-dois-filhos-autista-despejados-camara-lisboa-2166782"
+            "title": "Quinze distritos sob avisos devido à neve, vento e agitação marítima",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/sociedade/noticia/quinze-distritos-avisos-devido-neve-vento-agitacao-maritima-2167079"
         },
         {
-            "title": "Lufthansa tem recorde de receitas e aposta na TAP de olhos no Brasil",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/economia/noticia/lufthansa-recorde-receitas-aposta-tap-olhos-brasil-2167050"
+            "title": "Relatório nota risco elevado para árvores com obras de <em>metrobus </em>em rua de Coimbra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/local/noticia/relatorio-nota-risco-elevado-arvores-obras-metrobus-rua-coimbra-2167065"
         },
         {
-            "title": "A inteligência artificial ganhou corpo no Mobile World Congress",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/enter/noticia/inteligencia-artificial-ganhou-corpo-mobile-world-congress-2166968"
+            "title": "Mau tempo: Óbidos adia início do Festival de Chocolate",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/fugas/noticia/mau-tempo-obidos-adia-inicio-festival-chocolate-2167081"
         }
     ],
     "finance": [],
-    "last_update": "06/03/2026 14:05"
+    "last_update": "06/03/2026 16:05"
 }
