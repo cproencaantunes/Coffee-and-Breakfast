@@ -2,35 +2,35 @@
     "weather": {
         "atual": 10.1,
         "manha": 11.2,
-        "tarde": 13.0,
-        "noite": 11.6
+        "tarde": 12.6,
+        "noite": 11.7
     },
     "forecast": {
-        "max": 16.1,
-        "min": 10.5
+        "max": 16.5,
+        "min": 10.6
     },
     "news": [
         {
-            "title": "APAV apoiou 50.495 mulheres nos últimos quatro anos, maioria por violência doméstica",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/sociedade/noticia/apav-apoiou-50495-mulheres-ultimos-quatro-anos-maioria-violencia-domestica-2167037"
+            "title": "Claude nas bocas do mundo: Anthropic perde Pentágono, mas ganha a América",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/enter/noticia/claude-bocas-mundo-anthropic-perde-pentagono-ganha-america-2167055"
         },
         {
-            "title": "Comer",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/culturaipsilon/opiniao/comer-2166517"
+            "title": "Brasileiros começam a sair de países do Oriente Médio. Alguns voos são retomados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/publico-brasil/noticia/brasileiros-comecam-sair-paises-oriente-medio-voos-sao-retomados-2167063"
         },
         {
-            "title": "Deixem-nos ser felizes, porra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/culturaipsilon/cronica/deixemnos-felizes-porra-2166638"
+            "title": "Mãe com deficiência e dois filhos, um deles autista, despejados pela Câmara de Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/local/noticia/mae-deficiencia-dois-filhos-autista-despejados-camara-lisboa-2166782"
         },
         {
-            "title": "Nova FCT garante dois projectos financiados pelo Horizonte Europa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/ciencia/noticia/nova-fct-garante-dois-projectos-financiados-horizonte-europa-2166827"
+            "title": "Lufthansa tem recorde de receitas e aposta na TAP de olhos no Brasil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/economia/noticia/lufthansa-recorde-receitas-aposta-tap-olhos-brasil-2167050"
         },
         {
-            "title": "Chegou a vez de Mafalda Lemos nos mostrar a sua guitarra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/culturaipsilon/noticia/chegou-mafalda-lemos-mostrar-guitarra-2166945"
+            "title": "A inteligência artificial ganhou corpo no Mobile World Congress",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/enter/noticia/inteligencia-artificial-ganhou-corpo-mobile-world-congress-2166968"
         }
     ],
     "finance": [],
-    "last_update": "06/03/2026 11:05"
+    "last_update": "06/03/2026 14:05"
 }
