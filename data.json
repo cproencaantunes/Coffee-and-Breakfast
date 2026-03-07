@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 10.1,
-        "manha": 11.2,
-        "tarde": 13.0,
-        "noite": 11.8
+        "atual": 11.6,
+        "manha": 12.1,
+        "tarde": 16.6,
+        "noite": 11.4
     },
     "forecast": {
-        "max": 17.3,
-        "min": 10.7
+        "max": 16.6,
+        "min": 10.6
     },
     "news": [
         {
-            "title": "Guerra aberta: Passos Coelho manda o Luís trabalhar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/politica/noticia/guerra-aberta-passos-coelho-manda-luis-trabalhar-2167149"
+            "title": "A sombra de Passos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/opiniao/opiniao/sombra-passos-2167074"
         },
         {
-            "title": "Fitch mantém <em>rating</em> de Portugal e melhora perspectiva para “positiva”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/economia/noticia/fitch-mantem-rating-portugal-melhora-perspectiva-positiva-2167148"
+            "title": "Para melhor está bem, está bem, para pior já basta assim",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/opiniao/opiniao/melhor-bem-bem-pior-ja-basta-assim-2167003"
         },
         {
-            "title": "Casa Branca utiliza imagens de videojogo em vídeo sobre o Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/mundo/noticia/casa-branca-utiliza-imagens-videojogo-video-irao-2167147"
+            "title": "Que diz Ventura das faltas à escola por devoção à mãe de Jesus?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/politica/opiniao/ventura-faltas-escola-devocao-mae-jesus-2167121"
         },
         {
-            "title": "Os vetos de Marcelo: da eutanásia à nacionalidade, dos metadados às barrigas de aluguer",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/politica/noticia/vetos-marcelo-eutanasia-nacionalidade-metadados-barrigas-aluguer-2166874"
+            "title": "Cenas de advogados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/opiniao/opiniao/cenas-advogados-2167067"
         },
         {
-            "title": "Sporting elimina Benfica e segue em frente na Champions de futsal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/06/desporto/noticia/sporting-vence-benfica-segue-frente-champions-futsal-2167144"
+            "title": "É complicado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/opiniao/opiniao/complicado-2166833"
         }
     ],
     "finance": [],
-    "last_update": "06/03/2026 23:52"
+    "last_update": "07/03/2026 04:45"
 }
