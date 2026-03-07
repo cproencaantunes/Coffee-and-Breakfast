@@ -2,14 +2,18 @@
     "weather": {
         "atual": 11.6,
         "manha": 12.1,
-        "tarde": 16.2,
+        "tarde": 16.4,
         "noite": 11.5
     },
     "forecast": {
-        "max": 16.4,
-        "min": 10.7
+        "max": 16.5,
+        "min": 10.9
     },
     "news": [
+        {
+            "title": "Onde anda a revolução? Reflexões a partir do 7 de Março de 2011",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/mundo/opiniao/onde-anda-revolucao-reflexoes-partir-7-marco-2011-2167177"
+        },
         {
             "title": "A música africana hoje, pelos “continuadores de pessoas passadas”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/culturaipsilon/noticia/musica-africana-hoje-continuadores-pessoas-passadas-2167170"
@@ -25,12 +29,8 @@
         {
             "title": "Governo propõe modelo de apoio à distribuição de imprensa num total de 3,5 milhões de euros",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/politica/noticia/governo-propoe-modelo-apoio-distribuicao-imprensa-total-35-milhoes-euros-2167168"
-        },
-        {
-            "title": "Politécnico de Bragança quer passar a universidade para atrair mais financiamento e alunos nacionais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/sociedade/noticia/politecnico-braganca-quer-passar-universidade-atrair-financiamento-alunos-nacionais-2167166"
         }
     ],
     "finance": [],
-    "last_update": "07/03/2026 17:13"
+    "last_update": "07/03/2026 18:19"
 }
