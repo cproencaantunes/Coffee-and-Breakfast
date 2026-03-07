@@ -3,13 +3,17 @@
         "atual": 11.6,
         "manha": 12.1,
         "tarde": 16.4,
-        "noite": 11.5
+        "noite": 11.4
     },
     "forecast": {
-        "max": 16.5,
+        "max": 16.3,
         "min": 10.9
     },
     "news": [
+        {
+            "title": "Deepak Chopra: o guru corruptível",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/impar/noticia/deepak-chopra-guru-corruptivel-2165999"
+        },
         {
             "title": "Trump diz que Cuba está nos últimos dias mas vai ter “uma grande vida nova”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/mundo/noticia/trump-cuba-ultimos-dias-vai-vida-nova-2167194"
@@ -25,12 +29,8 @@
         {
             "title": "Startups brasileiras iniciam incubação da Apex em Lisboa para conquistar a Europa",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/publico-brasil/noticia/startups-brasileiras-iniciam-incubacao-apex-lisboa-conquistar-europa-2167184"
-        },
-        {
-            "title": "Guerra no Irão ameaça economia global e desfere golpe na reputação dos países do Golfo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/mundo/noticia/guerra-irao-ameaca-economia-global-desfere-golpe-reputacao-paises-golfo-2167101"
         }
     ],
     "finance": [],
-    "last_update": "07/03/2026 21:12"
+    "last_update": "07/03/2026 22:13"
 }
