@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 11.6,
-        "manha": 11.6,
-        "tarde": 15.9,
-        "noite": 11.2
+        "manha": 12.1,
+        "tarde": 16.5,
+        "noite": 11.6
     },
     "forecast": {
-        "max": 16.7,
-        "min": 10.5
+        "max": 16.9,
+        "min": 10.7
     },
     "news": [
         {
-            "title": "Loulé: Uma biografia sensorial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/impar/cronica/loule-biografia-sensorial-2166924"
+            "title": "Irão: Portugal já retirou 500 portugueses do Médio Oriente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/politica/noticia/irao-portugal-ja-retirou-500-portugueses-medio-oriente-2167163"
         },
         {
-            "title": "Conheça a lei para instalar postos de carregamento de carros eléctricos em garagens partilhadas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/enter/podcast/conheca-lei-instalar-postos-carregamento-carros-electricos-garagens-partilhadas-2167103"
+            "title": "Ficam em prisão preventiva os sete agentes da esquadra do Rato detidos esta semana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/sociedade/noticia/ficam-prisao-preventiva-sete-agentes-esquadra-rato-detidos-semana-2167165"
         },
         {
-            "title": "Fórmula 1: George Russell conquista primeira <em>pole position</em> do ano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/desporto/noticia/formula-1-george-russell-conquista-primeira-pole-position-ano-2167155"
+            "title": "Governo espera para decidir mais medidas para conter efeitos da guerra no Irão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/economia/noticia/governo-espera-decidir-medidas-conter-efeitos-guerra-irao-2167159"
         },
         {
-            "title": "As principais inovações do Galaxy S26",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/video/contacto-galaxy-s26-20260306-131947"
+            "title": "Morreu o ex-chefe do Exército general Martins Barrento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/politica/noticia/morreu-exchefe-exercito-general-martins-barrento-2167162"
         },
         {
-            "title": "Os portugueses que vão aos restaurantes Michelin são poucos mas fiéis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/fugas/noticia/portugueses-vao-restaurantes-michelin-sao-fieis-2166627"
+            "title": "Por que estão os EUA em guerra com o Irão? As (muitas) justificações da Administração Trump",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/mundo/noticia/estao-eua-guerra-irao-justificacoes-administracao-trump-2167158"
         }
     ],
     "finance": [],
-    "last_update": "07/03/2026 11:38"
+    "last_update": "07/03/2026 13:50"
 }
