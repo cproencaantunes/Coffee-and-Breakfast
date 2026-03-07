@@ -2,35 +2,35 @@
     "weather": {
         "atual": 11.6,
         "manha": 12.1,
-        "tarde": 16.5,
-        "noite": 11.6
+        "tarde": 16.2,
+        "noite": 11.5
     },
     "forecast": {
-        "max": 16.9,
+        "max": 16.4,
         "min": 10.7
     },
     "news": [
         {
+            "title": "A música africana hoje, pelos “continuadores de pessoas passadas”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/culturaipsilon/noticia/musica-africana-hoje-continuadores-pessoas-passadas-2167170"
+        },
+        {
+            "title": "Alemanha: eleições em Baden-Württemberg são primeiro teste do ano para Merz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/mundo/noticia/alemanha-eleicoes-badenwurttemberg-sao-teste-ano-merz-2167113"
+        },
+        {
+            "title": "Nuno Morais Sarmento (1961-2026), o grande estratega que teve “uma espécie de segunda vida”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/politica/noticia/nuno-morais-sarmento-19612026-estratega-especie-segunda-vida-1995083"
+        },
+        {
+            "title": "Governo propõe modelo de apoio à distribuição de imprensa num total de 3,5 milhões de euros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/politica/noticia/governo-propoe-modelo-apoio-distribuicao-imprensa-total-35-milhoes-euros-2167168"
+        },
+        {
             "title": "Politécnico de Bragança quer passar a universidade para atrair mais financiamento e alunos nacionais",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/sociedade/noticia/politecnico-braganca-quer-passar-universidade-atrair-financiamento-alunos-nacionais-2167166"
-        },
-        {
-            "title": "Conheça a chef de um dos projetos mais badalados de Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/publico-brasil/noticia/conheca-chef-projetos-badalados-portugal-2167114"
-        },
-        {
-            "title": "Irão: Portugal já retirou 500 portugueses do Médio Oriente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/politica/noticia/irao-portugal-ja-retirou-500-portugueses-medio-oriente-2167163"
-        },
-        {
-            "title": "Ficam em prisão preventiva os sete agentes da esquadra do Rato detidos esta semana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/sociedade/noticia/ficam-prisao-preventiva-sete-agentes-esquadra-rato-detidos-semana-2167165"
-        },
-        {
-            "title": "Governo espera para decidir mais medidas para conter efeitos da guerra no Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/economia/noticia/governo-espera-decidir-medidas-conter-efeitos-guerra-irao-2167159"
         }
     ],
     "finance": [],
-    "last_update": "07/03/2026 15:13"
+    "last_update": "07/03/2026 16:16"
 }
