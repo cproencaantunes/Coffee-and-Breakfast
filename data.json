@@ -1,9 +1,9 @@
 {
     "weather": {
         "atual": 11.6,
-        "manha": 12.1,
-        "tarde": 16.6,
-        "noite": 11.4
+        "manha": 11.8,
+        "tarde": 16.3,
+        "noite": 11.3
     },
     "forecast": {
         "max": 16.6,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Crise: fonte e remédios",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/opiniao/opiniao/crise-fonte-remedios-2167135"
+            "title": "Consulado: racismo e xenofobia não podem ser confundidos com liberdade de expressão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/publico-brasil/noticia/consulado-racismo-xenofobia-nao-podem-confundidos-liberdade-expressao-2167146"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/opiniao/opiniao/cartas-director-2167090"
+            "title": "Do “não provocar instabilidade” ao “devia ter sido exonerado”: dez frases de Marcelo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/politica/noticia/nao-provocar-instabilidade-exonerado-dez-frases-marcelo-2166738"
         },
         {
-            "title": "A sombra de Passos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/opiniao/opiniao/sombra-passos-2167074"
+            "title": "Açores serão o palco da primeira reentrada de um veículo espacial na Europa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/ciencia/noticia/acores-serao-palco-primeira-reentrada-veiculo-espacial-europa-2166989"
         },
         {
-            "title": "Para melhor está bem, está bem, para pior já basta assim",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/opiniao/opiniao/melhor-bem-bem-pior-ja-basta-assim-2167003"
+            "title": "E o impacto simbólico das guerras nas pessoas?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/publico-brasil/opiniao/impacto-simbolico-guerras-pessoas-2167143"
         },
         {
-            "title": "Que diz Ventura das faltas à escola por devoção à mãe de Jesus?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/politica/opiniao/ventura-faltas-escola-devocao-mae-jesus-2167121"
+            "title": "A ambiguidade de Luís Montenegro não dá segurança aos cidadãos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/politica/opiniao/ambiguidade-luis-montenegro-nao-seguranca-cidadaos-2167068"
         }
     ],
     "finance": [],
-    "last_update": "07/03/2026 06:02"
+    "last_update": "07/03/2026 07:50"
 }
