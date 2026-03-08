@@ -2,35 +2,35 @@
     "weather": {
         "atual": 11.3,
         "manha": 12.1,
-        "tarde": 16.5,
-        "noite": 12.0
+        "tarde": 16.2,
+        "noite": 11.9
     },
     "forecast": {
-        "max": 13.6,
-        "min": 10.0
+        "max": 13.5,
+        "min": 9.7
     },
     "news": [
         {
-            "title": "PAN propõe honras de Panteão para Maria de Lourdes Pintasilgo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/politica/noticia/pan-propoe-honras-panteao-maria-lourdes-pintalsilgo-2167210"
+            "title": "Enquanto os governos tiverem “uma visão estigmatizada da obesidade, vamos avançar pouco”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/sociedade/entrevista/governos-visao-estigmatizada-obesidade-vamos-avancar-2167171"
         },
         {
-            "title": "Dominado incêndio em hotel da proprietária da Zara em Tróia. PJ vai investigar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/sociedade/noticia/incendio-hotel-troia-mobilizou-90-bombeiros-dominado-nao-causou-vitimas-2167219"
+            "title": "Ténis: Henrique Rocha conquista challenger de Brasília",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/desporto/noticia/tenis-henrique-rocha-conquista-challenger-brasilia-2167227"
         },
         {
-            "title": "Morreu o guitarrista e fadista Carlos Macedo, intérprete de <em>Até o rei ia ao fado</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/culturaipsilon/noticia/morreu-guitarrista-fadista-carlos-macedo-interprete-ate-rei-ia-fado-2167221"
+            "title": "“Há tantos recursos naturais excelentes em cada cidade. É preciso focarmo-nos neles”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/local/noticia/ha-tantos-recursos-naturais-excelentes-cidade-preciso-focarmonos-neles-2166918"
         },
         {
-            "title": "China pede o fim dos ataques ao Irão, “uma guerra que não deveria ter acontecido”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/mundo/noticia/china-pede-fim-ataques-irao-guerra-nao-acontecido-2167222"
+            "title": "Râguebi: exibição quase perfeita garante a Portugal final do REC 2026",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/desporto/noticia/raguebi-exibicao-quase-perfeita-garante-portugal-final-rec-2026-2167226"
         },
         {
-            "title": "As espécies invasoras, a ajuda das cheias e o alerta que Portugal continua a ignorar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/azul/noticia/especies-invasoras-ajuda-cheias-alerta-portugal-continua-ignorar-2167093"
+            "title": "Por uma pista de dança “segura”, uma matiné para mulheres",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/fotogaleria/por-uma-pista-danca-segura-matine-mulheres-415211"
         }
     ],
     "finance": [],
-    "last_update": "08/03/2026 17:15"
+    "last_update": "08/03/2026 18:19"
 }
