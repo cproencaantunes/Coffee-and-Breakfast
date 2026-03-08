@@ -2,12 +2,12 @@
     "weather": {
         "atual": 11.3,
         "manha": 12.0,
-        "tarde": 16.4,
-        "noite": 12.0
+        "tarde": 16.3,
+        "noite": 11.9
     },
     "forecast": {
-        "max": 12.6,
-        "min": 9.1
+        "max": 13.7,
+        "min": 9.9
     },
     "news": [
         {
@@ -27,10 +27,10 @@
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/ciencia/noticia/moleculas-ouro-ajudassem-tratar-cancro-ovario-2167112"
         },
         {
-            "title": "Israel não dá tréguas e ataca armazenamentos de petróleo do Irão",
+            "title": "Israel ataca armazenamentos de petróleo e “chove preto” em Teerão",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/mundo/noticia/israel-nao-treguas-ataca-armazenamentos-petroleo-irao-2167202"
         }
     ],
     "finance": [],
-    "last_update": "08/03/2026 09:19"
+    "last_update": "08/03/2026 10:15"
 }
