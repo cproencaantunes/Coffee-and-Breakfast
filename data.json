@@ -3,34 +3,34 @@
         "atual": 11.3,
         "manha": 12.1,
         "tarde": 16.2,
-        "noite": 11.9
+        "noite": 12.2
     },
     "forecast": {
-        "max": 13.5,
-        "min": 9.7
+        "max": 13.2,
+        "min": 9.8
     },
     "news": [
         {
-            "title": "Alemanha: Verdes com ligeira vantagem nas eleições em Baden-Württemberg",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/mundo/noticia/alemanha-verdes-ligeira-vantagem-eleicoes-badenwurttemberg-2167238"
+            "title": "Kiko Femenía esteve em Barcelona, em Madrid e em lado nenhum",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/desporto/noticia/kiko-femenia-barcelona-madrid-lado-2167237"
         },
         {
-            "title": "Lubrificação feminina: saúde sexual, mental e o direito a uma intimidade sem dor",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/impar/opiniao/lubrificacao-feminina-saude-sexual-mental-direito-intimidade-dor-2166691"
+            "title": "Além deste dia 8 de março",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/opiniao/opiniao/alem-dia-8-marco-2167242"
         },
         {
-            "title": "FC Porto mantém os rivais à distância com empate na Luz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/desporto/cronica_de_jogo/fc-porto-mantem-rivais-distancia-empate-luz-2167229"
+            "title": "Portugal com prata e bronze na Taça do Mundo de ginástica acrobática",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/desporto/noticia/portugal-prata-bronze-taca-mundo-ginastica-acrobatica-2167239"
         },
         {
-            "title": "Mulheres que “vivem mais, estudam mais, trabalham mais” saíram à rua no Dia da Mulher",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/sociedade/noticia/mulheres-vivem-estudam-trabalham-sairam-rua-dia-mulher-2167233"
+            "title": "“O nome Khamenei vai continuar” a guiar o destino do Irão – e o sucessor já é alvo de Israel",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/mundo/noticia/nome-khamenei-vai-continuar-guiar-destino-irao-sucessor-ja-alvo-israel-2167230"
         },
         {
-            "title": "O que fazer? Segunda é dia de animar com comida, música e um <em>Bonito Serviço!</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/fugas/noticia/segunda-dia-animar-comida-musica-bonito-servico-2167129"
+            "title": "Entra em cena o Presidente Seguro, “o anti-Marcelo”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/politica/noticia/entra-cena-presidente-seguro-antimarcelo-2167236"
         }
     ],
     "finance": [],
-    "last_update": "08/03/2026 21:14"
+    "last_update": "08/03/2026 22:13"
 }
