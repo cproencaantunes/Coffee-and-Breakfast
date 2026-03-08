@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 11.6,
-        "manha": 12.1,
-        "tarde": 16.4,
-        "noite": 11.4
+        "atual": 11.2,
+        "manha": 12.2,
+        "tarde": 16.3,
+        "noite": 11.8
     },
     "forecast": {
-        "max": 16.3,
-        "min": 10.9
+        "max": 13.1,
+        "min": 9.5
     },
     "news": [
         {
-            "title": "Benfica e FC Porto podem reforçar candidatura no clássico da Luz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/desporto/noticia/benfica-fc-porto-podem-reforcar-candidatura-classico-luz-2167196"
+            "title": "Na nova guerra do Golfo nada é a preto e branco",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/mundo/analise/nova-guerra-golfo-nada-preto-branco-2167161"
         },
         {
-            "title": "Deepak Chopra: o guru corruptível",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/impar/noticia/deepak-chopra-guru-corruptivel-2165999"
+            "title": "Bandidos do Cante ganham o Festival da Canção e vão à Eurovisão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/culturaipsilon/noticia/bandidos-cante-ganham-festival-cancao-vao-eurovisao-2167199"
         },
         {
-            "title": "Trump diz que Cuba está nos últimos dias mas vai ter “uma grande vida nova”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/mundo/noticia/trump-cuba-ultimos-dias-vai-vida-nova-2167194"
+            "title": "As mulheres no horizonte da Quaresma",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/opiniao/opiniao/mulheres-horizonte-quaresma-2166966"
         },
         {
-            "title": "Crise: agir sem hipercalibrar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/opiniao/editorial/crise-agir-hipercalibrar-2167173"
+            "title": "As marcas do Presidente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/opiniao/opiniao/marcas-presidente-2167176"
         },
         {
-            "title": "Líder do PS defende projectos de interesse comum para desenvolvimento das regiões autónomas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/07/politica/noticia/lider-ps-defende-projectos-interesse-comum-desenvolvimento-regioes-autonomas-2167193"
+            "title": "Dia Internacional da Mulher: oito ações para um mundo mais igualitário",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/opiniao/opiniao/dia-internacional-mulher-oito-acoes-mundo-igualitario-2166248"
         }
     ],
     "finance": [],
-    "last_update": "07/03/2026 23:13"
+    "last_update": "08/03/2026 01:10"
 }
