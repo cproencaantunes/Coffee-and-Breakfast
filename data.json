@@ -1,9 +1,9 @@
 {
     "weather": {
         "atual": 11.3,
-        "manha": 12.4,
-        "tarde": 17.0,
-        "noite": 12.1
+        "manha": 12.0,
+        "tarde": 16.4,
+        "noite": 12.0
     },
     "forecast": {
         "max": 12.6,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/opiniao/opiniao/cartas-director-2167092"
+            "title": "Portugueses ciganos. Quatro vidas que mostram que o futuro pode ser diferente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/infografia/portugueses-ciganos-quatro-vidas-mostram-futuro-diferente-888"
         },
         {
-            "title": "Na nova guerra do Golfo nada é a preto e branco",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/mundo/analise/nova-guerra-golfo-nada-preto-branco-2167161"
+            "title": "Portugueses ciganos. Quatro vidas que mostram que o futuro pode ser diferente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/sociedade/noticia/portugueses-ciganos-quatro-vidas-mostram-futuro-diferente-2166806"
         },
         {
-            "title": "Bandidos do Cante ganham o Festival da Canção e vão à Eurovisão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/culturaipsilon/noticia/bandidos-cante-ganham-festival-cancao-vao-eurovisao-2167199"
+            "title": "Passados cinco séculos, a história cigana ainda não entra no Parlamento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/sociedade/noticia/passados-cinco-seculos-historia-cigana-nao-entra-parlamento-2166867"
         },
         {
-            "title": "As mulheres no horizonte da Quaresma",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/opiniao/opiniao/mulheres-horizonte-quaresma-2166966"
+            "title": "PSD recupera lei de 2011 com atestado médico obrigatório para mudança de sexo no registo civil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/sociedade/noticia/psd-recupera-lei-2011-atestado-medico-obrigatorio-mudanca-sexo-registo-civil-2167182"
         },
         {
-            "title": "As marcas do Presidente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/opiniao/opiniao/marcas-presidente-2167176"
+            "title": "<em>The Moment por Charli XCX</em>: Charli e a fábrica de tiktoks",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/culturaipsilon/critica/the-moment-charli-xcx-charli-fabrica-tiktoks-2167071"
         }
     ],
     "finance": [],
-    "last_update": "08/03/2026 05:36"
+    "last_update": "08/03/2026 06:30"
 }
