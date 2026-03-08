@@ -2,35 +2,35 @@
     "weather": {
         "atual": 11.3,
         "manha": 12.1,
-        "tarde": 16.3,
+        "tarde": 16.5,
         "noite": 12.0
     },
     "forecast": {
-        "max": 13.3,
-        "min": 9.9
+        "max": 13.6,
+        "min": 10.0
     },
     "news": [
         {
-            "title": "A minha boca escolheu o Vietname mas o meu coração ficou no Laos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/fugas/reportagem/boca-escolheu-vietname-coracao-ficou-laos-2162067"
+            "title": "China pede o fim dos ataques ao Irão, “uma guerra que não deveria ter acontecido”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/mundo/noticia/china-pede-fim-ataques-irao-guerra-nao-acontecido-2167222"
         },
         {
-            "title": "Exposições, conferências, concertos: Assembleia da República celebra Dia da Mulher",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/politica/noticia/exposicoes-conferencias-concertos-assembleia-republica-celebra-dia-mulher-2166574"
+            "title": "As espécies invasoras, a ajuda das cheias e o alerta que Portugal continua a ignorar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/azul/noticia/especies-invasoras-ajuda-cheias-alerta-portugal-continua-ignorar-2167093"
         },
         {
-            "title": "Ex-<em>rapper </em>vence eleições no Nepal com maioria absoluta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/mundo/noticia/exrapper-vence-eleicoes-nepal-maioria-absoluta-2167217"
+            "title": "Ser mãe: a pressão social sobre uma escolha pessoal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/impar/opiniao/mae-pressao-social-escolha-pessoal-2166923"
         },
         {
-            "title": "Deixar os investimentos só para os homens? Elas respondem que “o dinheiro não tem género”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/p3/noticia/deixar-investimentos-so-homens-respondem-dinheiro-nao-genero-2167038"
+            "title": "Tempos de infâmia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/mundo/opiniao/tempos-infamia-2167218"
         },
         {
-            "title": "Mercados de previsão sob suspeita após apostas certeiras no ataque dos EUA ao Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/mundo/noticia/mercados-previsao-suspeita-apos-apostas-certeiras-ataque-eua-irao-2167111"
+            "title": "Abusos, guerra, desigualdade. As imagens das marchas das mulheres pelo mundo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/08/fotogaleria/dia-mulher-415209"
         }
     ],
     "finance": [],
-    "last_update": "08/03/2026 15:14"
+    "last_update": "08/03/2026 16:16"
 }
