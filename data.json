@@ -6,31 +6,31 @@
         "noite": 10.1
     },
     "forecast": {
-        "max": 15.4,
+        "max": 15.6,
         "min": 9.7
     },
     "news": [
         {
+            "title": "Uma promessa de Seguro contra o “frenesim”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/opiniao/editorial/promessa-seguro-frenesim-2167336"
+        },
+        {
+            "title": "O cante “apolítico” dos Bandidos do Cante, vencedores do Festival da Canção",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/culturaipsilon/noticia/cante-apolitico-bandidos-cante-vencedores-festival-cancao-2167347"
+        },
+        {
+            "title": "Entra Seguro, sai Marcelo: o primeiro dia do novo inquilino do Palácio de Belém",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/politica/noticia/entra-seguro-sai-marcelo-dia-novo-inquilino-palacio-belem-2167353"
+        },
+        {
+            "title": "ISP: Governo reaviva ajuda que já deveria ter acabado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/economia/noticia/isp-governo-reaviva-ajuda-ja-acabado-2167351"
+        },
+        {
             "title": "Extremamente ao alto e incrivelmente perto, os microdramas são as séries do momento",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/culturaipsilon/noticia/extremamente-alto-incrivelmente-perto-microdramas-sao-series-momento-2166774"
-        },
-        {
-            "title": "Livros que cruzam o Atlântico 24",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/newsletter/leituras"
-        },
-        {
-            "title": "Ordem dos Advogados quer que Justiça crie vara específica para processos de imigração",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/publico-brasil/noticia/ordem-advogados-quer-justica-crie-vara-especifica-processos-imigracao-2167348"
-        },
-        {
-            "title": "Início atribulado no julgamento de Ekrem Imamoglu, o principal rival de Erdogan",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/mundo/noticia/inicio-atribulado-julgamento-ekrem-imamoglu-principal-rival-erdogan-2167346"
-        },
-        {
-            "title": "Polícia Judiciária deteve suspeito de sequestro e violação de menor em Loures",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/sociedade/noticia/policia-judiciaria-deteve-suspeito-sequestro-violacao-menor-loures-2167341"
         }
     ],
     "finance": [],
-    "last_update": "09/03/2026 21:22"
+    "last_update": "09/03/2026 22:18"
 }
