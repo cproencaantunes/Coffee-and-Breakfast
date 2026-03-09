@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 11.3,
-        "manha": 12.1,
+        "manha": 11.8,
         "tarde": 11.9,
-        "noite": 10.0
+        "noite": 10.2
     },
     "forecast": {
         "max": 15.7,
-        "min": 9.7
+        "min": 9.6
     },
     "news": [
         {
+            "title": "Internacionalização, excelência e chico-espertismo na prática científica",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/ciencia/opiniao/internacionalizacao-excelencia-chicoespertismo-pratica-cientifica-2166863"
+        },
+        {
+            "title": "A comédia irrequieta e hiperactiva de Chris Fleming",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/culturaipsilon/noticia/comedia-irrequieta-hiperactiva-chris-fleming-2167232"
+        },
+        {
+            "title": "A proteção dos menores nas redes sociais: um projeto em falso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/opiniao/opiniao/protecao-menores-redes-sociais-projeto-falso-2166672"
+        },
+        {
+            "title": "Portugal sem defesa anti-míssil de médio e longo alcance",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/politica/noticia/portugal-defesa-antimissil-medio-longo-alcance-2166957"
+        },
+        {
             "title": "Um Presidente afirmativo precisa-se",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/opiniao/editorial/presidente-afirmativo-precisase-2167234"
-        },
-        {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/opiniao/opiniao/cartas-director-2167213"
-        },
-        {
-            "title": "O tempo de Seguro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/opiniao/opiniao/tempo-seguro-2167175"
-        },
-        {
-            "title": "40 anos depois, a UE caiu em si",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/opiniao/opiniao/40-anos-ue-caiu-2167197"
-        },
-        {
-            "title": "Primavera presidencial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/opiniao/opiniao/primavera-presidencial-2167174"
         }
     ],
     "finance": [],
-    "last_update": "09/03/2026 05:50"
+    "last_update": "09/03/2026 06:48"
 }
