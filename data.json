@@ -3,13 +3,25 @@
         "atual": 11.3,
         "manha": 11.8,
         "tarde": 11.9,
-        "noite": 10.2
+        "noite": 10.1
     },
     "forecast": {
-        "max": 15.7,
+        "max": 15.0,
         "min": 9.6
     },
     "news": [
+        {
+            "title": "Homem do jogo: Leandro Barreiro, o poliglota que também “fala” futebol",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/desporto/noticia/homem-jogo-leandro-barreiro-poliglota-tambem-fala-futebol-2167265"
+        },
+        {
+            "title": "Dez distritos do continente sob aviso amarelo devido à queda de neve",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/azul/noticia/dez-distritos-continente-aviso-amarelo-devido-queda-neve-2167264"
+        },
+        {
+            "title": "A ópera transcende o tempo, Timothée Chalamet reflete um equívoco da sociedade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/p3/cronica/opera-transcende-tempo-timothee-chalamet-reflete-equivoco-sociedade-2167216"
+        },
         {
             "title": "Acção climática: palavras não as leva o vento! ",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/azul/opiniao/accao-climatica-palavras-nao-leva-vento-2167134"
@@ -17,20 +29,8 @@
         {
             "title": "Palmeiras conquista Paulistão, o 11.º título da “era” Abel Ferreira",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/desporto/noticia/palmeiras-conquista-paulistao-11-titulo-abel-ferreira-2167261"
-        },
-        {
-            "title": "Quem são os meteorologistas amadores com milhares de seguidores que desafiam o IPMA?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/p3/reportagem/sao-meteorologistas-amadores-milhares-seguidores-desafiam-ipma-2165904"
-        },
-        {
-            "title": "Dez anos depois, Marcelo sai de Belém. Seguro toma posse às 10h",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/mundo/noticia/dez-anos-marcelo-sai-belem-seguro-toma-posse-10h-2167241"
-        },
-        {
-            "title": "Explosão sentida junto a sinagoga em Liège, polícia diz que não há feridos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/09/mundo/noticia/explosao-sentida-junto-sinagoga-liege-policia-nao-ha-feridos-2167257"
         }
     ],
     "finance": [],
-    "last_update": "09/03/2026 09:37"
+    "last_update": "09/03/2026 10:35"
 }
