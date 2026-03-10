@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 9.9,
-        "manha": 11.8,
+        "manha": 11.7,
         "tarde": 14.9,
-        "noite": 11.2
+        "noite": 11.1
     },
     "forecast": {
         "max": 18.7,
-        "min": 9.3
+        "min": 9.1
     },
     "news": [
         {
-            "title": "Directas do PSD reacendem críticas internas e debate sobre o papel de Passos Coelho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/politica/noticia/directas-psd-reacendem-criticas-internas-debate-papel-passos-coelho-2167288"
+            "title": "Memórias do carnaval inspiram exposição de artista carioca no Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/publico-brasil/noticia/memorias-carnaval-inspiram-exposicao-artista-carioca-porto-2167393"
         },
         {
-            "title": "As armas apontadas às crianças",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/p3/cronica/armas-apontadas-criancas-2167394"
+            "title": "Leis laborais: Seguro apela a sindicatos, Governo e patrões que voltem a sentar-se à mesa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/politica/noticia/leis-laborais-seguro-apela-sindicatos-governo-patroes-voltem-sentarse-mesa-2167400"
         },
         {
-            "title": "O Presidente e os imigrantes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/publico-brasil/opiniao/presidente-imigrantes-2167357"
+            "title": "A falta de acessibilidade trava estudantes com deficiência — este guia quer mudar isso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/p3/noticia/falta-acessibilidade-trava-estudantes-deficiencia-guia-quer-mudar-2167262"
         },
         {
-            "title": "Nvidia prepara plataforma aberta para criar agentes de inteligência artificial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/enter/noticia/nvidia-prepara-plataforma-aberta-criar-agentes-inteligencia-artificial-2167379"
+            "title": "Professores que estão a estagiar em colégios ainda não receberam bolsa. “Não vimos um tostão”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/sociedade/noticia/professores-estao-estagiar-colegios-nao-receberam-bolsa-nao-vimos-tostao-2166745"
         },
         {
-            "title": "Mercadona lucra 26 milhões de euros em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/economia/noticia/mercadona-lucra-26-milhoes-euros-portugal-2167375"
+            "title": "iRobot lança Roomba Mini, o pequeno robô que aspira e lava o chão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/enter/noticia/irobot-lanca-roomba-mini-robo-aspira-lava-chao-2167386"
         }
     ],
     "finance": [],
-    "last_update": "10/03/2026 11:25"
+    "last_update": "10/03/2026 12:36"
 }
