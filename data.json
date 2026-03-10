@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 9.9,
-        "manha": 12.2,
-        "tarde": 15.0,
-        "noite": 11.5
+        "manha": 11.8,
+        "tarde": 14.9,
+        "noite": 11.2
     },
     "forecast": {
-        "max": 18.9,
-        "min": 9.7
+        "max": 18.7,
+        "min": 9.3
     },
     "news": [
         {
-            "title": "Água é “petróleo que não sabemos utilizar”, diz ministro da Agricultura",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/azul/noticia/agua-petroleo-nao-sabemos-utilizar-ministro-agricultura-2167361"
+            "title": "Influenciadores: Agrupamento de Escolas do Restelo reforça controlo de entradas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/sociedade/noticia/influenciadores-agrupamento-escolas-restelo-reforca-controlo-entradas-2167370"
         },
         {
-            "title": "Inundações: é preciso identificar onde podem ocorrer vítimas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/azul/opiniao/inundacoes-preciso-identificar-onde-podem-ocorrer-vitimas-2167308"
+            "title": "Lucro da Volkswagen cai para 6,9 mil milhões de euros, o mais baixo desde 2016",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/economia/noticia/lucro-volkswagen-cai-69-milhoes-euros-baixo-desde-2016-2167383"
         },
         {
-            "title": "Obra de nova câmara de Valongo volta a deslizar e só deve terminar no final de 2026",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/local/noticia/obra-nova-camara-valongo-volta-deslizar-so-terminar-final-2026-2167345"
+            "title": "Deputados britânicos rejeitam proibição de redes sociais a menores de 16 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/mundo/noticia/deputados-britanicos-rejeitam-proibicao-redes-sociais-menores-16-anos-2167371"
         },
         {
-            "title": "Profissionais dos cuidados paliativos denunciam falta de rumo e dizem-se desamparados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/sociedade/noticia/profissionais-cuidados-paliativos-denunciam-falta-rumo-dizemse-desamparados-2167367"
+            "title": "“Trump, olha-os nos olhos”: jornal iraniano publica fotografias das crianças mortas no ataque a uma escola",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/mundo/noticia/trump-olhaos-olhos-jornal-iraniano-publica-fotografias-criancas-mortas-ataque-escola-2167338"
         },
         {
-            "title": "Sindicato denuncia abuso e pressão sobre internos na ULS Matosinhos, administração nega",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/sociedade/noticia/sindicato-denuncia-abuso-pressao-internos-uls-matosinhos-administracao-nega-2167364"
+            "title": "É tudo culpa do algoritmo?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/impar/cronica/culpa-algoritmo-2167372"
         }
     ],
     "finance": [],
-    "last_update": "10/03/2026 09:33"
+    "last_update": "10/03/2026 10:29"
 }
