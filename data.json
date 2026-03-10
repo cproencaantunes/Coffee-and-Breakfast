@@ -2,35 +2,35 @@
     "weather": {
         "atual": 9.9,
         "manha": 11.7,
-        "tarde": 14.5,
-        "noite": 11.1
+        "tarde": 14.8,
+        "noite": 11.2
     },
     "forecast": {
-        "max": 18.4,
-        "min": 9.4
+        "max": 18.7,
+        "min": 9.7
     },
     "news": [
         {
-            "title": "Seguro e a pedagogia de um mundo em convulsão ",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/newsletter/mundo-hoje"
+            "title": "Francisco Pedro Balsemão mantém liderança com entrada do grupo de Berlusconi",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/economia/noticia/francisco-pedro-balsemao-mantem-lideranca-entrada-grupo-berlusconi-2167471"
         },
         {
-            "title": "Nissan Leaf conquista prémio máximo do Women’s Worldwide Car of the Year",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/enter/noticia/nisnissan-leaf-conquista-premio-maximo-womens-worldwide-car-of-the-year-2167448"
+            "title": "Sporting, FC Porto e Benfica mantêm equipas B",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/desporto/noticia/sporting-fc-porto-benfica-mantem-equipas-b-2167465"
         },
         {
-            "title": "Lisboa avança com construção de mais oito quilómetros de ciclovias até ao fim de 2027",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/local/noticia/lisboa-avanca-construcao-oito-quilometros-ciclovias-ate-fim-2027-2167413"
+            "title": "Luís Pinto deixa V. Guimarães dois meses após vencer Taça da Liga",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/desporto/noticia/luis-pinto-deixa-v-guimaraes-dois-meses-apos-vencer-taca-liga-2167468"
         },
         {
-            "title": "Quem decide quando acaba a guerra no Irão?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/mundo/noticia/decide-acaba-guerra-irao-2167416"
+            "title": "Álbum <em>Mulheres de Abril</em>, de Cristina Branco, vence Prémio José Afonso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/culturaipsilon/noticia/album-mulheres-abril-cristina-branco-vence-premio-jose-afonso-2167462"
         },
         {
-            "title": "Igreja já definiu montantes a pagar às vitimas de abusos sexuais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/sociedade/noticia/igreja-ja-definiu-montantes-pagar-vitimas-abusos-sexuais-2167446"
+            "title": "Agência Internacional de Energia avalia prós e contras de libertar reservas estratégicas de petróleo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/economia/noticia/agencia-internacional-energia-avalia-pros-contras-libertar-reservas-estrategicas-petroleo-2167454"
         }
     ],
     "finance": [],
-    "last_update": "10/03/2026 17:38"
+    "last_update": "10/03/2026 18:35"
 }
