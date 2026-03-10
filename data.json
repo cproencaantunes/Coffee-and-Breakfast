@@ -1,15 +1,27 @@
 {
     "weather": {
         "atual": 9.9,
-        "manha": 11.9,
-        "tarde": 15.1,
-        "noite": 11.4
+        "manha": 12.2,
+        "tarde": 15.0,
+        "noite": 11.5
     },
     "forecast": {
         "max": 18.9,
-        "min": 9.8
+        "min": 9.7
     },
     "news": [
+        {
+            "title": "“Droga do riso”: aumentam as intoxicações que chegam ao SNS e disparam as apreensões",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/sociedade/noticia/droga-riso-aumentam-intoxicacoes-chegam-sns-disparam-apreensoes-2166203"
+        },
+        {
+            "title": "Exportações para países próximos da Rússia dispararam, Finanças investigam",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/economia/noticia/exportacoes-paises-proximos-russia-dispararam-financas-investigam-2167340"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/opiniao/opiniao/cartas-director-2167321"
+        },
         {
             "title": "Grandeza e força segundo Trump",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/opiniao/opiniao/grandeza-forca-segundo-trump-2167225"
@@ -17,20 +29,8 @@
         {
             "title": "Seguro é Presidente pelas boas razões",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/opiniao/opiniao/seguro-presidente-boas-razoes-2167334"
-        },
-        {
-            "title": "Reforma policial: a (tão) aclamada integração de civis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/opiniao/opiniao/reforma-policial-tao-aclamada-integracao-civis-2167172"
-        },
-        {
-            "title": "Ler devagar num mundo com pressa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/opiniao/opiniao/ler-devagar-mundo-pressa-2166705"
-        },
-        {
-            "title": "Pelo sistema de segurança interna, um contributo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/10/opiniao/opiniao/sistema-seguranca-interna-contributo-2166826"
         }
     ],
     "finance": [],
-    "last_update": "10/03/2026 05:10"
+    "last_update": "10/03/2026 06:36"
 }
