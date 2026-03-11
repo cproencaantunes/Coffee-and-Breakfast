@@ -2,8 +2,8 @@
     "weather": {
         "atual": 10.9,
         "manha": 11.0,
-        "tarde": 17.9,
-        "noite": 13.8
+        "tarde": 17.8,
+        "noite": 13.7
     },
     "forecast": {
         "max": 18.9,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Leitão Amaro não quer agência Lusa nas “mãos de um novo Sócrates”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/politica/noticia/leitao-amaro-nao-quer-agencia-lusa-maos-novo-socrates-2167501"
+            "title": "Líder supremo do Irão ficou ferido no ataque que matou o pai, mas está “são e salvo”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/mundo/noticia/lider-supremo-irao-ficou-ferido-ataque-matou-pai-sao-salvo-2167509"
         },
         {
-            "title": "Dacia anuncia Striker para 2027, um novo “atacante” para servir as famílias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/fugas/noticia/dacia-anuncia-striker-2027-novo-atacante-servir-familias-2167441"
+            "title": "<em>O Mago do Kremlin</em>: Putin flã",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/culturaipsilon/critica/mago-kremlin-putin-fla-2167390"
         },
         {
-            "title": "Antigo rancho de Epstein no Novo México alvo de buscas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/mundo/noticia/antigo-rancho-epstein-novo-mexico-alvo-buscas-2167499"
+            "title": "Comissão da ONU diz que deportação russa de crianças ucranianas é crime contra a humanidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/mundo/noticia/comissao-onu-deportacao-russa-criancas-ucranianas-crime-humanidade-2167510"
         },
         {
-            "title": "Equipa de Aveiro desenvolve uma nova forma de diagnosticar a infertilidade masculina",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/ciencia/noticia/equipa-aveiro-desenvolve-nova-forma-diagnosticar-infertilidade-masculina-2166804"
+            "title": "O tempo em que os meus pais davam boleias a estranhos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/impar/cronica/tempo-pais-davam-boleias-estranhos-2167392"
         },
         {
-            "title": "Despertador: Governo desembolsa 15 milhões de euros para recuperar praias antes do Verão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/newsletter/despertador"
+            "title": "<em>O Testamento de Ann Lee</em>: Jesus Cristo <em>superstar</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/culturaipsilon/critica/testamento-ann-lee-jesus-cristo-superstar-2167209"
         }
     ],
     "finance": [],
-    "last_update": "11/03/2026 09:32"
+    "last_update": "11/03/2026 10:29"
 }
