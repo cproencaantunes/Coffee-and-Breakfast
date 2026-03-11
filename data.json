@@ -2,35 +2,35 @@
     "weather": {
         "atual": 10.9,
         "manha": 11.7,
-        "tarde": 18.3,
-        "noite": 13.6
+        "tarde": 18.4,
+        "noite": 13.8
     },
     "forecast": {
-        "max": 18.9,
+        "max": 19.1,
         "min": 10.4
     },
     "news": [
         {
-            "title": "Pirata informático estrangeiro roubou 500 terabytes dos ficheiros Epstein",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/mundo/noticia/pirata-informatico-estrangeiro-roubou-500-terabytes-ficheiros-epstein-2167575"
+            "title": "As mensagens contraditórias de Trump sobre o fim da guerra no Irão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/mundo/noticia/guerra-irao-acaba-2167591"
         },
         {
-            "title": "Com quebra de vendas na China, Porsche planeia mais cortes de pessoal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/economia/noticia/quebra-vendas-china-porsche-planeia-cortes-pessoal-2167580"
+            "title": "Montenegro deu o primeiro passo para acabar com a reforma laboral",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/politica/noticia/montenegro-deu-passo-acabar-reforma-laboral-2167590"
         },
         {
-            "title": "Estátua de Trump e Epstein <em>à la Titanic</em> é a nova obra de um grupo de artistas anónimos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/p3/noticia/estatua-trump-epstein-titanic-nova-obra-grupo-artistas-anonimos-2167578"
+            "title": "O que fazer? Quinta é dia de dançar <em>Os Maias</em> e voltar a <em>Um Inimigo do Povo</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/fugas/noticia/quinta-dia-dancar-maias-voltar-inimigo-povo-2167548"
         },
         {
-            "title": "A Gala Michelin trouxe tudo o que se esperava? Seis perguntas sobre uma noite de estrelas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/fugas/noticia/gala-michelin-trouxe-esperava-seis-perguntas-noite-estrelas-2167563"
+            "title": "Empreendedora baiana transforma saudade do açaí em negócio na Suíça",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/publico-brasil/noticia/empreendedora-baiana-transforma-saudade-acai-negocio-suica-2167517"
         },
         {
-            "title": "Meta intensifica guerra contra burlas com inteligência artificial e biometria",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/enter/noticia/meta-intensifica-guerra-burlas-inteligencia-artificial-biometria-2167571"
+            "title": "Caso Odair: mais um polícia que só viu a faca depois de “muitos” agentes estarem no local do crime",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/sociedade/noticia/caso-odair-policia-so-viu-faca-agentes-estarem-local-crime-2167574"
         }
     ],
     "finance": [],
-    "last_update": "11/03/2026 17:41"
+    "last_update": "11/03/2026 18:40"
 }
