@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 10.9,
-        "manha": 11.0,
-        "tarde": 17.8,
+        "manha": 11.7,
+        "tarde": 18.4,
         "noite": 13.7
     },
     "forecast": {
         "max": 18.9,
-        "min": 10.0
+        "min": 10.1
     },
     "news": [
         {
-            "title": "Venderam-nos o fim do mundo. Hegseth comprou",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/p3/cronica/venderamnos-fim-mundo-hegseth-comprou-2167516"
+            "title": "Castro Almeida admite que apoios às casas afectadas pelas tempestades “não estão a correr bem”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/politica/noticia/castro-almeida-admite-apoios-casas-afectadas-tempestades-nao-estao-correr-bem-2167512"
         },
         {
-            "title": "Mediadores culturais nas escolas vão ter formação ainda este ano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/sociedade/noticia/mediadores-culturais-escolas-vao-formacao-ano-2167042"
+            "title": "Multimilionário brasileiro lança vinho do Porto de 150 anos: 10 mil euros a garrafa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/publico-brasil/noticia/multimilionario-brasileiro-lanca-vinho-porto-150-anos-10-mil-euros-garrafa-2167522"
         },
         {
-            "title": "Do rap à política: Balen Shah, o <em>outsider</em> que conquistou o Nepal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/mundo/noticia/rap-politica-balen-shah-outsider-conquistou-nepal-2167267"
+            "title": "Urgências regionais: o que avança, o que fecha e como vai funcionar o modelo para remediar a falta de médicos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/sociedade/noticia/urgencias-regionais-avanca-fecha-vai-funcionar-modelo-remediar-falta-medicos-2167526"
         },
         {
-            "title": "Cinco meses depois das autárquicas, Chega perdeu oito vereadores e substituiu dois",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/politica/noticia/cinco-meses-autarquicas-chega-perdeu-oito-vereadores-substituiu-dois-2167430"
+            "title": "Grammarly e Superhuman utilizam nomes de autores sem autorização",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/enter/noticia/grammarly-superhuman-utilizam-nomes-autores-autorizacao-2167506"
         },
         {
-            "title": "Líder supremo do Irão ficou ferido no ataque que matou o pai, mas está “são e salvo”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/mundo/noticia/lider-supremo-irao-ficou-ferido-ataque-matou-pai-sao-salvo-2167509"
+            "title": "IGAI sugere que esquadra do Rato mude de instalações e pede mais rigor em detenções",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/sociedade/noticia/igai-sugere-esquadra-rato-mude-instalacoes-pede-rigor-detencoes-2167531"
         }
     ],
     "finance": [],
-    "last_update": "11/03/2026 11:25"
+    "last_update": "11/03/2026 12:35"
 }
