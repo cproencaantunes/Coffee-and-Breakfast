@@ -3,13 +3,25 @@
         "atual": 10.9,
         "manha": 11.7,
         "tarde": 18.4,
-        "noite": 13.8
+        "noite": 14.0
     },
     "forecast": {
-        "max": 19.1,
+        "max": 19.3,
         "min": 10.4
     },
     "news": [
+        {
+            "title": "Pressão de Seguro ajudou: só faltam reitores para haver comissão técnica independente dos incêndios",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/sociedade/noticia/pressao-seguro-ajudou-so-faltam-reitores-haver-comissao-tecnica-independente-incendios-2167619"
+        },
+        {
+            "title": "Real Madrid e City apareceram pela metade, Valverde surgiu por inteiro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/desporto/noticia/real-madrid-city-apareceram-metade-valverde-surgiu-inteiro-2167622"
+        },
+        {
+            "title": "O Sporting europeu congelou na Noruega",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/desporto/cronica_de_jogo/sporting-europeu-congelou-noruega-2167621"
+        },
         {
             "title": "MP conclui que cartazes do Chega não são criminosos, embora possam ser ilegais",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/sociedade/noticia/mp-conclui-cartazes-chega-nao-sao-criminosos-embora-possam-ilegais-2167611"
@@ -17,20 +29,8 @@
         {
             "title": "Patrícia Lucas, da RTP, fez uma coisa chamada bom jornalismo",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/newsletter/livre-estilo"
-        },
-        {
-            "title": "Recusado recurso para restabelecer acusação de terrorismo contra os Kneecap",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/culturaipsilon/noticia/recusado-recurso-restabelecer-acusacao-terrorismo-kneecap-2167616"
-        },
-        {
-            "title": "Marilyn Monroe, ainda a doçura de uma vida <em>post-mortem</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/culturaipsilon/noticia/marilyn-monroe-docura-vida-postmortem-2167527"
-        },
-        {
-            "title": "João Paulo Feliciano resgata a arte a partir de quase nada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/culturaipsilon/critica/joao-paulo-feliciano-resgata-arte-partir-quase-nada-2166819"
         }
     ],
     "finance": [],
-    "last_update": "11/03/2026 21:22"
+    "last_update": "11/03/2026 22:18"
 }
