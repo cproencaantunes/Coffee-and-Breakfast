@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 10.9,
-        "manha": 11.1,
-        "tarde": 18.1,
-        "noite": 13.9
+        "manha": 11.0,
+        "tarde": 17.9,
+        "noite": 13.8
     },
     "forecast": {
         "max": 18.9,
-        "min": 10.5
+        "min": 10.0
     },
     "news": [
+        {
+            "title": "Ver com dois olhos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/mundo/opiniao/dois-olhos-2167425"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/opiniao/opiniao/cartas-director-2167453"
+        },
         {
             "title": "Tornar a transição de regime grande outra vez",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/opiniao/opiniao/tornar-transicao-regime-2167198"
@@ -21,16 +29,8 @@
         {
             "title": "A frente invisível das guerras",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/opiniao/opiniao/frente-invisivel-guerras-2167436"
-        },
-        {
-            "title": "Pelo menos seis mortos em incêndio em autocarro na Suíça",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/mundo/noticia/menos-seis-mortos-incendio-autocarro-suica-2167493"
-        },
-        {
-            "title": "As autarquias e o grande desígnio da regionalização",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/opiniao/opiniao/autarquias-designio-regionalizacao-2167169"
         }
     ],
     "finance": [],
-    "last_update": "11/03/2026 05:13"
+    "last_update": "11/03/2026 06:38"
 }
