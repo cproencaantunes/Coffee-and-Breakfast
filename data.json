@@ -2,35 +2,35 @@
     "weather": {
         "atual": 12.3,
         "manha": 12.7,
-        "tarde": 18.9,
+        "tarde": 19.2,
         "noite": 13.2
     },
     "forecast": {
-        "max": 17.9,
-        "min": 10.8
+        "max": 18.0,
+        "min": 10.9
     },
     "news": [
         {
-            "title": "Rita Rato afastada pela EGEAC da direcção do Museu do Aljube",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/culturaipsilon/noticia/rita-rato-afastada-egeac-direccao-museu-aljube-2167703"
+            "title": "Montenegro afirma “completa cordialidade” com Seguro, reuniões passam a ser à terça-feira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/politica/noticia/montenegro-afirma-completa-cordialidade-seguro-reunioes-passam-tercafeira-2167718"
         },
         {
-            "title": "Comité das Nações Unidas alerta para retórica racista de Trump e discriminação nos EUA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/mundo/noticia/comite-nacoes-unidas-alerta-retorica-racista-trump-discriminacao-eua-2167701"
+            "title": "<em>Operação Picoas</em>: novas buscas a co-fundador da Altice e a empresário de Braga",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/sociedade/noticia/operacao-picoas-novas-buscas-cofundador-altice-empresario-braga-2167721"
         },
         {
-            "title": "O ensino artístico em protesto para não ter de “entregar as chaves”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/newsletter/educacao"
+            "title": "O que fazer? Sexta é dia de<em> Trópico Paranóia</em>, <em>Slugs </em>e peixe do rio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/fugas/noticia/sexta-dia-tropico-paranoia-slugs-peixe-rio-2167644"
         },
         {
-            "title": "PSD diz que não quer “gerar guerras” entre táxis e TVDE",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/economia/noticia/psd-nao-quer-gerar-guerras-taxis-tvde-2167706"
+            "title": "Corte Constitucional da Itália mantém restrições à cidadania por direito de sangue",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/publico-brasil/noticia/corte-constitucional-italia-mantem-restricoes-cidadania-direito-sangue-2167716"
         },
         {
-            "title": "Ao contrário de Marcelo, Seguro usa redes sociais para comunicar enquanto Presidente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/politica/noticia/contrario-marcelo-seguro-usa-redes-sociais-comunicar-presidente-2167694"
+            "title": "À 25.ª edição, Imaginarius passa a projecto cultural activo ao longo de todo o ano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/local/noticia/25-edicao-imaginarius-passa-projecto-cultural-activo-longo-ano-2167511"
         }
     ],
     "finance": [],
-    "last_update": "12/03/2026 17:41"
+    "last_update": "12/03/2026 18:38"
 }
