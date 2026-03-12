@@ -1,13 +1,13 @@
 {
     "weather": {
         "atual": 12.3,
-        "manha": 12.3,
-        "tarde": 18.9,
+        "manha": 12.5,
+        "tarde": 18.8,
         "noite": 13.3
     },
     "forecast": {
-        "max": 17.7,
-        "min": 10.6
+        "max": 17.5,
+        "min": 10.8
     },
     "news": [
         {
@@ -32,5 +32,5 @@
         }
     ],
     "finance": [],
-    "last_update": "12/03/2026 01:02"
+    "last_update": "12/03/2026 04:04"
 }
