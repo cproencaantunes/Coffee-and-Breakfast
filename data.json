@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 10.9,
-        "manha": 11.7,
-        "tarde": 18.4,
-        "noite": 14.0
+        "atual": 12.3,
+        "manha": 12.3,
+        "tarde": 18.9,
+        "noite": 13.3
     },
     "forecast": {
-        "max": 19.3,
-        "min": 10.4
+        "max": 17.7,
+        "min": 10.6
     },
     "news": [
         {
+            "title": "Português entre vítimas mortais de incêndio em autocarro na Suíça",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/mundo/noticia/portugues-vitimas-mortais-incendio-autocarro-suica-2167626"
+        },
+        {
+            "title": "Faz conchinha comigo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/opiniao/cronica/faz-conchinha-comigo-2167545"
+        },
+        {
+            "title": "Número de condutores ao volante de um eléctrico quase triplicou num ano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/economia/noticia/numero-condutores-volante-electrico-quase-triplicou-ano-2167610"
+        },
+        {
+            "title": "Trabalhadores da RTP e Lusa preocupados com a pouca transparência do Governo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/sociedade/noticia/trabalhadores-rtp-lusa-preocupados-transparencia-governo-2167624"
+        },
+        {
             "title": "Pressão de Seguro ajudou: só faltam reitores para haver comissão técnica independente dos incêndios",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/sociedade/noticia/pressao-seguro-ajudou-so-faltam-reitores-haver-comissao-tecnica-independente-incendios-2167619"
-        },
-        {
-            "title": "Real Madrid e City apareceram pela metade, Valverde surgiu por inteiro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/desporto/noticia/real-madrid-city-apareceram-metade-valverde-surgiu-inteiro-2167622"
-        },
-        {
-            "title": "O Sporting europeu congelou na Noruega",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/desporto/cronica_de_jogo/sporting-europeu-congelou-noruega-2167621"
-        },
-        {
-            "title": "MP conclui que cartazes do Chega não são criminosos, embora possam ser ilegais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/sociedade/noticia/mp-conclui-cartazes-chega-nao-sao-criminosos-embora-possam-ilegais-2167611"
-        },
-        {
-            "title": "Patrícia Lucas, da RTP, fez uma coisa chamada bom jornalismo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/11/newsletter/livre-estilo"
         }
     ],
     "finance": [],
-    "last_update": "11/03/2026 23:16"
+    "last_update": "12/03/2026 01:02"
 }
