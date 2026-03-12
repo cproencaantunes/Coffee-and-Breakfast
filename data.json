@@ -2,35 +2,35 @@
     "weather": {
         "atual": 12.3,
         "manha": 12.5,
-        "tarde": 18.8,
-        "noite": 13.3
+        "tarde": 18.9,
+        "noite": 13.4
     },
     "forecast": {
         "max": 17.5,
-        "min": 10.8
+        "min": 10.4
     },
     "news": [
         {
-            "title": "Quantas caras tem a Europa?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/opiniao/opiniao/quantas-caras-europa-2167599"
+            "title": "Capital para Lisboa ou capital para o país?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/opiniao/opiniao/capital-lisboa-capital-pais-2167552"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/opiniao/opiniao/cartas-director-2167569"
+            "title": "Portugal participa em desbloqueio histórico de reservas de petróleo com 10% do <em>stock</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/economia/noticia/portugal-participa-desbloqueio-historico-reservas-petroleo-10-stock-2167584"
         },
         {
-            "title": "Português entre vítimas mortais de incêndio em autocarro na Suíça",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/mundo/noticia/portugues-vitimas-mortais-incendio-autocarro-suica-2167626"
+            "title": "De <em>Orville</em>, o albatroz, ao discurso da erradicação: o regresso do imperialismo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/opiniao/opiniao/orville-albatroz-discurso-erradicacao-regresso-imperialismo-2167553"
         },
         {
-            "title": "Faz conchinha comigo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/opiniao/cronica/faz-conchinha-comigo-2167545"
+            "title": "Guerra no Irão já começou a agravar despesa com juros em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/economia/noticia/guerra-irao-ja-comecou-agravar-despesa-juros-portugal-2167605"
         },
         {
-            "title": "Número de condutores ao volante de um eléctrico quase triplicou num ano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/economia/noticia/numero-condutores-volante-electrico-quase-triplicou-ano-2167610"
+            "title": "Desatar o nó das heranças indivisas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/opiniao/editorial/desatar-herancas-indivisas-2167617"
         }
     ],
     "finance": [],
-    "last_update": "12/03/2026 05:43"
+    "last_update": "12/03/2026 06:40"
 }
