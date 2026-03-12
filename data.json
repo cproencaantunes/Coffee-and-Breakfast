@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 12.3,
-        "manha": 12.5,
-        "tarde": 18.8,
-        "noite": 13.4
+        "manha": 12.7,
+        "tarde": 19.3,
+        "noite": 13.2
     },
     "forecast": {
-        "max": 17.4,
+        "max": 17.6,
         "min": 10.7
     },
     "news": [
         {
-            "title": "<em>Opressionismo</em>: Holly Hood antes do Coliseu dos Recreios",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/culturaipsilon/critica/opressionismo-holly-hood-coliseu-recreios-2167278"
+            "title": "“Vamos emitir vales para apoiar os proprietários florestais a limpar os terrenos”, diz ministra do Ambiente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/video/vamos-emitir-vales-apoiar-proprietarios-florestais-limpar-terrenos-diz-ministra-ambiente-20260312-121925"
         },
         {
-            "title": "Apreendidas mais de 25 toneladas de cocaína em 2025: recorde dos últimos 15 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/sociedade/noticia/apreendidas-25-toneladas-cocaina-2025-recorde-ultimos-15-anos-2167651"
+            "title": "Santa Casa vai rentabilizar prédios em Lisboa onde alguns querem ver casas acessíveis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/local/noticia/santa-casa-vai-rentabilizar-predios-lisboa-onde-querem-casas-acessiveis-2167603"
         },
         {
-            "title": "Portugal entrou em operação da Europol contra o comércio ilícito de resíduos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/azul/noticia/portugal-entrou-operacao-europol-comercio-ilicito-residuos-2167508"
+            "title": "Do rei ao super-herói, do guardião ao poeta: ideias para celebrar o Dia do Pai",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/fugas/noticia/rei-superheroi-guardiao-poeta-ideias-celebrar-dia-pai-2167391"
         },
         {
-            "title": "Morreu Mário Zambujal, jornalista, escritor, malandro e desalinhado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/culturaipsilon/noticia/morreu-mario-zambujal-jornalista-escritor-malandro-desalinhado-2167547"
+            "title": "Petróleo voltou a bater os 100 dólares apesar da libertação mundial de reservas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/economia/noticia/petroleo-voltou-bater-100-dolares-apesar-libertacao-mundial-reservas-2167649"
         },
         {
-            "title": "Castro Almeida responde a autarcas e promete ajuda para acelerar processos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/politica/noticia/castro-almeida-responde-autarcas-promete-ajuda-acelerar-processos-2167636"
+            "title": "Viciados em jogo <em>online</em>: “Em menos de uma hora fazia desaparecer cinco mil euros”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/12/p3/noticia/viciados-jogo-online-menos-hora-fazia-desaparecer-cinco-mil-euros-2167402"
         }
     ],
     "finance": [],
-    "last_update": "12/03/2026 11:25"
+    "last_update": "12/03/2026 12:34"
 }
