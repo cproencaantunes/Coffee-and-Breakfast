@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 11.9,
-        "manha": 12.7,
-        "tarde": 17.3,
-        "noite": 13.8
+        "manha": 12.5,
+        "tarde": 17.0,
+        "noite": 14.0
     },
     "forecast": {
-        "max": 15.5,
-        "min": 12.4
+        "max": 14.9,
+        "min": 12.2
     },
     "news": [
         {
-            "title": "Cabidela com “o melhor frango de campo do mundo” e vinho de Lafões",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/fugas/reportagem/cabidela-melhor-frango-campo-mundo-vinho-lafoes-2167303"
+            "title": "&#128137; Dieta Óscar, versão rápida",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/newsletter/proximo_episodio"
         },
         {
-            "title": "Inteligência artificial faz-nos escrever e pensar de forma igual, defendem investigadores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/p3/noticia/inteligencia-artificial-faznos-escrever-pensar-forma-igual-defendem-investigadores-2167715"
+            "title": "Autarca de Leiria recusa discutir telefonemas com Nuno Melo quando há população ainda sem comunicações",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/politica/noticia/autarca-leiria-recusa-discutir-telefonemas-nuno-melo-ha-populacao-comunicacoes-2167781"
         },
         {
-            "title": "Ozon estende um espelho a Camus. Uma \"Pina colagem\" no São João",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/newsletter/ipsilon"
+            "title": "Sete ideias para aproveitar em família, entre contos e animações (s)em caixas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/impar/noticia/sete-ideias-aproveitar-familia-contos-animacoes-caixas-2167775"
         },
         {
-            "title": "Petróleo segue acima dos 100 dólares apesar de medidas para descer preço",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/economia/noticia/petroleo-segue-acima-100-dolares-apesar-medidas-descer-preco-2167776"
+            "title": "Um terço dos alunos do secundário tem explicações: gasto médio mensal é de 126 euros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/sociedade/noticia/terco-alunos-secundario-explicacoes-gasto-medio-mensal-126-euros-2167773"
         },
         {
-            "title": "Afeganistão diz que bombardeamentos paquistaneses mataram quatro civis em Cabul",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/mundo/noticia/afeganistao-bombardeamentos-paquistaneses-mataram-quatro-civis-cabul-2167768"
+            "title": "Do século XIX para a cozinha contemporânea",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/edicoes-publico/noticia/seculo-xix-cozinha-contemporanea-2167691"
         }
     ],
     "finance": [],
-    "last_update": "13/03/2026 11:23"
+    "last_update": "13/03/2026 12:34"
 }
