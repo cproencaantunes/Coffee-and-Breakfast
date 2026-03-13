@@ -3,34 +3,34 @@
         "atual": 11.9,
         "manha": 12.5,
         "tarde": 16.7,
-        "noite": 14.2
+        "noite": 13.8
     },
     "forecast": {
-        "max": 15.5,
-        "min": 12.4
+        "max": 15.1,
+        "min": 12.3
     },
     "news": [
         {
+            "title": "Guerra no Irão: impacto financeiro começou nos combustíveis e pode acabar no emprego",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/economia/noticia/guerra-irao-impacto-financeiro-comecou-combustiveis-acabar-emprego-2167882"
+        },
+        {
+            "title": "“Perdi mesmo a esperança de receber alguma coisa” para reconstruir o que a <em>Kristin</em> destruiu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/local/noticia/perdi-esperanca-receber-2167854"
+        },
+        {
+            "title": "Não ir à bola com o futebol",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/opiniao/editorial/nao-ir-bola-futebol-2167550"
+        },
+        {
+            "title": "Google anuncia Groundsource com a ambição de “prever o imprevisível” e travar catástrofes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/enter/noticia/google-anuncia-groundsource-ambicao-prever-imprevisivel-travar-catastrofes-2167886"
+        },
+        {
             "title": "“Dia histórico”: 110 anos depois, tambor-falante regressa à Costa do Marfim",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/culturaipsilon/noticia/dia-historico-110-anos-tamborfalante-regressa-costa-marfim-2167878"
-        },
-        {
-            "title": "Tribunal de Beja condena cinco das 22 pessoas arguidas por exploração de imigrantes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/sociedade/noticia/tribunal-beja-condena-cinco-22-pessoas-arguidas-exploracao-imigrantes-2167849"
-        },
-        {
-            "title": "Das artes à religião, personalidades juntam-se em Lisboa para “parar a espiral da guerra”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/politica/noticia/artes-religiao-personalidades-juntamse-lisboa-parar-espiral-guerra-2167884"
-        },
-        {
-            "title": "Supremo aprova plano de insolvência da Trust in News, dona da revista <em>Visão</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/sociedade/noticia/supremo-aprova-plano-insolvencia-trust-in-news-dona-revista-visao-2167883"
-        },
-        {
-            "title": "E os Óscares vão para... As escolhas e previsões do Ípsilon",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/video/oscares-vao-escolhas-previsoes-ipsilon-20260313-170121"
         }
     ],
     "finance": [],
-    "last_update": "13/03/2026 21:23"
+    "last_update": "13/03/2026 22:19"
 }
