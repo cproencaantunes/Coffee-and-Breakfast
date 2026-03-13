@@ -2,35 +2,35 @@
     "weather": {
         "atual": 11.9,
         "manha": 12.5,
-        "tarde": 16.8,
-        "noite": 14.1
+        "tarde": 16.7,
+        "noite": 14.2
     },
     "forecast": {
-        "max": 15.3,
-        "min": 12.2
+        "max": 15.5,
+        "min": 12.4
     },
     "news": [
         {
-            "title": "Hugo Soares contesta decisão do TC sobre Spinumviva: <em>voyeurismo </em>e “precedente errado”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/politica/noticia/hugo-soares-contesta-decisao-tc-spinumviva-voyeurismo-precedente-errado-2167838"
+            "title": "O que fazer neste fim-de-semana? Ir ao piano, à luta e ao cabrito",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/culturaipsilon/noticia/neste-fimdesemana-ir-piano-luta-cabrito-2167835"
         },
         {
-            "title": "O conflito no Irão já é uma guerra mundial? E a ameaça nuclear é real?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/video/conflito-irao-ja-guerra-mundial-ameaca-nuclear-real-20260313-170358"
+            "title": "A <em>IAtização</em> da linguagem e da nossa capacidade de criar o mundo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/publico-brasil/opiniao/iatizacao-linguagem-capacidade-criar-mundo-2167857"
         },
         {
-            "title": "F1: FIA prepara-se para cancelar corridas no Bahrein e na Arábia Saudita",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/desporto/noticia/f1-fia-preparase-cancelar-corridas-bahrein-arabia-saudita-2167832"
+            "title": "Filmes do cineasta Paulo Rocha vão circular por cinemas de todo o país",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/culturaipsilon/noticia/filmes-cineasta-paulo-rocha-vao-circular-cinemas-pais-2167853"
         },
         {
-            "title": "Supremo Tribunal da Índia rejeita licença menstrual de “dois a três dias”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/p3/noticia/supremo-tribunal-india-rejeita-licenca-menstrual-dois-tres-dias-2167824"
+            "title": "Há 192 quilómetros de vias férreas operacionais onde a CP não está a operar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/local/noticia/ha-192-quilometros-vias-ferreas-operacionais-onde-cp-nao-operar-2167840"
         },
         {
-            "title": "Ordem alerta que novas regras para manter médico de família podem excluir utentes com “necessidades reais”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/sociedade/noticia/ordem-alerta-novas-regras-manter-medico-familia-podem-excluir-utentes-necessidades-reais-2167815"
+            "title": "Juventude lusófona pede a Presidente de Portugal ações sobre migração e educação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/publico-brasil/noticia/juventude-lusofona-pede-presidente-portugal-acoes-migracao-educacao-2167846"
         }
     ],
     "finance": [],
-    "last_update": "13/03/2026 17:27"
+    "last_update": "13/03/2026 18:28"
 }
