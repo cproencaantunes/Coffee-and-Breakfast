@@ -2,35 +2,35 @@
     "weather": {
         "atual": 11.9,
         "manha": 12.5,
-        "tarde": 17.0,
-        "noite": 14.0
+        "tarde": 16.8,
+        "noite": 14.1
     },
     "forecast": {
-        "max": 14.9,
+        "max": 15.3,
         "min": 12.2
     },
     "news": [
         {
-            "title": "Vídeo mostra “último estudante branco” a frequentar uma faculdade na Irlanda? Falso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/mundo/noticia/video-mostra-ultimo-estudante-branco-frequentar-faculdade-irlanda-falso-2167806"
+            "title": "Ordem alerta que novas regras para manter médico de família podem excluir utentes com “necessidades reais”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/sociedade/noticia/ordem-alerta-novas-regras-manter-medico-familia-podem-excluir-utentes-necessidades-reais-2167815"
         },
         {
-            "title": "São Miguel: antiga casa de chá da lagoa das Furnas abre como Camélia Delicatessen",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/fugas/noticia/sao-miguel-antiga-casa-cha-lagoa-furnas-abre-camelia-delicatessen-2167803"
+            "title": "Guia Prático do Consumidor Idoso ganha informação sobre seguros e fundos de pensões",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/economia/noticia/guia-pratico-consumidor-idoso-ganha-informacao-seguros-fundos-pensoes-2167821"
         },
         {
-            "title": "Cuba anuncia conversações com EUA para tentar resolver crise agravada por ameaças de Trump",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/mundo/noticia/cuba-anuncia-conversacoes-eua-tentar-resolver-crise-agravada-ameacas-trump-2167812"
+            "title": "Estudo de expansão do aeroporto do Porto pronto até ao final do ano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/economia/noticia/estudo-expansao-aeroporto-porto-pronto-ate-final-ano-2167788"
         },
         {
-            "title": "Miguel Loureiro e Anabela Valente são os novos directores do TBA e do Museu do Aljube",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/culturaipsilon/noticia/miguel-loureiro-anabela-valente-sao-novos-directores-tba-museu-aljube-2167813"
+            "title": "Vila Franca fecha Urgência de Obstetrícia, mas reabre Urgência Pediátrica aos fins-de-semana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/sociedade/noticia/vila-franca-fecha-urgencia-obstetricia-reabre-urgencia-pediatrica-finsdesemana-2167818"
         },
         {
-            "title": "Palacete Severo: uma história de amor que se abriu à cidade do Porto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/fugas/noticia/palacete-severo-historia-amor-abriu-cidade-porto-2167256"
+            "title": "Canadá reforça defesa do Árctico com investimento de 35 mil milhões de dólares",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/mundo/noticia/canada-reforca-defesa-arctico-investimento-35-mil-milhoes-dolares-2167814"
         }
     ],
     "finance": [],
-    "last_update": "13/03/2026 15:33"
+    "last_update": "13/03/2026 16:28"
 }
