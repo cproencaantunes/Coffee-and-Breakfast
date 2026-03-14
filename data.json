@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 11.9,
-        "manha": 12.5,
-        "tarde": 16.7,
-        "noite": 13.8
+        "atual": 13.8,
+        "manha": 13.5,
+        "tarde": 14.5,
+        "noite": 14.8
     },
     "forecast": {
-        "max": 15.1,
-        "min": 12.3
+        "max": 17.7,
+        "min": 12.5
     },
     "news": [
         {
-            "title": "Tribunal bloqueia intimações do Departamento de Justiça à Fed",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/mundo/noticia/tribunal-bloqueia-intimacoes-departamento-justica-fed-2167891"
+            "title": "Suspeito de ataque a sinagoga perdeu família num recente ataque de Israel ao Líbano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/mundo/noticia/suspeito-ataque-sinagoga-perdeu-familia-recente-ataque-israel-libano-2167895"
         },
         {
-            "title": "Guerra no Irão: impacto financeiro começou nos combustíveis e pode acabar no emprego",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/economia/noticia/guerra-irao-impacto-financeiro-comecou-combustiveis-acabar-emprego-2167882"
+            "title": "Linhas vermelhas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/opiniao/opiniao/linhas-vermelhas-2167830"
         },
         {
-            "title": "“Perdi mesmo a esperança de receber alguma coisa” para reconstruir o que a <em>Kristin</em> destruiu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/local/noticia/perdi-esperanca-receber-2167854"
+            "title": "Os “influenciadores” e o ostracismo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/opiniao/opiniao/influenciadores-ostracismo-2167879"
         },
         {
-            "title": "Não ir à bola com o futebol",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/opiniao/editorial/nao-ir-bola-futebol-2167550"
+            "title": "Roubos por esticão caíram 32%",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/sociedade/opiniao/roubos-esticao-cairam-32-2167851"
         },
         {
-            "title": "Google anuncia Groundsource com a ambição de “prever o imprevisível” e travar catástrofes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/13/enter/noticia/google-anuncia-groundsource-ambicao-prever-imprevisivel-travar-catastrofes-2167886"
+            "title": "A palavra do advogado e a honra do juiz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/opiniao/opiniao/palavra-advogado-honra-juiz-2167825"
         }
     ],
     "finance": [],
-    "last_update": "13/03/2026 23:18"
+    "last_update": "14/03/2026 01:07"
 }
