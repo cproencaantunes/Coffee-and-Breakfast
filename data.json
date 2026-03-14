@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.7,
         "manha": 13.1,
-        "tarde": 14.4,
-        "noite": 14.4
+        "tarde": 14.3,
+        "noite": 14.5
     },
     "forecast": {
-        "max": 17.5,
+        "max": 18.0,
         "min": 12.3
     },
     "news": [
         {
-            "title": "Descontraído, pragmático e abertamente homossexual: Rob Jetten é o mais jovem primeiro-ministro da história dos Países Baixos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/mundo/noticia/descontraido-pragmatico-abertamente-homossexual-rob-jetten-jovem-primeiroministro-historia-paises-baixos-2167660"
+            "title": "Brasileira lança projeto para integração de filhos de emigrantes em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/publico-brasil/noticia/brasileira-lanca-projeto-integracao-filhos-emigrantes-portugal-2167859"
         },
         {
-            "title": "Morreu Jürgen Habermas, incansável pensador da democracia e das suas crises",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/culturaipsilon/noticia/morreu-jurgen-habermas-incansavel-pensador-democracia-crises-2167922"
+            "title": "Opositora Corina Machado acusa Governo venezuelano de querer “prolongar o terror”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/mundo/noticia/opositora-corina-machado-acusa-governo-venezuelano-querer-prolongar-terror-2167929"
         },
         {
-            "title": "De macacos a elefantes, estes animais órfãos encontram conforto em brinquedos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/p3/noticia/macacos-elefantes-animais-orfaos-encontram-conforto-brinquedos-2167770"
+            "title": "No dia em que será reeleito líder do PS, Carneiro acusa Governo de incompetência",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/politica/noticia/dia-sera-reeleito-lider-ps-carneiro-acusa-governo-incompetencia-2167926"
         },
         {
-            "title": "Uniformes de hotéis, restaurantes ou museus também são moda de autor portuguesa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/impar/noticia/uniformes-hoteis-restaurantes-museus-tambem-sao-moda-autor-portuguesa-2167406"
+            "title": "Em Paredes, a população sofre há anos com a poluição do concelho vizinho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/azul/noticia/paredes-populacao-sofre-ha-anos-poluicao-concelho-vizinho-2167858"
         },
         {
-            "title": "Português Gonçalo Castelo-Branco vai ajudar a escolher Nobel da Medicina",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/ciencia/noticia/portugues-goncalo-castelobranco-vai-ajudar-escolher-nobel-medicina-2167923"
+            "title": "Valongo lidera associação intermunicipal para (finalmente) recuperar o rio Ferreira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/azul/noticia/valongo-lidera-associacao-intermunicipal-finalmente-recuperar-rio-ferreira-2167407"
         }
     ],
     "finance": [],
-    "last_update": "14/03/2026 17:18"
+    "last_update": "14/03/2026 18:22"
 }
