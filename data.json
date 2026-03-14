@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 13.7,
-        "manha": 13.2,
-        "tarde": 14.8,
+        "manha": 13.1,
+        "tarde": 14.5,
         "noite": 14.4
     },
     "forecast": {
         "max": 17.4,
-        "min": 12.5
+        "min": 12.9
     },
     "news": [
+        {
+            "title": "Presidente Seguro só falou dois dias, mas o que disse já produziu efeitos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/politica/noticia/presidente-seguro-so-falou-dois-dias-ja-produziu-efeitos-2167844"
+        },
+        {
+            "title": "Inevitável",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/opiniao/opiniao/inevitavel-2167876"
+        },
         {
             "title": "Cartas ao director",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/opiniao/opiniao/cartas-director-2167816"
@@ -21,16 +29,8 @@
         {
             "title": "Linhas vermelhas",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/opiniao/opiniao/linhas-vermelhas-2167830"
-        },
-        {
-            "title": "Os “influenciadores” e o ostracismo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/opiniao/opiniao/influenciadores-ostracismo-2167879"
-        },
-        {
-            "title": "Roubos por esticão caíram 32%",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/sociedade/opiniao/roubos-esticao-cairam-32-2167851"
         }
     ],
     "finance": [],
-    "last_update": "14/03/2026 05:38"
+    "last_update": "14/03/2026 06:33"
 }
