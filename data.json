@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.7,
         "manha": 13.1,
-        "tarde": 14.2,
-        "noite": 14.1
+        "tarde": 14.4,
+        "noite": 14.4
     },
     "forecast": {
-        "max": 17.7,
-        "min": 12.7
+        "max": 17.5,
+        "min": 12.3
     },
     "news": [
         {
-            "title": "Familiares de vítimas da legionella recordam em tribunal sofrimento por que passaram",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/sociedade/noticia/familiares-vitimas-legionella-recordam-tribunal-sofrimento-passaram-2167829"
+            "title": "Português Gonçalo Castelo-Branco vai ajudar a escolher Nobel da Medicina",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/ciencia/noticia/portugues-goncalo-castelobranco-vai-ajudar-escolher-nobel-medicina-2167923"
         },
         {
-            "title": "Cerca de 5600 sócios votaram nas eleições do Sporting até às 14h",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/desporto/noticia/cerca-5600-socios-votaram-eleicoes-sporting-ate-14h-2167920"
+            "title": "CGTP não foi convocada, mas vai ao Ministério do Trabalho na segunda-feira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/economia/noticia/cgtp-nao-convocada-vai-ministerio-trabalho-segundafeira-2167921"
         },
         {
-            "title": "Kimi Antonelli faz história na Fórmula 1, com a <em>pole position</em> mais jovem da história",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/desporto/noticia/kimi-antonelli-faz-historia-formula-1-pole-position-jovem-historia-2167913"
+            "title": "Associação de profissionais de polícia propõe tabela remuneratória “justa” ao Governo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/sociedade/noticia/associacao-profissionais-policia-propoe-tabela-remuneratoria-justa-governo-2167919"
         },
         {
-            "title": "Ontem tive uma audiência",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/publico-brasil/opiniao/ontem-audiencia-2167911"
+            "title": "Coreia do Norte dispara mísseis durante exercícios militares entre EUA e Coreia do Sul",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/mundo/noticia/coreia-norte-dispara-misseis-durante-exercicios-militares-eua-coreia-sul-2167916"
         },
         {
-            "title": "A cultura entre apoios públicos e controlo político",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/culturaipsilon/opiniao/cultura-apoios-publicos-controlo-politico-2167767"
+            "title": "Instituto de Apoio à Criança regista em 2025 quase 3500 pedidos de apoio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/sociedade/noticia/instituto-apoio-crianca-regista-2025-quase-3500-pedidos-apoio-2167917"
         }
     ],
     "finance": [],
-    "last_update": "14/03/2026 15:18"
+    "last_update": "14/03/2026 16:18"
 }
