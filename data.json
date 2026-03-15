@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 13.7,
-        "manha": 13.1,
-        "tarde": 14.3,
-        "noite": 14.6
+        "manha": 13.7,
+        "tarde": 17.5,
+        "noite": 13.4
     },
     "forecast": {
-        "max": 17.6,
-        "min": 12.1
+        "max": 21.3,
+        "min": 11.6
     },
     "news": [
         {
-            "title": "Jürgen Habermas (1929-2026), um filósofo no palco do nosso tempo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/culturaipsilon/noticia/jurgen-habermas-19292026-filosofo-palco-tempo-2167938"
+            "title": "Ao 16.º dia de guerra, a economia global está sob ataque",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/opiniao/analise/16-dia-guerra-economia-global-ataque-2167912"
         },
         {
-            "title": "FIA adia Grande Prémio de F1 do Bahrein e da Arábia Saudita",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/desporto/noticia/fia-adia-premio-bahrein-arabia-saudita-2167940"
+            "title": "A defesa dos consumidores nos territórios",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/opiniao/opiniao/defesa-consumidores-territorios-2167839"
         },
         {
-            "title": "Varandas sucede a Varandas no Sporting",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/desporto/noticia/varandas-sucede-varandas-sporting-2167942"
+            "title": "Transformar politécnicos em universidades",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/opiniao/opiniao/transformar-politecnicos-universidades-2167797"
         },
         {
-            "title": "Benfica foi a Arouca sem treinador, mas com Ivanovic",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/desporto/cronica_de_jogo/benfica-arouca-treinador-ivanovic-2167933"
+            "title": "“Para resolver a crise de habitação, é preciso agilizar os despejos.” Pensam que nos enganam?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/opiniao/opiniao/resolver-crise-habitacao-preciso-agilizar-despejos-pensam-enganam-2167780"
         },
         {
-            "title": "Sem concorrência, Carneiro é reeleito líder do PS com 96,9% dos votos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/14/politica/noticia/concorrencia-carneiro-reeleito-lider-ps-969-votos-2167936"
+            "title": "Da (grande farsa da) liderança escolar à impunidade: ainda as 79 escolas <em>visitadas</em> pelos influenciadores digitais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/opiniao/opiniao/farsa-lideranca-escolar-impunidade-79-escolas-visitadas-influenciadores-digitais-2167796"
         }
     ],
     "finance": [],
-    "last_update": "14/03/2026 23:17"
+    "last_update": "15/03/2026 01:19"
 }
