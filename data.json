@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 13.5,
-        "manha": 13.4,
-        "tarde": 17.0,
-        "noite": 13.1
+        "manha": 13.9,
+        "tarde": 17.1,
+        "noite": 13.2
     },
     "forecast": {
         "max": 21.2,
-        "min": 11.3
+        "min": 11.5
     },
     "news": [
         {
+            "title": "Morreu o músico Phil Campbell, da banda Motörhead",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/culturaipsilon/noticia/morreu-musico-phil-campbell-banda-motorhead-2167960"
+        },
+        {
+            "title": "Seguro faz primeira Presidência aberta em Castelo Branco, Coimbra, Leiria e Santarém",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/politica/noticia/seguro-faz-primeira-presidencia-aberta-castelo-branco-coimbra-leiria-santarem-2167958"
+        },
+        {
+            "title": "40% dos rapazes australianos acreditam que as mulheres mentem sobre violência doméstica e sexual",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/p3/noticia/40-rapazes-australianos-acreditam-mulheres-mentem-violencia-domestica-sexual-2167655"
+        },
+        {
+            "title": "Primeira urgência regional abre na segunda-feira no Hospital de Loures",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/sociedade/noticia/primeira-urgencia-regional-abre-segundafeira-hospital-loures-2167954"
+        },
+        {
             "title": "A vida de Margarida mudou",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/newsletter/impar"
-        },
-        {
-            "title": "Fartos de insegurança, moradores da Mouraria compraram computador à PSP para a ajudar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/local/noticia/fartos-inseguranca-moradores-mouraria-compraram-computador-psp-ajudar-2167523"
-        },
-        {
-            "title": "Fiat Grande Panda, a virtude da simplicidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/fugas/noticia/fiat-panda-virtude-simplicidade-2167243"
-        },
-        {
-            "title": "Democracia ou hegemonia? O paradoxo das “intervenções libertadoras”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/p3/cronica/democracia-hegemonia-paradoxo-intervencoes-libertadoras-2167555"
-        },
-        {
-            "title": "Mercedes domina na China e Antonelli vence corrida aos 19 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/desporto/noticia/mercedes-domina-china-antonelli-vence-corrida-19-anos-2167948"
         }
     ],
     "finance": [],
-    "last_update": "15/03/2026 11:17"
+    "last_update": "15/03/2026 12:29"
 }
