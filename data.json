@@ -11,6 +11,10 @@
     },
     "news": [
         {
+            "title": "A vida de Margarida mudou",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/newsletter/impar"
+        },
+        {
             "title": "Fartos de insegurança, moradores da Mouraria compraram computador à PSP para a ajudar",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/local/noticia/fartos-inseguranca-moradores-mouraria-compraram-computador-psp-ajudar-2167523"
         },
@@ -25,12 +29,8 @@
         {
             "title": "Mercedes domina na China e Antonelli vence corrida aos 19 anos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/desporto/noticia/mercedes-domina-china-antonelli-vence-corrida-19-anos-2167948"
-        },
-        {
-            "title": "GP de Portugal de MotoGP adiado devido à guerra no Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/desporto/noticia/gp-portugal-motogp-adiado-devido-guerra-irao-2167949"
         }
     ],
     "finance": [],
-    "last_update": "15/03/2026 10:19"
+    "last_update": "15/03/2026 11:17"
 }
