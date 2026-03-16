@@ -2,35 +2,35 @@
     "weather": {
         "atual": 12.9,
         "manha": 14.7,
-        "tarde": 21.9,
-        "noite": 16.5
+        "tarde": 21.7,
+        "noite": 16.7
     },
     "forecast": {
-        "max": 20.5,
-        "min": 11.7
+        "max": 20.9,
+        "min": 11.8
     },
     "news": [
         {
-            "title": "Os discursos e os gestos políticos dos Óscares em sete momentos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/impar/noticia/discursos-gestos-politicos-oscares-sete-momentos-2168053"
+            "title": "“Excesso de confiança” e falta de conhecimento deixa jovens mais vulneráveis a fraudes financeiras",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/economia/noticia/excesso-confianca-falta-conhecimento-deixa-jovens-vulneraveis-fraudes-financeiras-2168074"
         },
         {
-            "title": "Hollywood a correr atrás dos Óscares",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/culturaipsilon/comentario/hollywood-correr-atras-oscares-2168047"
+            "title": "Universidade Nova de Lisboa vai mesmo repetir eleições para reitor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/sociedade/noticia/universidade-nova-lisboa-vai-repetir-eleicoes-reitor-2168071"
         },
         {
-            "title": "Buenos Aires: do MALBA à La Boca, à procura dos tesouros culturais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/fugas/noticia/buenos-aires-malba-boca-procura-tesouros-culturais-2167324"
+            "title": "O colégio que ensina a desigualdade com cantinas dos ricos e dos pobres",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/p3/cronica/colegio-ensina-desigualdade-cantinas-ricos-pobres-2168024"
         },
         {
-            "title": "A <em>smartband</em> de baixo preço sem ecrã, mas que mede a tensão arterial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/enter/noticia/smartband-baixo-preco-ecra-mede-tensao-arterial-2168049"
+            "title": "Banco de Portugal confirma acordo para saída de Centeno, reforma será paga pelo fundo de pensões",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/economia/noticia/banco-portugal-confirma-acordo-saida-centeno-reforma-sera-paga-fundo-pensoes-2168064"
         },
         {
-            "title": "Salesianos dizem que diferença nas refeições servidas a alunos resulta de “imposição legal” do Ministério da Educação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/sociedade/noticia/salesianos-diferenca-refeicoes-servidas-alunos-resulta-imposicao-legal-ministerio-educacao-2168048"
+            "title": "Chelsea denunciou-se a si próprio e vai pagar milhões por transacções ilícitas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/desporto/noticia/chelsea-denunciouse-proprio-vai-pagar-milhoes-pagamentos-ilicitos-2168075"
         }
     ],
     "finance": [],
-    "last_update": "16/03/2026 14:14"
+    "last_update": "16/03/2026 15:55"
 }
