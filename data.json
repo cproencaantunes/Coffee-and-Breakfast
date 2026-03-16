@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 13.5,
-        "manha": 13.9,
-        "tarde": 17.1,
-        "noite": 13.4
+        "atual": 12.8,
+        "manha": 14.3,
+        "tarde": 21.3,
+        "noite": 16.5
     },
     "forecast": {
-        "max": 21.6,
-        "min": 11.7
+        "max": 21.0,
+        "min": 11.6
     },
     "news": [
         {
-            "title": "Descida acentuada da temperatura pode levar neve aos Açores na terça e quarta-feira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/azul/noticia/descida-acentuada-temperatura-levar-neve-acores-terca-quartafeira-2167992"
+            "title": "A resposta do Governo à crise de Ormuz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/opiniao/opiniao/resposta-governo-crise-ormuz-2167983"
         },
         {
-            "title": "Era uma noite assim que o FC Porto queria frente ao Moreirense",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/desporto/cronica_de_jogo/noite-assim-fc-porto-queria-frente-moreirense-2167985"
+            "title": "Será o IVA zero a (única) solução para mitigar a subida do preço dos alimentos?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/opiniao/opiniao/sera-iva-zero-unica-solucao-mitigar-subida-preco-alimentos-2167795"
         },
         {
-            "title": "A votação norte-coreana de Carneiro e a volatilização dos herdeiros de Costa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/opiniao/cronica/votacao-nortecoreana-carneiro-volatilizacao-herdeiros-costa-2167990"
+            "title": "Porquê?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/opiniao/opiniao/2167950"
         },
         {
-            "title": "Acompanhe aqui a cerimónia dos Óscares de 2026",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/culturaipsilon/noticia/acompanhe-aqui-cerimonia-oscares-2026-2167974"
+            "title": "A República das Bainhas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/opiniao/opiniao/republica-bainhas-2167939"
         },
         {
-            "title": "Carta aberta pela Cultura em Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/15/culturaipsilon/opiniao/carta-aberta-cultura-lisboa-2167971"
+            "title": "Co-produzir um novo plano para uma Região Centro resiliente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/opiniao/opiniao/coproduzir-novo-plano-regiao-centro-resiliente-2167817"
         }
     ],
     "finance": [],
-    "last_update": "15/03/2026 23:19"
+    "last_update": "16/03/2026 01:19"
 }
