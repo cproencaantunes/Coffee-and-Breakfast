@@ -1,15 +1,27 @@
 {
     "weather": {
         "atual": 12.9,
-        "manha": 14.3,
-        "tarde": 21.4,
-        "noite": 16.6
+        "manha": 14.4,
+        "tarde": 21.8,
+        "noite": 16.8
     },
     "forecast": {
         "max": 21.1,
-        "min": 11.7
+        "min": 11.8
     },
     "news": [
+        {
+            "title": "Dmitro Kuleba: “A chave para a paz na Ucrânia não está em Washington, mas sim na Europa”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/mundo/entrevista/dmitro-kuleba-chave-paz-ucrania-nao-washington-sim-europa-2167647"
+        },
+        {
+            "title": "Dmitro Kuleba: “A Rússia não tem de ganhar na Ucrânia para atacar um país da NATO”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/mundo/entrevista/dmitro-kuleba-russia-nao-ganhar-ucrania-atacar-pais-nato-2167645"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/opiniao/opiniao/cartas-director-2167941"
+        },
         {
             "title": "Paul Thomas Anderson: de batalha em batalha até aos seis Óscares finais",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/culturaipsilon/noticia/paul-thomas-anderson-batalha-batalha-ate-oscares-finais-2168001"
@@ -17,20 +29,8 @@
         {
             "title": "A lista dos vencedores dos Óscares de 2026, que ganharam o que esperavam",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/culturaipsilon/noticia/vencedor-oscares-2026-paul-thomas-anderson-batalha-atras-batalha-2167993"
-        },
-        {
-            "title": "A resposta do Governo à crise de Ormuz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/opiniao/opiniao/resposta-governo-crise-ormuz-2167983"
-        },
-        {
-            "title": "Será o IVA zero a (única) solução para mitigar a subida do preço dos alimentos?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/opiniao/opiniao/sera-iva-zero-unica-solucao-mitigar-subida-preco-alimentos-2167795"
-        },
-        {
-            "title": "Porquê?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/opiniao/opiniao/2167950"
         }
     ],
     "finance": [],
-    "last_update": "16/03/2026 04:31"
+    "last_update": "16/03/2026 06:13"
 }
