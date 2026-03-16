@@ -3,13 +3,25 @@
         "atual": 12.9,
         "manha": 14.7,
         "tarde": 21.9,
-        "noite": 16.9
+        "noite": 17.3
     },
     "forecast": {
-        "max": 20.6,
-        "min": 12.0
+        "max": 20.8,
+        "min": 12.1
     },
     "news": [
+        {
+            "title": "Mau tempo regressa esta semana com a depressão <em>Therese</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/azul/noticia/mau-tempo-regressa-semana-depressao-therese-2168134"
+        },
+        {
+            "title": "Na sombra do herói: masculinidades em crise nos filmes do Oscar 2026",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/publico-brasil/opiniao/sombra-heroi-masculinidades-crise-filmes-oscar-2026-2168132"
+        },
+        {
+            "title": "Educação sexual nas escolas. Porquê?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/impar/noticia/educacao-sexual-escolas-2168131"
+        },
         {
             "title": "O pintor angolano Blackson faz sua primeira exposição individual em Lisboa",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/publico-brasil/noticia/pintor-angolano-blackson-faz-primeira-exposicao-individual-lisboa-2168124"
@@ -17,20 +29,8 @@
         {
             "title": "Activista portuguesa terá sido espancada por colonos israelitas na Cisjordânia",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/mundo/noticia/activista-portuguesa-tera-espancada-colonos-israelitas-cisjordania-2168128"
-        },
-        {
-            "title": "Carlos Tavares: descentralização não chega, municípios “não têm escala” e fusões “não são simples”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/politica/entrevista/carlos-tavares-descentralizacao-nao-chega-municipios-nao-escala-fusoes-nao-sao-simples-2168092"
-        },
-        {
-            "title": "Ucrânia: Seguro transmitiu a Zelensky “contínuo e inabalável” apoio de Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/politica/noticia/ucrania-seguro-transmitiu-zelensky-continuo-inabalavel-apoio-portugal-2168129"
-        },
-        {
-            "title": "Associação dos Profissionais da GNR pede ao MAI para cumprir acordo assinado em 2024",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/sociedade/noticia/associacao-profissionais-gnr-pede-mai-cumprir-acordo-assinado-2024-2168130"
         }
     ],
     "finance": [],
-    "last_update": "16/03/2026 21:29"
+    "last_update": "16/03/2026 22:22"
 }
