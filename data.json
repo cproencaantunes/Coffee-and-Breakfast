@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 12.9,
-        "manha": 14.4,
-        "tarde": 21.4,
-        "noite": 16.4
+        "manha": 14.7,
+        "tarde": 21.9,
+        "noite": 16.5
     },
     "forecast": {
-        "max": 20.8,
-        "min": 11.5
+        "max": 20.5,
+        "min": 11.7
     },
     "news": [
         {
-            "title": "Não esqueça os imigrantes, senhor Presidente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/publico-brasil/opiniao/nao-esqueca-imigrantes-senhor-presidente-2167924"
+            "title": "Levar o campo de tiro para Alter do Chão: “Não é bom em lado nenhum”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/azul/noticia/levar-campo-tiro-alter-chao-nao-bom-lado-2168021"
         },
         {
-            "title": "Petróleo e gás continuam a encarecer, Japão rejeita intervir em Ormuz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/economia/noticia/petroleo-gas-continuam-encarecer-japao-rejeita-intervir-ormuz-2168017"
+            "title": "O dia-a-dia de um estudante da Margem Sul",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/p3/cronica/diaadia-estudante-margem-sul-2168018"
         },
         {
-            "title": "A guitarra flamenca de Yerai Cortés toca lá no fundo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/culturaipsilon/noticia/guitarra-flamenca-yerai-cortes-toca-fundo-2167275"
+            "title": "De Michael B. Jordan a <em>Batalha Atrás de Batalha</em>: os vencedores dos Óscares",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/video/michael-b-jordan-batalha-atras-batalha-vencedores-oscares-20260316-121600"
         },
         {
-            "title": "Presidente da República chama partidos a Belém",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/politica/noticia/presidente-republica-chama-partidos-belem-2168020"
+            "title": "Primeira volta das autárquicas dá vantagem aos socialistas em Paris",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/mundo/noticia/primeira-volta-autarquicas-vantagem-socialistas-paris-2168031"
         },
         {
-            "title": "De Kolovrat no museu à customização de Dino Alves: os sete destaques da 66.ª ModaLisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/impar/noticia/kolovrat-museu-customizacao-dino-alves-sete-destaques-66-modalisboa-2167998"
+            "title": "Sigur Rós de volta a Portugal para concertos com Sinfonietta de Lisboa e Coro Ricercare",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/culturaipsilon/noticia/sigur-ros-volta-portugal-concertos-sinfonietta-lisboa-coro-ricercare-2168046"
         }
     ],
     "finance": [],
-    "last_update": "16/03/2026 11:39"
+    "last_update": "16/03/2026 12:45"
 }
