@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 12.9,
-        "manha": 14.7,
-        "tarde": 21.9,
-        "noite": 17.3
+        "atual": 15.8,
+        "manha": 13.5,
+        "tarde": 20.5,
+        "noite": 15.0
     },
     "forecast": {
-        "max": 20.8,
-        "min": 12.1
+        "max": 18.8,
+        "min": 13.7
     },
     "news": [
         {
-            "title": "O caminho estreito de Donald Trump",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/opiniao/editorial/caminho-estreito-donald-trump-2168026"
+            "title": "Finalmente, Portugal diz não aos Estados Unidos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/politica/noticia/finalmente-portugal-nao-estados-unidos-2168139"
         },
         {
-            "title": "Cuba está a sofrer um apagão total do sistema eléctrico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/mundo/noticia/cuba-sofrer-apagao-total-sistema-electrico-2168136"
+            "title": "Guerra no Médio Oriente: e tudo aponta para a Palestina",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/opiniao/opiniao/guerra-medio-oriente-aponta-palestina-2168106"
         },
         {
-            "title": "Mau tempo regressa esta semana com a depressão <em>Therese</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/azul/noticia/mau-tempo-regressa-semana-depressao-therese-2168134"
+            "title": "“Uma política cultural de direita”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/opiniao/opiniao/politica-cultural-direita-2168078"
         },
         {
-            "title": "Na sombra do herói: masculinidades em crise nos filmes do Oscar 2026",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/publico-brasil/opiniao/sombra-heroi-masculinidades-crise-filmes-oscar-2026-2168132"
+            "title": "Mais mortes, menos escrutínio: o risco de deixar cair a EARHVD",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/opiniao/opiniao/mortes-menos-escrutinio-risco-deixar-cair-earhvd-2167807"
         },
         {
-            "title": "Educação sexual nas escolas. Porquê?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/16/impar/noticia/educacao-sexual-escolas-2168131"
+            "title": "IVA a 6% para todos: e as cooperativas, onde ficam?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/opiniao/opiniao/iva-6-cooperativas-onde-ficam-2167952"
         }
     ],
     "finance": [],
-    "last_update": "16/03/2026 23:21"
+    "last_update": "17/03/2026 01:10"
 }
