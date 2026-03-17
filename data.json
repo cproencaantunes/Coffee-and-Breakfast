@@ -2,14 +2,26 @@
     "weather": {
         "atual": 16.0,
         "manha": 13.5,
-        "tarde": 21.0,
-        "noite": 15.0
+        "tarde": 21.2,
+        "noite": 14.9
     },
     "forecast": {
-        "max": 18.3,
+        "max": 18.5,
         "min": 14.0
     },
     "news": [
+        {
+            "title": "O que fazer? Quarta é dia de ver <em>O Céu da Língua</em> e a Casa Roque Gameiro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/fugas/noticia/quarta-dia-ceu-lingua-casa-roque-gameiro-2168193"
+        },
+        {
+            "title": "Vídeo mostra Katy Perry em chamas durante gravação de novo videoclipe? Falso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/impar/noticia/video-mostra-katy-perry-chamas-durante-gravacao-novo-videoclipe-falso-2168238"
+        },
+        {
+            "title": "Casa da Arquitectura expõe originais do Plano-Piloto de Brasília",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/culturaipsilon/noticia/casa-arquitectura-expoe-originais-planopiloto-brasilia-2168237"
+        },
         {
             "title": "Um pacto ibérico pela vida: cooperar para sobreviver",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/azul/opiniao/pacto-iberico-vida-cooperar-sobreviver-2168182"
@@ -17,20 +29,8 @@
         {
             "title": "John Galliano vai revisitar os arquivos para desenhar colecções para a Zara",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/impar/noticia/john-galliano-vai-revisitar-arquivos-desenhar-coleccoes-zara-2168225"
-        },
-        {
-            "title": "Quando a cantina da escola ensina desigualdade – o que estamos a ensinar quando separámos os pobres à mesa?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/opiniao/opiniao/cantina-escola-ensina-desigualdade-ensinar-separamos-pobres-mesa-2168236"
-        },
-        {
-            "title": "Buscas por causa de esquema de financiamento da Ryanair incluíram gabinete de Berta Cabral",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/sociedade/noticia/buscas-causa-esquema-financiamento-ryanair-incluiram-gabinete-berta-cabral-2168229"
-        },
-        {
-            "title": "PCP diz que alterações “aqui ou ali” ao pacote laboral não mudam “declaração de guerra” aos trabalhadores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/politica/noticia/pcp-alteracoes-aqui-ali-pacote-laboral-nao-mudam-declaracao-guerra-trabalhadores-2168215"
         }
     ],
     "finance": [],
-    "last_update": "17/03/2026 17:52"
+    "last_update": "17/03/2026 18:46"
 }
