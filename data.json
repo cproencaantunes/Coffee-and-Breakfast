@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 16.0,
-        "manha": 13.4,
+        "manha": 13.5,
         "tarde": 20.3,
         "noite": 14.8
     },
     "forecast": {
-        "max": 18.6,
-        "min": 13.9
+        "max": 18.8,
+        "min": 14.1
     },
     "news": [
         {
-            "title": "Hugo Danin em diálogos jazz 100% improvisados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/culturaipsilon/entrevista/hugo-danin-dialogos-jazz-100-improvisados-2167428"
+            "title": "Ericeira: Fundação O Século estreia Boomerang, alojamento turístico “com retorno solidário”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/fugas/noticia/ericeira-fundacao-seculo-estreia-boomerang-alojamento-turistico-retorno-solidario-2168115"
         },
         {
-            "title": "Psicólogos e técnicos especializados com contratos continuam nas escolas à espera de concurso prometido",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/sociedade/noticia/psicologos-tecnicos-especializados-contratos-continuam-escolas-espera-concurso-prometido-2168169"
+            "title": "João Ruivo acusa presidente da Câmara de Cascais: quer PS e Chega “desestruturados”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/politica/entrevista/joao-ruivo-acusa-presidente-camara-cascais-quer-ps-chega-desestruturados-2168063"
         },
         {
-            "title": "Partidos querem amas independentes integradas na Creche Feliz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/sociedade/noticia/partidos-querem-amas-independentes-integradas-creche-feliz-2167961"
+            "title": "Pedro Chagas Freitas: “Nada comove mais do que alguém querer salvar o nosso filho”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/impar/podcast/pedro-chagas-freitas-nada-comove-alguem-querer-salvar-filho-2168155"
         },
         {
-            "title": "O mito das 5h da manhã: acordar cedo não te tornará mais bem-sucedido",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/p3/noticia/mito-5h-manha-acordar-cedo-nao-tornara-bemsucedido-2168165"
+            "title": "Nepal elege primeira deputada trans com votos da geração Z",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/p3/noticia/nepal-elege-primeira-deputada-trans-votos-geracao-z-2168175"
         },
         {
-            "title": "Entidade para a Transparência vai divulgar clientes da Spinumviva e aplica decisão a outros casos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/politica/noticia/entidade-transparencia-vai-divulgar-clientes-spinumviva-aplica-decisao-casos-2168159"
+            "title": "Ana Margarida de Carvalho vence Prémio Literário Fundação Inês de Castro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/17/culturaipsilon/noticia/ana-margarida-carvalho-vence-premio-literario-fundacao-ines-castro-2168167"
         }
     ],
     "finance": [],
-    "last_update": "17/03/2026 11:36"
+    "last_update": "17/03/2026 12:44"
 }
