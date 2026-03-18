@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.4,
-        "manha": 14.9,
-        "tarde": 18.5,
-        "noite": 15.8
+        "manha": 14.6,
+        "tarde": 18.3,
+        "noite": 15.6
     },
     "forecast": {
-        "max": 14.8,
+        "max": 15.2,
         "min": 12.4
     },
     "news": [
         {
-            "title": "Maternidades privadas atingiram valor recorde de 16.317 partos no ano passado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/sociedade/noticia/maternidades-privadas-atingiram-valor-recorde-16317-partos-ano-passado-2168280"
+            "title": "<em>Riefenstahl</em> trata resíduos tóxicos, os filmes de propaganda do III Reich",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/culturaipsilon/critica/riefenstahl-trata-residuos-toxicos-filmes-propaganda-iii-reich-2168116"
         },
         {
-            "title": "Zendaya repete vestido para a estreia de filme, mas não confirma casamento com Tom Holland",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/impar/noticia/zendaya-repete-vestido-estreia-filme-nao-confirma-casamento-tom-holland-2168287"
+            "title": "Dez ideias para dar de beber ao Dia Mundial da Água",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/fugas/noticia/dez-ideias-dar-beber-dia-mundial-agua-2168192"
         },
         {
-            "title": "<em>O Último Padrinho</em>: o filme de mafiosos a não gostar de si próprio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/culturaipsilon/critica/ultimo-padrinho-filme-mafiosos-nao-gostar-proprio-2168062"
+            "title": "Câmara de Lisboa aprova compra de dez camiões de lixo e 37 carros para a Polícia Municipal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/local/noticia/camara-lisboa-aprova-compra-dez-camioes-lixo-37-carros-policia-municipal-2168303"
         },
         {
-            "title": "Carteirista sentimental",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/p3/cronica/carteirista-sentimental-2168286"
+            "title": "<em>O Massacre de Gilles de Rais</em>: a palavra do assassino",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/culturaipsilon/critica/massacre-gilles-rais-palavra-assassino-2168221"
         },
         {
-            "title": "Lares privados: 70% não têm vagas e quartos rondam os dois mil euros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/sociedade/noticia/lares-privados-70-nao-vagas-quartos-rondam-dois-mil-euros-2168282"
+            "title": "Leni Riefenstahl “mentia de forma incontinente. É um modelo para as <em>fake news</em>”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/culturaipsilon/entrevista/leni-riefenstahl-mentia-forma-incontinente-modelo-fake-news-2167668"
         }
     ],
     "finance": [],
-    "last_update": "18/03/2026 11:37"
+    "last_update": "18/03/2026 12:44"
 }
