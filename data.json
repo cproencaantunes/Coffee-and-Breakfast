@@ -11,6 +11,10 @@
     },
     "news": [
         {
+            "title": "Artista brasileira une arte contemporânea à tradição portuguesa em Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/publico-brasil/noticia/artista-brasileira-une-arte-contemporanea-tradicao-portuguesa-lisboa-2168246"
+        },
+        {
             "title": "Novos ataques no Líbano fazem 19 mortos, duas vítimas mortais em ataque a Telavive",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/mundo/noticia/novos-ataques-libano-fazem-19-mortos-duas-vitimas-mortais-ataque-telavive-2168275"
         },
@@ -25,12 +29,8 @@
         {
             "title": "Florbela em novas vozes: “Achei-a bastante rock’n’roll e assertiva na escrita”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/culturaipsilon/noticia/florbela-novas-vozes-acheia-bastante-rocknroll-assertiva-escrita-2168178"
-        },
-        {
-            "title": "A Cultura em Portugal trocada por moedas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/publico-brasil/opiniao/cultura-portugal-trocada-moedas-2168261"
         }
     ],
     "finance": [],
-    "last_update": "18/03/2026 07:45"
+    "last_update": "18/03/2026 08:36"
 }
