@@ -3,34 +3,34 @@
         "atual": 14.4,
         "manha": 14.6,
         "tarde": 17.8,
-        "noite": 15.2
+        "noite": 15.4
     },
     "forecast": {
-        "max": 15.1,
-        "min": 12.2
+        "max": 14.9,
+        "min": 13.0
     },
     "news": [
         {
-            "title": "Trump, a rã e o escorpião",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/newsletter/aquinaamerica"
+            "title": "Montenegro e Carneiro reuniram-se para debater órgãos externos do Parlamento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/politica/noticia/montenegro-carneiro-reuniramse-debater-orgaos-externos-parlamento-2168418"
         },
         {
-            "title": "Grande apoio em Israel à guerra não se traduziu em mais popularidade de Netanyahu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/mundo/noticia/apoio-israel-guerra-nao-traduziu-popularidade-netanyahu-2168367"
+            "title": "50 anos do PPE: uma Europa que tem de continuar a fazer sentido na vida das pessoas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/opiniao/opiniao/50-anos-ppe-europa-continuar-sentido-vida-pessoas-2168410"
         },
         {
-            "title": "Montenegro acena com medidas para responder à guerra e pressiona consenso na lei laboral",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/politica/noticia/montenegro-acena-medidas-responder-guerra-pressiona-consenso-lei-laboral-2168404"
+            "title": "Conselho Europeu à procura de soluções para conter a guerra no Médio Oriente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/mundo/noticia/conselho-europeu-procura-solucoes-conter-guerra-medio-oriente-2168415"
         },
         {
-            "title": "Visão regressa à estaca zero, 12 resistem e hoje há festa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/newsletter/livre-estilo"
+            "title": "Barcelona divertiu-se, Liverpool deu a volta, Bayern descansou e Atlético tremeu na Champions",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/desporto/noticia/barcelona-divertese-liverpool-volta-bayer-descansa-atletico-treme-2168419"
         },
         {
-            "title": "Na periferia de Barcelona, a vida e a morte nas ruínas do progresso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/culturaipsilon/noticia/periferia-barcelona-vida-morte-ruinas-progresso-2168259"
+            "title": "Alexandre Estrela apresentou com estrondo a instalação que levará à Bienal de Veneza",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/culturaipsilon/noticia/alexandre-estrela-apresentou-estrondo-instalacao-levara-bienal-veneza-2168406"
         }
     ],
     "finance": [],
-    "last_update": "18/03/2026 21:25"
+    "last_update": "18/03/2026 22:23"
 }
