@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.4,
         "manha": 14.6,
-        "tarde": 18.3,
-        "noite": 15.6
+        "tarde": 17.3,
+        "noite": 15.4
     },
     "forecast": {
-        "max": 15.2,
-        "min": 12.4
+        "max": 14.9,
+        "min": 13.2
     },
     "news": [
         {
-            "title": "O cansaço também educa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/impar/opiniao/cansaco-tambem-educa-2168299"
+            "title": "Jovens até aos 35 anos pediram 58% do crédito à habitação em 2025",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/economia/noticia/jovens-ate-35-anos-pediram-58-credito-habitacao-2025-2168343"
         },
         {
-            "title": "Será a nossa democracia verdadeiramente democrática? O que os cidadãos devem exigir",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/opiniao/opiniao/sera-democracia-verdadeiramente-democratica-cidadaos-exigir-2168323"
+            "title": "Combustíveis encareceram mais em Portugal do que em todos os países indicados em publicação de Ventura? Falso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/politica/noticia/combustiveis-encareceram-portugal-paises-indicados-publicacao-ventura-falso-2168330"
         },
         {
-            "title": "O brasileiro Márcio Ricci comanda o buffet de aniversário do arquiteto Troufa Real",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/publico-brasil/noticia/brasileiro-marcio-ricci-comanda-buffet-aniversario-arquiteto-troufa-real-2168186"
+            "title": "Na Barragem do Alto Rabagão, em Trás-os-Montes, testa-se o futuro da energia solar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/azul/noticia/barragem-alto-rabagao-trasosmontes-testase-futuro-energia-solar-2168265"
         },
         {
-            "title": "ASAE detectou irregularidades nas bombas de combustíveis, mas não especulação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/economia/noticia/asae-detetou-irregularidades-bombas-combustiveis-nao-especulacao-2168319"
+            "title": "CAN: Senegal contesta atribuição do título a Marrocos e recorre ao Tribunal Arbitral",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/desporto/noticia/can-senegal-contesta-atribuicao-titulo-marrocos-recorre-tribunal-arbitral-2168335"
         },
         {
-            "title": "Exportações militares crescem por causa da Ucrânia, mas ainda têm peso reduzido",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/economia/noticia/exportacoes-militares-crescem-causa-ucrania-peso-reduzido-2168318"
+            "title": "Cascais entra no mapa da 15.ª edição da Ocean Race em 2027",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/desporto/noticia/cascais-entra-mapa-15-edicao-ocean-race-2027-2168341"
         }
     ],
     "finance": [],
-    "last_update": "18/03/2026 14:15"
+    "last_update": "18/03/2026 16:00"
 }
