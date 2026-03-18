@@ -1,9 +1,9 @@
 {
     "weather": {
         "atual": 14.4,
-        "manha": 15.2,
-        "tarde": 18.5,
-        "noite": 16.1
+        "manha": 15.0,
+        "tarde": 18.9,
+        "noite": 15.9
     },
     "forecast": {
         "max": 16.0,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/opiniao/opiniao/cartas-director-2168232"
+            "title": "Menos exames repetidos, mas idas ao centro de saúde para resolver burocracia continuam",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/sociedade/noticia/menos-exames-repetidos-idas-centro-saude-resolver-burocracia-continuam-2168260"
         },
         {
-            "title": "PS vai ser obrigado a dar um dos seus lugares ao Chega no Constitucional?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/politica/noticia/ps-vai-obrigado-dar-lugares-chega-constitucional-2168271"
+            "title": "“Grande reforma do SNS”: articulação de cuidados melhorou, mas problemas antigos persistem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/sociedade/noticia/reforma-sns-articulacao-cuidados-melhorou-problemas-antigos-persistem-2168240"
         },
         {
-            "title": "Sem estacionamento não há SNS",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/opiniao/opiniao/estacionamento-nao-ha-sns-2168200"
+            "title": "UE começa a decidir esta semana acordo com os EUA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/economia/noticia/ue-comeca-decidir-semana-acordo-eua-2168262"
         },
         {
-            "title": "A obsessão da direita com a “ideologia de género”: por que os direitos trans e intersexo não são negociáveis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/opiniao/opiniao/obsessao-direita-ideologia-genero-direitos-trans-intersexo-nao-sao-negociaveis-2168056"
+            "title": "“É impossível ter total certeza de que os EUA vão cumprir o acordo de Turnberry”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/economia/entrevista/impossivel-total-certeza-eua-vao-cumprir-acordo-turnberry-2168234"
         },
         {
-            "title": "A contrarrevolução cultural",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/opiniao/opiniao/contrarrevolucao-cultural-2168058"
+            "title": "E os EUA? Salvos pela metodologia, são agente do “reforço das redes autoritárias”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/18/mundo/noticia/eua-salvos-metodologia-sao-agente-reforco-redes-autoritarias-2168255"
         }
     ],
     "finance": [],
-    "last_update": "18/03/2026 05:56"
+    "last_update": "18/03/2026 06:54"
 }
