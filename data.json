@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.6,
-        "manha": 14.5,
-        "tarde": 14.1,
-        "noite": 14.1
+        "manha": 14.4,
+        "tarde": 14.6,
+        "noite": 14.4
     },
     "forecast": {
-        "max": 16.4,
-        "min": 12.0
+        "max": 17.4,
+        "min": 12.7
     },
     "news": [
         {
-            "title": "A língua portuguesa por Gregorio Duvivier e o regresso de duas obras esgotadas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/culturaipsilon/noticia/lingua-portuguesa-gregorio-duvivier-regresso-duas-obras-esgotadas-2168185"
+            "title": "Dificuldade na inscrição nos exames nacionais? “Nenhum aluno será prejudicado”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/sociedade/noticia/dificuldade-inscricao-exames-nacionais-aluno-sera-prejudicado-2168429"
         },
         {
-            "title": "Rússia desafia bloqueio norte-americano com envio de petróleo para Cuba",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/mundo/noticia/russia-desafia-bloqueio-norteamericano-envio-petroleo-cuba-2168426"
+            "title": "Nova reitora do Iscte, Helena Carreiras, quer cruzar ciências sociais, gestão e tecnologias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/sociedade/noticia/nova-reitora-iscte-helena-carreiras-quer-cruzar-ciencias-sociais-gestao-tecnologias-2168228"
         },
         {
-            "title": "Paternidade e desenvolvimento: o poder da relação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/impar/opiniao/paternidade-desenvolvimento-relacao-2167693"
+            "title": "Inspector-geral diz que INEM sabia das greves e mostrou-se impreparado para responder a imprevistos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/sociedade/noticia/inspectorgeral-inem-sabia-greves-mostrouse-impreparado-responder-imprevistos-2168427"
         },
         {
-            "title": "PZ escolhe o Dia do Pai para estrear <i>Sou pai de filhos</i>, do anunciado <i>Álbum de Família</i>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/video/pz-escolhe-dia-pai-estrear-pai-filhos-anunciado-album-familia-20260318-125532"
+            "title": "O que nos dizem estas meias?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/impar/cronica/meias-2168325"
         },
         {
-            "title": "<em>Projecto Hail Mary</em>, <em>Histórias do Vale Bom</em> e outras estreias para esta semana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/culturaipsilon/noticia/ultimo-padrinho-palestina-36-estreias-semana-2167632"
+            "title": "Werner Herzog trata o abismo por tu num ciclo no cinema Fernando Lopes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/culturaipsilon/noticia/werner-herzog-trata-abismo-ciclo-cinema-fernando-lopes-2168375"
         }
     ],
     "finance": [],
-    "last_update": "19/03/2026 09:33"
+    "last_update": "19/03/2026 10:30"
 }
