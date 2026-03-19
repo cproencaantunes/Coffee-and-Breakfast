@@ -3,34 +3,34 @@
         "atual": 14.6,
         "manha": 14.2,
         "tarde": 14.3,
-        "noite": 12.9
+        "noite": 13.0
     },
     "forecast": {
-        "max": 17.8,
-        "min": 12.8
+        "max": 16.8,
+        "min": 12.7
     },
     "news": [
         {
-            "title": "De uma estória de enamoramento e respeito pelo Douro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/terroir/noticia/estoria-enamoramento-respeito-douro-2168163"
+            "title": "O que é que comeste hoje na escola?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/newsletter/educacao"
         },
         {
-            "title": "Mau tempo: APA faz descargas em barragens para evitar cheias em Alcácer do Sal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/azul/noticia/mau-tempo-apa-faz-descargas-barragens-evitar-cheias-alcacer-sal-2168473"
+            "title": "ICNF está a fazer fogo controlado no inverno para ajudar a travar incêndios",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/azul/noticia/icnf-fogo-controlado-inverno-ajudar-travar-incendios-2168466"
         },
         {
-            "title": "FPF quer aumentar número de praticantes e de árbitros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/desporto/noticia/fpf-quer-aumentar-numero-praticantes-arbitros-2168477"
+            "title": "Como é que <em>Heated Rivalry</em> se tornou um fenómeno?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/video/heated-rivalry-tornou-fenomeno-20260318-151134"
         },
         {
-            "title": "Federação Académica de Lisboa condena Chega por Futurália e distribuição de panfletos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/p3/noticia/federacao-academica-lisboa-condena-chega-futuralia-distribuicao-panfletos-2168454"
+            "title": "Fazer as pazes com o pai que temos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/impar/noticia/pazes-pai-2168288"
         },
         {
-            "title": "Nuno Borges é o terceiro tenista confirmado para o Estoril Open",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/desporto/noticia/nuno-borges-terceiro-tenista-confirmado-estoril-open-2168474"
+            "title": "Sonae investiu mais de seis mil milhões de euros em cinco anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/economia/noticia/sonae-investiu-seis-mil-milhoes-euros-cinco-anos-2168491"
         }
     ],
     "finance": [],
-    "last_update": "19/03/2026 15:42"
+    "last_update": "19/03/2026 16:45"
 }
