@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.0,
-        "manha": 13.9,
-        "tarde": 16.5,
-        "noite": 13.9
+        "manha": 14.0,
+        "tarde": 16.9,
+        "noite": 14.0
     },
     "forecast": {
         "max": 15.9,
-        "min": 13.2
+        "min": 13.5
     },
     "news": [
         {
+            "title": "Guerra afecta um terço do comércio de fertilizantes e abre a porta a uma crise alimentar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/economia/noticia/guerra-afecta-terco-comercio-fertilizantes-abre-porta-crise-alimentar-2168283"
+        },
+        {
+            "title": "Novo programa de saúde oral cria cheque-prótese para grupos vulneráveis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/sociedade/noticia/novo-programa-saude-oral-cria-chequeprotese-grupos-vulneraveis-2168519"
+        },
+        {
+            "title": "A revolução conservadora em curso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/culturaipsilon/opiniao/revolucao-conservadora-curso-2168158"
+        },
+        {
+            "title": "Despejos aumentaram mais de 40% em 2025",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/economia/noticia/despejos-aumentaram-40-2025-2168485"
+        },
+        {
             "title": "Cartas ao director",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/opiniao/opiniao/cartas-director-2168506"
-        },
-        {
-            "title": "Imigração: Governo cola-se ao Chega e deixa o PS soltinho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/politica/noticia/imigracao-governo-colase-chega-deixa-ps-soltinho-2168538"
-        },
-        {
-            "title": "Mau tempo: Montenegro pede “solução engenhosa” a Bruxelas para não perder dinheiro do PRR",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/politica/noticia/mau-tempo-montenegro-pede-solucao-engenhosa-bruxelas-nao-perder-dinheiro-prr-2168535"
-        },
-        {
-            "title": "A Lusa nas mãos de um novo Sócrates",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/opiniao/opiniao/lusa-maos-novo-socrates-2168480"
-        },
-        {
-            "title": "A história da história que é uma lição de História",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/opiniao/opiniao/historia-historia-licao-historia-2168475"
         }
     ],
     "finance": [],
-    "last_update": "20/03/2026 05:43"
+    "last_update": "20/03/2026 06:41"
 }
