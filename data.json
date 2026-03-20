@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.0,
-        "manha": 14.0,
-        "tarde": 16.9,
-        "noite": 14.0
+        "manha": 14.1,
+        "tarde": 16.6,
+        "noite": 14.1
     },
     "forecast": {
-        "max": 15.9,
-        "min": 13.5
+        "max": 16.8,
+        "min": 13.4
     },
     "news": [
         {
-            "title": "Apagão: Peritos europeus recomendam reforço de regras e coordenação do sistema ",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/economia/noticia/apagao-peritos-europeus-recomendam-reforco-regras-coordenacao-sistema-2168545"
+            "title": "Árvores caídas podem tornar as florestas mais resilientes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/azul/opiniao/arvores-caidas-podem-tornar-florestas-resilientes-2167328"
         },
         {
-            "title": "Amor, uma copa e uma cozinha: Angélica Salvador e Tiago Bonito, o novo casal Michelin",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/fugas/perfil/amor-copa-cozinha-angelica-salvador-tiago-bonito-novo-casal-michelin-2168224"
+            "title": "A pop alternativa portuguesa na zona de rebentação: de Herlander a Rita Onofre, de Alex D'Alva a Raquel Martins",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/newsletter/ipsilon"
         },
         {
-            "title": "Carlos Sanches lança o primeiro álbum, <i>Cães e Crianças</i>, e traz com ele uma <i>Arritmia</i>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/video/carlos-sanches-lanca-album-caes-criancas-acompanhado-arritmia-20260320-085044"
+            "title": "Tem-se morrido muito",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/culturaipsilon/cronica/temse-morrido-2168156"
         },
         {
-            "title": "PS de Alter do Chão acusa câmara de aceitar campo de tiro “nas costas” das populações",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/azul/noticia/ps-alter-chao-acusa-camara-aceitar-campo-tiro-costas-populacoes-2168520"
+            "title": "Kanye West regressa a Portugal em Agosto para concerto no Estádio do Algarve",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/culturaipsilon/noticia/kanye-west-regressa-portugal-agosto-concerto-estadio-algarve-2168552"
         },
         {
-            "title": "Despertador: Guerra abre a porta a uma crise alimentar. Despejos aumentaram mais de 40% em 2025",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/newsletter/despertador"
+            "title": "Miguel Cardoso: “A poesia, por vezes, exige que olhemos para a língua como se ela já tivesse morrido”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/culturaipsilon/entrevista/miguel-cardoso-poesia-vezes-exige-olhemos-lingua-ja-morrido-2167125"
         }
     ],
     "finance": [],
-    "last_update": "20/03/2026 09:31"
+    "last_update": "20/03/2026 10:28"
 }
