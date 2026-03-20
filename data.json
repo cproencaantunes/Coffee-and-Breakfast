@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.0,
         "manha": 13.9,
-        "tarde": 16.0,
-        "noite": 13.9
+        "tarde": 15.9,
+        "noite": 13.7
     },
     "forecast": {
-        "max": 16.6,
-        "min": 13.1
+        "max": 17.0,
+        "min": 13.3
     },
     "news": [
         {
-            "title": "EUA investigam ligações do Presidente colombiano Gustavo Petro ao narcotráfico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/mundo/noticia/eua-investigam-ligacoes-presidente-colombiano-gustavo-petro-narcotrafico-2168611"
+            "title": "Plataformas digitais criticam UE por deixar caducar medida contra pornografia infantil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/enter/noticia/plataformas-digitais-criticam-ue-deixar-caducar-medida-pornografia-infantil-2168636"
         },
         {
-            "title": "Estudantes de Medicina contra alterações à lei da identidade de género",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/p3/noticia/estudantes-medicina-alteracoes-lei-identidade-genero-2168633"
+            "title": "O que fazer neste fim-de-semana? Pão, poesia e outros clássicos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/fugas/noticia/neste-fimdesemana-pao-poesia-classicos-2168550"
         },
         {
-            "title": "A filosofia política “crítica” de Habermas e a questão colonial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/publico-brasil/opiniao/filosofia-politica-critica-habermas-questao-colonial-2168629"
+            "title": "Qatar Airways é eleita a melhor companhia área, a TAP é a 10.º nas híbridas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/fugas/noticia/qatar-airways-eleita-melhor-companhia-area-tap-10-hibridas-2168640"
         },
         {
-            "title": "Viktor Orbán volta a esticar a corda no Conselho Europeu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/mundo/noticia/viktor-orban-volta-esticar-corda-conselho-europeu-2168628"
+            "title": "A lista de Martínez diz que o Mundial é mero devaneio para muita gente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/desporto/analise/lista-martinez-mundial-mero-devaneio-gente-2168650"
         },
         {
-            "title": "EUA processam Harvard por anti-semitismo e exigem milhares de milhões de dólares",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/mundo/noticia/eua-processam-harvard-antisemitismo-exigem-milhares-milhoes-dolares-2168624"
+            "title": "Presidente da República convoca reunião do Conselho Superior de Defesa para dia 31",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/politica/noticia/presidente-republica-convoca-reuniao-conselho-superior-defesa-dia-31-2168647"
         }
     ],
     "finance": [],
-    "last_update": "20/03/2026 17:28"
+    "last_update": "20/03/2026 18:33"
 }
