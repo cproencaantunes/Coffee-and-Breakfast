@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.0,
         "manha": 13.9,
-        "tarde": 16.3,
-        "noite": 14.1
+        "tarde": 16.0,
+        "noite": 13.9
     },
     "forecast": {
-        "max": 16.8,
-        "min": 13.4
+        "max": 16.6,
+        "min": 13.1
     },
     "news": [
         {
-            "title": "Mais 30 polícias no aeroporto de Lisboa e 15 no de Faro são apenas reforço temporário",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/sociedade/noticia/30-policias-aeroporto-lisboa-15-faro-sao-apenas-reforco-temporario-2168603"
+            "title": "Como a Água Monfortinho quer abanar o mercado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/fugas/noticia/agua-monfortinho-quer-abanar-mercado-2168080"
         },
         {
-            "title": "Leni Riefenstahl e a estética nazi: estes filmes ainda são perigosos?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/culturaipsilon/podcast/leni-riefenstahl-estetica-nazi-filmes-sao-perigosos-2168459"
+            "title": "Carregal do Sal inaugura ciclovia inspirada em Aristides de Sousa Mendes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/local/noticia/carregal-sal-inaugura-ciclovia-inspirada-aristides-sousa-mendes-2168620"
         },
         {
-            "title": "Em Madagáscar, os candidatos a ministros terão de passar por um detector de mentiras",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/mundo/noticia/madagascar-candidatos-ministros-terao-passar-detector-mentiras-2168601"
+            "title": "Mais de metade das casas anteriores a 1960 continua com má eficiência energética",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/azul/noticia/metade-casas-anteriores-1960-continua-ma-eficiencia-energetica-2168576"
         },
         {
-            "title": "Aeroporto de Singapura é o melhor do mundo, Lisboa e Porto no final do top 100",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/fugas/noticia/aeroporto-singapura-melhor-mundo-lisboa-porto-final-top-100-2168591"
+            "title": "Bebemos cada vez mais água engarrafada, entre turismo e estilos de vida",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/fugas/noticia/bebemos-agua-engarrafada-turismo-estilos-vida-2168120"
         },
         {
-            "title": "Parlamento pede a Governo que antecipe bolsas e mobilize edifícios públicos para residências",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/sociedade/noticia/parlamento-pede-governo-antecipe-bolsas-mobilize-edificios-publicos-residencias-2168575"
+            "title": "Professores entregam milhares de postais na residência oficial do primeiro-ministro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/sociedade/noticia/professores-entregam-milhares-postais-residencia-oficial-primeiroministro-2168615"
         }
     ],
     "finance": [],
-    "last_update": "20/03/2026 15:33"
+    "last_update": "20/03/2026 16:31"
 }
