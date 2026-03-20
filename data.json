@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 13.9,
-        "manha": 13.7,
-        "tarde": 15.5,
-        "noite": 13.6
+        "atual": 14.0,
+        "manha": 13.9,
+        "tarde": 16.5,
+        "noite": 13.9
     },
     "forecast": {
-        "max": 16.6,
-        "min": 13.3
+        "max": 15.9,
+        "min": 13.2
     },
     "news": [
+        {
+            "title": "Imigração: Governo cola-se ao Chega e deixa o PS soltinho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/politica/noticia/imigracao-governo-colase-chega-deixa-ps-soltinho-2168538"
+        },
         {
             "title": "Mau tempo: Montenegro pede “solução engenhosa” a Bruxelas para não perder dinheiro do PRR",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/politica/noticia/mau-tempo-montenegro-pede-solucao-engenhosa-bruxelas-nao-perder-dinheiro-prr-2168535"
@@ -25,12 +29,8 @@
         {
             "title": "Sinais (de fumo) na cultura portuense",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/opiniao/opiniao/sinais-fumo-cultura-portuense-2167592"
-        },
-        {
-            "title": "Investigação & inovação são apostas para uma universidade empreendedora",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/opiniao/opiniao/investigacao-inovacao-sao-apostas-universidade-empreendedora-2168365"
         }
     ],
     "finance": [],
-    "last_update": "20/03/2026 01:09"
+    "last_update": "20/03/2026 04:04"
 }
