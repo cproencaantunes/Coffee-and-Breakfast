@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.6,
-        "manha": 14.2,
-        "tarde": 14.6,
-        "noite": 13.9
+        "atual": 13.9,
+        "manha": 13.7,
+        "tarde": 15.5,
+        "noite": 13.6
     },
     "forecast": {
-        "max": 16.5,
-        "min": 12.7
+        "max": 16.6,
+        "min": 13.3
     },
     "news": [
         {
-            "title": "Resgaste financeiro dos Açores “não vai acontecer”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/politica/noticia/resgaste-financeiro-acores-nao-vai-acontecer-2168532"
+            "title": "Mau tempo: Montenegro pede “solução engenhosa” a Bruxelas para não perder dinheiro do PRR",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/politica/noticia/mau-tempo-montenegro-pede-solucao-engenhosa-bruxelas-nao-perder-dinheiro-prr-2168535"
         },
         {
-            "title": "No rescaldo do segundo “caso” Rita Rato: ensinamentos para o futuro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/culturaipsilon/opiniao/rescaldo-segundo-caso-rita-rato-ensinamentos-futuro-2168378"
+            "title": "A Lusa nas mãos de um novo Sócrates",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/opiniao/opiniao/lusa-maos-novo-socrates-2168480"
         },
         {
-            "title": "Diogo Costa e eficácia confirmam FC Porto nos “quartos” da Liga Europa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/desporto/cronica_de_jogo/diogo-costa-eficacia-confirmam-fc-porto-quartos-liga-europa-2168528"
+            "title": "A história da história que é uma lição de História",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/opiniao/opiniao/historia-historia-licao-historia-2168475"
         },
         {
-            "title": "Debate sobre mudança de sexo e nome dominado pelos conceitos de ideologia e liberdade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/politica/noticia/debate-mudanca-sexo-nome-dominado-conceitos-ideologia-liberdade-2168526"
+            "title": "Sinais (de fumo) na cultura portuense",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/opiniao/opiniao/sinais-fumo-cultura-portuense-2167592"
         },
         {
-            "title": "De braço dado com o Chega",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/19/opiniao/editorial/braco-dado-chega-2168517"
+            "title": "Investigação & inovação são apostas para uma universidade empreendedora",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/opiniao/opiniao/investigacao-inovacao-sao-apostas-universidade-empreendedora-2168365"
         }
     ],
     "finance": [],
-    "last_update": "19/03/2026 23:20"
+    "last_update": "20/03/2026 01:09"
 }
