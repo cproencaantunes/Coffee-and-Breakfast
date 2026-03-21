@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.6,
         "manha": 14.3,
-        "tarde": 18.0,
-        "noite": 15.2
+        "tarde": 19.2,
+        "noite": 15.1
     },
     "forecast": {
-        "max": 18.6,
-        "min": 12.7
+        "max": 19.2,
+        "min": 12.5
     },
     "news": [
         {
-            "title": "PJ detém homem em Palmela por abuso sexual dos filhos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/sociedade/noticia/pj-detem-homem-palmela-abuso-sexual-filhos-2168691"
+            "title": "Apoios de Portugal não estão a chegar a luso-venezuelanos, diz Brilhante Dias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/politica/noticia/apoios-portugal-nao-estao-chegar-lusovenezuelanos-brilhante-dias-2168696"
         },
         {
-            "title": "Evento une educação e arte para combater o racismo em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/publico-brasil/noticia/evento-une-educacao-arte-combater-racismo-portugal-2168692"
+            "title": "Chega quer indicar para o Constitucional o juiz desembargador Luís Brites Lameira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/politica/noticia/chega-quer-indicar-constitucional-juiz-desembargador-luis-brites-lameira-2168698"
         },
         {
-            "title": "“Os minerais da água são absolutamente fundamentais”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/impar/noticia/minerais-agua-sao-absolutamente-fundamentais-2168179"
+            "title": "Noruega: em Stavanger, a apanhar vieiras nos fiordes e a desafiar Tom Cruise",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/fugas/reportagem/stavanger-apanhar-vieiras-fiordes-desafiar-tom-cruise-2167995"
         },
         {
-            "title": "Em Tróia, esta casa de férias é um refúgio de tons terra que abraça as dunas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/fotogaleria/livre-415210"
+            "title": "Igreja começou a contactar vítimas de abuso sexual que não vão receber compensação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/sociedade/noticia/igreja-comecou-contactar-vitimas-abuso-sexual-nao-vao-receber-compensacao-2168694"
         },
         {
-            "title": "O risco do apagão da rede pública e carregar eléctricos à chuva",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/enter/podcast/risco-apagao-rede-publica-carregar-electricos-chuva-2168476"
+            "title": "José Mourinho vai voltar ao banco já no Benfica-Vitória SC",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/desporto/noticia/jose-mourinho-vai-voltar-banco-ja-benficavitoria-sc-2168693"
         }
     ],
     "finance": [],
-    "last_update": "21/03/2026 11:15"
+    "last_update": "21/03/2026 12:26"
 }
