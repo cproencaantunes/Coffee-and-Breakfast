@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 13.6,
-        "manha": 14.4,
-        "tarde": 17.8,
-        "noite": 15.1
+        "manha": 14.3,
+        "tarde": 18.0,
+        "noite": 15.2
     },
     "forecast": {
-        "max": 19.0,
-        "min": 12.8
+        "max": 18.6,
+        "min": 12.7
     },
     "news": [
         {
-            "title": "O que ficou do Pinhal de Leiria? Nada, ou antes, toneladas de lenha, mais vento e calor",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/local/reportagem/ficou-pinhal-leiria-nada-toneladas-lenha-vento-calor-2168656"
+            "title": "Letra Pequena: Itamar Vieira Junior e os pássaros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/impar/noticia/letra-itamar-vieira-junior-passaros-2168681"
         },
         {
-            "title": "<em>Onde está o Wally?</em> A versão Provedora do Animal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/p3/cronica/onde-wally-versao-provedora-animal-2168061"
+            "title": "Gonçalo Castelo-Branco: o anúncio do Nobel “sempre foi uma excitação, um nervoso miudinho”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/ciencia/entrevista/goncalo-castelobranco-anuncio-nobel-excitacao-nervoso-miudinho-2168530"
         },
         {
-            "title": "Governo vai pagar entre 300 e 360 euros por hectare queimado por fogo controlado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/azul/noticia/governo-vai-pagar-300-360-euros-hectare-queimado-fogo-controlado-2168673"
+            "title": "Na segunda volta das autárquicas em França, as coligações “são cada vez mais inevitáveis”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/mundo/noticia/segunda-volta-autarquicas-franca-coligacoes-sao-inevitaveis-2168627"
         },
         {
-            "title": "Portugal é rico em água: vamos explorar as nossas águas minerais naturais?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/fugas/noticia/portugal-rico-agua-vamos-explorar-aguas-minerais-naturais-2168055"
+            "title": "O segredo dos <em>chefs</em> também está na água",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/fugas/noticia/segredo-chefs-tambem-agua-2168103"
         },
         {
-            "title": "Milhares voltam a sair à rua neste sábado em defesa do direito à habitação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/sociedade/noticia/milhares-voltam-sair-rua-neste-sabado-defesa-direito-habitacao-2168686"
+            "title": "Último sprint antes da pausa das selecções",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/newsletter/aquecimento"
         }
     ],
     "finance": [],
-    "last_update": "21/03/2026 09:22"
+    "last_update": "21/03/2026 10:16"
 }
