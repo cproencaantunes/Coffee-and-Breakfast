@@ -3,13 +3,21 @@
         "atual": 13.6,
         "manha": 14.3,
         "tarde": 18.9,
-        "noite": 14.9
+        "noite": 15.2
     },
     "forecast": {
-        "max": 19.1,
+        "max": 18.8,
         "min": 13.0
     },
     "news": [
+        {
+            "title": "Ciclismo: Pogacar cai, levanta-se e conquista a clássica Milão-Sanremo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/desporto/noticia/ciclismo-pogacar-cai-levantase-conquista-classica-milaosanremo-2168726"
+        },
+        {
+            "title": "Morreu Robert Mueller, ex-director do FBI que investigou interferência russa nas eleições de 2016",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/mundo/noticia/morreu-robert-mueller-exdirector-fbi-investigou-interferencia-russa-eleicoes-2016-2168721"
+        },
         {
             "title": "Casa, poesia e o património dos pobres",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/impar/opiniao/casa-poesia-patrimonio-pobres-2168231"
@@ -21,16 +29,8 @@
         {
             "title": "Gâmbia, o país-rio: salinização, Kunta Kinteh e água potável",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/mundo/noticia/gambia-paisrio-salinizacao-kunta-kinteh-agua-potavel-2167568"
-        },
-        {
-            "title": "OpenAI funde ChatGPT, Codex e Atlas numa superaplicação de produtividade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/enter/noticia/openai-funde-chatgpt-codex-atlas-superaplicacao-produtividade-2168558"
-        },
-        {
-            "title": "Concorrente de <em>reality show</em> condenado a 12 anos e meio por homicídio tentado do filho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/impar/noticia/concorrente-reality-show-condenado-12-anos-meio-homicidio-tentado-filho-2168716"
         }
     ],
     "finance": [],
-    "last_update": "21/03/2026 17:17"
+    "last_update": "21/03/2026 18:21"
 }
