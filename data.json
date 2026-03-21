@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.0,
-        "manha": 13.9,
-        "tarde": 15.9,
-        "noite": 13.7
+        "atual": 13.6,
+        "manha": 14.3,
+        "tarde": 18.8,
+        "noite": 15.1
     },
     "forecast": {
-        "max": 17.4,
-        "min": 13.3
+        "max": 18.8,
+        "min": 12.5
     },
     "news": [
         {
-            "title": "EUA enviam fuzileiros e navio de assalto anfíbio para o Médio Oriente, afirmam fontes oficiais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/mundo/noticia/eua-enviam-fuzileiros-navio-assalto-anfibio-medio-oriente-afirmam-fontes-oficiais-2168679"
+            "title": "Os amigos e os outros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/opiniao/opiniao/amigos-2168668"
         },
         {
-            "title": "Moedas e Leitão em “batalha” sobre legalidade do secretário-geral da Câmara de Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/politica/noticia/moedas-leitao-batalha-legalidade-secretariogeral-camara-lisboa-2168674"
+            "title": "As bibliotecas pessoais como retrato",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/opiniao/opiniao/bibliotecas-pessoais-retrato-2168676"
         },
         {
-            "title": "Gerês recebeu a Primavera com três árvores no arranque do restauro ecológico da WWF",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/azul/reportagem/geres-recebeu-primavera-tres-arvores-arranque-restauro-ecologico-wwf-2168670"
+            "title": "O amor e a política",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/opiniao/opiniao/amor-politica-2168661"
         },
         {
-            "title": "Peter Frankopan, Jung Chang, Sigurðardóttir e Erling Kagge no Literatura em Viagem",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/culturaipsilon/noticia/peter-frankopan-jung-chang-sigurðardottir-erling-kagge-literatura-viagem-2168630"
+            "title": "O segredo é para valer",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/opiniao/opiniao/segredo-valer-2168622"
         },
         {
-            "title": "A guerra no estreito de Ormuz e o regresso da geopolítica da energia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/20/mundo/analise/guerra-estreito-ormuz-regresso-geopolitica-energia-2168569"
+            "title": "Dez mortos e 59 feridos em incêndio numa fábrica automóvel da Coreia do Sul",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/mundo/noticia/dez-mortos-59-feridos-incendio-fabrica-automovel-coreia-sul-2168682"
         }
     ],
     "finance": [],
-    "last_update": "20/03/2026 23:19"
+    "last_update": "21/03/2026 01:05"
 }
