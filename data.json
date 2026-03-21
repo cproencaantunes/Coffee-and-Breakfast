@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.6,
         "manha": 14.4,
-        "tarde": 18.2,
-        "noite": 15.0
+        "tarde": 17.8,
+        "noite": 15.1
     },
     "forecast": {
         "max": 19.0,
-        "min": 12.6
+        "min": 12.8
     },
     "news": [
         {
-            "title": "Os amigos e os outros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/opiniao/opiniao/amigos-2168668"
+            "title": "Governo vê chantagem do PS sobre TC e mantém intenção de dialogar com todos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/politica/noticia/governo-ve-chantagem-ps-tc-mantem-intencao-dialogar-2168669"
         },
         {
-            "title": "As bibliotecas pessoais como retrato",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/opiniao/opiniao/bibliotecas-pessoais-retrato-2168676"
+            "title": "Calisto e Margarida, a mesma luta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/opiniao/opiniao/calisto-margarida-luta-2168489"
         },
         {
-            "title": "O amor e a política",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/opiniao/opiniao/amor-politica-2168661"
+            "title": "“O Estado está constantemente a pôr fogo nos preços da habitação”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/economia/entrevista/estado-constantemente-fogo-precos-habitacao-2168616"
         },
         {
-            "title": "O segredo é para valer",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/opiniao/opiniao/segredo-valer-2168622"
+            "title": "Ventura, Lisboa e os Matias contra Mascarenhas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/opiniao/editorial/ventura-lisboa-matias-mascarenhas-2168597"
         },
         {
-            "title": "Dez mortos e 59 feridos em incêndio numa fábrica automóvel da Coreia do Sul",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/mundo/noticia/dez-mortos-59-feridos-incendio-fabrica-automovel-coreia-sul-2168682"
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/opiniao/opiniao/cartas-director-2168614"
         }
     ],
     "finance": [],
-    "last_update": "21/03/2026 05:01"
+    "last_update": "21/03/2026 06:30"
 }
