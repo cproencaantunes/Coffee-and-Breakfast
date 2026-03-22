@@ -3,13 +3,17 @@
         "atual": 14.0,
         "manha": 14.2,
         "tarde": 19.6,
-        "noite": 14.8
+        "noite": 15.3
     },
     "forecast": {
-        "max": 21.3,
-        "min": 10.6
+        "max": 21.7,
+        "min": 11.1
     },
     "news": [
+        {
+            "title": "Greve de amanhã da função pública: Fesinap à espera de “forte” adesão em escolas e serviços de saúde",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/sociedade/noticia/greve-amanha-funcao-publica-fesinap-espera-forte-adesao-escolas-servicos-saude-2168788"
+        },
         {
             "title": "Guerra do Irão ameaça paz podre entre Vance e Rubio na corrida à sucessão a Trump",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/mundo/noticia/guerra-irao-ameaca-paz-podre-vance-rubio-corrida-sucessao-trump-2168769"
@@ -25,12 +29,8 @@
         {
             "title": "Autárquicas francesas: socialistas seguram Paris; extrema-direita falha eleição em Marselha",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/mundo/noticia/autarquicas-francesas-socialistas-seguram-paris-extremadireita-falha-eleicao-marselha-2168784"
-        },
-        {
-            "title": "Sporting consegue triunfo tranquilo em Alverca na Liga",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/desporto/noticia/sporting-consegue-triunfo-tranquilo-alverca-liga-2168774"
         }
     ],
     "finance": [],
-    "last_update": "22/03/2026 21:16"
+    "last_update": "22/03/2026 22:15"
 }
