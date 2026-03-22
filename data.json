@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.0,
-        "manha": 14.4,
-        "tarde": 19.0,
-        "noite": 15.5
+        "manha": 14.2,
+        "tarde": 18.2,
+        "noite": 15.3
     },
     "forecast": {
         "max": 21.6,
-        "min": 11.8
+        "min": 11.4
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/opiniao/opiniao/cartas-director-2168641"
+            "title": "Para Trump, Cuba “libre” é Cuba “minha”, onde “posso fazer o que quiser com eles”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/mundo/noticia/trump-cuba-libre-cuba-onde-quiser-2168638"
         },
         {
-            "title": "A guerra que nunca seria curta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/opiniao/opiniao/guerra-curta-2168504"
+            "title": "A IA aponta alvos, os humanos decidem em segundos e a guerra acontece",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/mundo/noticia/ia-aponta-alvos-humanos-decidem-segundos-guerra-acontece-2167674"
         },
         {
-            "title": "Preparar a Páscoa do nosso mundo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/opiniao/opiniao/preparar-pascoa-mundo-2168602"
+            "title": "O Irão de 90 milhões de pessoas que não cabe no nosso olhar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/mundo/analise/irao-90-milhoes-pessoas-nao-cabe-olhar-2168453"
         },
         {
-            "title": "Quinze minutos, ida e volta: sete euros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/opiniao/opiniao/15-minutos-ida-volta-7-euros-2168557"
+            "title": "Benfica SAD enfrenta acusação de corrupção e fraude fiscal no caso dos <em>emails</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/desporto/noticia/benfica-sad-enfrenta-acusacao-corrupcao-fraude-fiscal-caso-emails-2168708"
         },
         {
-            "title": "Que valor tem a vida animal sem proteção legal?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/opiniao/opiniao/valor-vida-animal-protecao-legal-2168643"
+            "title": "“Esta não é a nossa guerra”? Não é bem assim",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/mundo/analise/nao-guerra-nao-bem-assim-2168705"
         }
     ],
     "finance": [],
-    "last_update": "22/03/2026 05:45"
+    "last_update": "22/03/2026 06:37"
 }
