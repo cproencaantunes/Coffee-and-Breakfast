@@ -2,14 +2,18 @@
     "weather": {
         "atual": 14.0,
         "manha": 14.2,
-        "tarde": 18.2,
-        "noite": 15.3
+        "tarde": 18.0,
+        "noite": 15.2
     },
     "forecast": {
-        "max": 21.6,
+        "max": 21.1,
         "min": 11.4
     },
     "news": [
+        {
+            "title": "A Água que Une: onde está a estratégia?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/azul/opiniao/agua-une-onde-estrategia-2168578"
+        },
         {
             "title": "Irão responde a ameaça de Trump: estreito está aberto a todos menos a barcos de “inimigos”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/mundo/noticia/irao-responde-ameaca-trump-estreito-aberto-menos-barcos-inimigos-2168740"
@@ -25,12 +29,8 @@
         {
             "title": "Dieter Ebert caça pulgas-d’água há 30 anos para desvendar a evolução dos parasitas",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/ciencia/noticia/dieter-ebert-caca-pulgasdagua-ha-30-anos-desvendar-evolucao-parasitas-2166331"
-        },
-        {
-            "title": "Filho de ex-jogador, carioca comanda seleção de futsal de Cabo Verde",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/publico-brasil/noticia/filho-exjogador-carioca-comanda-selecao-futsal-cabo-verde-2168719"
         }
     ],
     "finance": [],
-    "last_update": "22/03/2026 09:22"
+    "last_update": "22/03/2026 10:17"
 }
