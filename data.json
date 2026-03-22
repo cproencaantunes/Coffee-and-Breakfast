@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.0,
         "manha": 14.2,
-        "tarde": 18.0,
-        "noite": 15.2
+        "tarde": 18.1,
+        "noite": 15.0
     },
     "forecast": {
         "max": 21.1,
-        "min": 11.4
+        "min": 11.1
     },
     "news": [
         {
+            "title": "Trump ameaça “obliterar” centrais energéticas iranianas se Estreito de Ormuz não for reaberto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/mundo/noticia/trump-ameaca-obliterar-centrais-energeticas-iranianas-estreito-ormuz-nao-reaberto-2168749"
+        },
+        {
+            "title": "Sete mortos após queda de um helicóptero no Qatar devido a “falha técnica”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/mundo/noticia/sete-mortos-apos-queda-helicoptero-qatar-devido-falha-tecnica-2168743"
+        },
+        {
+            "title": "Final de 2027: obras de acesso ao novo hospital de Évora “sem margem para falhas”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/sociedade/noticia/final-2027-obras-acesso-novo-hospital-evora-margem-falhas-2168747"
+        },
+        {
+            "title": "Termas: a água que cura está cada vez mais ao serviço do bem-estar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/impar/noticia/termas-agua-cura-servico-bemestar-2168160"
+        },
+        {
             "title": "JBL PartyLight Stick: quando a luz acompanha o ritmo da festa",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/enter/noticia/jbl-partylight-stick-luz-acompanha-ritmo-festa-2168739"
-        },
-        {
-            "title": "Atletismo: Agate de Sousa é campeã do mundo de salto em comprimento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/desporto/noticia/atletismo-agate-sousa-campea-mundo-salto-comprimento-2168745"
-        },
-        {
-            "title": "Crowne Plaza Porto ou as várias vidas de um hotel (de luxo)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/fugas/noticia/crowne-plaza-porto-varias-vidas-hotel-luxo-2168590"
-        },
-        {
-            "title": "Atletismo: Portugal chega à final dos Mundiais com recorde nos 4x400m",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/desporto/noticia/atletismo-portugal-chega-final-mundiais-recorde-4x400m-2168742"
-        },
-        {
-            "title": "A Água que Une: onde está a estratégia?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/azul/opiniao/agua-une-onde-estrategia-2168578"
         }
     ],
     "finance": [],
-    "last_update": "22/03/2026 11:15"
+    "last_update": "22/03/2026 12:27"
 }
