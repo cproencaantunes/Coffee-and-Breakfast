@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 13.6,
+        "atual": 13.7,
         "manha": 14.3,
-        "tarde": 18.9,
-        "noite": 15.0
+        "tarde": 18.7,
+        "noite": 15.2
     },
     "forecast": {
-        "max": 18.8,
-        "min": 12.7
+        "max": 21.6,
+        "min": 11.6
     },
     "news": [
         {
-            "title": "Mundiais de atletismo: Tatjana Pinto afastada nas meias-finais dos 60 metros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/desporto/noticia/mundiais-atletismo-tatjana-pinto-afastada-meiasfinais-60-metros-2168734"
+            "title": "A guerra que nunca seria curta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/opiniao/opiniao/guerra-curta-2168504"
         },
         {
-            "title": "Danny Welbeck volta a atacar e a reinventar-se aos 35 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/desporto/noticia/danny-welbeck-volta-atacar-reinventarse-35-anos-2168733"
+            "title": "Preparar a Páscoa do nosso mundo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/opiniao/opiniao/preparar-pascoa-mundo-2168602"
         },
         {
-            "title": "Rem Koolhaas já tem o edifício que merece em Nova Iorque: New Museum reabre este fim-de-semana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/culturaipsilon/noticia/rem-koolhaas-ja-edificio-merece-nova-iorque-new-museum-reabre-fimdesemana-2168717"
+            "title": "Quinze minutos, ida e volta: sete euros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/opiniao/opiniao/15-minutos-ida-volta-7-euros-2168557"
         },
         {
-            "title": "O apagão de Ormuz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/opiniao/editorial/apagao-ormuz-2168731"
+            "title": "Que valor tem a vida animal sem proteção legal?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/opiniao/opiniao/valor-vida-animal-protecao-legal-2168643"
         },
         {
-            "title": "“O meu lugar é na rua.” Pelo direito à habitação, manifestantes resistem ao desânimo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/21/economia/reportagem/lugar-rua-direito-habitacao-manifestantes-resistem-desanimo-2168732"
+            "title": "Quando a escola deixa de ensinar a viver em democracia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/opiniao/opiniao/escola-deixa-ensinar-viver-democracia-2167947"
         }
     ],
     "finance": [],
-    "last_update": "21/03/2026 23:15"
+    "last_update": "22/03/2026 01:13"
 }
