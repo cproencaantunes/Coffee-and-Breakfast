@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.2,
         "manha": 13.9,
-        "tarde": 21.9,
-        "noite": 16.8
+        "tarde": 21.7,
+        "noite": 17.1
     },
     "forecast": {
-        "max": 21.3,
-        "min": 14.1
+        "max": 21.2,
+        "min": 14.3
     },
     "news": [
         {
-            "title": "Dois mortos após colisão entre avião e veículo dos bombeiros em Nova Iorque",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/video/dois-mortos-apos-colisao-entre-aviao-veiculo-bombeiros-nova-iorque-20260323-132757"
+            "title": "Portugal entre o dever euro-atlântico e a oportunidade económica",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/p3/cronica/portugal-euroatlantico-oportunidade-economica-2168838"
         },
         {
-            "title": "Dinamarca testa nas urnas o apelo das crises internacionais e o desafio de Trump à Gronelândia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/mundo/noticia/dinamarca-testa-urnas-apelo-crises-internacionais-desafio-trump-gronelandia-2168642"
+            "title": "Lesão de Diogo Costa pode levar à sua dispensa da selecção",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/desporto/noticia/lesao-diogo-costa-levar-dispensa-seleccao-2168837"
         },
         {
-            "title": "Avarias, falta de revisores e de PDA: em dois meses, a CP suprimiu 97 comboios na Linha do Vouga",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/local/noticia/avarias-falta-revisores-pda-dois-meses-cp-suprimiu-97-comboios-linha-vouga-2168570"
+            "title": "A “onda de direita” varre França, mesmo com a esquerda a conseguir as três maiores cidades",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/mundo/noticia/onda-direita-varre-franca-esquerda-conseguir-tres-maiores-cidades-2168828"
         },
         {
-            "title": "Livro de reclamações <em>online</em> supera as 260 mil queixas, o número mais alto de sempre",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/economia/noticia/livro-reclamacoes-online-supera-260-mil-queixas-numero-alto-2168815"
+            "title": "Queixa do FC Porto contra Luis Suárez parcialmente arquivada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/desporto/noticia/queixa-fc-porto-luis-suarez-parcialmente-arquivada-2168833"
         },
         {
-            "title": "Sarah Ferguson pressionada a testemunhar nos EUA. Ex-príncipe André volta a aparecer",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/impar/noticia/sarah-ferguson-pressionada-testemunhar-eua-exprincipe-andre-volta-aparecer-2168812"
+            "title": "Morreu o fundador do Only Fans. Leonid Radvinsky tinha 43 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/impar/noticia/morreu-fundador-only-fans-leonid-radvinsky-43-anos-2168832"
         }
     ],
     "finance": [],
-    "last_update": "23/03/2026 14:07"
+    "last_update": "23/03/2026 15:51"
 }
