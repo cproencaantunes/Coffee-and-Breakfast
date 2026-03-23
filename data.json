@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.2,
         "manha": 13.9,
-        "tarde": 21.7,
-        "noite": 17.1
+        "tarde": 21.8,
+        "noite": 17.0
     },
     "forecast": {
-        "max": 21.2,
-        "min": 14.3
+        "max": 20.7,
+        "min": 14.2
     },
     "news": [
         {
-            "title": "Avião militar colombiano despenha-se e arde com mais de 100 soldados a bordo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/mundo/noticia/aviao-militar-colombiano-despenhase-arde-100-soldados-bordo-2168855"
+            "title": "Prisão preventiva para suspeito de roubo e rapto de homem desaparecido no Algarve",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/sociedade/noticia/prisao-preventiva-suspeito-roubo-rapto-homem-desaparecido-algarve-2168866"
         },
         {
-            "title": "Barreira obsoleta no rio Côa vai mesmo ser retirada total ou parcialmente, diz APA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/azul/noticia/barreira-obsoleta-rio-coa-vai-retirada-total-parcialmente-apa-2168825"
+            "title": "Lara Dâmaso, Nídia, DJ Firmeza e Helviofox na Bienal de Música de Veneza",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/culturaipsilon/noticia/lara-damaso-nidia-dj-firmeza-helviofox-bienal-musica-veneza-2168865"
         },
         {
-            "title": "Com o Lamina, Vasco Coelho Santos aposta em Lisboa (e traz a famosa rabanada)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/fugas/reportagem/lamina-vasco-coelho-santos-aposta-lisboa-traz-famosa-rabanada-2168761"
+            "title": "Geota pede soluções naturais no programa de recuperação pós-tempestades",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/azul/noticia/geota-pede-solucoes-naturais-programa-recuperacao-postempestades-2168846"
         },
         {
-            "title": "O adeus de Zuckerberg ao metaverso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/newsletter/quatrozero"
+            "title": "Que mitos esconde a psicologia?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/ciencia/noticia/mitos-esconde-psicologia-2168863"
         },
         {
-            "title": "Brasil registra 48 turistas portugueses por hora em 2026, recorde histórico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/publico-brasil/noticia/brasil-registra-48-turistas-portugueses-hora-2026-recorde-historico-2168842"
+            "title": "Os “miúdos invisíveis” quando têm explicações dão nas vistas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/sociedade/reportagem/miudos-invisiveis-explicacoes-dao-vistas-2168637"
         }
     ],
     "finance": [],
-    "last_update": "23/03/2026 17:42"
+    "last_update": "23/03/2026 18:39"
 }
