@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.0,
-        "manha": 14.2,
-        "tarde": 19.6,
-        "noite": 15.3
+        "atual": 13.1,
+        "manha": 13.7,
+        "tarde": 21.2,
+        "noite": 16.2
     },
     "forecast": {
-        "max": 21.7,
-        "min": 11.1
+        "max": 21.2,
+        "min": 13.5
     },
     "news": [
         {
-            "title": "Bezzecchi vence GP Brasil e assume liderança do Mundial de MotoGP",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/desporto/noticia/bezzecchi-vence-gp-brasil-assume-lideranca-mundial-motogp-2168787"
+            "title": "Entre o espetáculo e o poder",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/opiniao/opiniao/espetaculo-2168463"
         },
         {
-            "title": "O Sp. Braga “pediu” problemas e o FC Porto ofereceu-os",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/desporto/cronica_de_jogo/sp-braga-pediu-problemas-fc-porto-ofereceuos-2168785"
+            "title": "A normalização da mentira e a anestesia dos cidadãos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/opiniao/opiniao/normalizacao-mentira-anestesia-cidadaos-2168723"
         },
         {
-            "title": "Greve de amanhã da função pública: Fesinap à espera de “forte” adesão em escolas e serviços de saúde",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/sociedade/noticia/greve-amanha-funcao-publica-fesinap-espera-forte-adesao-escolas-servicos-saude-2168788"
+            "title": "Um trunfo chamado estreito de Ormuz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/opiniao/opiniao/trunfo-chamado-estreito-ormuz-2168321"
         },
         {
-            "title": "Guerra do Irão ameaça paz podre entre Vance e Rubio na corrida à sucessão a Trump",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/mundo/noticia/guerra-irao-ameaca-paz-podre-vance-rubio-corrida-sucessao-trump-2168769"
+            "title": "Um comboio de tempestades sem fim à vista",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/opiniao/opiniao/comboio-tempestades-fim-vista-2168331"
         },
         {
-            "title": "Mau tempo: Inundação e danos em casa fazem um desalojado na Madeira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/22/sociedade/noticia/mau-tempo-inundacao-danos-casa-fazem-desalojado-madeira-2168786"
+            "title": "Índice das matérias em falta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/23/opiniao/opiniao/indice-materias-falta-2168452"
         }
     ],
     "finance": [],
-    "last_update": "22/03/2026 23:17"
+    "last_update": "23/03/2026 01:15"
 }
