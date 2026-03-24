@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 15.2,
-        "manha": 15.7,
-        "tarde": 20.9,
-        "noite": 16.4
+        "manha": 15.5,
+        "tarde": 21.2,
+        "noite": 16.5
     },
     "forecast": {
         "max": 22.4,
-        "min": 12.8
+        "min": 12.7
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/24/opiniao/opiniao/cartas-director-2168852"
+            "title": "Livre: no partido da democracia aberta cresce contestação às decisões fechadas da “elite”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/24/politica/noticia/livre-partido-democracia-aberta-cresce-contestacao-decisoes-fechadas-elite-2168631"
         },
         {
-            "title": "A ilusão patriótica de Jessica Foster, a influenciadora MAGA criada por IA que enganou milhares",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/24/enter/noticia/ilusao-patriotica-jessica-foster-influenciadora-maga-criada-ia-enganou-milhares-2168851"
+            "title": "“Se este país fosse governado pelo Chega, já não estava aqui”: lei de identidade de género opõe mãe a filho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/24/sociedade/noticia/pais-governado-chega-ja-nao-aqui-lei-identidade-genero-opoe-mae-filho-2168847"
         },
         {
-            "title": "Difamação nos <em>media</em> e liberdade de expressão – modo de usar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/24/opiniao/opiniao/difamacao-media-liberdade-expressao-modo-usar-2168718"
+            "title": "A partidarização do Constitucional",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/24/opiniao/editorial/partidarizacao-constitucional-2168893"
         },
         {
-            "title": "Diplomata ucraniano pede ataques a fábricas russas de <em>drones</em> que diz serem enviados para o Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/24/mundo/noticia/diplomata-ucraniano-pede-ataques-fabricas-russas-drones-serem-enviados-irao-2168898"
+            "title": "Permitir o dissenso é sempre decidir melhor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/24/opiniao/opiniao/permitir-dissenso-decidir-melhor-2168768"
         },
         {
-            "title": "Infraestruturas diante de eventos extremos: estamos preparados?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/24/opiniao/opiniao/infraestruturas-diante-eventos-extremos-preparados-2168722"
+            "title": "Há uma corrida pelo partido mais <em> anti-woke</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/24/opiniao/opiniao/ha-corrida-partido-mais-antiwoke-2168871"
         }
     ],
     "finance": [],
-    "last_update": "24/03/2026 05:53"
+    "last_update": "24/03/2026 06:51"
 }
