@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 15.0,
-        "manha": 15.4,
-        "tarde": 21.0,
-        "noite": 16.1
+        "atual": 15.2,
+        "manha": 15.7,
+        "tarde": 20.9,
+        "noite": 16.4
     },
     "forecast": {
         "max": 22.4,
-        "min": 12.6
+        "min": 12.8
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/24/opiniao/opiniao/cartas-director-2168852"
+        },
         {
             "title": "A ilusão patriótica de Jessica Foster, a influenciadora MAGA criada por IA que enganou milhares",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/24/enter/noticia/ilusao-patriotica-jessica-foster-influenciadora-maga-criada-ia-enganou-milhares-2168851"
@@ -25,12 +29,8 @@
         {
             "title": "Infraestruturas diante de eventos extremos: estamos preparados?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/24/opiniao/opiniao/infraestruturas-diante-eventos-extremos-preparados-2168722"
-        },
-        {
-            "title": "Que saudades da Internet",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/24/opiniao/opiniao/saudades-internet-2168835"
         }
     ],
     "finance": [],
-    "last_update": "24/03/2026 04:08"
+    "last_update": "24/03/2026 05:53"
 }
