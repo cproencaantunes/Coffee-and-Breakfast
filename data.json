@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 15.2,
-        "manha": 15.5,
-        "tarde": 21.7,
-        "noite": 16.5
+        "atual": 15.5,
+        "manha": 15.4,
+        "tarde": 22.3,
+        "noite": 16.4
     },
     "forecast": {
-        "max": 22.4,
-        "min": 12.8
+        "max": 21.7,
+        "min": 14.1
     },
     "news": [
         {
-            "title": "Católicos podem receber transplantes de órgãos de animais, diz o Vaticano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/24/ciencia/noticia/catolicos-podem-receber-transplantes-orgaos-animais-vaticano-2169017"
+            "title": "Tirem os juízes deste filme",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/opiniao/opiniao/tirem-juizes-filme-2168770"
         },
         {
-            "title": "Ex-directora do Louvre lamenta que assalto tenha acontecido mesmo quando reforço da segurança “estava a arrancar”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/24/culturaipsilon/noticia/exdirectora-louvre-lamenta-assalto-acontecido-reforco-seguranca-arrancar-2169016"
+            "title": "Não se devem fixar preços nas crises",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/opiniao/opiniao/nao-fixar-precos-crises-2168975"
         },
         {
-            "title": "Malawi, o país-lago: da terra sai pouco e na água começa a escassear",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/24/mundo/noticia/malawi-paislago-terra-sai-agua-comeca-escassear-2169019"
+            "title": "Justiça cega, mas não estúpida",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/politica/opiniao/justica-cega-nao-estupida-2168982"
         },
         {
-            "title": "Partidos de esquerda criticam governação de Moedas sobre política cultural em Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/24/culturaipsilon/noticia/partidos-esquerda-criticam-governacao-moedas-politica-cultural-lisboa-2169020"
+            "title": "Isaltino Morais e mais 22 arguidos acusados de uso indevido de 150 mil euros em refeições",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/sociedade/noticia/isaltino-morais-22-arguidos-acusados-uso-indevido-150-mil-euros-refeicoes-2169024"
         },
         {
-            "title": "O caminho estreito de Carneiro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/24/opiniao/editorial/caminho-estreito-carneiro-2168992"
+            "title": "A Europa e o jogo do Twister industrial: o que significa “<em>Made in Europe</em>”?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/opiniao/opiniao/europa-jogo-twister-industrial-significa-made-in-europe-2168359"
         }
     ],
     "finance": [],
-    "last_update": "24/03/2026 23:22"
+    "last_update": "25/03/2026 01:13"
 }
