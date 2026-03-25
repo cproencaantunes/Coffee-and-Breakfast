@@ -1,9 +1,9 @@
 {
     "weather": {
         "atual": 15.5,
-        "manha": 15.1,
-        "tarde": 22.5,
-        "noite": 16.0
+        "manha": 15.3,
+        "tarde": 22.4,
+        "noite": 15.7
     },
     "forecast": {
         "max": 21.2,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Alemanha apresenta plano para reduzir combustíveis fósseis e atingir <em>net zero</em> em 2045",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/azul/noticia/alemanha-apresenta-plano-reduzir-combustiveis-fosseis-atingir-net-zero-2045-2169046"
+            "title": "“Uma resposta que não se limite a reparar danos”: embaixadores do clima apelam ao Governo que integre o risco climático no PTRR",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/azul/noticia/resposta-nao-limite-reparar-danos-pacto-climatico-apela-governo-integre-risco-climatico-ptrr-2169043"
         },
         {
-            "title": "Startup brasileira de telemedicina planeja expansão em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/publico-brasil/noticia/startup-brasileira-telemedicina-planeja-expansao-portugal-2169037"
+            "title": "Cinco destaques da nostalgia do regresso de Miley Cyrus a <em>Hannah Montana</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/impar/noticia/cinco-destaques-nostalgia-regresso-miley-cyrus-hannah-montana-2169063"
         },
         {
-            "title": "Eleições dos órgãos externos ao Parlamento têm nova data: 16 de Abril",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/politica/noticia/eleicoes-orgaos-externos-parlamento-nova-data-16-abril-2169053"
+            "title": "Seguro faz 18 nomeações para a Casa Civil e mantém vários nomes em Belém",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/politica/noticia/seguro-faz-18-nomeacoes-casa-civil-mantem-varios-nomes-belem-2169048"
         },
         {
-            "title": "Do borrego ao cabrito e ao folar: mesa posta com os ares da Páscoa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/fugas/noticia/borrego-cabrito-folar-mesa-posta-ares-pascoa-2168946"
+            "title": "Praticamente nenhum hospital estava preparado em 2025 para apagão de três dias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/sociedade/noticia/praticamente-hospital-preparado-2025-apagao-tres-dias-2169070"
         },
         {
-            "title": "Marcel Pagnol, um herói do cinema francês",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/culturaipsilon/critica/marcel-pagnol-heroi-cinema-frances-2168957"
+            "title": "ICE nos aeroportos e os limites das soluções populistas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/newsletter/aquinaamerica"
         }
     ],
     "finance": [],
-    "last_update": "25/03/2026 12:41"
+    "last_update": "25/03/2026 14:10"
 }
