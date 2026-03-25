@@ -2,14 +2,18 @@
     "weather": {
         "atual": 15.5,
         "manha": 15.4,
-        "tarde": 22.3,
-        "noite": 16.4
+        "tarde": 22.5,
+        "noite": 16.6
     },
     "forecast": {
-        "max": 21.7,
-        "min": 14.1
+        "max": 21.3,
+        "min": 14.2
     },
     "news": [
+        {
+            "title": "Visita de José Luís Carneiro à Venezuela foi um tiro no pé?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/economia/noticia/visita-jose-luis-carneiro-venezuela-tiro-pe-2169028"
+        },
         {
             "title": "Tirem os juízes deste filme",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/opiniao/opiniao/tirem-juizes-filme-2168770"
@@ -25,12 +29,8 @@
         {
             "title": "Isaltino Morais e mais 22 arguidos acusados de uso indevido de 150 mil euros em refeições",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/sociedade/noticia/isaltino-morais-22-arguidos-acusados-uso-indevido-150-mil-euros-refeicoes-2169024"
-        },
-        {
-            "title": "A Europa e o jogo do Twister industrial: o que significa “<em>Made in Europe</em>”?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/opiniao/opiniao/europa-jogo-twister-industrial-significa-made-in-europe-2168359"
         }
     ],
     "finance": [],
-    "last_update": "25/03/2026 01:13"
+    "last_update": "25/03/2026 04:09"
 }
