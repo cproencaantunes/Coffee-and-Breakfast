@@ -3,34 +3,34 @@
         "atual": 15.5,
         "manha": 15.3,
         "tarde": 22.6,
-        "noite": 15.2
+        "noite": 15.1
     },
     "forecast": {
-        "max": 21.1,
-        "min": 13.5
+        "max": 21.4,
+        "min": 13.2
     },
     "news": [
+        {
+            "title": "Governo propõe “concurso contínuo” para substituir modalidades de contratação de professores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/sociedade/noticia/governo-propoe-concurso-continuo-substituir-modalidades-contratacao-professores-2169149"
+        },
+        {
+            "title": "Inspector da PJ admite que Odair Moniz pode não ter utilizado faca encontrada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/sociedade/noticia/inspector-pj-admite-odair-moniz-nao-utilizado-faca-encontrada-2169136"
+        },
+        {
+            "title": "Portugueses passam mais tempo a receber subsídio de desemprego que os imigrantes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/economia/noticia/portugueses-passam-tempo-receber-subsidio-desemprego-imigrantes-2169129"
+        },
         {
             "title": "Sérgio Fernandez (1937-2026), um arquitecto modernista e discreto",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/culturaipsilon/noticia/sergio-fernandez-19372026-arquitecto-modernista-discreto-2165722"
         },
         {
-            "title": "Genética revela a história dos primeiros cães domesticados na Europa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/ciencia/noticia/genetica-revela-historia-caes-domesticados-europa-2169099"
-        },
-        {
             "title": "<em>As Criadas</em> de Genet pela perspectiva de Paula Rego",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/culturaipsilon/noticia/criadas-genet-perspectiva-paula-rego-2169128"
-        },
-        {
-            "title": "Camões está morto, mas Pedro Penim faz dele autor vivo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/culturaipsilon/noticia/camoes-morto-pedro-penim-faz-autor-vivo-2168966"
-        },
-        {
-            "title": "Viagens de Carneiro à Venezuela e Ventura à Hungria aquecem debate sobre escalada de preços",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/politica/noticia/viagens-carneiro-venezuela-ventura-hungria-aquecem-debate-escalada-precos-2169132"
         }
     ],
     "finance": [],
-    "last_update": "25/03/2026 21:28"
+    "last_update": "25/03/2026 22:25"
 }
