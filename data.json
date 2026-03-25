@@ -2,35 +2,35 @@
     "weather": {
         "atual": 15.5,
         "manha": 15.3,
-        "tarde": 22.4,
-        "noite": 15.7
+        "tarde": 22.3,
+        "noite": 15.4
     },
     "forecast": {
-        "max": 21.2,
-        "min": 13.9
+        "max": 21.0,
+        "min": 13.8
     },
     "news": [
         {
-            "title": "“Uma resposta que não se limite a reparar danos”: embaixadores do clima apelam ao Governo que integre o risco climático no PTRR",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/azul/noticia/resposta-nao-limite-reparar-danos-pacto-climatico-apela-governo-integre-risco-climatico-ptrr-2169043"
+            "title": "Não é só Isaltino: MP acusa director da Câmara de Oeiras por pedir reembolso de refeição de 21 euros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/sociedade/noticia/nao-so-isaltino-mp-acusa-director-camara-oeiras-pedir-reembolso-refeicao-21-euros-2169082"
         },
         {
-            "title": "Cinco destaques da nostalgia do regresso de Miley Cyrus a <em>Hannah Montana</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/impar/noticia/cinco-destaques-nostalgia-regresso-miley-cyrus-hannah-montana-2169063"
+            "title": "Novo Banco guarda 500 milhões e mais “dividendos especiais” para comprador francês",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/economia/noticia/novo-banco-guarda-500-milhoes-dividendos-especiais-comprador-frances-2168985"
         },
         {
-            "title": "Seguro faz 18 nomeações para a Casa Civil e mantém vários nomes em Belém",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/politica/noticia/seguro-faz-18-nomeacoes-casa-civil-mantem-varios-nomes-belem-2169048"
+            "title": "Grupo de cães perdidos na China fica viral ao percorrer 17 quilómetros para voltar a casa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/p3/noticia/grupo-caes-perdidos-china-fica-viral-percorrer-17-quilometros-voltar-casa-2169052"
         },
         {
-            "title": "Praticamente nenhum hospital estava preparado em 2025 para apagão de três dias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/sociedade/noticia/praticamente-hospital-preparado-2025-apagao-tres-dias-2169070"
+            "title": "Após voto a favor, deputados do PSD distanciam-se de projecto do Chega sobre autodeterminação de género",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/politica/noticia/apos-voto-favor-deputados-psd-distanciamse-projecto-chega-autodeterminacao-genero-2169080"
         },
         {
-            "title": "ICE nos aeroportos e os limites das soluções populistas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/newsletter/aquinaamerica"
+            "title": "José Manuel Bolieiro admite situação “complexa”, mas afasta resgate financeiro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/politica/noticia/jose-manuel-bolieiro-situacao-complexa-afasta-resgate-financeiro-2169076"
         }
     ],
     "finance": [],
-    "last_update": "25/03/2026 14:10"
+    "last_update": "25/03/2026 15:59"
 }
