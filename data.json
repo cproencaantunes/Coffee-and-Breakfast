@@ -2,35 +2,35 @@
     "weather": {
         "atual": 15.5,
         "manha": 15.3,
-        "tarde": 22.3,
-        "noite": 15.4
+        "tarde": 22.6,
+        "noite": 15.2
     },
     "forecast": {
-        "max": 21.0,
-        "min": 13.8
+        "max": 21.1,
+        "min": 13.5
     },
     "news": [
         {
-            "title": "Francês suspeito do homicídio de duas mulheres detido no distrito da Guarda",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/sociedade/noticia/frances-suspeito-homicidio-duas-mulheres-detido-distrito-guarda-2169107"
+            "title": "Guindalense: 50 anos de um clube aberto a todos e o projecto de uma casa nova",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/local/noticia/guindalense-50-anos-clube-aberto-projecto-casa-nova-2168955"
         },
         {
-            "title": "São Geraldo completa quarteirão das artes no coração de Braga",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/local/noticia/sao-geraldo-completa-quarteirao-artes-coracao-braga-2169104"
+            "title": "Sindicato da polícia garante que esquadra de Cedofeita fechou: “Já não existe”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/local/noticia/sindicato-policia-garante-esquadra-cedofeita-fechou-ja-nao-existe-2169123"
         },
         {
-            "title": "Fundos estruturais: Portugal reafectou 2,5 mil milhões de euros para as novas prioridades da UE",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/economia/noticia/fundos-estruturais-portugal-reafectou-25-mil-milhoes-euros-novas-prioridades-ue-2169098"
+            "title": "UEFA condena Benfica por comportamento racista e discriminatório",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/desporto/noticia/uefa-condena-benfica-comportamento-racista-discriminatorio-2169125"
         },
         {
-            "title": "Nova urgência regional de obstetrícia e ginecologia no Garcia de Orta arranca a 15 de Abril",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/sociedade/noticia/nova-urgencia-regional-obstetricia-garcia-orta-arranca-15-abril-2169097"
+            "title": "Volkswagen discute plano para produzir partes da Cúpula de Ferro israelita na Alemanha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/mundo/noticia/volkswagen-discute-plano-produzir-partes-cupula-ferro-israelita-alemanha-2169121"
         },
         {
-            "title": "Governo prepara redução no gasóleo agrícola devido à subida de preços",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/economia/noticia/governo-prepara-reducao-gasoleo-agricola-devido-subida-precos-2169093"
+            "title": "Chaves: concurso internacional de vinhos quer consolidar Trás-os-Montes no enoturismo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/fugas/noticia/chaves-concurso-internacional-vinhos-quer-consolidar-trasosmontes-enoturismo-2169124"
         }
     ],
     "finance": [],
-    "last_update": "25/03/2026 17:02"
+    "last_update": "25/03/2026 18:42"
 }
