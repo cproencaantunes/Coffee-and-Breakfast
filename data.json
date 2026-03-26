@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 14.4,
-        "manha": 16.3,
+        "manha": 16.0,
         "tarde": 21.4,
         "noite": 16.9
     },
     "forecast": {
         "max": 20.8,
-        "min": 12.6
+        "min": 12.4
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/opiniao/opiniao/cartas-director-2169122"
+        },
         {
             "title": "IL junta-se a PSD e Chega no Constitucional. Será que chega?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/politica/noticia/il-juntase-psd-chega-constitucional-sera-chega-2169148"
@@ -25,12 +29,8 @@
         {
             "title": "O erro persistente de subsidiar a procura",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/opiniao/opiniao/erro-persistente-subsidiar-procura-2169077"
-        },
-        {
-            "title": "Condições mínimas para uma restauração viável",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/opiniao/opiniao/condicoes-minimas-restauracao-viavel-2167399"
         }
     ],
     "finance": [],
-    "last_update": "26/03/2026 04:24"
+    "last_update": "26/03/2026 06:06"
 }
