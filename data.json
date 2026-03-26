@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.4,
         "manha": 16.2,
-        "tarde": 21.7,
+        "tarde": 21.6,
         "noite": 16.8
     },
     "forecast": {
-        "max": 20.4,
-        "min": 12.6
+        "max": 20.7,
+        "min": 12.4
     },
     "news": [
         {
-            "title": "TVDE deixam de poder apanhar e largar passageiros em algumas zonas centrais de Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/local/noticia/tvde-deixam-apanhar-largar-passageiros-zonas-centrais-lisboa-2169208"
+            "title": "Brasil lança concurso em Portugal contra xenofobia nas escolas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/publico-brasil/noticia/brasil-lanca-concurso-portugal-xenofobia-escolas-2169150"
         },
         {
-            "title": "Portugal assina convenção do Conselho da Europa sobre co-produção audiovisual de séries",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/culturaipsilon/noticia/portugal-assina-convencao-conselho-europa-coproducao-audiovisual-series-2169209"
+            "title": "Associações LGBTI queixam-se de falta de diálogo, BE pede explicações ao Governo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/politica/noticia/associacoes-lgbti-queixamse-falta-dialogo-be-pede-explicacoes-governo-2169216"
         },
         {
-            "title": "Governo atribui Medalha de Mérito Cultural a Simone de Oliveira no Dia Mundial do Teatro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/culturaipsilon/noticia/governo-atribui-medalha-merito-cultural-simone-oliveira-dia-mundial-teatro-2169210"
+            "title": "No meio da incerteza, hotelaria vê “claro abrandamento” no crescimento do turismo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/economia/noticia/meio-incerteza-hotelaria-ve-claro-abrandamento-crescimento-turismo-2169211"
         },
         {
-            "title": "União Europeia não prolonga regras de detecção de abuso sexual infantil <em>online</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/sociedade/noticia/uniao-europeia-nao-prolonga-regras-deteccao-abuso-sexual-infantil-online-2169201"
+            "title": "Rui Gomes da Silva: Seguro “matou o folhetim do Governo”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/video/rui-gomes-silva-seguro-matou-folhetim-governo-20260326-152152"
         },
         {
-            "title": "Subida da Euribor melhora taxa de juro dos Certificados de Aforro em Abril",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/economia/noticia/subida-euribor-melhora-taxa-juro-certificados-aforro-abril-2169194"
+            "title": "INEM pretende aplicar quase um milhão de euros de penalizações à empresa de helitransporte de emergência",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/sociedade/noticia/inem-pretende-aplicar-quase-milhao-euros-penalizacoes-empresa-helitransporte-emergencia-2169214"
         }
     ],
     "finance": [],
-    "last_update": "26/03/2026 14:19"
+    "last_update": "26/03/2026 16:02"
 }
