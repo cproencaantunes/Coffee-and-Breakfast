@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 15.5,
-        "manha": 15.3,
-        "tarde": 22.6,
-        "noite": 15.1
+        "atual": 14.4,
+        "manha": 15.5,
+        "tarde": 21.2,
+        "noite": 16.7
     },
     "forecast": {
-        "max": 21.4,
-        "min": 13.2
+        "max": 20.7,
+        "min": 12.6
     },
     "news": [
         {
-            "title": "Helicópteros: INEM enviou “toda a informação”, mas ficou às “escuras” sobre a decisão do Governo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/sociedade/noticia/helicopteros-inem-enviou-informacao-ficou-escuras-decisao-governo-2169151"
+            "title": "IL junta-se a PSD e Chega no Constitucional. Será que chega?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/politica/noticia/il-juntase-psd-chega-constitucional-sera-chega-2169148"
         },
         {
-            "title": "Governo propõe “concurso contínuo” para substituir modalidades de contratação de professores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/sociedade/noticia/governo-propoe-concurso-continuo-substituir-modalidades-contratacao-professores-2169149"
+            "title": "O regresso das agendas fracturantes pela mão da AD",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/opiniao/opiniao/regresso-agendas-fracturantes-mao-ad-2169142"
         },
         {
-            "title": "Inspector da PJ admite que Odair Moniz pode não ter utilizado faca encontrada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/sociedade/noticia/inspector-pj-admite-odair-moniz-nao-utilizado-faca-encontrada-2169136"
+            "title": "César entre os vivos e regresso a Timor em voz trovante",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/culturaipsilon/opiniao/cesar-vivos-regresso-timor-voz-trovante-2169039"
         },
         {
-            "title": "Portugueses passam mais tempo a receber subsídio de desemprego que os imigrantes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/economia/noticia/portugueses-passam-tempo-receber-subsidio-desemprego-imigrantes-2169129"
+            "title": "O erro persistente de subsidiar a procura",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/opiniao/opiniao/erro-persistente-subsidiar-procura-2169077"
         },
         {
-            "title": "Sérgio Fernandez (1937-2026), um arquitecto modernista e discreto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/25/culturaipsilon/noticia/sergio-fernandez-19372026-arquitecto-modernista-discreto-2165722"
+            "title": "Condições mínimas para uma restauração viável",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/opiniao/opiniao/condicoes-minimas-restauracao-viavel-2167399"
         }
     ],
     "finance": [],
-    "last_update": "25/03/2026 23:24"
+    "last_update": "26/03/2026 01:18"
 }
