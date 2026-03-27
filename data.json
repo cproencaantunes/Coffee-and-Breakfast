@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 16.4,
-        "manha": 13.8,
-        "tarde": 20.7,
-        "noite": 16.0
+        "manha": 13.7,
+        "tarde": 20.6,
+        "noite": 15.7
     },
     "forecast": {
-        "max": 22.7,
+        "max": 22.5,
         "min": 12.4
     },
     "news": [
         {
-            "title": "Pagamento do <em>layoff </em>a 100% para trabalhadores de empresas destruídas pelas tempestades já está em Belém",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/politica/noticia/pagamento-layoff-100-trabalhadores-empresas-destruidas-tempestades-ja-belem-2169298"
+            "title": "Felizes de nós, os normais!",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/culturaipsilon/cronica/felizes-normais-2168920"
         },
         {
-            "title": "CP em risco de indemnizar a ViaPorto em 1,5 milhões de euros devido a greve dos trabalhadores da manutenção",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/local/noticia/cp-risco-indemnizar-viaporto-15-milhoes-euros-devido-greve-trabalhadores-manutencao-2169184"
+            "title": "Quem é Yudania Gómez Heredia, a maestrina de <em>Lux</em>, que Rosalía descobriu nas redes sociais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/impar/noticia/yudania-gomez-heredia-maestrina-lux-rosalia-descobriu-redes-sociais-2169221"
         },
         {
-            "title": "IP cobra 167 euros a comboio que transportou sacos de areia para evitar cheias no Ribatejo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/economia/noticia/ip-cobra-167-euros-comboio-transportou-sacos-areia-evitar-cheias-ribatejo-2168933"
+            "title": "Falta muito? Pai espalha códigos QR por Sintra para ajudar a filha (e todos) a saber horários dos autocarros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/p3/noticia/falta-pai-espalha-codigos-qr-sintra-ajudar-filha-saber-horarios-autocarros-2169257"
         },
         {
-            "title": "O efeito de amplificação dos novos estilos educativos na sala de aula",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/impar/noticia/efeito-amplificacao-novos-estilos-educativos-sala-aula-2169067"
+            "title": "A irresponsabilidade política tem vítimas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/opiniao/opiniao/irresponsabilidade-politica-vitimas-2169310"
         },
         {
-            "title": "Itália investiga Sephora e Benefit Cosmetics por marketing dirigido a crianças",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/impar/noticia/italia-investiga-sephora-benefit-cosmetics-marketing-dirigido-criancas-2169306"
+            "title": "Licínia e Anselmo Ferreira: Fazer 80 quilos de queijo por dia? “Vida boa”, dizem eles",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/fugas/noticia/licinia-anselmo-ferreira-80-quilos-queijo-dia-vida-boa-2166012"
         }
     ],
     "finance": [],
-    "last_update": "27/03/2026 09:43"
+    "last_update": "27/03/2026 10:37"
 }
