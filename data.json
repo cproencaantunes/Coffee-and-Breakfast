@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.4,
-        "manha": 16.2,
-        "tarde": 21.7,
-        "noite": 17.1
+        "atual": 16.3,
+        "manha": 13.9,
+        "tarde": 20.8,
+        "noite": 15.9
     },
     "forecast": {
-        "max": 21.1,
-        "min": 12.6
+        "max": 22.6,
+        "min": 12.1
     },
     "news": [
         {
-            "title": "O que faz ao certo a Palantir? Quanto dinheiro ganha? E porque usa linguagem bélica?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/tecnologia/noticia/faz-certo-palantir-dinheiro-ganha-usa-linguagem-belica-2169252"
+            "title": "O odor fétido da intolerância na AR",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/opiniao/opiniao/odor-fetido-intolerancia-ar-2169284"
         },
         {
-            "title": "A Itália não impressionou, mas ficou mais perto do Mundial 2026",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/desporto/noticia/italia-nao-impressiona-ganha-2169291"
+            "title": "“Água que Une”: um ano de concretizações no ciclo urbano da água",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/opiniao/opiniao/agua-une-ano-concretizacoes-ciclo-urbano-agua-2169266"
         },
         {
-            "title": "\"O Chega é o partido dos pedófilos\"",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/newsletter/diarios-republica"
+            "title": "PS: da resistência às direitas à vontade de futuro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/opiniao/opiniao/ps-resistencia-direitas-vontade-futuro-2169275"
         },
         {
-            "title": "Congresso do PS ajuda Carneiro a decidir que tipo de oposição fazer ao Governo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/politica/noticia/congresso-ps-ajuda-carneiro-decidir-tipo-oposicao-governo-2169285"
+            "title": "A abundância que ninguém quer experimentar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/opiniao/opiniao/abundancia-ninguem-quer-experimentar-2169251"
         },
         {
-            "title": "Martelar a cara, injectar <i>botox</i> em casa: quem são os <i>looksmaxxers</i>?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/26/video/martelar-cara-injectar-botox-casa-sao-looksmaxxers-20260326-172820"
+            "title": "Cidadão francês suspeito de duplo homicídio fica em prisão preventiva",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/sociedade/noticia/cidadao-frances-suspeito-duplo-homicidio-fica-prisao-preventiva-2169294"
         }
     ],
     "finance": [],
-    "last_update": "26/03/2026 23:21"
+    "last_update": "27/03/2026 01:18"
 }
