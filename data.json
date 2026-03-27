@@ -2,35 +2,35 @@
     "weather": {
         "atual": 16.4,
         "manha": 14.2,
-        "tarde": 21.0,
+        "tarde": 20.9,
         "noite": 15.7
     },
     "forecast": {
-        "max": 22.1,
-        "min": 12.9
+        "max": 22.3,
+        "min": 13.6
     },
     "news": [
         {
-            "title": "China mapeia fundo do oceano em preparação para guerra submarina com os EUA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/azul/investigacao/china-mapeia-fundo-oceano-preparacao-guerra-submarina-eua-2168910"
+            "title": "O que fazer neste fim-de-semana? Andar pelos centros históricos entre música e teatro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/fugas/noticia/neste-fimdesemana-andar-centros-historicos-musica-teatro-2169362"
         },
         {
-            "title": "Camilo, um génio com tintes de traste, era mais verdasco e vinho do Porto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/fugas/cronica/camilo-genio-tintes-traste-verdasco-vinho-porto-2168914"
+            "title": "Comissão Europeia sofre ataque informático, roubo de dados confirmado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/enter/noticia/comissao-europeia-sofre-ataque-informatico-roubo-dados-confirmado-2169426"
         },
         {
-            "title": "Ventura compromete-se a iniciar processo de revisão constitucional “até final do ano”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/politica/noticia/ventura-comprometese-iniciar-processo-revisao-constitucional-ate-final-ano-2169414"
+            "title": "Qual a probabilidade de José Luís Carneiro disputar as legislativas?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/politica/noticia/probabilidade-jose-luis-carneiro-disputar-legislativas-2169406"
         },
         {
-            "title": "Sub21: Portugal goleia Azerbaijão na qualificação para o Euro 2027",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/desporto/noticia/sub21-portugal-goleia-azerbaijao-qualificacao-euro-2027-2169410"
+            "title": "Ambiente dá parecer favorável condicionado à ampliação do terminal norte do porto de Leixões",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/local/noticia/apa-parecer-favoravel-condicionado-ampliacao-terminal-norte-porto-leixoes-2169425"
         },
         {
-            "title": "Câmara de Lagos declara caducidade do alvará do antigo Hotel Golfinho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/local/noticia/camara-lagos-declara-caducidade-alvara-antigo-hotel-golfinho-2169256"
+            "title": "Com apoio da União Europeia, Cabo Verde valoriza a cultura de países lusófonos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/publico-brasil/noticia/apoio-uniao-europeia-cabo-verde-valoriza-cultura-paises-lusofonos-2169387"
         }
     ],
     "finance": [],
-    "last_update": "27/03/2026 17:41"
+    "last_update": "27/03/2026 18:42"
 }
