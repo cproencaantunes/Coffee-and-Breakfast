@@ -3,13 +3,25 @@
         "atual": 16.4,
         "manha": 14.2,
         "tarde": 20.9,
-        "noite": 15.7
+        "noite": 15.8
     },
     "forecast": {
         "max": 22.3,
-        "min": 13.6
+        "min": 13.3
     },
     "news": [
+        {
+            "title": "Carneiro exige que Montenegro escolha entre extrema-direita e moderação e avisa: “Se Governo escolher ventos, terá tempestades”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/politica/noticia/carneiro-exige-montenegro-escolha-extremadireita-moderacao-avisa-governo-escolher-ventos-tera-tempestades-2169441"
+        },
+        {
+            "title": "“Em Leiria, há agricultores que ainda podem ter uma réstia de força. Eu não tenho”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/sociedade/reportagem/leiria-ha-agricultores-podem-restia-forca-nao-2169358"
+        },
+        {
+            "title": "João Azevedo quer vitória em Viseu como roteiro para Carneiro chegar a primeiro-ministro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/politica/noticia/joao-azevedo-quer-vitoria-viseu-roteiro-carneiro-chegar-primeiroministro-2169449"
+        },
         {
             "title": "José Luís Carneiro vai às boxes",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/opiniao/editorial/jose-luis-carneiro-vai-boxes-2169446"
@@ -17,20 +29,8 @@
         {
             "title": "Cabaz alimentar nunca esteve tão caro, e o cenário “não é animador”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/economia/noticia/cabaz-alimentar-tao-caro-cenario-nao-animador-2169443"
-        },
-        {
-            "title": "Santos Silva: Conselho Estratégico do PS prepara “armas para as batalhas do amanhã”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/politica/entrevista/santos-silva-conselho-estrategico-ps-prepara-armas-batalhas-amanha-2169161"
-        },
-        {
-            "title": "AIMA dá dicas a imigrantes para evitar erros em arquivos e acelerar processos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/publico-brasil/noticia/aima-dicas-imigrantes-evitar-erros-arquivos-acelerar-processos-2169447"
-        },
-        {
-            "title": "Conselho da Paz de Trump propõe desarmamento gradual do Hamas em oito meses",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/mundo/noticia/conselho-paz-trump-propoe-desarmamento-gradual-hamas-oito-meses-2169434"
         }
     ],
     "finance": [],
-    "last_update": "27/03/2026 21:26"
+    "last_update": "27/03/2026 22:21"
 }
