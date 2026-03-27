@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 16.4,
-        "manha": 14.0,
-        "tarde": 20.8,
-        "noite": 16.1
+        "manha": 13.8,
+        "tarde": 20.7,
+        "noite": 16.0
     },
     "forecast": {
         "max": 22.7,
-        "min": 12.2
+        "min": 12.4
     },
     "news": [
+        {
+            "title": "“Sem estacionamento não há SNS”, publicado a 18 de Março de 2026",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/sociedade/direito-de-resposta/estacionamento-nao-ha-sns-publicado-18-marco-2026-2169200"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/opiniao/opiniao/cartas-director-2169225"
+        },
         {
             "title": "O odor fétido da intolerância na AR",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/opiniao/opiniao/odor-fetido-intolerancia-ar-2169284"
@@ -21,16 +29,8 @@
         {
             "title": "PS: da resistência às direitas à vontade de futuro",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/opiniao/opiniao/ps-resistencia-direitas-vontade-futuro-2169275"
-        },
-        {
-            "title": "A abundância que ninguém quer experimentar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/opiniao/opiniao/abundancia-ninguem-quer-experimentar-2169251"
-        },
-        {
-            "title": "Cidadão francês suspeito de duplo homicídio fica em prisão preventiva",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/sociedade/noticia/cidadao-frances-suspeito-duplo-homicidio-fica-prisao-preventiva-2169294"
         }
     ],
     "finance": [],
-    "last_update": "27/03/2026 04:25"
+    "last_update": "27/03/2026 06:06"
 }
