@@ -2,35 +2,35 @@
     "weather": {
         "atual": 16.4,
         "manha": 14.2,
-        "tarde": 21.3,
-        "noite": 15.9
+        "tarde": 21.0,
+        "noite": 15.7
     },
     "forecast": {
-        "max": 22.4,
-        "min": 13.2
+        "max": 22.1,
+        "min": 12.9
     },
     "news": [
         {
-            "title": "Agente pede 52 mil euros a Fernando Couto por ida de Jota Silva para Inglaterra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/desporto/noticia/agente-pede-52-mil-euros-fernando-couto-ida-jota-silva-inglaterra-2169388"
+            "title": "O lugar do imigrante é onde ele quiser, inclusive na luta pela habitação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/publico-brasil/opiniao/lugar-imigrante-onde-quiser-inclusive-luta-habitacao-2169404"
         },
         {
-            "title": "Detido suspeito de tentar matar uma mulher em encontro combinado nas redes sociais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/sociedade/noticia/detido-suspeito-tentar-matar-mulher-encontro-combinado-redes-sociais-2169376"
+            "title": "Faculdade de Economia da Nova nega querer “divórcio institucional” da universidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/ciencia/noticia/faculdade-economia-nova-nega-querer-divorcio-institucional-universidade-2169389"
         },
         {
-            "title": "Rock in Rio Lisboa dá a largada com a montagem da Cidade do Rock",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/publico-brasil/noticia/rock-in-rio-lisboa-largada-montagem-cidade-rock-2169282"
+            "title": "Piratas informáticos ligados ao Irão invadem <em>email</em> pessoal do director do FBI",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/mundo/noticia/piratas-informaticos-ligados-irao-invadem-email-pessoal-director-fbi-2169401"
         },
         {
-            "title": "Estudantes preocupados com imposição de níveis mínimos de numeracia, literacia e inglês para acesso ao superior",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/sociedade/noticia/estudantes-preocupados-imposicao-niveis-minimos-numeracia-literacia-ingles-acesso-superior-2169352"
+            "title": "Obstetrícia: Loures estreou urgência regional, segue-se Almada. O que fecha e como vai funcionar?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/sociedade/perguntaserespostas/obstetricia-loures-estreou-urgencia-regional-seguese-almada-fecha-vai-funcionar-2169186"
         },
         {
-            "title": "O magnetismo de Ana Vilaça, <em>Entroncamento</em>: de onde vem a força de uma actriz?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/culturaipsilon/podcast/magnetismo-ana-vilaca-entroncamento-onde-vem-forca-actriz-2169203"
+            "title": "Posso dar sangue? O que preciso de saber",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/video/dar-sangue-onde-ir-preciso-saber-20260327-161440"
         }
     ],
     "finance": [],
-    "last_update": "27/03/2026 15:41"
+    "last_update": "27/03/2026 16:41"
 }
