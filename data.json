@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 16.4,
-        "manha": 14.2,
-        "tarde": 20.9,
-        "noite": 15.8
+        "atual": 15.4,
+        "manha": 16.1,
+        "tarde": 21.8,
+        "noite": 17.7
     },
     "forecast": {
-        "max": 22.3,
-        "min": 13.3
+        "max": 20.3,
+        "min": 12.3
     },
     "news": [
         {
-            "title": "Luis Suárez suspenso por um jogo após gesto polémico no clássico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/desporto/noticia/luis-suarez-suspenso-jogo-apos-gesto-polemico-classico-2169453"
+            "title": "Batalha de manchetes em guerra de fontes anónimas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/opiniao/opiniao/batalha-manchetes-guerra-fontes-anonimas-2169321"
         },
         {
-            "title": "Tiger Woods foi detido após acidente de viação na Florida",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/desporto/noticia/tiger-woods-acusado-conduzir-embriagado-apos-acidente-florida-2169452"
+            "title": "A honra funcional do juiz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/opiniao/opiniao/honra-funcional-juiz-2169355"
         },
         {
-            "title": "Carneiro exige que Montenegro escolha entre extrema-direita e moderação do PS: “Se Governo escolher ventos, terá tempestades”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/politica/noticia/carneiro-exige-montenegro-escolha-extremadireita-moderacao-avisa-governo-escolher-ventos-tera-tempestades-2169441"
+            "title": "Flexibilidade sem ambição não é reforma",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/opiniao/opiniao/flexibilidade-ambicao-nao-reforma-2169081"
         },
         {
-            "title": "“Em Leiria, há agricultores que ainda podem ter uma réstia de força. Eu não tenho”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/sociedade/reportagem/leiria-ha-agricultores-podem-restia-forca-nao-2169358"
+            "title": "Andas armado em mangas ou quê?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/opiniao/cronica/andas-armado-mangas-2169330"
         },
         {
-            "title": "João Azevedo quer vitória em Viseu como roteiro para Carneiro chegar a primeiro-ministro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/27/politica/noticia/joao-azevedo-quer-vitoria-viseu-roteiro-carneiro-chegar-primeiroministro-2169449"
+            "title": "Isaltino come de mais ou é a justiça que anda com muita fome?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/opiniao/opiniao/isaltino-come-demais-justica-anda-fome-2169311"
         }
     ],
     "finance": [],
-    "last_update": "27/03/2026 23:22"
+    "last_update": "28/03/2026 01:11"
 }
