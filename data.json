@@ -3,13 +3,25 @@
         "atual": 15.6,
         "manha": 16.2,
         "tarde": 22.2,
-        "noite": 17.2
+        "noite": 17.0
     },
     "forecast": {
-        "max": 20.5,
-        "min": 12.2
+        "max": 20.2,
+        "min": 12.5
     },
     "news": [
+        {
+            "title": "Exame de Matemática do 12.º ano incluirá matérias que alunos não deram, mas ministério esclarece que são opcionais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/sociedade/noticia/exame-matematica-12-ano-incluira-materias-alunos-nao-deram-ministerio-esclarece-sao-opcionais-2169344"
+        },
+        {
+            "title": "Mergulhador de 42 anos morre junto ao Cabo Espichel em Sesimbra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/sociedade/noticia/mergulhador-42-anos-morre-junto-cabo-espichel-sesimbra-2169510"
+        },
+        {
+            "title": "Dar um salto a Espanha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/opiniao/editorial/dar-salto-espanha-2169486"
+        },
         {
             "title": "O fim da monarquia?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/p3/cronica/fim-monarquia-2165944"
@@ -17,20 +29,8 @@
         {
             "title": "Muitas centenas de jovens na rua contra pacote laboral e precariedade que se eterniza",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/sociedade/noticia/centenas-jovens-rua-pacote-laboral-precariedade-eterniza-2169504"
-        },
-        {
-            "title": "Depois da hecatombe no passado recente, PS usa “caixa do tempo” para sonhar o futuro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/politica/reportagem/hecatombe-passado-recente-ps-usa-caixa-tempo-sonhar-futuro-2169492"
-        },
-        {
-            "title": "Assembleia da República de Portugal debaterá tempo de espera pela AIMA para cidadania",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/publico-brasil/noticia/assembleia-republica-portugal-debatera-tempo-espera-aima-cidadania-2169502"
-        },
-        {
-            "title": "Incêndios: Mais de 100 operacionais combatem fogo no Parque Nacional da Peneda-Gerês",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/sociedade/noticia/incendios-100-operacionais-combatem-fogo-parque-nacional-penedageres-2169498"
         }
     ],
     "finance": [],
-    "last_update": "28/03/2026 21:20"
+    "last_update": "28/03/2026 22:18"
 }
