@@ -3,13 +3,21 @@
         "atual": 15.6,
         "manha": 16.2,
         "tarde": 22.2,
-        "noite": 17.4
+        "noite": 17.2
     },
     "forecast": {
         "max": 20.5,
         "min": 12.2
     },
     "news": [
+        {
+            "title": "Trump vai ter “o melhor salão de baile em qualquer parte do mundo”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/mundo/noticia/trump-vai-melhor-salao-baile-qualquer-parte-mundo-2169489"
+        },
+        {
+            "title": "Rússia vai para a Namíbia minerar urânio e ensinar a produzir energia nuclear",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/mundo/noticia/russia-vai-namibia-minerar-uranio-ensinar-produzir-energia-nuclear-2169152"
+        },
         {
             "title": "Quase 414 mil chocolates KitKat com destino à Europa foram roubados",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/economia/noticia/quase-414-mil-chocolates-kitkat-destino-europa-roubados-2169485"
@@ -21,16 +29,8 @@
         {
             "title": "Restos mortais de D’Artagnan podem ter sido encontrados numa igreja, análises de ADN darão resposta",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/ciencia/noticia/restos-mortais-dartagnan-podem-encontrados-igreja-analises-adn-darao-resposta-2169482"
-        },
-        {
-            "title": "Pelo menos 12 mortos em desabamento na República Democrática do Congo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/mundo/noticia/menos-12-mortos-desabamento-republica-democratica-congo-2169479"
-        },
-        {
-            "title": "A guerra com o Irão está a levar os consumidores a abandonar os combustíveis fósseis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/azul/reportagem/guerra-irao-levar-consumidores-abandonar-combustiveis-fosseis-2169331"
         }
     ],
     "finance": [],
-    "last_update": "28/03/2026 17:20"
+    "last_update": "28/03/2026 18:25"
 }
