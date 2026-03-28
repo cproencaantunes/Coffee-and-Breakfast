@@ -1,15 +1,27 @@
 {
     "weather": {
         "atual": 15.6,
-        "manha": 15.7,
-        "tarde": 21.7,
-        "noite": 17.1
+        "manha": 16.2,
+        "tarde": 22.0,
+        "noite": 17.2
     },
     "forecast": {
         "max": 20.5,
-        "min": 12.2
+        "min": 11.9
     },
     "news": [
+        {
+            "title": "Petróleo subiu 55% e gás aumentou 70% no primeiro mês de guerra no Irão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/economia/noticia/petroleo-subiu-55-gas-aumento-70-mes-guerra-irao-2169463"
+        },
+        {
+            "title": "Cogeração perde força em Portugal, enquanto reforça competitividade de Espanha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/economia/noticia/cogeracao-perde-forca-portugal-reforca-competitividade-espanha-2169422"
+        },
+        {
+            "title": "Cabrita Reis, Sara Bichão e Pele Colectivo participam na Manifesta 16 na Alemanha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/culturaipsilon/noticia/cabrita-reis-sara-bichao-pele-colectivo-participam-manifesta-16-alemanha-2169432"
+        },
         {
             "title": "Os carros eléctricos são a solução para a subida de preços dos combustíveis?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/enter/podcast/carros-electricos-sao-solucao-subida-precos-combustiveis-2169421"
@@ -17,20 +29,8 @@
         {
             "title": "Um rectângulo de betão que flutua sobre as dunas e o pinhal de Esmoriz",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/fotogaleria/rectangulo-betao-flutua-dunas-pinhal-esmoriz-415292"
-        },
-        {
-            "title": "GNR detém suspeito de incêndio florestal em Tarouca",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/sociedade/noticia/gnr-detem-suspeito-incendio-florestal-tarouca-2169461"
-        },
-        {
-            "title": "Carneiro pede ao Governo “medidas mais robustas” para reagir ao aumento dos combustíveis e alimentos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/politica/noticia/carneiro-pede-governo-medidas-robustas-reagir-aumento-combustiveis-alimentos-2169459"
-        },
-        {
-            "title": "Na Andaluzia, pelos Caminhos da Paixão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/fugas/reportagem/andaluzia-caminhos-paixao-2168809"
         }
     ],
     "finance": [],
-    "last_update": "28/03/2026 11:19"
+    "last_update": "28/03/2026 12:31"
 }
