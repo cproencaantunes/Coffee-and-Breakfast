@@ -1,15 +1,27 @@
 {
     "weather": {
         "atual": 15.6,
-        "manha": 15.9,
-        "tarde": 21.9,
-        "noite": 17.5
+        "manha": 15.7,
+        "tarde": 21.7,
+        "noite": 17.1
     },
     "forecast": {
-        "max": 20.6,
-        "min": 12.5
+        "max": 20.5,
+        "min": 12.2
     },
     "news": [
+        {
+            "title": "Quando foi a última vez que apagou as luzes na Hora do Planeta? Este sábado tem uma nova oportunidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/azul/noticia/ultima-apagou-luzes-hora-planeta-sabado-nova-oportunidade-2169202"
+        },
+        {
+            "title": "Saudar a Primavera a tropeçar na poesia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/impar/noticia/saudar-primavera-tropecar-poesia-2169448"
+        },
+        {
+            "title": "Dois testes americanos para Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/newsletter/aquecimento"
+        },
         {
             "title": "“Não há dúvida de que Israel está a cometer crimes de guerra” no Líbano, diz vice-primeiro-ministro",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/mundo/noticia/nao-ha-duvida-israel-cometer-crimes-guerra-libano-viceprimeiroministro-2169383"
@@ -17,20 +29,8 @@
         {
             "title": "O último casting de Roberto Martínez antes do Mundial",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/desporto/noticia/ultimo-casting-roberto-martinez-mundial-2169438"
-        },
-        {
-            "title": "O teu ódio dá lucro e a extrema-direita agradece",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/p3/cronica/odio-lucro-extremadireita-agradece-2169316"
-        },
-        {
-            "title": "Como poderá acabar a guerra no Irão? Um fim “imperfeito” agora ou pior mais tarde",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/mundo/noticia/podera-acabar-guerra-irao-fim-imperfeito-pior-tarde-2169391"
-        },
-        {
-            "title": "DUA 2.0 é a primeira IA a falar crioulos e a focar-se em criadores lusófonos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/enter/noticia/dua-20-primeira-ia-falar-crioulos-focarse-criadores-lusofonos-2169457"
         }
     ],
     "finance": [],
-    "last_update": "28/03/2026 09:27"
+    "last_update": "28/03/2026 10:21"
 }
