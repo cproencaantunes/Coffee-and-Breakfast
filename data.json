@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 17.5,
-        "manha": 12.5,
-        "tarde": 19.8,
-        "noite": 15.2
+        "atual": 14.8,
+        "manha": 11.6,
+        "tarde": 19.0,
+        "noite": 16.4
     },
     "forecast": {
-        "max": 20.6,
-        "min": 11.3
+        "max": 23.8,
+        "min": 15.0
     },
     "news": [
         {
+            "title": "Nem regiões, nem distritos…",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/opiniao/opiniao/regioes-distritos-2168720"
+        },
+        {
+            "title": "Como uma cidade envolvente de um rio se pode preparar para a próxima grande cheia?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/opiniao/opiniao/cidade-envolvente-rio-preparar-proxima-cheia-2169408"
+        },
+        {
+            "title": "Risco sistémico, segurança tecnológica e coesão territorial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/opiniao/opiniao/risco-sistemico-seguranca-tecnologica-coesao-territorial-2169403"
+        },
+        {
+            "title": "Pobres biblio-excluídos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/opiniao/cronica/pobres-biblioexcluidos-2169538"
+        },
+        {
             "title": "Portugal continua entre os países europeus que mandam mais de metade do lixo para aterros",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/azul/noticia/portugal-paises-europeus-dependentes-aterros-2169568"
-        },
-        {
-            "title": "Portugal registou taxa de mortalidade evitável abaixo da média da União Europeia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/sociedade/noticia/portugal-registou-taxa-mortalidade-evitavel-abaixo-media-uniao-europeia-2169494"
-        },
-        {
-            "title": "PS: o “agarrem-me senão eu mato” durou 48 horas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/politica/cronica/ps-agarremme-senao-mato-durou-48-horas-2169567"
-        },
-        {
-            "title": "Identidade de género: “Vamos a qualquer lugar do mundo para tomar os medicamentos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/sociedade/reportagem/identidade-genero-vamos-qualquer-lugar-mundo-tomar-medicamentos-2169564"
-        },
-        {
-            "title": "Paquistão recebeu países da região para falar sobre o Irão, com foco em Ormuz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/mundo/noticia/paquistao-recebeu-paises-regiao-falar-irao-foco-ormuz-2169559"
         }
     ],
     "finance": [],
-    "last_update": "29/03/2026 22:22"
+    "last_update": "29/03/2026 23:22"
 }
