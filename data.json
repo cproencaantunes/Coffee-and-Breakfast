@@ -3,34 +3,34 @@
         "atual": 17.5,
         "manha": 12.5,
         "tarde": 19.8,
-        "noite": 15.2
+        "noite": 15.1
     },
     "forecast": {
-        "max": 20.8,
-        "min": 11.0
+        "max": 20.6,
+        "min": 11.2
     },
     "news": [
         {
+            "title": "França investiga tentativa de atentado terrorista contra o Bank of America, em Paris",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/mundo/noticia/franca-investiga-tentativa-atentado-terrorista-bank-of-america-paris-2169554"
+        },
+        {
+            "title": "Reformista, firme mas disponível para convergir: a “oposição responsável” de Carneiro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/politica/noticia/reformista-firme-disponivel-convergir-oposicao-responsavel-carneiro-2169529"
+        },
+        {
+            "title": "EUA mobilizam-se contra Trump: recorde de pessoas manifesta-se em todos os estados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/mundo/noticia/eua-mobilizamse-trump-recorde-pessoas-manifestase-estados-2169556"
+        },
+        {
+            "title": "O que fazer? Segunda é dia de sair à rua com Maier e escutar Water Damage",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/fugas/noticia/segunda-dia-sair-rua-maier-escutar-water-damage-2169515"
+        },
+        {
             "title": "<em>Papier mâché</em> e matemática: Angine de Poitrine e um feitiço no Tremor",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/culturaipsilon/noticia/papier-mache-matematica-angine-poitrine-feitico-tremor-2169548"
-        },
-        {
-            "title": "Salários, empresas, habitação: as dez prioridades de Carneiro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/politica/noticia/salarios-empresas-habitacao-dez-prioridades-carneiro-2169552"
-        },
-        {
-            "title": "Francisco José Viegas vai ser o consultor de cultura do Presidente da República",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/politica/noticia/francisco-jose-viegas-vai-consultor-cultura-presidente-republica-2169555"
-        },
-        {
-            "title": "Só dentro de cinco anos as áreas costeiras dos Açores poderão estar protegidas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/azul/noticia/so-dentro-cinco-anos-areas-costeiras-acores-poderao-estar-protegidas-2168880"
-        },
-        {
-            "title": "Clavicular, o influenciador <em>looksmaxxer</em>, foi detido por acusações de agressão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/p3/noticia/clavicular-influenciador-looksmaxxer-detido-acusacoes-agressao-2169553"
         }
     ],
     "finance": [],
-    "last_update": "29/03/2026 17:21"
+    "last_update": "29/03/2026 18:26"
 }
