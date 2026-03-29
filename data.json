@@ -1,15 +1,23 @@
 {
     "weather": {
-        "atual": 17.5,
-        "manha": 12.5,
-        "tarde": 19.8,
-        "noite": 15.1
+        "atual": 0,
+        "manha": 0,
+        "tarde": 0,
+        "noite": 0
     },
     "forecast": {
-        "max": 20.6,
-        "min": 11.2
+        "max": 0,
+        "min": 0
     },
     "news": [
+        {
+            "title": "PS : o “agarrem-me senão eu mato” durou 48 horas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/politica/cronica/ps-agarremme-senao-mato-durou-48-horas-2169567"
+        },
+        {
+            "title": "Identidade de género: “Vamos a qualquer lugar do mundo para tomar os medicamentos”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/sociedade/reportagem/identidade-genero-vamos-qualquer-lugar-mundo-tomar-medicamentos-2169564"
+        },
         {
             "title": "Paquistão recebeu países da região para falar sobre o Irão, com foco em Ormuz",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/mundo/noticia/paquistao-recebeu-paises-regiao-falar-irao-foco-ormuz-2169559"
@@ -21,16 +29,8 @@
         {
             "title": "Governo e Seguro condenam Israel por impedir patriarca de celebrar missa no Santo Sepulcro",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/politica/noticia/governo-seguro-condenam-israel-impedir-patriarca-celebrar-missa-santo-sepulcro-2169563"
-        },
-        {
-            "title": "Tecnologia no lugar da burocracia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/publico-brasil/opiniao/tecnologia-lugar-burocracia-2169561"
-        },
-        {
-            "title": "Netanyahu diz que deu ordem para alargar “zona tampão” no Líbano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/mundo/noticia/netanyahu-deu-ordem-alargar-zona-tampao-libano-2169560"
         }
     ],
     "finance": [],
-    "last_update": "29/03/2026 19:25"
+    "last_update": "29/03/2026 20:20"
 }
