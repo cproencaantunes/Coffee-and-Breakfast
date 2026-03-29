@@ -1,17 +1,17 @@
 {
     "weather": {
-        "atual": 0,
-        "manha": 0,
-        "tarde": 0,
-        "noite": 0
+        "atual": 17.5,
+        "manha": 12.5,
+        "tarde": 19.8,
+        "noite": 15.1
     },
     "forecast": {
-        "max": 0,
-        "min": 0
+        "max": 20.6,
+        "min": 11.2
     },
     "news": [
         {
-            "title": "PS : o “agarrem-me senão eu mato” durou 48 horas",
+            "title": "PS: o “agarrem-me senão eu mato” durou 48 horas",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/politica/cronica/ps-agarremme-senao-mato-durou-48-horas-2169567"
         },
         {
@@ -32,5 +32,5 @@
         }
     ],
     "finance": [],
-    "last_update": "29/03/2026 20:20"
+    "last_update": "29/03/2026 21:22"
 }
