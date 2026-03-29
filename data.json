@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 17.5,
-        "manha": 12.6,
+        "manha": 12.7,
         "tarde": 19.7,
-        "noite": 15.2
+        "noite": 15.5
     },
     "forecast": {
-        "max": 20.5,
-        "min": 11.1
+        "max": 20.8,
+        "min": 11.3
     },
     "news": [
         {
+            "title": "“Escolas recebem influenciadores que fazem da sexualização das crianças um negócio”, publicado a 1 de Março de 2026",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/opiniao/direito-de-resposta/escolas-recebem-influenciadores-fazem-sexualizacao-criancas-negocio-publicado-1-marco-2026-2169274"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/opiniao/opiniao/cartas-director-2169473"
+        },
+        {
+            "title": "“Escolas recebem influenciadores que fazem da sexualização das crianças um negócio” publicado a 1 de Março 2026",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/opiniao/direito-de-resposta/escolas-recebem-influenciadores-fazem-sexualizacao-criancas-negocio-publicado-1-marco-2026-2169281"
+        },
+        {
+            "title": "México e Portugal levaram bem a sério o conceito de jogo de treino",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/desporto/cronica_de_jogo/mexico-portugal-levaram-bem-serio-conceito-jogo-treino-2169518"
+        },
+        {
             "title": "Comer bem na escola não é luxo, é política pública",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/opiniao/opiniao/comer-bem-escola-nao-luxo-politica-publica-2169233"
-        },
-        {
-            "title": "Os Trumps da paróquia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/opiniao/opiniao/trumps-paroquia-2169088"
-        },
-        {
-            "title": "O Irão e a velha utilidade do terrorismo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/opiniao/opiniao/irao-velha-utilidade-terrorismo-2169346"
-        },
-        {
-            "title": "A guerra contra o Irão: da agressão às frágeis perspetivas de paz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/opiniao/opiniao/guerra-irao-agressao-frageis-perspetivas-paz-2169394"
-        },
-        {
-            "title": "Como sempre se disse, a solução é um concurso centralizado de professores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/opiniao/opiniao/solucao-concurso-centralizado-professores-2169329"
         }
     ],
     "finance": [],
-    "last_update": "29/03/2026 01:21"
+    "last_update": "29/03/2026 04:28"
 }
