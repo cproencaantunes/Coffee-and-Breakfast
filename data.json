@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 17.5,
-        "manha": 12.6,
-        "tarde": 19.5,
-        "noite": 15.3
+        "manha": 12.5,
+        "tarde": 19.4,
+        "noite": 15.4
     },
     "forecast": {
-        "max": 20.8,
-        "min": 11.4
+        "max": 20.7,
+        "min": 11.5
     },
     "news": [
         {
-            "title": "Já decorrem os trabalhos, eleição dos órgãos nacionais do PS quase fechada",
+            "title": "Ataque israelita mata seis pessoas em Khan Younis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/mundo/noticia/ataque-israelita-mata-seis-pessoas-khan-younis-2169528"
+        },
+        {
+            "title": "Rússia lança satélites de Internet para o espaço para rivalizar com Starlink",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/mundo/noticia/russia-lanca-satelites-internet-espaco-rivalizar-starlink-2169382"
+        },
+        {
+            "title": "Assim é nascer: eis as melhores fotografias de partos do ano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/fotogaleria/assim-nascer-eis-melhores-imagens-partos-ano-415303"
+        },
+        {
+            "title": "Carlos Sainz alerta para perigo na Fórmula 1 após acidente de Bearman no GP do Japão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/desporto/noticia/carlos-sainz-alerta-perigo-formula-1-apos-acidente-bearman-gp-japao-2169524"
+        },
+        {
+            "title": "Carneiro integra Ana Jorge, Luísa Salgueiro e Eduardo Cabrita na Comissão Nacional",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/politica/noticia/ja-decorrem-trabalhos-eleicao-orgaos-nacionais-ps-quase-fechada-2169525"
-        },
-        {
-            "title": "Incêndio no Parque Nacional da Peneda-Gerês activo, mas sem “pontos sensíveis”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/local/noticia/incendio-parque-nacional-penedageres-activo-pontos-sensiveis-2169526"
-        },
-        {
-            "title": "Os homens também choram e só lhes faz bem",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/newsletter/impar"
-        },
-        {
-            "title": "Vários feridos num atropelamento no Reino Unido, polícia diz que já não há “risco”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/mundo/noticia/varios-feridos-atropelamento-reino-unido-policia-ja-nao-ha-risco-2169523"
-        },
-        {
-            "title": "Aos 19 anos, Kimi Antonelli sai do Japão como o líder mais novo de sempre na F1",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/desporto/noticia/19-anos-kimi-antonelli-sai-japao-lider-novo-f1-2169522"
         }
     ],
     "finance": [],
-    "last_update": "29/03/2026 10:22"
+    "last_update": "29/03/2026 11:19"
 }
