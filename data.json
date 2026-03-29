@@ -3,13 +3,21 @@
         "atual": 17.5,
         "manha": 12.5,
         "tarde": 19.8,
-        "noite": 15.1
+        "noite": 15.2
     },
     "forecast": {
         "max": 20.6,
-        "min": 11.2
+        "min": 11.3
     },
     "news": [
+        {
+            "title": "Portugal continua entre os países europeus que mandam mais de metade do lixo para aterros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/azul/noticia/portugal-paises-europeus-dependentes-aterros-2169568"
+        },
+        {
+            "title": "Portugal registou taxa de mortalidade evitável abaixo da média da União Europeia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/sociedade/noticia/portugal-registou-taxa-mortalidade-evitavel-abaixo-media-uniao-europeia-2169494"
+        },
         {
             "title": "PS: o “agarrem-me senão eu mato” durou 48 horas",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/politica/cronica/ps-agarremme-senao-mato-durou-48-horas-2169567"
@@ -21,16 +29,8 @@
         {
             "title": "Paquistão recebeu países da região para falar sobre o Irão, com foco em Ormuz",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/mundo/noticia/paquistao-recebeu-paises-regiao-falar-irao-foco-ormuz-2169559"
-        },
-        {
-            "title": "Mais uma mulher morta em contexto de violência doméstica. “É preciso apostar em níveis de prevenção mais profundos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/sociedade/noticia/mulher-morta-contexto-violencia-domestica-preciso-apostar-niveis-prevencao-profundos-2169562"
-        },
-        {
-            "title": "Governo e Seguro condenam Israel por impedir patriarca de celebrar missa no Santo Sepulcro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/politica/noticia/governo-seguro-condenam-israel-impedir-patriarca-celebrar-missa-santo-sepulcro-2169563"
         }
     ],
     "finance": [],
-    "last_update": "29/03/2026 21:22"
+    "last_update": "29/03/2026 22:22"
 }
