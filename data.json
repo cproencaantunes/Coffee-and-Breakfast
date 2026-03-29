@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 15.6,
-        "manha": 16.2,
-        "tarde": 22.2,
-        "noite": 17.0
+        "atual": 17.5,
+        "manha": 12.6,
+        "tarde": 19.7,
+        "noite": 15.2
     },
     "forecast": {
-        "max": 20.2,
-        "min": 12.5
+        "max": 20.5,
+        "min": 11.1
     },
     "news": [
         {
-            "title": "Inês de Medeiros encabeça lista de Carneiro à comissão nacional. Concorrente recusada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/politica/noticia/ines-medeiros-encabeca-lista-carneiro-comissao-nacional-concorrente-recusada-2169508"
+            "title": "Comer bem na escola não é luxo, é política pública",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/opiniao/opiniao/comer-bem-escola-nao-luxo-politica-publica-2169233"
         },
         {
-            "title": "As gaivotas estão a ficar mais agressivas?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/azul/noticia/gaivotas-estao-ficar-agressivas-2163369"
+            "title": "Os Trumps da paróquia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/opiniao/opiniao/trumps-paroquia-2169088"
         },
         {
-            "title": "Exame de Matemática do 12.º ano incluirá matérias que alunos não deram, mas ministério esclarece que são opcionais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/sociedade/noticia/exame-matematica-12-ano-incluira-materias-alunos-nao-deram-ministerio-esclarece-sao-opcionais-2169344"
+            "title": "O Irão e a velha utilidade do terrorismo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/opiniao/opiniao/irao-velha-utilidade-terrorismo-2169346"
         },
         {
-            "title": "Mergulhador de 42 anos morre junto ao Cabo Espichel em Sesimbra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/sociedade/noticia/mergulhador-42-anos-morre-junto-cabo-espichel-sesimbra-2169510"
+            "title": "A guerra contra o Irão: da agressão às frágeis perspetivas de paz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/opiniao/opiniao/guerra-irao-agressao-frageis-perspetivas-paz-2169394"
         },
         {
-            "title": "Dar um salto a Espanha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/28/opiniao/editorial/dar-salto-espanha-2169486"
+            "title": "Como sempre se disse, a solução é um concurso centralizado de professores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/opiniao/opiniao/solucao-concurso-centralizado-professores-2169329"
         }
     ],
     "finance": [],
-    "last_update": "28/03/2026 23:20"
+    "last_update": "29/03/2026 01:21"
 }
