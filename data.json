@@ -2,35 +2,35 @@
     "weather": {
         "atual": 17.5,
         "manha": 12.5,
-        "tarde": 19.7,
+        "tarde": 19.8,
         "noite": 15.2
     },
     "forecast": {
-        "max": 20.7,
-        "min": 11.4
+        "max": 20.8,
+        "min": 11.0
     },
     "news": [
         {
-            "title": "Israelitas impedem Patriarca católico de celebrar a missa de Domingo de Ramos na Cidade Santa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/mundo/noticia/israelitas-impedem-patriarca-catolico-celebrar-missa-domingo-ramos-cidade-santa-2169547"
+            "title": "Clavicular, o influenciador <em>looksmaxxer</em>, foi detido por acusações de agressão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/p3/noticia/clavicular-influenciador-looksmaxxer-detido-acusacoes-agressao-2169553"
         },
         {
-            "title": "Miguel Oliveira faz o pleno dos terceiros lugares em Portimão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/desporto/noticia/miguel-oliveira-faz-pleno-terceiros-lugares-portimao-2169549"
+            "title": "Sporting quer reunião com o Governo face a acções “repugnantes” do FC Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/desporto/noticia/sporting-quer-reuniao-governo-face-accoes-repugnantes-fc-porto-2169551"
         },
         {
-            "title": "Arqueólogos criam mapa onde registam o património do Irão danificado pela guerra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/culturaipsilon/noticia/arqueologos-criam-mapa-onde-registam-patrimonio-irao-danificado-guerra-2169542"
+            "title": "O PS e como manter o pé para ganhar o chão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/politica/analise/ps-manter-pe-ganhar-chao-2169539"
         },
         {
-            "title": "Andreza abraçou estratégia municipal para reabilitar ilhas. Agora diz-se “abandonada”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/local/noticia/andreza-abracou-estrategia-municipal-reabilitar-ilhas-dizse-abandonada-2169396"
+            "title": "Evangelização do secretário da guerra: a fé que abala a coesão militar dos Estados Unidos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/mundo/noticia/evangelizacao-secretario-guerra-fe-abala-coesao-militar-estados-unidos-2169530"
         },
         {
-            "title": "O que disse o México-Portugal sobre a selecção nacional",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/desporto/noticia/mexicoportugal-seleccao-nacional-2169544"
+            "title": "Ao atrasar processos de cidadania, o IRN se torna a nova AIMA, dizem imigrantes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/publico-brasil/noticia/atrasar-processos-cidadania-irn-torna-nova-aima-imigrantes-2169543"
         }
     ],
     "finance": [],
-    "last_update": "29/03/2026 15:21"
+    "last_update": "29/03/2026 16:22"
 }
