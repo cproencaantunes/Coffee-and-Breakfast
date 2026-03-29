@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 17.5,
-        "manha": 12.7,
-        "tarde": 19.7,
-        "noite": 15.5
+        "manha": 12.6,
+        "tarde": 19.5,
+        "noite": 15.3
     },
     "forecast": {
         "max": 20.8,
-        "min": 11.3
+        "min": 11.4
     },
     "news": [
         {
-            "title": "Reitora: o género que a universidade demorou séculos a reconhecer",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/sociedade/noticia/reitora-genero-universidade-demorou-seculos-reconhecer-2169357"
+            "title": "Projecto português cria plataforma para treinar velejadores de elite",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/desporto/noticia/projecto-portugues-cria-plataforma-treinar-velejadores-elite-2169483"
         },
         {
-            "title": "Rosita Mabuiango (2000-2026), entre o milagre e a tragédia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/mundo/cronica/rosita-mabuiango-20002026-milagre-tragedia-2168887"
+            "title": "Paquistão recebe Turquia, Egipto e Arábia Saudita para conversas de paz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/mundo/noticia/paquistao-recebe-turquia-egipto-arabia-saudita-conversas-paz-2169521"
         },
         {
-            "title": "<em>Ha muerto Noelia</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/impar/cronica/ha-muerto-noelia-2169335"
+            "title": "Fases iniciais de um <em>tsunami</em> observadas por satélite",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/ciencia/noticia/fases-iniciais-tsunami-observadas-satelite-2169513"
         },
         {
-            "title": "Quando a identidade exige prova",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/p3/cronica/identidade-exige-prova-2169106"
+            "title": "Homem morre após cair das bancadas do estádio antes do México-Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/desporto/noticia/homem-morre-apos-cair-bancadas-estadio-mexicoportugal-2169520"
         },
         {
-            "title": "Ternura <em>vs</em> <em>Fúria Épica</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/opiniao/opiniao/ternura-vs-furia-epica-2169420"
+            "title": "Camilo, a saúde e as moléstias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/29/culturaipsilon/noticia/camilo-saude-molestias-2169003"
         }
     ],
     "finance": [],
-    "last_update": "29/03/2026 06:06"
+    "last_update": "29/03/2026 07:45"
 }
