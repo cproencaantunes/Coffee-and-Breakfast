@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 14.9,
-        "manha": 11.3,
-        "tarde": 18.6,
-        "noite": 16.1
+        "manha": 11.8,
+        "tarde": 19.2,
+        "noite": 16.4
     },
     "forecast": {
-        "max": 23.8,
-        "min": 15.0
+        "max": 23.6,
+        "min": 15.1
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/opiniao/opiniao/cartas-director-2169545"
+        },
         {
             "title": "Portugal continua a falhar no mercado único",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/opiniao/opiniao/portugal-continua-falhar-mercado-unico-2169558"
@@ -25,12 +29,8 @@
         {
             "title": "Como uma cidade envolvente de um rio se pode preparar para a próxima grande cheia?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/opiniao/opiniao/cidade-envolvente-rio-preparar-proxima-cheia-2169408"
-        },
-        {
-            "title": "Risco sistémico, segurança tecnológica e coesão territorial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/opiniao/opiniao/risco-sistemico-seguranca-tecnologica-coesao-territorial-2169403"
         }
     ],
     "finance": [],
-    "last_update": "30/03/2026 01:22"
+    "last_update": "30/03/2026 04:36"
 }
