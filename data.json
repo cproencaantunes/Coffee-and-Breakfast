@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.9,
-        "manha": 11.3,
-        "tarde": 19.0,
-        "noite": 16.9
+        "atual": 15.8,
+        "manha": 15.4,
+        "tarde": 23.8,
+        "noite": 18.9
     },
     "forecast": {
-        "max": 24.0,
-        "min": 15.2
+        "max": 23.4,
+        "min": 15.0
     },
     "news": [
         {
-            "title": "Meta e YouTube perdem em tribunal. Mas o scroll vai continuar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/newsletter/quatrozero"
+            "title": "Cinquenta anos da Constituição do 25 de Abril",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/opiniao/opiniao/cinquenta-anos-constituicao-25-abril-2169698"
         },
         {
-            "title": "Ministro suspende os quatro militares da GNR acusados pelo MP de sequestro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/sociedade/noticia/ministro-suspende-quatro-militares-gnr-acusados-mp-sequestro-2169708"
+            "title": "Trump terá o seu Iraque e Netanyahu o “Grande Israel”?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/opiniao/opiniao/trump-tera-iraque-netanyahu-israel-2169686"
         },
         {
-            "title": "A descentralização de competências deu mais autonomia às escolas? Nem sempre",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/sociedade/noticia/descentralizacao-competencias-deu-autonomia-escolas-2169699"
+            "title": "Perguntar para uma amiga",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/opiniao/opiniao/perguntar-amiga-2169610"
         },
         {
-            "title": "Ex-gestora do Banco do Brasil em Lisboa vai comandar marketing da instituição",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/publico-brasil/noticia/exgestora-banco-brasil-lisboa-vai-comandar-marketing-instituicao-2169704"
+            "title": "Céline Dion regressa aos palcos no Outono com dez concertos em Paris",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/culturaipsilon/noticia/celine-dion-regressa-palcos-outono-dez-concertos-paris-2169709"
         },
         {
-            "title": "Governo concede tolerância de ponto na quinta-feira à tarde antes da Páscoa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/sociedade/noticia/governo-concede-tolerancia-ponto-quintafeira-tarde-pascoa-2169705"
+            "title": "As novas aprendizagens (nada) essenciais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/opiniao/opiniao/novas-aprendizagens-nada-essenciais-2169633"
         }
     ],
     "finance": [],
-    "last_update": "30/03/2026 22:24"
+    "last_update": "30/03/2026 23:26"
 }
