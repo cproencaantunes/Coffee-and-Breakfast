@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.9,
         "manha": 11.3,
-        "tarde": 18.6,
-        "noite": 16.3
+        "tarde": 19.3,
+        "noite": 16.7
     },
     "forecast": {
-        "max": 23.9,
-        "min": 14.9
+        "max": 24.0,
+        "min": 14.7
     },
     "news": [
         {
-            "title": "Infarmed ordena retirada do mercado de cosmético para rejuvenescimento da pele",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/sociedade/noticia/infarmed-ordena-retirada-mercado-cosmetico-rejuvenescimento-pele-2169612"
+            "title": "Crédito à habitação ao abrigo da garantia jovem “ameaça” meta macroprudencial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/economia/noticia/credito-habitacao-abrigo-garantia-jovem-ameaca-meta-macroprudencial-2169620"
         },
         {
-            "title": "Hogwarts reabre as portas numa nova “adaptação fiel” de Harry Potter, mas só no Natal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/culturaipsilon/noticia/hogwarts-reabre-portas-nova-adaptacao-fiel-harry-potter-so-natal-2169385"
+            "title": "Semana da Páscoa com subida das temperaturas em todo o território nacional",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/azul/noticia/semana-pascoa-subida-temperaturas-territorio-nacional-2169630"
         },
         {
-            "title": "Quanto vale o percurso profissional numa licenciatura? MECI quer deixar decisão na mão das universidades",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/sociedade/noticia/vale-percurso-profissional-licenciatura-meci-quer-deixar-decisao-mao-universidades-2169596"
+            "title": "Governo deve dar passos para reforçar financiamento dos municípios na Educação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/sociedade/noticia/governo-dar-passos-reforcar-financiamento-municipios-educacao-2169632"
         },
         {
-            "title": "Fenprof denuncia “níveis críticos” da falta de professores e agravamento no Porto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/sociedade/noticia/fenprof-denuncia-niveis-criticos-falta-professores-agravamento-porto-2169598"
+            "title": "Vídeo mostra director do FBI a dançar e foi divulgado depois do ataque informático ao seu <em>email</em>? Falso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/mundo/noticia/video-mostra-director-fbi-dancar-divulgado-ataque-informatico-email-falso-2169595"
         },
         {
-            "title": "Cássio Markowski – O dia em que as ninfas não apareceram para o jantar, Canto IX",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/edicoes-publico/noticia/cassio-markowski-dia-ninfas-nao-apareceram-jantar-canto-ix-2169433"
+            "title": "Incêndios: MAI prevê “ano complicado” e promete novidades sobre SIRESP “dentro de poucos dias”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/sociedade/noticia/incendios-mai-preve-ano-complicado-promete-novidades-siresp-dentro-dias-2169625"
         }
     ],
     "finance": [],
-    "last_update": "30/03/2026 11:46"
+    "last_update": "30/03/2026 12:53"
 }
