@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.9,
-        "manha": 11.8,
-        "tarde": 19.2,
-        "noite": 16.4
+        "manha": 11.3,
+        "tarde": 18.9,
+        "noite": 16.3
     },
     "forecast": {
         "max": 23.6,
-        "min": 15.1
+        "min": 15.0
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/opiniao/opiniao/cartas-director-2169545"
+            "title": "Que nunca nos falte o afeto e a palavra escrita",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/publico-brasil/opiniao/falte-afeto-palavra-escrita-2169573"
         },
         {
-            "title": "Portugal continua a falhar no mercado único",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/opiniao/opiniao/portugal-continua-falhar-mercado-unico-2169558"
+            "title": "Os jovens ainda se interessam por política",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/opiniao/editorial/jovens-interessam-politica-2169557"
         },
         {
-            "title": "A pandemia de resultados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/opiniao/opiniao/pandemia-resultados-2168455"
+            "title": "José Luís Carneiro foi ao congresso do PS e saiu de lá como entrou: vivo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/politica/noticia/jose-luis-carneiro-congresso-ps-saiu-entrou-vivo-2169566"
         },
         {
-            "title": "Nem regiões, nem distritos…",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/opiniao/opiniao/regioes-distritos-2168720"
+            "title": "Portugal lança hoje cinco satélites de uma só vez no espaço",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/ciencia/noticia/portugal-lanca-hoje-cinco-satelites-so-espaco-2169488"
         },
         {
-            "title": "Como uma cidade envolvente de um rio se pode preparar para a próxima grande cheia?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/opiniao/opiniao/cidade-envolvente-rio-preparar-proxima-cheia-2169408"
+            "title": "Fábrica de satélites nasce em Alverca",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/30/ciencia/noticia/fabrica-satelites-nasce-alverca-2169503"
         }
     ],
     "finance": [],
-    "last_update": "30/03/2026 04:36"
+    "last_update": "30/03/2026 06:23"
 }
