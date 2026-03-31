@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 15.8,
-        "manha": 15.4,
-        "tarde": 23.8,
-        "noite": 18.9
+        "atual": 15.7,
+        "manha": 15.3,
+        "tarde": 23.7,
+        "noite": 19.1
     },
     "forecast": {
         "max": 23.4,
         "min": 15.0
     },
     "news": [
+        {
+            "title": "A derrota das esperanças plausíveis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/opiniao/opiniao/derrota-esperancas-plausiveis-2169599"
+        },
         {
             "title": "Cinquenta anos da Constituição do 25 de Abril",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/opiniao/opiniao/cinquenta-anos-constituicao-25-abril-2169698"
@@ -25,12 +29,8 @@
         {
             "title": "Céline Dion regressa aos palcos no Outono com dez concertos em Paris",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/culturaipsilon/noticia/celine-dion-regressa-palcos-outono-dez-concertos-paris-2169709"
-        },
-        {
-            "title": "As novas aprendizagens (nada) essenciais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/opiniao/opiniao/novas-aprendizagens-nada-essenciais-2169633"
         }
     ],
     "finance": [],
-    "last_update": "30/03/2026 23:26"
+    "last_update": "31/03/2026 01:19"
 }
