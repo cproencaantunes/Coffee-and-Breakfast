@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 15.7,
-        "manha": 15.4,
-        "tarde": 24.5,
-        "noite": 20.1
+        "atual": 19.1,
+        "manha": 14.8,
+        "tarde": 22.0,
+        "noite": 16.6
     },
     "forecast": {
-        "max": 23.2,
-        "min": 14.4
+        "max": 21.8,
+        "min": 13.1
     },
     "news": [
         {
-            "title": "Ministra da Justiça garante que a prisão de Lisboa encerra até 2028",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/sociedade/noticia/ministra-justica-garante-prisao-lisboa-encerra-ate-2028-2169841"
+            "title": "O mal que vemos, o bem que se faz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/opiniao/opiniao/mal-vemos-bem-faz-2169733"
         },
         {
-            "title": "Itália mantém maldição dos <em>play-off</em> e falha terceiro Mundial consecutivo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/desporto/noticia/italia-mantem-maldicao-playoff-falha-terceiro-mundial-consecutivo-2169847"
+            "title": "Não!",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/opiniao/opiniao/nao-2169616"
         },
         {
-            "title": "Portugal vence Escócia e está mais perto do Europeu de sub-21",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/desporto/noticia/portugal-vence-escocia-perto-europeu-sub21-2169864"
+            "title": "O capacete não é só para os outros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/opiniao/opiniao/capacete-nao-so-2169766"
         },
         {
-            "title": "Natação: Benfica e Sporting batem recordes nacionais dos 4x100m estilos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/desporto/noticia/natacao-benfica-sporting-batem-recordes-nacionais-4x100m-estilos-2169863"
+            "title": "Os “comboios” de solidariedade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/opiniao/opiniao/comboios-solidariedade-2169627"
         },
         {
-            "title": "Conversas até à última, maioria confiante que haverá nova Lei da Nacionalidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/politica/noticia/conversas-ate-ultima-maioria-confiante-havera-nova-lei-nacionalidade-2169852"
+            "title": "O dia dos crédulos idiotas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/opiniao/cronica/dia-credulos-idiotas-2169759"
         }
     ],
     "finance": [],
-    "last_update": "31/03/2026 22:24"
+    "last_update": "31/03/2026 23:25"
 }
