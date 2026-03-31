@@ -3,13 +3,21 @@
         "atual": 15.7,
         "manha": 15.4,
         "tarde": 24.5,
-        "noite": 19.6
+        "noite": 20.1
     },
     "forecast": {
-        "max": 23.1,
-        "min": 14.7
+        "max": 23.2,
+        "min": 14.4
     },
     "news": [
+        {
+            "title": "Ministra da Justiça garante que a prisão de Lisboa encerra até 2028",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/sociedade/noticia/ministra-justica-garante-prisao-lisboa-encerra-ate-2028-2169841"
+        },
+        {
+            "title": "Itália mantém maldição dos <em>play-off</em> e falha terceiro Mundial consecutivo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/desporto/noticia/italia-mantem-maldicao-playoff-falha-terceiro-mundial-consecutivo-2169847"
+        },
         {
             "title": "Portugal vence Escócia e está mais perto do Europeu de sub-21",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/desporto/noticia/portugal-vence-escocia-perto-europeu-sub21-2169864"
@@ -21,16 +29,8 @@
         {
             "title": "Conversas até à última, maioria confiante que haverá nova Lei da Nacionalidade",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/politica/noticia/conversas-ate-ultima-maioria-confiante-havera-nova-lei-nacionalidade-2169852"
-        },
-        {
-            "title": "Taxas Euribor encarecem prestações da casa: depois da guerra, nada fica igual",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/economia/noticia/taxas-euribor-encarecem-prestacoes-casa-guerra-nada-fica-igual-2169822"
-        },
-        {
-            "title": "Concurso para 200 novos técnicos do INEM já só tem 68 e alguns ainda podem chumbar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/sociedade/noticia/concurso-200-novos-tecnicos-inem-ja-so-68-podem-chumbar-2169862"
         }
     ],
     "finance": [],
-    "last_update": "31/03/2026 21:28"
+    "last_update": "31/03/2026 22:24"
 }
