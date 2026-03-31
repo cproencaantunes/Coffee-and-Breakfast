@@ -2,8 +2,8 @@
     "weather": {
         "atual": 15.7,
         "manha": 15.4,
-        "tarde": 23.5,
-        "noite": 19.5
+        "tarde": 24.2,
+        "noite": 20.0
     },
     "forecast": {
         "max": 23.3,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Congressista dos EUA pede a Carlos III que se encontre em privado com as vítimas de Epstein",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/impar/noticia/congressista-eua-pede-carlos-iii-encontre-privado-vitimas-epstein-2169750"
+            "title": "Carlos Cabreiro é o novo director nacional da Polícia Judiciária",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/sociedade/noticia/carlos-cabreiro-novo-director-nacional-policia-judiciaria-2169773"
         },
         {
-            "title": "Portugal é o país da UE que mais privilegia as empresas nos subsídios ambientais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/azul/noticia/portugal-pais-ue-privilegia-empresas-subsidios-ambientais-2169665"
+            "title": "Criminalidade geral subiu 3,1% mas crimes violentos desceram 1,6%",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/sociedade/noticia/criminalidade-geral-subiu-31-crimes-violentos-desceram-16-2169771"
         },
         {
-            "title": "Como mediar o uso da Inteligência Artificial em contexto escolar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/impar/opiniao/mediar-uso-inteligencia-artificial-contexto-escolar-2169749"
+            "title": "Catarina Oliveira: já “me senti invisível ou então infantilizada” por estar numa cadeira de rodas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/impar/podcast/catarina-oliveira-ja-senti-invisivel-entao-infantilizada-estar-cadeira-rodas-2169731"
         },
         {
-            "title": "“Difamação desonesta”: Pentágono defende Hegseth e nega que este tenha investido em fundo de defesa antes da guerra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/mundo/noticia/difamacao-desonesta-pentagono-defende-hegseth-nega-investido-fundo-defesa-guerra-2169738"
+            "title": "Ministério Público investiga troca de mensagens com teor racista, sexista e misógino entre estudantes de Coimbra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/sociedade/noticia/ministerio-publico-investiga-troca-mensagens-teor-racista-sexista-misogino-estudantes-coimbra-2169741"
         },
         {
-            "title": "Compositor do tema icónico de <em>O Rei Leão</em> processa humorista por piada com a música",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/p3/noticia/compositor-tema-iconico-deo-rei-leao-processa-humorista-piada-musica-2169746"
+            "title": "ProTejo recorre da decisão da CE sobre gestão ibérica de caudais: “É inaceitável”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/azul/noticia/protejo-recorre-decisao-ce-gestao-iberica-caudais-inaceitavel-2169751"
         }
     ],
     "finance": [],
-    "last_update": "31/03/2026 11:40"
+    "last_update": "31/03/2026 12:52"
 }
