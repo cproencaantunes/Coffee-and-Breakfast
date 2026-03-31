@@ -2,7 +2,7 @@
     "weather": {
         "atual": 15.7,
         "manha": 15.4,
-        "tarde": 23.7,
+        "tarde": 23.5,
         "noite": 19.3
     },
     "forecast": {
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/opiniao/opiniao/cartas-director-2169664"
+            "title": "Com os combustíveis em máximos, vão os transportes aguentar a procura de quem largou o carro?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/local/noticia/combustiveis-maximos-vao-transportes-aguentar-procura-largou-carro-2169716"
         },
         {
-            "title": "A derrota das esperanças plausíveis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/opiniao/opiniao/derrota-esperancas-plausiveis-2169599"
+            "title": "Metade dos portugueses identifica-se com a Constituição, só 10% não se revêem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/politica/noticia/metade-portugueses-identificase-constituicao-so-10-nao-reveem-2168991"
         },
         {
-            "title": "Cinquenta anos da Constituição do 25 de Abril",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/opiniao/opiniao/cinquenta-anos-constituicao-25-abril-2169698"
+            "title": "Estudo: Habitação é o direito consagrado na Constituição que está menos garantido",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/politica/noticia/estudo-habitacao-direito-consagrado-constituicao-menos-garantido-2169064"
         },
         {
-            "title": "Trump terá o seu Iraque e Netanyahu o “Grande Israel”?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/opiniao/opiniao/trump-tera-iraque-netanyahu-israel-2169686"
+            "title": "Do pântano burocrático às licenciaturas à Relvas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/opiniao/opiniao/pantano-burocratico-licenciaturas-relvas-2169635"
         },
         {
-            "title": "Perguntar para uma amiga",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/opiniao/opiniao/perguntar-amiga-2169610"
+            "title": "A revisão confessional",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/opiniao/editorial/revisao-confessional-2169655"
         }
     ],
     "finance": [],
-    "last_update": "31/03/2026 04:27"
+    "last_update": "31/03/2026 06:10"
 }
