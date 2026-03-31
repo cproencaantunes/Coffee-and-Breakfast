@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 15.7,
-        "manha": 15.3,
+        "manha": 15.4,
         "tarde": 23.7,
-        "noite": 19.1
+        "noite": 19.3
     },
     "forecast": {
-        "max": 23.4,
-        "min": 15.0
+        "max": 23.2,
+        "min": 14.9
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/opiniao/opiniao/cartas-director-2169664"
+        },
         {
             "title": "A derrota das esperanças plausíveis",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/opiniao/opiniao/derrota-esperancas-plausiveis-2169599"
@@ -25,12 +29,8 @@
         {
             "title": "Perguntar para uma amiga",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/opiniao/opiniao/perguntar-amiga-2169610"
-        },
-        {
-            "title": "Céline Dion regressa aos palcos no Outono com dez concertos em Paris",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/03/31/culturaipsilon/noticia/celine-dion-regressa-palcos-outono-dez-concertos-paris-2169709"
         }
     ],
     "finance": [],
-    "last_update": "31/03/2026 01:19"
+    "last_update": "31/03/2026 04:27"
 }
