@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.6,
         "manha": 15.2,
-        "tarde": 22.5,
-        "noite": 17.3
+        "tarde": 23.1,
+        "noite": 16.9
     },
     "forecast": {
-        "max": 22.8,
-        "min": 12.6
+        "max": 22.6,
+        "min": 12.7
     },
     "news": [
         {
-            "title": "Trump diz que está a reconsiderar participação dos EUA na NATO",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/mundo/noticia/trump-reconsiderar-participacao-eua-nato-2169897"
+            "title": "Jornalista norte-americana raptada no Iraque",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/mundo/noticia/jornalista-norteamericana-raptada-iraque-2169908"
         },
         {
-            "title": "Por águas, ventos e marés: sete ideias para passear pelo Dia Nacional dos Moinhos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/fugas/noticia/aguas-ventos-mares-sete-ideias-passear-dia-nacional-moinhos-2169747"
+            "title": "Primeira hasta pública do Estado rende 21 milhões quase só com dois prédios em Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/local/noticia/primeira-hasta-publica-estado-rende-21-milhoes-quase-so-dois-predios-lisboa-2169911"
         },
         {
-            "title": "Helena Roseta entrou na Constituinte convicta de que uma democracia só se cumpre quando todos têm lugar para viver",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/video/helena-roseta-entrou-constituinte-convicta-democracia-so-cumpre-lugar-viver-20260401-115342"
+            "title": "Temps d’Images apresenta 14 obras a partir de Maio em vários espaços de Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/culturaipsilon/noticia/temps-dimages-apresenta-14-obras-partir-maio-varios-espacos-lisboa-2169898"
         },
         {
-            "title": "Pousa tuas mãos no violino da minha vida",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/p3/cronica/pousa-maos-violino-vida-2169903"
+            "title": "Há estrangeiros que conseguem obter a nacionalidade portuguesa numa hora? Não",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/video/ha-estrangeiros-conseguem-obter-nacionalidade-portuguesa-hora-nao-20260401-125953"
         },
         {
-            "title": "Banco de Portugal “extingue” consultores e nega “despedimento” ou “favorecimento” a Centeno",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/economia/noticia/banco-portugal-extingue-consultores-nega-despedimento-favorecimento-centeno-2169887"
+            "title": "Esta casa tradicional esconde uma revolução interior sob uma fachada discreta em Faro ",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/fotogaleria/casa-recortes-revela-revolucao-interior-fachada-discreta-415312"
         }
     ],
     "finance": [],
-    "last_update": "01/04/2026 11:43"
+    "last_update": "01/04/2026 12:54"
 }
