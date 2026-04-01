@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.6,
         "manha": 15.2,
-        "tarde": 23.1,
-        "noite": 16.9
+        "tarde": 22.7,
+        "noite": 17.0
     },
     "forecast": {
-        "max": 22.6,
-        "min": 12.7
+        "max": 21.6,
+        "min": 13.4
     },
     "news": [
         {
-            "title": "Câmara de Lisboa prevê apenas o abate de dois plátanos em Entrecampos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/local/noticia/camara-lisboa-preve-apenas-abate-dois-platanos-entrecampos-2169941"
+            "title": "Botão, Cernache e Nogueira do Cravo são elevadas a vila pelo Parlamento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/politica/noticia/botao-cernache-nogueira-cravo-sao-elevadas-vila-parlamento-2169926"
         },
         {
-            "title": "Portugal pede revisão de 516 milhões em obras do PRR",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/economia/noticia/portugal-pede-revisao-516-milhoes-obras-prr-2169916"
+            "title": "Villas-Boas visa Sporting: “Reunir com a ministra para falar de cones e toalhas é patético”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/desporto/noticia/villasboas-visa-sporting-reunir-ministra-falar-cones-toalhas-patetico-2169972"
         },
         {
-            "title": "RD Congo, adversário de Portugal: o regresso 52 anos depois e com nome diferente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/desporto/noticia/rd-congo-adversario-portugal-regresso-52-anos-nome-diferente-2169952"
+            "title": "Vítimas de abuso na Igreja obrigadas a renunciar a “qualquer reclamação futura” para receberem compensação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/sociedade/noticia/vitimas-abuso-igreja-obrigadas-renunciar-qualquer-reclamacao-futura-receberem-compensacao-2169973"
         },
         {
-            "title": "Lei da Nacionalidade: PSD e Chega fecharam acordo antes de debate no Parlamento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/politica/noticia/lei-nacionalidade-psd-chega-fecharam-acordo-debate-parlamento-2169947"
+            "title": "<em>E-mails</em> partilhados nas redes provam que Bill Gates e Epstein “planearam pandemias”? Falso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/mundo/noticia/emails-partilhados-redes-provam-bill-gates-epstein-planearam-pandemias-falso-2169915"
         },
         {
-            "title": "Novo BMW i3, o carro que anuncia uma autonomia recorde",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/video/novo-bmw-i3-carro-anuncia-autonomia-recorde-20260401-152121"
+            "title": "José Pedro Soares, o tipógrafo que quis levar o povo para a Constituinte",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/video/jose-pedro-soares-tipografo-quis-levar-povo-constituinte-20260401-121036"
         }
     ],
     "finance": [],
-    "last_update": "01/04/2026 16:00"
+    "last_update": "01/04/2026 17:41"
 }
