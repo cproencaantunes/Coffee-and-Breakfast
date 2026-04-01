@@ -1,9 +1,9 @@
 {
     "weather": {
-        "atual": 19.1,
-        "manha": 14.8,
+        "atual": 19.6,
+        "manha": 14.9,
         "tarde": 22.0,
-        "noite": 16.6
+        "noite": 17.1
     },
     "forecast": {
         "max": 21.8,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
+            "title": "Desta vez, nem tudo foi mau na selecção nacional",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/desporto/cronica_de_jogo/mau-seleccao-nacional-2169821"
+        },
+        {
+            "title": "Mundial2026: RD Congo fecha grupo de Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/desporto/noticia/mundial2026-rd-congo-fecha-grupo-portugal-2169866"
+        },
+        {
+            "title": "Médio Oriente: e depois da guerra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/opiniao/opiniao/medio-oriente-guerra-2169764"
+        },
+        {
             "title": "O mal que vemos, o bem que se faz",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/opiniao/opiniao/mal-vemos-bem-faz-2169733"
         },
         {
             "title": "Não!",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/opiniao/opiniao/nao-2169616"
-        },
-        {
-            "title": "O capacete não é só para os outros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/opiniao/opiniao/capacete-nao-so-2169766"
-        },
-        {
-            "title": "Os “comboios” de solidariedade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/opiniao/opiniao/comboios-solidariedade-2169627"
-        },
-        {
-            "title": "O dia dos crédulos idiotas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/opiniao/cronica/dia-credulos-idiotas-2169759"
         }
     ],
     "finance": [],
-    "last_update": "31/03/2026 23:25"
+    "last_update": "01/04/2026 01:26"
 }
