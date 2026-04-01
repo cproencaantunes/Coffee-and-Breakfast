@@ -6,31 +6,31 @@
         "noite": 17.4
     },
     "forecast": {
-        "max": 21.6,
-        "min": 13.2
+        "max": 21.3,
+        "min": 13.4
     },
     "news": [
+        {
+            "title": "Trump vai poder fugir da guerra do Irão e declarar vitória?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/mundo/noticia/trump-vai-fugir-guerra-irao-declarar-vitoria-2169980"
+        },
+        {
+            "title": "Governo reafirma compromisso com desporto seguro após receber Sporting e FC Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/desporto/noticia/governo-reafirma-compromisso-desporto-seguro-apos-receber-sporting-fc-porto-2170001"
+        },
         {
             "title": "Jornalista do PÚBLICO conquista prémio do IPDJ",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/desporto/noticia/jornalista-publico-conquista-premio-ipdj-2169999"
         },
         {
-            "title": "Hóquei em patins: Portugal entra a ganhar em Montreux na estreia de Reinaldo Ventura ",
+            "title": "Hóquei em patins: Portugal entra a ganhar em Montreux na estreia de Reinaldo Ventura",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/desporto/noticia/hoquei-patins-portugal-entra-ganhar-montreux-estreia-reinaldo-ventura-2170000"
         },
         {
             "title": "A TVI e os negacionistas da ida à Lua",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/newsletter/livre-estilo"
-        },
-        {
-            "title": "Mentalidade de “Messi” no Ministério da Educação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/p3/cronica/mentalidade-messi-ministerio-educacao-2169614"
-        },
-        {
-            "title": "“O Invisível vai explodir no Brasil”, diz o dono da vinícola Ervideira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/publico-brasil/noticia/invisivel-vai-explodir-brasil-dono-vinicola-ervideira-2169970"
         }
     ],
     "finance": [],
-    "last_update": "01/04/2026 21:32"
+    "last_update": "01/04/2026 22:26"
 }
