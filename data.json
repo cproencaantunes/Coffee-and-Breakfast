@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 19.6,
-        "manha": 15.2,
-        "tarde": 22.7,
-        "noite": 17.4
+        "atual": 16.4,
+        "manha": 14.2,
+        "tarde": 21.3,
+        "noite": 16.4
     },
     "forecast": {
-        "max": 21.3,
-        "min": 13.4
+        "max": 23.8,
+        "min": 12.6
     },
     "news": [
         {
-            "title": "Trump vai poder fugir da guerra do Irão e declarar vitória?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/mundo/noticia/trump-vai-fugir-guerra-irao-declarar-vitoria-2169980"
+            "title": "Montenegro, a hora da verdade dois anos depois",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/opiniao/opiniao/montenegro-hora-verdade-dois-anos-2169958"
         },
         {
-            "title": "Governo reafirma compromisso com desporto seguro após receber Sporting e FC Porto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/desporto/noticia/governo-reafirma-compromisso-desporto-seguro-apos-receber-sporting-fc-porto-2170001"
+            "title": "Autocarro e ônibus pararam num bar e nasceu um livro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/culturaipsilon/opiniao/autocarro-onibus-pararam-bar-nasceu-livro-2169797"
         },
         {
-            "title": "Jornalista do PÚBLICO conquista prémio do IPDJ",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/desporto/noticia/jornalista-publico-conquista-premio-ipdj-2169999"
+            "title": "Da Escravatura podes correr, mas não te podes esconder",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/opiniao/opiniao/escravatura-podes-correr-nao-podes-esconder-2169984"
         },
         {
-            "title": "Hóquei em patins: Portugal entra a ganhar em Montreux na estreia de Reinaldo Ventura",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/desporto/noticia/hoquei-patins-portugal-entra-ganhar-montreux-estreia-reinaldo-ventura-2170000"
+            "title": "Autismo, direitos humanos e caminho a seguir pelas políticas públicas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/opiniao/opiniao/autismo-direitos-humanos-caminho-seguir-politicas-publicas-2169801"
         },
         {
-            "title": "A TVI e os negacionistas da ida à Lua",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/01/newsletter/livre-estilo"
+            "title": "As ciências sociais e a guerra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/opiniao/opiniao/ciencias-sociais-guerra-2169824"
         }
     ],
     "finance": [],
-    "last_update": "01/04/2026 22:26"
+    "last_update": "01/04/2026 23:27"
 }
