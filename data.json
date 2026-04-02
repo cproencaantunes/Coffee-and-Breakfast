@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 16.4,
-        "manha": 14.2,
-        "tarde": 21.3,
-        "noite": 16.4
+        "manha": 14.5,
+        "tarde": 21.5,
+        "noite": 16.6
     },
     "forecast": {
         "max": 23.8,
         "min": 12.6
     },
     "news": [
+        {
+            "title": "Morreu <em>Jonathan</em>, o animal terrestre mais velho do mundo. Tinha (talvez) 193 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/p3/noticia/morreu-jonathan-animal-terrestre-velho-mundo-193-anos-2170006"
+        },
+        {
+            "title": "Sismo de magnitude 7,4 com alerta de <em>tsunami </em> na Indonésia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/mundo/noticia/sismo-78-alerta-tsunami-indonesia-2170007"
+        },
         {
             "title": "Montenegro, a hora da verdade dois anos depois",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/opiniao/opiniao/montenegro-hora-verdade-dois-anos-2169958"
@@ -21,16 +29,8 @@
         {
             "title": "Da Escravatura podes correr, mas não te podes esconder",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/opiniao/opiniao/escravatura-podes-correr-nao-podes-esconder-2169984"
-        },
-        {
-            "title": "Autismo, direitos humanos e caminho a seguir pelas políticas públicas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/opiniao/opiniao/autismo-direitos-humanos-caminho-seguir-politicas-publicas-2169801"
-        },
-        {
-            "title": "As ciências sociais e a guerra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/opiniao/opiniao/ciencias-sociais-guerra-2169824"
         }
     ],
     "finance": [],
-    "last_update": "01/04/2026 23:27"
+    "last_update": "02/04/2026 01:16"
 }
