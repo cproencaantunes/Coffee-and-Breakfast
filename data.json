@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 16.4,
-        "manha": 14.6,
-        "tarde": 22.3,
-        "noite": 17.0
+        "manha": 14.4,
+        "tarde": 22.5,
+        "noite": 16.4
     },
     "forecast": {
         "max": 23.9,
-        "min": 12.8
+        "min": 12.5
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/opiniao/opiniao/cartas-director-2169946"
+            "title": "A criminalidade violenta desceu, mas as violações não",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/sociedade/noticia/criminalidade-violenta-desceu-violacoes-nao-2169949"
         },
         {
-            "title": "Trump diz que ofensiva no Irão está “quase completa”, mas não anuncia fim da guerra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/mundo/noticia/trump-ofensiva-irao-quase-completa-nao-anuncia-fim-guerra-2170012"
+            "title": "Passado um ano, as tarifas de Trump apenas levaram os outros países para novos mercados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/economia/noticia/passado-ano-tarifas-trump-apenas-levaram-paises-novos-mercados-2169993"
         },
         {
-            "title": "Um Nobel da Paz para a gasolina a quatro dólares",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/newsletter/aquinaamerica"
+            "title": "Crimes graves descem nos distritos de três das maiores cidades e crescem no interior",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/sociedade/noticia/crimes-graves-descem-distritos-tres-maiores-cidades-crescem-interior-2169997"
         },
         {
-            "title": "Morreu <em>Jonathan</em>, o animal terrestre mais velho do mundo. Tinha (talvez) 193 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/p3/noticia/morreu-jonathan-animal-terrestre-velho-mundo-193-anos-2170006"
+            "title": "Base das Lajes: líder do Governo dos Açores pede revisão do acordo com “sentido de oportunidade”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/politica/entrevista/base-lajes-lider-governo-acores-pede-revisao-acordo-sentido-oportunidade-2169953"
         },
         {
-            "title": "Sismo de magnitude 7,4 com alerta de <em>tsunami </em> na Indonésia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/mundo/noticia/sismo-78-alerta-tsunami-indonesia-2170007"
+            "title": "O que fazer depois dos 50?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/opiniao/editorial/50-2169975"
         }
     ],
     "finance": [],
-    "last_update": "02/04/2026 04:19"
+    "last_update": "02/04/2026 06:05"
 }
