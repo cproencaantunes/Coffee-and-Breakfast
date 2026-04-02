@@ -6,31 +6,31 @@
         "noite": 15.9
     },
     "forecast": {
-        "max": 24.5,
+        "max": 24.6,
         "min": 12.7
     },
     "news": [
         {
-            "title": "Ana Botella, directora-adjunta do CAM, de partida para Santander",
+            "title": "A inaudita guerra entre José Saramago e Mário de Carvalho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/newsletter/diarios-republica"
+        },
+        {
+            "title": "Sem marcas ideológicas e consensual: o que pediu Seguro sobre a Lei da Nacionalidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/politica/noticia/marcas-ideologicas-consensual-pediu-seguro-lei-nacionalidade-2170033"
+        },
+        {
+            "title": "Stellantis chama à oficina 700.000 veículos. Em Portugal, há 16 mil carros abrangidos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/fugas/noticia/stellantis-chama-oficina-700000-veiculos-portugal-ha-16-mil-carros-abrangidos-2170144"
+        },
+        {
+            "title": "Hóquei: Portugal vence a França e está nas meias-finais em Montreux",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/desporto/noticia/hoquei-portugal-vence-franca-meiasfinais-montreux-2170149"
+        },
+        {
+            "title": "Ana Botella, directora adjunta do CAM, de partida para Santander",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/culturaipsilon/noticia/ana-botella-directoraadjunta-cam-partida-santander-2170146"
-        },
-        {
-            "title": "Andebol: Sporting aproxima-se dos quartos-de-final da Liga dos Campeões",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/desporto/noticia/andebol-sporting-aproximase-quartosdefinal-liga-campeoes-2170147"
-        },
-        {
-            "title": "Sala de baile de Trump na Casa Branca recebe “luz verde”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/mundo/noticia/sala-baile-trump-casa-branca-recebe-luz-verde-2170142"
-        },
-        {
-            "title": "O desporto português já deixou a pandemia para trás",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/desporto/noticia/desporto-portugues-ja-deixou-pandemia-tras-2170133"
-        },
-        {
-            "title": "As feridas da Palestina por Francesca Albanese e o clássico Lazarillo de Tormes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/culturaipsilon/noticia/feridas-palestina-francesca-albanese-classico-lazarillo-tormes-2169629"
         }
     ],
     "finance": [],
-    "last_update": "02/04/2026 21:27"
+    "last_update": "02/04/2026 22:22"
 }
