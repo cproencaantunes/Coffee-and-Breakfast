@@ -2,8 +2,8 @@
     "weather": {
         "atual": 16.4,
         "manha": 14.0,
-        "tarde": 22.3,
-        "noite": 16.4
+        "tarde": 22.4,
+        "noite": 15.8
     },
     "forecast": {
         "max": 24.0,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "A herança ambiental da Constituição de 1976",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/newsletter/azul"
+            "title": "Poeiras do Sara tingem o céu de Creta enquanto Grécia se debate com cheias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/fotogaleria/poeiras-sara-grecia-415324"
         },
         {
-            "title": "Ter um diário ajuda no tratamento de transtornos mentais, dizem especialistas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/impar/noticia/diario-ajuda-tratamento-transtornos-mentais-especialistas-2170034"
+            "title": "Sindicato dos Jornalistas condena providência cautelar a reportagem do canal Now",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/sociedade/noticia/sindicato-jornalistas-condena-providencia-cautelar-reportagem-canal-now-2170049"
         },
         {
-            "title": "Paquistão e Afeganistão reúnem-se na China para negociar cessar-fogo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/mundo/noticia/paquistao-afeganistao-reunemse-china-negociar-cessarfogo-2170045"
+            "title": "Entrega de nomes para órgãos externos do Parlamento novamente adiada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/politica/noticia/entrega-nomes-orgaos-externos-parlamento-novamente-adiada-2170050"
         },
         {
-            "title": "Os trabalhadores migrantes sustentam o Dubai. São eles que morrem nos ataques iranianos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/p3/reportagem/trabalhadores-migrantes-sustentam-dubai-sao-morrem-ataques-iranianos-2170041"
+            "title": "Descriminalização das terapias de conversão sexual pode chegar ao Parlamento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/sociedade/noticia/discriminalizacao-terapias-conversao-sexual-chegar-parlamento-2169940"
         },
         {
-            "title": "Oito países de maioria muçulmana condenam nova lei da pena de morte em Israel",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/mundo/noticia/oito-paises-maioria-muculmana-condenam-nova-lei-pena-morte-israel-2170040"
+            "title": "Ordem dos Médicos diz que não há condições para o arranque do curso de Medicina na UTAD este ano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/sociedade/noticia/ordem-medicos-nao-ha-condicoes-arranque-curso-medicina-utad-ano-2170047"
         }
     ],
     "finance": [],
-    "last_update": "02/04/2026 11:38"
+    "last_update": "02/04/2026 12:46"
 }
