@@ -2,35 +2,35 @@
     "weather": {
         "atual": 16.4,
         "manha": 14.0,
-        "tarde": 22.4,
-        "noite": 15.8
+        "tarde": 22.3,
+        "noite": 15.3
     },
     "forecast": {
-        "max": 24.0,
-        "min": 12.4
+        "max": 24.2,
+        "min": 13.1
     },
     "news": [
         {
-            "title": "Montenegro chamou equipa a São Bento para dizer que “o país e os portugueses estão melhor”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/politica/noticia/montenegro-chamou-equipa-sao-bento-dizer-pais-portugueses-estao-melhor-2170086"
+            "title": "IP corrige erros da modernização na linha do Minho. E como vai ser no Alentejo?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/economia/noticia/ip-corrige-erros-modernizacao-linha-minho-vai-alentejo-2170107"
         },
         {
-            "title": "Alicerces do futebol italiano começaram a abanar e o presidente da FIGC já caiu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/desporto/noticia/alicerces-futebol-italiano-comecaram-abanar-presidente-figc-ja-caiu-2170088"
+            "title": "Equivalência escolar de Brasil e Portugal está no Parlamento. Falta ensino superior",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/publico-brasil/noticia/equivalencia-escolar-brasil-portugal-parlamento-falta-ensino-superior-2170109"
         },
         {
-            "title": "Eurodeputada francesa detida em Paris por apologia do terrorismo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/mundo/noticia/eurodeputada-francesa-detida-paris-apologia-terrorismo-2170092"
+            "title": "John Travolta levanta voo em Maio no Festival de Cannes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/culturaipsilon/noticia/john-travolta-levanta-voo-maio-festival-cannes-2170073"
         },
         {
-            "title": "Hyundai Ioniq 6 N: <em>let me entertain you</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/enter/noticia/hyundai-ioniq-6-n-let-entertain-you-2169680"
+            "title": "BCE prevê que inflação acelere para 3,1% no segundo trimestre deste ano ",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/economia/noticia/bce-preve-inflacao-acelere-31-segundo-trimestre-ano-2170103"
         },
         {
-            "title": "“Caça às Garrafas” marca a Páscoa de vinícola brasileira em Cheleiros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/publico-brasil/noticia/caca-garrafas-marca-pascoa-vinicola-brasileira-cheleiros-2169929"
+            "title": "Portugal defronta Nigéria no último teste antes do Mundial 2026",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/desporto/noticia/portugal-defronta-nigeria-ultimo-teste-mundial-2026-2170111"
         }
     ],
     "finance": [],
-    "last_update": "02/04/2026 15:50"
+    "last_update": "02/04/2026 16:44"
 }
