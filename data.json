@@ -1,15 +1,27 @@
 {
     "weather": {
         "atual": 16.4,
-        "manha": 14.5,
-        "tarde": 21.5,
-        "noite": 16.6
+        "manha": 14.6,
+        "tarde": 22.3,
+        "noite": 17.0
     },
     "forecast": {
-        "max": 23.8,
-        "min": 12.6
+        "max": 23.9,
+        "min": 12.8
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/opiniao/opiniao/cartas-director-2169946"
+        },
+        {
+            "title": "Trump diz que ofensiva no Irão está “quase completa”, mas não anuncia fim da guerra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/mundo/noticia/trump-ofensiva-irao-quase-completa-nao-anuncia-fim-guerra-2170012"
+        },
+        {
+            "title": "Um Nobel da Paz para a gasolina a quatro dólares",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/newsletter/aquinaamerica"
+        },
         {
             "title": "Morreu <em>Jonathan</em>, o animal terrestre mais velho do mundo. Tinha (talvez) 193 anos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/p3/noticia/morreu-jonathan-animal-terrestre-velho-mundo-193-anos-2170006"
@@ -17,20 +29,8 @@
         {
             "title": "Sismo de magnitude 7,4 com alerta de <em>tsunami </em> na Indonésia",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/mundo/noticia/sismo-78-alerta-tsunami-indonesia-2170007"
-        },
-        {
-            "title": "Montenegro, a hora da verdade dois anos depois",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/opiniao/opiniao/montenegro-hora-verdade-dois-anos-2169958"
-        },
-        {
-            "title": "Autocarro e ônibus pararam num bar e nasceu um livro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/culturaipsilon/opiniao/autocarro-onibus-pararam-bar-nasceu-livro-2169797"
-        },
-        {
-            "title": "Da Escravatura podes correr, mas não te podes esconder",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/02/opiniao/opiniao/escravatura-podes-correr-nao-podes-esconder-2169984"
         }
     ],
     "finance": [],
-    "last_update": "02/04/2026 01:16"
+    "last_update": "02/04/2026 04:19"
 }
