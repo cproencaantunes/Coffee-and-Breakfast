@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 15.2,
-        "manha": 14.1,
+        "atual": 14.8,
+        "manha": 13.8,
         "tarde": 23.4,
-        "noite": 20.3
+        "noite": 20.2
     },
     "forecast": {
         "max": 23.5,
         "min": 15.1
     },
     "news": [
+        {
+            "title": "Querem saber a verdade?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/opiniao/opiniao/querem-saber-verdade-2170140"
+        },
         {
             "title": "O wokismo antiuniversalista da extrema-direita",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/opiniao/opiniao/wokismo-antiuniversalista-extremadireita-2169363"
@@ -25,12 +29,8 @@
         {
             "title": "Mulher morta a tiro em Albergaria-a-Velha",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/sociedade/noticia/mulher-morta-tiro-albergariaavelha-2170151"
-        },
-        {
-            "title": "Mais liberdade ou mais controlo? Uma primeira leitura sobre o novo regime dos graus e diplomas do ensino superior",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/opiniao/opiniao/liberdade-controlo-primeira-leitura-novo-regime-graus-diplomas-ensino-superior-2169918"
         }
     ],
     "finance": [],
-    "last_update": "02/04/2026 23:24"
+    "last_update": "03/04/2026 01:18"
 }
