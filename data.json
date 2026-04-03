@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.8,
-        "manha": 13.5,
-        "tarde": 23.4,
-        "noite": 20.2
+        "atual": 17.1,
+        "manha": 15.6,
+        "tarde": 24.9,
+        "noite": 19.6
     },
     "forecast": {
-        "max": 24.9,
-        "min": 15.0
+        "max": 26.2,
+        "min": 14.2
     },
     "news": [
         {
-            "title": "Sporting arriscou na gestão e por pouco não sofreu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/desporto/cronica_de_jogo/sporting-arriscou-gestao-nao-sofreu-2170210"
+            "title": "O paradoxo europeu: mais impacto, menos investimento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/opiniao/opiniao/paradoxo-europeu-impacto-menos-investimento-2169819"
         },
         {
-            "title": "Hóquei: Portugal vence Espanha e o Grupo B no torneio de Montreux",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/desporto/noticia/hoquei-portugal-vence-espanha-grupo-b-torneio-montreux-2170209"
+            "title": "Como acabar com o SNS em nove passos: dicas para uma governação efetiva",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/opiniao/opiniao/acabar-sns-nove-passos-dicas-governacao-efetiva-2169424"
         },
         {
-            "title": "A <em>Guernica</em> de Picasso volta a ser objecto de disputa entre o País Basco e Madrid",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/culturaipsilon/noticia/guernica-picasso-volta-objecto-disputa-pais-basco-madrid-2170190"
+            "title": "Melhor turismo. Melhor turismo. Melhor turismo está a acontecer…",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/opiniao/opiniao/melhor-turismo-melhor-turismo-melhor-turismo-acontecer-2170059"
         },
         {
-            "title": "As primeiras imagens da missão Ártemis II: a Terra vista do espaço",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/ciencia/noticia/primeiras-imagens-missao-artemis-ii-nada-prepara-espectaculo-planeta-2170206"
+            "title": "Cultura, língua portuguesa e diplomacia: o trabalho do Instituto Guimarães Rosa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/opiniao/opiniao/cultura-lingua-portuguesa-diplomacia-trabalho-instituto-guimaraes-rosa-2169068"
         },
         {
-            "title": "Entre o Líbano e o Irão, Síria e Iraque podem ver-se arrastados para a guerra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/mundo/noticia/libano-irao-siria-iraque-podem-verse-arrastados-guerra-2170114"
+            "title": "O espírito dos calções",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/opiniao/cronica/espirito-calcoes-2170170"
         }
     ],
     "finance": [],
-    "last_update": "03/04/2026 22:22"
+    "last_update": "03/04/2026 23:24"
 }
