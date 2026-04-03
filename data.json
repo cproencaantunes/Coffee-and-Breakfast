@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.8,
-        "manha": 13.7,
+        "manha": 13.5,
         "tarde": 23.1,
-        "noite": 19.7
+        "noite": 19.6
     },
     "forecast": {
-        "max": 23.8,
-        "min": 14.8
+        "max": 23.4,
+        "min": 14.7
     },
     "news": [
         {
-            "title": "Do ópio à cocaína",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/culturaipsilon/cronica/opio-cocaina-2169644"
+            "title": "Passar mais tempo ao ar livre melhora os hábitos alimentares",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/impar/noticia/passar-tempo-ar-livre-melhora-habitos-alimentares-2170095"
         },
         {
-            "title": "A casa em madeira que aprendeu a gramática das Serras do Porto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/fotogaleria/casa-madeira-aprendeu-gramatica-serras-porto-415323"
+            "title": "As mãos e a matéria: Anna Maria Maiolino no MAAT. Somos todos tribais, diz-nos Michael Morris",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/newsletter/ipsilon"
         },
         {
-            "title": "Nobel da Economia avisa para risco de “colapso do conhecimento” por causa da IA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/enter/noticia/nobel-economia-avisa-risco-colapso-conhecimento-causa-ia-2170122"
+            "title": "Guerra no Irão acelera subida do índice mundial de preços alimentares",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/economia/noticia/guerra-irao-acelera-subida-indice-mundial-precos-alimentares-2170164"
         },
         {
-            "title": "“Está estranho lá fora. Vamos dançar juntos.” Os Unsafe Space Garden agarram-se à vida",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/culturaipsilon/noticia/estranho-vamos-dancar-juntos-unsafe-space-garden-agarramse-vida-2169834"
+            "title": "Viagem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/culturaipsilon/opiniao/viagem-2169356"
         },
         {
-            "title": "As alterações climáticas estão a alterar as poeiras do Sara – e a Europa está na rota dos ventos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/azul/noticia/alteracoes-climaticas-estao-alterar-poeiras-sara-europa-rota-ventos-2170042"
+            "title": "Pelas curvas da Albânia em Škoda, sempre 4x4",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/fugas/noticia/curvas-albania-skoda-4x4-2167702"
         }
     ],
     "finance": [],
-    "last_update": "03/04/2026 09:43"
+    "last_update": "03/04/2026 10:33"
 }
