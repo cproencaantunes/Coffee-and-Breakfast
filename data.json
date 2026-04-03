@@ -3,13 +3,17 @@
         "atual": 14.8,
         "manha": 13.5,
         "tarde": 23.4,
-        "noite": 19.9
+        "noite": 20.2
     },
     "forecast": {
-        "max": 24.7,
-        "min": 14.9
+        "max": 24.9,
+        "min": 15.0
     },
     "news": [
+        {
+            "title": "Sporting arriscou na gestão e por pouco não sofreu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/desporto/cronica_de_jogo/sporting-arriscou-gestao-nao-sofreu-2170210"
+        },
         {
             "title": "Hóquei: Portugal vence Espanha e o Grupo B no torneio de Montreux",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/desporto/noticia/hoquei-portugal-vence-espanha-grupo-b-torneio-montreux-2170209"
@@ -25,12 +29,8 @@
         {
             "title": "Entre o Líbano e o Irão, Síria e Iraque podem ver-se arrastados para a guerra",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/mundo/noticia/libano-irao-siria-iraque-podem-verse-arrastados-guerra-2170114"
-        },
-        {
-            "title": "O regresso da Liga, com as decisões à vista",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/newsletter/aquecimento"
         }
     ],
     "finance": [],
-    "last_update": "03/04/2026 21:23"
+    "last_update": "03/04/2026 22:22"
 }
