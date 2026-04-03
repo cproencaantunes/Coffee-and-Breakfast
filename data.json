@@ -3,13 +3,25 @@
         "atual": 14.8,
         "manha": 13.5,
         "tarde": 23.4,
-        "noite": 20.0
+        "noite": 19.9
     },
     "forecast": {
-        "max": 24.1,
+        "max": 24.7,
         "min": 14.9
     },
     "news": [
+        {
+            "title": "Cerca de uma centena de operacionais combatem incêndio em Vale de Cambra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/sociedade/noticia/cerca-centena-operacionais-combatem-incendio-vale-cambra-2170200"
+        },
+        {
+            "title": "Casa Branca pede maior orçamento para a Defesa de sempre: 1,5 biliões de dólares",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/mundo/noticia/casa-branca-pede-maior-orcamento-defesa-15-bilioes-dolares-2170198"
+        },
+        {
+            "title": "O que fazer neste fim-de-semana? Celebrar a Páscoa com folar e vistas largas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/fugas/noticia/neste-fimdesemana-celebrar-pascoa-folar-vistas-largas-2170117"
+        },
         {
             "title": "“O extremismo violento tende a ser cada vez mais motivado por questões pessoais”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/sociedade/entrevista/extremismo-violento-tende-motivado-questoes-pessoais-2170178"
@@ -17,20 +29,8 @@
         {
             "title": "Os carros 100% eléctricos são a solução para a subida de preços dos combustíveis?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/video/carros-100-electricos-sao-solucao-subida-precos-combustiveis-20260403-163733"
-        },
-        {
-            "title": "Número de brasileiros barrados nos aeroportos de Portugal cai à metade em 2025",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/publico-brasil/noticia/numero-brasileiros-barrados-aeroportos-portugal-cai-metade-2025-2170185"
-        },
-        {
-            "title": "A beleza de matar fascistas e a lampreia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/fugas/cronica/beleza-matar-fascistas-lampreia-2169723"
-        },
-        {
-            "title": "Como é que se aprende nas prisões?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/infografia/aprende-prisoes-892"
         }
     ],
     "finance": [],
-    "last_update": "03/04/2026 17:25"
+    "last_update": "03/04/2026 18:33"
 }
