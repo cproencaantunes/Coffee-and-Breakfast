@@ -2,14 +2,22 @@
     "weather": {
         "atual": 14.8,
         "manha": 13.5,
-        "tarde": 23.1,
-        "noite": 19.6
+        "tarde": 23.6,
+        "noite": 19.9
     },
     "forecast": {
-        "max": 23.4,
-        "min": 14.7
+        "max": 23.7,
+        "min": 14.8
     },
     "news": [
+        {
+            "title": "No Porto, a Feitoria Inglesa abre-se a visitas pela primeira vez",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/fugas/noticia/porto-feitoria-inglesa-abrese-visitas-primeira-2169307"
+        },
+        {
+            "title": "O recomeço aos 52 anos: a professora paulista que se tornou empresária em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/publico-brasil/noticia/recomeco-52-anos-professora-paulista-tornou-empresaria-portugal-2170163"
+        },
         {
             "title": "Jóias das Galerias Uffizi transferidas para o Banco de Itália após ciberataque",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/culturaipsilon/noticia/joias-galerias-uffizi-transferidas-banco-italia-apos-ciberataque-2170167"
@@ -21,16 +29,8 @@
         {
             "title": "Governo de Cuba anuncia libertação de dois mil presos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/mundo/noticia/governo-cuba-anuncia-libertacao-dois-mil-presos-2170168"
-        },
-        {
-            "title": "A indiferença: modo de usar — um inventário anti-sentimental por Georges Perec",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/culturaipsilon/critica/indiferenca-modo-usar-inventario-antisentimental-georges-perec-2167834"
-        },
-        {
-            "title": "Termina regime europeu para detectar abuso sexual de crianças online",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/sociedade/noticia/termina-regime-europeu-detectar-abuso-sexual-criancas-online-2170166"
         }
     ],
     "finance": [],
-    "last_update": "03/04/2026 11:30"
+    "last_update": "03/04/2026 12:38"
 }
