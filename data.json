@@ -2,14 +2,18 @@
     "weather": {
         "atual": 14.8,
         "manha": 13.8,
-        "tarde": 23.4,
-        "noite": 20.2
+        "tarde": 23.5,
+        "noite": 20.3
     },
     "forecast": {
-        "max": 23.5,
+        "max": 23.8,
         "min": 15.1
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/opiniao/opiniao/cartas-director-2170089"
+        },
         {
             "title": "Querem saber a verdade?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/opiniao/opiniao/querem-saber-verdade-2170140"
@@ -25,12 +29,8 @@
         {
             "title": "Uma democracia pós-partidária",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/opiniao/opiniao/democracia-pospartidaria-2169802"
-        },
-        {
-            "title": "Mulher morta a tiro em Albergaria-a-Velha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/03/sociedade/noticia/mulher-morta-tiro-albergariaavelha-2170151"
         }
     ],
     "finance": [],
-    "last_update": "03/04/2026 01:18"
+    "last_update": "03/04/2026 04:20"
 }
