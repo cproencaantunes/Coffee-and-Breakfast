@@ -2,14 +2,18 @@
     "weather": {
         "atual": 16.9,
         "manha": 16.0,
-        "tarde": 25.4,
+        "tarde": 25.0,
         "noite": 19.9
     },
     "forecast": {
-        "max": 25.5,
-        "min": 14.0
+        "max": 26.2,
+        "min": 14.4
     },
     "news": [
+        {
+            "title": "Quatro urgências hospitalares estão fechadas este sábado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/sociedade/noticia/quatro-urgencias-hospitalares-estao-fechadas-sabado-2170234"
+        },
         {
             "title": "ASAE desmantela dois matadouros ilegais e apreende mais de duas toneladas de carne",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/sociedade/noticia/asae-desmantela-dois-matadouros-ilegais-apreende-duas-toneladas-carne-2170233"
@@ -25,12 +29,8 @@
         {
             "title": "Borrego australiano chega à mesa dos portugueses",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/economia/noticia/borrego-australiano-chega-mesa-portugueses-2170055"
-        },
-        {
-            "title": "Francisca Veselko estreia-se com vitória no circuito mundial de surf",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/desporto/noticia/francisca-veselko-estreiase-vitoria-circuito-mundial-surf-2170230"
         }
     ],
     "finance": [],
-    "last_update": "04/04/2026 15:21"
+    "last_update": "04/04/2026 16:22"
 }
