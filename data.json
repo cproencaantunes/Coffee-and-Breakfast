@@ -3,13 +3,21 @@
         "atual": 16.9,
         "manha": 16.0,
         "tarde": 25.0,
-        "noite": 19.8
+        "noite": 20.3
     },
     "forecast": {
-        "max": 26.2,
-        "min": 14.4
+        "max": 26.3,
+        "min": 14.9
     },
     "news": [
+        {
+            "title": "Um morto e um ferido grave após ambos caírem de varanda em Viana do Castelo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/sociedade/noticia/morto-ferido-grave-apos-ambos-cairem-varanda-viana-castelo-2170246"
+        },
+        {
+            "title": "FC Porto escorrega em noite de alta tensão na luta pelo título",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/desporto/cronica_de_jogo/fc-porto-escorrega-noite-alta-tensao-luta-titulo-2170244"
+        },
         {
             "title": "Irão poderá usar aviador norte-americano desaparecido como propaganda — ou pressão",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/mundo/noticia/irao-podera-usar-aviador-norteamericano-desaparecido-propaganda-pressao-2170240"
@@ -21,16 +29,8 @@
         {
             "title": "A “descida à Terra” de Francisco Rodrigues dos Santos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/politica/perfil/descida-terra-francisco-rodrigues-santos-2170214"
-        },
-        {
-            "title": "Ordem diz que concurso para vincular psicólogos nas escolas é insuficiente para integrar os 900 que estão a contrato",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/sociedade/noticia/ordem-concurso-vincular-psicologos-escolas-insuficiente-integrar-900-estao-contrato-2170239"
-        },
-        {
-            "title": "Verões, mercados e clubes passam, Tapsoba fica",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/desporto/noticia/veroes-mercados-clubes-passam-tapsoba-fica-2170238"
         }
     ],
     "finance": [],
-    "last_update": "04/04/2026 21:21"
+    "last_update": "04/04/2026 22:18"
 }
