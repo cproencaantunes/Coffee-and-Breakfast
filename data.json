@@ -1,15 +1,23 @@
 {
     "weather": {
-        "atual": 17.1,
+        "atual": 16.9,
         "manha": 15.6,
-        "tarde": 24.9,
-        "noite": 19.6
+        "tarde": 25.0,
+        "noite": 19.9
     },
     "forecast": {
         "max": 26.2,
         "min": 14.2
     },
     "news": [
+        {
+            "title": "Que faremos com José Saramago?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/opiniao/opiniao/faremos-jose-saramago-2170057"
+        },
+        {
+            "title": "Prova dos Nove",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/opiniao/opiniao/prova-nove-2170071"
+        },
         {
             "title": "O paradoxo europeu: mais impacto, menos investimento",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/opiniao/opiniao/paradoxo-europeu-impacto-menos-investimento-2169819"
@@ -21,16 +29,8 @@
         {
             "title": "Melhor turismo. Melhor turismo. Melhor turismo está a acontecer…",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/opiniao/opiniao/melhor-turismo-melhor-turismo-melhor-turismo-acontecer-2170059"
-        },
-        {
-            "title": "Cultura, língua portuguesa e diplomacia: o trabalho do Instituto Guimarães Rosa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/opiniao/opiniao/cultura-lingua-portuguesa-diplomacia-trabalho-instituto-guimaraes-rosa-2169068"
-        },
-        {
-            "title": "O espírito dos calções",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/opiniao/cronica/espirito-calcoes-2170170"
         }
     ],
     "finance": [],
-    "last_update": "03/04/2026 23:24"
+    "last_update": "04/04/2026 01:13"
 }
