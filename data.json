@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 16.9,
-        "manha": 15.8,
-        "tarde": 25.0,
-        "noite": 19.7
+        "manha": 16.0,
+        "tarde": 25.2,
+        "noite": 20.0
     },
     "forecast": {
         "max": 25.6,
-        "min": 14.6
+        "min": 14.1
     },
     "news": [
+        {
+            "title": "“Espanha tem a aprender com Portugal” na rede de carregamento de veículos eléctricos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/enter/podcast/espanha-aprender-portugal-rede-carregamento-veiculos-electricos-2169579"
+        },
+        {
+            "title": "O Mundial da exaustão proíbe a exaustão (e Martínez terá de usar os suplentes)",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/desporto/opiniao/mundial-exaustao-proibe-exaustao-martinez-tera-usar-suplentes-2170188"
+        },
         {
             "title": "Seis dicas para controlar os sintomas das alergias durante toda a estação",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/azul/noticia/seis-dicas-controlar-sintomas-alergias-durante-estacao-2170105"
@@ -21,16 +29,8 @@
         {
             "title": "O futuro é brilhante",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/p3/cronica/futuro-brilhante-2169621"
-        },
-        {
-            "title": "Paisagem Com Gente Dentro anda a tirar uma “fotografia gigante” a Oliveira de Frades",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/local/reportagem/paisagem-gente-dentro-anda-tirar-fotografia-gigante-oliveira-frades-2168617"
-        },
-        {
-            "title": "Incêndio florestal em Vale de Cambra em fase de rescaldo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/sociedade/noticia/incendio-florestal-vale-cambra-fase-rescaldo-2170215"
         }
     ],
     "finance": [],
-    "last_update": "04/04/2026 09:28"
+    "last_update": "04/04/2026 10:23"
 }
