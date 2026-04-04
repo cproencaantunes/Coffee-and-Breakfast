@@ -3,7 +3,7 @@
         "atual": 16.9,
         "manha": 16.0,
         "tarde": 25.0,
-        "noite": 19.9
+        "noite": 19.8
     },
     "forecast": {
         "max": 26.2,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Rua Morais Soares, em Lisboa, cortada ao trânsito devido a incêndio em prédio",
+            "title": "Verões, mercados e clubes passam, Tapsoba fica",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/desporto/noticia/veroes-mercados-clubes-passam-tapsoba-fica-2170238"
+        },
+        {
+            "title": "Amanhã, em Jerusalém, enforcamos Cristo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/opiniao/opiniao/amanha-jerusalem-enforcamos-cristo-2170241"
+        },
+        {
+            "title": "Elmo de ouro da Roménia foi recuperado depois de acordo com assaltantes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/culturaipsilon/noticia/elmo-ouro-romenia-recuperado-acordo-assaltantes-2170237"
+        },
+        {
+            "title": "Afinal, as leis contra os ciganos começaram em 1509, com D. Manuel I",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/sociedade/noticia/afinal-leis-ciganos-comecaram-1509-d-manuel-i-2169509"
+        },
+        {
+            "title": "Rua Morais Soares, em Lisboa, reaberta ao trânsito depois de incêndio num restaurante",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/local/noticia/rua-morais-soares-lisboa-cortada-transito-devido-incendio-predio-2170236"
-        },
-        {
-            "title": "Afinal, quando vamos eliminar os subsídios aos combustíveis fósseis?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/azul/perguntaserespostas/afinal-vamos-eliminar-subsidios-combustiveis-fosseis-2169785"
-        },
-        {
-            "title": "Por cá Saramago pode vir a ser leitura opcional, noutros países os currículos são ainda mais livres",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/culturaipsilon/noticia/ca-saramago-leitura-opcional-noutros-paises-curriculos-sao-livres-2170143"
-        },
-        {
-            "title": "CPLP investe na educação financeira de imigrantes que vivem em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/publico-brasil/noticia/cplp-investe-educacao-financeira-imigrantes-vivem-portugal-2170226"
-        },
-        {
-            "title": "Quatro urgências hospitalares estão fechadas este sábado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/sociedade/noticia/quatro-urgencias-hospitalares-estao-fechadas-sabado-2170234"
         }
     ],
     "finance": [],
-    "last_update": "04/04/2026 17:21"
+    "last_update": "04/04/2026 18:26"
 }
