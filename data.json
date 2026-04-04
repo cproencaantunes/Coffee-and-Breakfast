@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 16.9,
-        "manha": 16.0,
-        "tarde": 25.0,
-        "noite": 20.3
+        "atual": 17.7,
+        "manha": 15.8,
+        "tarde": 24.8,
+        "noite": 21.2
     },
     "forecast": {
-        "max": 26.3,
-        "min": 14.9
+        "max": 22.2,
+        "min": 15.4
     },
     "news": [
         {
-            "title": "Um morto e um ferido grave após ambos caírem de varanda em Viana do Castelo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/sociedade/noticia/morto-ferido-grave-apos-ambos-cairem-varanda-viana-castelo-2170246"
+            "title": "A economia invisível da imigração: o lado de cá",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/opiniao/opiniao/economia-invisivel-imigracao-lado-ca-2168771"
         },
         {
-            "title": "FC Porto escorrega em noite de alta tensão na luta pelo título",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/desporto/cronica_de_jogo/fc-porto-escorrega-noite-alta-tensao-luta-titulo-2170244"
+            "title": "Mistérios da Páscoa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/opiniao/opiniao/misterios-pascoa-2170063"
         },
         {
-            "title": "Irão poderá usar aviador norte-americano desaparecido como propaganda — ou pressão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/mundo/noticia/irao-podera-usar-aviador-norteamericano-desaparecido-propaganda-pressao-2170240"
+            "title": "Mondego e Girabolhos: uma paisagem cultural não se governa com amnésia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/opiniao/opiniao/mondego-girabolhos-paisagem-cultural-nao-governa-amnesia-2169814"
         },
         {
-            "title": "Portugal falha final do Torneio de Montreux em hóquei em patins",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/desporto/noticia/portugal-falha-final-torneio-montreux-hoquei-patins-2170243"
+            "title": "<em>The last brick on the wall</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/opiniao/opiniao/the-last-brick-on-the-wall-2169803"
         },
         {
-            "title": "A “descida à Terra” de Francisco Rodrigues dos Santos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/politica/perfil/descida-terra-francisco-rodrigues-santos-2170214"
+            "title": "Viva o <em>Gelassenheit</em>!",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/opiniao/cronica/viva-gelassenheit-2170229"
         }
     ],
     "finance": [],
-    "last_update": "04/04/2026 22:18"
+    "last_update": "04/04/2026 23:20"
 }
