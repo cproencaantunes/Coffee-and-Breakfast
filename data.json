@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 16.9,
-        "manha": 15.6,
+        "manha": 15.9,
         "tarde": 25.0,
-        "noite": 19.9
+        "noite": 19.8
     },
     "forecast": {
-        "max": 26.2,
-        "min": 14.2
+        "max": 25.6,
+        "min": 14.1
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/opiniao/opiniao/cartas-director-2170179"
+        },
         {
             "title": "Que faremos com José Saramago?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/opiniao/opiniao/faremos-jose-saramago-2170057"
@@ -25,12 +29,8 @@
         {
             "title": "Como acabar com o SNS em nove passos: dicas para uma governação efetiva",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/opiniao/opiniao/acabar-sns-nove-passos-dicas-governacao-efetiva-2169424"
-        },
-        {
-            "title": "Melhor turismo. Melhor turismo. Melhor turismo está a acontecer…",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/04/opiniao/opiniao/melhor-turismo-melhor-turismo-melhor-turismo-acontecer-2170059"
         }
     ],
     "finance": [],
-    "last_update": "04/04/2026 01:13"
+    "last_update": "04/04/2026 04:07"
 }
