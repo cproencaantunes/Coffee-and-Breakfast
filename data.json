@@ -2,14 +2,22 @@
     "weather": {
         "atual": 17.7,
         "manha": 15.8,
-        "tarde": 24.6,
-        "noite": 20.8
+        "tarde": 24.9,
+        "noite": 21.2
     },
     "forecast": {
-        "max": 21.7,
-        "min": 15.4
+        "max": 22.1,
+        "min": 15.6
     },
     "news": [
+        {
+            "title": "Papa Leão XIV apelou aos que “têm o poder de iniciar guerras” para que “escolham a paz”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/mundo/noticia/papa-leao-xiv-apelou-iniciar-guerras-escolham-paz-2170257"
+        },
+        {
+            "title": "Atleta imigrante menor de idade desacompanhado pode competir oficialmente em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/publico-brasil/noticia/atleta-imigrante-menor-idade-desacompanhado-competir-oficialmente-portugal-2170242"
+        },
         {
             "title": "“A espiritualidade é aprender a ser humana”: em que acreditam os jovens sem religião?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/p3/noticia/espiritualidade-aprender-humana-acreditam-jovens-religiao-2169437"
@@ -21,16 +29,8 @@
         {
             "title": "É urgente desligar",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/newsletter/impar"
-        },
-        {
-            "title": "Nas cidades, os arquitectos desenham e os outros decidem",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/p3/cronica/cidades-arquitectos-desenham-decidem-2169339"
-        },
-        {
-            "title": "Insectos nos trópicos já estão perto dos seus limites de tolerância ao calor",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/azul/noticia/insectos-tropicos-ja-estao-perto-limites-tolerancia-calor-2170029"
         }
     ],
     "finance": [],
-    "last_update": "05/04/2026 11:21"
+    "last_update": "05/04/2026 12:33"
 }
