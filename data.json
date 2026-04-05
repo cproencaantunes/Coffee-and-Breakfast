@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 17.7,
-        "manha": 15.7,
-        "tarde": 25.0,
-        "noite": 21.4
+        "manha": 15.6,
+        "tarde": 24.8,
+        "noite": 20.8
     },
     "forecast": {
         "max": 21.5,
-        "min": 15.4
+        "min": 15.2
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/opiniao/opiniao/cartas-director-2170224"
+            "title": "Quatro entidades públicas abandonam grupo antifraude para os fundos europeus",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/economia/noticia/quatro-entidades-publicas-abandonam-grupo-antifraude-fundos-europeus-2170189"
         },
         {
-            "title": "Da privatização da Nova SBE à nova eleição do reitor",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/ciencia/opiniao/privatizacao-nova-sbe-nova-eleicao-reitor-2170104"
+            "title": "Eleições na Hungria: “Magyar está conseguir desafiar realmente o Fidesz”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/mundo/entrevista/eleicoes-hungria-magyar-conseguir-desafiar-realmente-fidesz-2170102"
         },
         {
-            "title": "A economia invisível da imigração: o lado de cá",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/opiniao/opiniao/economia-invisivel-imigracao-lado-ca-2168771"
+            "title": "Musicoterapia: a voz que Rafael encontrou num país onde a profissão ainda é invisível",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/sociedade/noticia/musicoterapia-voz-rafael-encontrou-pais-onde-profissao-invisivel-2169924"
         },
         {
-            "title": "Mistérios da Páscoa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/opiniao/opiniao/misterios-pascoa-2170063"
+            "title": "Ricardo Alexandre: “O Irão não estava a bombardear ninguém a 28 de Fevereiro”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/mundo/entrevista/ricardo-alexandre-irao-nao-bombardear-ninguem-28-fevereiro-2170130"
         },
         {
-            "title": "Mondego e Girabolhos: uma paisagem cultural não se governa com amnésia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/opiniao/opiniao/mondego-girabolhos-paisagem-cultural-nao-governa-amnesia-2169814"
+            "title": "Camilo, um padre franciscano e eu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/culturaipsilon/noticia/camilo-padre-franciscano-2168987"
         }
     ],
     "finance": [],
-    "last_update": "05/04/2026 04:28"
+    "last_update": "05/04/2026 06:08"
 }
