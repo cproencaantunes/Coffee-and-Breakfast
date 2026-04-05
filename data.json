@@ -2,14 +2,22 @@
     "weather": {
         "atual": 17.7,
         "manha": 15.8,
-        "tarde": 24.9,
+        "tarde": 25.1,
         "noite": 21.2
     },
     "forecast": {
-        "max": 22.1,
-        "min": 15.6
+        "max": 21.4,
+        "min": 15.8
     },
     "news": [
+        {
+            "title": "Bombeiros procuram jovem de 20 anos na barragem de Idanha-a-Nova",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/sociedade/noticia/bombeiros-procuram-jovem-20-anos-barragem-idanhaanova-2170267"
+        },
+        {
+            "title": "PSP deteve 38 carteiristas nos primeiros três meses do ano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/sociedade/noticia/psp-deteve-38-carteiristas-tres-meses-ano-2170266"
+        },
         {
             "title": "Treze formas em que os fármacos GLP-1 beneficiam o organismo, segundo a ciência",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/ciencia/noticia/treze-formas-farmacos-glp1-beneficiam-organismo-segundo-ciencia-2169451"
@@ -21,16 +29,8 @@
         {
             "title": "Mulher de 66 anos encontrada morta em poço de aldeia da Lousã",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/sociedade/noticia/mulher-66-anos-encontrada-morta-poco-aldeia-lousa-2170263"
-        },
-        {
-            "title": "Mergulhadores Sapadores da Marinha desactivam engenho explosivo na Graciosa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/sociedade/noticia/mergulhadores-sapadores-marinha-desactivam-engenho-explosivo-graciosa-2170262"
-        },
-        {
-            "title": "Suspensão de construção de salão de baile na Casa Branca traz “riscos de segurança nacional”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/mundo/noticia/suspensao-construcao-salao-baile-casa-branca-traz-riscos-seguranca-nacional-2170261"
         }
     ],
     "finance": [],
-    "last_update": "05/04/2026 15:22"
+    "last_update": "05/04/2026 16:24"
 }
