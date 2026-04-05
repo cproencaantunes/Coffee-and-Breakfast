@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 17.7,
-        "manha": 15.5,
-        "tarde": 24.9,
-        "noite": 20.8
+        "manha": 15.7,
+        "tarde": 25.0,
+        "noite": 21.4
     },
     "forecast": {
-        "max": 22.2,
+        "max": 21.5,
         "min": 15.4
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/opiniao/opiniao/cartas-director-2170224"
+        },
         {
             "title": "Da privatização da Nova SBE à nova eleição do reitor",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/ciencia/opiniao/privatizacao-nova-sbe-nova-eleicao-reitor-2170104"
@@ -25,12 +29,8 @@
         {
             "title": "Mondego e Girabolhos: uma paisagem cultural não se governa com amnésia",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/opiniao/opiniao/mondego-girabolhos-paisagem-cultural-nao-governa-amnesia-2169814"
-        },
-        {
-            "title": "<em>The last brick on the wall</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/opiniao/opiniao/the-last-brick-on-the-wall-2169803"
         }
     ],
     "finance": [],
-    "last_update": "05/04/2026 01:22"
+    "last_update": "05/04/2026 04:28"
 }
