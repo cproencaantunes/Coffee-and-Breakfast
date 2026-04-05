@@ -3,13 +3,21 @@
         "atual": 17.7,
         "manha": 15.8,
         "tarde": 25.1,
-        "noite": 21.3
+        "noite": 21.2
     },
     "forecast": {
-        "max": 22.2,
-        "min": 15.9
+        "max": 21.6,
+        "min": 15.8
     },
     "news": [
+        {
+            "title": "Argentina conquista Torneio de Montreux, Portugal acaba em terceiro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/desporto/noticia/argentina-conquista-torneio-montreux-portugal-acaba-terceiro-2170287"
+        },
+        {
+            "title": "Homem detido por agressões físicas e sexuais à companheira em Ponte de Sor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/sociedade/noticia/homem-detido-agressoes-fisicas-sexuais-companheira-ponte-sor-2170284"
+        },
         {
             "title": "Luís Montenegro aparece sem cinto em vídeo, no mesmo dia em que Governo apela à segurança na estrada",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/politica/noticia/luis-montenegro-aparece-cinto-video-dia-governo-apela-seguranca-estrada-2170285"
@@ -21,16 +29,8 @@
         {
             "title": "“Limpeza” de registos de AL levou a alteração das regras de contenção em Lisboa",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/local/noticia/limpeza-registos-al-levou-alteracao-regras-contencao-lisboa-2169969"
-        },
-        {
-            "title": "Chuva, descida das temperaturas e poeiras: depois do sol e calor da Páscoa, o tempo vai mudar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/azul/noticia/sol-calor-pascoa-tempo-vai-mudar-seguese-chuva-descida-temperaturas-poeiras-2170280"
-        },
-        {
-            "title": "“A tua dor é a vergonha do sistema”: a homenagem de um artista a Noelia, que morreu por eutanásia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/05/p3/noticia/dor-vergonha-sistema-homenagem-artista-noelia-morreu-eutanasia-2170278"
         }
     ],
     "finance": [],
-    "last_update": "05/04/2026 21:21"
+    "last_update": "05/04/2026 22:19"
 }
