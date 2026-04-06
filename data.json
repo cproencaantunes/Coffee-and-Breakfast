@@ -1,15 +1,27 @@
 {
     "weather": {
-        "atual": 17.5,
-        "manha": 16.3,
-        "tarde": 23.1,
-        "noite": 16.3
+        "atual": 16.6,
+        "manha": 15.5,
+        "tarde": 13.8,
+        "noite": 12.7
     },
     "forecast": {
-        "max": 16.6,
-        "min": 11.8
+        "max": 18.2,
+        "min": 10.6
     },
     "news": [
+        {
+            "title": "Mourinho diz que “gostava de continuar no Benfica”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/desporto/noticia/mourinho-gostava-continuar-benfica-2170385"
+        },
+        {
+            "title": "A ordem nas saudades",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/opiniao/cronica/ordem-saudades-2170306"
+        },
+        {
+            "title": "O perigo de governamentalização da Lusa e a proposta do PS",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/opiniao/opiniao/perigo-governamentalizacao-lusa-proposta-ps-2170357"
+        },
         {
             "title": "Benfica mais longe do título após novo empate com o Casa Pia",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/desporto/cronica_de_jogo/benfica-longe-titulo-apos-novo-empate-casa-pia-2170383"
@@ -17,20 +29,8 @@
         {
             "title": "Lula deve visitar Portugal em 21 de abril e encontrar Montenegro e Seguro",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/publico-brasil/noticia/lula-visitar-portugal-21-abril-encontrar-montenegro-seguro-2170382"
-        },
-        {
-            "title": "Apertem os cintos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/opiniao/editorial/apertem-cintos-2170374"
-        },
-        {
-            "title": "Rui Costa vai à AR fazer <em>lobbying </em>pela rádio Benfica FM à margem da agenda oficial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/politica/noticia/rui-costa-vai-ar-lobbying-radio-benfica-fm-margem-agenda-oficial-2170380"
-        },
-        {
-            "title": "Tripulação da missão Ártemis II sobrevoa a Lua e bate recorde de distância da Terra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/ciencia/noticia/tripulacao-missao-artemis-ii-preparase-sobrevoar-lua-2170360"
         }
     ],
     "finance": [],
-    "last_update": "06/04/2026 22:24"
+    "last_update": "06/04/2026 23:26"
 }
