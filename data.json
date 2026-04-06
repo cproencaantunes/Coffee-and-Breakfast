@@ -2,14 +2,18 @@
     "weather": {
         "atual": 17.5,
         "manha": 16.5,
-        "tarde": 21.3,
-        "noite": 17.6
+        "tarde": 21.8,
+        "noite": 17.7
     },
     "forecast": {
-        "max": 16.6,
-        "min": 11.7
+        "max": 16.7,
+        "min": 12.3
     },
     "news": [
+        {
+            "title": "A guerra como distracção",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/opiniao/editorial/guerra-distraccao-2170203"
+        },
         {
             "title": "Regresso do futuro",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/opiniao/opiniao/regresso-futuro-2170256"
@@ -25,12 +29,8 @@
         {
             "title": "Saramago, a revisão curricular ou a diluição do Nobel da Literatura",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/opiniao/opiniao/saramago-revisao-curricular-diluicao-nobel-literatura-2169740"
-        },
-        {
-            "title": "A manosfera e o vazio das referências masculinas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/opiniao/opiniao/manosfera-vazio-referencias-masculinas-2169768"
         }
     ],
     "finance": [],
-    "last_update": "06/04/2026 01:22"
+    "last_update": "06/04/2026 04:35"
 }
