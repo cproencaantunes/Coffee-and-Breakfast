@@ -2,35 +2,35 @@
     "weather": {
         "atual": 17.5,
         "manha": 16.3,
-        "tarde": 21.6,
+        "tarde": 23.1,
         "noite": 16.3
     },
     "forecast": {
-        "max": 16.7,
-        "min": 11.7
+        "max": 16.8,
+        "min": 12.5
     },
     "news": [
         {
-            "title": "BE acusa Governo de permitir uso ilegal das Lajes e pede ao Ministério Público que investigue",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/politica/noticia/be-acusa-governo-permitir-uso-ilegal-lajes-pede-ministerio-publico-investigue-2170336"
+            "title": "Por que é que este vinho vale 700 mil euros?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/fugas/noticia/vinho-vale-700-mil-euros-2170341"
         },
         {
-            "title": "Transportadores de mercadorias esperam novos apoios “em breve”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/economia/noticia/transportadores-mercadorias-esperam-novos-apoios-breve-2170339"
+            "title": "Eleições na Hungria: “Se não fosse connosco, isto seria uma óptima série de TV”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/mundo/reportagem/eleicoes-hungria-nao-connosco-optima-serie-tv-2170324"
         },
         {
-            "title": "Incêndios lavra no monte do Sameiro, em Braga. Vento forte dificulta combate",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/local/noticia/incendios-lavra-monte-sameiro-braga-vento-forte-dificulta-combate-2170342"
+            "title": "Sérvia nega mão ucraniana na alegada sabotagem no gasoduto para a Hungria",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/mundo/noticia/servia-nega-mao-ucraniana-alegada-sabotagem-gasoduto-hungria-2170346"
         },
         {
-            "title": "Havia mais presos políticos depois 25 de Abril do que antes, como disse Ventura? Não",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/politica/noticia/presos-politicos-25-abril-ventura-nao-2170319"
+            "title": "No ano passado, quatro em cada dez pessoas em Portugal revelaram sintomas de ansiedade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/sociedade/noticia/ano-passado-quatro-dez-pessoas-portugal-revelaram-sintomas-ansiedade-2170343"
         },
         {
-            "title": "Casas mais caras de Lisboa serão junto ao Marquês, com metro quadrado a 20 mil euros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/local/noticia/casas-caras-lisboa-serao-junto-marques-metro-quadrado-20-mil-euros-2170326"
+            "title": "Juan Carlos regressou a Espanha por um dia e aterrou em Cascais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/impar/noticia/juan-carlos-regressou-espanha-dia-aterrou-cascais-2170345"
         }
     ],
     "finance": [],
-    "last_update": "06/04/2026 15:37"
+    "last_update": "06/04/2026 16:34"
 }
