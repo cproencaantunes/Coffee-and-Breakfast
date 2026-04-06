@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 17.0,
-        "manha": 16.6,
-        "tarde": 21.6,
-        "noite": 16.5
+        "atual": 17.5,
+        "manha": 16.5,
+        "tarde": 21.3,
+        "noite": 17.6
     },
     "forecast": {
-        "max": 16.9,
+        "max": 16.6,
         "min": 11.7
     },
     "news": [
+        {
+            "title": "Regresso do futuro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/opiniao/opiniao/regresso-futuro-2170256"
+        },
         {
             "title": "Os níveis adequados de literacia, numeracia e inglês",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/opiniao/opiniao/niveis-adequados-literacia-numeracia-ingles-2170260"
@@ -25,12 +29,8 @@
         {
             "title": "A manosfera e o vazio das referências masculinas",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/opiniao/opiniao/manosfera-vazio-referencias-masculinas-2169768"
-        },
-        {
-            "title": "Os micróbios escondidos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/opiniao/cronica/microbios-escondidos-2170253"
         }
     ],
     "finance": [],
-    "last_update": "05/04/2026 23:23"
+    "last_update": "06/04/2026 01:22"
 }
