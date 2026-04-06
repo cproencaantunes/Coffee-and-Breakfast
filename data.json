@@ -2,14 +2,26 @@
     "weather": {
         "atual": 17.5,
         "manha": 16.3,
-        "tarde": 21.5,
-        "noite": 16.8
+        "tarde": 21.6,
+        "noite": 16.3
     },
     "forecast": {
-        "max": 16.5,
+        "max": 16.7,
         "min": 11.7
     },
     "news": [
+        {
+            "title": "Lei sobre o serviço militar e limitações à saída do país contestada na Alemanha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/mundo/noticia/lei-servico-militar-limitacoes-saida-pais-contestada-alemanha-2170312"
+        },
+        {
+            "title": "Seguro quer acelerar apoios e vai levar queixas sobre EN2 a reunião com Montenegro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/politica/noticia/seguro-quer-acelerar-apoios-vai-levar-queixas-en2-reuniao-montenegro-2170314"
+        },
+        {
+            "title": "Tripulantes de cabine da TAP contestam afastamento do processo de venda",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/economia/noticia/tripulantes-cabine-tap-contestam-afastamento-processo-venda-2170321"
+        },
         {
             "title": "Subiram 17% as infracções por falta de cinto de segurança ou sistema de retenção no ano passado",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/sociedade/noticia/subiram-17-infraccoes-falta-cinto-seguranca-sistema-retencao-ano-passado-2170313"
@@ -17,20 +29,8 @@
         {
             "title": "Cigarro electrónico provoca incêndio em voo da TAP",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/sociedade/noticia/cigarro-electronico-provoca-incendio-voo-tap-2170310"
-        },
-        {
-            "title": "Perda de 100 milhões do PRR obriga Estado a renegociar contrato do novo hospital de Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/sociedade/noticia/perda-100-milhoes-prr-obriga-estado-renegociar-contrato-novo-hospital-lisboa-2170303"
-        },
-        {
-            "title": "Morreu Álvaro Cassuto, “um dos mais conceituados maestros portugueses”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/culturaipsilon/noticia/morreu-alvaro-cassuto-conceituados-maestros-portugueses-2170307"
-        },
-        {
-            "title": "“Assustador”, mas “útil”: estes artesãos usaram a IA para ajudar a criar peças",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/06/p3/noticia/assustador-util-artesaos-usaram-ia-ajudar-criar-pecas-2170135"
         }
     ],
     "finance": [],
-    "last_update": "06/04/2026 11:50"
+    "last_update": "06/04/2026 12:45"
 }
