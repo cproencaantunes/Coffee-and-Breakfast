@@ -3,34 +3,34 @@
         "atual": 16.3,
         "manha": 15.8,
         "tarde": 13.1,
-        "noite": 11.8
+        "noite": 11.7
     },
     "forecast": {
-        "max": 18.4,
-        "min": 10.6
+        "max": 18.0,
+        "min": 10.5
     },
     "news": [
         {
+            "title": "Morreu Mircea Lucescu, antigo seleccionador romeno e coleccionador de troféus",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/desporto/noticia/morreu-mircea-lucescu-antigo-seleccionador-romeno-coleccionador-trofeus-2170511"
+        },
+        {
+            "title": "Ministra da Saúde diz que SNS nunca deu resposta tão intensa como agora",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/sociedade/noticia/ministra-saude-sns-deu-resposta-tao-intensa-2170510"
+        },
+        {
+            "title": "Ex-presidente do INEM diz que constrangimentos na greve deveram-se a falhas estruturais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/sociedade/noticia/expresidente-inem-constrangimentos-greve-deveramse-falhas-estruturais-2170507"
+        },
+        {
+            "title": "Asus ProArt GoPro Edition, o portátil inspirado na GoPro que desafia a Apple",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/enter/noticia/asus-proart-gopro-edition-portatil-inspirado-gopro-desafia-apple-2170091"
+        },
+        {
             "title": "Lula lança biblioteca online com obras de autores como Clarice Lispector e Saramago",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/publico-brasil/noticia/lula-lanca-biblioteca-online-obras-autores-clarice-lispector-saramago-2170453"
-        },
-        {
-            "title": "O Bayern venceu, mas deixou o Real vivo na Champions",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/desporto/noticia/bayern-venceu-deixou-real-vivo-2170509"
-        },
-        {
-            "title": "Na Champions o Sporting teve tudo e saiu sem nada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/desporto/cronica_de_jogo/sporting-acabou-nada-2170502"
-        },
-        {
-            "title": "PS e PSD salvam a face nos juízes do TC",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/opiniao/opiniao/ps-psd-salvam-face-juizes-tc-2170494"
-        },
-        {
-            "title": "OpenAI sugere semanas de 32 horas e impostos sobre trabalho automatizado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/enter/noticia/openai-sugere-semanas-32-horas-impostos-trabalho-automatizado-2170473"
         }
     ],
     "finance": [],
-    "last_update": "07/04/2026 21:34"
+    "last_update": "07/04/2026 22:28"
 }
