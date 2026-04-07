@@ -3,13 +3,25 @@
         "atual": 16.3,
         "manha": 15.8,
         "tarde": 13.1,
-        "noite": 12.1
+        "noite": 11.8
     },
     "forecast": {
-        "max": 18.1,
-        "min": 10.7
+        "max": 18.4,
+        "min": 10.6
     },
     "news": [
+        {
+            "title": "Programa de inclusão social no turismo recebe inscrições de imigrantes até 2 de maio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/publico-brasil/noticia/programa-inclusao-social-turismo-recebe-inscricoes-imigrantes-ate-2-maio-2170501"
+        },
+        {
+            "title": "Contra “qualquer escalada” no Irão, Rangel reitera que EUA cumprem acordo nas Lajes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/politica/noticia/qualquer-escalada-irao-rangel-insiste-eua-cumprem-acordo-lajes-2170451"
+        },
+        {
+            "title": "Praias do concelho de Ovar afectadas pelas tempestades estarão recuperadas a tempo do Verão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/local/noticia/praias-concelho-ovar-afectadas-tempestades-estarao-recuperadas-tempo-verao-2170495"
+        },
         {
             "title": "Sem entendimento, PSD e Chega fazem lista separada do PS para Conselho de Estado",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/politica/noticia/entendimento-psd-chega-fazem-lista-separada-ps-conselho-estado-2170496"
@@ -17,20 +29,8 @@
         {
             "title": "Governo cria Comando Integrado de Prevenção e Operações contra incêndios",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/sociedade/noticia/governo-cria-comando-integrado-prevencao-operacoes-incendios-2170497"
-        },
-        {
-            "title": "Lisboa-Pequim com voos directos no Verão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/fugas/noticia/lisboapequim-voos-directos-verao-2170492"
-        },
-        {
-            "title": "O que fazer? Quarta é dia de <em>Veneno</em>, festivais e “comédia bancocrática”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/fugas/noticia/quarta-dia-veneno-festivais-comedia-bancocratica-2170447"
-        },
-        {
-            "title": "Batalha judicial leva Governo a novo prolongamento da licença de assistência nos aeroportos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/economia/noticia/batalha-judicial-leva-governo-novo-prolongamento-licenca-assistencia-aeroportos-2170486"
         }
     ],
     "finance": [],
-    "last_update": "07/04/2026 17:48"
+    "last_update": "07/04/2026 18:46"
 }
