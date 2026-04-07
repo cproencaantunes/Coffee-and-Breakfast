@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 0,
-        "manha": 0,
-        "tarde": 0,
-        "noite": 0
+        "atual": 16.3,
+        "manha": 15.8,
+        "tarde": 13.9,
+        "noite": 12.3
     },
     "forecast": {
-        "max": 0,
-        "min": 0
+        "max": 18.8,
+        "min": 10.7
     },
     "news": [
         {
-            "title": "GNR e PSP registaram 20 mortos e 53 feridos graves nas estradas durante a Páscoa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/sociedade/noticia/gnr-psp-registaram-20-mortos-53-feridos-graves-estradas-durante-pascoa-2170404"
+            "title": "Trabalho digital do PÚBLICO distinguido com grande prémio Jornalismo em Saúde",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/sociedade/noticia/trabalho-digital-publico-distinguido-premio-jornalismo-saude-2170394"
         },
         {
-            "title": "Quando os filhos não se conformam à norma",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/impar/cronica/filhos-nao-conformam-norma-2170407"
+            "title": "PS e PSD chegam a acordo para órgãos externos e para adiar decisão sobre juízes do TC",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/politica/noticia/ps-psd-chegam-acordo-orgaos-externos-adiar-decisao-juizes-tc-2170423"
         },
         {
-            "title": "OpenAI acusa Elon Musk e Meta de concertarem ataques contra a empresa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/enter/noticia/openai-acusa-elon-musk-meta-concertarem-ataques-empresa-2170405"
+            "title": "A geração mais qualificada de sempre não confia em números",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/p3/cronica/geracao-qualificada-nao-confia-numeros-2169340"
         },
         {
-            "title": "Margaret Atwood contra-ataca com <em>Os Testamentos</em>, agora em série",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/culturaipsilon/noticia/margaret-atwood-contraataca-testamentos-serie-2170403"
+            "title": "Petróleo Brent volta a superar 111 dólares e <em>diesel</em> quase duplica de preço",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/economia/noticia/petroleo-brent-volta-superar-111-dolares-diesel-quase-duplica-preco-2170410"
         },
         {
-            "title": "Mau tempo: continente em aviso amarelo por chuva, Madeira a laranja por ondas e vento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/azul/noticia/mau-tempo-continente-aviso-amarelo-chuva-madeira-laranja-ondas-vento-2170401"
+            "title": "Michael Morris: “O tribalismo não deve ser demonizado nem glorificado, mas compreendido”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/culturaipsilon/entrevista/tribalismo-nao-demonizado-glorificado-compreendido-2169779"
         }
     ],
     "finance": [],
-    "last_update": "07/04/2026 09:58"
+    "last_update": "07/04/2026 10:52"
 }
