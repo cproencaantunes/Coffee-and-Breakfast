@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 16.3,
-        "manha": 15.6,
-        "tarde": 13.6,
-        "noite": 12.1
+        "atual": 0,
+        "manha": 0,
+        "tarde": 0,
+        "noite": 0
     },
     "forecast": {
-        "max": 18.2,
-        "min": 10.6
+        "max": 0,
+        "min": 0
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/opiniao/opiniao/cartas-director-2170354"
+        },
         {
             "title": "Uma reforma laboral para mostrar a Passos Coelho",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/politica/noticia/reforma-laboral-mostrar-passos-coelho-2170376"
@@ -25,12 +29,8 @@
         {
             "title": "A ordem nas saudades",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/opiniao/cronica/ordem-saudades-2170306"
-        },
-        {
-            "title": "O perigo de governamentalização da Lusa e a proposta do PS",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/opiniao/opiniao/perigo-governamentalizacao-lusa-proposta-ps-2170357"
         }
     ],
     "finance": [],
-    "last_update": "07/04/2026 01:20"
+    "last_update": "07/04/2026 04:24"
 }
