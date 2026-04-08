@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 11.3,
-        "manha": 10.5,
-        "tarde": 17.2,
-        "noite": 15.1
+        "manha": 10.2,
+        "tarde": 16.8,
+        "noite": 16.4
     },
     "forecast": {
         "max": 19.3,
-        "min": 13.5
+        "min": 13.2
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/opiniao/opiniao/cartas-director-2170490"
+            "title": "APAV: crimes de natureza sexual contra menores subiram 85% em quatro anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/sociedade/noticia/apav-crimes-natureza-sexual-menores-subiram-85-quatro-anos-2170460"
         },
         {
-            "title": "A paz chegou ao Irão nesta madrugada. E agora?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/mundo/noticia/paz-chegou-irao-madrugada-2170518"
+            "title": "Seguro, o Presidente provedor do cidadão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/opiniao/opiniao/seguro-presidente-provedor-cidadao-2170452"
         },
         {
-            "title": "José Luís Carneiro fugiu do Conselho de Estado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/politica/noticia/jose-luis-carneiro-fugiu-conselho-estado-2170476"
+            "title": "Montepio incapaz de ultrapassar dúvidas do seu auditor há sete anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/economia/noticia/montepio-incapaz-ultrapassar-duvidas-auditor-ha-sete-anos-2170480"
         },
         {
-            "title": "Trump trava à beira do abismo e Irão declara “vitória” com anúncio de tréguas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/mundo/noticia/trump-trava-beira-abismo-irao-declara-vitoria-anuncio-treguas-2170512"
+            "title": "Um exame, dois programas?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/opiniao/opiniao/exame-dois-programas-2170421"
         },
         {
-            "title": "O troco é sagrado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/opiniao/cronica/troco-sagrado-2170444"
+            "title": "Sana começa obras no Quartel da Graça, Governo pede análise jurídica à concessão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/economia/noticia/sana-comeca-obras-quartel-graca-governo-pede-analise-juridica-concessao-2169243"
         }
     ],
     "finance": [],
-    "last_update": "08/04/2026 04:28"
+    "last_update": "08/04/2026 06:15"
 }
