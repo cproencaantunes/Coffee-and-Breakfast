@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 11.3,
-        "manha": 10.2,
-        "tarde": 16.8,
-        "noite": 16.4
+        "manha": 9.9,
+        "tarde": 16.7,
+        "noite": 16.0
     },
     "forecast": {
-        "max": 19.3,
-        "min": 13.2
+        "max": 20.3,
+        "min": 13.3
     },
     "news": [
         {
-            "title": "Sp. Braga e a procura da felicidade na Europa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/desporto/noticia/sp-braga-procura-felicidade-europa-2170477"
+            "title": "Governo espanhol pode ter fechado mesmo a porta para a viagem de <em>Guernica</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/culturaipsilon/noticia/governo-espanhol-fechado-porta-viagem-guernica-2170530"
         },
         {
-            "title": "Energia solar descentralizada: a nova vantagem competitiva da indústria",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/azul/opiniao/energia-solar-descentralizada-nova-vantagem-competitiva-industria-2170218"
+            "title": "CEP confirma “redução significativa” das compensações atribuídas às vítimas de abuso sexual",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/sociedade/noticia/cep-confirma-reducao-significativa-compensacoes-atribuidas-vitimas-abuso-sexual-2170539"
         },
         {
-            "title": "Despertador: EUA falam em “grande dia para a paz mundial”, mas ataques continuam no Médio Oriente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/newsletter/despertador"
+            "title": "Guilherme Blanc deixa direcção artística do Cinema Batalha em Setembro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/culturaipsilon/noticia/guilherme-blanc-deixa-direccao-artistica-cinema-batalha-setembro-2170533"
         },
         {
-            "title": "Recepção de resíduos urbanos em Vila Real normalizada após Resinorte impedir entrada de lixo para aterro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/azul/noticia/recepcao-residuos-urbanos-vila-real-normalizada-resinorte-impedir-entrada-lixo-aterro-2170514"
+            "title": "Biomarcadores sanguíneos e Doença de Alzheimer: a diferença entre ter a doença e estar doente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/opiniao/opiniao/biomarcadores-sanguineos-doenca-alzheimer-diferenca-doenca-estar-doente-2170531"
         },
         {
-            "title": "Catarinense Audaces compra portuguesa BKR para se tornar líder em soluções para moda",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/publico-brasil/noticia/catarinense-audaces-compra-portuguesa-bkr-tornar-lider-solucoes-moda-2170483"
+            "title": "Subiu para 45 número de mortes em consequência das chuvas em Angola",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/azul/noticia/subiu-45-numero-mortes-consequencia-chuvas-angola-2170517"
         }
     ],
     "finance": [],
-    "last_update": "08/04/2026 08:06"
+    "last_update": "08/04/2026 09:58"
 }
