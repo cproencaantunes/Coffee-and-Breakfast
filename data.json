@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 11.3,
-        "manha": 9.9,
-        "tarde": 16.0,
-        "noite": 15.1
+        "atual": 13.9,
+        "manha": 13.2,
+        "tarde": 18.5,
+        "noite": 16.0
     },
     "forecast": {
-        "max": 19.6,
-        "min": 11.6
+        "max": 21.2,
+        "min": 14.7
     },
     "news": [
         {
-            "title": "Três discursos, 14 promulgações e algumas “observações”: um mês de Seguro em Belém",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/politica/noticia/tres-discursos-14-promulgacoes-observacoes-mes-seguro-belem-2170580"
+            "title": "Donald Trump: o aberrante esplendor do super-homem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/opiniao/opiniao/donald-trump-aberrante-esplendor-superhomem-2170572"
         },
         {
-            "title": "Num camião TIR, seis entidades articulam limpezas para prevenir fogos rurais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/sociedade/noticia/camiao-tir-seis-entidades-articulam-limpezas-prevenir-fogos-rurais-2170631"
+            "title": "Habitação: estranho era se o preço descesse",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/opiniao/opiniao/habitacao-estranho-preco-descesse-2170622"
         },
         {
-            "title": "O Liverpool levou um autocarro a Paris – mas era dos pequenos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/desporto/noticia/liverpool-levou-autocarro-paris-2170632"
+            "title": "O processo de radicalização em curso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/opiniao/opiniao/processo-radicalizacao-curso-2170592"
         },
         {
-            "title": "Os astronautas da missão Ártemis II viram pó lunar e novas cores na Lua",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/ciencia/noticia/astronautas-missao-artemis-ii-viram-po-lunar-novas-cores-lua-2170538"
+            "title": "Trump não leu o cessar-fogo que aceitou?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/newsletter/aquinaamerica"
         },
         {
-            "title": "O fim do mundo em 3, 2, 1…",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/opiniao/editorial/fim-mundo-3-2-1-2170581"
+            "title": "O que mata é a passagem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/opiniao/cronica/mata-passagem-2170574"
         }
     ],
     "finance": [],
-    "last_update": "08/04/2026 22:29"
+    "last_update": "08/04/2026 23:29"
 }
