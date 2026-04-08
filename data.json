@@ -2,35 +2,35 @@
     "weather": {
         "atual": 11.3,
         "manha": 9.9,
-        "tarde": 16.5,
-        "noite": 15.6
+        "tarde": 16.0,
+        "noite": 14.7
     },
     "forecast": {
-        "max": 20.3,
-        "min": 12.7
+        "max": 19.7,
+        "min": 12.4
     },
     "news": [
         {
-            "title": "Gaia: Torres de 12 pisos, 73 casas e reconversão de pedreira previstos para Canidelo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/local/noticia/gaia-torres-12-pisos-73-casas-reconversao-pedreira-previstos-canidelo-2170577"
+            "title": "Demolir Edifício Transparente, no Porto, é “sinal de um certo provincianismo”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/local/noticia/demolir-edificio-transparente-porto-sinal-certo-provincianismo-2170589"
         },
         {
-            "title": "Covid longa custa às economias da OCDE até 115.000 ME anuais na próxima década",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/sociedade/noticia/covid-longa-custa-economias-ocde-ate-115000-anuais-proxima-decada-2170578"
+            "title": "Aos 80 anos, o Festival de Avignon transforma-se numa “grande festa das perguntas”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/culturaipsilon/noticia/80-anos-festival-avignon-transformase-festa-perguntas-2170566"
         },
         {
-            "title": "Conclusão do segundo túnel do plano de drenagem de Lisboa prevista para 2029",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/local/noticia/conclusao-segundo-tunel-plano-drenagem-lisboa-prevista-2029-2170575"
+            "title": "O abrasileiramento da política em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/publico-brasil/opiniao/abrasileiramento-politica-portugal-2170585"
         },
         {
-            "title": "Rato herói que detectou mais de 100 minas terrestres homenageado com estátua gigante",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/p3/noticia/rato-heroi-detectou-100-minas-terrestres-homenageado-estatua-gigante-2170570"
+            "title": "Supervisor dos seguros incapaz de alugar um autocarro: “Preciso de autorização do ministro”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/economia/noticia/supervisor-seguros-incapaz-alugar-autocarro-preciso-autorizacao-ministro-2170591"
         },
         {
-            "title": "SIS alerta para operação de ciberespionagem por serviço de informações militar russo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/sociedade/noticia/sis-alerta-operacao-ciberespionagem-servico-informacoes-militar-russo-2170573"
+            "title": "Museu Soares dos Reis no Porto desenvolve projecto para se tornar mais acessível",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/culturaipsilon/noticia/museu-soares-reis-porto-desenvolve-projecto-tornar-acessivel-2170593"
         }
     ],
     "finance": [],
-    "last_update": "08/04/2026 14:29"
+    "last_update": "08/04/2026 16:07"
 }
