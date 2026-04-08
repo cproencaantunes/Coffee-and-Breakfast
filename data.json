@@ -1,15 +1,27 @@
 {
     "weather": {
         "atual": 11.3,
-        "manha": 10.9,
-        "tarde": 17.0,
-        "noite": 15.8
+        "manha": 10.5,
+        "tarde": 17.2,
+        "noite": 15.1
     },
     "forecast": {
-        "max": 18.8,
-        "min": 13.4
+        "max": 19.3,
+        "min": 13.5
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/opiniao/opiniao/cartas-director-2170490"
+        },
+        {
+            "title": "A paz chegou ao Irão nesta madrugada. E agora?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/mundo/noticia/paz-chegou-irao-madrugada-2170518"
+        },
+        {
+            "title": "José Luís Carneiro fugiu do Conselho de Estado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/politica/noticia/jose-luis-carneiro-fugiu-conselho-estado-2170476"
+        },
         {
             "title": "Trump trava à beira do abismo e Irão declara “vitória” com anúncio de tréguas",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/mundo/noticia/trump-trava-beira-abismo-irao-declara-vitoria-anuncio-treguas-2170512"
@@ -17,20 +29,8 @@
         {
             "title": "O troco é sagrado",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/08/opiniao/cronica/troco-sagrado-2170444"
-        },
-        {
-            "title": "Esta Páscoa foi a mais mortífera nas estradas na última década",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/sociedade/noticia/pascoa-mortifera-estradas-ultima-decada-2170478"
-        },
-        {
-            "title": "Morreu Mircea Lucescu, antigo seleccionador romeno e coleccionador de troféus",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/desporto/noticia/morreu-mircea-lucescu-antigo-seleccionador-romeno-coleccionador-trofeus-2170511"
-        },
-        {
-            "title": "Ministra da Saúde diz que SNS nunca deu resposta tão intensa como agora",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/07/sociedade/noticia/ministra-saude-sns-deu-resposta-tao-intensa-2170510"
         }
     ],
     "finance": [],
-    "last_update": "08/04/2026 01:21"
+    "last_update": "08/04/2026 04:28"
 }
