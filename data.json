@@ -3,13 +3,21 @@
         "atual": 14.2,
         "manha": 12.8,
         "tarde": 21.2,
-        "noite": 18.2
+        "noite": 18.4
     },
     "forecast": {
         "max": 21.8,
-        "min": 15.6
+        "min": 16.0
     },
     "news": [
+        {
+            "title": "Ventura quer voltar a dar a mão ao Governo?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/politica/noticia/ventura-quer-voltar-dar-mao-governo-2170766"
+        },
+        {
+            "title": "O Estado e o princípio da confiança",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/opiniao/editorial/estado-principio-confianca-2170730"
+        },
         {
             "title": "Seguro veta mesmo o pacote laboral (se houver)?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/newsletter/diarios-republica"
@@ -21,16 +29,8 @@
         {
             "title": "Em noite de desperdício, FC Porto fica-se pelo empate contra o Nottingham Forest",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/desporto/cronica_de_jogo/noite-desperdicio-fc-porto-empata-frente-nottingham-forest-2170762"
-        },
-        {
-            "title": "Melania Trump pede fim das “mentiras” sobre si e Jeffrey Epstein em declaração rara",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/impar/noticia/melania-trump-pede-fim-mentiras-jeffrey-epstein-declaracao-rara-2170761"
-        },
-        {
-            "title": "Sindicato lamenta bloqueio a fotojornalistas no concerto de Rosalía",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/culturaipsilon/noticia/sindicato-lamenta-bloqueio-fotojornalistas-concerto-rosalia-2170757"
         }
     ],
     "finance": [],
-    "last_update": "09/04/2026 21:37"
+    "last_update": "09/04/2026 22:31"
 }
