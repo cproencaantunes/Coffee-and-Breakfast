@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.2,
         "manha": 12.8,
-        "tarde": 20.4,
-        "noite": 18.3
+        "tarde": 19.5,
+        "noite": 17.6
     },
     "forecast": {
-        "max": 20.6,
-        "min": 15.8
+        "max": 21.6,
+        "min": 15.0
     },
     "news": [
         {
-            "title": "Giulia Enders: “Podemos funcionar melhor se compreendermos que somos o oposto de máquinas”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/impar/entrevista/giulia-enders-podemos-funcionar-melhor-compreendermos-oposto-maquinas-2170610"
+            "title": "“Rainha da Cetamina” condenada a 15 anos de prisão pela morte de Matthew Perry",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/impar/noticia/rainha-cetamina-condenada-15-anos-prisao-morte-matthew-perry-2170653"
         },
         {
-            "title": "<em>Good Boy</em>, <em>Nossa Terra</em> e outras estreias para esta semana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/culturaipsilon/noticia/good-boy-terra-estreias-semana-2170113"
+            "title": "CP ganha mais autonomia de gestão. O que muda?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/economia/noticia/cp-ganha-autonomia-gestao-muda-2170640"
         },
         {
-            "title": "<em>Nino</em>: o cancro ou a vida? O cancro e a vida...",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/culturaipsilon/entrevista/nino-cancro-vida-cancro-vida-2170180"
+            "title": "O que acontece quando um carro autónomo atropela uma mãe pata?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/enter/noticia/acontece-carro-autonomo-atropela-mae-pata-2170652"
         },
         {
-            "title": "Depois das tempestades, Março foi quente e seco no continente, indica o IPMA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/azul/noticia/tempestades-marco-quente-seco-continente-indica-ipma-2170645"
+            "title": "Os vencedores regionais do World Press Photo 2026, de Gaza ao Sudão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/culturaipsilon/noticia/vencedores-regionais-world-press-photo-2026-gaza-sudao-2170651"
         },
         {
-            "title": "É uma ópera? Um bailado? Um musical? Não, é Rosalía a ditar as regras da pop",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/culturaipsilon/critica/opera-bailado-musical-nao-rosalia-ditar-regras-pop-2170644"
+            "title": "Presidente interina da Venezuela anuncia “aumento responsável” dos salários",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/mundo/noticia/presidente-interina-venezuela-anuncia-aumento-responsavel-salarios-2170647"
         }
     ],
     "finance": [],
-    "last_update": "09/04/2026 08:11"
+    "last_update": "09/04/2026 10:02"
 }
