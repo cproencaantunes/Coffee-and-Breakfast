@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.2,
         "manha": 12.8,
-        "tarde": 19.5,
-        "noite": 17.6
+        "tarde": 20.6,
+        "noite": 18.0
     },
     "forecast": {
-        "max": 21.6,
-        "min": 15.0
+        "max": 20.5,
+        "min": 15.1
     },
     "news": [
         {
-            "title": "Uma em cada quatro mortes está ligada ao ambiente: crise climática e saúde em debate no congresso Saúde e Ambiente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/azul/noticia/quatro-mortes-ligada-ambiente-crise-climatica-saude-debate-congresso-saude-ambiente-2170674"
+            "title": "Seguro quer Governo a “corresponder” às “necessidades” dos antigos combatentes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/politica/noticia/seguro-quer-governo-corresponder-necessidades-antigos-combatentes-2170686"
         },
         {
-            "title": "Será a nossa democracia verdadeiramente democrática?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/p3/cronica/sera-democracia-verdadeiramente-democratica-2169606"
+            "title": "Coreia do Norte testa míssil balístico e arma electromagnética antes da chegada de ministro chinês",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/mundo/noticia/coreia-norte-testa-missil-balistico-arma-electromagnetica-chegada-ministro-chines-2170684"
         },
         {
-            "title": "São João da Madeira: o Costa dos Rissóis cresceu, para ser do tamanho da sua fama",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/fugas/noticia/sao-joao-madeira-costa-rissois-cresceu-tamanho-fama-2169922"
+            "title": "Porque é que o vidro ficou fora do sistema Volta? ",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/newsletter/azul"
         },
         {
-            "title": "“Mas há greve?”. Apanhados de surpresa com paragem do metro, foi uma manhã cheia para os TVDE",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/local/noticia/ha-greve-apanhados-surpresa-paragem-metro-manha-cheia-tvde-2170675"
+            "title": "Ordem investiga médica por alegado esquema para viabilizar reformas por invalidez",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/sociedade/noticia/ordem-investiga-medica-alegado-esquema-viabilizar-reformas-invalidez-2170681"
         },
         {
-            "title": "Eleições na Hungria: “Não consigo imaginar Orbán a simplesmente ceder o poder”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/mundo/noticia/eleicoes-hungria-nao-consigo-imaginar-orban-simplesmente-ceder-2170654"
+            "title": "Embalagens de plástico e metal passam a ter sistema de reembolso. Saiba como funciona",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/video/arranca-semana-novo-sistema-reembolso-embalagens-funciona-20260408-171652"
         }
     ],
     "finance": [],
-    "last_update": "09/04/2026 11:44"
+    "last_update": "09/04/2026 12:58"
 }
