@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 14.2,
-        "manha": 12.7,
-        "tarde": 20.3,
-        "noite": 18.0
+        "manha": 13.0,
+        "tarde": 20.0,
+        "noite": 17.6
     },
     "forecast": {
-        "max": 21.2,
-        "min": 14.7
+        "max": 20.6,
+        "min": 14.8
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/opiniao/opiniao/cartas-director-2170598"
+        },
+        {
+            "title": "Direito de resposta: “Escola privada em Lisboa utilizou sistema de reconhecimento facial de crianças”, publicado a 13 de Março de 2026",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/sociedade/direito-de-resposta/direito-resposta-escola-privada-lisboa-utilizou-sistema-reconhecimento-facial-criancas-publicado-13-marco-2026-2170595"
+        },
         {
             "title": "O cessar-fogo dá tréguas a Trump em Washington?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/mundo/noticia/cessarfogo-treguas-trump-washington-2170637"
@@ -21,16 +29,8 @@
         {
             "title": "Donald Trump: o aberrante esplendor do super-homem",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/opiniao/opiniao/donald-trump-aberrante-esplendor-superhomem-2170572"
-        },
-        {
-            "title": "Habitação: estranho era se o preço descesse",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/opiniao/opiniao/habitacao-estranho-preco-descesse-2170622"
-        },
-        {
-            "title": "O processo de radicalização em curso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/opiniao/opiniao/processo-radicalizacao-curso-2170592"
         }
     ],
     "finance": [],
-    "last_update": "09/04/2026 01:11"
+    "last_update": "09/04/2026 04:24"
 }
