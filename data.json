@@ -2,35 +2,35 @@
     "weather": {
         "atual": 16.9,
         "manha": 16.1,
-        "tarde": 22.2,
-        "noite": 17.5
+        "tarde": 22.5,
+        "noite": 17.9
     },
     "forecast": {
-        "max": 16.7,
+        "max": 16.5,
         "min": 11.7
     },
     "news": [
         {
-            "title": "&#128138; Euphoria, a série demasiado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/newsletter/proximo_episodio"
+            "title": "Chega não entra na coordenação das secretas mas tem lugar na Segurança Interna",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/politica/noticia/chega-nao-entra-coordenacao-secretas-lugar-seguranca-interna-2170794"
         },
         {
-            "title": "Autora portuguesa ensina como escrever novelas e reconhece influência brasileira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/publico-brasil/noticia/autora-portuguesa-ensina-escrever-novelas-reconhece-influencia-brasileira-2170465"
+            "title": "O <em>router wi-fi</em> de casa pode ser uma arma para o Kremlin",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/enter/noticia/router-wifi-casa-arma-kremlin-2170738"
         },
         {
-            "title": "Dubai limita voos até Junho: cada companhia estrangeira só pode ter um voo por dia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/fugas/noticia/dubai-limita-voos-ate-junho-companhia-estrangeira-so-voo-dia-2170801"
+            "title": "Com 44 ecrãs de cinema em risco, tutela aceita estudar públicos e mudar sistema de desafectação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/culturaipsilon/noticia/44-ecras-cinema-risco-tutela-aceita-estudar-publico-mudar-sistema-desafectacao-2170812"
         },
         {
-            "title": "Primeiro-ministro continua “à procura de acordo” sobre reforma laboral e atento a Seguro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/economia/noticia/primeiroministro-continua-procura-acordo-reforma-laboral-atento-seguro-2170795"
+            "title": "Lisboa: as sete magníficas propostas do Chega…",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/opiniao/opiniao/lisboa-sete-magnificas-propostas-chega-2170798"
         },
         {
-            "title": "A Rua das Pretas celebra o <i>Povo Brasileiro</i> com um novo álbum e uma curta-metragem",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/video/rua-pretas-celebra-povo-brasileiro-novo-album-curtametragem-20260409-161816"
+            "title": "<em>Kristin</em>: Empresas ganham seis meses para devolver fundos europeus",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/economia/noticia/kristin-empresas-ganham-seis-meses-devolver-fundos-europeus-2170793"
         }
     ],
     "finance": [],
-    "last_update": "10/04/2026 11:44"
+    "last_update": "10/04/2026 12:44"
 }
