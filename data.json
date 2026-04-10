@@ -2,35 +2,35 @@
     "weather": {
         "atual": 16.9,
         "manha": 16.1,
-        "tarde": 22.5,
-        "noite": 17.9
+        "tarde": 22.2,
+        "noite": 17.8
     },
     "forecast": {
-        "max": 16.5,
-        "min": 11.7
+        "max": 16.6,
+        "min": 11.9
     },
     "news": [
         {
-            "title": "Como destruir um país do futebol",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/desporto/opiniao/destruir-pais-futebol-2170839"
+            "title": "Centenário de Isabel II celebra-se através do seu estilo no Palácio de Buckingham",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/impar/noticia/centenario-isabel-ii-celebrase-atraves-estilo-palacio-buckingham-2170854"
         },
         {
-            "title": "Sala de consumo do Porto vai ser transferida da Pasteleira para terrenos do Aleixo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/local/noticia/sala-consumo-porto-vai-transferida-pasteleira-terrenos-aleixo-2170845"
+            "title": "Vacina contra o HPV alargada até aos 26 anos. Nos homens, extensão será faseada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/sociedade/noticia/vacina-hpv-alargada-ate-26-anos-homens-extensao-sera-faseada-2170848"
         },
         {
-            "title": "Deputados do PSD pela Madeira e Açores ajudam oposição a aprovar novo subsídio social de mobilidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/politica/noticia/deputados-psd-madeira-acores-ajudam-oposicao-aprovar-novo-subsidio-social-mobilidade-2170842"
+            "title": "Ministra do Trabalho convoca UGT e patrões para nova reunião na segunda-feira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/economia/noticia/ministra-trabalho-convoca-ugt-patroes-nova-reuniao-segundafeira-2170858"
         },
         {
-            "title": "Combustíveis descem até seis cêntimos após tombo de 10% no petróleo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/economia/noticia/combustiveis-descem-ate-seis-centimos-apos-tombo-10-petroleo-2170824"
+            "title": "Seguro está “atento” e vai reunir-se “em breve” com todos os parceiros sociais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/politica/noticia/seguro-atento-vai-reunirse-breve-parceiros-sociais-2170856"
         },
         {
-            "title": "Alunos do 1.º ciclo de Matosinhos já podem ir todos para a escola de bicicleta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/local/noticia/alunos-1-ciclo-matosinhos-ja-podem-ir-escola-bicicleta-2170841"
+            "title": "Quero um país onde o meu vizinho é igual",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/p3/cronica/quero-pais-onde-vizinho-igual-2168044"
         }
     ],
     "finance": [],
-    "last_update": "10/04/2026 15:40"
+    "last_update": "10/04/2026 16:42"
 }
