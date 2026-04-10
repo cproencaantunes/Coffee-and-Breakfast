@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 16.8,
-        "manha": 16.5,
-        "tarde": 21.8,
-        "noite": 18.1
+        "atual": 16.9,
+        "manha": 16.2,
+        "tarde": 21.9,
+        "noite": 17.8
     },
     "forecast": {
-        "max": 16.5,
+        "max": 16.4,
         "min": 11.8
     },
     "news": [
+        {
+            "title": "EUA atrasam publicação de relatório que mostra benefícios da vacina contra a covid-19",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/mundo/noticia/eua-atrasam-publicacao-relatorio-mostra-beneficios-vacina-covid19-2170751"
+        },
         {
             "title": "Estou bem como estou",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/opiniao/cronica/bem-2170666"
@@ -25,12 +29,8 @@
         {
             "title": "Seguro veta mesmo o pacote laboral (se houver)?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/newsletter/diarios-republica"
-        },
-        {
-            "title": "INEM: ex-ministra Marta Temido diz que teria requerido serviços mínimos para greve às horas extra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/sociedade/noticia/inem-exministra-marta-temido-requerido-servicos-minimos-greve-horas-extra-2170763"
         }
     ],
     "finance": [],
-    "last_update": "09/04/2026 23:29"
+    "last_update": "10/04/2026 01:21"
 }
