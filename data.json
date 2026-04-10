@@ -3,13 +3,17 @@
         "atual": 16.9,
         "manha": 16.1,
         "tarde": 22.2,
-        "noite": 17.8
+        "noite": 18.1
     },
     "forecast": {
-        "max": 16.6,
+        "max": 16.8,
         "min": 11.9
     },
     "news": [
+        {
+            "title": "Kamala Harris, ex-vice dos EUA, admite nova candidatura à presidência",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/mundo/noticia/kamala-harris-exvice-eua-admite-nova-candidatura-presidencia-2170886"
+        },
         {
             "title": "Juiz que assinou duas distribuições consideradas viciadas escapa a sanções",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/sociedade/noticia/juiz-assinou-duas-distribuicoes-consideradas-viciadas-escapa-sancoes-2170888"
@@ -25,12 +29,8 @@
         {
             "title": "O que a ciência nos diz sobre gomas e suplementos alimentares",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/p3/cronica/ciencia-gomas-suplementos-alimentares-2170093"
-        },
-        {
-            "title": "Entre brinquedos e escombros: as famílias que os ataques israelitas desfizeram em dez minutos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/mundo/noticia/brinquedos-escombros-familias-ataques-israelitas-desfizeram-dez-minutos-2170873"
         }
     ],
     "finance": [],
-    "last_update": "10/04/2026 21:27"
+    "last_update": "10/04/2026 22:25"
 }
