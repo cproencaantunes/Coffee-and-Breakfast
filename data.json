@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 16.9,
-        "manha": 16.2,
-        "tarde": 21.9,
+        "manha": 16.1,
+        "tarde": 22.2,
         "noite": 17.5
     },
     "forecast": {
-        "max": 17.1,
-        "min": 11.8
+        "max": 16.7,
+        "min": 11.7
     },
     "news": [
         {
-            "title": "Cozinhar o passado sem ficar preso a ele",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/edicoes-publico/noticia/cozinhar-passado-ficar-preso-2170718"
+            "title": "Tribunal da Relação declara inocente médico que chamou “chalupa” a colega negacionista",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/sociedade/noticia/tribunal-relacao-declara-inocente-medico-chamou-chalupa-colega-negacionista-2170720"
         },
         {
-            "title": "Uma escultura que é um tecto feito por quem não tem tecto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/culturaipsilon/reportagem/escultura-tecto-nao-tecto-2169982"
+            "title": "Juiz impede a Administração Trump de revogar protecção legal a cinco mil etíopes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/mundo/noticia/juiz-impede-administracao-trump-revogar-proteccao-legal-cinco-mil-etiopes-2170777"
         },
         {
-            "title": "Do Algueirão a Rio de Mouro, Sintra discute projectos imobiliários para mais de 800 casas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/local/noticia/algueirao-rio-mouro-sintra-discute-projectos-imobiliarios-800-casas-2170499"
+            "title": "Ministério da Educação encerra Instituto Superior de Administração e Línguas na Madeira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/sociedade/noticia/ministerio-educacao-encerra-instituto-superior-administracao-linguas-madeira-2170784"
         },
         {
-            "title": "Chefs brasileiras reforçam festival protagonizado por mulheres da gastronomia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/publico-brasil/noticia/chefs-brasileiras-reforcam-festival-protagonizado-mulheres-gastronomia-2170504"
+            "title": "Governo recupera o papel comercial para facilitar financiamento de curto prazo de empresas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/economia/noticia/governo-recupera-papel-comercial-facilitar-financiamento-curto-prazo-empresas-2170780"
         },
         {
-            "title": "Israel continua ataques ao Líbano, delegação iraniana já chegou a Islamabad",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/mundo/noticia/israel-continua-ataques-libano-delegacao-iraniana-ja-chegou-islamabad-2170769"
+            "title": "Quando a cabeça não tem juízo, o corpo é que paga",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/culturaipsilon/cronica/cabeca-nao-juizo-corpo-paga-2170400"
         }
     ],
     "finance": [],
-    "last_update": "10/04/2026 08:15"
+    "last_update": "10/04/2026 09:59"
 }
