@@ -2,14 +2,18 @@
     "weather": {
         "atual": 16.9,
         "manha": 16.2,
-        "tarde": 21.9,
-        "noite": 17.8
+        "tarde": 22.0,
+        "noite": 17.7
     },
     "forecast": {
-        "max": 16.4,
+        "max": 17.1,
         "min": 11.8
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/opiniao/opiniao/cartas-director-2170733"
+        },
         {
             "title": "EUA atrasam publicação de relatório que mostra benefícios da vacina contra a covid-19",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/mundo/noticia/eua-atrasam-publicacao-relatorio-mostra-beneficios-vacina-covid19-2170751"
@@ -25,12 +29,8 @@
         {
             "title": "O Estado e o princípio da confiança",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/opiniao/editorial/estado-principio-confianca-2170730"
-        },
-        {
-            "title": "Seguro veta mesmo o pacote laboral (se houver)?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/newsletter/diarios-republica"
         }
     ],
     "finance": [],
-    "last_update": "10/04/2026 01:21"
+    "last_update": "10/04/2026 04:37"
 }
