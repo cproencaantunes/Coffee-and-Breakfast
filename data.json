@@ -2,8 +2,8 @@
     "weather": {
         "atual": 16.9,
         "manha": 16.2,
-        "tarde": 22.0,
-        "noite": 17.7
+        "tarde": 21.9,
+        "noite": 17.5
     },
     "forecast": {
         "max": 17.1,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/opiniao/opiniao/cartas-director-2170733"
+            "title": "Fé em trânsito",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/publico-brasil/opiniao/fe-transito-2170701"
         },
         {
-            "title": "EUA atrasam publicação de relatório que mostra benefícios da vacina contra a covid-19",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/mundo/noticia/eua-atrasam-publicacao-relatorio-mostra-beneficios-vacina-covid19-2170751"
+            "title": "Quanta forma há de praticar futebol?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/desporto/opiniao/quanta-forma-ha-praticar-futebol-2170706"
         },
         {
-            "title": "Estou bem como estou",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/opiniao/cronica/bem-2170666"
+            "title": "Generosa com abusadores, avara com vítimas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/opiniao/opiniao/generosa-abusadores-avara-vitimas-2170735"
         },
         {
-            "title": "Ventura quer voltar a dar a mão ao Governo?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/politica/noticia/ventura-quer-voltar-dar-mao-governo-2170766"
+            "title": "Não derrubem o preâmbulo da Constituição",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/opiniao/opiniao/nao-derrubem-preambulo-constituicao-2170749"
         },
         {
-            "title": "O Estado e o princípio da confiança",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/09/opiniao/editorial/estado-principio-confianca-2170730"
+            "title": "Sobre a vida e a morte dos lugares",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/mundo/cronica/cidades-morrem-morrem-pe-2170662"
         }
     ],
     "finance": [],
-    "last_update": "10/04/2026 04:37"
+    "last_update": "10/04/2026 06:26"
 }
