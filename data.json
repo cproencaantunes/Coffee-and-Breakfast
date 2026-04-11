@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 16.8,
-        "manha": 15.1,
-        "tarde": 16.2,
-        "noite": 12.4
+        "manha": 15.4,
+        "tarde": 15.9,
+        "noite": 12.2
     },
     "forecast": {
         "max": 15.5,
-        "min": 11.8
+        "min": 11.7
     },
     "news": [
         {
-            "title": "Alisha e Zil já sabem fazer pão-de-ló. Há vidas a recomeçar nos centros de formação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/economia/reportagem/alisha-zil-ja-sabem-paodelo-ha-vidas-recomecar-centros-formacao-2170829"
+            "title": "Se quisermos proteger a nossa cultura gastronómica, temos de defender a resistência alimentar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/fugas/cronica/quisermos-proteger-cultura-gastronomica-defender-resistencia-alimentar-2170308"
         },
         {
-            "title": "És jovem? Notas para o duelo Pacheco Pereira <em>vs.</em> Ventura",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/politica/opiniao/es-jovem-notas-duelo-pacheco-pereira-vs-ventura-2170875"
+            "title": "Acordo entre instituições de Brasil e Portugal visa reforçar recursos oceânicos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/publico-brasil/noticia/acordo-instituicoes-brasil-portugal-visa-reforcar-recursos-oceanicos-2170803"
         },
         {
-            "title": "A habitação: a tragédia nacional",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/opiniao/opiniao/habitacao-tragedia-nacional-2170418"
+            "title": "Bofetadas judiciais (SLAPPS)",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/opiniao/opiniao/bofetadas-judiciais-slapps-2170862"
         },
         {
-            "title": "Um terço dos pedidos para abrir cursos superiores foi chumbado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/sociedade/noticia/terco-pedidos-abrir-cursos-superiores-chumbado-2170796"
+            "title": "Momento ideal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/opiniao/opiniao/momento-ideal-2170878"
         },
         {
-            "title": "Os pontos que travam (ou podem salvar) o acordo na reforma laboral",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/economia/noticia/pontos-travam-podem-salvar-acordo-reforma-laboral-2170882"
+            "title": "Não bastam multas maiores, a educação rodoviária “tem de começar muito mais cedo”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/sociedade/noticia/nao-bastam-multas-maiores-educacao-rodoviaria-comecar-cedo-2170877"
         }
     ],
     "finance": [],
-    "last_update": "11/04/2026 05:53"
+    "last_update": "11/04/2026 06:48"
 }
