@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 0,
-        "manha": 0,
-        "tarde": 0,
-        "noite": 0
+        "atual": 16.8,
+        "manha": 15.2,
+        "tarde": 15.8,
+        "noite": 11.9
     },
     "forecast": {
-        "max": 0,
-        "min": 0
+        "max": 15.5,
+        "min": 11.4
     },
     "news": [
         {
-            "title": "José Ornelas: não é católico quem defende discurso de ódio ou exclusão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/sociedade/noticia/jose-ornelas-nao-catolico-defende-discurso-odio-exclusao-2170907"
+            "title": "Grupo VITA tem recebido novas denúncias de abusos sexuais na Igreja",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/sociedade/noticia/grupo-vita-recebido-novas-denuncias-abusos-sexuais-igreja-2170917"
         },
         {
-            "title": "Lobo em fuga na Coreia do Sul inspira <em>memecoin </em> e preocupa presidente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/p3/noticia/lobo-fuga-coreia-sul-inspira-memecoin-preocupa-presidente-2170908"
+            "title": "Keanu Reeves e a comédia sobre redenção das estrelas que se portam mal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/culturaipsilon/noticia/keanu-reeves-comedia-redencao-estrelas-portam-mal-2170909"
         },
         {
-            "title": "A Hungria decide: resiliência ou a reversão da autocracia de Orbán",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/p3/cronica/hungria-decide-resiliencia-reversao-autocracia-orban-2170904"
+            "title": "Sem limite no preço e sem restrição por dívidas: o que muda no subsídio de mobilidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/politica/perguntaserespostas/limite-preco-restricao-dividas-muda-subsidio-mobilidade-2170910"
         },
         {
-            "title": "Silvestre Pestana: poemas de arte e tecnologia em <em>Colapso</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/culturaipsilon/critica/poemas-arte-tecnologia-2170128"
+            "title": "Vida Independente: PS propõe assistência pessoal gratuita a deficientes, sem condição de recursos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/politica/noticia/vida-independente-ps-propoe-assistencia-pessoal-gratuita-deficientes-condicao-recursos-2170879"
         },
         {
-            "title": "O campeonato de ralis… em carros eléctricos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/enter/podcast/campeonato-ralis-carros-electricos-2170746"
+            "title": "Leis laborais: CIP acusa UGT de faltar à verdade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/economia/noticia/leis-laborais-cip-acusa-ugt-faltar-verdade-2170913"
         }
     ],
     "finance": [],
-    "last_update": "11/04/2026 11:21"
+    "last_update": "11/04/2026 12:33"
 }
