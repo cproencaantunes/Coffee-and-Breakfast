@@ -1,15 +1,27 @@
 {
     "weather": {
         "atual": 16.8,
-        "manha": 15.4,
-        "tarde": 15.9,
-        "noite": 12.2
+        "manha": 15.2,
+        "tarde": 16.4,
+        "noite": 12.1
     },
     "forecast": {
-        "max": 15.5,
-        "min": 11.7
+        "max": 15.7,
+        "min": 11.5
     },
     "news": [
+        {
+            "title": "A Hungria decide: resiliência ou a reversão da autocracia de Orbán",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/p3/cronica/hungria-decide-resiliencia-reversao-autocracia-orban-2170904"
+        },
+        {
+            "title": "Silvestre Pestana: poemas de arte e tecnologia em <em>Colapso</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/culturaipsilon/critica/poemas-arte-tecnologia-2170128"
+        },
+        {
+            "title": "O campeonato de ralis… em carros eléctricos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/enter/podcast/campeonato-ralis-carros-electricos-2170746"
+        },
         {
             "title": "Arrumador de carros que ameaçava cidadãos com x-acto interceptado em Leiria pela PSP",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/sociedade/noticia/arrumador-carros-ameacava-cidadaos-xacto-interceptado-leiria-psp-2170903"
@@ -17,20 +29,8 @@
         {
             "title": "“Guerra civil” rara observada na maior comunidade de chimpanzés selvagens do mundo",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/ciencia/noticia/guerra-civil-rara-observada-maior-comunidade-chimpanzes-selvagens-mundo-2170690"
-        },
-        {
-            "title": "A arte de bem comer de Afonso Cruz e novos poemas de Raquel Nobre Guerra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/culturaipsilon/noticia/arte-bem-comer-afonso-cruz-novos-poemas-raquel-nobre-guerra-2164064"
-        },
-        {
-            "title": "Sim, pode fazer-se amizades com árvores. E pode ser uma boa ideia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/azul/noticia/sim-fazerse-amizade-arvores-boa-ideia-2170526"
-        },
-        {
-            "title": "A Cork de Bourdain e das alpacas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/fugas/reportagem/cork-bourdain-alpacas-2152247"
         }
     ],
     "finance": [],
-    "last_update": "11/04/2026 09:31"
+    "last_update": "11/04/2026 10:23"
 }
