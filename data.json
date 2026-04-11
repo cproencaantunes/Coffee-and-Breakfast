@@ -1,15 +1,23 @@
 {
     "weather": {
-        "atual": 16.8,
-        "manha": 15.2,
+        "atual": 11.7,
+        "manha": 13.0,
         "tarde": 15.6,
         "noite": 12.4
     },
     "forecast": {
-        "max": 15.6,
-        "min": 11.6
+        "max": 16.3,
+        "min": 11.5
     },
     "news": [
+        {
+            "title": "A magia da mão alheia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/opiniao/opiniao/magia-mao-alheia-2170915"
+        },
+        {
+            "title": "Morreu o historiador Diogo Ramada Curto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/culturaipsilon/noticia/morreu-historiador-diogo-ramada-curto-2170950"
+        },
         {
             "title": "Sporting triunfa na Reboleira e coloca pressão ao líder",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/desporto/cronica_de_jogo/sporting-triunfa-reboleira-coloca-pressao-lider-2170949"
@@ -21,16 +29,8 @@
         {
             "title": "Lauriane Mouysset: “A economia não é má nem mágica”, e pode ser útil à biodiversidade",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/azul/entrevista/lauriane-mouysset-economia-nao-ma-magica-util-biodiversidade-2169378"
-        },
-        {
-            "title": "O inimigo entre nós vai a votos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/opiniao/editorial/inimigo-vai-votos-2170942"
-        },
-        {
-            "title": "Eleições na Hungria: o combate desigual entre Orbán e Magyar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/mundo/noticia/eleicoes-hungria-combate-desigual-orban-magyar-2170947"
         }
     ],
     "finance": [],
-    "last_update": "11/04/2026 22:21"
+    "last_update": "11/04/2026 23:22"
 }
