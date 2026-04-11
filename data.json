@@ -1,15 +1,27 @@
 {
     "weather": {
         "atual": 16.8,
-        "manha": 14.8,
-        "tarde": 16.4,
+        "manha": 14.9,
+        "tarde": 15.9,
         "noite": 12.3
     },
     "forecast": {
         "max": 15.7,
-        "min": 11.6
+        "min": 11.7
     },
     "news": [
+        {
+            "title": "A garrafeira clássica onde há sempre lugar para a descoberta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/edicoes-publico/noticia/garrafeira-classica-onde-ha-lugar-descoberta-2170895"
+        },
+        {
+            "title": "A falta de professores e a integração do 1.º Ciclo do Ensino Básico com o 2.º Ciclo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/opiniao/opiniao/falta-professores-integracao-1-ciclo-ensino-basico-2-ciclo-2170892"
+        },
+        {
+            "title": "<em></em>IAtização<em></em> das escolas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/opiniao/opiniao/iatizacao-escolas-2170891"
+        },
         {
             "title": "A Igreja, as indemnizações, o abuso sexual e o abuso fiscal",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/opiniao/opiniao/igreja-indemnizacoes-abuso-sexual-abuso-fiscal-2170846"
@@ -17,20 +29,8 @@
         {
             "title": "As nêsperas sobre o lixo",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/opiniao/cronica/nesperas-lixo-2170837"
-        },
-        {
-            "title": "Kamala Harris, ex-vice dos EUA, admite nova candidatura à presidência",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/mundo/noticia/kamala-harris-exvice-eua-admite-nova-candidatura-presidencia-2170886"
-        },
-        {
-            "title": "Juiz que assinou duas distribuições consideradas viciadas escapa a sanções",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/sociedade/noticia/juiz-assinou-duas-distribuicoes-consideradas-viciadas-escapa-sancoes-2170888"
-        },
-        {
-            "title": "Após semana a ver estragos do mau tempo, Seguro promete manter Governo sob “vigilância”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/10/politica/reportagem/apos-semana-estragos-mau-tempo-seguro-promete-manter-governo-vigilancia-2170863"
         }
     ],
     "finance": [],
-    "last_update": "10/04/2026 23:25"
+    "last_update": "11/04/2026 01:16"
 }
