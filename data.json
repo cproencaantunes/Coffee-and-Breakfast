@@ -2,14 +2,26 @@
     "weather": {
         "atual": 11.7,
         "manha": 12.5,
-        "tarde": 15.4,
-        "noite": 12.2
+        "tarde": 15.5,
+        "noite": 12.4
     },
     "forecast": {
-        "max": 15.8,
-        "min": 11.4
+        "max": 15.9,
+        "min": 11.5
     },
     "news": [
+        {
+            "title": "As calças são opcionais: o que aprendi ao explorar os clubes de Berlim",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/p3/reportagem/calcas-sao-opcionais-aprendi-explorar-clubes-berlim-2170905"
+        },
+        {
+            "title": "Aviões da Embraer, Airbus e Boeing têm todos “componentes ou peças fabricadas em Portugal”, diz EAD Cluster",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/economia/noticia/avioes-embraer-airbus-boeing-componentes-pecas-fabricadas-portugal-ead-cluster-2170963"
+        },
+        {
+            "title": "Sob “atmosfera de desconfiança”, Irão rejeitou termos impostos pelos EUA em Islamabad",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/mundo/noticia/atmosfera-desconfianca-irao-rejeitou-termos-impostos-eua-islamabad-2170966"
+        },
         {
             "title": "Eleições na Hungria: Gabriele veio dos Países Baixos e trouxe a sua caneta para votar",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/mundo/reportagem/eleicoes-hungria-gabriele-veio-paises-baixos-trouxe-caneta-votar-2170964"
@@ -17,20 +29,8 @@
         {
             "title": "Um historiador de longo alcance",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/culturaipsilon/comentario/historiador-longo-alcance-2170965"
-        },
-        {
-            "title": "Diogo Ramada Curto, um amigo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/culturaipsilon/comentario/diogo-ramada-curto-amigo-2170961"
-        },
-        {
-            "title": "Quem tem a pior flatulência: os homens ou as mulheres? A ciência tem a resposta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/ciencia/noticia/pior-flatulencia-homens-mulheres-ciencia-resposta-2170384"
-        },
-        {
-            "title": "Governo angolano dá ordem de despejo à mesma Liga Africana que condecorou em Setembro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/mundo/noticia/governo-angolano-ordem-despejo-liga-africana-condecorou-setembro-2170953"
         }
     ],
     "finance": [],
-    "last_update": "12/04/2026 11:26"
+    "last_update": "12/04/2026 12:36"
 }
