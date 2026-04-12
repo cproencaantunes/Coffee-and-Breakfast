@@ -3,34 +3,34 @@
         "atual": 11.7,
         "manha": 12.9,
         "tarde": 15.7,
-        "noite": 12.3
+        "noite": 12.4
     },
     "forecast": {
         "max": 16.5,
-        "min": 11.3
+        "min": 11.5
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/opiniao/opiniao/cartas-director-2170851"
+            "title": "A geração que o país deixa partir",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/publico-brasil/opiniao/geracao-pais-deixa-partir-2170872"
         },
         {
-            "title": "A magia da mão alheia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/opiniao/opiniao/magia-mao-alheia-2170915"
+            "title": "O velho que ainda conduz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/impar/cronica/velho-conduz-2170689"
         },
         {
-            "title": "Morreu o historiador Diogo Ramada Curto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/culturaipsilon/noticia/morreu-historiador-diogo-ramada-curto-2170950"
+            "title": "“<em>Blue zones</em>”: entre a ciência e o marketing",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/impar/opiniao/blue-zones-ciencia-marketing-2170814"
         },
         {
-            "title": "Sporting triunfa na Reboleira e coloca pressão ao líder",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/desporto/cronica_de_jogo/sporting-triunfa-reboleira-coloca-pressao-lider-2170949"
+            "title": "As tristes festas dos expatriados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/opiniao/cronica/tristes-festas-expatriados-2170687"
         },
         {
-            "title": "Quase 50 anos depois, EUA e Irão sentam-se à mesa para negociar a paz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/11/mundo/noticia/quase-50-anos-eua-irao-sentamse-mesa-negociar-paz-2170935"
+            "title": "Boubacar Ould Messaoud (1945-2026): filho de escravo sabe lutar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/mundo/cronica/boubacar-ould-messaoud-19452026-filho-escravo-sabe-lutar-2170594"
         }
     ],
     "finance": [],
-    "last_update": "12/04/2026 04:38"
+    "last_update": "12/04/2026 06:18"
 }
