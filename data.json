@@ -3,34 +3,34 @@
         "atual": 11.7,
         "manha": 12.5,
         "tarde": 15.6,
-        "noite": 12.6
+        "noite": 12.5
     },
     "forecast": {
-        "max": 16.5,
+        "max": 16.9,
         "min": 11.3
     },
     "news": [
         {
+            "title": "Magyar celebra vitória nas eleições: “Libertámos a Hungria e livrámo-nos do regime de Orbán”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/mundo/noticia/magyar-celebra-vitoria-eleicoes-libertamos-hungria-livramonos-regime-orban-2170999"
+        },
+        {
+            "title": "Paulo Rangel: “Criou-se uma narrativa de que não há reformas…”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/politica/noticia/paulo-rangel-criouse-narrativa-nao-ha-reformas-2170997"
+        },
+        {
+            "title": "Nem esquerda nem direita, Montenegro promete escolher “as pessoas”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/politica/noticia/esquerda-direita-montenegro-promete-escolher-pessoas-2170996"
+        },
+        {
+            "title": "FC Porto lembrou ao Estoril a “lei da manta”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/desporto/cronica_de_jogo/fc-porto-lembrou-estoril-lei-manta-2170994"
+        },
+        {
             "title": "Há um Churchill na Europa: chama-se Pedro Sánchez",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/mundo/cronica/ha-churchill-europa-chamase-pedro-sanchez-2170993"
-        },
-        {
-            "title": "Hospital de Santo António pode ter de devolver 178 mil euros porque Eurico Castro Alves não picou o ponto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/sociedade/noticia/hospital-santo-antonio-devolver-178-mil-euros-eurico-castro-alves-nao-picou-ponto-2170991"
-        },
-        {
-            "title": "Vasco Peso sagra-se campeão europeu em trampolins e Portugal conquista oito medalhas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/desporto/noticia/vasco-peso-sagrase-campeao-europeu-trampolins-portugal-conquista-oito-medalhas-2170992"
-        },
-        {
-            "title": "Diogo Ramada Curto (1959-2026), o historiador que nunca se fechou na história",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/culturaipsilon/noticia/diogo-ramada-curto-19592026-historiador-fechou-historia-2170984"
-        },
-        {
-            "title": "Vedat Muriqi, um avançado em vias de extinção",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/desporto/noticia/vedat-muriqi-avancado-vias-extincao-2170987"
         }
     ],
     "finance": [],
-    "last_update": "12/04/2026 21:24"
+    "last_update": "12/04/2026 22:22"
 }
