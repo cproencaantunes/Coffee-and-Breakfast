@@ -3,13 +3,25 @@
         "atual": 11.7,
         "manha": 12.5,
         "tarde": 15.6,
-        "noite": 12.4
+        "noite": 12.6
     },
     "forecast": {
-        "max": 16.6,
-        "min": 11.1
+        "max": 16.5,
+        "min": 11.3
     },
     "news": [
+        {
+            "title": "Da China de Mao ao crime islandês: o mundo passou por Matosinhos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/culturaipsilon/noticia/china-mao-crime-islandes-mundo-passou-matosinhos-2170982"
+        },
+        {
+            "title": "Eleições na Hungria: Magyar pede calma e paciência mas está “cautelosamente optimista”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/mundo/noticia/eleicoes-hungria-magyar-pede-calma-paciencia-cautelosamente-optimista-2170986"
+        },
+        {
+            "title": "Força Aérea da Nigéria erra alvo e mata mais de 100 pessoas em ataque contra jihadistas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/mundo/noticia/forca-aerea-nigeria-erra-alvo-mata-100-pessoas-ataque-jihadistas-2170983"
+        },
         {
             "title": "Extrema-direita alemã quer reactivar gasoduto russo e deixar de apoiar renováveis",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/mundo/noticia/extremadireita-alema-quer-reactivar-gasoduto-russo-deixar-apoiar-renovaveis-2170981"
@@ -17,20 +29,8 @@
         {
             "title": "Recolha de biometria volta a ser suspensa nos aeroportos de Portugal",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/publico-brasil/noticia/recolha-biometria-volta-suspensa-aeroportos-portugal-2170979"
-        },
-        {
-            "title": "Jannik Sinner sai do Mónaco como número um do ténis mundial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/desporto/noticia/jannik-sinner-sai-monaco-numero-tenis-mundial-2170980"
-        },
-        {
-            "title": "No cancioneiro de Benfica, não se canta apenas, conta-se também a música de rua",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/local/noticia/cancioneiro-benfica-nao-canta-apenas-contase-tambem-musica-rua-2166316"
-        },
-        {
-            "title": "O historiador que argumenta contra a corrente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/culturaipsilon/comentario/historiador-argumenta-corrente-2170978"
         }
     ],
     "finance": [],
-    "last_update": "12/04/2026 17:26"
+    "last_update": "12/04/2026 18:32"
 }
