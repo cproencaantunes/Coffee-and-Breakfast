@@ -2,14 +2,22 @@
     "weather": {
         "atual": 11.7,
         "manha": 12.5,
-        "tarde": 15.5,
+        "tarde": 15.6,
         "noite": 12.4
     },
     "forecast": {
-        "max": 15.9,
-        "min": 11.5
+        "max": 16.6,
+        "min": 11.1
     },
     "news": [
+        {
+            "title": "Jannik Sinner sai do Mónaco como número um do ténis mundial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/desporto/noticia/jannik-sinner-sai-monaco-numero-tenis-mundial-2170980"
+        },
+        {
+            "title": "No cancioneiro de Benfica, não se canta apenas, conta-se também a música de rua",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/local/noticia/cancioneiro-benfica-nao-canta-apenas-contase-tambem-musica-rua-2166316"
+        },
         {
             "title": "O historiador que argumenta contra a corrente",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/culturaipsilon/comentario/historiador-argumenta-corrente-2170978"
@@ -21,16 +29,8 @@
         {
             "title": "É o primeiro ovo de um antepassado dos mamíferos. Tem 250 milhões de anos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/ciencia/noticia/ovo-antepassado-mamiferos-250-milhoes-anos-2170785"
-        },
-        {
-            "title": "Varandas atira-se a Villas-Boas: “Também diz publicamente que o Apito Dourado é uma vergonha?”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/desporto/noticia/varandas-atirase-villasboas-tambem-publicamente-apito-dourado-vergonha-2170976"
-        },
-        {
-            "title": "Emília Brederode Santos: RTP lamenta morte de “figura incontornável” da televisão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/sociedade/noticia/emilia-brederode-santos-rtp-lamenta-morte-figura-incontornavel-televisao-2170974"
         }
     ],
     "finance": [],
-    "last_update": "12/04/2026 15:27"
+    "last_update": "12/04/2026 16:26"
 }
