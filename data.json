@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 11.9,
-        "manha": 12.4,
-        "tarde": 16.9,
-        "noite": 14.5
+        "manha": 12.3,
+        "tarde": 16.3,
+        "noite": 14.1
     },
     "forecast": {
-        "max": 19.6,
-        "min": 14.1
+        "max": 19.8,
+        "min": 13.7
     },
     "news": [
+        {
+            "title": "Reformar o SNS: entre a equidade e a necessidade de escolha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/opiniao/opiniao/reformar-sns-equidade-necessidade-escolha-2170365"
+        },
         {
             "title": "Cartas ao director",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/opiniao/opiniao/cartas-director-2170971"
@@ -25,12 +29,8 @@
         {
             "title": "Nem esquerda nem direita, Montenegro promete escolher “as pessoas”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/politica/noticia/esquerda-direita-montenegro-promete-escolher-pessoas-2170996"
-        },
-        {
-            "title": "FC Porto lembrou ao Estoril a “lei da manta”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/desporto/cronica_de_jogo/fc-porto-lembrou-estoril-lei-manta-2170994"
         }
     ],
     "finance": [],
-    "last_update": "13/04/2026 01:28"
+    "last_update": "13/04/2026 04:50"
 }
