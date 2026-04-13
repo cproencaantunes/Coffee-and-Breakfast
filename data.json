@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 12.0,
-        "manha": 12.7,
-        "tarde": 16.8,
-        "noite": 14.6
+        "atual": 11.9,
+        "manha": 12.4,
+        "tarde": 16.9,
+        "noite": 14.5
     },
     "forecast": {
         "max": 19.6,
         "min": 14.1
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/opiniao/opiniao/cartas-director-2170971"
+        },
         {
             "title": "Magyar celebra vitória nas eleições: “Libertámos a Hungria e livrámo-nos do regime de Orbán”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/mundo/noticia/magyar-celebra-vitoria-eleicoes-libertamos-hungria-livramonos-regime-orban-2170999"
@@ -25,12 +29,8 @@
         {
             "title": "FC Porto lembrou ao Estoril a “lei da manta”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/desporto/cronica_de_jogo/fc-porto-lembrou-estoril-lei-manta-2170994"
-        },
-        {
-            "title": "Há um Churchill na Europa: chama-se Pedro Sánchez",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/mundo/cronica/ha-churchill-europa-chamase-pedro-sanchez-2170993"
         }
     ],
     "finance": [],
-    "last_update": "12/04/2026 23:24"
+    "last_update": "13/04/2026 01:28"
 }
