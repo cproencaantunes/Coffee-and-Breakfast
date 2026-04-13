@@ -2,35 +2,35 @@
     "weather": {
         "atual": 11.9,
         "manha": 12.2,
-        "tarde": 16.1,
-        "noite": 14.3
+        "tarde": 16.0,
+        "noite": 14.0
     },
     "forecast": {
-        "max": 19.2,
-        "min": 13.7
+        "max": 19.4,
+        "min": 13.4
     },
     "news": [
         {
-            "title": "Mulher de Pedro Sánchez processada por crimes de corrupção e tráfico de influências, juiz pede júri popular",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/mundo/noticia/mulher-pedro-sanchez-processada-crimes-corrupcao-trafico-influencias-juiz-pede-juri-popular-2171076"
+            "title": "Huawei Pura X Max, o novo dobrável chinês que se quer antecipar ao iPhone Fold",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/enter/noticia/huawei-pura-x-max-novo-dobravel-chines-quer-antecipar-iphone-fold-2171087"
         },
         {
-            "title": "Ao seu estilo, o Papa Leão XIV respondeu às críticas de Trump: “Vou continuar a defender a paz”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/mundo/noticia/estilo-papa-leao-xiv-respondeu-criticas-trump-vou-continuar-defender-paz-2171053"
+            "title": "Linha de prevenção do suicídio já atendeu 14 mil chamadas, sobretudo de jovens e mulheres",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/p3/noticia/linha-prevencao-suicidio-ja-atendeu-14-mil-chamadas-sobretudo-jovens-mulheres-2171081"
         },
         {
-            "title": "Xpeng P7+, o eléctrico chinês de luxo com preço de gama média",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/video/xpeng-p7-eletrico-chines-luxo-preco-gama-media-20260413-145559"
+            "title": "Arbitragem: um par de penáltis por assinalar na Amadora e outro no Estoril",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/desporto/analise/par-penaltis-assinalar-amadora-estoril-2171080"
         },
         {
-            "title": "Ministro da Educação admite “pressão” sobre autarquias nas refeições",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/sociedade/noticia/ministro-educacao-admite-pressao-autarquias-refeicoes-2171067"
+            "title": "Presidente da CEP acusa Governo de “legitimar a exclusão, a hostilidade ou o desprezo” pelos imigrantes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/sociedade/noticia/presidente-cep-acusa-governo-legitimar-exclusao-hostilidade-desprezo-imigrantes-2171084"
         },
         {
-            "title": "Israel intensifica ataques a cidade fronteiriça no Líbano antes de conversações mediadas pelos EUA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/mundo/noticia/israel-intensifica-ataques-cidade-fronteirica-libano-conversacoes-mediadas-eua-2171065"
+            "title": "Orbán: o fim do homem inevitável",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/opiniao/editorial/orban-fim-homem-inevitavel-2171051"
         }
     ],
     "finance": [],
-    "last_update": "13/04/2026 14:50"
+    "last_update": "13/04/2026 16:06"
 }
