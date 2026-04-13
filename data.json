@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 11.9,
-        "manha": 12.2,
-        "tarde": 16.0,
-        "noite": 13.6
+        "atual": 13.4,
+        "manha": 14.1,
+        "tarde": 18.1,
+        "noite": 14.9
     },
     "forecast": {
-        "max": 18.9,
-        "min": 13.2
+        "max": 20.0,
+        "min": 12.6
     },
     "news": [
         {
-            "title": "Conheça os brasileiros que se destacam no Guia Repsol Portugal de 2026",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/publico-brasil/noticia/conheca-brasileiros-destacam-guia-repsol-portugal-2026-2171128"
+            "title": "A “arte” da guerra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/opiniao/opiniao/arte-guerra-2170995"
         },
         {
-            "title": "Uma extraordinária entrevista a Dario Amodei",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/newsletter/quatrozero"
+            "title": "Derrota de Orbán também é de Putin e Trump",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/opiniao/opiniao/derrota-orban-tambem-putin-trump-2171100"
         },
         {
-            "title": "<em>Sona</em>, o último tigre de circo de Portugal, foi entregue a santuário espanhol",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/sociedade/noticia/ultimo-tigre-circo-portugal-entregue-santuario-espanhol-2171126"
+            "title": "Regresso ao futuro no Líbano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/opiniao/opiniao/regresso-futuro-libano-2171052"
         },
         {
-            "title": "Gotas de futuro no oceano de passado e presente da música cabo-verdiana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/culturaipsilon/reportagem/gotas-futuro-oceano-passado-musica-caboverdiana-2171056"
+            "title": "A guerra, esse videojogo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/opiniao/opiniao/guerra-videojogo-2171042"
         },
         {
-            "title": "O SAPO Mail deixou de ser gratuito. E isso devia preocupar-nos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/p3/cronica/sapo-mail-deixou-gratuito-preocuparnos-2171097"
+            "title": "Filas nos aeroportos <em>vs.</em> filas nos hospitais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/opiniao/opiniao/filas-aeroportos-vs-filas-hospitais-2171085"
         }
     ],
     "finance": [],
-    "last_update": "13/04/2026 22:34"
+    "last_update": "13/04/2026 23:33"
 }
