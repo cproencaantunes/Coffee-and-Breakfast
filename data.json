@@ -2,35 +2,35 @@
     "weather": {
         "atual": 11.9,
         "manha": 12.2,
-        "tarde": 16.2,
-        "noite": 14.0
+        "tarde": 16.0,
+        "noite": 14.1
     },
     "forecast": {
-        "max": 19.8,
-        "min": 13.8
+        "max": 19.2,
+        "min": 13.7
     },
     "news": [
         {
-            "title": "Líderes europeus felicitam vitória de Magyar: “A Hungria escolheu a Europa”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/mundo/noticia/lideres-europeus-felicitam-vitoria-magyar-hungria-escolheu-europa-2171012"
+            "title": "Constitucional está há um ano para analisar lei que criminaliza “práticas de conversão sexual”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/sociedade/noticia/constitucional-ha-ano-analisar-lei-criminaliza-terapias-conversao-sexual-2170707"
         },
         {
-            "title": "Fujimori e López Aliaga na frente para a segunda volta das presidenciais no Peru",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/mundo/noticia/fujimori-lopez-aliaga-frente-segunda-volta-presidenciais-peru-2171011"
+            "title": "Seguro escolhe Miguel Monjardino para presidir às comemorações do 10 de Junho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/politica/noticia/seguro-escolhe-miguel-monjardino-presidir-comemoracoes-10-junho-2171024"
         },
         {
-            "title": "Patrões acusam UGT de romper consensos e comprometer negociação do pacote laboral",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/economia/noticia/patroes-acusam-ugt-romper-consensos-comprometer-negociacao-pacote-laboral-2171013"
+            "title": "A casa de Sam Altman, líder da OpenAI, foi atacada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/enter/noticia/casa-sam-altman-lider-openai-atacada-2171022"
         },
         {
-            "title": "Para conhecer os anseios da comunidade sobre saúde, eles criam as “assembleias dos vizinhos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/local/reportagem/conhecer-anseios-comunidade-saude-criam-assembleias-vizinhos-2170039"
+            "title": "Precisamos de um mundo onde é seguro mudar de opinião",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/p3/cronica/precisamos-mundo-onde-seguro-mudar-opiniao-2168040"
         },
         {
-            "title": "Como se esperava, a falta de acordo entre EUA e Irão coloca petróleo acima dos 100 dólares",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/economia/noticia/esperava-falta-acordo-eua-irao-coloca-petroleo-acima-100-dolares-2171010"
+            "title": "Renováveis asseguram 78,5% da electricidade no primeiro trimestre",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/azul/noticia/renovaveis-asseguram-785-electricidade-trimestre-2171014"
         }
     ],
     "finance": [],
-    "last_update": "13/04/2026 09:26"
+    "last_update": "13/04/2026 11:08"
 }
