@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 11.9,
-        "manha": 12.3,
-        "tarde": 16.3,
-        "noite": 14.1
+        "manha": 12.2,
+        "tarde": 16.2,
+        "noite": 14.0
     },
     "forecast": {
         "max": 19.8,
-        "min": 13.7
+        "min": 13.8
     },
     "news": [
         {
-            "title": "Reformar o SNS: entre a equidade e a necessidade de escolha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/opiniao/opiniao/reformar-sns-equidade-necessidade-escolha-2170365"
+            "title": "Superar barreiras na implementação das energias renováveis oceânicas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/azul/opiniao/superar-barreiras-implementacao-energias-renovaveis-oceanicas-2170817"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/opiniao/opiniao/cartas-director-2170971"
+            "title": "Casa Civil, conselheiros de Estado e representantes da República: o que falta fechar em Belém",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/politica/noticia/casa-civil-conselheiros-estado-representantes-republica-falta-fechar-belem-2170968"
         },
         {
-            "title": "Magyar celebra vitória nas eleições: “Libertámos a Hungria e livrámo-nos do regime de Orbán”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/mundo/noticia/magyar-celebra-vitoria-eleicoes-libertamos-hungria-livramonos-regime-orban-2170999"
+            "title": "Estados Unidos impõem bloqueio naval ao Irão a partir desta segunda-feira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/mundo/noticia/estados-unidos-impoem-bloqueio-naval-irao-partir-segundafeira-2171005"
         },
         {
-            "title": "Paulo Rangel: “Criou-se uma narrativa de que não há reformas…”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/politica/noticia/paulo-rangel-criouse-narrativa-nao-ha-reformas-2170997"
+            "title": "Despertador: Um quinto dos arguidos por violação tem menos de 20 anos. Orbán perdeu na Hungria",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/newsletter/despertador"
         },
         {
-            "title": "Nem esquerda nem direita, Montenegro promete escolher “as pessoas”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/12/politica/noticia/esquerda-direita-montenegro-promete-escolher-pessoas-2170996"
+            "title": "Magyar sucede a Órban. \"Hungria será novamente forte aliada da União Europeia\"",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/13/video/hungria-sera-novamente-forte-aliado-ue-magyar-vence-eleicoes-poe-fim-regime-orban-20260413-031935"
         }
     ],
     "finance": [],
-    "last_update": "13/04/2026 04:50"
+    "last_update": "13/04/2026 07:08"
 }
