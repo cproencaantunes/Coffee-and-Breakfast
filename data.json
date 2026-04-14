@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 13.4,
-        "manha": 14.1,
-        "tarde": 18.1,
-        "noite": 14.9
+        "atual": 13.6,
+        "manha": 13.9,
+        "tarde": 19.0,
+        "noite": 15.0
     },
     "forecast": {
         "max": 20.0,
         "min": 12.6
     },
     "news": [
+        {
+            "title": "Pacheco Pereira e Ventura discordaram em tudo num debate marcado por interrupções",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/politica/noticia/pacheco-pereira-ventura-discordaram-debate-marcado-interrupcoes-2171129"
+        },
         {
             "title": "A “arte” da guerra",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/opiniao/opiniao/arte-guerra-2170995"
@@ -25,12 +29,8 @@
         {
             "title": "A guerra, esse videojogo",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/opiniao/opiniao/guerra-videojogo-2171042"
-        },
-        {
-            "title": "Filas nos aeroportos <em>vs.</em> filas nos hospitais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/opiniao/opiniao/filas-aeroportos-vs-filas-hospitais-2171085"
         }
     ],
     "finance": [],
-    "last_update": "13/04/2026 23:33"
+    "last_update": "14/04/2026 01:26"
 }
