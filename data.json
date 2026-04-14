@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 13.6,
-        "manha": 14.2,
-        "tarde": 19.3,
-        "noite": 15.1
+        "manha": 14.1,
+        "tarde": 19.0,
+        "noite": 14.8
     },
     "forecast": {
         "max": 19.4,
-        "min": 12.8
+        "min": 12.5
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/opiniao/opiniao/cartas-director-2171093"
+            "title": "Uma civilização inteira vai morrer",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/publico-brasil/opiniao/civilizacao-inteira-vai-morrer-2171122"
         },
         {
-            "title": "Quem ganhou o debate entre André Ventura e Pacheco Pereira?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/politica/noticia/ganhou-debate-andre-ventura-pacheco-pereira-2171057"
+            "title": "Trump bloqueia Ormuz. Esta guerra é útil para quem?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/mundo/noticia/trump-bloqueia-ormuz-guerra-util-2171064"
         },
         {
-            "title": "Pacheco Pereira e Ventura discordaram em tudo num debate marcado por interrupções",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/politica/noticia/pacheco-pereira-ventura-discordaram-debate-marcado-interrupcoes-2171129"
+            "title": "Do fim do medo de decidir à porta para a corrupção: as reacções sobre nova lei do TdC",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/politica/noticia/fim-medo-decidir-porta-corrupcao-reaccoes-nova-lei-tdc-2171130"
         },
         {
-            "title": "A “arte” da guerra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/opiniao/opiniao/arte-guerra-2170995"
+            "title": "Imposto do tabaco: Pulmonale tem “muitas dúvidas” sobre as boas intenções do Governo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/sociedade/noticia/imposto-tabaco-pulmonale-duvidas-boas-intencoes-governo-2169967"
         },
         {
-            "title": "Derrota de Orbán também é de Putin e Trump",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/opiniao/opiniao/derrota-orban-tambem-putin-trump-2171100"
+            "title": "Imposto sobre o tabaco: alteração decidida pelo Governo vai render menos dinheiro ao SNS",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/sociedade/noticia/imposto-tabaco-alteracao-decidida-governo-vai-render-menos-dinheiro-sns-2169348"
         }
     ],
     "finance": [],
-    "last_update": "14/04/2026 04:37"
+    "last_update": "14/04/2026 06:25"
 }
