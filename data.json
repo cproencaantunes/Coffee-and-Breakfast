@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.6,
         "manha": 14.0,
-        "tarde": 19.0,
-        "noite": 14.6
+        "tarde": 19.5,
+        "noite": 14.8
     },
     "forecast": {
-        "max": 19.9,
+        "max": 19.8,
         "min": 12.6
     },
     "news": [
         {
-            "title": "Encontro aproxima imigrantes e empresas no Norte de Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/publico-brasil/noticia/encontro-aproxima-imigrantes-empresas-norte-portugal-2170956"
+            "title": "Amazon compra Globalstar por 11,57 mil milhões para desafiar a Starlink",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/enter/noticia/amazon-compra-globalstar-1157-mil-milhoes-desafiar-starlink-2171175"
         },
         {
-            "title": "Homem condenado por levar mulher ao suicídio — é um momento histórico para vítimas de abuso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/p3/noticia/homem-condenado-levar-mulher-suicidio-momento-historico-vitimas-abuso-2171166"
+            "title": "Prémio literário ALMA 2026 atribuído a canadiano Jon Klassen",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/culturaipsilon/noticia/premio-literario-alma-2026-atribuido-canadiano-jon-klassen-2171169"
         },
         {
-            "title": "Príncipe Harry e Meghan recebidos sem entusiasmo na Austrália",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/impar/noticia/principe-harry-meghan-recebidos-entusiasmo-australia-2171136"
+            "title": "PCP acusa Governo de chantagem na lei laboral e pede que “aceite e aprenda com a derrota”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/politica/noticia/pcp-acusa-governo-chantagem-lei-laboral-pede-aceite-aprenda-derrota-2171177"
         },
         {
-            "title": "Sem número de Segurança Social, refugiados não conseguem contrato de trabalho nem abono",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/sociedade/noticia/numero-seguranca-social-refugiados-sentemse-encurralados-2170087"
+            "title": "Nissan Juke torna-se eléctrico com design radical",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/enter/noticia/nissan-juke-tornase-electrico-design-radical-2171160"
         },
         {
-            "title": "Lei-quadro para restituição de bens culturais aprovada em França",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/culturaipsilon/noticia/leiquadro-restituicao-bens-culturais-aprovada-franca-2171142"
+            "title": "Michael Rosen e Cai Gao vencem Prémio Hans Christian Andersen de literatura infantil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/culturaipsilon/noticia/michael-rosen-cai-gao-vencem-premio-hans-christian-andersen-literatura-infantil-2171170"
         }
     ],
     "finance": [],
-    "last_update": "14/04/2026 11:51"
+    "last_update": "14/04/2026 12:59"
 }
