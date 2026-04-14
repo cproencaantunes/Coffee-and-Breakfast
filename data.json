@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 13.6,
-        "manha": 14.0,
-        "tarde": 19.0,
+        "atual": 14.0,
+        "manha": 13.9,
+        "tarde": 19.4,
         "noite": 15.1
     },
     "forecast": {
-        "max": 19.6,
+        "max": 22.9,
         "min": 12.7
     },
     "news": [
         {
-            "title": "Luís Duarte Costa demitiu-se da direcção da urgência do Amadora-Sintra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/sociedade/noticia/luis-duarte-costa-demitiuse-direccao-urgencia-amadorasintra-2171256"
+            "title": "A extrema-direita depois de Orbán",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/opiniao/opiniao/extremadireita-orban-2171231"
         },
         {
-            "title": "Champions: PSG e Atlético Madrid não permitem reviravoltas rumo às meias-finais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/desporto/noticia/champions-psg-atletico-madrid-nao-permitem-reviravoltas-rumo-meiasfinais-2171247"
+            "title": "Proibir não é o mesmo que resolver",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/opiniao/opiniao/proibir-nao-resolver-2171149"
         },
         {
-            "title": "Livros que cruzam o Atlântico 25",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/newsletter/leituras"
+            "title": "Vacinas contra a covid-19: entre prova e suspeita",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/opiniao/opiniao/vacinas-covid19-prova-suspeita-2171178"
         },
         {
-            "title": "(Não) Somos todos a mesma coisa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/opiniao/editorial/nao-2171125"
+            "title": "Feito para ganhar, destinado a quebrar: a gravidade política e a queda do Orbanismo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/europa/opiniao/ganhar-destinado-quebrar-gravidade-politica-queda-orbanismo-2171152"
         },
         {
-            "title": "Nuno Melo espera assinar contratos do SAFE em Maio e ter Conceito Estratégico em “breve”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/14/politica/noticia/nuno-melo-espera-assinar-contratos-safe-maio-conceito-estrategico-breve-2171206"
+            "title": "Não copiar modelos, reconstruir a gramática da educação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/opiniao/opiniao/nao-copiar-modelos-reconstruir-gramatica-educacao-2171156"
         }
     ],
     "finance": [],
-    "last_update": "14/04/2026 22:36"
+    "last_update": "14/04/2026 23:34"
 }
