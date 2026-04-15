@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 14.0,
-        "manha": 13.9,
-        "tarde": 19.2,
-        "noite": 14.9
+        "manha": 14.1,
+        "tarde": 19.0,
+        "noite": 15.4
     },
     "forecast": {
-        "max": 22.9,
-        "min": 12.7
+        "max": 22.3,
+        "min": 12.9
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/opiniao/opiniao/cartas-director-2171213"
+        },
         {
             "title": "Morreu Vicente Lucas, símbolo do Belenenses e sombra de Pelé no Mundial 1966",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/desporto/noticia/morreu-vicente-lucas-simbolo-belenenses-sombra-pele-mundial-1966-2171260"
@@ -25,12 +29,8 @@
         {
             "title": "Vacinas contra a covid-19: entre prova e suspeita",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/opiniao/opiniao/vacinas-covid19-prova-suspeita-2171178"
-        },
-        {
-            "title": "Feito para ganhar, destinado a quebrar: a gravidade política e a queda do Orbanismo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/europa/opiniao/ganhar-destinado-quebrar-gravidade-politica-queda-orbanismo-2171152"
         }
     ],
     "finance": [],
-    "last_update": "15/04/2026 01:22"
+    "last_update": "15/04/2026 04:37"
 }
