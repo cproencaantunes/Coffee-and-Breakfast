@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.0,
-        "manha": 13.8,
-        "tarde": 18.7,
-        "noite": 14.9
+        "atual": 13.9,
+        "manha": 14.6,
+        "tarde": 22.8,
+        "noite": 17.2
     },
     "forecast": {
-        "max": 22.8,
-        "min": 13.1
+        "max": 25.1,
+        "min": 12.3
     },
     "news": [
         {
-            "title": "Equipas de dermatologia do Hospital de Santa Maria vão ter de devolver 818 mil euros ao Estado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/sociedade/noticia/equipas-dermatologia-hospital-santa-maria-vao-devolver-818-mil-euros-estado-2171400"
+            "title": "O Governo, afinal, governa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/opiniao/opiniao/governo-afinal-governa-2171367"
         },
         {
-            "title": "Bayern e Real ofereceram o “pacote Champions” completo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/desporto/noticia/bayern-real-ofereceram-pacote-champions-completo-2171393"
+            "title": "Diogo Ramada Curto e a crítica histórica",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/opiniao/opiniao/diogo-ramada-curto-critica-historica-2171313"
         },
         {
-            "title": "O Sporting sai da Champions com brio, mas sem milagre",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/desporto/cronica_de_jogo/sporting-sai-champions-brio-milagre-2171398"
+            "title": "Venceu a desrazão e o despotismo da ignorância e da demagogia de feira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/opiniao/opiniao/venceu-desrazao-despotismo-ignorancia-demagogia-feira-2171310"
         },
         {
-            "title": "Movimento de Mulheres apresenta queixa contra programa da TVI que abordou violação de menor",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/impar/noticia/movimento-mulheres-apresenta-queixa-programa-tvi-abordou-violacao-menor-2171394"
+            "title": "Debate de ideias, não de pessoas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/opiniao/opiniao/debate-ideias-nao-pessoas-2171312"
         },
         {
-            "title": "AIMA trata brasileira de 41 anos como menor de idade e nega residência ao marido dela",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/publico-brasil/noticia/aima-trata-brasileira-41-anos-menor-idade-nega-residencia-marido-2171392"
+            "title": "O papel precisa de ajuda",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/opiniao/cronica/papel-precisa-ajuda-2171308"
         }
     ],
     "finance": [],
-    "last_update": "15/04/2026 22:32"
+    "last_update": "15/04/2026 23:33"
 }
