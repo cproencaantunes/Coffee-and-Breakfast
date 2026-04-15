@@ -6,10 +6,14 @@
         "noite": 14.9
     },
     "forecast": {
-        "max": 22.6,
-        "min": 13.0
+        "max": 22.8,
+        "min": 13.1
     },
     "news": [
+        {
+            "title": "Equipas de dermatologia do Hospital de Santa Maria vão ter de devolver 818 mil euros ao Estado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/sociedade/noticia/equipas-dermatologia-hospital-santa-maria-vao-devolver-818-mil-euros-estado-2171400"
+        },
         {
             "title": "Bayern e Real ofereceram o “pacote Champions” completo",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/desporto/noticia/bayern-real-ofereceram-pacote-champions-completo-2171393"
@@ -25,12 +29,8 @@
         {
             "title": "AIMA trata brasileira de 41 anos como menor de idade e nega residência ao marido dela",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/publico-brasil/noticia/aima-trata-brasileira-41-anos-menor-idade-nega-residencia-marido-2171392"
-        },
-        {
-            "title": "Como escolher um carro eléctrico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/enter/noticia/escolher-carro-electrico-2171373"
         }
     ],
     "finance": [],
-    "last_update": "15/04/2026 21:41"
+    "last_update": "15/04/2026 22:32"
 }
