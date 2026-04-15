@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.0,
         "manha": 13.8,
-        "tarde": 19.1,
-        "noite": 15.1
+        "tarde": 18.7,
+        "noite": 14.9
     },
     "forecast": {
         "max": 22.2,
-        "min": 12.9
+        "min": 13.0
     },
     "news": [
         {
-            "title": "Xenofobia e imigração estão no topo da agenda de Lula com Montenegro e Seguro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/publico-brasil/noticia/xenofobia-imigracao-estao-topo-agenda-lula-montenegro-seguro-2171342"
+            "title": "Não vale a pena debater com três Salazares",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/newsletter/prova-dos-factos"
         },
         {
-            "title": "ANMP estranha papel de “mero observador” na revisão da lei das finanças locais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/politica/noticia/anmp-estranha-papel-mero-observador-revisao-lei-financas-locais-2171316"
+            "title": "As cinco medidas com que o Governo quer combater a sinistralidade rodoviária",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/sociedade/noticia/cinco-medidas-governo-quer-combater-sinistralidade-rodoviaria-2171335"
         },
         {
-            "title": "Guerra no Médio Oriente: os voos cancelados e as rotas adiadas pelas companhias aéreas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/fugas/noticia/guerra-medio-oriente-voos-cancelados-rotas-adiadas-companhias-aereas-2171201"
+            "title": "Em contexto de guerra, os videojogos também servem de arma de desinformação nas redes sociais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/mundo/noticia/contexto-guerra-videojogos-tambem-servem-arma-desinformacao-redes-sociais-2171291"
         },
         {
-            "title": "Nove mortos e 13 feridos em ataque numa escola no sudeste da Turquia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/mundo/noticia/nove-mortos-13-feridos-ataque-escola-sudeste-turquia-2171343"
+            "title": "Évora_27 com 33 projectos selecionados através do concurso regional de 1,3 milhões de euros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/culturaipsilon/noticia/evora_27-33-projectos-selecionados-atraves-concurso-regional-13-milhoes-euros-2171366"
         },
         {
-            "title": "“Quando tentava parar, davam-me bónus.” Por dentro dos “clubes VIP” do jogo <em>online</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/p3/noticia/tentava-parar-davamme-bonus-dentro-clubes-vip-jogo-online-2171302"
+            "title": "Capela Real do Palácio de Sintra restaurada num investimento de 2,7 milhões de euros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/desporto/noticia/capela-real-palacio-sintra-restaurada-investimento-27-milhoes-euros-2171349"
         }
     ],
     "finance": [],
-    "last_update": "15/04/2026 15:58"
+    "last_update": "15/04/2026 17:03"
 }
