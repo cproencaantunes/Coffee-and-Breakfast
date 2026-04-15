@@ -2,14 +2,18 @@
     "weather": {
         "atual": 14.0,
         "manha": 13.9,
-        "tarde": 19.4,
-        "noite": 15.1
+        "tarde": 19.2,
+        "noite": 14.9
     },
     "forecast": {
         "max": 22.9,
         "min": 12.7
     },
     "news": [
+        {
+            "title": "Morreu Vicente Lucas, símbolo do Belenenses e sombra de Pelé no Mundial 1966",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/desporto/noticia/morreu-vicente-lucas-simbolo-belenenses-sombra-pele-mundial-1966-2171260"
+        },
         {
             "title": "A extrema-direita depois de Orbán",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/opiniao/opiniao/extremadireita-orban-2171231"
@@ -25,12 +29,8 @@
         {
             "title": "Feito para ganhar, destinado a quebrar: a gravidade política e a queda do Orbanismo",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/europa/opiniao/ganhar-destinado-quebrar-gravidade-politica-queda-orbanismo-2171152"
-        },
-        {
-            "title": "Não copiar modelos, reconstruir a gramática da educação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/15/opiniao/opiniao/nao-copiar-modelos-reconstruir-gramatica-educacao-2171156"
         }
     ],
     "finance": [],
-    "last_update": "14/04/2026 23:34"
+    "last_update": "15/04/2026 01:22"
 }
