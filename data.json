@@ -1,9 +1,9 @@
 {
     "weather": {
         "atual": 13.9,
-        "manha": 14.6,
-        "tarde": 22.8,
-        "noite": 17.2
+        "manha": 14.4,
+        "tarde": 22.2,
+        "noite": 17.0
     },
     "forecast": {
         "max": 25.1,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
+            "title": "Vance morreu na cruz pelos pecados de Trump?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/mundo/noticia/vance-morreu-cruz-pecados-trump-2171407"
+        },
+        {
+            "title": "Terapias de conversão da identidade e orientação fascista",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/opiniao/opiniao/terapias-conversao-identidade-orientacao-fascista-2171381"
+        },
+        {
+            "title": "O escândalo das multas de trânsito",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/opiniao/editorial/escandalo-multas-transito-2171375"
+        },
+        {
             "title": "O Governo, afinal, governa",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/opiniao/opiniao/governo-afinal-governa-2171367"
         },
         {
             "title": "Diogo Ramada Curto e a crítica histórica",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/opiniao/opiniao/diogo-ramada-curto-critica-historica-2171313"
-        },
-        {
-            "title": "Venceu a desrazão e o despotismo da ignorância e da demagogia de feira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/opiniao/opiniao/venceu-desrazao-despotismo-ignorancia-demagogia-feira-2171310"
-        },
-        {
-            "title": "Debate de ideias, não de pessoas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/opiniao/opiniao/debate-ideias-nao-pessoas-2171312"
-        },
-        {
-            "title": "O papel precisa de ajuda",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/opiniao/cronica/papel-precisa-ajuda-2171308"
         }
     ],
     "finance": [],
-    "last_update": "15/04/2026 23:33"
+    "last_update": "16/04/2026 01:28"
 }
