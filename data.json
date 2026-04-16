@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 13.9,
-        "manha": 14.4,
-        "tarde": 22.2,
-        "noite": 17.0
+        "manha": 14.6,
+        "tarde": 22.5,
+        "noite": 16.9
     },
     "forecast": {
-        "max": 25.1,
+        "max": 24.1,
         "min": 12.3
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/opiniao/opiniao/cartas-director-2171363"
+        },
         {
             "title": "Vance morreu na cruz pelos pecados de Trump?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/mundo/noticia/vance-morreu-cruz-pecados-trump-2171407"
@@ -25,12 +29,8 @@
         {
             "title": "O Governo, afinal, governa",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/opiniao/opiniao/governo-afinal-governa-2171367"
-        },
-        {
-            "title": "Diogo Ramada Curto e a crítica histórica",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/opiniao/opiniao/diogo-ramada-curto-critica-historica-2171313"
         }
     ],
     "finance": [],
-    "last_update": "16/04/2026 01:28"
+    "last_update": "16/04/2026 04:43"
 }
