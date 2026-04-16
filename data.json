@@ -1,9 +1,9 @@
 {
     "weather": {
         "atual": 13.9,
-        "manha": 14.6,
-        "tarde": 22.3,
-        "noite": 16.6
+        "manha": 14.3,
+        "tarde": 22.1,
+        "noite": 16.4
     },
     "forecast": {
         "max": 24.1,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Jessie Ware canta, dança, sensualiza o seu <em>Superbloom</em>: “Eu quero tudo”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/culturaipsilon/noticia/jessie-ware-canta-danca-sensualiza-superbloom-quero-2170919"
+            "title": "Imigrantes recorrem a tribunais para se regularizar e forçam AIMA a agir em 64% dos casos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/sociedade/noticia/imigrantes-recorrem-tribunais-regularizar-forcam-aima-agir-64-casos-2170672"
         },
         {
-            "title": "Um alvarinho especial, numa quinta renascida",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/edicoes-publico/noticia/alvarinho-especial-quinta-renascida-2171341"
+            "title": "Dois idosos desalojados após desabamento de parte de edifício em Faro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/local/noticia/dois-idosos-desalojados-apos-desabamento-parte-edificio-faro-2171437"
         },
         {
-            "title": "Um terço dos municípios ainda não cumpre a Lei de Bases do Clima",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/azul/noticia/terco-municipios-nao-cumpre-lei-bases-clima-2171416"
+            "title": "Júri decide que há monopólio danoso da Live Nation e poderá indemnizar espectadores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/culturaipsilon/noticia/juri-decide-ha-monopolio-danoso-live-nation-podera-indemnizar-espectadores-2171434"
         },
         {
-            "title": "Trump diz que a China aceitou não enviar armas para o Irão e antecipa “grande e forte abraço” de Xi",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/mundo/noticia/trump-china-aceitou-nao-enviar-armas-irao-antecipa-forte-abraco-xi-2171415"
+            "title": "Leiria com o valor mais alto. Governo distribui 75 milhões por 84 municípios afectados pelas tempestades",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/politica/noticia/leiria-valor-alto-governo-distribui-75-milhoes-84-municipios-afectados-tempestades-2171422"
         },
         {
-            "title": "Restaurantes: Por Lisboa, em redor das cozinhas asiáticas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/edicoes-publico/noticia/restaurantes-lisboa-redor-cozinhas-asiaticas-2168350"
+            "title": "Animais como nós: uma exposição para alertar que eles estão em perigo de extinção",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/fotogaleria/exposicao-415383"
         }
     ],
     "finance": [],
-    "last_update": "16/04/2026 10:06"
+    "last_update": "16/04/2026 11:51"
 }
