@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 13.9,
-        "manha": 14.3,
-        "tarde": 22.7,
-        "noite": 17.0
+        "atual": 14.7,
+        "manha": 13.9,
+        "tarde": 24.7,
+        "noite": 18.7
     },
     "forecast": {
-        "max": 25.3,
-        "min": 12.1
+        "max": 26.3,
+        "min": 13.9
     },
     "news": [
         {
-            "title": "Mais de 100 autores saem da Grasset em guerra ideológica e em apoio a editor despedido",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/culturaipsilon/noticia/100-autores-saem-grasset-guerra-ideologica-apoio-editor-despedido-2171521"
+            "title": "Subsidiar a dependência energética",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/opiniao/opiniao/subsidiar-dependencia-energetica-2171501"
         },
         {
-            "title": "<em>Margo’s Got Money Troubles</em>, ou o OnlyFans numa série sobre a maternidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/culturaipsilon/noticia/margos-got-money-troubles-onlyfans-serie-maternidade-2171471"
+            "title": "Mais vale fiarmo-nos na Virgem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/opiniao/opiniao/vale-fiarmonos-virgem-2171518"
         },
         {
-            "title": "Pacote laboral na recta final, com foco no banco de horas e jornada contínua",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/economia/noticia/pacote-laboral-recta-final-foco-banco-horas-jornada-continua-2171524"
+            "title": "A sobranceria da ignorância",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/opiniao/opiniao/sobranceria-ignorancia-2171492"
         },
         {
-            "title": "Sp. Braga volta a ser feliz em Sevilha rumo às meias-finais da Liga Europa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/desporto/cronica_de_jogo/sp-braga-volta-feliz-sevilha-rumo-meiasfinais-liga-europa-2171535"
+            "title": "“Alguém viu o meu irmão?” Uma noite a tratar vítimas em larga escala num hospital no Líbano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/opiniao/depoimento/alguem-viu-irmao-noite-tratar-vitimas-larga-escala-hospital-libano-2171325"
         },
         {
-            "title": "Sinal vermelho para o FC Porto na Liga Europa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/desporto/cronica_de_jogo/sinal-vermelho-fc-porto-liga-europa-2171536"
+            "title": "Atenção! Não pare. Nem escute. Nem veja. Nem pense",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/opiniao/cronica/atencao-nao-pare-escute-veja-pense-2171327"
         }
     ],
     "finance": [],
-    "last_update": "16/04/2026 22:30"
+    "last_update": "16/04/2026 23:31"
 }
