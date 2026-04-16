@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.9,
         "manha": 14.3,
-        "tarde": 22.2,
-        "noite": 16.9
+        "tarde": 22.7,
+        "noite": 16.7
     },
     "forecast": {
-        "max": 24.5,
-        "min": 12.1
+        "max": 24.1,
+        "min": 12.0
     },
     "news": [
         {
-            "title": "Estado poderá arrecadar 320 mil euros com compensações da Igreja, BE e PAN querem isenção de IRS",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/sociedade/noticia/estado-podera-arrecadar-320-mil-euros-compensacoes-igreja-be-pan-querem-isencao-irs-2171468"
+            "title": "Xadrez: Javokhir Sindarov é o novo pretendente ao título mundial absoluto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/desporto/noticia/xadrez-javokhir-sindarov-novo-pretendente-titulo-mundial-absoluto-2171505"
         },
         {
-            "title": "Cristina Ferreira: quatro polémicas anteriores com os direitos das mulheres em causa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/impar/noticia/cristina-ferreira-quatro-polemicas-anteriores-direitos-mulheres-causa-2171438"
+            "title": "Tiago Antunes falha eleição para provedor de Justiça, Pais Antunes continua no CES",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/politica/noticia/tiago-antunes-falha-eleicao-provedor-justica-pais-antunes-continua-ces-2171504"
         },
         {
-            "title": "Saídas no Chega continuam: já há nove vereadores que passaram a independentes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/politica/noticia/saidas-chega-continuam-ja-ha-nove-vereadores-passaram-independentes-2171446"
+            "title": "Mau tempo: seguradoras pagaram 33% dos mil milhões de euros de indemnizações reconhecidas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/economia/noticia/mau-tempo-seguradoras-pagaram-33-mil-milhoes-euros-indemnizacoes-reconhecidas-2171494"
         },
         {
-            "title": "Hungria: o fim de uma era",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/newsletter/o-estado-das-coisas"
+            "title": "No próximo ano, será possível pagar com MB Way em lojas de Espanha, França ou Itália",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/economia/noticia/proximo-ano-sera-possivel-pagar-mb-way-lojas-espanha-franca-italia-2171478"
         },
         {
-            "title": "Banqueiros com salários acima de um milhão sobem para 13 em Portugal, só há uma mulher",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/economia/noticia/banqueiros-salarios-acima-milhao-sobem-13-portugal-so-ha-mulher-2171443"
+            "title": "“Eterno Vicente”: a despedida do Belenenses e do país desportivo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/desporto/noticia/eterno-vicente-despedida-belenenses-pais-desportivo-2171499"
         }
     ],
     "finance": [],
-    "last_update": "16/04/2026 15:17"
+    "last_update": "16/04/2026 17:02"
 }
