@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.9,
         "manha": 14.6,
-        "tarde": 22.5,
-        "noite": 16.9
+        "tarde": 22.3,
+        "noite": 16.6
     },
     "forecast": {
         "max": 24.1,
-        "min": 12.3
+        "min": 11.8
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/opiniao/opiniao/cartas-director-2171363"
+            "title": "“Se não conseguirmos o valor justo em leilão, a Liga TV está preparada para assumir”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/desporto/entrevista/nao-conseguirmos-valor-justo-leilao-liga-tv-preparada-assumir-2171403"
         },
         {
-            "title": "Vance morreu na cruz pelos pecados de Trump?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/mundo/noticia/vance-morreu-cruz-pecados-trump-2171407"
+            "title": "Paulo Núncio avisa UGT: “Negociações não podem durar eternamente. Competirá ao Governo definir esse momento”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/politica/entrevista/paulo-nuncio-avisa-ugt-negociacoes-nao-podem-durar-eternamente-competira-governo-definir-momento-2171321"
         },
         {
-            "title": "Terapias de conversão da identidade e orientação fascista",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/opiniao/opiniao/terapias-conversao-identidade-orientacao-fascista-2171381"
+            "title": "Pedro Sánchez brilha fora de portas, mas ofusca-se internamente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/mundo/noticia/pedro-sanchez-brilha-portas-ofuscase-internamente-2171386"
         },
         {
-            "title": "O escândalo das multas de trânsito",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/opiniao/editorial/escandalo-multas-transito-2171375"
+            "title": "Portugal continua sem criminalizar esterilização de pessoas com deficiência. “É uma violação grave, continuada e sistemática”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/sociedade/noticia/portugal-continua-criminalizar-esterilizacao-pessoas-deficiencia-violacao-grave-continuada-sistematica-2171311"
         },
         {
-            "title": "O Governo, afinal, governa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/opiniao/opiniao/governo-afinal-governa-2171367"
+            "title": "BCP muda 40% da liderança e está mais focado em remunerar melhor os accionistas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/16/economia/noticia/bcp-muda-40-lideranca-focado-remunerar-melhor-accionistas-2171305"
         }
     ],
     "finance": [],
-    "last_update": "16/04/2026 04:43"
+    "last_update": "16/04/2026 06:27"
 }
