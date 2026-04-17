@@ -2,14 +2,18 @@
     "weather": {
         "atual": 14.8,
         "manha": 13.8,
-        "tarde": 24.2,
-        "noite": 18.7
+        "tarde": 24.4,
+        "noite": 18.9
     },
     "forecast": {
-        "max": 26.3,
-        "min": 13.9
+        "max": 25.3,
+        "min": 13.8
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/opiniao/opiniao/cartas-director-2171474"
+        },
         {
             "title": "Quem quer esconder os financiadores dos partidos?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/politica/noticia/quer-esconder-financiadores-partidos-2171542"
@@ -25,12 +29,8 @@
         {
             "title": "A sobranceria da ignorância",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/opiniao/opiniao/sobranceria-ignorancia-2171492"
-        },
-        {
-            "title": "“Alguém viu o meu irmão?” Uma noite a tratar vítimas em larga escala num hospital no Líbano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/opiniao/depoimento/alguem-viu-irmao-noite-tratar-vitimas-larga-escala-hospital-libano-2171325"
         }
     ],
     "finance": [],
-    "last_update": "17/04/2026 01:25"
+    "last_update": "17/04/2026 04:40"
 }
