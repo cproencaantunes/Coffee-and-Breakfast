@@ -1,8 +1,8 @@
 {
     "weather": {
-        "atual": 14.7,
-        "manha": 13.9,
-        "tarde": 24.7,
+        "atual": 14.8,
+        "manha": 13.8,
+        "tarde": 24.2,
         "noite": 18.7
     },
     "forecast": {
@@ -10,6 +10,10 @@
         "min": 13.9
     },
     "news": [
+        {
+            "title": "Quem quer esconder os financiadores dos partidos?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/politica/noticia/quer-esconder-financiadores-partidos-2171542"
+        },
         {
             "title": "Subsidiar a dependência energética",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/opiniao/opiniao/subsidiar-dependencia-energetica-2171501"
@@ -25,12 +29,8 @@
         {
             "title": "“Alguém viu o meu irmão?” Uma noite a tratar vítimas em larga escala num hospital no Líbano",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/opiniao/depoimento/alguem-viu-irmao-noite-tratar-vitimas-larga-escala-hospital-libano-2171325"
-        },
-        {
-            "title": "Atenção! Não pare. Nem escute. Nem veja. Nem pense",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/opiniao/cronica/atencao-nao-pare-escute-veja-pense-2171327"
         }
     ],
     "finance": [],
-    "last_update": "16/04/2026 23:31"
+    "last_update": "17/04/2026 01:25"
 }
