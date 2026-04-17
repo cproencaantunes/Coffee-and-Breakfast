@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.8,
         "manha": 14.0,
-        "tarde": 24.6,
-        "noite": 19.0
+        "tarde": 24.5,
+        "noite": 18.6
     },
     "forecast": {
-        "max": 25.3,
-        "min": 13.9
+        "max": 25.5,
+        "min": 13.7
     },
     "news": [
         {
-            "title": "<em>Chatbots</em> chumbam na saúde. Inteligência artificial erra em metade das respostas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/enter/noticia/chatbots-chumbam-saude-inteligencia-artificial-erra-metade-respostas-2171464"
+            "title": "“O uso generalizado e até abusivo do inglês começa a ser inadmissível”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/culturaipsilon/noticia/uso-generalizado-ate-abusivo-ingles-comeca-inadmissivel-2171078"
         },
         {
-            "title": "Director interino do ICE dos EUA, Todd Lyons, vai deixar a agência no fim de Maio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/mundo/noticia/director-interino-ice-eua-todd-lyons-vai-deixar-agencia-fim-maio-2171550"
+            "title": "Vai um brinde ibérico? Fusión dá a provar no Porto vinhos do Douro e de Castela e Leão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/terroir/noticia/vai-brinde-iberico-fusion-provar-porto-vinhos-douro-castela-leao-2171507"
         },
         {
-            "title": "Do fado às tunas, no Orfeão Universitário do Porto a tradição une-se ao espírito académico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/local/reportagem/fado-tunas-orfeao-universitario-porto-tradicao-unese-espirito-academico-2169234"
+            "title": "Casa Branca prepara adopção do “assustador” modelo de IA Mythos da Anthropic",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/enter/noticia/casa-branca-prepara-adopcao-assustador-modelo-ia-mythos-anthropic-2171557"
         },
         {
-            "title": "Citlali Fabián venceu os Sony Awards à procura da imagem justa e digna das mulheres indígenas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/p3/noticia/citlali-fabian-venceu-sony-awards-procura-imagem-justa-digna-mulheres-indigenas-2171547"
+            "title": "Para salvar Veneza, é preciso escolher entre diques, fecho da lagoa ou relocalização",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/azul/noticia/salvar-veneza-preciso-escolher-diques-fecho-lagoa-relocalizacao-2171496"
         },
         {
-            "title": "CGTP espera milhares nas ruas e avisa que resposta depende da “dimensão do ataque”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/economia/noticia/cgtp-espera-milhares-ruas-avisa-resposta-depende-dimensao-ataque-2171548"
+            "title": "Lavar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/culturaipsilon/opiniao/lavar-2171150"
         }
     ],
     "finance": [],
-    "last_update": "17/04/2026 08:20"
+    "last_update": "17/04/2026 10:04"
 }
