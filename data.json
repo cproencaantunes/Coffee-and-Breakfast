@@ -2,8 +2,8 @@
     "weather": {
         "atual": 14.8,
         "manha": 14.0,
-        "tarde": 24.5,
-        "noite": 18.6
+        "tarde": 24.4,
+        "noite": 18.4
     },
     "forecast": {
         "max": 25.5,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "AIMA assegura que imigrantes estão regulares mesmo com documentos expirados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/sociedade/noticia/aima-assegura-imigrantes-estao-regulares-documentos-expirados-2171582"
+            "title": "Comissão Europeia prepara-se para eventuais falhas de combustível para aviação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/economia/noticia/comissao-europeia-preparase-eventuais-falhas-combustivel-aviacao-2171581"
         },
         {
-            "title": "&#128051; A equipa de Rabo de Peixe quer dar-lhe uma palavrinha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/newsletter/proximo_episodio"
+            "title": "AIMA tenta acalmar imigrantes: 90 mil renovações de residência já foram concluídas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/publico-brasil/noticia/aima-tenta-acalmar-imigrantes-90-mil-renovacoes-residencia-ja-concluidas-2171589"
         },
         {
-            "title": "PS ultrapassa AD e Chega e passa a liderar em duas sondagens mas mantém-se empate técnico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/politica/noticia/ps-ultrapassa-ad-chega-passa-liderar-duas-sondagens-mantemse-empate-tecnico-2171559"
+            "title": "A (ir)responsabilidade cívica como prática diária",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/p3/cronica/irresponsabilidade-civica-pratica-diaria-2171035"
         },
         {
-            "title": "Aguiar-Branco cria grupo para analisar entidades independentes na órbita do Parlamento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/politica/noticia/aguiarbranco-cria-grupo-analisar-entidades-independentes-orbita-parlamento-2171571"
+            "title": "Eric Swalwell: escândalo democrata abre a porta à vitória republicana na Califórnia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/mundo/noticia/eric-swalwell-escandalo-democrata-abre-porta-vitoria-republicana-california-2171577"
         },
         {
-            "title": "Marilyn Monroe, 100 anos: o que procuramos nela, hoje?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/culturaipsilon/noticia/marilyn-monroe-100-anos-procuramos-nela-hoje-2171358"
+            "title": "Prémio Mies van der Rohe 2026 celebra a “reutilização e adaptação” na arquitectura",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/culturaipsilon/noticia/premio-mies-van-der-rohe-2026-celebra-reutilizacao-adaptacao-arquitectura-2171578"
         }
     ],
     "finance": [],
-    "last_update": "17/04/2026 11:41"
+    "last_update": "17/04/2026 12:54"
 }
