@@ -3,13 +3,17 @@
         "atual": 14.8,
         "manha": 14.0,
         "tarde": 24.7,
-        "noite": 17.9
+        "noite": 18.3
     },
     "forecast": {
-        "max": 25.9,
-        "min": 13.7
+        "max": 25.4,
+        "min": 14.0
     },
     "news": [
+        {
+            "title": "Morre aos 68 anos Oscar Schmidt, o maior cestinha do basquete brasileiro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/publico-brasil/noticia/morre-68-anos-oscar-schmidt-maior-cestinha-basquete-brasileiro-2171696"
+        },
         {
             "title": "<i>96 Decibéis</i> ou como o amor e a empatia podem resgatar a esperança perdida",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/fotogaleria/96-decibeis-415364"
@@ -25,12 +29,8 @@
         {
             "title": "Pena do realizador Christophe Ruggia por abuso sexual agravada para cinco anos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/culturaipsilon/noticia/pena-realizador-christophe-ruggia-abuso-sexual-agravada-cinco-anos-2171689"
-        },
-        {
-            "title": "Alunos da Escola Portuguesa de Macau receberam treino militar em regime de internato",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/17/sociedade/noticia/alunos-escola-portuguesa-macau-receberam-treino-militar-regime-internato-2171675"
         }
     ],
     "finance": [],
-    "last_update": "17/04/2026 21:32"
+    "last_update": "17/04/2026 22:28"
 }
