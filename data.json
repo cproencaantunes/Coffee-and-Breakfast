@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 16.4,
+        "atual": 16.5,
         "manha": 15.5,
-        "tarde": 25.1,
-        "noite": 19.9
+        "tarde": 24.1,
+        "noite": 19.0
     },
     "forecast": {
-        "max": 24.3,
-        "min": 14.4
+        "max": 24.4,
+        "min": 13.7
     },
     "news": [
         {
-            "title": "A Gulbenkian já mostrou muita arte, mas faltava-lhe a moda",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/impar/reportagem/gulbenkian-ja-mostrou-arte-faltavalhe-moda-2171745"
+            "title": "Memorial desta Páscoa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/opiniao/opiniao/memorial-pascoa-2171462"
         },
         {
-            "title": "Colete salva-vidas do Titanic vendido em leilão por mais de 770 mil euros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/impar/noticia/colete-salvavidas-titanic-vendido-leilao-770-mil-euros-2171769"
+            "title": "Desinformação, a ameaça que põe em causa décadas de progresso na vacinação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/opiniao/opiniao/desinformacao-ameaca-poe-causa-decadas-progresso-vacinacao-2171320"
         },
         {
-            "title": "Idosos LGBTQI: entre a memória da repressão e o medo do futuro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/sociedade/noticia/idosos-lgbtqi-memoria-repressao-medo-futuro-2169701"
+            "title": "Culpar o eucalipto não resolve a floresta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/opiniao/opiniao/culpar-eucalipto-nao-resolve-floresta-2171495"
         },
         {
-            "title": "Autarca, ex-atleta olímpica e já apelidada como “anti-Meloni”: quem é Silvia Salis?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/mundo/noticia/autarca-exatleta-olimpica-ja-apelidada-antimeloni-silvia-salis-2171767"
+            "title": "A relativa obrigatoriedade de ler um Nobel",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/opiniao/opiniao/relativa-obrigatoriedade-ler-nobel-2171029"
         },
         {
-            "title": "Governo propõe que prazo para aceitar herança diminua de dez para dois anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/economia/noticia/governo-propoe-prazo-aceitar-heranca-diminua-dez-dois-anos-2171679"
+            "title": "Internamentos sociais – um drama que urge resolver",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/opiniao/opiniao/internamentos-sociais-drama-urge-resolver-2171317"
         }
     ],
     "finance": [],
-    "last_update": "18/04/2026 22:22"
+    "last_update": "18/04/2026 23:25"
 }
