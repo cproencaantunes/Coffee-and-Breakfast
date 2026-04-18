@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 16.4,
-        "manha": 15.4,
-        "tarde": 25.3,
-        "noite": 19.6
+        "manha": 15.6,
+        "tarde": 26.0,
+        "noite": 20.0
     },
     "forecast": {
         "max": 24.2,
-        "min": 14.5
+        "min": 14.8
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/opiniao/opiniao/cartas-director-2171664"
+            "title": "Identidade de género: análise que chegou à AR foi expurgada de críticas da CIG à nova lei",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/politica/noticia/identidade-genero-analise-chegou-ar-expurgada-criticas-cig-nova-lei-2171687"
         },
         {
-            "title": "Liberdade, cultura e história",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/opiniao/opiniao/liberdade-cultura-historia-2171683"
+            "title": "Será El Greco o único pintor da obra <em>O Baptismo de Cristo</em>? IA sugere que sim",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/ciencia/noticia/sera-el-greco-unico-pintor-obra-baptismo-cristo-ia-sugere-sim-2171615"
         },
         {
-            "title": "Tiago Antunes e a “maldição Sócrates”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/opiniao/opiniao/tiago-antunes-maldicao-socrates-2171690"
+            "title": "Tecnológicas influenciam lei para ocultarem impacto ambiental dos centros de dados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/economia/noticia/tecnologicas-influenciam-lei-ocultarem-impacto-ambiental-centros-dados-2171436"
         },
         {
-            "title": "PSD, PS e as políticas de comunicação social",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/opiniao/opiniao/psd-ps-politicas-comunicacao-social-2170791"
+            "title": "Seis novas espécies de aranhas descobertas no Alentejo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/ciencia/noticia/seis-novas-especies-aranhas-descobertas-alentejo-2171686"
         },
         {
-            "title": "Uma Igreja descompensada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/opiniao/opiniao/igreja-descompensada-2171079"
+            "title": "Ana Mendes Godinho, João Azevedo e Miguel Cabrita sobem ao Secretariado Nacional do PS",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/politica/noticia/ana-mendes-godinho-joao-azevedo-miguel-cabrita-sobem-secretariado-nacional-ps-2171567"
         }
     ],
     "finance": [],
-    "last_update": "18/04/2026 04:23"
+    "last_update": "18/04/2026 06:07"
 }
