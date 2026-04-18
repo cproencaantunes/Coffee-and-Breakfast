@@ -3,13 +3,17 @@
         "atual": 16.4,
         "manha": 15.5,
         "tarde": 25.1,
-        "noite": 19.8
+        "noite": 19.9
     },
     "forecast": {
-        "max": 24.5,
-        "min": 14.7
+        "max": 24.3,
+        "min": 14.4
     },
     "news": [
+        {
+            "title": "A Gulbenkian já mostrou muita arte, mas faltava-lhe a moda",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/impar/reportagem/gulbenkian-ja-mostrou-arte-faltavalhe-moda-2171745"
+        },
         {
             "title": "Colete salva-vidas do Titanic vendido em leilão por mais de 770 mil euros",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/impar/noticia/colete-salvavidas-titanic-vendido-leilao-770-mil-euros-2171769"
@@ -25,12 +29,8 @@
         {
             "title": "Governo propõe que prazo para aceitar herança diminua de dez para dois anos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/economia/noticia/governo-propoe-prazo-aceitar-heranca-diminua-dez-dois-anos-2171679"
-        },
-        {
-            "title": "Presidente da República recebe parceiros sociais quarta-feira, véspera da decisão da UGT",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/politica/noticia/presidente-republica-recebe-parceiros-sociais-quartafeira-vespera-decisao-ugt-2171765"
         }
     ],
     "finance": [],
-    "last_update": "18/04/2026 21:24"
+    "last_update": "18/04/2026 22:22"
 }
