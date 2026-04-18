@@ -3,13 +3,17 @@
         "atual": 16.4,
         "manha": 15.4,
         "tarde": 25.3,
-        "noite": 19.8
+        "noite": 19.6
     },
     "forecast": {
-        "max": 23.7,
-        "min": 14.4
+        "max": 24.2,
+        "min": 14.5
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/opiniao/opiniao/cartas-director-2171664"
+        },
         {
             "title": "Liberdade, cultura e história",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/opiniao/opiniao/liberdade-cultura-historia-2171683"
@@ -25,12 +29,8 @@
         {
             "title": "Uma Igreja descompensada",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/opiniao/opiniao/igreja-descompensada-2171079"
-        },
-        {
-            "title": "Quem era a vítima?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/opiniao/opiniao/vitima-2171636"
         }
     ],
     "finance": [],
-    "last_update": "18/04/2026 01:19"
+    "last_update": "18/04/2026 04:23"
 }
