@@ -3,34 +3,34 @@
         "atual": 16.4,
         "manha": 15.5,
         "tarde": 25.6,
-        "noite": 19.7
+        "noite": 19.9
     },
     "forecast": {
-        "max": 24.2,
+        "max": 24.1,
         "min": 14.8
     },
     "news": [
         {
-            "title": "Linha Rubi do Metro do Porto e nova ponte no Douro derrapam para 2028",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/local/noticia/linha-rubi-metro-porto-nova-ponte-douro-derrapam-2028-2171713"
+            "title": "Associação 25 de Abril espera que Belém resolva impasse sobre centro interpretativo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/politica/noticia/associacao-25-abril-espera-belem-resolva-impasse-centro-interpretativo-2171719"
         },
         {
-            "title": "Carneiro: PS em diálogo com Tiago Antunes para avaliar nova candidatura a Provedor",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/politica/noticia/carneiro-ps-dialogo-tiago-antunes-avaliar-nova-candidatura-provedor-2171709"
+            "title": "Nuno Cassola: “Nunca a <em>troika </em>exigiu a Portugal tanta austeridade como a que foi feita”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/economia/entrevista/nuno-cassola-troika-exigiu-portugal-tanta-austeridade-2171594"
         },
         {
-            "title": "Supremo Tribunal dos EUA dá vitória à Chevron (e às petrolíferas) num processo por danos ambientais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/azul/noticia/supremo-tribunal-eua-vitoria-chevron-petroliferas-processo-danos-ambientais-2171672"
+            "title": "Jovem de 25 anos morre em despiste de trotinete no Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/sociedade/noticia/jovem-25-anos-morre-despiste-trotinete-porto-2171718"
         },
         {
-            "title": "Governo vai isentar de impostos as indemnizações às vítimas de abusos na Igreja Católica",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/sociedade/noticia/governo-vai-isentar-impostos-indemnizacoes-vitimas-abusos-igreja-catolica-2171708"
+            "title": "Fraudes com cursos de português para imigrantes denunciadas, Ministério Público investiga",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/sociedade/noticia/fraudes-cursos-portugues-imigrantes-denunciadas-ministerio-publico-investiga-2171711"
         },
         {
-            "title": "José Berasaluce: “O <em>chef </em>já não representa nada. É um produto de falsa modernidade.”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/fugas/entrevista/jose-berasaluce-chef-ja-nao-representa-nada-produto-falsa-modernidade-2170489"
+            "title": "Ordem dos Psicólogos reforça compromisso contra abusos sexuais após declarações de Cristina Ferreira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/impar/noticia/ordem-psicologos-reforca-compromisso-abusos-sexuais-apos-declaracoes-cristina-ferreira-2171710"
         }
     ],
     "finance": [],
-    "last_update": "18/04/2026 11:26"
+    "last_update": "18/04/2026 12:36"
 }
