@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 16.4,
-        "manha": 15.6,
-        "tarde": 26.0,
-        "noite": 20.0
+        "manha": 15.5,
+        "tarde": 25.6,
+        "noite": 19.7
     },
     "forecast": {
         "max": 24.2,
         "min": 14.8
     },
     "news": [
+        {
+            "title": "Supremo Tribunal dos EUA dá vitória à Chevron (e às petrolíferas) num processo por danos ambientais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/azul/noticia/supremo-tribunal-eua-vitoria-chevron-petroliferas-processo-danos-ambientais-2171672"
+        },
+        {
+            "title": "Governo vai isentar de impostos as indemnizações às vítimas de abusos na Igreja Católica",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/sociedade/noticia/governo-vai-isentar-impostos-indemnizacoes-vitimas-abusos-igreja-catolica-2171708"
+        },
         {
             "title": "José Berasaluce: “O <em>chef </em>já não representa nada. É um produto de falsa modernidade.”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/fugas/entrevista/jose-berasaluce-chef-ja-nao-representa-nada-produto-falsa-modernidade-2170489"
@@ -21,16 +29,8 @@
         {
             "title": "Lousada, um roteiro por caminhos renovados",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/edicoes-publico/noticia/lousada-roteiro-caminhos-renovados-2171475"
-        },
-        {
-            "title": "É com a “cozinha do carvão” que descobrimos os vales mineiros das Astúrias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/fugas/reportagem/cozinha-carvao-descobrimos-vales-mineiros-asturias-2170431"
-        },
-        {
-            "title": "Harry Crowl faz recital no Porto inspirado na azulejaria portuguesa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/18/publico-brasil/noticia/harry-crowl-faz-recital-porto-inspirado-azulejaria-portuguesa-2171575"
         }
     ],
     "finance": [],
-    "last_update": "18/04/2026 09:38"
+    "last_update": "18/04/2026 10:31"
 }
