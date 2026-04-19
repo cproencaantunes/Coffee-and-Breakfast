@@ -3,13 +3,21 @@
         "atual": 16.5,
         "manha": 15.4,
         "tarde": 24.1,
-        "noite": 19.1
+        "noite": 19.3
     },
     "forecast": {
-        "max": 25.2,
-        "min": 14.1
+        "max": 26.1,
+        "min": 14.2
     },
     "news": [
+        {
+            "title": "Estádio José Alvalade bate recorde de assistência no dérbi lisboeta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/desporto/noticia/estadio-jose-alvalade-bate-recorde-assistencia-derbi-lisboeta-2171821"
+        },
+        {
+            "title": "FC Porto acelera para o título com triunfo sobre o Tondela",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/desporto/cronica_de_jogo/fc-porto-acelera-titulo-triunfo-tondela-2171819"
+        },
         {
             "title": "Iniciadas buscas por pescador desaparecido em Viana do Castelo",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/local/noticia/iniciadas-buscas-pescador-desaparecido-viana-castelo-2171820"
@@ -21,16 +29,8 @@
         {
             "title": "Rumen Radev a caminho de vitória clara nas eleições da Bulgária",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/mundo/noticia/rumen-radev-caminho-vitoria-clara-eleicoes-bulgaria-2171817"
-        },
-        {
-            "title": "Superbikes: Miguel Oliveira foi 12.º na segunda corrida de Assen",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/desporto/noticia/superbikes-miguel-oliveira-12-segunda-corrida-assen-2171799"
-        },
-        {
-            "title": "Um cessar-fogo imediato já não salvaria a economia de menos crescimento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/economia/noticia/cessarfogo-imediato-ja-nao-salvaria-economia-menos-crescimento-2171814"
         }
     ],
     "finance": [],
-    "last_update": "19/04/2026 21:25"
+    "last_update": "19/04/2026 22:24"
 }
