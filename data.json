@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 16.5,
-        "manha": 15.4,
-        "tarde": 23.8,
-        "noite": 18.9
+        "manha": 15.6,
+        "tarde": 24.5,
+        "noite": 19.4
     },
     "forecast": {
-        "max": 24.4,
-        "min": 13.7
+        "max": 25.3,
+        "min": 14.2
     },
     "news": [
+        {
+            "title": "Enfermeiros: ficar, em vez de sair",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/opiniao/editorial/enfermeiros-ficar-sair-2171721"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/opiniao/opiniao/cartas-director-2171734"
+        },
         {
             "title": "Memorial desta Páscoa",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/opiniao/opiniao/memorial-pascoa-2171462"
@@ -21,16 +29,8 @@
         {
             "title": "Culpar o eucalipto não resolve a floresta",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/opiniao/opiniao/culpar-eucalipto-nao-resolve-floresta-2171495"
-        },
-        {
-            "title": "A relativa obrigatoriedade de ler um Nobel",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/opiniao/opiniao/relativa-obrigatoriedade-ler-nobel-2171029"
-        },
-        {
-            "title": "Internamentos sociais – um drama que urge resolver",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/opiniao/opiniao/internamentos-sociais-drama-urge-resolver-2171317"
         }
     ],
     "finance": [],
-    "last_update": "19/04/2026 01:29"
+    "last_update": "19/04/2026 04:43"
 }
