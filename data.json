@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 16.5,
-        "manha": 15.5,
+        "manha": 15.4,
         "tarde": 24.2,
-        "noite": 19.4
+        "noite": 19.5
     },
     "forecast": {
-        "max": 25.3,
-        "min": 14.2
+        "max": 24.7,
+        "min": 14.4
     },
     "news": [
+        {
+            "title": "E se a Lei fosse para ser cumprida?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/opiniao/opiniao/lei-cumprida-2171470"
+        },
         {
             "title": "Aos 15 anos, encontrei-me com um desconhecido",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/newsletter/impar"
@@ -25,12 +29,8 @@
         {
             "title": "Acidente com três feridos graves corta Marginal no sentido Lisboa - Cascais",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/sociedade/noticia/acidente-tres-feridos-graves-corta-marginal-sentido-lisboa-cascais-2171780"
-        },
-        {
-            "title": "“Um rio vivo pode estar profundamente doente”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/azul/entrevista/rio-vivo-estar-profundamente-doente-2171441"
         }
     ],
     "finance": [],
-    "last_update": "19/04/2026 09:37"
+    "last_update": "19/04/2026 10:30"
 }
