@@ -1,8 +1,8 @@
 {
     "weather": {
         "atual": 16.5,
-        "manha": 15.6,
-        "tarde": 24.5,
+        "manha": 15.5,
+        "tarde": 24.2,
         "noite": 19.4
     },
     "forecast": {
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Enfermeiros: ficar, em vez de sair",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/opiniao/editorial/enfermeiros-ficar-sair-2171721"
+            "title": "O estranho processo de exportação da palavra resiliência para a alma humana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/impar/cronica/estranho-processo-exportacao-palavra-resiliencia-alma-humana-2171509"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/opiniao/opiniao/cartas-director-2171734"
+            "title": "A Lua de Loana (1977-2026)",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/mundo/cronica/lua-loana-19772026-2171249"
         },
         {
-            "title": "Memorial desta Páscoa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/opiniao/opiniao/memorial-pascoa-2171462"
+            "title": "Ideias para acabar com os internamentos sociais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/impar/cronica/ideias-acabar-internamentos-sociais-2171641"
         },
         {
-            "title": "Desinformação, a ameaça que põe em causa décadas de progresso na vacinação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/opiniao/opiniao/desinformacao-ameaca-poe-causa-decadas-progresso-vacinacao-2171320"
+            "title": "Rio Leça: salvar um corpo de água que vai adoecendo da nascente à foz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/azul/reportagem/rio-leca-salvar-corpo-agua-vai-adoecendo-nascente-foz-2171376"
         },
         {
-            "title": "Culpar o eucalipto não resolve a floresta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/opiniao/opiniao/culpar-eucalipto-nao-resolve-floresta-2171495"
+            "title": "António Mendonça Mendes vai coordenar o programa económico do PS",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/19/politica/noticia/antonio-mendonca-mendes-vai-coordenar-programa-economico-ps-2171724"
         }
     ],
     "finance": [],
-    "last_update": "19/04/2026 04:43"
+    "last_update": "19/04/2026 06:24"
 }
