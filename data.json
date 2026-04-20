@@ -6,16 +6,20 @@
         "noite": 21.5
     },
     "forecast": {
-        "max": 20.0,
-        "min": 14.5
+        "max": 20.1,
+        "min": 14.4
     },
     "news": [
+        {
+            "title": "Terceira baixa na Administração Trump com demissão da secretária do Trabalho Lori Chavez-DeRemer",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/mundo/noticia/terceira-baixa-administracao-trump-demissao-secretaria-trabalho-lori-chavezderemer-2171937"
+        },
         {
             "title": "Tiago Antunes, o primeiro a pagar por estar ligado a Sócrates",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/opiniao/opiniao/tiago-antunes-pagar-estar-ligado-socrates-2171869"
         },
         {
-            "title": "Apple nomeia novo CEO, John Ternus sucede a Tim Cook",
+            "title": "John Ternus sucede a Tim Cook como CEO da Apple",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/enter/noticia/apple-nomeia-novo-ceo-john-ternus-sucede-tim-cook-2171935"
         },
         {
@@ -25,12 +29,8 @@
         {
             "title": "Morreu Conceição Ramos, lutadora pelos direitos das trabalhadoras domésticas",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/sociedade/noticia/morreu-conceicao-ramos-lutadora-direitos-trabalhadoras-domesticas-2171932"
-        },
-        {
-            "title": "<em>The Pitt</em> e o que custa ser a melhor televisão de (des)conforto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/culturaipsilon/analise/the-pitt-custa-melhor-televisao-desconforto-2171871"
         }
     ],
     "finance": [],
-    "last_update": "20/04/2026 21:37"
+    "last_update": "20/04/2026 22:33"
 }
