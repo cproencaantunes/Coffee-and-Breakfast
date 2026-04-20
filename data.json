@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 16.0,
-        "manha": 15.9,
-        "tarde": 26.2,
-        "noite": 21.0
+        "manha": 15.5,
+        "tarde": 24.7,
+        "noite": 21.4
     },
     "forecast": {
-        "max": 20.5,
-        "min": 15.3
+        "max": 19.9,
+        "min": 14.1
     },
     "news": [
         {
-            "title": "Portugal atrai capital recorde, mas deve responder com segurança jurídica",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/publico-brasil/opiniao/portugal-atrai-capital-recorde-responder-seguranca-juridica-2171845"
+            "title": "Pedro Duarte invoca risco laboral para defender anonimato de quem financia partidos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/politica/noticia/pedro-duarte-invoca-risco-laboral-defender-anonimato-financia-partidos-2171850"
         },
         {
-            "title": "Rumen Radev: antigo Presidente próximo de Moscovo será primeiro-ministro da Bulgária",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/mundo/noticia/rumen-radev-antigo-presidente-proximo-moscovo-sera-primeiroministro-bulgaria-2171841"
+            "title": "Mulheres têm uma probabilidade 77% inferior de aceder a uma profissão nas novas tecnologias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/sociedade/noticia/mulheres-probabilidade-77-inferior-aceder-profissao-novas-tecnologias-2171839"
         },
         {
-            "title": "Nove anos depois, tribunal administrativo vai julgar acção de Sócrates contra Estado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/sociedade/noticia/nove-anos-tribunal-administrativo-vai-julgar-accao-socrates-estado-2171840"
+            "title": "Ler pode ser um acto de masoquismo e há um <em>podcast</em> para rir disso: o <em>Livros da Piça</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/p3/noticia/ler-acto-masoquismo-ha-podcast-rir-livros-pica-2171455"
         },
         {
-            "title": "Sismo de magnitude 7,5 atinge Japão, emitido alerta de <em>tsunami</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/mundo/noticia/sismo-magnitude-75-atinge-costa-japao-emitido-alerta-tsunami-2171838"
+            "title": "Um milhão de passes ferroviários vendidos, Governo prepara passe intermodal em todo o país",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/economia/noticia/milhao-passes-ferroviarios-vendidos-governo-prepara-passe-intermodal-pais-2171852"
         },
         {
-            "title": "<em>Isto Não é um Misterioso Assassinato</em>: um detective chamado Magritte",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/culturaipsilon/noticia/nao-misterioso-assassinato-detective-chamado-magritte-2171538"
+            "title": "Em Angola, Leão XIV diz que os idosos devem ser apoiados mas também escutados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/mundo/noticia/angola-leao-xiv-idosos-apoiados-tambem-escutados-2171851"
         }
     ],
     "finance": [],
-    "last_update": "20/04/2026 09:47"
+    "last_update": "20/04/2026 11:10"
 }
