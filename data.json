@@ -1,15 +1,27 @@
 {
     "weather": {
         "atual": 16.0,
-        "manha": 15.6,
-        "tarde": 25.6,
+        "manha": 15.3,
+        "tarde": 25.5,
         "noite": 21.1
     },
     "forecast": {
-        "max": 20.2,
-        "min": 14.6
+        "max": 20.5,
+        "min": 15.3
     },
     "news": [
+        {
+            "title": "O financiamento do ensino superior: um desígnio estratégico que não admite adiamentos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/opiniao/opiniao/financiamento-ensino-superior-designio-estrategico-nao-admite-adiamentos-2171736"
+        },
+        {
+            "title": "Um Presidente contra a sua maioria?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/opiniao/editorial/presidente-maioria-2171808"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/opiniao/opiniao/cartas-director-2171803"
+        },
         {
             "title": "Uma história de dois criminosos de guerra",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/opiniao/opiniao/historia-dois-criminosos-guerra-2171787"
@@ -17,20 +29,8 @@
         {
             "title": "O uso ideológico da religião para legitimar uma nova ordem pós-liberal e antidemocrática?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/opiniao/opiniao/uso-ideologico-religiao-legitimar-nova-ordem-posliberal-antidemocratica-2171465"
-        },
-        {
-            "title": "Pela reformulação do projecto para a antiga Companhia Aurifícia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/opiniao/opiniao/reformulacao-projecto-antiga-companhia-aurificia-2171741"
-        },
-        {
-            "title": "Vivemos um jogo de hipocrisia na União Europeia? O apagão digital dos direitos da criança",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/opiniao/opiniao/vivemos-jogo-hipocrisia-uniao-europeia-apagao-digital-direitos-crianca-2171603"
-        },
-        {
-            "title": "Solidariedade litoral-interior: a pista da água",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/opiniao/opiniao/solidariedade-litoralinterior-pista-agua-2171606"
         }
     ],
     "finance": [],
-    "last_update": "20/04/2026 01:29"
+    "last_update": "20/04/2026 04:49"
 }
