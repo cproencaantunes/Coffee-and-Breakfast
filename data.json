@@ -1,9 +1,9 @@
 {
     "weather": {
         "atual": 16.0,
-        "manha": 15.3,
-        "tarde": 25.5,
-        "noite": 21.1
+        "manha": 15.9,
+        "tarde": 26.2,
+        "noite": 21.0
     },
     "forecast": {
         "max": 20.5,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "O financiamento do ensino superior: um desígnio estratégico que não admite adiamentos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/opiniao/opiniao/financiamento-ensino-superior-designio-estrategico-nao-admite-adiamentos-2171736"
+            "title": "Despertador: Taxa de conclusão do secundário cai a pique. FC Porto acelera para o título",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/newsletter/despertador"
         },
         {
-            "title": "Um Presidente contra a sua maioria?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/opiniao/editorial/presidente-maioria-2171808"
+            "title": "Trégua no Irão em risco depois de EUA capturarem navio de carga",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/mundo/noticia/tregua-irao-risco-eua-capturarem-navio-carga-2171829"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/opiniao/opiniao/cartas-director-2171803"
+            "title": "Restauração quer reforço a fundo perdido de apoio prometido pelo Governo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/economia/noticia/restauracao-quer-reforco-fundo-perdido-apoio-prometido-governo-2171659"
         },
         {
-            "title": "Uma história de dois criminosos de guerra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/opiniao/opiniao/historia-dois-criminosos-guerra-2171787"
+            "title": "Cinco estudantes brasileiros selecionados para participar de estágio na Alemanha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/publico-brasil/noticia/cinco-estudantes-brasileiros-selecionados-participar-estagio-alemanha-2171811"
         },
         {
-            "title": "O uso ideológico da religião para legitimar uma nova ordem pós-liberal e antidemocrática?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/opiniao/opiniao/uso-ideologico-religiao-legitimar-nova-ordem-posliberal-antidemocratica-2171465"
+            "title": "A saúde dos homens e mulheres não é igual: elas vivem mais tempo, mas com mais anos maus",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/sociedade/noticia/saude-homens-mulheres-nao-igual-vivem-tempo-anos-maus-2170698"
         }
     ],
     "finance": [],
-    "last_update": "20/04/2026 04:49"
+    "last_update": "20/04/2026 07:10"
 }
