@@ -2,8 +2,8 @@
     "weather": {
         "atual": 16.0,
         "manha": 15.5,
-        "tarde": 24.7,
-        "noite": 21.4
+        "tarde": 24.8,
+        "noite": 21.2
     },
     "forecast": {
         "max": 19.9,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Pedro Duarte invoca risco laboral para defender anonimato de quem financia partidos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/politica/noticia/pedro-duarte-invoca-risco-laboral-defender-anonimato-financia-partidos-2171850"
+            "title": "Porque é que o teu cão rouba sapatos? Especialistas explicam comportamentos caninos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/p3/noticia/cao-rouba-sapatos-especialistas-explicam-comportamentos-caninos-2171859"
         },
         {
-            "title": "Mulheres têm uma probabilidade 77% inferior de aceder a uma profissão nas novas tecnologias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/sociedade/noticia/mulheres-probabilidade-77-inferior-aceder-profissao-novas-tecnologias-2171839"
+            "title": "Aumento da energia solar permitiu abrandar crescimento das emissões em 2025",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/azul/noticia/aumento-energia-solar-permitiu-abrandar-crescimento-emissoes-2025-2171855"
         },
         {
-            "title": "Ler pode ser um acto de masoquismo e há um <em>podcast</em> para rir disso: o <em>Livros da Piça</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/p3/noticia/ler-acto-masoquismo-ha-podcast-rir-livros-pica-2171455"
+            "title": "Maestro português Filipe Cunha estreia no Brasil e se encanta com Belém do Pará",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/publico-brasil/noticia/maestro-portugues-filipe-cunha-estreia-brasil-encanta-belem-2171866"
         },
         {
-            "title": "Um milhão de passes ferroviários vendidos, Governo prepara passe intermodal em todo o país",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/economia/noticia/milhao-passes-ferroviarios-vendidos-governo-prepara-passe-intermodal-pais-2171852"
+            "title": "Tomar já decidiu: Festa dos Tabuleiros volta em 2027",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/fugas/noticia/tomar-ja-decidiu-festa-tabuleiros-volta-2027-2171858"
         },
         {
-            "title": "Em Angola, Leão XIV diz que os idosos devem ser apoiados mas também escutados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/mundo/noticia/angola-leao-xiv-idosos-apoiados-tambem-escutados-2171851"
+            "title": "Soldado israelita destrói imagem de Jesus crucificado no Líbano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/mundo/noticia/soldado-israelita-destroi-imagem-jesus-crucificado-libano-2171865"
         }
     ],
     "finance": [],
-    "last_update": "20/04/2026 11:10"
+    "last_update": "20/04/2026 13:04"
 }
