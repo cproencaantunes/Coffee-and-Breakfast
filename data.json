@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 15.9,
-        "manha": 15.5,
-        "tarde": 26.1,
-        "noite": 21.4
+        "atual": 16.0,
+        "manha": 15.6,
+        "tarde": 25.6,
+        "noite": 21.1
     },
     "forecast": {
         "max": 20.2,
         "min": 14.6
     },
     "news": [
+        {
+            "title": "Uma história de dois criminosos de guerra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/opiniao/opiniao/historia-dois-criminosos-guerra-2171787"
+        },
         {
             "title": "O uso ideológico da religião para legitimar uma nova ordem pós-liberal e antidemocrática?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/opiniao/opiniao/uso-ideologico-religiao-legitimar-nova-ordem-posliberal-antidemocratica-2171465"
@@ -25,12 +29,8 @@
         {
             "title": "Solidariedade litoral-interior: a pista da água",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/opiniao/opiniao/solidariedade-litoralinterior-pista-agua-2171606"
-        },
-        {
-            "title": "Faz falta o que não faz falta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/opiniao/cronica/faz-falta-nao-faz-falta-2171786"
         }
     ],
     "finance": [],
-    "last_update": "19/04/2026 23:26"
+    "last_update": "20/04/2026 01:29"
 }
