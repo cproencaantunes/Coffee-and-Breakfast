@@ -2,35 +2,35 @@
     "weather": {
         "atual": 16.0,
         "manha": 15.5,
-        "tarde": 24.8,
-        "noite": 21.2
+        "tarde": 25.2,
+        "noite": 21.9
     },
     "forecast": {
-        "max": 19.9,
-        "min": 14.1
+        "max": 20.8,
+        "min": 14.5
     },
     "news": [
         {
-            "title": "Constitucionalistas dizem que ocultação de doadores partidários viola lei fundamental",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/politica/noticia/constitucionalistas-ocultacao-doadores-partidarios-viola-lei-fundamental-2171879"
+            "title": "Agentes culturais de Lisboa assinam petição contra “desvalorização” do 25 de Abril",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/local/noticia/agentes-culturais-lisboa-assinam-peticao-desvalorizacao-25-abril-2171908"
         },
         {
-            "title": "Bruxelas quer um dia de teletrabalho obrigatório e menos viagens de avião",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/economia/noticia/bruxelas-quer-dia-teletrabalho-obrigatorio-menos-viagens-aviao-2171886"
+            "title": "Rio de Janeiro: tiroteio no Vidigal deixa centenas de turistas presos no Morro Dois Irmãos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/mundo/noticia/rio-janeiro-tiroteio-vidigal-deixa-centenas-turistas-presos-morro-dois-irmaos-2171903"
         },
         {
-            "title": "PSP de Lisboa detém grupo por roubo a turistas no Cais do Sodré",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/sociedade/noticia/psp-lisboa-detem-grupo-roubo-turistas-cais-sodre-2171881"
+            "title": "“Missão delicada” no estreito de Ormuz: os seis cruzeiros retidos conseguiram escapar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/fugas/noticia/missao-delicada-estreito-ormuz-seis-cruzeiros-retidos-conseguiram-escapar-2171890"
         },
         {
-            "title": "Chega admite apoiar medidas para mais transparência sobre doadores dos partidos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/politica/noticia/chega-admite-apoiar-medidas-transparencia-doadores-partidos-2171868"
+            "title": "SATA reforça voos nos Açores em “momentos estratégicos”: agenda mais 198",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/fugas/noticia/sata-reforca-voos-acores-momentos-estrategicos-agenda-198-2171902"
         },
         {
-            "title": "Italiano UniCredit chumba gestão do alemão Commerzbank para o conseguir comprar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/economia/noticia/italiano-unicredit-chumba-gestao-alemao-commerzbank-conseguir-comprar-2171876"
+            "title": "Cascais tem evento gratuito para quem trabalha no setor de eventos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/20/publico-brasil/noticia/cascais-evento-gratuito-trabalha-setor-eventos-2171843"
         }
     ],
     "finance": [],
-    "last_update": "20/04/2026 15:08"
+    "last_update": "20/04/2026 16:53"
 }
