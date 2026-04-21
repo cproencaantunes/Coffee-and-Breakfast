@@ -1,9 +1,9 @@
 {
     "weather": {
-        "atual": 19.9,
-        "manha": 18.8,
-        "tarde": 19.9,
-        "noite": 15.2
+        "atual": 20.6,
+        "manha": 18.5,
+        "tarde": 20.1,
+        "noite": 15.5
     },
     "forecast": {
         "max": 19.8,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
+            "title": "México: atirador mata turista canadiana e fere quatro outras pessoas nas pirâmides de Teotihuacan",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/21/mundo/noticia/mexico-atirador-mata-turista-canadiana-fere-quatro-pessoas-piramides-teotihuacan-2171943"
+        },
+        {
+            "title": "Ex-vereadora do Chega em Coimbra rompe com o executivo de Ana Abrunhosa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/21/local/noticia/exvereadora-chega-coimbra-rompe-executivo-ana-abrunhosa-2171942"
+        },
+        {
+            "title": "Dinheiro que EUA gastam na guerra do Irão poderia salvar 87 milhões de pessoas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/21/mundo/noticia/dinheiro-eua-gastam-guerra-irao-salvar-87-milhoes-pessoas-2171936"
+        },
+        {
             "title": "Esta reforma laboral ainda vai dar muito trabalho",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/21/opiniao/opiniao/reforma-laboral-vai-dar-trabalho-2171911"
         },
         {
             "title": "Mais literacia, melhor democracia – ensinar a pensar no legado de Abril",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/21/opiniao/opiniao/literacia-melhor-democracia-ensinar-pensar-legado-abril-2171315"
-        },
-        {
-            "title": "As vantagens do extremismo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/21/opiniao/opiniao/vantagens-extremismo-2171590"
-        },
-        {
-            "title": "A justiça não se reforma por impaciência",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/21/opiniao/opiniao/justica-nao-reforma-impaciencia-2171738"
-        },
-        {
-            "title": "Amnistia Internacional acusa líderes “predadores” de minarem o direito internacional",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/21/mundo/noticia/amnistia-internacional-acusa-lideres-predadores-minarem-direito-internacional-2171899"
         }
     ],
     "finance": [],
-    "last_update": "20/04/2026 23:33"
+    "last_update": "21/04/2026 01:25"
 }
