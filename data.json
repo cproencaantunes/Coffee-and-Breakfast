@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 20.6,
-        "manha": 18.5,
-        "tarde": 20.1,
-        "noite": 15.5
+        "manha": 18.6,
+        "tarde": 20.2,
+        "noite": 15.8
     },
     "forecast": {
-        "max": 19.8,
-        "min": 12.7
+        "max": 19.7,
+        "min": 13.2
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/21/opiniao/opiniao/cartas-director-2171848"
+        },
         {
             "title": "México: atirador mata turista canadiana e fere quatro outras pessoas nas pirâmides de Teotihuacan",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/21/mundo/noticia/mexico-atirador-mata-turista-canadiana-fere-quatro-pessoas-piramides-teotihuacan-2171943"
@@ -25,12 +29,8 @@
         {
             "title": "Esta reforma laboral ainda vai dar muito trabalho",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/21/opiniao/opiniao/reforma-laboral-vai-dar-trabalho-2171911"
-        },
-        {
-            "title": "Mais literacia, melhor democracia – ensinar a pensar no legado de Abril",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/21/opiniao/opiniao/literacia-melhor-democracia-ensinar-pensar-legado-abril-2171315"
         }
     ],
     "finance": [],
-    "last_update": "21/04/2026 01:25"
+    "last_update": "21/04/2026 04:40"
 }
