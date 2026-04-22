@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.4,
-        "manha": 14.4,
-        "tarde": 19.2,
-        "noite": 16.1
+        "manha": 14.5,
+        "tarde": 18.9,
+        "noite": 16.3
     },
     "forecast": {
-        "max": 20.9,
+        "max": 19.7,
         "min": 12.5
     },
     "news": [
         {
-            "title": "O maior fabricante de preservativos sobe preços até 30% devido à guerra no Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/p3/noticia/maior-fabricante-preservativos-sobe-precos-ate-30-devido-guerra-irao-2172106"
+            "title": "Ondas de calor põem em risco os sistemas alimentares, alerta ONU",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/azul/noticia/ondas-calor-poem-risco-sistemas-alimentares-alerta-onu-2172119"
         },
         {
-            "title": "Índia emite alerta devido a onda de calor que pode trazer temperaturas até 45°C",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/azul/noticia/india-emite-alerta-devido-onda-calor-trazer-temperaturas-ate-45c-2172104"
+            "title": "Nove perguntas a fazer a ti mesmo antes de cortares relações com um familiar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/p3/noticia/nove-perguntas-cortares-relacoes-familiar-2172117"
         },
         {
-            "title": "As crianças como diamantes em <em>Aprender</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/culturaipsilon/critica/criancas-diamantes-aprender-2171963"
+            "title": "Vandalizados murais junto ao Dragão antes do clássico entre FC Porto e Sporting",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/desporto/noticia/vandalizados-murais-junto-dragao-classico-fc-porto-sporting-2172113"
         },
         {
-            "title": "Lufthansa cancela 20 mil voos de curta distância até Outubro para poupar combustível",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/fugas/noticia/lufthansa-cancela-20-mil-voos-curta-distancia-ate-outubro-poupar-combustivel-2172105"
+            "title": "Bruxelas defende criação de vales energéticos e novas fontes de jet fuel",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/economia/noticia/bruxelas-defende-criacao-vales-energeticos-novas-fontes-jet-fuel-2172116"
         },
         {
-            "title": "Um estaladão da melhor amiga: <em>A Rapariga Que Sabia Demais</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/culturaipsilon/critica/estaladao-melhor-amiga-rapariga-sabia-demais-2171976"
+            "title": "Do croché ao bordado e à madeira: semear Abril com arte",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/fugas/noticia/croche-bordado-madeira-semear-abril-arte-2172003"
         }
     ],
     "finance": [],
-    "last_update": "22/04/2026 10:10"
+    "last_update": "22/04/2026 11:51"
 }
