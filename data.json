@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.4,
-        "manha": 14.5,
-        "tarde": 20.0,
-        "noite": 16.5
+        "manha": 14.4,
+        "tarde": 19.2,
+        "noite": 16.1
     },
     "forecast": {
         "max": 20.9,
-        "min": 12.8
+        "min": 12.5
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/opiniao/opiniao/cartas-director-2172038"
+            "title": "Porque há jovens a deixar o ensino secundário",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/opiniao/opiniao/ha-jovens-deixar-ensino-secundario-2172005"
         },
         {
-            "title": "Uns pozinhos de geografia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/opiniao/cronica/pozinhos-geografia-2171989"
+            "title": "O artista plástico João Penalva é o vencedor do Grande Prémio Fundação EDP Arte 2026",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/culturaipsilon/noticia/joao-penalva-artista-contador-historias-vencedor-premio-fundacao-edp-2026-2172064"
         },
         {
-            "title": "Libertado mais um cidadão luso-venezuelano, Héctor Ferreira Domingues",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/21/mundo/noticia/libertado-cidadao-lusovenezuelano-hector-ferreira-domingues-2172086"
+            "title": "FC Porto-Sporting: uma final antecipada para chegar à final",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/desporto/noticia/fc-portosporting-final-antecipada-chegar-final-2172075"
         },
         {
-            "title": "<em>Operação Lex</em>: advogado acusa juiz de agir ilegamente ao impedir protesto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/21/sociedade/noticia/operacao-lex-advogado-acusa-juiz-agir-ilegamente-impedir-protesto-2172079"
+            "title": "Greves no INEM: ministra garante que não sabia do pré-aviso. Chega acusa-a de mentir e quer participar à Justiça",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/sociedade/noticia/greves-inem-ministra-garante-nao-sabia-preaviso-chega-acusaa-mentir-quer-participar-justica-2172084"
         },
         {
-            "title": "Impactos na saúde do calor extremo: Portugal e Espanha são os países mais vulneráveis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/21/azul/noticia/impactos-saude-calor-extremo-portugal-espanha-sao-paises-vulneraveis-2171880"
+            "title": "Mais de metade dos adolescentes dorme mal e alguns sentem-se ansiosos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/sociedade/noticia/metade-adolescentes-dorme-mal-sentemse-ansiosos-2172069"
         }
     ],
     "finance": [],
-    "last_update": "22/04/2026 04:38"
+    "last_update": "22/04/2026 06:29"
 }
