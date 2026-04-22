@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.4,
         "manha": 14.5,
-        "tarde": 19.5,
+        "tarde": 19.7,
         "noite": 16.4
     },
     "forecast": {
-        "max": 19.1,
-        "min": 12.6
+        "max": 19.8,
+        "min": 12.7
     },
     "news": [
         {
-            "title": "Reino Unido avança com proibição vitalícia do tabaco para menores de 18 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/p3/noticia/reino-unido-avanca-proibicao-vitalicia-tabaco-menores-18-anos-2172165"
+            "title": "“Queremos que as bolsas deixem de existir”: mais de 4700 pessoas pedem o fim das bolsas de investigação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/ciencia/noticia/queremos-bolsas-deixem-existir-4700-pessoas-pedem-fim-bolsas-investigacao-2172114"
         },
         {
-            "title": "As medidas que a Comissão Europeia sugere para fazer face à crise energética",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/economia/noticia/medidas-comissao-europeia-sugere-face-crise-energetica-2172161"
+            "title": "Tiago Guedes leva J.M. Coetzee a Cannes: <em>Aquí</em> está na selecção oficial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/culturaipsilon/noticia/tiago-guedes-leva-jm-coetzee-cannes-aqui-seleccao-oficial-2172050"
         },
         {
-            "title": "Mortalidade em excesso no Inverno foi a mais alta em dez anos, excluindo a pandemia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/sociedade/noticia/mortalidade-excesso-inverno-alta-10-anos-excluindo-pandemia-2172157"
+            "title": "Ouviram o ministro? \"Não há relação\" entre crime e imigração",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/newsletter/livre-estilo"
         },
         {
-            "title": "Financiamento para requalificar urgências anunciado em Novembro avança “nos próximos dias”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/politica/noticia/financiamento-requalificar-urgencias-anunciado-novembro-avanca-proximos-dias-2172150"
+            "title": "Os dois lados da barricada começaram a esmiuçar o projecto-lei da aguardente do Douro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/terroir/noticia/dois-lados-barricada-comecaram-esmiucar-projectolei-aguardente-douro-2172168"
         },
         {
-            "title": "“Esperança é a última a morrer”, diz primeiro-ministro sobre acordo com UGT",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/politica/noticia/esperanca-ultima-morrer-primeiroministro-acordo-ugt-2172153"
+            "title": "PJ detém brasileiro que matou namorado da mãe. E PSP prende outros quatro foragidos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/publico-brasil/noticia/pj-detem-brasileiro-matou-namorado-mae-psp-prende-quatro-foragidos-2172178"
         }
     ],
     "finance": [],
-    "last_update": "22/04/2026 16:01"
+    "last_update": "22/04/2026 17:51"
 }
