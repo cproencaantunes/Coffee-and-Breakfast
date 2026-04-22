@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 14.4,
-        "manha": 14.6,
-        "tarde": 19.6,
+        "manha": 14.5,
+        "tarde": 20.0,
         "noite": 16.5
     },
     "forecast": {
-        "max": 20.3,
+        "max": 20.9,
         "min": 12.8
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/opiniao/opiniao/cartas-director-2172038"
+        },
         {
             "title": "Uns pozinhos de geografia",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/opiniao/cronica/pozinhos-geografia-2171989"
@@ -25,12 +29,8 @@
         {
             "title": "Impactos na saúde do calor extremo: Portugal e Espanha são os países mais vulneráveis",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/21/azul/noticia/impactos-saude-calor-extremo-portugal-espanha-sao-paises-vulneraveis-2171880"
-        },
-        {
-            "title": "Esta reforma laboral serve para quê e a quem?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/21/opiniao/opiniao/reforma-laboral-serve-2172014"
         }
     ],
     "finance": [],
-    "last_update": "22/04/2026 01:24"
+    "last_update": "22/04/2026 04:38"
 }
