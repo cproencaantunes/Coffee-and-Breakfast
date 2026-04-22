@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.4,
         "manha": 14.5,
-        "tarde": 18.9,
-        "noite": 16.3
+        "tarde": 19.5,
+        "noite": 16.4
     },
     "forecast": {
-        "max": 19.7,
-        "min": 12.5
+        "max": 19.1,
+        "min": 12.6
     },
     "news": [
         {
-            "title": "Ondas de calor põem em risco os sistemas alimentares, alerta ONU",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/azul/noticia/ondas-calor-poem-risco-sistemas-alimentares-alerta-onu-2172119"
+            "title": "Audições sobre financiamento dos partidos, à CIG e à ministra da Cultura adiadas pelo Chega",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/politica/noticia/audicoes-financiamento-partidos-cig-ministra-cultura-adiadas-chega-2172107"
         },
         {
-            "title": "Nove perguntas a fazer a ti mesmo antes de cortares relações com um familiar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/p3/noticia/nove-perguntas-cortares-relacoes-familiar-2172117"
+            "title": "O SNS e os que lhe querem mal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/opiniao/opiniao/sns-querem-mal-2171452"
         },
         {
-            "title": "Vandalizados murais junto ao Dragão antes do clássico entre FC Porto e Sporting",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/desporto/noticia/vandalizados-murais-junto-dragao-classico-fc-porto-sporting-2172113"
+            "title": "Filme <em>O Barqueiro</em>, breve comentário",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/publico-brasil/opiniao/filme-barqueiro-breve-comentario-2172129"
         },
         {
-            "title": "Bruxelas defende criação de vales energéticos e novas fontes de jet fuel",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/economia/noticia/bruxelas-defende-criacao-vales-energeticos-novas-fontes-jet-fuel-2172116"
+            "title": "Irão: Transavia cancela 50 voos e admite novos ajustamentos devido ao preço do combustível",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/fugas/noticia/irao-transavia-cancela-50-voos-admite-novos-ajustamentos-devido-preco-combustivel-2172127"
         },
         {
-            "title": "Do croché ao bordado e à madeira: semear Abril com arte",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/fugas/noticia/croche-bordado-madeira-semear-abril-arte-2172003"
+            "title": "São Pedro do Sul: Das grades aos livros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/impar/cronica/sao-pedro-sul-grades-livros-2172071"
         }
     ],
     "finance": [],
-    "last_update": "22/04/2026 11:51"
+    "last_update": "22/04/2026 12:59"
 }
