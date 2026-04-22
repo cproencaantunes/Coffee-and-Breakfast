@@ -3,34 +3,34 @@
         "atual": 14.4,
         "manha": 14.5,
         "tarde": 19.7,
-        "noite": 16.4
+        "noite": 16.5
     },
     "forecast": {
-        "max": 20.2,
+        "max": 20.4,
         "min": 12.6
     },
     "news": [
         {
+            "title": "Arbitragem: um cartão vermelho bem mostrado e dois por mostrar no clássico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/desporto/analise/cartao-vermelho-bem-mostrado-dois-mostrar-2172214"
+        },
+        {
+            "title": "Montenegro aumenta pressão para salvar reforma laboral, UGT continua “desconfortável”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/politica/noticia/montenegro-aumenta-pressao-salvar-reforma-laboral-ugt-continua-desconfortavel-2172199"
+        },
+        {
+            "title": "Sporting saiu de rastos do Dragão rumo à final da Taça",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/desporto/cronica_de_jogo/sporting-saiu-rastos-dragao-rumo-final-taca-2172213"
+        },
+        {
+            "title": "Manchester City chega ao topo da Liga inglesa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/desporto/noticia/manchester-city-chega-topo-liga-inglesa-2172206"
+        },
+        {
             "title": "Português detido em Singapura com 36 quilos de <em>cannabis</em> arrisca pena de morte",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/mundo/noticia/portugues-detido-singapura-36-quilos-cannabis-arrisca-pena-morte-2172210"
-        },
-        {
-            "title": "Partida de despedida de solteira resulta em danos de cinco mil euros à florentina Fonte de Neptuno",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/fugas/noticia/partida-despedida-solteira-resulta-danos-cinco-mil-euros-florentina-fonte-neptuno-2172209"
-        },
-        {
-            "title": "Ambientalistas lamentam que UE não tribute lucros extraordinários das petrolíferas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/azul/noticia/ambientalistas-lamentam-ue-nao-tribute-lucros-extraordinarios-petroliferas-2172208"
-        },
-        {
-            "title": "PS propõe que fique na lei que nome de doadores dos partidos é informação pública",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/politica/noticia/ps-propoe-fique-lei-nome-doadores-partidos-informacao-publica-2172205"
-        },
-        {
-            "title": "O regresso de Pedro Nuno e o duelo à vista",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/opiniao/editorial/regresso-pedro-nuno-duelo-vista-2172173"
         }
     ],
     "finance": [],
-    "last_update": "22/04/2026 21:41"
+    "last_update": "22/04/2026 22:38"
 }
