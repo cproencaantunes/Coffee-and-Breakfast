@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.4,
-        "manha": 14.5,
-        "tarde": 19.7,
-        "noite": 16.5
+        "atual": 15.0,
+        "manha": 14.8,
+        "tarde": 20.4,
+        "noite": 15.4
     },
     "forecast": {
-        "max": 20.4,
-        "min": 12.6
+        "max": 22.4,
+        "min": 13.4
     },
     "news": [
         {
-            "title": "Arbitragem: um cartão vermelho bem mostrado e dois por mostrar no clássico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/desporto/analise/cartao-vermelho-bem-mostrado-dois-mostrar-2172214"
+            "title": "A justiça esquecida do 25 de abril",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/opiniao/opiniao/justica-esquecida-25-abril-2172151"
         },
         {
-            "title": "Montenegro aumenta pressão para salvar reforma laboral, UGT continua “desconfortável”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/politica/noticia/montenegro-aumenta-pressao-salvar-reforma-laboral-ugt-continua-desconfortavel-2172199"
+            "title": "A liberdade não se herda – renova-se",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/opiniao/opiniao/liberdade-nao-herda-renovase-2172141"
         },
         {
-            "title": "Sporting saiu de rastos do Dragão rumo à final da Taça",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/desporto/cronica_de_jogo/sporting-saiu-rastos-dragao-rumo-final-taca-2172213"
+            "title": "Honra e louvor à coragem de José Pacheco Pereira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/opiniao/opiniao/honra-louvor-coragem-jose-pacheco-pereira-2172164"
         },
         {
-            "title": "Manchester City chega ao topo da Liga inglesa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/desporto/noticia/manchester-city-chega-topo-liga-inglesa-2172206"
+            "title": "Ataques de Israel no Sul do Líbano matam jornalista: é o quarto em dois meses",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/mundo/noticia/ataques-israel-sul-libano-matam-jornalista-quarto-dois-meses-2172216"
         },
         {
-            "title": "Português detido em Singapura com 36 quilos de <em>cannabis</em> arrisca pena de morte",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/22/mundo/noticia/portugues-detido-singapura-36-quilos-cannabis-arrisca-pena-morte-2172210"
+            "title": "Os rostos do sistema",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/opiniao/opiniao/rostos-sistema-2172174"
         }
     ],
     "finance": [],
-    "last_update": "22/04/2026 22:38"
+    "last_update": "22/04/2026 23:38"
 }
