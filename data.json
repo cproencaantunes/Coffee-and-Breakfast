@@ -1,15 +1,23 @@
 {
     "weather": {
-        "atual": 15.0,
-        "manha": 14.8,
-        "tarde": 20.4,
-        "noite": 15.4
+        "atual": 14.8,
+        "manha": 14.5,
+        "tarde": 19.0,
+        "noite": 15.7
     },
     "forecast": {
         "max": 22.4,
         "min": 13.4
     },
     "news": [
+        {
+            "title": "Pedro Nuno ao ataque contra Duarte Cordeiro e os costistas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/politica/noticia/pedro-nuno-ataque-duarte-cordeiro-costistas-2172222"
+        },
+        {
+            "title": "Viúva de homem que morreu em Pombal durante greve do INEM ouvida na CPI",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/sociedade/noticia/viuva-homem-morreu-pombal-durante-greve-inem-ouvida-cpi-2172219"
+        },
         {
             "title": "A justiça esquecida do 25 de abril",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/opiniao/opiniao/justica-esquecida-25-abril-2172151"
@@ -21,16 +29,8 @@
         {
             "title": "Honra e louvor à coragem de José Pacheco Pereira",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/opiniao/opiniao/honra-louvor-coragem-jose-pacheco-pereira-2172164"
-        },
-        {
-            "title": "Ataques de Israel no Sul do Líbano matam jornalista: é o quarto em dois meses",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/mundo/noticia/ataques-israel-sul-libano-matam-jornalista-quarto-dois-meses-2172216"
-        },
-        {
-            "title": "Os rostos do sistema",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/opiniao/opiniao/rostos-sistema-2172174"
         }
     ],
     "finance": [],
-    "last_update": "22/04/2026 23:38"
+    "last_update": "23/04/2026 01:29"
 }
