@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.8,
-        "manha": 14.5,
-        "tarde": 19.0,
-        "noite": 16.0
+        "atual": 15.0,
+        "manha": 14.7,
+        "tarde": 22.0,
+        "noite": 16.5
     },
     "forecast": {
-        "max": 22.1,
-        "min": 12.5
+        "max": 23.3,
+        "min": 14.2
     },
     "news": [
         {
-            "title": "Morreu o maestro Michael Tilson Thomas, um “visionário criativo”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/culturaipsilon/noticia/morreu-maestro-michael-tilson-thomas-visionario-criativo-2172369"
+            "title": "Sem saber quem paga, não há democracia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/opiniao/opiniao/saber-paga-nao-ha-democracia-2172343"
         },
         {
-            "title": "Torreense volta à final da Taça de Portugal, 70 anos depois",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/desporto/cronica_de_jogo/torreense-volta-final-taca-portugal-70-anos-2172370"
+            "title": "A lei laboral das consequências não intencionais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/opiniao/opiniao/lei-laboral-consequencias-nao-intencionais-2172353"
         },
         {
-            "title": "Monjardino pede “nova forma de pensar” e “<em>finesse</em>” para lidar com os EUA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/politica/noticia/monjardino-pede-nova-forma-pensar-finesse-lidar-eua-2172354"
+            "title": "Chuva tóxica cai sobre Tuapse, na Rússia, após incêndio em instalação petrolífera",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/azul/noticia/chuva-toxica-cai-tuapse-russia-apos-incendio-instalacao-petrolifera-2172327"
         },
         {
-            "title": "Pedro Nuno e Duarte Cordeiro: do amor ao ódio é um instante",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/newsletter/diarios-republica"
+            "title": "Mulheres ciganas e o 25 de abril: o epicentro de uma nova memória",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/opiniao/opiniao/mulheres-ciganas-25-abril-epicentro-nova-memoria-2172166"
         },
         {
-            "title": "“Hoje a liberdade já não se derruba com tanques nem metralhadoras; mina-se por dentro”, avisa Manuel Alegre",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/politica/noticia/hoje-liberdade-ja-nao-derruba-tanques-metralhadoras-minase-dentro-avisa-manuel-alegre-2172340"
+            "title": "Não se negoceia com a geografia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/opiniao/opiniao/nao-negoceia-geografia-2172183"
         }
     ],
     "finance": [],
-    "last_update": "23/04/2026 22:34"
+    "last_update": "23/04/2026 23:35"
 }
