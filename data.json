@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.8,
         "manha": 14.4,
-        "tarde": 18.9,
-        "noite": 15.6
+        "tarde": 19.2,
+        "noite": 15.4
     },
     "forecast": {
         "max": 22.1,
-        "min": 12.1
+        "min": 11.8
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/opiniao/opiniao/cartas-director-2172181"
+            "title": "Despertador: MP demora mais de três anos a tratar de materiais apreendidos em buscas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/newsletter/despertador"
         },
         {
-            "title": "Pedro Nuno ao ataque contra Duarte Cordeiro e os costistas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/politica/noticia/pedro-nuno-ataque-duarte-cordeiro-costistas-2172222"
+            "title": "AIMA transforma filha em mãe ao emitir documento com dados errados: sistema falho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/publico-brasil/noticia/aima-transforma-filha-mae-emitir-documento-dados-errados-sistema-falho-2172203"
         },
         {
-            "title": "Viúva de homem que morreu em Pombal durante greve do INEM ouvida na CPI",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/sociedade/noticia/viuva-homem-morreu-pombal-durante-greve-inem-ouvida-cpi-2172219"
+            "title": "Quando o vestir deixa de servir e passa a significar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/publico-brasil/opiniao/vestir-deixa-servir-passa-significar-2172207"
         },
         {
-            "title": "A justiça esquecida do 25 de abril",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/opiniao/opiniao/justica-esquecida-25-abril-2172151"
+            "title": "Beatriz Pessoa canta a liberdade: a sua e a de todos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/culturaipsilon/noticia/beatriz-pessoa-canta-liberdade-2172155"
         },
         {
-            "title": "A liberdade não se herda – renova-se",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/opiniao/opiniao/liberdade-nao-herda-renovase-2172141"
+            "title": "Portugal sabe gerir bem o seu oceano?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/azul/noticia/portugal-sabe-gerir-bem-oceano-2172223"
         }
     ],
     "finance": [],
-    "last_update": "23/04/2026 04:43"
+    "last_update": "23/04/2026 06:54"
 }
