@@ -3,34 +3,34 @@
         "atual": 14.8,
         "manha": 14.5,
         "tarde": 19.0,
-        "noite": 15.7
+        "noite": 16.0
     },
     "forecast": {
-        "max": 22.1,
-        "min": 11.9
+        "max": 22.2,
+        "min": 12.3
     },
     "news": [
         {
-            "title": "Sonhar em conjunto, ensaiar a morte: Ana Rita Teodoro e Xana Novais no DDD",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/culturaipsilon/critica/sonhar-conjunto-ensaiar-morte-ana-rita-teodoro-xana-novais-ddd-2172278"
+            "title": "Fiocruz e Universidade Nova de Lisboa renovam parceria para pesquisas em saúde",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/publico-brasil/noticia/fiocruz-universidade-nova-lisboa-renovam-parceria-pesquisas-saude-2172357"
         },
         {
-            "title": "Tribunal de Justiça europeu diz que apoios à Lufthansa não deviam ter sido aprovados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/economia/noticia/tribunal-justica-europeu-apoios-lufthansa-nao-aprovados-2172329"
+            "title": "Xpeng VLA 2.0: testámos a condução autónoma de nível 4 na caótica Pequim",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/enter/noticia/xpeng-vla-20-testamos-conducao-autonoma-nivel-4-caotica-pequim-2172344"
         },
         {
-            "title": "Franceses vão pagar mais de 6,4 mil milhões de euros pelo Novo Banco",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/economia/noticia/franceses-vao-pagar-64-mil-milhoes-euros-novo-banco-2172313"
+            "title": "Sem acordo na concertação social sobre pacote laboral, Seguro é empurrado para o centro do jogo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/politica/noticia/acordo-concertacao-social-pacote-laboral-seguro-empurrado-centro-jogo-2172289"
         },
         {
-            "title": "Serralves dedica Bioblitz de 2026 aos ecossistemas do solo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/azul/noticia/serralves-dedica-bioblitz-2026-ecossistemas-solo-2172304"
+            "title": "Falar da morte com os netos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/impar/noticia/falar-morte-netos-2172240"
         },
         {
-            "title": "MP pede pena exemplar para jovem da Feira acusado de instigar massacres no Brasil",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/sociedade/noticia/mp-pede-pena-exemplar-jovem-feira-acusado-instigar-massacres-brasil-2172326"
+            "title": "Vítima de incêndio em Hong Kong regressa para procurar memórias do seu cão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/p3/noticia/vitima-incendio-hong-kong-regressa-procurar-memorias-cao-2172308"
         }
     ],
     "finance": [],
-    "last_update": "23/04/2026 17:08"
+    "last_update": "23/04/2026 18:54"
 }
