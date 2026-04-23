@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.8,
-        "manha": 14.4,
-        "tarde": 19.2,
-        "noite": 15.4
+        "manha": 14.5,
+        "tarde": 19.1,
+        "noite": 15.6
     },
     "forecast": {
-        "max": 22.1,
-        "min": 11.8
+        "max": 22.6,
+        "min": 12.2
     },
     "news": [
         {
-            "title": "Chiu... que se vai ler: os clubes do livro silenciosos são cada vez mais em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/fugas/noticia/chiu-vai-ler-clubes-livro-silenciosos-sao-portugal-2170348"
+            "title": "FBI investigou jornalista que escreveu notícia sobre a companheira do director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/mundo/noticia/fbi-investigou-jornalista-escreveu-noticia-companheira-director-2172238"
         },
         {
-            "title": "<em>Projecto Global</em>, <em>A Rapariga Que Sabia Demais</em> e outras estreias para esta semana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/culturaipsilon/noticia/projecto-global-rapariga-sabia-demais-estreias-semana-2171828"
+            "title": "Conceição Calhau: “Olhar não engorda no sentido calórico, mas favorece a reserva de gordura”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/impar/noticia/conceicao-calhau-olhar-nao-engorda-sentido-calorico-favorece-reserva-gordura-2172185"
         },
         {
-            "title": "Nem proibição cega, nem deslumbramento digital",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/impar/opiniao/proibicao-cega-deslumbramento-digital-2171860"
+            "title": "Cientistas reconstroem a viagem oculta do magma na crise sísmica de 2022 em São Jorge",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/ciencia/noticia/cientistas-reconstroem-viagem-oculta-magma-crise-sismica-2022-sao-jorge-2172229"
         },
         {
-            "title": "Duas pessoas, o mesmo hotel, preços diferentes: a desigualdade nos serviços online",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/p3/cronica/duas-pessoas-hotel-precos-diferentes-desigualdade-servicos-online-2172101"
+            "title": "<em>Separados pelo ICE</em>, de Carol Guzy, é a imagem vencedora do World Press Photo 2026",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/culturaipsilon/noticia/separados-ice-carol-guzy-imagem-vencedora-world-press-photo-2026-2172236"
         },
         {
-            "title": "Torreense ou Fafe, um deles vai ao Jamor",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/desporto/noticia/torreense-fafe-vai-jamor-2172191"
+            "title": "Direito de Autor: o selo de autenticidade num mundo de algoritmos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/opiniao/opiniao/direito-autor-selo-autenticidade-mundo-algoritmos-2172190"
         }
     ],
     "finance": [],
-    "last_update": "23/04/2026 08:28"
+    "last_update": "23/04/2026 10:13"
 }
