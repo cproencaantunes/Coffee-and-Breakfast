@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.8,
         "manha": 14.5,
-        "tarde": 19.6,
-        "noite": 15.8
+        "tarde": 19.0,
+        "noite": 15.7
     },
     "forecast": {
-        "max": 21.8,
-        "min": 12.0
+        "max": 22.1,
+        "min": 11.9
     },
     "news": [
         {
-            "title": "PS acusa Governo de “má fé” e de “simulacro de negociação” na reforma laboral",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/politica/noticia/ps-acusa-governo-ma-fe-simulacro-negociacao-reforma-laboral-2172298"
+            "title": "Sonhar em conjunto, ensaiar a morte: Ana Rita Teodoro e Xana Novais no DDD",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/culturaipsilon/critica/sonhar-conjunto-ensaiar-morte-ana-rita-teodoro-xana-novais-ddd-2172278"
         },
         {
-            "title": "“WarnerMount”: accionistas da Warner Bros. aprovam fusão com a Paramount",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/culturaipsilon/noticia/warnermount-accionistas-warner-bros-aprovam-fusao-paramount-2172299"
+            "title": "Tribunal de Justiça europeu diz que apoios à Lufthansa não deviam ter sido aprovados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/economia/noticia/tribunal-justica-europeu-apoios-lufthansa-nao-aprovados-2172329"
         },
         {
-            "title": "PSP multou 95 condutores por dia em excesso de velocidade desde início do ano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/sociedade/noticia/psp-multou-95-condutores-dia-excesso-velocidade-desde-inicio-ano-2172306"
+            "title": "Franceses vão pagar mais de 6,4 mil milhões de euros pelo Novo Banco",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/economia/noticia/franceses-vao-pagar-64-mil-milhoes-euros-novo-banco-2172313"
         },
         {
-            "title": "Estudantes checos protestam contra cortes no financiamento dos media",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/p3/noticia/estudantes-checos-protestam-cortes-financiamento-media-2172300"
+            "title": "Serralves dedica Bioblitz de 2026 aos ecossistemas do solo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/azul/noticia/serralves-dedica-bioblitz-2026-ecossistemas-solo-2172304"
         },
         {
-            "title": "PP e Vox celebram acordo focado na “prioridade nacional” para governar em Aragão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/mundo/noticia/pp-vox-celebram-acordo-focado-prioridade-nacional-governar-aragao-2172297"
+            "title": "MP pede pena exemplar para jovem da Feira acusado de instigar massacres no Brasil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/sociedade/noticia/mp-pede-pena-exemplar-jovem-feira-acusado-instigar-massacres-brasil-2172326"
         }
     ],
     "finance": [],
-    "last_update": "23/04/2026 15:12"
+    "last_update": "23/04/2026 17:08"
 }
