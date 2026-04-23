@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.8,
         "manha": 14.5,
-        "tarde": 19.1,
-        "noite": 15.6
+        "tarde": 19.6,
+        "noite": 15.8
     },
     "forecast": {
-        "max": 22.6,
-        "min": 12.2
+        "max": 21.8,
+        "min": 12.0
     },
     "news": [
         {
+            "title": "Carlos vai em missão aos EUA para reforçar a relação especial com o monárquico Trump",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/impar/noticia/carlos-vai-missao-eua-reforcar-relacao-especial-monarquico-trump-2172256"
+        },
+        {
+            "title": "O princípio do fim dos combustíveis fósseis pode começar em Santa Marta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/newsletter/azul"
+        },
+        {
+            "title": "Hoje é o meu dia, pensou o livro esquecido",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/p3/cronica/hoje-dia-pensou-livro-esquecido-2172262"
+        },
+        {
+            "title": "Bankinter rejeita interesse em comprar Banco CTT",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/economia/noticia/bankinter-rejeita-interesse-comprar-banco-ctt-2172249"
+        },
+        {
             "title": "Reforma laboral deve ser aprovada, mas é preciso “transformação estrutural”, diz António Mendonça",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/video/antonio-mendonca-duvidas-alteracoes-lei-laboral-impactem-estrutura-produtiva-20260423-122523"
-        },
-        {
-            "title": "Tribunal põe pedra final sobre a possibilidade de aeroporto no Montijo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/azul/noticia/tribunal-poe-pedra-final-possibilidade-aeroporto-montijo-2172235"
-        },
-        {
-            "title": "Trump quer trocar o Irão pela Itália no Mundial para fazer pazes com Meloni",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/desporto/noticia/trump-quer-trocar-irao-italia-mundial-pazes-meloni-2172250"
-        },
-        {
-            "title": "Conselho Superior da Magistratura: detenção de migrantes nas fronteiras deve ser “excepcional”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/sociedade/noticia/conselho-superior-magistratura-detencao-migrantes-fronteiras-excepcional-2172242"
-        },
-        {
-            "title": "Ex-Presidente filipino Rodrigo Duterte vai ser julgado por cimes contra a humanidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/23/mundo/noticia/expresidente-filipino-rodrigo-duterte-vai-julgado-cimes-humanidade-2172253"
         }
     ],
     "finance": [],
-    "last_update": "23/04/2026 11:53"
+    "last_update": "23/04/2026 12:59"
 }
