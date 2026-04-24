@@ -6,10 +6,14 @@
         "noite": 16.8
     },
     "forecast": {
-        "max": 23.6,
-        "min": 14.3
+        "max": 23.3,
+        "min": 14.4
     },
     "news": [
+        {
+            "title": "Colisão rodoviária faz um morto e um ferido grave na A2 em Almodôvar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/local/noticia/colisao-rodoviaria-faz-morto-ferido-grave-a2-almodovar-2172513"
+        },
         {
             "title": "Aborto aumentou 5% e atinge o valor mais alto da última década",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/sociedade/noticia/aborto-aumentou-5-atinge-valor-alto-ultima-decada-2172510"
@@ -25,12 +29,8 @@
         {
             "title": "Que a minha filha não herde menos Abril do que eu",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/impar/cronica/filha-nao-herde-menos-abril-2172243"
-        },
-        {
-            "title": "Legislativas de 1976 “consolidaram sistema partidário”: “Povo queria paz e sossego”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/politica/noticia/legislativas-1976-consolidaram-sistema-partidario-povo-queria-paz-sossego-2172440"
         }
     ],
     "finance": [],
-    "last_update": "24/04/2026 21:38"
+    "last_update": "24/04/2026 22:31"
 }
