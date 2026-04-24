@@ -2,35 +2,35 @@
     "weather": {
         "atual": 15.2,
         "manha": 15.6,
-        "tarde": 21.7,
-        "noite": 16.9
+        "tarde": 21.4,
+        "noite": 16.7
     },
     "forecast": {
-        "max": 23.6,
-        "min": 14.1
+        "max": 23.3,
+        "min": 14.2
     },
     "news": [
         {
-            "title": "Banco do Brasil lança conta digital em Portugal para movimentações em euros e dólar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/publico-brasil/noticia/banco-brasil-lanca-conta-digital-portugal-movimentacoes-euros-dolar-2172455"
+            "title": "Antigo futebolista Michael Eneramo morre durante jogo na Nigéria",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/desporto/noticia/antigo-futebolista-michael-eneramo-perde-vida-durante-jogo-nigeria-2172470"
         },
         {
-            "title": "Portugal apressa criação de zonas de conservação para travar sanções europeias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/azul/noticia/portugal-apressa-criacao-zonas-conservacao-travar-sancoes-europeias-2172406"
+            "title": "Da liberdade à biodiversidade: nove ideias para pôr em marcha com a família",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/impar/noticia/liberdade-biodiversidade-nove-ideias-marcha-familia-2172465"
         },
         {
-            "title": "Um dos capítulos do premiado romance <em>Assunto de Família</em>, de Claire Lynch",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/culturaipsilon/noticia/capitulos-premiado-romance-assunto-familia-claire-lynch-2172239"
+            "title": "Comandantes ucranianos demitidos depois de soldados passarem dias sem água e comida",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/mundo/noticia/comandantes-ucranianos-demitidos-soldados-passarem-dias-agua-comida-2172464"
         },
         {
-            "title": "Opel Frontera quer levar a “casa” para qualquer lado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/fugas/noticia/opel-frontera-quer-levar-casa-qualquer-lado-2169861"
+            "title": "Miguel Guedes reconduzido no Coliseu do Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/culturaipsilon/noticia/miguel-guedes-reconduzido-coliseu-porto-2172468"
         },
         {
-            "title": "Homem linchado em Moçambique por superstições de magia que atrofia órgãos genitais. Morreu numa esquadra de polícia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/mundo/noticia/homem-linchado-mocambique-supersticoes-magia-atrofia-orgaos-genitais-morreu-esquadra-policia-2172458"
+            "title": "Funicular da Graça deverá reabrir na quinta-feira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/local/noticia/funicular-graca-devera-reabrir-quintafeira-2172474"
         }
     ],
     "finance": [],
-    "last_update": "24/04/2026 15:57"
+    "last_update": "24/04/2026 16:52"
 }
