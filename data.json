@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 15.2,
-        "manha": 15.7,
-        "tarde": 21.0,
-        "noite": 16.9
+        "manha": 15.9,
+        "tarde": 21.9,
+        "noite": 16.8
     },
     "forecast": {
         "max": 23.5,
-        "min": 14.6
+        "min": 14.3
     },
     "news": [
         {
-            "title": "Uma negociação à procura do ambiente certo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/opiniao/editorial/negociacao-procura-ambiente-certo-2172349"
+            "title": "Concentração de pólen na atmosfera vai estar elevada até ao fim do mês",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/azul/noticia/concentracao-polen-atmosfera-vai-estar-elevada-ate-fim-mes-2172383"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/opiniao/opiniao/cartas-director-2172245"
+            "title": "Zelensky afirma que Estados Unidos continuam a fornecer armas a Kiev",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/mundo/noticia/zelensky-afirma-estados-unidos-continuam-fornecer-armas-kiev-2172380"
         },
         {
-            "title": "Qual vai ser a saída limpa do Governo na reforma laboral?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/politica/noticia/vai-saida-limpa-governo-reforma-laboral-2172375"
+            "title": "Trump defende participação de Putin na cimeira do G20 em Miami",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/mundo/noticia/trump-defende-participacao-putin-cimeira-g20-miami-2172379"
         },
         {
-            "title": "Sem saber quem paga, não há democracia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/opiniao/opiniao/saber-paga-nao-ha-democracia-2172343"
+            "title": "Despertador: Governo e UGT deixam acordo para a reforma laboral num beco sem saída",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/newsletter/despertador"
         },
         {
-            "title": "A lei laboral das consequências não intencionais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/opiniao/opiniao/lei-laboral-consequencias-nao-intencionais-2172353"
+            "title": "Pudim Abade de Priscos: conheça a sobremesa servida para Lula em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/publico-brasil/noticia/pudim-abade-priscos-conheca-sobremesa-servida-lula-portugal-2172268"
         }
     ],
     "finance": [],
-    "last_update": "24/04/2026 04:46"
+    "last_update": "24/04/2026 06:58"
 }
