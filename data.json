@@ -2,14 +2,22 @@
     "weather": {
         "atual": 15.2,
         "manha": 15.7,
-        "tarde": 21.7,
-        "noite": 16.6
+        "tarde": 21.0,
+        "noite": 16.9
     },
     "forecast": {
-        "max": 23.3,
-        "min": 14.2
+        "max": 23.5,
+        "min": 14.6
     },
     "news": [
+        {
+            "title": "Uma negociação à procura do ambiente certo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/opiniao/editorial/negociacao-procura-ambiente-certo-2172349"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/opiniao/opiniao/cartas-director-2172245"
+        },
         {
             "title": "Qual vai ser a saída limpa do Governo na reforma laboral?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/politica/noticia/vai-saida-limpa-governo-reforma-laboral-2172375"
@@ -21,16 +29,8 @@
         {
             "title": "A lei laboral das consequências não intencionais",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/opiniao/opiniao/lei-laboral-consequencias-nao-intencionais-2172353"
-        },
-        {
-            "title": "Chuva tóxica cai sobre Tuapse, na Rússia, após incêndio em instalação petrolífera",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/azul/noticia/chuva-toxica-cai-tuapse-russia-apos-incendio-instalacao-petrolifera-2172327"
-        },
-        {
-            "title": "Mulheres ciganas e o 25 de Abril: o epicentro de uma nova memória",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/opiniao/opiniao/mulheres-ciganas-25-abril-epicentro-nova-memoria-2172166"
         }
     ],
     "finance": [],
-    "last_update": "24/04/2026 01:28"
+    "last_update": "24/04/2026 04:46"
 }
