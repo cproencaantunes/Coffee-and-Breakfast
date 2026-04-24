@@ -2,35 +2,35 @@
     "weather": {
         "atual": 15.2,
         "manha": 15.6,
-        "tarde": 21.1,
-        "noite": 16.8
+        "tarde": 21.7,
+        "noite": 16.9
     },
     "forecast": {
-        "max": 23.8,
-        "min": 14.3
+        "max": 23.6,
+        "min": 14.1
     },
     "news": [
         {
-            "title": "Dia do Churrasco: alguns segredos e breve roteiro para saborear um símbolo do Brasil",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/publico-brasil/noticia/dia-churrasco-segredos-breve-roteiro-saborear-simbolo-brasil-2172348"
+            "title": "Gasóleo desce quatro cêntimos e gasolina sobe 2,5 cêntimos na próxima semana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/economia/noticia/gasoleo-desce-quatro-centimos-gasolina-sobe-25-centimos-proxima-semana-2172430"
         },
         {
-            "title": "Seguro diz que Portugal precisa de valores comuns em momento “divisionista”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/politica/noticia/seguro-portugal-precisa-valores-comuns-momento-divisionista-2172416"
+            "title": "“Não contem comigo para adiar obras”, avisa Graça Carvalho sobre Pisão e dessalinizadora do Algarve",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/azul/noticia/nao-contem-comigo-adiar-obras-avisa-graca-carvalho-pisao-dessalinizadora-algarve-2172412"
         },
         {
-            "title": "Governo tem 20 milhões de euros para incentivar a compra de veículos eléctricos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/enter/noticia/governo-20-milhoes-euros-incentivar-compra-veiculos-electricos-2172401"
+            "title": "O que fazer neste fim-de-semana? Celebrar Abril com mel, queijo e presunto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/fugas/noticia/neste-fimdesemana-celebrar-abril-mel-queijo-presunto-2172331"
         },
         {
-            "title": "Temos provas: o streaming mudou",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/newsletter/proximo_episodio"
+            "title": "Montenegro defende diálogo com Rússia e concorda com participação de Putin no G20",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/politica/noticia/montenegro-defende-dialogo-russia-concorda-participacao-putin-g20-2172427"
         },
         {
-            "title": "Como usar o LinkedIn sem cair em clichés",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/p3/noticia/usar-linkedin-cair-cliches-2172420"
+            "title": "Praia da Vieira planeia abertura da época em Junho, quando a areia voltar ao seu lugar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/fugas/reportagem/praia-vieira-planeia-abertura-epoca-junho-areia-voltar-lugar-2171919"
         }
     ],
     "finance": [],
-    "last_update": "24/04/2026 11:51"
+    "last_update": "24/04/2026 12:57"
 }
