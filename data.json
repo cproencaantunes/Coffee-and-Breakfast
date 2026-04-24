@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 15.0,
-        "manha": 14.7,
-        "tarde": 22.0,
-        "noite": 16.5
+        "atual": 15.2,
+        "manha": 15.7,
+        "tarde": 21.7,
+        "noite": 16.6
     },
     "forecast": {
         "max": 23.3,
         "min": 14.2
     },
     "news": [
+        {
+            "title": "Qual vai ser a saída limpa do Governo na reforma laboral?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/politica/noticia/vai-saida-limpa-governo-reforma-laboral-2172375"
+        },
         {
             "title": "Sem saber quem paga, não há democracia",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/opiniao/opiniao/saber-paga-nao-ha-democracia-2172343"
@@ -23,14 +27,10 @@
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/azul/noticia/chuva-toxica-cai-tuapse-russia-apos-incendio-instalacao-petrolifera-2172327"
         },
         {
-            "title": "Mulheres ciganas e o 25 de abril: o epicentro de uma nova memória",
+            "title": "Mulheres ciganas e o 25 de Abril: o epicentro de uma nova memória",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/opiniao/opiniao/mulheres-ciganas-25-abril-epicentro-nova-memoria-2172166"
-        },
-        {
-            "title": "Não se negoceia com a geografia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/opiniao/opiniao/nao-negoceia-geografia-2172183"
         }
     ],
     "finance": [],
-    "last_update": "23/04/2026 23:35"
+    "last_update": "24/04/2026 01:28"
 }
