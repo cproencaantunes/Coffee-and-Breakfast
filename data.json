@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 15.2,
-        "manha": 15.6,
-        "tarde": 21.4,
-        "noite": 16.8
+        "atual": 15.7,
+        "manha": 15.9,
+        "tarde": 23.3,
+        "noite": 18.9
     },
     "forecast": {
-        "max": 23.3,
-        "min": 14.4
+        "max": 26.1,
+        "min": 15.7
     },
     "news": [
         {
-            "title": "Colisão rodoviária faz um morto e um ferido grave na A2 em Almodôvar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/local/noticia/colisao-rodoviaria-faz-morto-ferido-grave-a2-almodovar-2172513"
+            "title": "Obscurantismo de antanho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/opiniao/opiniao/obscurantismo-antanho-2172200"
         },
         {
-            "title": "Aborto aumentou 5% e atinge o valor mais alto da última década",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/sociedade/noticia/aborto-aumentou-5-atinge-valor-alto-ultima-decada-2172510"
+            "title": "Os presos políticos durante a ditadura portuguesa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/opiniao/opiniao/presos-politicos-durante-ditadura-portuguesa-2172450"
         },
         {
-            "title": "Como deixar os combustíveis fósseis para trás? Esperam-se respostas na Colômbia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/azul/noticia/deixar-combustiveis-fosseis-tras-esperamse-respostas-colombia-2172484"
+            "title": "O 25 de Abril ameaçado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/opiniao/opiniao/52-anos-abril-democracia-ameacada-2172130"
         },
         {
-            "title": "E se estes 12 projectos arquitectónicos tivessem mesmo avançado?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/culturaipsilon/noticia/12-projectos-arquitectonicos-avancado-2172046"
+            "title": "Dar com uma mão e tirar com a outra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/opiniao/opiniao/dar-mao-tirar-2172463"
         },
         {
-            "title": "Que a minha filha não herde menos Abril do que eu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/24/impar/cronica/filha-nao-herde-menos-abril-2172243"
+            "title": "O país precisa de uma universidade em Leiria e Oeste",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/opiniao/opiniao/pais-precisa-universidade-leiria-oeste-2172179"
         }
     ],
     "finance": [],
-    "last_update": "24/04/2026 22:31"
+    "last_update": "24/04/2026 23:31"
 }
