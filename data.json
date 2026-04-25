@@ -2,35 +2,35 @@
     "weather": {
         "atual": 15.5,
         "manha": 15.5,
-        "tarde": 24.0,
-        "noite": 18.6
+        "tarde": 24.1,
+        "noite": 18.7
     },
     "forecast": {
         "max": 27.9,
-        "min": 15.8
+        "min": 15.9
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/opiniao/opiniao/cartas-director-2172423"
+            "title": "Portugal obtém 81 milhões de euros da Europa para criar seis centros de investigação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/ciencia/noticia/portugal-obtem-81-milhoes-euros-europa-criar-seis-centros-investigacao-2172487"
         },
         {
-            "title": "Obscurantismo de antanho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/opiniao/opiniao/obscurantismo-antanho-2172200"
+            "title": "Entidade para a Transparência só fiscalizou 10% das declarações de políticos até 2026",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/politica/noticia/entidade-transparencia-so-fiscalizou-10-declaracoes-politicos-ate-2026-2172341"
         },
         {
-            "title": "Os presos políticos durante a ditadura portuguesa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/opiniao/opiniao/presos-politicos-durante-ditadura-portuguesa-2172450"
+            "title": "Liderança no feminino na engenharia: não é uma opção, é uma responsabilidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/ciencia/opiniao/lideranca-feminino-engenharia-nao-opcao-responsabilidade-2172506"
         },
         {
-            "title": "O 25 de Abril ameaçado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/opiniao/opiniao/52-anos-abril-democracia-ameacada-2172130"
+            "title": "52 frases de Pacheco Pereira que André Ventura tentou boicotar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/politica/opiniao/52-frases-pacheco-pereira-andre-ventura-tentou-boicotar-2172480"
         },
         {
-            "title": "Dar com uma mão e tirar com a outra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/opiniao/opiniao/dar-mao-tirar-2172463"
+            "title": "Mais de 70 anos da estrutura do ADN: o que já nos contou e o que ainda esconde sobre a doença",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/ciencia/opiniao/70-anos-estrutura-adn-ja-contou-esconde-doenca-2172516"
         }
     ],
     "finance": [],
-    "last_update": "25/04/2026 04:27"
+    "last_update": "25/04/2026 06:14"
 }
