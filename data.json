@@ -3,13 +3,17 @@
         "atual": 15.5,
         "manha": 15.4,
         "tarde": 24.0,
-        "noite": 18.0
+        "noite": 18.3
     },
     "forecast": {
-        "max": 26.1,
+        "max": 26.2,
         "min": 15.6
     },
     "news": [
+        {
+            "title": "A rua celebrou o 25 de Abril contra o desleixo oficial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/opiniao/opiniao/rua-celebrou-25-abril-desleixo-oficial-2172553"
+        },
         {
             "title": "Tribunal Constitucional anula expulsão de Daniel Adrião que tinha sido decidida pelo PS",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/sociedade/noticia/tribunal-constitucional-anula-expulsao-daniel-adriao-decidida-ps-2172574"
@@ -25,12 +29,8 @@
         {
             "title": "O engenheiro que já salvou a Apple pode ter de a salvar outra vez",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/economia/noticia/engenheiro-ja-salvou-apple-salvar-2172551"
-        },
-        {
-            "title": "Primeiro, Seguro falou para os jovens e, depois, os jovens falaram para Seguro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/politica/noticia/musica-poesia-debate-25-abril-seguro-sessao-solene-2172568"
         }
     ],
     "finance": [],
-    "last_update": "25/04/2026 21:26"
+    "last_update": "25/04/2026 22:25"
 }
