@@ -2,14 +2,26 @@
     "weather": {
         "atual": 15.5,
         "manha": 15.4,
-        "tarde": 23.5,
-        "noite": 18.5
+        "tarde": 24.0,
+        "noite": 18.0
     },
     "forecast": {
-        "max": 25.5,
-        "min": 15.5
+        "max": 25.4,
+        "min": 15.7
     },
     "news": [
+        {
+            "title": "Laura Carvalho: “Pode haver timidez na resposta à crise porque foi gerada pelos EUA”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/azul/entrevista/laura-carvalho-haver-timidez-resposta-crise-gerada-eua-2171918"
+        },
+        {
+            "title": "Delegação iraniana entrou e saiu de Islamabad sem sinal dos EUA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/mundo/noticia/delegacao-iraniana-entrou-saiu-islamabad-sinal-eua-2172549"
+        },
+        {
+            "title": "Enchufada: 20 anos de dança global feita em Lisboa e celebrada no Porto e Londres",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/culturaipsilon/noticia/enchufada-20-anos-danca-global-lisboa-celebrada-porto-londres-2172521"
+        },
         {
             "title": "“Estejam atentos”: com alertas aos jovens, Seguro pede transparência no financiamento dos partidos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/politica/noticia/atentos-alertas-jovens-seguro-pede-transparencia-financiamento-partidos-2172537"
@@ -17,20 +29,8 @@
         {
             "title": "Desilusão, culpa e vontade de lutar: como mulheres presas pela PIDE vêem o avanço da extrema-direita",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/sociedade/noticia/desilusao-culpa-vontade-lutar-mulheres-presas-pide-veem-avanco-extremadireita-2172448"
-        },
-        {
-            "title": "Bombeiros lutam para controlar incêndios no Japão, há mais de três mil deslocados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/azul/noticia/bombeiros-lutam-controlar-incendios-japao-ha-tres-mil-deslocados-2172546"
-        },
-        {
-            "title": "Rússia e Israel fora da corrida aos prémios da Bienal de Veneza",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/culturaipsilon/noticia/russia-israel-corrida-premios-bienal-veneza-2172548"
-        },
-        {
-            "title": "Casal descendente de madeirenses assassinado na África do Sul",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/mundo/noticia/casal-descendente-madeirenses-assassinado-africa-sul-2172550"
         }
     ],
     "finance": [],
-    "last_update": "25/04/2026 15:31"
+    "last_update": "25/04/2026 16:30"
 }
