@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 15.5,
-        "manha": 15.6,
-        "tarde": 23.5,
-        "noite": 18.8
+        "manha": 15.5,
+        "tarde": 24.0,
+        "noite": 18.6
     },
     "forecast": {
-        "max": 26.1,
-        "min": 15.7
+        "max": 27.9,
+        "min": 15.8
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/opiniao/opiniao/cartas-director-2172423"
+        },
         {
             "title": "Obscurantismo de antanho",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/opiniao/opiniao/obscurantismo-antanho-2172200"
@@ -25,12 +29,8 @@
         {
             "title": "Dar com uma mão e tirar com a outra",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/opiniao/opiniao/dar-mao-tirar-2172463"
-        },
-        {
-            "title": "O país precisa de uma universidade em Leiria e Oeste",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/25/opiniao/opiniao/pais-precisa-universidade-leiria-oeste-2172179"
         }
     ],
     "finance": [],
-    "last_update": "25/04/2026 01:22"
+    "last_update": "25/04/2026 04:27"
 }
