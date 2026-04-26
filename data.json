@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 17.5,
-        "manha": 17.0,
-        "tarde": 26.6,
-        "noite": 21.2
+        "atual": 20.1,
+        "manha": 19.2,
+        "tarde": 27.3,
+        "noite": 21.5
     },
     "forecast": {
-        "max": 27.3,
-        "min": 16.6
+        "max": 23.8,
+        "min": 15.9
     },
     "news": [
         {
-            "title": "Tentem não matar o presidente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/opiniao/cronica/tentem-nao-matar-presidente-2172597"
+            "title": "A falta de energia está a emperrar a economia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/27/opiniao/opiniao/falta-energia-emperrar-economia-2172613"
         },
         {
-            "title": "Sporting tira mais um dedo da taça de campeão nacional",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/desporto/cronica_de_jogo/sporting-tira-dedo-taca-campeao-nacional-2172623"
+            "title": "Menos burocracia, menos controlo? O novo equilíbrio da contratação pública",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/27/opiniao/opiniao/menos-burocracia-menos-controlo-novo-equilibrio-contratacao-publica-2172158"
         },
         {
-            "title": "Vimos-te na marcha do 25 de Abril no Porto. Estás aqui?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/fotogaleria/marcha-25-abril-porto-415424"
+            "title": "A (necessária) transparência da informação sobre os doadores dos partidos e das campanhas políticas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/27/opiniao/opiniao/necessaria-transparencia-informacao-doadores-partidos-campanhas-politicas-2172149"
         },
         {
-            "title": "Victor Osimhen, o goleador que veio da sarjeta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/desporto/noticia/victor-osimhen-goleador-veio-sarjeta-2172626"
+            "title": "A criatura devorou o criador",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/27/opiniao/opiniao/criatura-devorou-criador-2172582"
         },
         {
-            "title": "Benfica vence Sporting e conquista Taça de Portugal de futsal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/desporto/noticia/benfica-vence-sporting-conquista-taca-portugal-futsal-2172625"
+            "title": "Uma Universidade funcionária",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/27/opiniao/opiniao/universidade-funcionaria-2172580"
         }
     ],
     "finance": [],
-    "last_update": "26/04/2026 22:26"
+    "last_update": "26/04/2026 23:29"
 }
