@@ -2,14 +2,18 @@
     "weather": {
         "atual": 17.5,
         "manha": 17.1,
-        "tarde": 25.9,
-        "noite": 20.2
+        "tarde": 25.1,
+        "noite": 20.4
     },
     "forecast": {
-        "max": 27.2,
-        "min": 17.3
+        "max": 26.8,
+        "min": 16.8
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/opiniao/opiniao/cartas-director-2172425"
+        },
         {
             "title": "A Europa e “o suicídio de uma superpotência”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/opiniao/analise/europa-suicidio-superpotencia-2172547"
@@ -25,12 +29,8 @@
         {
             "title": "O respeito institucional não é opcional",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/opiniao/opiniao/respeito-institucional-nao-opcional-2172578"
-        },
-        {
-            "title": "Propriedade intelectual e desporto: um ativo estratégico na economia desportiva",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/desporto/opiniao/propriedade-intelectual-desporto-ativo-estrategico-economia-desportiva-2172494"
         }
     ],
     "finance": [],
-    "last_update": "26/04/2026 01:43"
+    "last_update": "26/04/2026 04:51"
 }
