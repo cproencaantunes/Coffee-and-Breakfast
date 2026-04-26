@@ -2,35 +2,35 @@
     "weather": {
         "atual": 17.5,
         "manha": 17.1,
-        "tarde": 25.1,
-        "noite": 20.4
+        "tarde": 24.9,
+        "noite": 20.6
     },
     "forecast": {
         "max": 26.8,
-        "min": 16.8
+        "min": 17.0
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/opiniao/opiniao/cartas-director-2172425"
+            "title": "Ricardo Araújo Pereira: “Trump já é tão grotesco que qualquer deformação que a gente tente, falha”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/culturaipsilon/entrevista/ricardo-araujo-pereira-trump-ja-tao-grotesco-qualquer-deformacao-gente-tente-falha-2172376"
         },
         {
-            "title": "A Europa e “o suicídio de uma superpotência”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/opiniao/analise/europa-suicidio-superpotencia-2172547"
+            "title": "Brasileiros têm menos de duas semanas para regularizar título eleitoral em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/publico-brasil/noticia/brasileiros-menos-duas-semanas-regularizar-titulo-eleitoral-portugal-2172554"
         },
         {
-            "title": "Irão: entre o arbítrio da espada e a instrumentalização da fé",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/opiniao/opiniao/irao-arbitrio-espada-instrumentalizacao-fe-2172085"
+            "title": "Departamento Municipal de Ocupação Temporária",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/opiniao/cronica/departamento-municipal-ocupacao-temporaria-2172175"
         },
         {
-            "title": "Dois desdobramentos no direito migratório da UE",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/opiniao/opiniao/dois-desdobramentos-direito-migratorio-ue-2172194"
+            "title": "Sermão de Padre António Vieira aos ouvintes de sermões",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/opiniao/cronica/sermao-padre-antonio-vieira-ouvintes-sermoes-2172421"
         },
         {
-            "title": "O respeito institucional não é opcional",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/opiniao/opiniao/respeito-institucional-nao-opcional-2172578"
+            "title": "Duzentos anos da Carta Constitucional: moderada, monárquica e antirrevolucionária",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/politica/noticia/duzentos-anos-carta-constitucional-moderada-monarquica-antirrevolucionaria-2172081"
         }
     ],
     "finance": [],
-    "last_update": "26/04/2026 04:51"
+    "last_update": "26/04/2026 06:53"
 }
