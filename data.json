@@ -6,10 +6,22 @@
         "noite": 21.0
     },
     "forecast": {
-        "max": 27.3,
-        "min": 16.9
+        "max": 27.1,
+        "min": 17.1
     },
     "news": [
+        {
+            "title": "Mordomo ter-se-á apropriado de obras de Picasso e Miró apesar de haver herdeiros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/sociedade/noticia/mordomo-tersea-apropriado-obras-picasso-miro-apesar-haver-herdeiros-2172611"
+        },
+        {
+            "title": "Voltar as costas à opacidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/opiniao/opiniao/voltar-costas-opacidade-2172614"
+        },
+        {
+            "title": "UE prepara-se para novo confronto com EUA por taxa de carbono no transporte marítimo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/azul/noticia/ue-preparase-novo-confronto-eua-taxa-carbono-transporte-maritimo-2172452"
+        },
         {
             "title": "Natalie Coulter: “As crianças tornaram-se um recurso e uma fonte de lucro”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/sociedade/entrevista/natalie-coulter-criancas-tornaramse-recurso-fonte-lucro-2172359"
@@ -17,20 +29,8 @@
         {
             "title": "Trump e aliados aproveitam tiroteio para defender construção de salão de baile na Casa Branca",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/mundo/noticia/trump-aliados-aproveitam-tiroteio-defender-construcao-salao-baile-casa-branca-2172609"
-        },
-        {
-            "title": "Atirador do jantar dos correspondentes queria atingir Trump",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/mundo/noticia/atirador-jantar-correspondentes-queria-atingir-trump-2172610"
-        },
-        {
-            "title": "Ferrovia: foco no eixo Porto – Lisboa esqueceu importantes zonas económicas do país",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/local/noticia/ferrovia-foco-eixo-porto-lisboa-esqueceu-importantes-zonas-economicas-pais-2172486"
-        },
-        {
-            "title": "Polícia de Portugal prende dois brasileiros sob suspeita de tráfico de uma tonelada de cocaína",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/publico-brasil/noticia/policia-portugal-prende-dois-brasileiros-suspeita-trafico-tonelada-cocaina-2172607"
         }
     ],
     "finance": [],
-    "last_update": "26/04/2026 17:30"
+    "last_update": "26/04/2026 18:35"
 }
