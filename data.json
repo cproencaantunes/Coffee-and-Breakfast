@@ -2,35 +2,35 @@
     "weather": {
         "atual": 17.5,
         "manha": 17.0,
-        "tarde": 25.5,
-        "noite": 20.1
+        "tarde": 26.1,
+        "noite": 20.7
     },
     "forecast": {
-        "max": 27.2,
-        "min": 16.7
+        "max": 27.1,
+        "min": 17.4
     },
     "news": [
+        {
+            "title": "No Rio Grande do Sul, a cozinha de natureza de Rodrigo Bellora brota do Valle Rústico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/fugas/reportagem/rio-sul-cozinha-natureza-rodrigo-bellora-brota-valle-rustico-2171344"
+        },
+        {
+            "title": "Queniano Sawe é o primeiro a vencer uma maratona em menos de duas horas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/desporto/noticia/queniano-sawe-vencer-maratona-menos-duas-horas-2172598"
+        },
         {
             "title": "O caos no jantar dos correspondentes com Donald Trump: “Abaixem-se, abaixem-se!”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/mundo/noticia/caos-jantar-correspondentes-donald-trump-abaixemse-abaixemse-2172593"
         },
         {
-            "title": "Líderes mundiais condenam “veemente” ataque em evento onde estava Donald Trump",
+            "title": "Líderes mundiais condenam “veementemente” ataque em evento onde estava Donald Trump",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/mundo/noticia/lideres-mundiais-condenam-veemente-ataque-evento-onde-donald-trump-2172596"
         },
         {
             "title": "Junta militar declara recolher obrigatório de 72 horas no Mali após ataques",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/mundo/noticia/junta-militar-declara-recolher-obrigatorio-72-horas-mali-apos-ataques-2172595"
-        },
-        {
-            "title": "Laurent Gardinier: “O luxo não é apenas o dinheiro e tudo o que este pode comprar”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/fugas/entrevista/laurent-gardinier-luxo-nao-apenas-dinheiro-comprar-2171827"
-        },
-        {
-            "title": "O momento em que Trump é retirado do jantar após disparos. Suspeito “é uma pessoa doente”, diz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/26/video/momento-trump-retirado-jantar-disparos-20260426-111600"
         }
     ],
     "finance": [],
-    "last_update": "26/04/2026 11:32"
+    "last_update": "26/04/2026 12:40"
 }
