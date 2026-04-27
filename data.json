@@ -2,8 +2,8 @@
     "weather": {
         "atual": 20.2,
         "manha": 18.9,
-        "tarde": 27.4,
-        "noite": 21.4
+        "tarde": 26.8,
+        "noite": 21.8
     },
     "forecast": {
         "max": 24.5,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Álvaro Santos Pereira comprou acções da Galp e da JM já como governador do Banco de Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/27/economia/noticia/alvaro-santos-pereira-comprou-accoes-galp-jm-ja-governador-banco-portugal-2172457"
+            "title": "O dia em que o planeta <em>Azul</em> fica sem baleias e ganha um farol chamado Olívia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/27/culturaipsilon/noticia/dia-planeta-azul-fica-baleias-ganha-farol-chamado-olivia-2172594"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/27/opiniao/opiniao/cartas-director-2172576"
+            "title": "Trump diz que “não ficou preocupado” quando soube de tiros em jantar de gala",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/27/mundo/noticia/trump-nao-ficou-preocupado-soube-tiros-jantar-gala-2172635"
         },
         {
-            "title": "A falta de energia está a emperrar a economia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/27/opiniao/opiniao/falta-energia-emperrar-economia-2172613"
+            "title": "O Coração Ainda Bate. Na construção",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/27/impar/cronica/coracao-bate-construcao-2172629"
         },
         {
-            "title": "Menos burocracia, menos controlo? O novo equilíbrio da contratação pública",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/27/opiniao/opiniao/menos-burocracia-menos-controlo-novo-equilibrio-contratacao-publica-2172158"
+            "title": "Lucro da Galp dispara 41% com ajuda de subida de preços do petróleo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/27/economia/noticia/lucro-galp-dispara-41-ajuda-subida-precos-petroleo-2172637"
         },
         {
-            "title": "A (necessária) transparência da informação sobre os doadores dos partidos e das campanhas políticas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/27/opiniao/opiniao/necessaria-transparencia-informacao-doadores-partidos-campanhas-politicas-2172149"
+            "title": "Samsung Galaxy A57, estilo de topo de gama com desempenho de gama média",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/27/enter/critica/samsung-galaxy-a57-estilo-topo-gama-desempenho-gama-media-2172605"
         }
     ],
     "finance": [],
-    "last_update": "27/04/2026 04:59"
+    "last_update": "27/04/2026 07:34"
 }
