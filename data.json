@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 20.2,
-        "manha": 18.8,
-        "tarde": 26.9,
-        "noite": 21.7
+        "manha": 18.9,
+        "tarde": 27.4,
+        "noite": 21.4
     },
     "forecast": {
-        "max": 23.8,
-        "min": 15.9
+        "max": 24.5,
+        "min": 16.5
     },
     "news": [
+        {
+            "title": "Álvaro Santos Pereira comprou acções da Galp e da JM já como governador do Banco de Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/27/economia/noticia/alvaro-santos-pereira-comprou-accoes-galp-jm-ja-governador-banco-portugal-2172457"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/27/opiniao/opiniao/cartas-director-2172576"
+        },
         {
             "title": "A falta de energia está a emperrar a economia",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/27/opiniao/opiniao/falta-energia-emperrar-economia-2172613"
@@ -21,16 +29,8 @@
         {
             "title": "A (necessária) transparência da informação sobre os doadores dos partidos e das campanhas políticas",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/27/opiniao/opiniao/necessaria-transparencia-informacao-doadores-partidos-campanhas-politicas-2172149"
-        },
-        {
-            "title": "A criatura devorou o criador",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/27/opiniao/opiniao/criatura-devorou-criador-2172582"
-        },
-        {
-            "title": "Uma Universidade funcionária",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/27/opiniao/opiniao/universidade-funcionaria-2172580"
         }
     ],
     "finance": [],
-    "last_update": "27/04/2026 01:46"
+    "last_update": "27/04/2026 04:59"
 }
