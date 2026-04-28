@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 19.9,
-        "manha": 17.9,
-        "tarde": 23.3,
-        "noite": 18.3
+        "manha": 17.4,
+        "tarde": 22.6,
+        "noite": 18.5
     },
     "forecast": {
-        "max": 19.6,
-        "min": 15.2
+        "max": 18.5,
+        "min": 15.3
     },
     "news": [
+        {
+            "title": "É o CO2, estúpido: pesca de arrasto na Europa tem custos de 16 mil milhões de euros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/azul/noticia/co2-estupido-pesca-arrasto-europa-custos-16-mil-milhoes-euros-2172735"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/opiniao/opiniao/cartas-director-2172706"
+        },
         {
             "title": "Podemos parar para refletir sobre a adesão da Ucrânia à UE?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/opiniao/opiniao/podemos-parar-refletir-adesao-ucrania-ue-2172619"
@@ -21,16 +29,8 @@
         {
             "title": "Trump tem razão: “Vivemos num mundo louco”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/opiniao/opiniao/trump-razao-vivemos-mundo-louco-2172716"
-        },
-        {
-            "title": "A reforma da Administração Pública",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/opiniao/opiniao/reforma-administracao-publica-2172700"
-        },
-        {
-            "title": "A mesa onde nem todos foram convidados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/opiniao/opiniao/mesa-onde-convidados-2172693"
         }
     ],
     "finance": [],
-    "last_update": "28/04/2026 01:54"
+    "last_update": "28/04/2026 05:21"
 }
