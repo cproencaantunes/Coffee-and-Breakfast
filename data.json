@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 19.9,
-        "manha": 17.5,
+        "manha": 17.2,
         "tarde": 22.9,
         "noite": 18.6
     },
     "forecast": {
-        "max": 18.5,
-        "min": 15.0
+        "max": 18.9,
+        "min": 15.2
     },
     "news": [
         {
-            "title": "Governo diz que lei não prevê actualizar apoios quadrienais à taxa de inflação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/culturaipsilon/noticia/governo-lei-nao-preve-actualizar-apoios-quadrienais-taxa-inflacao-2172759"
+            "title": "Jimmy Kimmel responde ao casal Trump: piada pré-tiroteio “não foi um apelo ao assassinato e eles sabem”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/culturaipsilon/noticia/jimmy-kimmel-responde-casal-trump-piada-pretiroteio-nao-apelo-assassinato-sabem-2172768"
         },
         {
-            "title": "Ministra da Cultura defende menos burocracia para profissionais do sector com estatuto em revisão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/culturaipsilon/noticia/ministra-cultura-defende-menos-burocracia-profissionais-sector-estatuto-revisao-2172758"
+            "title": "Um golfinho morre por dia em Portugal, um dos países com mais capturas acidentais na Europa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/azul/noticia/golfinho-dia-morre-portugal-paises-capturas-acidentais-europa-2172273"
         },
         {
-            "title": "Líder do cartel de Jalisco, “El Jardinero”, detido no México",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/mundo/noticia/lider-cartel-jalisco-el-jardinero-detido-mexico-2172756"
+            "title": "Mãe e filho brasileiros morrem em ataque de Israel no Líbano, diz governo do Brasil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/publico-brasil/noticia/mae-filho-brasileiros-morrem-ataque-israel-libano-governo-brasil-2172777"
         },
         {
-            "title": "Celebramos o fim da censura, mas fechámo-nos em trincheiras",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/p3/cronica/celebramos-fim-censura-fechamonos-trincheiras-2172675"
+            "title": "Julgamento de Elon Musk contra Sam Altman expõe luta de poder na OpenAI",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/enter/noticia/julgamento-elon-musk-sam-altman-expoe-luta-openai-2172762"
         },
         {
-            "title": "Temperaturas máximas descem a partir desta terça-feira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/azul/noticia/temperaturas-maximas-descem-partir-tercafeira-2172754"
+            "title": "Oposição quer nova lei para saber quem financia partidos; PSD ainda sem posição formal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/politica/noticia/oposicao-quer-nova-lei-saber-financia-partidos-psd-posicao-formal-2172442"
         }
     ],
     "finance": [],
-    "last_update": "28/04/2026 08:04"
+    "last_update": "28/04/2026 10:53"
 }
