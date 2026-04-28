@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 19.9,
-        "manha": 17.2,
-        "tarde": 22.6,
-        "noite": 17.1
+        "atual": 16.7,
+        "manha": 15.8,
+        "tarde": 18.5,
+        "noite": 15.9
     },
     "forecast": {
-        "max": 18.5,
-        "min": 15.3
+        "max": 20.0,
+        "min": 14.5
     },
     "news": [
         {
-            "title": "PTRR: Anúncios requentados e um coro de ministros a cantar o hino",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/politica/noticia/ptrr-anuncios-requentados-coro-ministros-cantar-hino-2172890"
+            "title": "Uma pena de morte",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/opiniao/opiniao/pena-morte-2172776"
         },
         {
-            "title": "Ataques israelitas no Líbano e em Gaza matam dez pessoas, incluindo criança de 9 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/mundo/noticia/ataques-israelitas-libano-gaza-matam-dez-pessoas-incluindo-crianca-9-anos-2172886"
+            "title": "É falso!",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/opiniao/opiniao/falso-2172847"
         },
         {
-            "title": "Morreu Silvano Raia, pioneiro no transplante de fígado na América Latina, aos 95 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/ciencia/noticia/morreu-silvano-raia-pioneiro-transplante-figado-america-latina-95-anos-2172885"
+            "title": "Ex-director do FBI acusado de ameaçar vida de Donald Trump",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/mundo/noticia/exdirector-fbi-acusado-ameacar-vida-donald-trump-2172893"
         },
         {
-            "title": "Com comunidade brasileira maior, consulado reforça pessoal. CPLP também faz seleção",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/publico-brasil/noticia/comunidade-brasileira-maior-consulado-reforca-pessoal-cplp-tambem-faz-selecao-2172853"
+            "title": "Universidade, democracia e liberdade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/opiniao/opiniao/universidade-democracia-liberdade-2172848"
         },
         {
-            "title": "Nove golos em Paris: Bayern assustou, mas PSG reagiu com arte",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/desporto/noticia/nove-golos-paris-bayern-assustou-psg-reagiu-arte-2172884"
+            "title": "Carta aberta ao ministro da Educação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/opiniao/opiniao/carta-aberta-ministro-educacao-2172708"
         }
     ],
     "finance": [],
-    "last_update": "28/04/2026 22:46"
+    "last_update": "28/04/2026 23:43"
 }
