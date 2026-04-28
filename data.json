@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 19.9,
-        "manha": 17.4,
-        "tarde": 22.6,
-        "noite": 18.5
+        "manha": 17.5,
+        "tarde": 22.9,
+        "noite": 18.6
     },
     "forecast": {
         "max": 18.5,
-        "min": 15.3
+        "min": 15.0
     },
     "news": [
         {
-            "title": "É o CO2, estúpido: pesca de arrasto na Europa tem custos de 16 mil milhões de euros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/azul/noticia/co2-estupido-pesca-arrasto-europa-custos-16-mil-milhoes-euros-2172735"
+            "title": "Governo diz que lei não prevê actualizar apoios quadrienais à taxa de inflação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/culturaipsilon/noticia/governo-lei-nao-preve-actualizar-apoios-quadrienais-taxa-inflacao-2172759"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/opiniao/opiniao/cartas-director-2172706"
+            "title": "Ministra da Cultura defende menos burocracia para profissionais do sector com estatuto em revisão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/culturaipsilon/noticia/ministra-cultura-defende-menos-burocracia-profissionais-sector-estatuto-revisao-2172758"
         },
         {
-            "title": "Podemos parar para refletir sobre a adesão da Ucrânia à UE?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/opiniao/opiniao/podemos-parar-refletir-adesao-ucrania-ue-2172619"
+            "title": "Líder do cartel de Jalisco, “El Jardinero”, detido no México",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/mundo/noticia/lider-cartel-jalisco-el-jardinero-detido-mexico-2172756"
         },
         {
-            "title": "O “Sempre” do 25 de Abril",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/opiniao/opiniao/25-abril-2172686"
+            "title": "Celebramos o fim da censura, mas fechámo-nos em trincheiras",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/p3/cronica/celebramos-fim-censura-fechamonos-trincheiras-2172675"
         },
         {
-            "title": "Trump tem razão: “Vivemos num mundo louco”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/opiniao/opiniao/trump-razao-vivemos-mundo-louco-2172716"
+            "title": "Temperaturas máximas descem a partir desta terça-feira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/azul/noticia/temperaturas-maximas-descem-partir-tercafeira-2172754"
         }
     ],
     "finance": [],
-    "last_update": "28/04/2026 05:21"
+    "last_update": "28/04/2026 08:04"
 }
