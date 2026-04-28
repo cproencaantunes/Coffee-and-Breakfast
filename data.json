@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.9,
         "manha": 17.2,
-        "tarde": 23.3,
-        "noite": 17.7
+        "tarde": 22.6,
+        "noite": 17.2
     },
     "forecast": {
-        "max": 19.2,
+        "max": 18.7,
         "min": 15.1
     },
     "news": [
         {
-            "title": "Uma medalha de ouro para a arquitetura portuguesa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/culturaipsilon/opiniao/medalha-ouro-arquitetura-portuguesa-2172820"
+            "title": "Bahrein pune apoiantes do Irão com prisão perpétua e revogações de cidadania",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/mundo/noticia/bahrein-pune-apoiantes-irao-prisao-perpetua-revogacoes-cidadania-2172844"
         },
         {
-            "title": "EUA aceleram deportação de crianças migrantes sob custódia das autoridades",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/mundo/noticia/eua-aceleram-deportacao-criancas-migrantes-custodia-autoridades-2172783"
+            "title": "Universidade Técnica do Porto: imperativo atual para liderar o futuro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/opiniao/opiniao/universidade-tecnica-porto-imperativo-atual-liderar-futuro-2172773"
         },
         {
-            "title": "ERC chama TVI a pronunciar-se sobre queixas relativas a Cristina Ferreira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/impar/noticia/erc-chama-tvi-pronunciarse-queixas-relativas-cristina-ferreira-2172813"
+            "title": "No Porto, o Ensaio Café faz play no Stop",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/fugas/noticia/porto-ensaio-cafe-faz-play-stop-2172846"
         },
         {
-            "title": "Bancos esperam menor procura de crédito à habitação, mas condições vão manter-se",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/economia/noticia/bancos-esperam-menor-procura-credito-habitacao-condicoes-vao-manterse-2172815"
+            "title": "Procuradores querem que juízes deixem de escolher a que <em>emails</em> MP pode ter acesso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/sociedade/noticia/procuradores-querem-juizes-deixem-escolher-emails-mp-acesso-2172840"
         },
         {
-            "title": "Novo IRA ameaça atacar casas de agentes da polícia na Irlanda do Norte",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/mundo/noticia/novo-ira-ameaca-atacar-casas-agentes-policia-irlanda-norte-2172817"
+            "title": "Manifesto pede uma “revolta popular” em Angola porque as urnas estão controladas pelo poder",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/28/mundo/noticia/manifesto-pede-revolta-popular-angola-urnas-estao-controladas-2172845"
         }
     ],
     "finance": [],
-    "last_update": "28/04/2026 15:15"
+    "last_update": "28/04/2026 17:28"
 }
