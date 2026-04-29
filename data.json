@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 0,
-        "manha": 0,
-        "tarde": 0,
-        "noite": 0
+        "atual": 16.6,
+        "manha": 15.5,
+        "tarde": 17.7,
+        "noite": 15.7
     },
     "forecast": {
-        "max": 0,
-        "min": 0
+        "max": 19.5,
+        "min": 14.6
     },
     "news": [
         {
-            "title": "Na última decisão como presidente, Powell voltou a não fazer a vontade a Trump",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/economia/noticia/ultima-decisao-presidente-powell-voltou-nao-vontade-trump-2173032"
+            "title": "Direita trava audições e acesso a documentos sobre lei da identidade de género",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/politica/noticia/direita-trava-audicoes-acesso-documentos-lei-identidade-genero-2173040"
         },
         {
-            "title": "Sporting empata com Aalborg na primeira mão dos “quarto” da Champions de andebol",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/desporto/noticia/sporting-empata-aalborg-primeira-mao-quarto-champions-andebol-2173034"
+            "title": "Rui Tavares documentou a erosão do Estado de direito na Hungria. Agora, sugere como pode ser a redemocratização",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/mundo/noticia/rui-tavares-documentou-erosao-estado-direito-hungria-sugere-redemocratizacao-2172971"
         },
         {
-            "title": "Investimentos na Defesa envolverão sempre empresas nacionais, promete ministro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/politica/noticia/investimentos-defesa-envolverao-empresas-nacionais-promete-ministro-2173022"
+            "title": "Péter Magyar testa as águas em Bruxelas antes de assumir Governo em Budapeste",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/mundo/noticia/peter-magyar-testa-aguas-bruxelas-assumir-governo-budapeste-2173020"
         },
         {
-            "title": "Jorge Moreira da Silva: “Gaza é muito pior do que um campo de refugiados”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/video/jorge-moreira-silva-gaza-pior-campo-refugiados-20260427-154512"
+            "title": "Parlamento quer evitar prescrições de 800 milhões de euros, advogados falam em inconstitucionalidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/economia/noticia/parlamento-quer-evitar-prescricoes-800-milhoes-euros-advogados-falam-inconstitucionalidade-2172965"
         },
         {
-            "title": "Pavilhão da Rússia na Bienal de Veneza não abrirá ao público",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/culturaipsilon/noticia/pavilhao-russia-bienal-veneza-nao-abrira-publico-2173021"
+            "title": "Seguro mantém Cláudia Ribeiro como chefe da Casa Civil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/politica/noticia/seguro-mantem-claudia-ribeiro-chefe-casa-civil-2173031"
         }
     ],
     "finance": [],
-    "last_update": "29/04/2026 19:07"
+    "last_update": "29/04/2026 20:51"
 }
