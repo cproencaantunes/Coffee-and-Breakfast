@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 16.7,
+        "atual": 16.6,
         "manha": 15.8,
         "tarde": 18.5,
-        "noite": 15.9
+        "noite": 16.0
     },
     "forecast": {
         "max": 20.0,
         "min": 14.5
     },
     "news": [
+        {
+            "title": "Jazz em Agosto a tomar o pulso ao presente, sem esquecer a história",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/culturaipsilon/noticia/jazz-agosto-tomar-pulso-presente-esquecer-historia-2172747"
+        },
         {
             "title": "Uma pena de morte",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/opiniao/opiniao/pena-morte-2172776"
@@ -25,12 +29,8 @@
         {
             "title": "Universidade, democracia e liberdade",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/opiniao/opiniao/universidade-democracia-liberdade-2172848"
-        },
-        {
-            "title": "Carta aberta ao ministro da Educação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/opiniao/opiniao/carta-aberta-ministro-educacao-2172708"
         }
     ],
     "finance": [],
-    "last_update": "28/04/2026 23:43"
+    "last_update": "29/04/2026 01:56"
 }
