@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 16.6,
-        "manha": 15.7,
-        "tarde": 18.2,
-        "noite": 16.0
+        "manha": 15.5,
+        "tarde": 17.7,
+        "noite": 15.9
     },
     "forecast": {
-        "max": 19.9,
-        "min": 14.5
+        "max": 19.7,
+        "min": 14.6
     },
     "news": [
         {
-            "title": "<em>Damas</em>: o século ilustrado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/culturaipsilon/critica/damas-seculo-ilustrado-2172812"
+            "title": "Aumento das cesarianas: director executivo rejeita ligação aos problemas da obstetrícia do SNS",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/sociedade/noticia/aumento-cesarianas-director-executivo-rejeita-ligacao-problemas-obstetricia-sns-2172926"
         },
         {
-            "title": "Quem tem medo de Paulo Pereira?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/ciencia/opiniao/medo-paulo-pereira-2172888"
+            "title": "Morreu o designer José Santa-Bárbara, autor de capas de José Afonso e de outras marcas da vida portuguesa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/culturaipsilon/noticia/morreu-designer-jose-santabarbara-autor-capas-jose-afonso-marcas-vida-portuguesa-2172922"
         },
         {
-            "title": "Duarte Cordeiro responde a Pedro Nuno Santos: “Se por acaso se dirigia a mim falha o alvo”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/politica/noticia/duarte-cordeiro-responde-pedro-nuno-santos-acaso-dirigia-mim-falha-alvo-2172908"
+            "title": "Dia da Mãe: ideias para celebrar, do <em>spa</em> ao teatro, na vinha ou no zoo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/fugas/noticia/spa-teatro-vinha-zoo-ideias-celebrar-dia-mae-2172782"
         },
         {
-            "title": "<em>Caronte</em>: Douro, faina mitológica",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/culturaipsilon/critica/caronte-douro-faina-mitologica-2172769"
+            "title": "Governo não garante que nova Lei das Finanças Locais entre em vigor em 2027",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/politica/noticia/governo-nao-garante-nova-lei-financas-locais-vigor-2027-2172788"
         },
         {
-            "title": "Embaixadora interina dos EUA na Ucrânia abandona cargo após divergências com Trump",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/mundo/noticia/embaixadora-interina-eua-ucrania-abandona-cargo-apos-divergencias-trump-2172911"
+            "title": "Parlamento aprova audição da CADA e Entidade das Contas sobre doadores dos partidos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/politica/noticia/parlamento-aprova-audicao-entidade-contas-doadores-partidos-2172923"
         }
     ],
     "finance": [],
-    "last_update": "29/04/2026 10:05"
+    "last_update": "29/04/2026 12:10"
 }
