@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 16.6,
-        "manha": 15.5,
-        "tarde": 17.7,
-        "noite": 15.8
+        "atual": 0,
+        "manha": 0,
+        "tarde": 0,
+        "noite": 0
     },
     "forecast": {
-        "max": 19.4,
-        "min": 14.5
+        "max": 0,
+        "min": 0
     },
     "news": [
         {
-            "title": "Combustíveis fósseis são “suicídio do capitalismo”, diz Presidente da Colômbia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/azul/noticia/combustiveis-fosseis-sao-suicidio-capitalismo-presidente-colombia-2172985"
+            "title": "Na última decisão como presidente, Powell voltou a não fazer a vontade a Trump",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/economia/noticia/ultima-decisao-presidente-powell-voltou-nao-vontade-trump-2173032"
         },
         {
-            "title": "“Ou tiras a máscara ou sais”: motorista acusado de impedir muçulmana de entrar em autocarro da Carris",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/sociedade/noticia/tiras-mascara-sais-motorista-acusado-impedir-muculmana-entrar-autocarro-carris-2172818"
+            "title": "Sporting empata com Aalborg na primeira mão dos “quarto” da Champions de andebol",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/desporto/noticia/sporting-empata-aalborg-primeira-mao-quarto-champions-andebol-2173034"
         },
         {
-            "title": "Seguro defende fim da regra da unanimidade na UE e que Atlântico não é só os EUA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/politica/noticia/seguro-defende-fim-regra-unanimidade-ue-atlantico-nao-so-eua-2172992"
+            "title": "Investimentos na Defesa envolverão sempre empresas nacionais, promete ministro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/politica/noticia/investimentos-defesa-envolverao-empresas-nacionais-promete-ministro-2173022"
         },
         {
-            "title": "Tanka Sapkota lança 12 jantares na Casa Nepalesa para ajudar as Aldeias SOS",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/fugas/noticia/tanka-sapkota-lanca-12-jantares-casa-nepalesa-ajudar-aldeias-sos-2172967"
+            "title": "Jorge Moreira da Silva: “Gaza é muito pior do que um campo de refugiados”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/video/jorge-moreira-silva-gaza-pior-campo-refugiados-20260427-154512"
         },
         {
-            "title": "Portugal tem atingido “níveis históricos de empregabilidade”, como referiu Montenegro? Verdadeiro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/politica/noticia/portugal-atingido-niveis-historicos-empregabilidade-referiu-montenegro-verdadeiro-2172994"
+            "title": "Pavilhão da Rússia na Bienal de Veneza não abrirá ao público",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/culturaipsilon/noticia/pavilhao-russia-bienal-veneza-nao-abrira-publico-2173021"
         }
     ],
     "finance": [],
-    "last_update": "29/04/2026 17:16"
+    "last_update": "29/04/2026 19:07"
 }
