@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 16.6,
-        "manha": 15.5,
-        "tarde": 17.7,
-        "noite": 15.9
+        "atual": 15.5,
+        "manha": 15.6,
+        "tarde": 19.6,
+        "noite": 16.6
     },
     "forecast": {
-        "max": 19.8,
-        "min": 14.7
+        "max": 20.0,
+        "min": 13.4
     },
     "news": [
         {
-            "title": "Trump garante que Reino Unido o teria ajudado no Irão se dependesse do rei Carlos III",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/mundo/noticia/trump-garante-reino-unido-ajudado-irao-dependesse-rei-carlos-iii-2173044"
+            "title": "Primeiro, levaram a transparência…",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/opiniao/opiniao/levaram-transparencia-2173013"
         },
         {
-            "title": "Sporting não ganhou aos primeiros nem ganha aos últimos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/desporto/cronica_de_jogo/sporting-nao-ganhou-ganha-ultimos-2173045"
+            "title": "É tudo o que Abril pede?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/opiniao/opiniao/abril-pede-2172997"
         },
         {
-            "title": "Depois do champanhe em Paris, um chá morno em Madrid na Champions",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/desporto/noticia/champanhe-paris-cha-morno-madrid-2173042"
+            "title": "Quando as armas eram de papel e as balas eram palavras",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/culturaipsilon/opiniao/armas-papel-balas-palavras-2172757"
         },
         {
-            "title": "TBA e Aljube: “Tem havido uma vontade de higienização da cultura que se faz em Lisboa”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/culturaipsilon/noticia/tba-aljube-havido-vontade-higienizacao-cultura-faz-lisboa-2173026"
+            "title": "Desigualdade na educação, a falha do elevador social ou o sistema de castas em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/opiniao/opiniao/desigualdade-educacao-falha-elevador-social-sistema-castas-portugal-2172974"
         },
         {
-            "title": "Direita trava audições e acesso a documentos sobre lei da identidade de género",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/politica/noticia/direita-trava-audicoes-acesso-documentos-lei-identidade-genero-2173040"
+            "title": "Jazz e a diplomacia da diversidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/opiniao/opiniao/jazz-diplomacia-diversidade-2172946"
         }
     ],
     "finance": [],
-    "last_update": "29/04/2026 22:44"
+    "last_update": "29/04/2026 23:43"
 }
