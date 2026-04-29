@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 16.6,
-        "manha": 15.8,
+        "manha": 15.9,
         "tarde": 18.5,
-        "noite": 16.0
+        "noite": 16.2
     },
     "forecast": {
-        "max": 20.0,
-        "min": 14.5
+        "max": 19.9,
+        "min": 14.8
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/opiniao/opiniao/cartas-director-2172843"
+        },
+        {
+            "title": "A Europa está a aquecer duas vezes mais rápido do que qualquer outro continente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/azul/noticia/europa-aquecer-duas-vezes-rapido-qualquer-continente-2172824"
+        },
         {
             "title": "Jazz em Agosto a tomar o pulso ao presente, sem esquecer a história",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/culturaipsilon/noticia/jazz-agosto-tomar-pulso-presente-esquecer-historia-2172747"
@@ -21,16 +29,8 @@
         {
             "title": "É falso!",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/opiniao/opiniao/falso-2172847"
-        },
-        {
-            "title": "Ex-director do FBI acusado de ameaçar vida de Donald Trump",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/mundo/noticia/exdirector-fbi-acusado-ameacar-vida-donald-trump-2172893"
-        },
-        {
-            "title": "Universidade, democracia e liberdade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/opiniao/opiniao/universidade-democracia-liberdade-2172848"
         }
     ],
     "finance": [],
-    "last_update": "29/04/2026 01:56"
+    "last_update": "29/04/2026 05:21"
 }
