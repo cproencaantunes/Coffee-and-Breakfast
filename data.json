@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 16.6,
-        "manha": 15.9,
-        "tarde": 18.5,
-        "noite": 16.2
+        "manha": 15.7,
+        "tarde": 18.2,
+        "noite": 16.0
     },
     "forecast": {
         "max": 19.9,
-        "min": 14.8
+        "min": 14.5
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/opiniao/opiniao/cartas-director-2172843"
+            "title": "<em>O Diabo Veste Prada 2</em>: as divas não passam de moda",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/culturaipsilon/critica/diabo-veste-prada-2-divas-nao-passam-moda-2172828"
         },
         {
-            "title": "A Europa está a aquecer duas vezes mais rápido do que qualquer outro continente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/azul/noticia/europa-aquecer-duas-vezes-rapido-qualquer-continente-2172824"
+            "title": "Brasileiro concilia trabalho na alta gastronomia com negócio próprio em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/publico-brasil/noticia/brasileiro-concilia-trabalho-alta-gastronomia-negocio-proprio-portugal-2172901"
         },
         {
-            "title": "Jazz em Agosto a tomar o pulso ao presente, sem esquecer a história",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/culturaipsilon/noticia/jazz-agosto-tomar-pulso-presente-esquecer-historia-2172747"
+            "title": "Amazon vai fazer entrevistas de emprego com IA para acelerar contratações em massa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/enter/noticia/amazon-vai-entrevistas-emprego-ia-acelerar-contratacoes-massa-2172900"
         },
         {
-            "title": "Uma pena de morte",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/opiniao/opiniao/pena-morte-2172776"
+            "title": "Sporting e FC Porto equivalem-se nas lesões, mas Rui Borges “espreme” mais jogadores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/desporto/noticia/sporting-fc-porto-equivalemse-lesoes-rui-borges-espreme-jogadores-2172819"
         },
         {
-            "title": "É falso!",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/opiniao/opiniao/falso-2172847"
+            "title": "Must Be Blue foram até Marrocos e de lá trouxeram inspiração para <i>From dusk till dawn</i>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/29/video/must-be-blue-ate-marrocos-trouxeram-inspiracao-from-dusk-till-dawn-20260429-081841"
         }
     ],
     "finance": [],
-    "last_update": "29/04/2026 05:21"
+    "last_update": "29/04/2026 07:59"
 }
