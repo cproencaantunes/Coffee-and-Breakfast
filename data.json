@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 15.2,
-        "manha": 16.0,
-        "tarde": 19.3,
-        "noite": 16.8
+        "manha": 15.8,
+        "tarde": 19.1,
+        "noite": 16.6
     },
     "forecast": {
-        "max": 20.4,
-        "min": 13.8
+        "max": 20.1,
+        "min": 13.9
     },
     "news": [
         {
-            "title": "PRR: investimento em helicópteros de emergência médica merece reparos da comissão de acompanhamento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/sociedade/noticia/prr-investimento-helicopteros-emergencia-medica-merece-reparos-comissao-acompanhamento-2173038"
+            "title": "Montenegro diz que acordo entre Mercosul e UE vai intensificar comércio com Brasil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/publico-brasil/noticia/montenegro-acordo-mercosul-ue-vai-intensificar-comercio-brasil-2173097"
         },
         {
-            "title": "Novo Banco vendido a franceses do BPCE por 6,7 mil milhões de euros, mais 5% que o anunciado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/economia/noticia/novo-banco-vendido-franceses-bpce-67-mil-milhoes-euros-5-anunciado-2173077"
+            "title": "Na família do PRR, o clima tornou-se o problemático",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/azul/noticia/familia-prr-clima-tornouse-problematico-2172767"
         },
         {
-            "title": "Atrasos na ferrovia? Agora “a culpa é de Bruxelas”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/economia/noticia/atrasos-ferrovia-culpa-bruxelas-2172990"
+            "title": "Editoras e agência literária denunciam atrasos em linha de apoio da DGLAB",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/culturaipsilon/noticia/editoras-agencia-literaria-denunciam-atrasos-linha-apoio-dglab-2173106"
         },
         {
-            "title": "Um terço do PRR ainda está em estado “crítico” ou “preocupante”, a quatro meses do fim",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/economia/noticia/terco-prr-estado-critico-preocupante-quatro-meses-fim-2172979"
+            "title": "Polícia Judiciária fez buscas na AIMA dos Açores por suspeitas de corrupção",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/sociedade/noticia/policia-judiciaria-fez-buscas-aima-acores-suspeitas-corrupcao-2173101"
         },
         {
-            "title": "Em <em>As Correntes</em>, a argentina Milagros Mumenthaler filma o mistério",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/culturaipsilon/noticia/correntes-argentina-milagros-mumenthaler-filma-misterio-2172870"
+            "title": "Donald Trump ameaça retirar tropas da Alemanha depois de comentários de Merz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/mundo/noticia/trump-ameaca-retirar-tropas-alemanha-comentarios-merz-2173093"
         }
     ],
     "finance": [],
-    "last_update": "30/04/2026 10:45"
+    "last_update": "30/04/2026 12:07"
 }
