@@ -3,34 +3,34 @@
         "atual": 15.2,
         "manha": 15.8,
         "tarde": 19.5,
-        "noite": 16.6
+        "noite": 16.8
     },
     "forecast": {
-        "max": 19.6,
-        "min": 13.4
+        "max": 20.0,
+        "min": 13.2
     },
     "news": [
         {
-            "title": "Cidade russa enfrenta rasto tóxico após ataque da Ucrânia a refinaria",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/mundo/noticia/cidade-russa-enfrenta-rasto-toxico-apos-ataque-ucrania-refinaria-2173193"
+            "title": "A história de Zurita de Oliveira, pioneira do rock’n’roll português, ficou por contar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/culturaipsilon/noticia/historia-pioneira-rock-zurita-oliveira-ficou-contar-2172755"
         },
         {
-            "title": "Mamdani incentiva Carlos III a devolver o Koh-i-Noor. Que diamante é este?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/impar/noticia/mamdani-incentiva-carlos-iii-devolver-kohinoor-diamante-2173075"
+            "title": "No fim, Suárez não foi capaz de ser Gyökeres e o Sporting ressentiu-se disso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/desporto/noticia/fim-suarez-nao-capaz-gyokeres-sporting-ressentiuse-2173201"
         },
         {
-            "title": "Conferência traça três caminhos para apagar os combustíveis fósseis da economia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/azul/noticia/conferencia-traca-tres-caminhos-apagar-combustiveis-fosseis-economia-2173174"
+            "title": "Um Abril cinzento na Universidade Nova de Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/p3/cronica/abril-cinzento-universidade-nova-lisboa-2173140"
         },
         {
-            "title": "O pecadilho de Aguiar-Branco e Montenegro deixa tudo em aberto na reforma laboral",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/politica/noticia/pecadilho-aguiarbranco-montenegro-deixa-aberto-reforma-laboral-2173117"
+            "title": "Morreu Georg Baselitz (1938-2026), um dos nomes maiores da pintura do pós-guerra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/culturaipsilon/noticia/morreu-georg-baselitz-19382026-nomes-maiores-pintura-posguerra-2173192"
         },
         {
-            "title": "Sementes recuperadas no Pinhal de Leiria podem produzir quatro milhões de pinheiros bravos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/local/noticia/sementes-recuperadas-pinhal-leiria-podem-produzir-quatro-milhoes-pinheiros-bravos-2173186"
+            "title": "Montenegro anuncia 80 milhões em apoios à agricultura e compara-se a Cavaco",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/politica/noticia/montenegro-anuncia-80-milhoes-apoios-agricultura-comparase-cavaco-2173200"
         }
     ],
     "finance": [],
-    "last_update": "30/04/2026 18:03"
+    "last_update": "30/04/2026 20:03"
 }
