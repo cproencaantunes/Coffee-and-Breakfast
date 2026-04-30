@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 15.5,
+        "atual": 15.2,
         "manha": 15.6,
-        "tarde": 19.6,
-        "noite": 16.6
+        "tarde": 19.4,
+        "noite": 16.5
     },
     "forecast": {
         "max": 20.0,
         "min": 13.4
     },
     "news": [
+        {
+            "title": "Trump contra-ataca e a guerra dos mapas acelera",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/mundo/noticia/trump-contraataca-guerra-mapas-acelera-2173049"
+        },
         {
             "title": "Primeiro, levaram a transparência…",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/opiniao/opiniao/levaram-transparencia-2173013"
@@ -25,12 +29,8 @@
         {
             "title": "Desigualdade na educação, a falha do elevador social ou o sistema de castas em Portugal",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/opiniao/opiniao/desigualdade-educacao-falha-elevador-social-sistema-castas-portugal-2172974"
-        },
-        {
-            "title": "Jazz e a diplomacia da diversidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/opiniao/opiniao/jazz-diplomacia-diversidade-2172946"
         }
     ],
     "finance": [],
-    "last_update": "29/04/2026 23:43"
+    "last_update": "30/04/2026 01:55"
 }
