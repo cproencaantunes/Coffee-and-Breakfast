@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 15.2,
-        "manha": 15.8,
-        "tarde": 19.5,
-        "noite": 17.0
+        "manha": 15.4,
+        "tarde": 20.1,
+        "noite": 17.1
     },
     "forecast": {
-        "max": 20.1,
-        "min": 13.0
+        "max": 20.0,
+        "min": 15.3
     },
     "news": [
         {
-            "title": "Carneiro acusa Montenegro de estar “desligado da realidade” sobre aumento do custo de vida",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/politica/noticia/carneiro-acusa-montenegro-estar-desligado-realidade-aumento-custo-vida-2173213"
+            "title": "Qual excesso de transparência?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/opiniao/opiniao/excesso-transparencia-2173205"
         },
         {
-            "title": "Britney Spears acusada de condução sob influência de álcool",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/impar/noticia/britney-spears-acusada-conducao-influencia-alcool-2173212"
+            "title": "Pedro Nuno Santos é o líder de que a esquerda precisa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/opiniao/opiniao/pedro-nuno-santos-lider-esquerda-precisa-2173164"
         },
         {
-            "title": "Sp. Braga vence Friburgo no último sopro e sonha com final de Istambul",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/desporto/noticia/sp-braga-vence-friburgo-ultimo-sopro-sonha-final-istambul-2173210"
+            "title": "Co’a direita no poder",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/opiniao/opiniao/coa-direita-2172705"
         },
         {
-            "title": "Maior empresa de café da Península Ibérica quer faturar 12 milhões de euros no Brasil",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/publico-brasil/noticia/maior-empresa-cafe-peninsula-iberica-quer-faturar-12-milhoes-euros-brasil-2173198"
+            "title": "Adoecer não é um interruptor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/opiniao/opiniao/adoecer-nao-interruptor-2173126"
         },
         {
-            "title": "Governo recusa entrar em défice e garante que continua a cumprir regras europeias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/economia/noticia/governo-recusa-entrar-defice-garante-continua-cumprir-regras-europeias-2173209"
+            "title": "Siegfried, “herói operário”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/opiniao/opiniao/siegfried-heroi-operario-2173127"
         }
     ],
     "finance": [],
-    "last_update": "30/04/2026 22:40"
+    "last_update": "30/04/2026 23:41"
 }
