@@ -2,35 +2,35 @@
     "weather": {
         "atual": 15.2,
         "manha": 15.8,
-        "tarde": 19.1,
-        "noite": 16.6
+        "tarde": 19.4,
+        "noite": 16.4
     },
     "forecast": {
-        "max": 20.1,
-        "min": 13.9
+        "max": 20.0,
+        "min": 12.8
     },
     "news": [
         {
-            "title": "Montenegro diz que acordo entre Mercosul e UE vai intensificar comércio com Brasil",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/publico-brasil/noticia/montenegro-acordo-mercosul-ue-vai-intensificar-comercio-brasil-2173097"
+            "title": "Governador mexicano acusado pela justiça dos EUA de ligações ao narcotráfico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/mundo/noticia/governador-mexicano-acusado-justica-eua-ligacoes-narcotrafico-2173131"
         },
         {
-            "title": "Na família do PRR, o clima tornou-se o problemático",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/azul/noticia/familia-prr-clima-tornouse-problematico-2172767"
+            "title": "E depois do PRR? Em muitos casos, não se sabe",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/economia/noticia/prr-casos-nao-sabe-2173061"
         },
         {
-            "title": "Editoras e agência literária denunciam atrasos em linha de apoio da DGLAB",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/culturaipsilon/noticia/editoras-agencia-literaria-denunciam-atrasos-linha-apoio-dglab-2173106"
+            "title": "Alentejo: Praia da Zambujeira do Mar recupera Bandeira Azul",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/fugas/noticia/alentejo-praia-zambujeira-mar-recupera-bandeira-azul-2173125"
         },
         {
-            "title": "Polícia Judiciária fez buscas na AIMA dos Açores por suspeitas de corrupção",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/sociedade/noticia/policia-judiciaria-fez-buscas-aima-acores-suspeitas-corrupcao-2173101"
+            "title": "Ordem dos Advogados lista 200 mil processos de imigração pendentes na Justiça",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/publico-brasil/noticia/ordem-advogados-lista-200-mil-processos-imigracao-pendentes-justica-2173123"
         },
         {
-            "title": "Donald Trump ameaça retirar tropas da Alemanha depois de comentários de Merz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/mundo/noticia/trump-ameaca-retirar-tropas-alemanha-comentarios-merz-2173093"
+            "title": "É unânime: 2024 é ano vintage para o vinho do Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/terroir/noticia/unanime-2024-ano-vintage-vinho-porto-2173072"
         }
     ],
     "finance": [],
-    "last_update": "30/04/2026 12:07"
+    "last_update": "30/04/2026 14:58"
 }
