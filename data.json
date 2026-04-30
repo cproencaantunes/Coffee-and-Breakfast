@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 15.2,
-        "manha": 15.9,
-        "tarde": 19.7,
-        "noite": 16.9
+        "manha": 16.0,
+        "tarde": 19.3,
+        "noite": 16.8
     },
     "forecast": {
         "max": 20.4,
-        "min": 13.5
+        "min": 13.8
     },
     "news": [
         {
-            "title": "Prestação de um crédito de 150 mil euros a rever em Maio aumenta 50 euros com subida da Euribor",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/economia/noticia/prestacao-credito-150-euros-rever-maio-aumenta-50-euros-subida-euribor-2173000"
+            "title": "“Acumulação de ressentimentos” levou Cláudio Valente a assassinar Nuno Loureiro, diz FBI",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/ciencia/noticia/acumulacao-ressentimentos-levou-claudio-valente-assassinar-nuno-loureiro-fbi-2173055"
         },
         {
-            "title": "No meio de mais um dilema, BCE deve decidir que o melhor é esperar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/economia/noticia/meio-dilema-bce-decidir-melhor-esperar-2173009"
+            "title": "Flotilha de apoio a Gaza denuncia intercepção de embarcações por Israel",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/mundo/noticia/flotilha-apoio-gaza-denuncia-intercepcao-embarcacoes-israel-2173052"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/opiniao/opiniao/cartas-director-2172987"
+            "title": "<em>As Correntes</em>, <em>Divina Comédia</em> e outras estreias para esta semana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/culturaipsilon/noticia/correntes-divina-comedia-estreias-semana-2172639"
         },
         {
-            "title": "Trump contra-ataca e a guerra dos mapas acelera",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/mundo/noticia/trump-contraataca-guerra-mapas-acelera-2173049"
+            "title": "Irão “está a fazer <em>bluff</em>” com Trump e “vai ter de decidir se capitula ou se salva o regime”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/mundo/noticia/irao-bluff-trump-vai-decidir-capitula-salva-regime-2172959"
         },
         {
-            "title": "Primeiro, levaram a transparência…",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/opiniao/opiniao/levaram-transparencia-2173013"
+            "title": "Reino Unido e nove Estados europeus criam força naval complementar da NATO",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/mundo/noticia/reino-unido-nove-estados-europeus-criam-forca-naval-complementar-nato-2173051"
         }
     ],
     "finance": [],
-    "last_update": "30/04/2026 05:23"
+    "last_update": "30/04/2026 08:02"
 }
