@@ -1,15 +1,27 @@
 {
     "weather": {
         "atual": 15.2,
-        "manha": 15.6,
-        "tarde": 19.4,
-        "noite": 16.5
+        "manha": 15.9,
+        "tarde": 19.7,
+        "noite": 16.9
     },
     "forecast": {
-        "max": 20.0,
-        "min": 13.4
+        "max": 20.4,
+        "min": 13.5
     },
     "news": [
+        {
+            "title": "Prestação de um crédito de 150 mil euros a rever em Maio aumenta 50 euros com subida da Euribor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/economia/noticia/prestacao-credito-150-euros-rever-maio-aumenta-50-euros-subida-euribor-2173000"
+        },
+        {
+            "title": "No meio de mais um dilema, BCE deve decidir que o melhor é esperar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/economia/noticia/meio-dilema-bce-decidir-melhor-esperar-2173009"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/opiniao/opiniao/cartas-director-2172987"
+        },
         {
             "title": "Trump contra-ataca e a guerra dos mapas acelera",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/mundo/noticia/trump-contraataca-guerra-mapas-acelera-2173049"
@@ -17,20 +29,8 @@
         {
             "title": "Primeiro, levaram a transparência…",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/opiniao/opiniao/levaram-transparencia-2173013"
-        },
-        {
-            "title": "É tudo o que Abril pede?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/opiniao/opiniao/abril-pede-2172997"
-        },
-        {
-            "title": "Quando as armas eram de papel e as balas eram palavras",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/culturaipsilon/opiniao/armas-papel-balas-palavras-2172757"
-        },
-        {
-            "title": "Desigualdade na educação, a falha do elevador social ou o sistema de castas em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/04/30/opiniao/opiniao/desigualdade-educacao-falha-elevador-social-sistema-castas-portugal-2172974"
         }
     ],
     "finance": [],
-    "last_update": "30/04/2026 01:55"
+    "last_update": "30/04/2026 05:23"
 }
