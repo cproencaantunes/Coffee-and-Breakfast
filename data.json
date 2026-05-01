@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 15.2,
-        "manha": 15.4,
-        "tarde": 20.1,
-        "noite": 17.1
+        "atual": 14.8,
+        "manha": 14.9,
+        "tarde": 19.7,
+        "noite": 16.7
     },
     "forecast": {
         "max": 20.0,
-        "min": 15.3
+        "min": 15.1
     },
     "news": [
+        {
+            "title": "Não há mesmo “motivo para alarme” com o aumento da inflação como diz Montenegro?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/sociedade/noticia/nao-ha-motivo-alarme-aumento-inflacao-montenegro-2173217"
+        },
         {
             "title": "Qual excesso de transparência?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/opiniao/opiniao/excesso-transparencia-2173205"
@@ -25,12 +29,8 @@
         {
             "title": "Adoecer não é um interruptor",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/opiniao/opiniao/adoecer-nao-interruptor-2173126"
-        },
-        {
-            "title": "Siegfried, “herói operário”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/opiniao/opiniao/siegfried-heroi-operario-2173127"
         }
     ],
     "finance": [],
-    "last_update": "30/04/2026 23:41"
+    "last_update": "01/05/2026 01:57"
 }
