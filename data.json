@@ -3,34 +3,34 @@
         "atual": 14.8,
         "manha": 15.1,
         "tarde": 19.4,
-        "noite": 16.4
+        "noite": 16.8
     },
     "forecast": {
-        "max": 20.2,
-        "min": 14.8
+        "max": 20.4,
+        "min": 15.2
     },
     "news": [
         {
+            "title": "Chega vai propor comissão parlamentar de inquérito à Operação <em>Influencer</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/politica/noticia/chega-vai-propor-comissao-parlamentar-inquerito-operacao-influencer-2173275"
+        },
+        {
+            "title": "Nova greve geral no país que não vai acabar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/opiniao/editorial/nova-greve-geral-pais-nao-vai-acabar-2173246"
+        },
+        {
+            "title": "Vincent Bolloré, dono de um império de notícias e livros que quer encostar a França à direita",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/mundo/noticia/vincent-bollore-dono-imperio-noticias-livros-quer-moldar-politica-francesa-2172467"
+        },
+        {
+            "title": "Temporais de Inverno reduzem para 671 número de praias em 2026",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/azul/noticia/temporais-inverno-reduzem-671-numero-praias-2026-2173261"
+        },
+        {
             "title": "Irão tem nova proposta, mas Trump ainda não está satisfeito",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/mundo/noticia/irao-nova-proposta-trump-nao-satisfeito-2173264"
-        },
-        {
-            "title": "Sair de casa dos pais, mas a que custo?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/p3/noticia/sair-casa-pais-custo-2173268"
-        },
-        {
-            "title": "Donald Trump anuncia que vai aumentar as tarifas a veículos da União Europeia para 25%",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/mundo/noticia/donald-trump-anuncia-vai-aumentar-tarifas-veiculos-uniao-europeia-25-2173267"
-        },
-        {
-            "title": "“A guitarra portuguesa consegue viver em universos diferentes sem se perder”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/culturaipsilon/noticia/guitarra-portuguesa-consegue-viver-universos-diferentes-perder-2173019"
-        },
-        {
-            "title": "Tiago Oliveira apela à convergência de “todas as estruturas dos trabalhadores” na greve de 3 de Junho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/economia/noticia/tiago-oliveira-apela-convergencia-estruturas-trabalhadores-greve-3-junho-2173262"
         }
     ],
     "finance": [],
-    "last_update": "01/05/2026 17:49"
+    "last_update": "01/05/2026 18:55"
 }
