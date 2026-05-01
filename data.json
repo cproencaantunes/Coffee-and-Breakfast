@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.8,
-        "manha": 14.9,
-        "tarde": 19.7,
-        "noite": 16.7
+        "manha": 15.1,
+        "tarde": 20.5,
+        "noite": 16.9
     },
     "forecast": {
-        "max": 20.0,
-        "min": 15.1
+        "max": 19.7,
+        "min": 15.2
     },
     "news": [
         {
-            "title": "Não há mesmo “motivo para alarme” com o aumento da inflação como diz Montenegro?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/sociedade/noticia/nao-ha-motivo-alarme-aumento-inflacao-montenegro-2173217"
+            "title": "Saúde “a tempo e horas”: a promessa que vai testar Seguro e Campos Fernandes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/politica/noticia/saude-tempo-horas-promessa-vai-testar-seguro-campos-fernandes-2173121"
         },
         {
-            "title": "Qual excesso de transparência?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/opiniao/opiniao/excesso-transparencia-2173205"
+            "title": "No pacote laboral, sindicatos “estão a dar prova de resistência e vitalidade”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/economia/entrevista/pacote-laboral-sindicatos-estao-dar-prova-resistencia-vitalidade-2173120"
         },
         {
-            "title": "Pedro Nuno Santos é o líder de que a esquerda precisa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/opiniao/opiniao/pedro-nuno-santos-lider-esquerda-precisa-2173164"
+            "title": "Pacote laboral: ameaça aos sindicatos força união entre CGTP e UGT",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/economia/noticia/pacote-laboral-ameaca-sindicatos-forca-uniao-cgtp-ugt-2173206"
         },
         {
-            "title": "Co’a direita no poder",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/opiniao/opiniao/coa-direita-2172705"
+            "title": "É hoje que o acordo UE-Mercosul entra em vigor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/economia/noticia/hoje-acordo-uemercosul-entra-vigor-2173150"
         },
         {
-            "title": "Adoecer não é um interruptor",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/opiniao/opiniao/adoecer-nao-interruptor-2173126"
+            "title": "1.º de Maio: por um país mais justo e competitivo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/opiniao/opiniao/1-maio-pais-justo-competitivo-2173132"
         }
     ],
     "finance": [],
-    "last_update": "01/05/2026 01:57"
+    "last_update": "01/05/2026 05:38"
 }
