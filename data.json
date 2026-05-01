@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.8,
-        "manha": 15.1,
-        "tarde": 20.5,
-        "noite": 16.9
+        "manha": 15.3,
+        "tarde": 19.8,
+        "noite": 16.8
     },
     "forecast": {
         "max": 19.7,
-        "min": 15.2
+        "min": 15.1
     },
     "news": [
         {
-            "title": "Saúde “a tempo e horas”: a promessa que vai testar Seguro e Campos Fernandes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/politica/noticia/saude-tempo-horas-promessa-vai-testar-seguro-campos-fernandes-2173121"
+            "title": "<em>Auto da Casa</em>: um filme para desassossegar a história do D. Maria II",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/culturaipsilon/noticia/auto-casa-filme-desassossegar-historia-d-maria-ii-2173167"
         },
         {
-            "title": "No pacote laboral, sindicatos “estão a dar prova de resistência e vitalidade”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/economia/entrevista/pacote-laboral-sindicatos-estao-dar-prova-resistencia-vitalidade-2173120"
+            "title": "Restaurar a cidade pela natureza",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/azul/opiniao/restaurar-cidade-natureza-2173183"
         },
         {
-            "title": "Pacote laboral: ameaça aos sindicatos força união entre CGTP e UGT",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/economia/noticia/pacote-laboral-ameaca-sindicatos-forca-uniao-cgtp-ugt-2173206"
+            "title": "Brasileiros surfistas transformam cachorro-quente em experiência afetiva em Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/publico-brasil/noticia/brasileiros-surfistas-transformam-cachorroquente-experiencia-afetiva-lisboa-2173173"
         },
         {
-            "title": "É hoje que o acordo UE-Mercosul entra em vigor",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/economia/noticia/hoje-acordo-uemercosul-entra-vigor-2173150"
+            "title": "Infelizmente temos a mesma atmosfera que Trump",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/ciencia/ensaio/infelizmente-atmosfera-trump-2172740"
         },
         {
-            "title": "1.º de Maio: por um país mais justo e competitivo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/opiniao/opiniao/1-maio-pais-justo-competitivo-2173132"
+            "title": "Mulher perigosa. Será que não conseguimos avançar?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/publico-brasil/opiniao/mulher-perigosa-sera-nao-conseguimos-avancar-2173184"
         }
     ],
     "finance": [],
-    "last_update": "01/05/2026 05:38"
+    "last_update": "01/05/2026 08:00"
 }
