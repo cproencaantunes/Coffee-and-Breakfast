@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.8,
-        "manha": 15.3,
-        "tarde": 19.8,
-        "noite": 16.8
+        "manha": 15.1,
+        "tarde": 19.2,
+        "noite": 16.5
     },
     "forecast": {
-        "max": 19.7,
+        "max": 19.8,
         "min": 15.1
     },
     "news": [
         {
-            "title": "<em>Auto da Casa</em>: um filme para desassossegar a história do D. Maria II",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/culturaipsilon/noticia/auto-casa-filme-desassossegar-historia-d-maria-ii-2173167"
+            "title": "Uma casa algarvia para sentir na pele o pôr do Sal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/fugas/noticia/casa-algarvia-sentir-pele-sal-2172775"
         },
         {
-            "title": "Restaurar a cidade pela natureza",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/azul/opiniao/restaurar-cidade-natureza-2173183"
+            "title": "Cientista condenado nos EUA cria laboratório de computação cerebral na China",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/ciencia/noticia/cientista-condenado-eua-cria-laboratorio-computacao-cerebral-china-2173057"
         },
         {
-            "title": "Brasileiros surfistas transformam cachorro-quente em experiência afetiva em Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/publico-brasil/noticia/brasileiros-surfistas-transformam-cachorroquente-experiencia-afetiva-lisboa-2173173"
+            "title": "Aceno",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/culturaipsilon/opiniao/aceno-2172317"
         },
         {
-            "title": "Infelizmente temos a mesma atmosfera que Trump",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/ciencia/ensaio/infelizmente-atmosfera-trump-2172740"
+            "title": "Presidente da República critica precariedade: “O trabalho tem de compensar”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/politica/noticia/presidente-republica-critica-precariedade-trabalho-compensar-2173223"
         },
         {
-            "title": "Mulher perigosa. Será que não conseguimos avançar?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/publico-brasil/opiniao/mulher-perigosa-sera-nao-conseguimos-avancar-2173184"
+            "title": "P’ra não dizer que não falei de flores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/culturaipsilon/cronica/pra-nao-dizer-nao-falei-flores-2172765"
         }
     ],
     "finance": [],
-    "last_update": "01/05/2026 08:00"
+    "last_update": "01/05/2026 10:14"
 }
