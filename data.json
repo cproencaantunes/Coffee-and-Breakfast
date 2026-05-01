@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.8,
         "manha": 15.1,
-        "tarde": 19.3,
-        "noite": 16.6
+        "tarde": 19.4,
+        "noite": 16.4
     },
     "forecast": {
-        "max": 20.1,
-        "min": 14.7
+        "max": 20.2,
+        "min": 14.8
     },
     "news": [
         {
+            "title": "Esquerda apela à queda do pacote laboral num 1.º de Maio marcado por anúncio de greve",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/politica/noticia/esquerda-apela-queda-pacote-laboral-1-maio-marcado-anuncio-greve-2173259"
+        },
+        {
+            "title": "O leãozinho Ventura, a filosofia de Manuel da Burra e os Symington",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/fugas/cronica/leaozinho-ventura-filosofia-manuel-burra-symington-2172694"
+        },
+        {
+            "title": "Av. dos Aliados reservada para a Serenata, adeptos do FC Porto têm de festejar no Dragão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/local/noticia/av-aliados-reservada-serenata-adeptos-fc-porto-festejar-dragao-2173256"
+        },
+        {
+            "title": "Casa Branca diz que a guerra acabou para evitar ter de pedir autorização ao Congresso para atacar o Irão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/mundo/noticia/trump-guerra-acabou-evitar-pedir-autorizacao-congresso-atacar-irao-2173255"
+        },
+        {
             "title": "Ucrânia volta a atacar porto russo de Tuapse e guerra agrava crise ambiental",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/mundo/noticia/ucrania-volta-atacar-porto-russo-tuapse-guerra-agrava-crise-ambiental-2173253"
-        },
-        {
-            "title": "FIDMarseille anuncia foco dedicado a Mariana Caló e Francisco Queimadela",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/culturaipsilon/noticia/fidmarseille-anuncia-foco-dedicado-mariana-calo-francisco-queimadela-2173258"
-        },
-        {
-            "title": "Israel desembarca activistas de flotilha na Grécia. Há três portugueses entre os libertados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/mundo/noticia/israel-desembarca-activistas-flotilha-grecia-ha-tres-portugueses-libertados-2173251"
-        },
-        {
-            "title": "Mourinho admite que Benfica é favorito ao segundo lugar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/desporto/noticia/mourinho-admite-benfica-favorito-segundo-lugar-2173254"
-        },
-        {
-            "title": "Quando as leis laborais tomaram conta das celebrações do 1º de Maio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/economia/noticia/leis-laborais-tomaram-conta-celebracoes-1-maio-2173244"
         }
     ],
     "finance": [],
-    "last_update": "01/05/2026 15:44"
+    "last_update": "01/05/2026 16:43"
 }
