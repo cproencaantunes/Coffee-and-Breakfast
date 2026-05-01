@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.8,
-        "manha": 15.1,
-        "tarde": 19.4,
-        "noite": 16.9
+        "atual": 15.9,
+        "manha": 16.0,
+        "tarde": 20.4,
+        "noite": 16.6
     },
     "forecast": {
-        "max": 20.4,
-        "min": 15.2
+        "max": 19.5,
+        "min": 14.3
     },
     "news": [
         {
-            "title": "Papa promove a bispo da Virgínia Ocidental um antigo imigrante irregular nos EUA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/mundo/noticia/papa-promove-bispo-virginia-ocidental-antigo-imigrante-irregular-eua-2173280"
+            "title": "Dois textos “urgentes” de Maio de 1974",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/opiniao/opiniao/dois-textos-urgentes-maio-1974-2173277"
         },
         {
-            "title": "“Este 1.º de Maio é o mais importante da última década”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/economia/reportagem/1-maio-importante-ultima-decada-2173278"
+            "title": "Estados Unidos retiram 5.000 soldados da Alemanha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/mundo/noticia/estados-unidos-retiram-5000-soldados-alemanha-2173284"
         },
         {
-            "title": "Confrontos em jogo de futebol em Marrocos acabam com 136 pessoas detidas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/desporto/noticia/confrontos-jogo-futebol-marrocos-acabam-136-pessoas-detidas-2173279"
+            "title": "Um mundo fantástico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/opiniao/opiniao/mundo-fantastico-2173248"
         },
         {
-            "title": "Freira católica francesa foi agredida em Jerusalém. Suspeito pelo ataque foi detido",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/mundo/noticia/freira-catolica-francesa-agredida-jerusalem-suspeito-ataque-detido-2173274"
+            "title": "A rigidez que dá jeito",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/opiniao/opiniao/rigidez-jeito-2173148"
         },
         {
-            "title": "Chega vai propor comissão parlamentar de inquérito à Operação <em>Influencer</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/politica/noticia/chega-vai-propor-comissao-parlamentar-inquerito-operacao-influencer-2173275"
+            "title": "O futuro à IA pertence? Mas a nossa vontade deve contar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/opiniao/opiniao/futuro-ia-pertence-vontade-contar-2172688"
         }
     ],
     "finance": [],
-    "last_update": "01/05/2026 22:39"
+    "last_update": "01/05/2026 23:41"
 }
