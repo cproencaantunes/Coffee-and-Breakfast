@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.8,
         "manha": 15.1,
-        "tarde": 19.2,
-        "noite": 16.5
+        "tarde": 19.3,
+        "noite": 16.6
     },
     "forecast": {
-        "max": 19.8,
-        "min": 15.1
+        "max": 20.1,
+        "min": 14.7
     },
     "news": [
         {
+            "title": "Israel tem ajudado os “amigos” dos Emirados Árabes Unidos a repelirem os ataques do Irão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/mundo/noticia/israel-ajudado-amigos-emirados-arabes-unidos-repelirem-ataques-irao-2173243"
+        },
+        {
+            "title": "Combustíveis a caminho de subir entre 6,5 e 10 cêntimos na próxima semana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/economia/noticia/combustiveis-caminho-subir-65-10-centimos-proxima-semana-2173235"
+        },
+        {
+            "title": "Ministério Público envia facturação de Montenegro para as Finanças",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/politica/noticia/ministerio-publico-envia-facturacao-montenegro-financas-2173240"
+        },
+        {
+            "title": "PSD de Espinho vê cancelada eleição do líder e responsabiliza Montenegro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/politica/noticia/psd-espinho-ve-cancelada-eleicao-lider-responsabiliza-montenegro-2173238"
+        },
+        {
             "title": "Ushuaia: ir ao fim do mundo e voltar",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/fugas/cronica/ushuaia-ir-fim-mundo-voltar-2172699"
-        },
-        {
-            "title": "Tubarão “espancado até à morte” nos Açores: ONG Animal queixa-se a Ministério Público",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/sociedade/noticia/tubarao-espancado-ate-morte-acores-ong-animal-queixase-ministerio-publico-2173234"
-        },
-        {
-            "title": "Nuno Melo pede parecer à PGR sobre construções ilegais junto a depósito de munições da NATO",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/politica/noticia/nuno-melo-pede-parecer-pgr-construcoes-ilegais-junto-deposito-municoes-nato-2173232"
-        },
-        {
-            "title": "Na hora da renovação, Varandas elogia Farioli e censura decisões de Borges",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/desporto/noticia/frederico-varandas-elogia-gestao-farioli-abdicado-champions-2173230"
-        },
-        {
-            "title": "Gilberto Gil apresenta espectáculo <em>Amor Azul</em> no Coliseu dos Recreios em Outubro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/01/culturaipsilon/noticia/gilberto-gil-apresenta-espectaculo-amor-azul-coliseu-recreios-outubro-2173228"
         }
     ],
     "finance": [],
-    "last_update": "01/05/2026 11:50"
+    "last_update": "01/05/2026 12:53"
 }
