@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 15.7,
-        "manha": 15.9,
-        "tarde": 19.1,
-        "noite": 16.3
+        "manha": 15.8,
+        "tarde": 19.5,
+        "noite": 16.2
     },
     "forecast": {
         "max": 18.9,
-        "min": 14.2
+        "min": 14.0
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/opiniao/opiniao/cartas-director-2173153"
+            "title": "Uma defesa acérrima das primeiras cerejas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/fugas/critica/defesa-acerrima-primeiras-cerejas-2172649"
         },
         {
-            "title": "Dois textos “urgentes” de Maio de 1974",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/opiniao/opiniao/dois-textos-urgentes-maio-1974-2173277"
+            "title": "Brasileira abre spa infantil em Lisboa: ‘Mostro a beleza natural da criança’, diz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/publico-brasil/noticia/brasileira-abre-spa-infantil-lisboa-mostro-beleza-natural-crianca-2173147"
         },
         {
-            "title": "Estados Unidos retiram 5.000 soldados da Alemanha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/mundo/noticia/estados-unidos-retiram-5000-soldados-alemanha-2173284"
+            "title": "A vida quotidiana na antiga Olissipo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/culturaipsilon/reportagem/vida-quotidiana-antiga-olissipo-2172952"
         },
         {
-            "title": "Um mundo fantástico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/opiniao/opiniao/mundo-fantastico-2173248"
+            "title": "Há sempre banana na lancheira do brasileiro?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/publico-brasil/cronica/ha-banana-lancheira-brasileiro-2173270"
         },
         {
-            "title": "A rigidez que dá jeito",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/opiniao/opiniao/rigidez-jeito-2173148"
+            "title": "O 25 de Abril, a transparência e importância da participação frontal e corajosa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/politica/opiniao/25-abril-transparencia-importancia-participacao-frontal-corajosa-2173233"
         }
     ],
     "finance": [],
-    "last_update": "02/05/2026 04:51"
+    "last_update": "02/05/2026 06:56"
 }
