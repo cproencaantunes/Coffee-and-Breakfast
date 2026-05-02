@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 15.7,
-        "manha": 16.0,
-        "tarde": 19.5,
-        "noite": 16.4
+        "atual": 15.4,
+        "manha": 15.4,
+        "tarde": 19.0,
+        "noite": 15.4
     },
     "forecast": {
-        "max": 19.4,
-        "min": 14.2
+        "max": 19.1,
+        "min": 12.7
     },
     "news": [
         {
-            "title": "Depois de Abril, Francesco Farioli trouxe a revolução pacífica ao Dragão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/desporto/noticia/abril-francesco-farioli-trouxe-revolucao-pacifica-dragao-2173260"
+            "title": "O discurso do rei",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/mundo/analise/discurso-rei-2173311"
         },
         {
-            "title": "Os cinco jogadores-chave do FC Porto campeão de Farioli",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/desporto/noticia/cinco-jogadoreschave-fc-porto-campeao-farioli-2173297"
+            "title": "O sonho do Papa Francisco não morreu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/opiniao/opiniao/sonho-papa-francisco-nao-morreu-2173239"
         },
         {
-            "title": "Sporting conquista tricampeonato de andebol",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/desporto/noticia/sporting-conquista-tricampeonato-andebol-2173335"
+            "title": "Aeroporto, malas, aterragem, vitória: receita de Farioli não é inédita",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/desporto/noticia/aeroporto-malas-aterragem-vitoria-receita-farioli-nao-inedita-2173296"
         },
         {
-            "title": "FC Porto reiniciou sistema com processador topo de gama",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/desporto/noticia/fc-porto-reiniciou-sistema-processador-topo-gama-2173298"
+            "title": "Sete pessoas atropeladas nos festejos do campeonato em São João da Madeira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/sociedade/noticia/sete-pessoas-atropeladas-festejos-campeonato-sao-joao-madeira-2173336"
         },
         {
-            "title": "Rui Costa critica arbitragem e fala em prejuízo causado ao Benfica",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/desporto/noticia/rui-costa-critica-arbitragem-fala-prejuizo-causado-benfica-2173334"
+            "title": "No que toca à redução de mortes na estrada, andamos a ver o filme ao contrário",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/opiniao/opiniao/toca-reducao-mortes-estrada-andamos-filme-contrario-2173138"
         }
     ],
     "finance": [],
-    "last_update": "02/05/2026 22:29"
+    "last_update": "02/05/2026 23:33"
 }
