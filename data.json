@@ -2,14 +2,22 @@
     "weather": {
         "atual": 15.7,
         "manha": 16.0,
-        "tarde": 19.3,
-        "noite": 16.4
+        "tarde": 19.5,
+        "noite": 16.3
     },
     "forecast": {
-        "max": 19.4,
-        "min": 13.0
+        "max": 19.6,
+        "min": 13.8
     },
     "news": [
+        {
+            "title": "Atletismo: três recordes nacionais para Portugal nos Mundiais de estafetas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/desporto/noticia/atletismo-tres-recordes-nacionais-portugal-mundiais-estafetas-2173316"
+        },
+        {
+            "title": "Mais de 100 organizações lançam manifesto para reduzir tráfego aéreo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/azul/noticia/100-organizacoes-lancam-manifesto-reduzir-trafego-aereo-2173295"
+        },
         {
             "title": "GNR intensifica apoio aos peregrinos que se deslocam para Fátima",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/sociedade/noticia/gnr-intensifica-apoio-peregrinos-deslocam-fatima-2173309"
@@ -21,16 +29,8 @@
         {
             "title": "Iémen denuncia sequestro de petroleiro desviado para águas territoriais somalis",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/mundo/noticia/iemen-denuncia-sequestro-petroleiro-desviado-aguas-territoriais-somalis-2173308"
-        },
-        {
-            "title": "Idosa morre numa colisão quando era transportada em ambulância",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/sociedade/noticia/idosa-morre-colisao-transportada-ambulancia-2173307"
-        },
-        {
-            "title": "Irão executa por enforcamento dois curdos por espiarem para Israel",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/mundo/noticia/irao-executa-enforcamento-dois-curdos-espiarem-israel-2173305"
         }
     ],
     "finance": [],
-    "last_update": "02/05/2026 15:37"
+    "last_update": "02/05/2026 16:35"
 }
