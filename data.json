@@ -3,34 +3,34 @@
         "atual": 15.7,
         "manha": 16.0,
         "tarde": 19.5,
-        "noite": 16.1
+        "noite": 16.4
     },
     "forecast": {
-        "max": 19.5,
-        "min": 13.9
+        "max": 19.4,
+        "min": 14.2
     },
     "news": [
         {
-            "title": "Chuvas no Nordeste do Brasil fazem seis mortos e deixam milhares de desalojados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/mundo/noticia/chuvas-nordeste-brasil-fazem-seis-mortos-deixam-milhares-desalojados-2173325"
+            "title": "Depois de Abril, Francesco Farioli trouxe a revolução pacífica ao Dragão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/desporto/noticia/abril-francesco-farioli-trouxe-revolucao-pacifica-dragao-2173260"
         },
         {
-            "title": "Com Moedas debaixo de críticas, Parque Eduardo VII recebe “Chic-Nic”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/politica/noticia/moedas-debaixo-criticas-parque-eduardo-vii-recebe-chicnic-2173326"
+            "title": "Os cinco jogadores-chave do FC Porto campeão de Farioli",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/desporto/noticia/cinco-jogadoreschave-fc-porto-campeao-farioli-2173297"
         },
         {
-            "title": "Benfica foi a Famalicão devolver a esperança ao Sporting na luta de “vices”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/desporto/noticia/benfica-famalicao-devolver-esperanca-sporting-luta-vices-2173329"
+            "title": "Sporting conquista tricampeonato de andebol",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/desporto/noticia/sporting-conquista-tricampeonato-andebol-2173335"
         },
         {
-            "title": "Ao minuto: FC Porto 1, Alverca 0, marca Bednarek",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/desporto/noticia/minuto-ha-ponto-separar-fc-porto-titulo-202526-2173320"
+            "title": "FC Porto reiniciou sistema com processador topo de gama",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/desporto/noticia/fc-porto-reiniciou-sistema-processador-topo-gama-2173298"
         },
         {
-            "title": "Bruxelas leva Portugal a tribunal por falhas na promoção de energias renováveis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/azul/noticia/bruxelas-leva-portugal-tribunal-falhas-promocao-energias-renovaveis-2173313"
+            "title": "Rui Costa critica arbitragem e fala em prejuízo causado ao Benfica",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/desporto/noticia/rui-costa-critica-arbitragem-fala-prejuizo-causado-benfica-2173334"
         }
     ],
     "finance": [],
-    "last_update": "02/05/2026 21:30"
+    "last_update": "02/05/2026 22:29"
 }
