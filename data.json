@@ -2,14 +2,22 @@
     "weather": {
         "atual": 15.7,
         "manha": 16.0,
-        "tarde": 19.7,
+        "tarde": 19.3,
         "noite": 16.4
     },
     "forecast": {
-        "max": 19.1,
-        "min": 13.8
+        "max": 19.4,
+        "min": 13.0
     },
     "news": [
+        {
+            "title": "Ladrões de votos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/publico-brasil/opiniao/ladroes-votos-2173304"
+        },
+        {
+            "title": "A gigante China está cada vez mais presente na pequena África de língua portuguesa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/mundo/noticia/gigante-china-presente-africa-lingua-portuguesa-2173302"
+        },
         {
             "title": "Campeões a caminho e um finalista encaminhado?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/newsletter/aquecimento"
@@ -21,16 +29,8 @@
         {
             "title": "Mosquito transmissor de dengue alarga presença a 28 concelhos do país em 2025",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/azul/noticia/mosquito-transmissor-dengue-alarga-presenca-28-concelhos-pais-2025-2173294"
-        },
-        {
-            "title": "Novas marcas de eléctricos em Portugal e uma dica importante para os postos rápidos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/enter/podcast/novas-marcas-electricos-portugal-dica-importante-postos-rapidos-2173190"
-        },
-        {
-            "title": "Ver o que não se vê com Alexandre Koberidze: <em>Dry Leaf</em>, momento alto do IndieLisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/culturaipsilon/noticia/nao-ve-alexandre-koberidze-dry-leaf-momento-alto-indielisboa-2172673"
         }
     ],
     "finance": [],
-    "last_update": "02/05/2026 11:36"
+    "last_update": "02/05/2026 12:43"
 }
