@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 15.7,
-        "manha": 16.1,
-        "tarde": 19.6,
-        "noite": 16.6
+        "manha": 15.9,
+        "tarde": 19.1,
+        "noite": 16.3
     },
     "forecast": {
-        "max": 19.5,
-        "min": 14.3
+        "max": 18.9,
+        "min": 14.2
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/opiniao/opiniao/cartas-director-2173153"
+        },
         {
             "title": "Dois textos “urgentes” de Maio de 1974",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/opiniao/opiniao/dois-textos-urgentes-maio-1974-2173277"
@@ -25,12 +29,8 @@
         {
             "title": "A rigidez que dá jeito",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/opiniao/opiniao/rigidez-jeito-2173148"
-        },
-        {
-            "title": "O futuro à IA pertence? Mas a nossa vontade deve contar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/02/opiniao/opiniao/futuro-ia-pertence-vontade-contar-2172688"
         }
     ],
     "finance": [],
-    "last_update": "02/05/2026 01:47"
+    "last_update": "02/05/2026 04:51"
 }
