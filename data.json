@@ -1,8 +1,8 @@
 {
     "weather": {
-        "atual": 15.4,
-        "manha": 15.4,
-        "tarde": 19.0,
+        "atual": 15.3,
+        "manha": 15.3,
+        "tarde": 18.6,
         "noite": 15.4
     },
     "forecast": {
@@ -10,6 +10,14 @@
         "min": 12.7
     },
     "news": [
+        {
+            "title": "Cabo Delgado: rebeldes destroem paróquia histórica e raptam civis em Ancuabe",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/mundo/noticia/cabo-delgado-rebeldes-destroem-paroquia-historica-raptam-civis-ancuabe-2173330"
+        },
+        {
+            "title": "Euforia do FC Porto campeão arrancou antes do jogo e está para durar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/desporto/reportagem/euforia-fc-porto-campeao-arrancou-jogo-durar-2173332"
+        },
         {
             "title": "O discurso do rei",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/mundo/analise/discurso-rei-2173311"
@@ -21,16 +29,8 @@
         {
             "title": "Aeroporto, malas, aterragem, vitória: receita de Farioli não é inédita",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/desporto/noticia/aeroporto-malas-aterragem-vitoria-receita-farioli-nao-inedita-2173296"
-        },
-        {
-            "title": "Sete pessoas atropeladas nos festejos do campeonato em São João da Madeira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/sociedade/noticia/sete-pessoas-atropeladas-festejos-campeonato-sao-joao-madeira-2173336"
-        },
-        {
-            "title": "No que toca à redução de mortes na estrada, andamos a ver o filme ao contrário",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/opiniao/opiniao/toca-reducao-mortes-estrada-andamos-filme-contrario-2173138"
         }
     ],
     "finance": [],
-    "last_update": "02/05/2026 23:33"
+    "last_update": "03/05/2026 01:50"
 }
