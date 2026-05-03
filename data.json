@@ -3,13 +3,21 @@
         "atual": 15.3,
         "manha": 15.4,
         "tarde": 18.6,
-        "noite": 15.4
+        "noite": 15.6
     },
     "forecast": {
-        "max": 19.1,
-        "min": 12.5
+        "max": 19.0,
+        "min": 12.7
     },
     "news": [
+        {
+            "title": "Donald Trump anuncia que Marinha americana vai escoltar navios presos no Estreito de Ormuz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/mundo/noticia/donald-trump-anuncia-marinha-americana-vai-escoltar-navios-presos-estreito-ormuz-2173389"
+        },
+        {
+            "title": "Alex Ferguson hospitalizado por precaução após indisposição",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/desporto/noticia/alex-ferguson-hospitalizado-precaucao-apos-indisposicao-2173388"
+        },
         {
             "title": "Avassalador em Portugal, o andebol do Sporting procura voar na Europa",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/desporto/noticia/avassalador-portugal-andebol-sporting-procura-voar-europa-2173369"
@@ -21,16 +29,8 @@
         {
             "title": "PR promulga decreto que altera Lei da Nacionalidade, mas desejava maior consenso",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/sociedade/noticia/pr-promulga-decreto-altera-lei-nacionalidade-desejava-maior-consenso-2173387"
-        },
-        {
-            "title": "Inter é campeão com Chivu, um homem que achou que estava tudo bem",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/desporto/noticia/inter-campeao-chivu-homem-achou-bem-2173386"
-        },
-        {
-            "title": "Gato encontrado dentro de um balde de cola sobrevive e é adoptado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/p3/noticia/gato-encontrado-dentro-balde-cola-sobrevive-adoptado-2173384"
         }
     ],
     "finance": [],
-    "last_update": "03/05/2026 21:32"
+    "last_update": "03/05/2026 22:29"
 }
