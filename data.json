@@ -2,14 +2,26 @@
     "weather": {
         "atual": 15.3,
         "manha": 15.4,
-        "tarde": 18.2,
-        "noite": 15.1
+        "tarde": 18.8,
+        "noite": 15.2
     },
     "forecast": {
-        "max": 19.1,
-        "min": 12.8
+        "max": 19.0,
+        "min": 12.7
     },
     "news": [
+        {
+            "title": "Forças israelitas destroem parte de convento católico no sul do Líbano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/mundo/noticia/forcas-israelitas-destroem-parte-convento-catolico-sul-libano-2173347"
+        },
+        {
+            "title": "Quase dois terços dos Estados Unidos estão a sofrer com a seca",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/mundo/noticia/quase-dois-tercos-estados-unidos-estao-sofrer-seca-2173349"
+        },
+        {
+            "title": "Adeus V6 silenciosos, olá V8 ruidosos: F1 muda motores até 2031",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/desporto/noticia/adeus-v6-silenciosos-ola-v8-ruidosos-f1-muda-motores-ate-2031-2173346"
+        },
         {
             "title": "Cânticos, euforia e pirotecnia: a festa do FC Porto campeão no Dragão",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/fotogaleria/canticos-euforia-pirotecnia-festa-fc-porto-campeao-415447"
@@ -17,20 +29,8 @@
         {
             "title": "Governo vai ter mais vagas para detenção de imigrantes com construções temporárias",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/politica/entrevista/governo-vai-vagas-detencao-imigrantes-construcoes-temporarias-2173344"
-        },
-        {
-            "title": "Miguel Oliveira sai de maca após queda. Prova foi interrompida",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/desporto/noticia/miguel-oliveira-sai-maca-apos-queda-prova-interrompida-2173342"
-        },
-        {
-            "title": "Morreu Cândido Mota, locutor de rádio e apresentador de televisão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/culturaipsilon/noticia/morreu-candido-mota-locutor-radio-apresentador-televisao-2173343"
-        },
-        {
-            "title": "Que conselho gostava que lhe tivessem dado antes de ser mãe? Sete mães respondem",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/impar/noticia/conselho-gostava-dado-mae-sete-maes-respondem-2173187"
         }
     ],
     "finance": [],
-    "last_update": "03/05/2026 11:34"
+    "last_update": "03/05/2026 12:43"
 }
