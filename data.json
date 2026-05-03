@@ -3,34 +3,34 @@
         "atual": 15.3,
         "manha": 15.4,
         "tarde": 18.6,
-        "noite": 15.1
+        "noite": 15.4
     },
     "forecast": {
-        "max": 18.7,
+        "max": 19.1,
         "min": 12.5
     },
     "news": [
         {
-            "title": "Agiotas raptaram jovem para reaver dinheiro que lhe tinham emprestado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/sociedade/noticia/agiotas-raptaram-jovem-reaver-dinheiro-emprestado-2173371"
+            "title": "Concerto de Shakira leva dois milhões de fãs ao Rio de Janeiro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/culturaipsilon/noticia/concerto-shakira-leva-dois-milhoes-fas-rio-janeiro-2173368"
         },
         {
-            "title": "TU VAI FALAR PORTUGUÊS?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/publico-brasil/opiniao/vai-falar-portugues-2173372"
+            "title": "Mais de 32 mil candidaturas admitidas a concurso de professores para entrar nos quadros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/sociedade/noticia/32-mil-candidaturas-admitidas-concurso-professores-entrar-quadros-2173345"
         },
         {
-            "title": "Dois militares norte-americanos desaparecidos em Marrocos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/mundo/noticia/dois-militares-norteamericanos-desaparecidos-marrocos-2173367"
+            "title": "Dois mortos e dois feridos graves num despiste em Ferreira do Alentejo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/sociedade/noticia/dois-mortos-dois-feridos-graves-despiste-ferreira-alentejo-2173373"
         },
         {
-            "title": "O que fazer? Segunda é dia de cinema e carnes de capoeira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/fugas/noticia/segunda-dia-cinema-carnes-capoeira-2173165"
+            "title": "Executivo baiano assume direção de consultora portuguesa para a América Latina",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/publico-brasil/noticia/executivo-baiano-assume-direcao-consultora-portuguesa-america-latina-2173312"
         },
         {
-            "title": "Peru vai auditar os resultados das presidenciais para superar contestação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/mundo/noticia/peru-vai-auditar-resultados-presidenciais-superar-contestacao-2173370"
+            "title": "Ténis: mais um feito histórico para Jannik Sinner",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/desporto/noticia/tenis-historico-jannik-sinner-2173375"
         }
     ],
     "finance": [],
-    "last_update": "03/05/2026 17:37"
+    "last_update": "03/05/2026 18:42"
 }
