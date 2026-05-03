@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 15.3,
-        "manha": 15.5,
-        "tarde": 18.5,
+        "manha": 15.3,
+        "tarde": 18.6,
         "noite": 15.0
     },
     "forecast": {
         "max": 19.1,
-        "min": 12.8
+        "min": 12.7
     },
     "news": [
         {
-            "title": "Baixa médica, abono de família e menos impostos: propostas da IL no Dia da Mãe",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/politica/noticia/baixa-medica-abono-familia-menos-impostos-propostas-il-dia-mae-2173324"
+            "title": "Chapéus há muitos... e na Inglaterra do século XVII até valiam mais que dinheiro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/ciencia/noticia/chapeus-ha-inglaterra-seculo-xvii-ate-valiam-dinheiro-2170844"
         },
         {
-            "title": "Chega já quis 20 comissões de inquérito, agora quer à <em>Operação Influencer</em> mas só pode impor em Setembro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/politica/noticia/chega-ja-quis-20-comissoes-inquerito-quer-operacao-influencer-so-impor-setembro-2173292"
+            "title": "Palcos da semana: livros, marionetas e outros faróis de esperança",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/culturaipsilon/noticia/palcos-semana-livros-marionetas-farois-esperanca-2173081"
         },
         {
-            "title": "O fim da eutanásia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/opiniao/editorial/fim-eutanasia-2173319"
+            "title": "Estão os autarcas verdadeiramente comprometidos com a sustentabilidade e o clima?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/azul/opiniao/estao-autarcas-verdadeiramente-comprometidos-sustentabilidade-clima-2172935"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/opiniao/opiniao/cartas-director-2173306"
+            "title": "Amamentação está associada a um início mais tardio da puberdade nas raparigas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/sociedade/noticia/amamentacao-associada-inicio-tardio-puberdade-raparigas-2172337"
         },
         {
-            "title": "Cabo Delgado: rebeldes destroem paróquia histórica e raptam civis em Ancuabe",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/mundo/noticia/cabo-delgado-rebeldes-destroem-paroquia-historica-raptam-civis-ancuabe-2173330"
+            "title": "Pequeno no tamanho, rápido a jogar: o teclado que quer conquistar os <em>gamers</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/enter/critica/tamanho-rapido-jogar-teclado-quer-conquistar-gamers-2173339"
         }
     ],
     "finance": [],
-    "last_update": "03/05/2026 05:21"
+    "last_update": "03/05/2026 07:46"
 }
