@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 15.3,
-        "manha": 15.3,
-        "tarde": 18.6,
-        "noite": 15.0
+        "manha": 15.4,
+        "tarde": 18.2,
+        "noite": 15.1
     },
     "forecast": {
         "max": 19.1,
-        "min": 12.7
+        "min": 12.8
     },
     "news": [
         {
-            "title": "Atlântico Nordeste torna-se formalmente a maior Área de Emissões Controladas do mundo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/azul/noticia/atlantico-nordeste-tornase-formalmente-maior-area-emissoes-controladas-mundo-2173314"
+            "title": "Governo vai ter mais vagas para detenção de imigrantes com construções temporárias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/politica/entrevista/governo-vai-vagas-detencao-imigrantes-construcoes-temporarias-2173344"
         },
         {
-            "title": "Como podem as <em>blue bonds</em> ajudar-nos a financiar a sustentabilidade do oceano?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/azul/opiniao/podem-blue-bonds-ajudarnos-financiar-sustentabilidade-oceano-2172937"
+            "title": "Miguel Oliveira sai de maca após queda. Prova foi interrompida",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/desporto/noticia/miguel-oliveira-sai-maca-apos-queda-prova-interrompida-2173342"
         },
         {
-            "title": "UE-Mercosul: um acordo em vigor, um compromisso à prova",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/publico-brasil/opiniao/uemercosul-acordo-vigor-compromisso-prova-2173340"
+            "title": "Morreu Cândido Mota, locutor de rádio e apresentador de televisão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/culturaipsilon/noticia/morreu-candido-mota-locutor-radio-apresentador-televisao-2173343"
         },
         {
-            "title": "Chapéus há muitos... e na Inglaterra do século XVII até valiam mais que dinheiro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/ciencia/noticia/chapeus-ha-inglaterra-seculo-xvii-ate-valiam-dinheiro-2170844"
+            "title": "Que conselho gostava que lhe tivessem dado antes de ser mãe? Sete mães respondem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/impar/noticia/conselho-gostava-dado-mae-sete-maes-respondem-2173187"
         },
         {
-            "title": "Palcos da semana: livros, marionetas e outros faróis de esperança",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/culturaipsilon/noticia/palcos-semana-livros-marionetas-farois-esperanca-2173081"
+            "title": "Trump desvaloriza nova proposta iraniana de paz e diz que Teerão “ainda não pagou preço suficientemente grande”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/mundo/noticia/trump-desvaloriza-nova-proposta-iraniana-paz-teerao-nao-pagou-preco-suficientemente-2173341"
         }
     ],
     "finance": [],
-    "last_update": "03/05/2026 09:12"
+    "last_update": "03/05/2026 10:43"
 }
