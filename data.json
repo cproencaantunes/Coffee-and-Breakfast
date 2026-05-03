@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 15.3,
-        "manha": 15.4,
-        "tarde": 18.6,
-        "noite": 15.6
+        "atual": 14.0,
+        "manha": 14.4,
+        "tarde": 19.0,
+        "noite": 14.7
     },
     "forecast": {
-        "max": 19.0,
-        "min": 12.7
+        "max": 18.6,
+        "min": 12.3
     },
     "news": [
         {
-            "title": "Donald Trump anuncia que Marinha americana vai escoltar navios presos no Estreito de Ormuz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/mundo/noticia/donald-trump-anuncia-marinha-americana-vai-escoltar-navios-presos-estreito-ormuz-2173389"
+            "title": "A ciência ao serviço do desenvolvimento económico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/opiniao/opiniao/ciencia-servico-desenvolvimento-economico-2173348"
         },
         {
-            "title": "Alex Ferguson hospitalizado por precaução após indisposição",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/desporto/noticia/alex-ferguson-hospitalizado-precaucao-apos-indisposicao-2173388"
+            "title": "Um psicólogo não trabalha para dobrar uma pessoa até ela caber na expectativa de outros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/opiniao/opiniao/psicologo-nao-trabalha-dobrar-pessoa-ate-caber-expectativa-2172957"
         },
         {
-            "title": "Avassalador em Portugal, o andebol do Sporting procura voar na Europa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/desporto/noticia/avassalador-portugal-andebol-sporting-procura-voar-europa-2173369"
+            "title": "Portugal não pode explorar o subsolo sem ouvir quem vive à superfície",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/opiniao/opiniao/portugal-nao-explorar-subsolo-ouvir-vive-superficie-2173176"
         },
         {
-            "title": "Castro Almeida: “Precisamos da reforma laboral para chegar ao rendimento médio europeu”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/politica/entrevista/castro-almeida-precisamos-reforma-laboral-chegar-rendimento-medio-europeu-2173361"
+            "title": "A insustentável dureza da revisão do ECD",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/opiniao/opiniao/insustentavel-dureza-revisao-ecd-2173352"
         },
         {
-            "title": "PR promulga decreto que altera Lei da Nacionalidade, mas desejava maior consenso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/03/sociedade/noticia/pr-promulga-decreto-altera-lei-nacionalidade-desejava-maior-consenso-2173387"
+            "title": "E os outros?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/opiniao/opiniao/2173353"
         }
     ],
     "finance": [],
-    "last_update": "03/05/2026 22:29"
+    "last_update": "03/05/2026 23:33"
 }
