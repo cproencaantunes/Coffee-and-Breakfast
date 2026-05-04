@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.8,
         "manha": 14.6,
-        "tarde": 19.6,
-        "noite": 14.8
+        "tarde": 19.2,
+        "noite": 14.6
     },
     "forecast": {
-        "max": 19.5,
-        "min": 12.3
+        "max": 19.2,
+        "min": 12.2
     },
     "news": [
         {
-            "title": "Lançada aplicação de IA para pôr textos de português em linguagem clara",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/enter/noticia/lancada-aplicacao-ia-textos-portugues-linguagem-clara-2173464"
+            "title": "Está na mesa o Tascando, o concurso que premeia a cultura da tasca portuguesa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/fugas/noticia/mesa-tascando-concurso-premeia-cultura-tasca-portuguesa-2173501"
         },
         {
-            "title": "Festival MIL desdobra-se em dois momentos e a Cultura e Política chega em Maio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/culturaipsilon/noticia/festival-mil-desdobrase-dois-momentos-cultura-politica-chega-maio-2173454"
+            "title": "Governo autoriza Exército a gastar até 2,2 milhões de euros em viaturas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/politica/noticia/governo-autoriza-exercito-gastar-ate-22-milhoes-euros-viaturas-2173489"
         },
         {
-            "title": "Português Cláudio Braga, do Hearts, eleito o melhor jogador da Liga escocesa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/desporto/noticia/portugues-claudio-braga-hearts-eleito-melhor-jogador-liga-escocesa-2173460"
+            "title": "AD quer atrair jovens para as Forças Armadas oferecendo 439 euros e carta de condução",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/politica/noticia/ad-quer-atrair-jovens-forcas-armadas-oferecendo-439-euros-carta-conducao-2173499"
         },
         {
-            "title": "Paul Seixas vai estrear-se no Tour aos 19 anos, o ciclista mais novo a fazê-lo desde 1937",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/desporto/noticia/paul-seixas-vai-estrearse-tour-19-anos-ciclista-novo-fazelo-desde-1937-2173463"
+            "title": "Rutte entende “desilusão” de Trump mas garante que aliados europeus apoiam EUA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/mundo/noticia/rutte-entende-desilusao-trump-garante-aliados-europeus-apoiam-eua-2173503"
         },
         {
-            "title": "Do polémico patrocínio de Bezos ao regresso de Beyoncé: os detalhes do Met Gala 2026",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/impar/noticia/polemico-patrocinio-bezos-regresso-beyonce-detalhes-met-gala-2026-2173423"
+            "title": "Brincar aos deuses, ou recusar brincar aos homens?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/culturaipsilon/opiniao/brincar-deuses-recusar-brincar-homens-2173416"
         }
     ],
     "finance": [],
-    "last_update": "04/05/2026 15:02"
+    "last_update": "04/05/2026 17:20"
 }
