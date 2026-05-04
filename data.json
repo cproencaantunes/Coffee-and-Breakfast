@@ -3,13 +3,21 @@
         "atual": 13.8,
         "manha": 14.6,
         "tarde": 19.2,
-        "noite": 14.8
+        "noite": 15.1
     },
     "forecast": {
-        "max": 19.8,
-        "min": 12.3
+        "max": 19.9,
+        "min": 12.4
     },
     "news": [
+        {
+            "title": "Blake Lively e Justin Baldoni chegam a acordo no processo sobre <em>Isto Acaba Aqui</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/impar/noticia/blake-lively-justin-baldoni-chegam-acordo-processo-acaba-aqui-2173541"
+        },
+        {
+            "title": "<em>Esta Língua que Nos Une</em> celebra, no Porto, o Dia Mundial da Língua Portuguesa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/publico-brasil/noticia/lingua-une-celebra-porto-dia-mundial-lingua-portuguesa-2173537"
+        },
         {
             "title": "Entre protestos contra Bezos, moda e arte cruzam-se na passadeira vermelha do Met Gala",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/impar/noticia/protestos-bezos-moda-arte-cruzamse-passadeira-vermelha-met-gala-2173536"
@@ -21,16 +29,8 @@
         {
             "title": "Providência cautelar suspende construção de dessalinizadora no Algarve",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/azul/noticia/providencia-cautelar-suspende-construcao-dessalinizadora-algarve-2173450"
-        },
-        {
-            "title": "Sporting volta as vitórias e continua a pensar na Champions",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/desporto/noticia/sporting-volta-vitorias-continua-pensar-champions-2173535"
-        },
-        {
-            "title": "Zelensky anuncia trégua para 6 de Maio e deixa prorrogação do lado de Moscovo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/mundo/noticia/zelensky-anuncia-tregua-6-maio-deixa-prorrogacao-lado-moscovo-2173528"
         }
     ],
     "finance": [],
-    "last_update": "04/05/2026 21:56"
+    "last_update": "04/05/2026 22:49"
 }
