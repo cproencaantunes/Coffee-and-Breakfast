@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.8,
         "manha": 14.4,
-        "tarde": 19.2,
-        "noite": 14.7
+        "tarde": 19.3,
+        "noite": 14.9
     },
     "forecast": {
-        "max": 18.6,
+        "max": 19.2,
         "min": 12.3
     },
     "news": [
         {
+            "title": "Castro Almeida: “Dos 22 mil milhões do PTRR, só 900 milhões são reciclados”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/politica/entrevista/castro-almeida-22-mil-milhoes-ptrr-so-900-milhoes-sao-reciclados-2173362"
+        },
+        {
+            "title": "Refeições escolares gratuitas para todos trazem mais benefícios do que só para alguns grupos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/sociedade/noticia/refeicoes-escolares-gratuitas-trazem-beneficios-so-grupos-2173157"
+        },
+        {
+            "title": "“Hoje só comi a sopa”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/opiniao/editorial/hoje-so-comi-sopa-2173249"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/opiniao/opiniao/cartas-director-2173364"
+        },
+        {
             "title": "A ciência ao serviço do desenvolvimento económico",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/opiniao/opiniao/ciencia-servico-desenvolvimento-economico-2173348"
-        },
-        {
-            "title": "Um psicólogo não trabalha para dobrar uma pessoa até ela caber na expectativa de outros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/opiniao/opiniao/psicologo-nao-trabalha-dobrar-pessoa-ate-caber-expectativa-2172957"
-        },
-        {
-            "title": "Portugal não pode explorar o subsolo sem ouvir quem vive à superfície",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/opiniao/opiniao/portugal-nao-explorar-subsolo-ouvir-vive-superficie-2173176"
-        },
-        {
-            "title": "A insustentável dureza da revisão do ECD",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/opiniao/opiniao/insustentavel-dureza-revisao-ecd-2173352"
-        },
-        {
-            "title": "E os outros?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/04/opiniao/opiniao/2173353"
         }
     ],
     "finance": [],
-    "last_update": "04/05/2026 01:50"
+    "last_update": "04/05/2026 05:24"
 }
