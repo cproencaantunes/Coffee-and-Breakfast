@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 13.6,
-        "manha": 14.5,
+        "manha": 14.4,
         "tarde": 19.2,
-        "noite": 15.0
+        "noite": 15.1
     },
     "forecast": {
-        "max": 19.5,
-        "min": 13.0
+        "max": 19.7,
+        "min": 13.1
     },
     "news": [
         {
-            "title": "Britney Spears declara-se culpada de condução sob influência de álcool",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/impar/noticia/britney-spears-declarase-culpada-conducao-influencia-alcool-2173559"
+            "title": "Explosão em fábrica de fogo-de-artifício faz 26 mortos na China",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/mundo/noticia/explosao-fabrica-fogodeartificio-faz-26-mortos-china-2173567"
         },
         {
-            "title": "Governo prepara mudança de lei que mantém Menzies nos aeroportos durante batalha judicial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/economia/noticia/governo-prepara-mudanca-lei-mantem-menzies-aeroportos-durante-batalha-judicial-2173556"
+            "title": "PS questiona Governo sobre protecção dos consumidores face a fraudes por <em>spoofing</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/economia/noticia/ps-questiona-governo-proteccao-consumidores-face-fraudes-spoofing-2172851"
         },
         {
-            "title": "Como estar presente para quem perdeu um filho sem usar palavras vazias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/impar/cronica/estar-presente-perdeu-filho-usar-palavras-vazias-2173477"
+            "title": "Benfica com motivos de queixa da arbitragem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/desporto/analise/benfica-motivos-queixa-arbitragem-2173575"
         },
         {
-            "title": "SIRESP com investimento de cerca de 36 milhões de euros para ter mais autonomia e redundâncias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/sociedade/noticia/siresp-investimento-cerca-36-milhoes-euros-autonomia-redundancias-2173545"
+            "title": "Bienal de arte e tecnologia INDEX arranca quinta-feira em Braga",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/culturaipsilon/noticia/bienal-arte-tecnologia-index-arranca-quintafeira-braga-2173568"
         },
         {
-            "title": "Porto aprova transportes gratuitos para portuenses em toda a área metropolitana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/local/noticia/porto-aprova-transportes-gratuitos-portuenses-area-metropolitana-2173557"
+            "title": "Homem do Jogo: Diogo Costa, a muralha tranquila",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/desporto/noticia/homem-jogo-diogo-costa-muralha-tranquila-2173570"
         }
     ],
     "finance": [],
-    "last_update": "05/05/2026 09:52"
+    "last_update": "05/05/2026 11:09"
 }
