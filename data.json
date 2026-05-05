@@ -1,9 +1,9 @@
 {
     "weather": {
         "atual": 13.6,
-        "manha": 14.3,
-        "tarde": 19.1,
-        "noite": 15.1
+        "manha": 14.5,
+        "tarde": 19.2,
+        "noite": 15.0
     },
     "forecast": {
         "max": 19.5,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/opiniao/opiniao/cartas-director-2173498"
+            "title": "Feira de Vinil de Benfica está de volta, agora no Ringue António Livramento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/culturaipsilon/noticia/feira-vinil-benfica-volta-ringue-antonio-livramento-2173426"
         },
         {
-            "title": "As crianças não sabem o bê-á-bá",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/opiniao/editorial/criancas-nao-sabem-beaba-2173465"
+            "title": "<i>Desamor</i> é o novo single das Amara Quartet antes do álbum <i>Lianor</i>, no dia 10 de Maio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/video/desamor-novo-single-amara-quartet-album-lianor-dia-10-maio-20260504-194513"
         },
         {
-            "title": "Número de casos de hantavírus em navio cruzeiro sobe para sete, diz OMS",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/mundo/noticia/numero-casos-hantavirus-navio-cruzeiro-sobe-sete-oms-2173542"
+            "title": "As pessoas trans são um “não-assunto” com muita audiência",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/p3/cronica/pessoas-trans-sao-naoassunto-audiencia-2173467"
         },
         {
-            "title": "Os ganhos dos bancos, as perdas do Banco de Portugal e o ganho cessante do Estado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/opiniao/opiniao/ganhos-bancos-perdas-banco-portugal-ganho-cessante-estado-2172697"
+            "title": "AP, Reuters e <em>Washington Post</em> entre vencedores dos prémios Pulitzer",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/culturaipsilon/noticia/ap-reuters-washington-post-vencedores-premios-pulitzer-2173549"
         },
         {
-            "title": "Inteligência artificial na saúde: sabemos o que ela faz, mas sabemos o que nos tira?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/opiniao/opiniao/inteligencia-artificial-saude-sabemos-faz-sabemos-tira-2172949"
+            "title": "Arsenal-Atletico Madrid: o finalista “chato” da Champions",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/desporto/noticia/arsenalatletico-madrid-finalista-chato-champions-2173482"
         }
     ],
     "finance": [],
-    "last_update": "05/05/2026 04:53"
+    "last_update": "05/05/2026 07:11"
 }
