@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 13.6,
-        "manha": 14.4,
-        "tarde": 19.2,
-        "noite": 15.1
+        "atual": 13.9,
+        "manha": 15.0,
+        "tarde": 19.6,
+        "noite": 14.9
     },
     "forecast": {
-        "max": 19.7,
-        "min": 13.2
+        "max": 19.2,
+        "min": 12.6
     },
     "news": [
         {
-            "title": "Paul Auster pelos olhos de Siri Hustvedt e a dor por Umberto Eco",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/culturaipsilon/noticia/paul-auster-olhos-siri-hustvedt-dor-umberto-eco-2173605"
+            "title": "A medicalização excessiva do sofrimento: eis a razão do aumento de psicofármacos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/opiniao/opiniao/medicalizacao-excessiva-sofrimento-eis-razao-aumento-psicofarmacos-2172964"
         },
         {
-            "title": "OMS procura passageiros de voo onde seguiu mulher infectada com hantavírus",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/mundo/noticia/oms-procura-passageiros-voo-onde-seguiu-mulher-infectada-hantavirus-2173666"
+            "title": "Ventura quer a “bandalheira” na polícia?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/politica/noticia/ventura-quer-bandalheira-policia-2173411"
         },
         {
-            "title": "Catupiry, a marca que virou estilo de queijo no Brasil, é reproduzido em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/publico-brasil/noticia/catupiry-marca-virou-estilo-queijo-brasil-reproduzido-portugal-2172590"
+            "title": "Ventura não percebe nada de segurança social",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/opiniao/opiniao/ventura-nao-percebe-nada-seguranca-social-2173599"
         },
         {
-            "title": "De Sintra a Lisboa há uma linha fragmentada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/culturaipsilon/opiniao/sintra-lisboa-ha-linha-fragmentada-2173562"
+            "title": "O género humano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/opiniao/opiniao/genero-humano-2173595"
         },
         {
-            "title": "Arsenal voltou a esmagar pela margem mínima e vai à final da Champions",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/desporto/noticia/arsenal-voltou-esmagar-margem-minima-vai-final-2173665"
+            "title": "Primeira criptomoeda estável portuguesa é lançada hoje, mas é só para bancos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/economia/noticia/primeira-criptomoeda-estavel-portuguesa-lancada-hoje-so-bancos-2173641"
         }
     ],
     "finance": [],
-    "last_update": "05/05/2026 22:45"
+    "last_update": "05/05/2026 23:39"
 }
