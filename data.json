@@ -2,14 +2,18 @@
     "weather": {
         "atual": 13.6,
         "manha": 14.3,
-        "tarde": 19.2,
-        "noite": 14.9
+        "tarde": 19.1,
+        "noite": 15.1
     },
     "forecast": {
-        "max": 19.4,
-        "min": 12.9
+        "max": 19.5,
+        "min": 13.0
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/opiniao/opiniao/cartas-director-2173498"
+        },
         {
             "title": "As crianças não sabem o bê-á-bá",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/opiniao/editorial/criancas-nao-sabem-beaba-2173465"
@@ -25,12 +29,8 @@
         {
             "title": "Inteligência artificial na saúde: sabemos o que ela faz, mas sabemos o que nos tira?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/opiniao/opiniao/inteligencia-artificial-saude-sabemos-faz-sabemos-tira-2172949"
-        },
-        {
-            "title": "Por uma lei da língua portuguesa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/opiniao/opiniao/lei-lingua-portuguesa-2173471"
         }
     ],
     "finance": [],
-    "last_update": "05/05/2026 01:51"
+    "last_update": "05/05/2026 04:53"
 }
