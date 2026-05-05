@@ -3,34 +3,34 @@
         "atual": 13.6,
         "manha": 14.4,
         "tarde": 19.2,
-        "noite": 15.1
+        "noite": 15.0
     },
     "forecast": {
         "max": 19.7,
-        "min": 13.1
+        "min": 13.2
     },
     "news": [
         {
-            "title": "Baldios acusam ICNF de propor às comunidades “cheque em branco ao Estado”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/azul/noticia/baldios-acusam-icnf-propor-comunidades-cheque-branco-estado-2173600"
+            "title": "Jovens europeus recorrem a <em>chatbots</em> de IA para apoio emocional: são “conselheiros de vida” ou “confidentes”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/p3/noticia/jovens-europeus-recorrem-chatbots-ia-apoio-emocional-sao-conselheiros-vida-confidentes-2173629"
         },
         {
-            "title": "Bloco de Esquerda propõe refeições gratuitas para todos os alunos até ao 12.º ano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/sociedade/noticia/bloco-esquerda-propoe-refeicoes-gratuitas-alunos-ate-12-ano-2173608"
+            "title": "SIRESP: novo sistema de comunicações críticas só estará operacional dentro de 10 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/sociedade/noticia/siresp-novo-sistema-comunicacoes-criticas-so-estara-operacional-dentro-10-anos-2173626"
         },
         {
-            "title": "Viúva de um português, com filha menor de idade para cuidar e abandonada pela AIMA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/publico-brasil/noticia/viuva-portugues-filha-menor-idade-cuidar-abandonada-aima-2173602"
+            "title": "Avé Bracara Augusta! A festa da Braga Romana terá 414 iniciativas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/fugas/noticia/ave-bracara-augusta-festa-braga-romana-tera-414-iniciativas-2173624"
         },
         {
-            "title": "Entre o regresso da conscrição e novos modelos híbridos, a Europa ajusta o serviço militar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/mundo/noticia/regresso-conscricao-novos-modelos-hibridos-europa-ajusta-servico-militar-2173593"
+            "title": "Irão retira-se de uma das mais conturbadas edições da Bienal de Arte de Veneza",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/culturaipsilon/noticia/irao-retirase-conturbadas-edicoes-bienal-arte-veneza-2173612"
         },
         {
-            "title": "Dois militares levados para o hospital após incidente em salto de pára-quedas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/sociedade/noticia/dois-militares-levados-hospital-apos-incidente-salto-paraquedas-2173594"
+            "title": "O que fazer? Quarta é dia de humor <em>Em Sede Própria</em> e tragédias nas tábuas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/05/fugas/noticia/quarta-dia-humor-sede-propria-tragedias-tabuas-2173621"
         }
     ],
     "finance": [],
-    "last_update": "05/05/2026 15:28"
+    "last_update": "05/05/2026 17:12"
 }
