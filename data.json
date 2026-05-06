@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.8,
         "manha": 14.8,
-        "tarde": 19.5,
+        "tarde": 18.9,
         "noite": 14.9
     },
     "forecast": {
-        "max": 19.2,
-        "min": 12.6
+        "max": 20.5,
+        "min": 12.7
     },
     "news": [
         {
-            "title": "Francisco de Pina, um génio português quase desconhecido entre nós",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/opiniao/opiniao/francisco-pina-genio-portugues-quase-desconhecido-2172575"
+            "title": "AIMA abre portal para a renovação de residências que vencem em julho e agosto de 2026",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/publico-brasil/noticia/aima-abre-portal-renovacao-residencias-vencem-julho-agosto-2026-2173696"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/opiniao/opiniao/cartas-director-2173625"
+            "title": "Explosão em café causa seis feridos no Seixal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/local/noticia/explosao-cafe-causa-seis-feridos-seixal-2173699"
         },
         {
-            "title": "A medicalização excessiva do sofrimento: eis a razão do aumento de psicofármacos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/opiniao/opiniao/medicalizacao-excessiva-sofrimento-eis-razao-aumento-psicofarmacos-2172964"
+            "title": "Álvaro Santos Pereira obrigado a ir ao Parlamento explicar compra de acções proibida",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/economia/noticia/alvaro-santos-pereira-obrigado-ir-parlamento-explicar-compra-accoes-proibida-2173689"
         },
         {
-            "title": "Ventura quer a “bandalheira” na polícia?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/politica/noticia/ventura-quer-bandalheira-policia-2173411"
+            "title": "Kate Middleton vai a Itália na primeira visita internacional depois do cancro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/impar/noticia/kate-middleton-vai-italia-primeira-visita-internacional-cancro-2173688"
         },
         {
-            "title": "Ventura não percebe nada de segurança social",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/opiniao/opiniao/ventura-nao-percebe-nada-seguranca-social-2173599"
+            "title": "Proposta de alterações à lei que regula a deportação de imigrantes chumbada por juízes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/sociedade/noticia/proposta-alteracoes-lei-regula-deportacao-imigrantes-chumbada-juizes-2173687"
         }
     ],
     "finance": [],
-    "last_update": "06/05/2026 05:19"
+    "last_update": "06/05/2026 10:55"
 }
