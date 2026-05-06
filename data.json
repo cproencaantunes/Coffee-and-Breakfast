@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.8,
         "manha": 14.8,
-        "tarde": 18.9,
-        "noite": 14.9
+        "tarde": 18.8,
+        "noite": 14.8
     },
     "forecast": {
-        "max": 19.8,
-        "min": 12.8
+        "max": 19.3,
+        "min": 13.0
     },
     "news": [
         {
-            "title": "Cursos gratuitos e remotos para a comunidade da CPLP estão com inscrições abertas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/publico-brasil/noticia/cursos-gratuitos-remotos-comunidade-cplp-estao-inscricoes-abertas-2173708"
+            "title": "Jovens nas Forças Armadas: “Um jovem que estude ou trabalhe dificilmente vai integrar este programa”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/p3/noticia/jovens-forcas-armadas-jovem-estude-trabalhe-dificilmente-vai-integrar-programa-2173780"
         },
         {
-            "title": "Oposição acusa Moedas de falta de transparência em novo contrato de luzes de Natal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/local/noticia/oposicao-acusa-moedas-falta-transparencia-novo-contrato-luzes-natal-2173750"
+            "title": "Peugeot 408 amadurece no estilo, sempre electrificado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/fugas/noticia/peugeot-408-amadurece-estilo-electrificado-2173590"
         },
         {
-            "title": "PS pede demissão da ministra da Saúde que acusa de ter desistido do SNS",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/politica/noticia/ps-pede-demissao-ministra-saude-acusa-desistido-sns-2173756"
+            "title": "Fóssil de nova planta com 300 milhões de anos identificado em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/ciencia/noticia/fossil-nova-planta-300-milhoes-anos-identificado-portugal-2173767"
         },
         {
-            "title": "Samantha Gross: “Sou uma firme defensora de descarbonizar primeiro o que é mais fácil”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/azul/entrevista/samantha-gross-firme-defensora-descarbonizar-facil-2173484"
+            "title": "Neonazis: processo do Movimento Armilar Lusitano com 11 arguidos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/sociedade/noticia/neonazis-processo-movimento-armilar-lusitano-11-arguidos-2173752"
         },
         {
-            "title": "PSP não sabe o dia e a hora: Montenegro não vai ser multado por falta de cinto de segurança",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/politica/noticia/psp-nao-sabe-dia-hora-montenegro-nao-vai-multado-falta-cinto-seguranca-2173757"
+            "title": "Eleições para a reitoria da Universidade Nova de Lisboa marcadas para 13 de Maio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/06/sociedade/noticia/eleicoes-reitoria-universidade-nova-lisboa-marcadas-13-maio-2173777"
         }
     ],
     "finance": [],
-    "last_update": "06/05/2026 15:21"
+    "last_update": "06/05/2026 17:21"
 }
