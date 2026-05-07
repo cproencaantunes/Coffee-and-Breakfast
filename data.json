@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.9,
         "manha": 15.0,
-        "tarde": 19.7,
-        "noite": 15.0
+        "tarde": 20.1,
+        "noite": 15.1
     },
     "forecast": {
-        "max": 18.7,
-        "min": 12.9
+        "max": 18.6,
+        "min": 13.1
     },
     "news": [
         {
-            "title": "Marcos Perestrello: problemas na defesa não se resolvem “com medidas avulsas”, é preciso “apoio popular grande”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/politica/entrevista/marcos-perestrello-problemas-defesa-nao-resolvem-medidas-avulsas-preciso-apoio-popular-2173769"
+            "title": "O Foco desfocado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/opiniao/opiniao/foco-desfocado-2172982"
         },
         {
-            "title": "CIP faz concessões de última hora para tentar salvar reforma “modesta”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/economia/noticia/cip-faz-concessoes-ultima-hora-tentar-salvar-reforma-modesta-2173790"
+            "title": "<em>Linguagem Universal</em>, <em>Billie Eilish</em> e outras estreias para esta semana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/culturaipsilon/noticia/linguagem-universal-billie-eilish-estreias-semana-2173410"
         },
         {
-            "title": "Governo de Montenegro foi o que menos vezes convocou concertação social",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/economia/noticia/governo-montenegro-menos-vezes-convocou-concertacao-social-2173806"
+            "title": "Mesa posta para Brasil e Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/publico-brasil/opiniao/mesa-posta-brasil-portugal-2173836"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/opiniao/opiniao/cartas-director-2173778"
+            "title": "Efeitos devastadores do bloqueio a Gaza entre grávidas e lactantes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/mundo/noticia/efeitos-devastadores-bloqueio-gaza-gravidas-lactantes-2173835"
         },
         {
-            "title": "Carreira especial de medicina dentária: um avanço que não pode falhar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/opiniao/opiniao/carreira-especial-medicina-dentaria-avanco-nao-falhar-2173715"
+            "title": "União Europeia chega a acordo para proibir IA que cria imagens de teor sexual",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/enter/noticia/uniao-europeia-chega-acordo-proibir-ia-cria-imagens-teor-sexual-2173829"
         }
     ],
     "finance": [],
-    "last_update": "07/05/2026 05:22"
+    "last_update": "07/05/2026 08:13"
 }
