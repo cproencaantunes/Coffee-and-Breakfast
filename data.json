@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.9,
         "manha": 14.9,
-        "tarde": 19.3,
+        "tarde": 19.4,
         "noite": 15.2
     },
     "forecast": {
         "max": 19.4,
-        "min": 13.1
+        "min": 13.2
     },
     "news": [
         {
-            "title": "Um dos pára-quedistas ferido em Tancos está em morte cerebral",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/sociedade/noticia/paraquedistas-ferido-tancos-morte-cerebral-2173850"
+            "title": "Qual é o legado de David Attenborough? ",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/newsletter/azul"
         },
         {
-            "title": "“A Rússia mata, a Bienal de Veneza expõe”, gritaram as Pussy Riot na Bienal de Veneza",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/culturaipsilon/noticia/russia-mata-bienal-veneza-expoe-gritaram-pussy-riot-bienal-veneza-2173838"
+            "title": "Seguro pede reforma de governação europeia e UE capaz de liderar a inovação mundial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/politica/noticia/seguro-pede-reforma-governacao-europeia-ue-capaz-liderar-inovacao-mundial-2173858"
         },
         {
-            "title": "Raquel Lima: “Portugal começa a cristalizar um lugar conservador que nos atrasa a todos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/culturaipsilon/entrevista/raquel-lima-portugal-comeca-cristalizar-lugar-conservador-atrasa-2172417"
+            "title": "Médicos que recusem fazer horas extra vão ficar impedidos de prestar serviços noutro hospital",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/sociedade/noticia/medicos-recusem-horas-extra-vao-ficar-impedidos-prestar-servicos-noutro-hospital-2173848"
         },
         {
-            "title": "Pizza do irmão da atriz Carol Dieckmmann agrada brasileiros e portugueses em Cascais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/publico-brasil/noticia/pizza-irmao-atriz-carol-dieckmmann-agrada-brasileiros-portugueses-cascais-2173749"
+            "title": "Grupo Visabeira quer retirar Vista Alegre da bolsa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/economia/noticia/grupo-visabeira-quer-retirar-vista-alegre-bolsa-2173862"
         },
         {
-            "title": "Hantavírus: 40 passageiros desembarcaram em Santa Helena após morte do primeiro doente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/mundo/noticia/hantavirus-40-passageiros-desembarcaram-santa-helena-apos-morte-doente-2173843"
+            "title": "<em>Passwords</em> continuam a ser o elo mais fraco. Explicamos como corrigir as suas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/enter/noticia/passwords-continuam-elo-fraco-explicamos-corrigir-2173859"
         }
     ],
     "finance": [],
-    "last_update": "07/05/2026 11:00"
+    "last_update": "07/05/2026 12:57"
 }
