@@ -3,34 +3,34 @@
         "atual": 13.9,
         "manha": 14.9,
         "tarde": 18.2,
-        "noite": 14.8
+        "noite": 15.0
     },
     "forecast": {
-        "max": 19.0,
-        "min": 13.2
+        "max": 19.2,
+        "min": 13.4
     },
     "news": [
         {
-            "title": "Portugal vê mais os canais generalistas e o YouTube, mas passa muito tempo no cabo e na Netflix",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/culturaipsilon/noticia/portugal-ve-canais-generalistas-youtube-passa-tempo-cabo-netflix-2173897"
+            "title": "Campos de férias militares e a esquerda e Seguro numa relação complicada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/politica/noticia/campos-ferias-militares-esquerda-seguro-relacao-complicada-2173818"
         },
         {
-            "title": "Pena suspensa para professor acusado de maus-tratos a dois alunos em Leiria",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/sociedade/noticia/pena-suspensa-professor-acusado-maustratos-dois-alunos-leiria-2173912"
+            "title": "Hantavírus: “É seguro viajar de cruzeiro”, afirma especialista em Medicina do Viajante",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/fugas/noticia/hantavirus-seguro-viajar-cruzeiro-afirma-especialista-medicina-viajante-2173917"
         },
         {
-            "title": "Agricultores ribatejanos também querem ser abrangidos pelo fim das restrições à legalização de furos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/azul/noticia/agricultores-ribatejanos-tambem-querem-abrangidos-fim-restricoes-legalizacao-furos-2173796"
+            "title": "Oliver Solberg lidera após primeiro dia do Rali de Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/desporto/noticia/oliver-solberg-lidera-apos-dia-rali-portugal-2173933"
         },
         {
-            "title": "Birras com Lisa Vicente: “A minha primeira educação sexual foi ver o afecto entre os meus pais”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/impar/noticia/birras-lisa-vicente-primeira-educacao-sexual-afecto-pais-2173876"
+            "title": "Está com problemas para acessar o Portal de Renovações da AIMA? Saiba como proceder",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/publico-brasil/noticia/problemas-acessar-portal-renovacoes-aima-saiba-proceder-2173932"
         },
         {
-            "title": "Chega abre revisão constitucional, PSD remete para mais tarde",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/politica/noticia/chega-abre-revisao-constitucional-psd-remete-tarde-2173874"
+            "title": "Porto gasta 66 mil euros em campanha para “movida mais equilibrada” sem revelar metas objectivas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/local/noticia/porto-gasta-66-mil-euros-campanha-movida-equilibrada-revelar-metas-objectivas-2173924"
         }
     ],
     "finance": [],
-    "last_update": "07/05/2026 17:40"
+    "last_update": "07/05/2026 19:24"
 }
