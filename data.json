@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 13.9,
-        "manha": 14.9,
-        "tarde": 18.2,
-        "noite": 15.1
+        "atual": 14.2,
+        "manha": 14.4,
+        "tarde": 19.4,
+        "noite": 15.6
     },
     "forecast": {
-        "max": 19.4,
-        "min": 13.3
+        "max": 18.5,
+        "min": 14.2
     },
     "news": [
         {
-            "title": "O pacote laboral foi directo para o lixo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/politica/noticia/pacote-laboral-directo-lixo-2173958"
+            "title": "O Futebol Clube do Porto é uma nação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/opiniao/opiniao/futebol-clube-porto-nacao-2173922"
         },
         {
-            "title": "Esquadra do Rato: dois chefes da PSP são suspeitos de dar socos e pontapés a vítimas detidas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/sociedade/noticia/esquadra-rato-dois-chefes-psp-sao-suspeitos-dar-socos-pontapes-vitimas-detidas-2173952"
+            "title": "Carlos Barbosa, a travar Lisboa desde 2004",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/opiniao/opiniao/carlos-barbosa-travar-lisboa-desde-2004-2173916"
         },
         {
-            "title": "Israel mata filho do principal negociador do Hamas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/mundo/noticia/israel-mata-filho-principal-negociador-hamas-2173950"
+            "title": "IA meu, esse gato é falso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/opiniao/cronica/ia-gato-falso-2173847"
         },
         {
-            "title": "“Todas as negociações têm um fim”. Reforma laboral segue para o Parlamento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/economia/noticia/negociacoes-fim-reforma-laboral-segue-parlamento-2173940"
+            "title": "A polícia é um espelho do que somos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/opiniao/opiniao/policia-espelho-2173898"
         },
         {
-            "title": "Reforma laboral: as sete medidas que travaram o acordo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/economia/noticia/reforma-laboral-sete-medidas-travaram-acordo-2173878"
+            "title": "Estados Unidos atacam alvos iranianos, Teerão denuncia violação do cessar-fogo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/mundo/noticia/estados-unidos-atacam-alvos-iranianos-teerao-denuncia-violacao-cessarfogo-2173957"
         }
     ],
     "finance": [],
-    "last_update": "07/05/2026 22:51"
+    "last_update": "07/05/2026 23:42"
 }
