@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.9,
         "manha": 14.9,
-        "tarde": 19.4,
-        "noite": 15.2
+        "tarde": 18.2,
+        "noite": 14.8
     },
     "forecast": {
-        "max": 19.4,
+        "max": 19.0,
         "min": 13.2
     },
     "news": [
         {
-            "title": "Eclipse solar total em Agosto: Espanha espera 10 milhões de “astroturistas” na Galiza e norte",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/fugas/noticia/eclipse-solar-total-agosto-espanha-espera-10-milhoes-astroturistas-galiza-norte-2173857"
+            "title": "Portugal vê mais os canais generalistas e o YouTube, mas passa muito tempo no cabo e na Netflix",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/culturaipsilon/noticia/portugal-ve-canais-generalistas-youtube-passa-tempo-cabo-netflix-2173897"
         },
         {
-            "title": "Jane Fonda despede-se do “ex-marido favorito”, Ted Turner: “És amado e serás lembrado”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/impar/noticia/jane-fonda-despedese-exmarido-favorito-ted-turner-es-amado-seras-lembrado-2173895"
+            "title": "Pena suspensa para professor acusado de maus-tratos a dois alunos em Leiria",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/sociedade/noticia/pena-suspensa-professor-acusado-maustratos-dois-alunos-leiria-2173912"
         },
         {
-            "title": "“Espanha deve estar onde sempre esteve: com as democracias”, defende Mariano Rajoy",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/video/espanha-estar-onde-democracias-defende-mariano-rajoy-20260507-162204"
+            "title": "Agricultores ribatejanos também querem ser abrangidos pelo fim das restrições à legalização de furos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/azul/noticia/agricultores-ribatejanos-tambem-querem-abrangidos-fim-restricoes-legalizacao-furos-2173796"
         },
         {
-            "title": "Existência de equipamentos culturais não basta para garantir acesso à Cultura",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/culturaipsilon/noticia/existencia-equipamentos-culturais-nao-basta-garantir-acesso-cultura-2173894"
+            "title": "Birras com Lisa Vicente: “A minha primeira educação sexual foi ver o afecto entre os meus pais”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/impar/noticia/birras-lisa-vicente-primeira-educacao-sexual-afecto-pais-2173876"
         },
         {
-            "title": "EDP está mais optimista para 2026, mas rejeita estar a ganhar com a guerra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/economia/noticia/edp-optimista-2026-rejeita-estar-ganhar-guerra-2173886"
+            "title": "Chega abre revisão constitucional, PSD remete para mais tarde",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/politica/noticia/chega-abre-revisao-constitucional-psd-remete-tarde-2173874"
         }
     ],
     "finance": [],
-    "last_update": "07/05/2026 15:26"
+    "last_update": "07/05/2026 17:40"
 }
