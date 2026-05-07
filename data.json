@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 13.9,
-        "manha": 15.0,
-        "tarde": 20.1,
-        "noite": 15.1
+        "manha": 14.9,
+        "tarde": 19.3,
+        "noite": 15.2
     },
     "forecast": {
-        "max": 18.6,
+        "max": 19.4,
         "min": 13.1
     },
     "news": [
         {
-            "title": "O Foco desfocado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/opiniao/opiniao/foco-desfocado-2172982"
+            "title": "Um dos pára-quedistas ferido em Tancos está em morte cerebral",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/sociedade/noticia/paraquedistas-ferido-tancos-morte-cerebral-2173850"
         },
         {
-            "title": "<em>Linguagem Universal</em>, <em>Billie Eilish</em> e outras estreias para esta semana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/culturaipsilon/noticia/linguagem-universal-billie-eilish-estreias-semana-2173410"
+            "title": "“A Rússia mata, a Bienal de Veneza expõe”, gritaram as Pussy Riot na Bienal de Veneza",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/culturaipsilon/noticia/russia-mata-bienal-veneza-expoe-gritaram-pussy-riot-bienal-veneza-2173838"
         },
         {
-            "title": "Mesa posta para Brasil e Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/publico-brasil/opiniao/mesa-posta-brasil-portugal-2173836"
+            "title": "Raquel Lima: “Portugal começa a cristalizar um lugar conservador que nos atrasa a todos”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/culturaipsilon/entrevista/raquel-lima-portugal-comeca-cristalizar-lugar-conservador-atrasa-2172417"
         },
         {
-            "title": "Efeitos devastadores do bloqueio a Gaza entre grávidas e lactantes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/mundo/noticia/efeitos-devastadores-bloqueio-gaza-gravidas-lactantes-2173835"
+            "title": "Pizza do irmão da atriz Carol Dieckmmann agrada brasileiros e portugueses em Cascais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/publico-brasil/noticia/pizza-irmao-atriz-carol-dieckmmann-agrada-brasileiros-portugueses-cascais-2173749"
         },
         {
-            "title": "União Europeia chega a acordo para proibir IA que cria imagens de teor sexual",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/enter/noticia/uniao-europeia-chega-acordo-proibir-ia-cria-imagens-teor-sexual-2173829"
+            "title": "Hantavírus: 40 passageiros desembarcaram em Santa Helena após morte do primeiro doente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/mundo/noticia/hantavirus-40-passageiros-desembarcaram-santa-helena-apos-morte-doente-2173843"
         }
     ],
     "finance": [],
-    "last_update": "07/05/2026 08:13"
+    "last_update": "07/05/2026 11:00"
 }
