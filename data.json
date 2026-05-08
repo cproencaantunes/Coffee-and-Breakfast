@@ -3,13 +3,25 @@
         "atual": 14.2,
         "manha": 13.8,
         "tarde": 19.7,
-        "noite": 15.4
+        "noite": 15.3
     },
     "forecast": {
-        "max": 17.2,
+        "max": 16.6,
         "min": 14.0
     },
     "news": [
+        {
+            "title": "Leis laborais: um passo para o abismo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/opiniao/editorial/leis-laborais-passo-abismo-2174030"
+        },
+        {
+            "title": "Trump planeia demitir director da agência reguladora do medicamento dos EUA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/mundo/noticia/trump-planeia-demitir-director-agencia-reguladora-medicamento-eua-2174107"
+        },
+        {
+            "title": "Alienar património público não é solução para a crise da habitação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/opiniao/opiniao/alienar-patrimonio-publico-nao-solucao-crise-habitacao-2174106"
+        },
         {
             "title": "Uma greve “histórica” numa Bienal de Veneza às turras com Israel e Rússia",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/culturaipsilon/noticia/greve-historica-bienal-veneza-turras-israel-russia-2174101"
@@ -17,20 +29,8 @@
         {
             "title": "Gomas, chocolates e infusões: ASAE apreende perto de 6850 artigos com <em>cannabis</em> e instaura 19 processos-crime",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/sociedade/noticia/gomas-chocolates-infusoes-asae-apreende-perto-6850-artigos-cannabis-instaura-19-processoscrime-2174104"
-        },
-        {
-            "title": "Assembleia da República aprova equivalência de estudos no Brasil e em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/publico-brasil/noticia/assembleia-republica-aprova-equivalencia-estudos-brasil-portugal-2174102"
-        },
-        {
-            "title": "Hantavírus dos Andes: primeiros casos de transmissão entre pessoas foram há 30 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/ciencia/noticia/hantavirus-andes-casos-transmissao-pessoas-ha-30-anos-2174016"
-        },
-        {
-            "title": "Mário Mourão: “A única responsável por não ter havido acordo é a ministra do Trabalho”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/economia/entrevista/mario-mourao-unica-responsavel-nao-havido-acordo-ministra-trabalho-2174084"
         }
     ],
     "finance": [],
-    "last_update": "08/05/2026 21:49"
+    "last_update": "08/05/2026 22:44"
 }
