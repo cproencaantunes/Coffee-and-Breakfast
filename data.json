@@ -3,34 +3,34 @@
         "atual": 14.2,
         "manha": 13.8,
         "tarde": 19.7,
-        "noite": 15.9
+        "noite": 15.4
     },
     "forecast": {
-        "max": 16.9,
-        "min": 14.2
+        "max": 17.2,
+        "min": 14.0
     },
     "news": [
         {
-            "title": "O Porto de Farioli e o Barca Velha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/fugas/cronica/porto-farioli-barca-velha-2173440"
+            "title": "Hantavírus dos Andes: primeiros casos de transmissão entre pessoas foram há 30 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/ciencia/noticia/hantavirus-andes-casos-transmissao-pessoas-ha-30-anos-2174016"
         },
         {
-            "title": "Sporting chega à oitava final da Champions de futsal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/desporto/noticia/sporting-chega-oitava-final-champions-futsal-2174074"
+            "title": "Mário Mourão: “A única responsável por não ter havido acordo é a ministra do Trabalho”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/economia/entrevista/mario-mourao-unica-responsavel-nao-havido-acordo-ministra-trabalho-2174084"
         },
         {
-            "title": "Juntas do Areeiro e de Arroios em guerra pela gestão da Alameda D. Afonso Henriques",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/local/noticia/juntas-areeiro-arroios-guerra-gestao-alameda-d-afonso-henriques-2174067"
+            "title": "O Perigo de Obedecer Demais: a experiência de Milgram",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/opiniao/opiniao/perigo-obedecer-demais-experiencia-milgram-2174103"
         },
         {
-            "title": "TC volta a declarar inconstitucional a perda de nacionalidade como pena acessória",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/politica/noticia/tc-volta-declarar-inconstitucional-perda-nacionalidade-pena-acessoria-2174069"
+            "title": "Preço dos combustíveis baixa segunda-feira e Governo aproveita para “aumentar” ISP",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/economia/noticia/preco-combustiveis-baixa-segundafeira-governo-aproveita-aumentar-isp-2174100"
         },
         {
-            "title": "Diminuir os tarefeiros no SNS: a nova batalha do Governo é justa?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/politica/noticia/diminuir-tarefeiros-sns-nova-batalha-governo-justa-2174078"
+            "title": "Rússia e Ucrânia chegam a acordo para trégua de três dias e troca de prisioneiros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/mundo/noticia/russia-ucrania-chegam-acordo-tregua-tres-dias-troca-prisioneiros-2174098"
         }
     ],
     "finance": [],
-    "last_update": "08/05/2026 18:03"
+    "last_update": "08/05/2026 20:03"
 }
