@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.2,
         "manha": 13.8,
-        "tarde": 19.8,
-        "noite": 15.0
+        "tarde": 19.7,
+        "noite": 15.9
     },
     "forecast": {
-        "max": 17.2,
-        "min": 14.0
+        "max": 16.9,
+        "min": 14.2
     },
     "news": [
         {
-            "title": "Hantavírus: como é que Espanha vai repatriar os passageiros do <em>MV Hondius</em>?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/mundo/perguntaserespostas/hantavirus-espanha-vai-repatriar-passageiros-mv-hondius-2174033"
+            "title": "O Porto de Farioli e o Barca Velha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/fugas/cronica/porto-farioli-barca-velha-2173440"
         },
         {
-            "title": "Rali de Portugal: reboques, polícias e Ogier ao ataque na estrada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/desporto/noticia/rali-portugal-reboques-policias-ogier-ataque-estrada-2173966"
+            "title": "Sporting chega à oitava final da Champions de futsal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/desporto/noticia/sporting-chega-oitava-final-champions-futsal-2174074"
         },
         {
-            "title": "Ex-príncipe André alvo de ameaças por homem encapuçado em Sandringham",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/impar/noticia/exprincipe-andre-alvo-ameacas-homem-encapucado-sandringham-2174055"
+            "title": "Juntas do Areeiro e de Arroios em guerra pela gestão da Alameda D. Afonso Henriques",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/local/noticia/juntas-areeiro-arroios-guerra-gestao-alameda-d-afonso-henriques-2174067"
         },
         {
-            "title": "Ryanair satiriza aeroporto de Lisboa: um meme contra filas no controlo de fronteiras",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/fugas/noticia/ryanair-satiriza-aeroporto-lisboa-meme-filas-controlo-fronteiras-2174032"
+            "title": "TC volta a declarar inconstitucional a perda de nacionalidade como pena acessória",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/politica/noticia/tc-volta-declarar-inconstitucional-perda-nacionalidade-pena-acessoria-2174069"
         },
         {
-            "title": "Governo quer rever tarifa social de energia para garantir apoio a quem “verdadeiramente precisa”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/azul/noticia/governo-quer-rever-tarifa-social-energia-garantir-apoio-verdadeiramente-precisa-2174045"
+            "title": "Diminuir os tarefeiros no SNS: a nova batalha do Governo é justa?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/politica/noticia/diminuir-tarefeiros-sns-nova-batalha-governo-justa-2174078"
         }
     ],
     "finance": [],
-    "last_update": "08/05/2026 16:08"
+    "last_update": "08/05/2026 18:03"
 }
