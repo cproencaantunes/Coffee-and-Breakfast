@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.2,
-        "manha": 13.9,
-        "tarde": 19.3,
-        "noite": 14.9
+        "manha": 13.8,
+        "tarde": 19.8,
+        "noite": 15.0
     },
     "forecast": {
-        "max": 18.3,
-        "min": 14.2
+        "max": 17.2,
+        "min": 14.0
     },
     "news": [
         {
-            "title": "Ela era <em>influencer </em>da extrema-direita. Agora, denuncia como o movimento MAGA a financiava",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/p3/noticia/influencer-extremadireita-denuncia-movimento-maga-financiava-2173854"
+            "title": "Zara nega ter infringido a marca registada de Jo Malone no processo contra a Estée Lauder",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/impar/noticia/zara-nega-infringido-marca-registada-jo-malone-processo-estee-lauder-2174004"
         },
         {
-            "title": "As vozes fora da cabeça de Mariana Dionísio. A vida plena de Gerald Murnane",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/newsletter/ipsilon"
+            "title": "A Inteligência Artificial vai exterminar-nos? Primeiro No Escuro ao vivo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/culturaipsilon/podcast/inteligencia-artificial-vai-exterminarnos-escuro-vivo-2173845"
         },
         {
-            "title": "Ao correr da pena",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/culturaipsilon/cronica/correr-pena-2173565"
+            "title": "Os melhores <em>smartphones</em> até 500 euros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/enter/noticia/melhores-smartphones-ate-500-euros-2174012"
         },
         {
-            "title": "“Figura incontornável da resistência antifascista”: reacções à morte de Carlos Brito",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/politica/noticia/figura-incontornavel-resistencia-antifascista-reaccoes-morte-carlos-brito-2173978"
+            "title": "A esquadra do Rato e a aporofobia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/p3/cronica/esquadra-rato-aporofobia-2174013"
         },
         {
-            "title": "Preço global dos alimentos volta a subir, guerra pressiona cereais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/economia/noticia/preco-global-alimentos-volta-subir-guerra-pressiona-cereais-2173971"
+            "title": "&#9757; O que têm estes três filmes em comum?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/newsletter/proximo_episodio"
         }
     ],
     "finance": [],
-    "last_update": "08/05/2026 10:16"
+    "last_update": "08/05/2026 12:04"
 }
