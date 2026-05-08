@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 14.2,
-        "manha": 14.5,
-        "tarde": 19.4,
+        "manha": 14.3,
+        "tarde": 19.5,
         "noite": 14.9
     },
     "forecast": {
-        "max": 18.5,
-        "min": 14.2
+        "max": 18.3,
+        "min": 14.5
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/opiniao/opiniao/cartas-director-2173900"
+        },
         {
             "title": "O Futebol Clube do Porto é uma nação",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/opiniao/opiniao/futebol-clube-porto-nacao-2173922"
@@ -25,12 +29,8 @@
         {
             "title": "A polícia é um espelho do que somos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/opiniao/opiniao/policia-espelho-2173898"
-        },
-        {
-            "title": "Estados Unidos atacam alvos iranianos, Teerão denuncia violação do cessar-fogo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/07/mundo/noticia/estados-unidos-atacam-alvos-iranianos-teerao-denuncia-violacao-cessarfogo-2173957"
         }
     ],
     "finance": [],
-    "last_update": "08/05/2026 01:59"
+    "last_update": "08/05/2026 04:54"
 }
