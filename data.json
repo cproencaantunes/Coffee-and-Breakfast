@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.2,
-        "manha": 14.3,
-        "tarde": 19.5,
+        "manha": 13.9,
+        "tarde": 19.3,
         "noite": 14.9
     },
     "forecast": {
         "max": 18.3,
-        "min": 14.5
+        "min": 14.2
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/opiniao/opiniao/cartas-director-2173900"
+            "title": "Jovens cariocas transformam desafio pessoal em inovação e trazem projeto a Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/publico-brasil/noticia/jovens-cariocas-transformam-desafio-pessoal-inovacao-trazem-projeto-portugal-2173936"
         },
         {
-            "title": "O Futebol Clube do Porto é uma nação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/opiniao/opiniao/futebol-clube-porto-nacao-2173922"
+            "title": "Despertador: Um terço das detenções por abuso sexual tem origem em denúncias das escolas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/newsletter/despertador"
         },
         {
-            "title": "Carlos Barbosa, a travar Lisboa desde 2004",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/opiniao/opiniao/carlos-barbosa-travar-lisboa-desde-2004-2173916"
+            "title": "Estudo mostra como uma dieta à base de batata alterou a genética do povo andino",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/ciencia/noticia/estudo-mostra-dieta-base-batata-alterou-genetica-povo-andino-2173949"
         },
         {
-            "title": "IA meu, esse gato é falso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/opiniao/cronica/ia-gato-falso-2173847"
+            "title": "No tempo da pós-vergonha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/mundo/cronica/tempo-posvergonha-2173931"
         },
         {
-            "title": "A polícia é um espelho do que somos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/opiniao/opiniao/policia-espelho-2173898"
+            "title": "O COI e os atletas “trans”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/08/desporto/opiniao/coi-atletas-trans-2173884"
         }
     ],
     "finance": [],
-    "last_update": "08/05/2026 04:54"
+    "last_update": "08/05/2026 06:27"
 }
