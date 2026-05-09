@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.8,
         "manha": 15.4,
-        "tarde": 16.5,
-        "noite": 14.9
+        "tarde": 16.4,
+        "noite": 14.8
     },
     "forecast": {
-        "max": 16.9,
+        "max": 16.7,
         "min": 13.8
     },
     "news": [
         {
-            "title": "Trabalhadores exigem que médicos do INEM sejam abrangidos pelo novo regime de horas extra",
+            "title": "Jornalistas sob ataque. Até quando?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/publico-brasil/opiniao/jornalistas-ataque-ate-2174135"
+        },
+        {
+            "title": "Pentágono divulga ficheiros secretos sobre extraterrestres — e há mais a caminho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/mundo/noticia/pentagono-divulga-ficheiros-secretos-extraterrestres-ha-caminho-2174123"
+        },
+        {
+            "title": "Sinto que falta qualquer coisa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/p3/cronica/sinto-falta-qualquer-2174006"
+        },
+        {
+            "title": "Médicos do INEM exigem ser abrangidos pelo novo regime de horas extras",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/sociedade/noticia/trabalhadores-exigem-medicos-inem-abrangidos-novo-regime-horas-extra-2174126"
         },
         {
             "title": "Putin enaltece “avanços” russos na Ucrânia apesar do apoio de “todo o bloco da NATO” a Kiev",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/mundo/noticia/putin-enaltece-avancos-russos-ucrania-apesar-apoio-bloco-nato-kiev-2174128"
-        },
-        {
-            "title": "Cinema preocupado com proposta de mudança nos programas Europa Criativa e Media",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/culturaipsilon/noticia/cinema-preocupado-proposta-mudanca-programas-europa-criativa-media-2174044"
-        },
-        {
-            "title": "PCP indica Bernardino Soares para pacto para a saúde de Seguro, mas critica iniciativa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/politica/noticia/pcp-indica-bernardino-soares-pacto-saude-pr-critica-iniciativa-2174129"
-        },
-        {
-            "title": "A banda Um Amô se apresenta no festival <em>Samba Com Vida</em>, em Estarreja: força feminina",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/publico-brasil/noticia/banda-amo-apresenta-festival-samba-vida-estarreja-forca-feminina-2174125"
         }
     ],
     "finance": [],
-    "last_update": "09/05/2026 11:40"
+    "last_update": "09/05/2026 12:52"
 }
