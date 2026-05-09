@@ -1,9 +1,9 @@
 {
     "weather": {
         "atual": 14.8,
-        "manha": 15.4,
-        "tarde": 16.3,
-        "noite": 14.7
+        "manha": 15.6,
+        "tarde": 16.4,
+        "noite": 14.9
     },
     "forecast": {
         "max": 16.6,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/opiniao/opiniao/cartas-director-2174054"
+            "title": "“Provavelmente só em Junho” teremos a fotografia completa do surto de hantavírus",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/ciencia/entrevista/provavelmente-so-junho-fotografia-completa-surto-hantavirus-2174093"
         },
         {
-            "title": "O poder – 1",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/opiniao/opiniao/poder-1-2174094"
+            "title": "Inteligência Artificial nas eleições: o problema não é o <em>deepfake</em>, é o cansaço",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/publico-brasil/opiniao/inteligencia-artificial-eleicoes-problema-nao-deepfake-cansaco-2174111"
         },
         {
-            "title": "Em defesa do serviço militar obrigatório",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/opiniao/opiniao/defesa-servico-militar-obrigatorio-2174080"
+            "title": "Começou a época da pesca do morango: quando é que vai embarcar?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/fugas/cronica/comecou-epoca-pesca-morango-vai-embarcar-2173439"
         },
         {
-            "title": "A desinformação da TVI de que André Ventura gosta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/politica/opiniao/desinformacao-tvi-andre-ventura-gosta-2174053"
+            "title": "Médicos disponíveis para urgências terão direito a bónus mesmo que não sejam chamados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/sociedade/noticia/medicos-disponiveis-urgencias-terao-direito-bonus-nao-chamados-2174095"
         },
         {
-            "title": "Os ímanes do péssimo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/opiniao/cronica/imanes-pessimo-2173997"
+            "title": "Há uma nova espécie de ácaro aquático descoberta pelos cientistas no Norte do país",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/ciencia/noticia/ha-nova-especie-acaro-aquatico-descoberta-cientistas-norte-pais-2172995"
         }
     ],
     "finance": [],
-    "last_update": "09/05/2026 05:00"
+    "last_update": "09/05/2026 07:41"
 }
