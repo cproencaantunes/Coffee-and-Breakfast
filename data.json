@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 14.8,
-        "manha": 14.8,
-        "tarde": 16.5,
+        "manha": 15.4,
+        "tarde": 16.3,
         "noite": 14.7
     },
     "forecast": {
-        "max": 17.3,
-        "min": 13.9
+        "max": 16.6,
+        "min": 14.0
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/opiniao/opiniao/cartas-director-2174054"
+        },
         {
             "title": "O poder – 1",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/opiniao/opiniao/poder-1-2174094"
@@ -25,12 +29,8 @@
         {
             "title": "Os ímanes do péssimo",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/opiniao/cronica/imanes-pessimo-2173997"
-        },
-        {
-            "title": "Bárbara Reis e a “polémica histórica do momento”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/opiniao/opiniao/barbara-reis-polemica-historica-momento-2173981"
         }
     ],
     "finance": [],
-    "last_update": "09/05/2026 01:53"
+    "last_update": "09/05/2026 05:00"
 }
