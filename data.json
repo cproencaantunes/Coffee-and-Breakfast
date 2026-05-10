@@ -1,15 +1,27 @@
 {
     "weather": {
         "atual": 14.5,
-        "manha": 15.8,
-        "tarde": 16.9,
+        "manha": 15.5,
+        "tarde": 17.0,
         "noite": 15.3
     },
     "forecast": {
         "max": 17.7,
-        "min": 15.0
+        "min": 14.9
     },
     "news": [
+        {
+            "title": "Dyson PencilVac, o aspirador mais fino do mundo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/enter/noticia/dyson-pencilvac-aspirador-fino-mundo-2174170"
+        },
+        {
+            "title": "Quando a violência continua a atingir máximos históricos: agir é proteger",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/opiniao/opiniao/violencia-continua-atingir-maximos-historicos-agir-proteger-2174071"
+        },
+        {
+            "title": "Israel deporta Keshek e Ávila, os activistas detidos em águas internacionais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/mundo/noticia/israel-deporta-keshek-avila-activistas-detidos-aguas-internacionais-2174173"
+        },
         {
             "title": "O homem mais rico de África, Dangote, está de olho no Quénia para construir uma nova refinaria, segundo o FT",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/economia/noticia/homem-rico-africa-dangote-olho-quenia-construir-nova-refinaria-segundo-ft-2174171"
@@ -17,20 +29,8 @@
         {
             "title": "Uma figura, dez destinos: seguimos no encalço de Maria",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/fugas/noticia/figura-dez-destinos-seguimos-encalco-maria-2173432"
-        },
-        {
-            "title": "Comer, orar, ficar: a devoção a Fátima para lá do santuário",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/fugas/noticia/comer-orar-ficar-devocao-fatima-santuario-2173508"
-        },
-        {
-            "title": "E se não estivermos a ensinar jovens a viver? E se isto não for saúde mental?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/p3/cronica/nao-ensinar-jovens-viver-nao-saude-mental-2173745"
-        },
-        {
-            "title": "Como o turismo religioso se tornou estratégico em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/fugas/noticia/turismo-religioso-tornou-estrategico-portugal-2173458"
         }
     ],
     "finance": [],
-    "last_update": "10/05/2026 09:21"
+    "last_update": "10/05/2026 10:53"
 }
