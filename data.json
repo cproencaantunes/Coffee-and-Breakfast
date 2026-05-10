@@ -2,14 +2,22 @@
     "weather": {
         "atual": 14.5,
         "manha": 15.5,
-        "tarde": 17.0,
-        "noite": 15.3
+        "tarde": 16.7,
+        "noite": 15.2
     },
     "forecast": {
-        "max": 17.7,
-        "min": 14.9
+        "max": 18.8,
+        "min": 14.8
     },
     "news": [
+        {
+            "title": "Liberais recebem mandado para formar Governo na Dinamarca",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/mundo/noticia/liberais-recebem-mandado-formar-governo-dinamarca-2174180"
+        },
+        {
+            "title": "Lucro da petrolífera Saudi Aramco sobe mais de 25% no primeiro trimestre",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/economia/noticia/lucro-petrolifera-saudi-aramco-sobe-25-trimestre-2174176"
+        },
         {
             "title": "Quem quer ler o guião perdido de Larry David pré-<em>Seinfeld</em> (mas que acaba por integrar <em>Seinfeld</em>)?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/culturaipsilon/noticia/quer-ler-guiao-perdido-larry-david-preseinfeld-acaba-integrar-seinfeld-2174178"
@@ -21,16 +29,8 @@
         {
             "title": "Agentes detidos no caso da esquadra do Rato terão sido avisados de buscas por colega",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/sociedade/noticia/agentes-detidos-caso-esquadra-rato-terao-avisados-buscas-colega-2174179"
-        },
-        {
-            "title": "Cantora Cremilda Medina lança disco <em>Lágrima</em> e faz declaração de amor a Cabo Verde",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/publico-brasil/noticia/cantora-cremilda-medina-lanca-disco-lagrima-faz-declaracao-amor-cabo-verde-2174174"
-        },
-        {
-            "title": "Dyson PencilVac, o aspirador mais fino do mundo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/enter/noticia/dyson-pencilvac-aspirador-fino-mundo-2174170"
         }
     ],
     "finance": [],
-    "last_update": "10/05/2026 11:41"
+    "last_update": "10/05/2026 12:53"
 }
