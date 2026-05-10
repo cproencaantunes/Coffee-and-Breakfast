@@ -1,15 +1,27 @@
 {
     "weather": {
-        "atual": 14.5,
-        "manha": 15.5,
-        "tarde": 16.7,
-        "noite": 15.3
+        "atual": 15.0,
+        "manha": 15.9,
+        "tarde": 18.3,
+        "noite": 15.9
     },
     "forecast": {
-        "max": 18.9,
-        "min": 14.8
+        "max": 18.8,
+        "min": 14.3
     },
     "news": [
+        {
+            "title": "Trump considera resposta iraniana à proposta dos EUA “totalmente inaceitável”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/mundo/noticia/trump-considera-resposta-iraniana-proposta-eua-totalmente-inaceitavel-2174212"
+        },
+        {
+            "title": "Linhas vermelhas, não tapetes vermelhos. Porque devemos apoiar a suspensão do Acordo UE-Israel",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/opiniao/opiniao/linhas-vermelhas-nao-tapetes-vermelhos-devemos-apoiar-suspensao-acordo-ueisrael-2173921"
+        },
+        {
+            "title": "Por baixo da mesa, s.f.f.",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/opiniao/cronica/baixo-mesa-sff-2174177"
+        },
         {
             "title": "Hantavírus: OMS recomenda 42 dias de quarentena mas decisão é de cada país",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/ciencia/noticia/hantavirus-oms-recomenda-42-dias-quarentena-decisao-pais-2174213"
@@ -17,20 +29,8 @@
         {
             "title": "Barcelona esteve 127 anos à espera de festejar nas barbas do Real Madrid",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/desporto/noticia/barcelona-127-anos-espera-festejar-barbas-real-madrid-2174211"
-        },
-        {
-            "title": "Na reforma laboral, não bastam <em>soundbites</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/opiniao/editorial/reforma-laboral-nao-bastam-soundbites-2174197"
-        },
-        {
-            "title": "Entre o “projecto político coerente” e o “novo ciclo” ambicioso: JSD vai a votos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/politica/noticia/projecto-politico-coerente-novo-ciclo-ambicioso-jsd-vai-votos-2174110"
-        },
-        {
-            "title": "Ministro da Defesa da Letónia demite-se após explosão de <em>drone</em> ucraniano no país",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/mundo/noticia/ministro-defesa-letonia-demitese-apos-explosao-drone-ucraniano-pais-2174207"
         }
     ],
     "finance": [],
-    "last_update": "10/05/2026 22:36"
+    "last_update": "10/05/2026 23:40"
 }
