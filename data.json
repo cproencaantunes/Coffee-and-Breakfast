@@ -6,10 +6,14 @@
         "noite": 15.3
     },
     "forecast": {
-        "max": 18.4,
-        "min": 14.7
+        "max": 18.9,
+        "min": 14.8
     },
     "news": [
+        {
+            "title": "Hantavírus: OMS recomenda 42 dias de quarentena mas decisão é de cada país",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/ciencia/noticia/hantavirus-oms-recomenda-42-dias-quarentena-decisao-pais-2174213"
+        },
         {
             "title": "Barcelona esteve 127 anos à espera de festejar nas barbas do Real Madrid",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/desporto/noticia/barcelona-127-anos-espera-festejar-barbas-real-madrid-2174211"
@@ -25,12 +29,8 @@
         {
             "title": "Ministro da Defesa da Letónia demite-se após explosão de <em>drone</em> ucraniano no país",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/mundo/noticia/ministro-defesa-letonia-demitese-apos-explosao-drone-ucraniano-pais-2174207"
-        },
-        {
-            "title": "Na Bienal de Veneza, Alexandre Estrela gera empatia através de sismos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/culturaipsilon/noticia/bienal-veneza-alexandre-estrela-gera-empatia-atraves-sismos-2174203"
         }
     ],
     "finance": [],
-    "last_update": "10/05/2026 21:38"
+    "last_update": "10/05/2026 22:36"
 }
