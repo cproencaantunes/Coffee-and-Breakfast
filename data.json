@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.5,
-        "manha": 15.6,
-        "tarde": 17.0,
+        "manha": 15.8,
+        "tarde": 16.9,
         "noite": 15.3
     },
     "forecast": {
         "max": 17.7,
-        "min": 14.9
+        "min": 15.0
     },
     "news": [
         {
-            "title": "Há restaurantes a mais em Portugal? Retrato de um negócio “estruturalmente débil”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/fugas/reportagem/ha-restaurantes-portugal-retrato-negocio-estruturalmente-debil-2173883"
+            "title": "A “Queda de Bamaco”: mais ruído do que realidade?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/mundo/opiniao/queda-bamaco-ruido-realidade-2173455"
         },
         {
-            "title": "Violência nas cozinhas: “Toda a gente sabe que acontece”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/fugas/noticia/violencia-cozinhas-gente-sabe-acontece-2174014"
+            "title": "Palcos da semana: GoGo Penguin, Futurama e mentalização para a esperança",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/culturaipsilon/noticia/palcos-semana-gogo-penguin-futurama-mentalizacao-esperanca-2174068"
         },
         {
-            "title": "Banca em alerta com ameaça crescente de ciberataques gerados por IA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/economia/noticia/banca-alerta-ameaca-crescente-ciberataques-gerados-ia-2174026"
+            "title": "Os medicamentos para a obesidade afectam a densidade óssea? O que se sabe de novo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/ciencia/perguntaserespostas/medicamentos-obesidade-afectam-densidade-ossea-sabe-novo-2173992"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/opiniao/opiniao/cartas-director-2174058"
+            "title": "<em>MV Hondius</em> dá entrada em Tenerife, operação de desembarque começa em breve",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/mundo/noticia/mv-hondius-entrada-tenerife-operacao-desembarque-comeca-breve-2174169"
         },
         {
-            "title": "EUA: avião atropela e mata uma pessoa durante descolagem em Denver",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/09/mundo/noticia/eua-aviao-atropela-mata-pessoa-durante-descolagem-denver-2174165"
+            "title": "O luxo que a gente não compra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/publico-brasil/opiniao/luxo-gente-nao-compra-2174163"
         }
     ],
     "finance": [],
-    "last_update": "10/05/2026 05:28"
+    "last_update": "10/05/2026 07:55"
 }
