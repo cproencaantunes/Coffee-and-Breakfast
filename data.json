@@ -3,7 +3,7 @@
         "atual": 15.1,
         "manha": 16.1,
         "tarde": 17.9,
-        "noite": 15.1
+        "noite": 15.0
     },
     "forecast": {
         "max": 19.0,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Ministra do Trabalho diz que “há mais vida” além da reforma laboral",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/economia/noticia/ministra-trabalho-ha-vida-alem-reforma-laboral-2174298"
+            "title": "Ministra garante que os médicos do INEM estão abrangidos pelo novo regime de incentivos às horas extras",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/sociedade/noticia/ministra-garante-medicos-inem-estao-abrangidos-novo-regime-incentivos-horas-extras-2174323"
         },
         {
-            "title": "Hantavírus: o vírus pode não ser o maior problema",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/p3/cronica/hantavirus-virus-nao-maior-problema-2174295"
+            "title": "Fragilizado, Putin sugere negociações de paz com a Ucrânia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/mundo/noticia/fragilizado-putin-sugere-negociacoes-paz-ucrania-2174309"
         },
         {
-            "title": "Teerão diz que proposta de paz rejeitada por Donald Trump era “generosa”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/mundo/noticia/teerao-proposta-paz-rejeitada-donald-trump-generosa-2174276"
+            "title": "<em>A História do Soldado</em>, de Stravinsky e Ramuz, para ver e ouvir na Casa da Música",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/culturaipsilon/noticia/historia-soldado-stravinsky-ramuz-ouvir-casa-musica-2174311"
         },
         {
-            "title": "Trump rejeitou recuperar “as restrições da covid” em vídeo recente sobre o hantavírus? Falso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/mundo/noticia/trump-rejeitou-recuperar-restricoes-covid-video-recente-hantavirus-falso-2174260"
+            "title": "Frente Comum apela à participação do sector público na greve contra pacote laboral",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/economia/noticia/frente-comum-apela-participacao-sector-publico-greve-pacote-laboral-2174319"
         },
         {
-            "title": "CinemaCity Leiria reabre a 21 de Maio após mais de três meses fechado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/local/noticia/cinemacity-leiria-reabre-21-maio-apos-tres-meses-fechado-2174267"
+            "title": "Normas que reforçam protecção da água na UE entram em vigor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/azul/noticia/normas-reforcam-proteccao-agua-ue-entram-vigor-2174270"
         }
     ],
     "finance": [],
-    "last_update": "11/05/2026 16:23"
+    "last_update": "11/05/2026 18:50"
 }
