@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 15.1,
-        "manha": 16.1,
-        "tarde": 17.9,
-        "noite": 15.2
+        "atual": 14.9,
+        "manha": 15.5,
+        "tarde": 19.3,
+        "noite": 16.0
     },
     "forecast": {
-        "max": 19.3,
-        "min": 14.1
+        "max": 20.0,
+        "min": 14.2
     },
     "news": [
         {
-            "title": "Hantavírus: DGS publica normas para casos suspeitos e diz que risco e Portugal é “muito baixo”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/sociedade/noticia/hantavirus-dgs-publica-normas-casos-suspeitos-risco-portugal-baixo-2174345"
+            "title": "Crónica de uma morte anunciada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/opiniao/opiniao/cronica-morte-anunciada-2174175"
         },
         {
-            "title": "Confirmação da perda de nacionalidade pedida por Ventura é possível; mas o referendo não",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/politica/noticia/confirmacao-perda-nacionalidade-pedida-ventura-possivel-referendo-nao-2174338"
+            "title": "E depois do refluxo?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/opiniao/opiniao/refluxo-2174318"
         },
         {
-            "title": "Explosão em São Paulo destrói dez casas e provoca um morto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/mundo/noticia/explosao-sao-paulo-destroi-edificio-provoca-numero-incerto-vitimas-2174342"
+            "title": "Direitos humanos, mas só para as pessoas certas – uma ruptura histórica em Chisinau?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/opiniao/opiniao/direitos-humanos-so-pessoas-certas-ruptura-historica-chisinau-2174271"
         },
         {
-            "title": "Schjelderup quis a Champions, mas isso não chegou para o Benfica",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/desporto/cronica_de_jogo/schjelderup-quis-champions-nao-chegou-benfica-2174343"
+            "title": "Trump quer suspender impostos sobre combustíveis para aliviar americanos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/mundo/noticia/trump-quer-suspender-impostos-combustiveis-aliviar-americanos-2174347"
         },
         {
-            "title": "Sporting sobe ao segundo lugar com reviravolta em Vila do Conde",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/desporto/cronica_de_jogo/sporting-sobe-segundo-lugar-reviravolta-vila-conde-2174339"
+            "title": "RAP 2026: entre a plausibilidade macroeconómica e o risco orçamental",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/opiniao/opiniao/rap-2026-plausibilidade-macroeconomica-risco-orcamental-2173956"
         }
     ],
     "finance": [],
-    "last_update": "11/05/2026 22:49"
+    "last_update": "11/05/2026 23:46"
 }
