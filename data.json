@@ -3,19 +3,23 @@
         "atual": 15.1,
         "manha": 16.1,
         "tarde": 17.9,
-        "noite": 15.0
+        "noite": 15.2
     },
     "forecast": {
-        "max": 19.0,
-        "min": 14.2
+        "max": 19.3,
+        "min": 14.1
     },
     "news": [
+        {
+            "title": "Hantavírus: DGS publica normas para casos suspeitos e diz que risco e Portugal é “muito baixo”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/sociedade/noticia/hantavirus-dgs-publica-normas-casos-suspeitos-risco-portugal-baixo-2174345"
+        },
         {
             "title": "Confirmação da perda de nacionalidade pedida por Ventura é possível; mas o referendo não",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/politica/noticia/confirmacao-perda-nacionalidade-pedida-ventura-possivel-referendo-nao-2174338"
         },
         {
-            "title": "Explosão em São Paulo destrói dez casas e provoca três feridos",
+            "title": "Explosão em São Paulo destrói dez casas e provoca um morto",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/mundo/noticia/explosao-sao-paulo-destroi-edificio-provoca-numero-incerto-vitimas-2174342"
         },
         {
@@ -25,12 +29,8 @@
         {
             "title": "Sporting sobe ao segundo lugar com reviravolta em Vila do Conde",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/desporto/cronica_de_jogo/sporting-sobe-segundo-lugar-reviravolta-vila-conde-2174339"
-        },
-        {
-            "title": "A polémica e pouco pacífica 70.ª edição da Eurovisão começa agora",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/culturaipsilon/noticia/polemica-pacifica-70-edicao-eurovisao-comeca-2174332"
         }
     ],
     "finance": [],
-    "last_update": "11/05/2026 21:57"
+    "last_update": "11/05/2026 22:49"
 }
