@@ -2,8 +2,8 @@
     "weather": {
         "atual": 15.1,
         "manha": 16.1,
-        "tarde": 18.1,
-        "noite": 15.3
+        "tarde": 18.8,
+        "noite": 15.4
     },
     "forecast": {
         "max": 19.1,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Dua Lipa processa a Samsung por ter utilizado a sua imagem para vender televisores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/impar/noticia/dua-lipa-processa-samsung-utilizado-imagem-vender-televisores-2174224"
+            "title": "Tribunal absolve Vítor Catão de 22 crimes após jogadores mudarem versões",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/desporto/noticia/tribunal-absolve-vitor-catao-22-crimes-apos-jogadores-mudarem-versoes-2174227"
         },
         {
-            "title": "Fantasmas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/p3/cronica/fantasmas-2174230"
+            "title": "Um crematório e uma possível via: eis os primeiros vestígios romanos em Marvila",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/local/noticia/crematorio-possivel-via-eis-vestigios-romanos-marvila-2173431"
         },
         {
-            "title": "Reforma da APA: o que quer o Governo fazer?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/azul/perguntaserespostas/reforma-apa-quer-governo-2174136"
+            "title": "SNS com 711 vagas para contratar médicos de família e mais de 1700 para hospitais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/sociedade/noticia/sns-711-vagas-contratar-medicos-familia-1700-hospitais-2174246"
         },
         {
-            "title": "GNR registou 300 casos de burlões que fingem ser autoridades ou serviços públicos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/sociedade/noticia/gnr-registou-300-casos-burloes-fingem-autoridades-servicos-publicos-2174228"
+            "title": "Cervejeiros europeus escolhem o “resiliente” mercado português para cimeira anual",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/fugas/noticia/cervejeiros-europeus-escolhem-resiliente-mercado-portugues-reunirem-junho-2173787"
         },
         {
-            "title": "Citroën ë-C3 Autonomia Urbana, um utilitário pensado para a cidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/enter/noticia/citroen-ec3-autonomia-urbana-utilitario-pensado-cidade-2173614"
+            "title": "Climáximo mancha de vermelho fachada da empresa Thales em protesto contra a guerra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/azul/noticia/climaximo-mancha-vermelho-fachada-empresa-thales-protesto-guerra-2174243"
         }
     ],
     "finance": [],
-    "last_update": "11/05/2026 10:27"
+    "last_update": "11/05/2026 13:36"
 }
