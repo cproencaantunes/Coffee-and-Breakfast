@@ -2,35 +2,35 @@
     "weather": {
         "atual": 15.1,
         "manha": 16.1,
-        "tarde": 18.8,
-        "noite": 15.4
+        "tarde": 17.9,
+        "noite": 15.1
     },
     "forecast": {
-        "max": 19.1,
+        "max": 19.0,
         "min": 14.2
     },
     "news": [
         {
-            "title": "Tribunal absolve Vítor Catão de 22 crimes após jogadores mudarem versões",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/desporto/noticia/tribunal-absolve-vitor-catao-22-crimes-apos-jogadores-mudarem-versoes-2174227"
+            "title": "Ministra do Trabalho diz que “há mais vida” além da reforma laboral",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/economia/noticia/ministra-trabalho-ha-vida-alem-reforma-laboral-2174298"
         },
         {
-            "title": "Um crematório e uma possível via: eis os primeiros vestígios romanos em Marvila",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/local/noticia/crematorio-possivel-via-eis-vestigios-romanos-marvila-2173431"
+            "title": "Hantavírus: o vírus pode não ser o maior problema",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/p3/cronica/hantavirus-virus-nao-maior-problema-2174295"
         },
         {
-            "title": "SNS com 711 vagas para contratar médicos de família e mais de 1700 para hospitais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/sociedade/noticia/sns-711-vagas-contratar-medicos-familia-1700-hospitais-2174246"
+            "title": "Teerão diz que proposta de paz rejeitada por Donald Trump era “generosa”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/mundo/noticia/teerao-proposta-paz-rejeitada-donald-trump-generosa-2174276"
         },
         {
-            "title": "Cervejeiros europeus escolhem o “resiliente” mercado português para cimeira anual",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/fugas/noticia/cervejeiros-europeus-escolhem-resiliente-mercado-portugues-reunirem-junho-2173787"
+            "title": "Trump rejeitou recuperar “as restrições da covid” em vídeo recente sobre o hantavírus? Falso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/mundo/noticia/trump-rejeitou-recuperar-restricoes-covid-video-recente-hantavirus-falso-2174260"
         },
         {
-            "title": "Climáximo mancha de vermelho fachada da empresa Thales em protesto contra a guerra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/azul/noticia/climaximo-mancha-vermelho-fachada-empresa-thales-protesto-guerra-2174243"
+            "title": "CinemaCity Leiria reabre a 21 de Maio após mais de três meses fechado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/local/noticia/cinemacity-leiria-reabre-21-maio-apos-tres-meses-fechado-2174267"
         }
     ],
     "finance": [],
-    "last_update": "11/05/2026 13:36"
+    "last_update": "11/05/2026 16:23"
 }
