@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 15.1,
-        "manha": 16.0,
-        "tarde": 18.0,
-        "noite": 15.4
+        "manha": 16.1,
+        "tarde": 18.1,
+        "noite": 15.3
     },
     "forecast": {
-        "max": 19.0,
+        "max": 19.1,
         "min": 14.2
     },
     "news": [
         {
-            "title": "Sobrelotação subiu para os 106%: é “urgente” discutir como reduzir número de reclusos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/sociedade/noticia/sobrelotacao-volta-urgente-discutir-reduzir-numero-reclusos-2174086"
+            "title": "Dua Lipa processa a Samsung por ter utilizado a sua imagem para vender televisores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/impar/noticia/dua-lipa-processa-samsung-utilizado-imagem-vender-televisores-2174224"
         },
         {
-            "title": "Reclusas do Sul ficam concentradas em Tires e famílias pagam o preço",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/sociedade/noticia/mulheres-sul-ficam-concentradas-tires-familias-pagam-preco-2174018"
+            "title": "Fantasmas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/p3/cronica/fantasmas-2174230"
         },
         {
-            "title": "Entre colaboração e incerteza: o desafio de comunicar ciência hoje",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/ciencia/opiniao/colaboracao-incerteza-desafio-comunicar-ciencia-hoje-2173646"
+            "title": "Reforma da APA: o que quer o Governo fazer?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/azul/perguntaserespostas/reforma-apa-quer-governo-2174136"
         },
         {
-            "title": "Com a saída da Ryanair, os Açores tornaram-se num destino só para ricos?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/local/noticia/saida-ryanair-acores-tornaramse-destino-so-ricos-2174215"
+            "title": "GNR registou 300 casos de burlões que fingem ser autoridades ou serviços públicos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/sociedade/noticia/gnr-registou-300-casos-burloes-fingem-autoridades-servicos-publicos-2174228"
         },
         {
-            "title": "Os salários dos políticos aumentam como os da função pública, mas o assunto é tabu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/politica/noticia/salarios-politicos-aumentam-funcao-publica-assunto-tabu-2174208"
+            "title": "Citroën ë-C3 Autonomia Urbana, um utilitário pensado para a cidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/enter/noticia/citroen-ec3-autonomia-urbana-utilitario-pensado-cidade-2173614"
         }
     ],
     "finance": [],
-    "last_update": "11/05/2026 06:27"
+    "last_update": "11/05/2026 10:27"
 }
