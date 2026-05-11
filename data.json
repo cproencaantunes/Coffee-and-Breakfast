@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 15.0,
+        "atual": 15.1,
         "manha": 15.9,
-        "tarde": 18.3,
-        "noite": 15.9
+        "tarde": 18.0,
+        "noite": 15.6
     },
     "forecast": {
         "max": 18.8,
         "min": 14.3
     },
     "news": [
+        {
+            "title": "Amnistia Internacional diz que Eurovisão “traiu a humanidade” com participação de Israel",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/culturaipsilon/noticia/amnistia-internacional-eurovisao-traiu-humanidade-participacao-israel-2174200"
+        },
         {
             "title": "Trump considera resposta iraniana à proposta dos EUA “totalmente inaceitável”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/mundo/noticia/trump-considera-resposta-iraniana-proposta-eua-totalmente-inaceitavel-2174212"
@@ -25,12 +29,8 @@
         {
             "title": "Hantavírus: OMS recomenda 42 dias de quarentena mas decisão é de cada país",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/ciencia/noticia/hantavirus-oms-recomenda-42-dias-quarentena-decisao-pais-2174213"
-        },
-        {
-            "title": "Barcelona esteve 127 anos à espera de festejar nas barbas do Real Madrid",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/desporto/noticia/barcelona-127-anos-espera-festejar-barbas-real-madrid-2174211"
         }
     ],
     "finance": [],
-    "last_update": "10/05/2026 23:40"
+    "last_update": "11/05/2026 02:02"
 }
