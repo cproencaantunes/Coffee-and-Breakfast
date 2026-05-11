@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 15.1,
-        "manha": 15.9,
+        "manha": 16.0,
         "tarde": 18.0,
-        "noite": 15.6
+        "noite": 15.4
     },
     "forecast": {
-        "max": 18.8,
-        "min": 14.3
+        "max": 19.0,
+        "min": 14.2
     },
     "news": [
         {
-            "title": "Amnistia Internacional diz que Eurovisão “traiu a humanidade” com participação de Israel",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/culturaipsilon/noticia/amnistia-internacional-eurovisao-traiu-humanidade-participacao-israel-2174200"
+            "title": "Sobrelotação subiu para os 106%: é “urgente” discutir como reduzir número de reclusos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/sociedade/noticia/sobrelotacao-volta-urgente-discutir-reduzir-numero-reclusos-2174086"
         },
         {
-            "title": "Trump considera resposta iraniana à proposta dos EUA “totalmente inaceitável”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/mundo/noticia/trump-considera-resposta-iraniana-proposta-eua-totalmente-inaceitavel-2174212"
+            "title": "Reclusas do Sul ficam concentradas em Tires e famílias pagam o preço",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/sociedade/noticia/mulheres-sul-ficam-concentradas-tires-familias-pagam-preco-2174018"
         },
         {
-            "title": "Linhas vermelhas, não tapetes vermelhos. Porque devemos apoiar a suspensão do Acordo UE-Israel",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/opiniao/opiniao/linhas-vermelhas-nao-tapetes-vermelhos-devemos-apoiar-suspensao-acordo-ueisrael-2173921"
+            "title": "Entre colaboração e incerteza: o desafio de comunicar ciência hoje",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/ciencia/opiniao/colaboracao-incerteza-desafio-comunicar-ciencia-hoje-2173646"
         },
         {
-            "title": "Por baixo da mesa, s.f.f.",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/opiniao/cronica/baixo-mesa-sff-2174177"
+            "title": "Com a saída da Ryanair, os Açores tornaram-se num destino só para ricos?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/local/noticia/saida-ryanair-acores-tornaramse-destino-so-ricos-2174215"
         },
         {
-            "title": "Hantavírus: OMS recomenda 42 dias de quarentena mas decisão é de cada país",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/10/ciencia/noticia/hantavirus-oms-recomenda-42-dias-quarentena-decisao-pais-2174213"
+            "title": "Os salários dos políticos aumentam como os da função pública, mas o assunto é tabu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/11/politica/noticia/salarios-politicos-aumentam-funcao-publica-assunto-tabu-2174208"
         }
     ],
     "finance": [],
-    "last_update": "11/05/2026 02:02"
+    "last_update": "11/05/2026 06:27"
 }
