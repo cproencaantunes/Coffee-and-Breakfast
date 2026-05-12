@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.6,
-        "manha": 15.6,
-        "tarde": 18.3,
-        "noite": 16.1
+        "atual": 15.3,
+        "manha": 15.8,
+        "tarde": 20.1,
+        "noite": 16.8
     },
     "forecast": {
-        "max": 19.8,
-        "min": 13.5
+        "max": 21.1,
+        "min": 13.7
     },
     "news": [
         {
-            "title": "“Há asfixia democrática e tentativa de governamentalização” da CNE, acusa secretário",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/politica/noticia/ha-asfixia-democratica-tentativa-governamentalizacao-cne-acusa-secretario-2174486"
+            "title": "Dois partidos, a mesma lógica",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/opiniao/opiniao/dois-partidos-logica-2174384"
         },
         {
-            "title": "O naufrágio de Keir Starmer — e do bipartidarismo britânico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/opiniao/editorial/naufragio-keir-starmer-bipartidarismo-britanico-2174473"
+            "title": "Todos defendem o SNS. É aí que começa o problema",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/opiniao/opiniao/defendem-sns-ai-comeca-problema-2174388"
         },
         {
-            "title": "Al Nassr adia conquista do título de campeão da Arábia Saudita",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/desporto/noticia/al-nassr-adia-conquista-titulo-campeao-arabia-saudita-2174489"
+            "title": "Imperdoável",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/opiniao/opiniao/imperdoavel-2174231"
         },
         {
-            "title": "Benfica continua imbatível na Liga, mas está prestes a falhar a Champions 18 anos depois",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/desporto/noticia/benfica-imbativel-prestes-falhar-champions-18-anos-2174468"
+            "title": "Antes que o futuro nos sufoque…",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/opiniao/opiniao/futuro-sufoque-2173122"
         },
         {
-            "title": "Trump chega a Pequim sem a capacidade de pressão económica que gostaria de ter",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/economia/noticia/trump-chega-pequim-capacidade-pressao-economica-gostaria-2174466"
+            "title": "Energia e pegada de carbono: as riquezas escondidas do interior",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/opiniao/opiniao/energia-pegada-carbono-riquezas-escondidas-interior-2174289"
         }
     ],
     "finance": [],
-    "last_update": "12/05/2026 22:02"
+    "last_update": "12/05/2026 23:49"
 }
