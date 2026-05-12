@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.6,
         "manha": 15.6,
-        "tarde": 18.8,
-        "noite": 16.0
+        "tarde": 18.4,
+        "noite": 16.2
     },
     "forecast": {
-        "max": 19.6,
-        "min": 14.4
+        "max": 19.7,
+        "min": 14.3
     },
     "news": [
         {
-            "title": "Porto prevê hastear bandeira LGBTQIA+ domingo em frente aos Paços do Concelho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/local/noticia/porto-preve-hastear-bandeira-lgbtqia-domingo-frente-pacos-concelho-2174399"
+            "title": "Turista é multado após mergulhar na Fontana di Trevi",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/fugas/noticia/turista-multado-apos-mergulhar-fontana-di-trevi-2174411"
         },
         {
-            "title": "Bruno Gonçalves. “O politicamente correcto destruiu a base do diálogo” nas redes sociais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/impar/podcast/bruno-goncalves-importante-habilidade-conversar-redes-sociais-tiraramna-2174363"
+            "title": "Polícias de Miami processam Ben Affleck e Matt Damon por difamação em <em>Dinheiro Suspeito</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/impar/noticia/policias-miami-processam-ben-affleck-matt-damon-difamacao-dinheiro-suspeito-2174409"
         },
         {
-            "title": "Associação requer providência cautelar contra projecto em antigo mosteiro no Lumiar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/local/noticia/associacao-requer-providencia-cautelar-projecto-antigo-mosteiro-lumiar-2174395"
+            "title": "Correia da Silva desafia Nuno Melo num CDS onde diz não haver “uma ideia mobilizadora”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/politica/noticia/correia-silva-desafia-nuno-melo-cds-onde-nao-haver-ideia-mobilizadora-2173732"
         },
         {
-            "title": "Engie avança com hibridização de hidroeléctricas transmontanas para energia fotovoltaica",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/azul/noticia/engie-avanca-hibridizacao-hidroelectricas-transmontanas-energia-fotovoltaica-2174366"
+            "title": "Miguel Poiares Maduro: uma ditadura recente não é uma “vacina” contra o autoritarismo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/video/poiares-maduro-ditadura-recente-nao-constitui-nenhuma-vacina-autoritarismo-20260512-130740"
         },
         {
-            "title": "Bar em ruínas da Praia do Ourigo no Porto removido até final de Maio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/local/noticia/bar-ruinas-praia-ourigo-porto-removido-ate-final-maio-2174394"
+            "title": "Cientistas dão um novo nome à síndrome dos ovários poliquísticos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/ciencia/noticia/cientistas-dao-novo-nome-sindrome-ovarios-poliquisticos-2174385"
         }
     ],
     "finance": [],
-    "last_update": "12/05/2026 11:11"
+    "last_update": "12/05/2026 13:51"
 }
