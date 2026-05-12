@@ -1,8 +1,8 @@
 {
     "weather": {
-        "atual": 14.9,
-        "manha": 15.5,
-        "tarde": 19.3,
+        "atual": 14.6,
+        "manha": 15.2,
+        "tarde": 19.1,
         "noite": 16.0
     },
     "forecast": {
@@ -10,6 +10,10 @@
         "min": 14.2
     },
     "news": [
+        {
+            "title": "O PSD enganou o Chega na perda de nacionalidade?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/politica/noticia/psd-enganou-chega-perda-nacionalidade-2174349"
+        },
         {
             "title": "Crónica de uma morte anunciada",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/opiniao/opiniao/cronica-morte-anunciada-2174175"
@@ -25,12 +29,8 @@
         {
             "title": "Trump quer suspender impostos sobre combustíveis para aliviar americanos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/mundo/noticia/trump-quer-suspender-impostos-combustiveis-aliviar-americanos-2174347"
-        },
-        {
-            "title": "RAP 2026: entre a plausibilidade macroeconómica e o risco orçamental",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/12/opiniao/opiniao/rap-2026-plausibilidade-macroeconomica-risco-orcamental-2173956"
         }
     ],
     "finance": [],
-    "last_update": "11/05/2026 23:46"
+    "last_update": "12/05/2026 01:59"
 }
