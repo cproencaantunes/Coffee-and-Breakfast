@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 15.2,
-        "manha": 15.3,
+        "manha": 15.2,
         "tarde": 19.6,
-        "noite": 16.7
+        "noite": 16.5
     },
     "forecast": {
-        "max": 20.8,
-        "min": 13.5
+        "max": 20.6,
+        "min": 13.4
     },
     "news": [
         {
-            "title": "Conan O’Brien volta a apresentar os Óscares em 2027",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/culturaipsilon/noticia/conan-obrien-volta-apresentar-oscares-2027-2174509"
+            "title": "Problemas não largam a Coindu, que põe 493 em <em>layoff</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/economia/noticia/problemas-nao-largam-coindu-poe-493-layoff-2174528"
         },
         {
-            "title": "<em>Teresa — A Madre de Calcutá</em> faz perguntas muito sérias sobre fé e humanidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/culturaipsilon/critica/teresa-madre-calcuta-faz-perguntas-serias-fe-humanidade-2174378"
+            "title": "Ministro diz que cumpre regras orçamentais “se o Parlamento tiver responsabilidade”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/economia/noticia/ministro-cumpre-regras-orcamentais-parlamento-responsabilidade-2174531"
         },
         {
-            "title": "Lavrov agradece “boas palavras” de Trump sobre relações Rússia-EUA, mas assume: “Não está a acontecer nada”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/mundo/noticia/lavrov-agradece-boas-palavras-trump-relacoes-russiaeua-assume-nao-acontecer-nada-2174507"
+            "title": "Miranda Sarmento: bónus nas pensões é “prioridade”, “se houver margem orçamental”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/economia/noticia/miranda-sarmento-bonus-pensoes-prioridade-margem-orcamental-2174527"
         },
         {
-            "title": "Entrega de IRC alargada até 19 de Junho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/economia/noticia/entrega-irc-alargada-ate-19-junho-2174508"
+            "title": "Governo abre 332 vagas para médicos em zonas carenciadas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/sociedade/noticia/governo-abre-332-vagas-medicos-zonas-carenciadas-2174518"
         },
         {
-            "title": "E se os donos das barragens pagassem a reposição de areia nas praias?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/azul/noticia/donos-barragens-pagassem-reposicao-areia-praias-2174471"
+            "title": "ICNF assume gestão do raro programa de sucesso de recuperação do lince. Porquê?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/azul/noticia/icnf-assume-gestao-raro-programa-sucesso-recuperacao-lince-2174513"
         }
     ],
     "finance": [],
-    "last_update": "13/05/2026 09:34"
+    "last_update": "13/05/2026 11:54"
 }
