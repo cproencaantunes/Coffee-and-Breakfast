@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 15.2,
-        "manha": 15.2,
-        "tarde": 19.1,
-        "noite": 17.0
+        "manha": 16.0,
+        "tarde": 21.0,
+        "noite": 15.4
     },
     "forecast": {
-        "max": 21.0,
-        "min": 13.6
+        "max": 19.8,
+        "min": 14.1
     },
     "news": [
         {
-            "title": "A reunião secreta que André Ventura quis que se soubesse",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/politica/noticia/reuniao-secreta-andre-ventura-quis-soubesse-2174643"
+            "title": "Sindicatos: com arrojo ou de rojo?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/opiniao/opiniao/sindicatos-arrojo-rojo-2174545"
         },
         {
-            "title": "Fé no butiá e espaço para a \"sobmesa\"",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/newsletter/relaxar"
+            "title": "Mais polícias, menos eficiência? O que os dados nos dizem sobre Portugal e a lição austríaca",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/opiniao/opiniao/policias-menos-eficiencia-dados-portugal-licao-austriaca-2174569"
         },
         {
-            "title": "PSG cumpriu a formalidade antes da Champions: foi campeão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/desporto/noticia/psg-cumpriu-formalidade-champions-campeao-2174642"
+            "title": "A mais nobre profissão do mundo?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/opiniao/opiniao/nobre-profissao-mundo-2174591"
         },
         {
-            "title": "Eléctrico em vez de metro: Porto avalia opções para linhas circular e do Campo Alegre",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/local/noticia/electrico-metro-porto-avalia-opcoes-linhas-circular-campo-alegre-2174639"
+            "title": "Quem está a planear o pós-Terceira Travessia do Tejo?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/opiniao/opiniao/planear-posterceira-travessia-tejo-2174563"
         },
         {
-            "title": "Regulador prepara-se para anular vitória do consórcio que ganhou aeroportos à Menzies",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/economia/noticia/regulador-preparase-anular-vitoria-consorcio-ganhou-aeroportos-menzies-2174638"
+            "title": "<em>Operação Marquês</em>: não são as garantias, é a falha do sistema",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/opiniao/opiniao/operacao-marques-nao-sao-garantias-falha-sistema-2174305"
         }
     ],
     "finance": [],
-    "last_update": "13/05/2026 22:56"
+    "last_update": "13/05/2026 23:50"
 }
