@@ -3,13 +3,17 @@
         "atual": 15.2,
         "manha": 15.2,
         "tarde": 19.1,
-        "noite": 16.6
+        "noite": 17.0
     },
     "forecast": {
         "max": 21.0,
-        "min": 13.4
+        "min": 13.6
     },
     "news": [
+        {
+            "title": "A reunião secreta que André Ventura quis que se soubesse",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/politica/noticia/reuniao-secreta-andre-ventura-quis-soubesse-2174643"
+        },
         {
             "title": "Fé no butiá e espaço para a \"sobmesa\"",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/newsletter/relaxar"
@@ -25,12 +29,8 @@
         {
             "title": "Regulador prepara-se para anular vitória do consórcio que ganhou aeroportos à Menzies",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/economia/noticia/regulador-preparase-anular-vitoria-consorcio-ganhou-aeroportos-menzies-2174638"
-        },
-        {
-            "title": "Eles sabiam que em breve iam morrer, por isso, decidiram celebrar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/impar/noticia/sabiam-breve-iam-morrer-decidiram-celebrar-2174512"
         }
     ],
     "finance": [],
-    "last_update": "13/05/2026 21:16"
+    "last_update": "13/05/2026 22:56"
 }
