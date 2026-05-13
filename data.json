@@ -2,35 +2,35 @@
     "weather": {
         "atual": 15.2,
         "manha": 15.2,
-        "tarde": 19.6,
-        "noite": 16.8
+        "tarde": 19.1,
+        "noite": 16.6
     },
     "forecast": {
-        "max": 20.7,
-        "min": 13.5
+        "max": 20.8,
+        "min": 13.4
     },
     "news": [
         {
-            "title": "<em>As Águias da República</em>: o faraó dos ecrãs contra Al-Sissi",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/culturaipsilon/critica/aguias-republica-farao-ecras-alsissi-2174482"
+            "title": "Cannes 2026: com Léa Drucker nem tudo é tempo perdido",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/culturaipsilon/noticia/cannes-2026-lea-drucker-tempo-perdido-2174522"
         },
         {
-            "title": "Parlamento aprova audição da ministra da Cultura sobre modelo de apoio às artes ",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/culturaipsilon/noticia/parlamento-aprova-audicao-ministra-cultura-modelo-apoio-artes-2174551"
+            "title": "Governo aprova esta quinta-feira proposta de revisão da legislação laboral",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/politica/noticia/governo-aprova-quintafeira-proposta-revisao-legislacao-laboral-2174601"
         },
         {
-            "title": "Rádios Oxigénio e Radar sem emissão no FM devido a puxadas ilegais em Almada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/local/noticia/radios-oxigenio-radar-emissao-fm-devido-puxadas-ilegais-almada-2174546"
+            "title": "Intermediários de crédito não param de subir. Já são 6000 e há milhares de novos pedidos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/economia/noticia/intermediarios-credito-nao-param-subir-ja-sao-seis-mil-oito-mil-pedidos-2174549"
         },
         {
-            "title": "Aguiar-Branco pede ao PSD, Chega e PS que apresentem candidatos ao Tribunal Constitucional até terça-feira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/politica/noticia/aguiarbranco-pede-psd-chega-ps-apresentem-candidatos-tribunal-constitucional-ate-tercafeira-2174537"
+            "title": "Doze eventos vínicos a não perder até ao fim de Maio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/terroir/noticia/doze-eventos-vinicos-nao-perder-ate-fim-maio-2174325"
         },
         {
-            "title": "A cicatriz interior em <em>A Dança das Raposas</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/culturaipsilon/critica/cicatriz-interior-danca-raposas-2174476"
+            "title": "Robôs humanóides são nova aposta da China para gerir o trânsito",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/enter/noticia/robos-humanoides-sao-nova-aposta-china-gerir-transito-2174529"
         }
     ],
     "finance": [],
-    "last_update": "13/05/2026 14:04"
+    "last_update": "13/05/2026 17:07"
 }
