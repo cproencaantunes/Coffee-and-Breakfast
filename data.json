@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 15.2,
-        "manha": 15.4,
-        "tarde": 19.9,
-        "noite": 16.9
+        "manha": 15.3,
+        "tarde": 19.6,
+        "noite": 16.7
     },
     "forecast": {
-        "max": 21.1,
-        "min": 13.7
+        "max": 20.8,
+        "min": 13.5
     },
     "news": [
         {
-            "title": "Dois partidos, a mesma lógica",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/opiniao/opiniao/dois-partidos-logica-2174384"
+            "title": "Jovens médicos recebem 75 mil euros para investigar ciências fundamentais em saúde",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/ciencia/noticia/jovens-medicos-recebem-75-mil-euros-investigar-ciencias-fundamentais-saude-2174462"
         },
         {
-            "title": "Todos defendem o SNS. É aí que começa o problema",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/opiniao/opiniao/defendem-sns-ai-comeca-problema-2174388"
+            "title": "Não podendo ser Presidente, João Lourenço quer influenciar o próximo desde a liderança do MPLA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/mundo/noticia/nao-presidente-joao-lourenco-quer-influenciar-proximo-desde-lideranca-mpla-2174488"
         },
         {
-            "title": "Imperdoável",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/opiniao/opiniao/imperdoavel-2174231"
+            "title": "Pacote fiscal para a habitação vai aumentar ou baixar os preços das casas?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/economia/noticia/pacote-fiscal-habitacao-vai-aumentar-baixar-precos-casas-2174433"
         },
         {
-            "title": "Antes que o futuro nos sufoque…",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/opiniao/opiniao/futuro-sufoque-2173122"
+            "title": "Em dez anos, o número de alunos com necessidades específicas aumentou 29%. São quase 100 mil nas escolas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/sociedade/noticia/dez-anos-numero-alunos-necessidades-especificas-aumentou-29-sao-quase-100-mil-escolas-2173144"
         },
         {
-            "title": "Energia e pegada de carbono: as riquezas escondidas do interior",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/opiniao/opiniao/energia-pegada-carbono-riquezas-escondidas-interior-2174289"
+            "title": "Ausência de pesos pesados do CDS esvazia congresso do partido",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/13/politica/noticia/ausencia-pesos-pesados-cds-esvazia-congresso-partido-2174427"
         }
     ],
     "finance": [],
-    "last_update": "13/05/2026 02:03"
+    "last_update": "13/05/2026 06:16"
 }
