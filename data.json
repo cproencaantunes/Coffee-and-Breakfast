@@ -2,35 +2,35 @@
     "weather": {
         "atual": 15.3,
         "manha": 15.7,
-        "tarde": 20.4,
-        "noite": 15.2
+        "tarde": 19.8,
+        "noite": 15.1
     },
     "forecast": {
-        "max": 19.5,
-        "min": 13.8
+        "max": 19.4,
+        "min": 14.0
     },
     "news": [
         {
-            "title": "Deixar a ciência para trás para fugir à precariedade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/ciencia/noticia/deixar-ciencia-tras-fugir-precariedade-2174663"
+            "title": "A indústria alimentar está a agir como as tabaqueiras",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/newsletter/azul"
         },
         {
-            "title": "Investigação criminal da PSP da Grande Lisboa passa a responder a estrutura única",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/sociedade/noticia/investigacao-criminal-psp-lisboa-passa-responder-estrutura-unica-2174735"
+            "title": "Trump e Xi tentam evitar a “armadilha de Tucídides” no estreito de Taiwan",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/mundo/noticia/trump-xi-tentam-evitar-armadilha-tucidides-estreito-taiwan-2174757"
         },
         {
-            "title": "Reabilitação da ponte de Vila Franca de Xira deve iniciar-se em Junho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/local/noticia/reabilitacao-ponte-vila-franca-xira-iniciarse-junho-2174745"
+            "title": "Chega e PS exigem respostas do Governo sobre fuga de arguido do tribunal de Ponte de Sor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/sociedade/noticia/chega-ps-exigem-respostas-governo-fuga-arguido-tribunal-ponte-sor-2174764"
         },
         {
-            "title": "Armada portuguesa reforçada para Roland-Garros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/desporto/noticia/armada-portuguesa-reforcada-rolandgarros-2174742"
+            "title": "Ordem recebe denúncia anónima sobre enfermeiro director da ULS Alentejo Central",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/sociedade/noticia/ordem-recebe-denuncia-anonima-enfermeiro-director-uls-alentejo-central-2174763"
         },
         {
-            "title": "Ainda vale a pena tirar um curso superior?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/newsletter/educacao"
+            "title": "Em apenas dois dias, a Rússia atacou a Ucrânia com mais de 1500 <em>drones</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/mundo/noticia/apenas-dois-dias-russia-atacou-ucrania-1500-drones-2174762"
         }
     ],
     "finance": [],
-    "last_update": "14/05/2026 16:04"
+    "last_update": "14/05/2026 18:27"
 }
