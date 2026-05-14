@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 15.3,
-        "manha": 15.8,
-        "tarde": 20.5,
+        "manha": 15.7,
+        "tarde": 20.4,
         "noite": 15.1
     },
     "forecast": {
-        "max": 19.4,
-        "min": 14.0
+        "max": 19.5,
+        "min": 13.9
     },
     "news": [
         {
-            "title": "Espanha é o melhor país para pessoas LGBTI+. Portugal volta a cair: é o 12.º",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/p3/noticia/espanha-melhor-pais-pessoas-lgbti-portugal-volta-cair-12-2174616"
+            "title": "Solverde garantiu casino de Espinho em linha com o preço pedido pelo Estado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/economia/noticia/solverde-garantiu-casino-espinho-linha-preco-pedido-estado-2174685"
         },
         {
-            "title": "Um vírus muito mediático",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/ciencia/opiniao/virus-mediatico-2174637"
+            "title": "Portugal Fashion avança com evento no Porto, mesmo sem fundos europeus",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/impar/noticia/portugal-fashion-avanca-evento-porto-fundos-europeus-2174670"
         },
         {
-            "title": "Câmara de Lisboa garante não ter ficado nada por pagar em projectos de luxo polémicos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/local/noticia/camara-lisboa-garante-nao-ficado-nada-pagar-projectos-luxo-polemicos-2174625"
+            "title": "Piloto carioca Roberto Faria corre na estreia da temporada da Supercars no Algarve",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/publico-brasil/noticia/piloto-carioca-roberto-faria-corre-estreia-temporada-supercars-algarve-2174672"
         },
         {
-            "title": "Cristiano Ronaldo volta a expandir-se como empresário e investe em distribuidora de jogos no YouTube",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/economia/noticia/cristiano-ronaldo-volta-expandirse-empresario-investe-distribuidora-jogos-youtube-2174655"
+            "title": "Cuba anuncia esgotamento das reservas de combustível e pede ajuda",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/mundo/noticia/cuba-anuncia-esgotamento-reservas-combustivel-pede-ajuda-2174677"
         },
         {
-            "title": "Seixal inaugura hotel na antiga fábrica Mundet com 102 apartamentos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/fugas/noticia/seixal-inaugura-hotel-antiga-fabrica-mundet-102-apartamentos-2174624"
+            "title": "PSD defende revisão das leis da transparência, mas atira tema para a frente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/politica/noticia/psd-defende-revisao-leis-transparencia-atira-tema-frente-2174085"
         }
     ],
     "finance": [],
-    "last_update": "14/05/2026 09:25"
+    "last_update": "14/05/2026 11:43"
 }
