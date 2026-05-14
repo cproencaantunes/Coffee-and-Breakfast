@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 15.3,
-        "manha": 16.1,
-        "tarde": 20.6,
-        "noite": 15.3
+        "manha": 15.8,
+        "tarde": 20.5,
+        "noite": 15.1
     },
     "forecast": {
-        "max": 19.8,
-        "min": 14.1
+        "max": 19.4,
+        "min": 14.0
     },
     "news": [
         {
-            "title": "Ministro da Administração Interna admite encerramento de esquadras da PSP em Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/sociedade/noticia/ministro-administracao-interna-admite-encerramento-esquadras-psp-lisboa-2174648"
+            "title": "Metadados e direito à defesa: arguidos condenados por Tancos recorrem para o Constitucional",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/sociedade/noticia/metadados-direito-defesa-arguidos-condenados-tancos-recorrem-constitucional-2174600"
         },
         {
-            "title": "Cavaco defende força militar europeia para reduzir dependência dos EUA de Trump",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/politica/noticia/cavaco-defende-forca-militar-europeia-reduzir-dependencia-eua-trump-2174647"
+            "title": "A colecção de arte de um alemão encontra um museu português, cinco anos depois",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/culturaipsilon/noticia/coleccao-arte-alemao-encontra-museu-portugues-cinco-anos-2174535"
         },
         {
-            "title": "Banco Master: financiamento de filme sobre Jair Bolsonaro abala candidatura presidencial de Flávio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/mundo/noticia/banco-master-financiamento-filme-jair-bolsonaro-abala-candidatura-presidencial-flavio-2174644"
+            "title": "Christian Duerckheim, o alemão que decidiu “dar mel às abelhas” de Serralves",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/culturaipsilon/noticia/christian-duerckheim-alemao-decidiu-dar-mel-abelhas-serralves-2174589"
         },
         {
-            "title": "Sindicatos: com arrojo ou de rojo?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/opiniao/opiniao/sindicatos-arrojo-rojo-2174545"
+            "title": "China e EUA entre a guerra comercial, as tréguas e os negócios",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/mundo/noticia/china-eua-guerra-comercial-treguas-negocios-2174477"
         },
         {
-            "title": "Mais polícias, menos eficiência? O que os dados nos dizem sobre Portugal e a lição austríaca",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/opiniao/opiniao/policias-menos-eficiencia-dados-portugal-licao-austriaca-2174569"
+            "title": "IL não desiste de revisão constitucional condenada ao fracasso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/politica/noticia/il-nao-desiste-revisao-constitucional-condenada-fracasso-2174524"
         }
     ],
     "finance": [],
-    "last_update": "14/05/2026 02:06"
+    "last_update": "14/05/2026 06:14"
 }
