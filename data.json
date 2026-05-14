@@ -3,34 +3,34 @@
         "atual": 15.3,
         "manha": 15.7,
         "tarde": 20.4,
-        "noite": 15.1
+        "noite": 15.2
     },
     "forecast": {
         "max": 19.5,
-        "min": 13.9
+        "min": 13.8
     },
     "news": [
         {
-            "title": "Solverde garantiu casino de Espinho em linha com o preço pedido pelo Estado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/economia/noticia/solverde-garantiu-casino-espinho-linha-preco-pedido-estado-2174685"
+            "title": "Festival de cinema de Locarno atribui prémio honorário a Isabella Rossellini",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/culturaipsilon/noticia/festival-cinema-locarno-atribui-premio-honorario-isabella-rossellini-2174682"
         },
         {
-            "title": "Portugal Fashion avança com evento no Porto, mesmo sem fundos europeus",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/impar/noticia/portugal-fashion-avanca-evento-porto-fundos-europeus-2174670"
+            "title": "Faial estreia primeiro hotel de cinco estrelas no antigo Liceu da Horta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/fugas/noticia/faial-estreia-hotel-cinco-estrelas-antigo-liceu-horta-2174539"
         },
         {
-            "title": "Piloto carioca Roberto Faria corre na estreia da temporada da Supercars no Algarve",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/publico-brasil/noticia/piloto-carioca-roberto-faria-corre-estreia-temporada-supercars-algarve-2174672"
+            "title": "Carneiro: acordo na lei laboral é difícil se Governo insistir “na desumanidade”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/politica/noticia/carneiro-acordo-lei-laboral-dificil-governo-insistir-desumanidade-2174709"
         },
         {
-            "title": "Cuba anuncia esgotamento das reservas de combustível e pede ajuda",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/mundo/noticia/cuba-anuncia-esgotamento-reservas-combustivel-pede-ajuda-2174677"
+            "title": "Autarquia de Sintra aprova adesão à co-gestão do parque natural",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/local/noticia/autarquia-sintra-aprova-adesao-cogestao-parque-natural-2174708"
         },
         {
-            "title": "PSD defende revisão das leis da transparência, mas atira tema para a frente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/politica/noticia/psd-defende-revisao-leis-transparencia-atira-tema-frente-2174085"
+            "title": "Greve no INEM: resposta do Governo não esclareceu, IL faz novo pedido sobre pegada digital do <em>email</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/14/sociedade/noticia/greve-inem-resposta-governo-nao-esclareceu-il-faz-novo-pedido-pegada-digital-email-2174396"
         }
     ],
     "finance": [],
-    "last_update": "14/05/2026 11:43"
+    "last_update": "14/05/2026 13:28"
 }
