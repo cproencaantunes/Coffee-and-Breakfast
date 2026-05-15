@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.7,
         "manha": 15.6,
-        "tarde": 19.3,
-        "noite": 15.6
+        "tarde": 19.9,
+        "noite": 15.9
     },
     "forecast": {
-        "max": 20.6,
-        "min": 13.6
+        "max": 20.7,
+        "min": 13.7
     },
     "news": [
         {
-            "title": "CIA confirma reunião do director com autoridades cubanas em Havana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/mundo/noticia/cia-confirma-reuniao-director-autoridades-cubanas-havana-2174817"
+            "title": "Mouchão Tonel Nº 3-4, um colosso do Alentejo está de volta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/terroir/noticia/mouchao-tonel-n-34-colosso-alentejo-volta-2174687"
         },
         {
-            "title": "Remuneração mensal média por trabalhador sobe 2,7% em termos reais até Março",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/economia/noticia/remuneracao-mensal-media-trabalhador-sobe-27-termos-reais-ate-marco-2174827"
+            "title": "No Norte da Ucrânia, era uma vez um rapaz contra um <em>drone</em> russo — o rapaz venceu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/mundo/noticia/norte-ucrania-rapaz-drone-russo-rapaz-venceu-2174843"
         },
         {
-            "title": "&#129324; A Disney não está para brincadeiras",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/newsletter/proximo_episodio"
+            "title": "Da curta feita na escola de cinema à adaptação de Coetzee, estes são portugueses em Cannes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/culturaipsilon/podcast/curta-escola-cinema-adaptacao-coetzee-sao-portugueses-cannes-2174664"
         },
         {
-            "title": "PJ detém professor suspeito de abusar sexualmente de aluna menor",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/sociedade/noticia/pj-detem-professor-suspeito-abusar-sexualmente-aluna-menor-2174828"
+            "title": "Almada cria bolsas de estacionamento e transporte “vaivém” para a praia da Fonte da Telha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/local/noticia/almada-cria-bolsas-estacionamento-transporte-vaivem-praia-fonte-telha-2174846"
         },
         {
-            "title": "“Humilhação à escala planetária”: PS chama Rangel à AR após declaração de Marco Rubio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/politica/noticia/humilhacao-escala-planetaria-ps-chama-rangel-ar-apos-declaracao-marco-rubio-2174824"
+            "title": "Brasil agora é parte de uma das confrarias gastronômicas mais antigas do mundo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/publico-brasil/noticia/brasil-parte-confrarias-gastronomicas-antigas-mundo-2174603"
         }
     ],
     "finance": [],
-    "last_update": "15/05/2026 11:46"
+    "last_update": "15/05/2026 13:27"
 }
