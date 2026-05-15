@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.7,
         "manha": 15.6,
-        "tarde": 19.9,
-        "noite": 15.9
+        "tarde": 19.6,
+        "noite": 15.8
     },
     "forecast": {
         "max": 20.7,
-        "min": 13.7
+        "min": 13.8
     },
     "news": [
         {
-            "title": "Mouchão Tonel Nº 3-4, um colosso do Alentejo está de volta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/terroir/noticia/mouchao-tonel-n-34-colosso-alentejo-volta-2174687"
+            "title": "Volkswagen ID.Polo é um género de regresso ao futuro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/enter/noticia/volkswagen-idpolo-genero-regresso-futuro-2174885"
         },
         {
-            "title": "No Norte da Ucrânia, era uma vez um rapaz contra um <em>drone</em> russo — o rapaz venceu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/mundo/noticia/norte-ucrania-rapaz-drone-russo-rapaz-venceu-2174843"
+            "title": "Vingegaard conquista Blockhaus e Eulálio continua de rosa no Giro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/desporto/noticia/vingegaard-conquista-blockhaus-eulalio-continua-rosa-giro-2174865"
         },
         {
-            "title": "Da curta feita na escola de cinema à adaptação de Coetzee, estes são portugueses em Cannes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/culturaipsilon/podcast/curta-escola-cinema-adaptacao-coetzee-sao-portugueses-cannes-2174664"
+            "title": "Parceria improvável junta Kanye West e empresa israelita para um concerto na Geórgia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/culturaipsilon/noticia/parceria-improvavel-junta-kanye-west-empresa-israelita-concerto-georgia-2174850"
         },
         {
-            "title": "Almada cria bolsas de estacionamento e transporte “vaivém” para a praia da Fonte da Telha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/local/noticia/almada-cria-bolsas-estacionamento-transporte-vaivem-praia-fonte-telha-2174846"
+            "title": "Fenprof convoca manifestação. Por que saem os professores à rua neste sábado?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/sociedade/noticia/fenprof-convoca-manifestacao-saem-professores-rua-neste-sabado-2174849"
         },
         {
-            "title": "Brasil agora é parte de uma das confrarias gastronômicas mais antigas do mundo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/publico-brasil/noticia/brasil-parte-confrarias-gastronomicas-antigas-mundo-2174603"
+            "title": "Publicidade a PPR ou “certos depósitos” deixa de ter aprovação prévia dos reguladores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/economia/noticia/publicidade-ppr-certos-depositos-deixa-aprovacao-previa-reguladores-2174864"
         }
     ],
     "finance": [],
-    "last_update": "15/05/2026 13:27"
+    "last_update": "15/05/2026 15:55"
 }
