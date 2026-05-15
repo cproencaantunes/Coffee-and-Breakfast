@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.7,
-        "manha": 15.7,
-        "tarde": 18.9,
-        "noite": 15.6
+        "manha": 15.5,
+        "tarde": 19.2,
+        "noite": 15.4
     },
     "forecast": {
-        "max": 20.6,
-        "min": 13.6
+        "max": 20.5,
+        "min": 13.7
     },
     "news": [
         {
-            "title": "No domingo, hasteemos a bandeira do orgulho!",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/opiniao/opiniao/domingo-hasteemos-bandeira-orgulho-2174755"
+            "title": "Faltam avisos obrigatórios de falta de eficácia nas embalagens dos homeopáticos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/ciencia/noticia/faltam-avisos-obrigatorios-falta-eficacia-embalagens-homeopaticos-2174606"
         },
         {
-            "title": "Deixará o PS que seja o Chega a defender os trabalhadores?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/opiniao/opiniao/deixara-ps-chega-defender-trabalhadores-2174770"
+            "title": "Sente que todos gritam e nada acontece? Bem-vindo à era da hiperpolítica",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/culturaipsilon/entrevista/sente-gritam-nada-acontece-bemvindo-hiperpolitica-2173607"
         },
         {
-            "title": "Desporto, ciência e bom senso (COI e o regresso à realidade)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/opiniao/opiniao/desporto-ciencia-bom-senso-coi-regresso-realidade-2174597"
+            "title": "A alma de Israel ainda é recuperável para lá da cobertura mediática?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/mundo/cronica/alma-israel-recuperavel-cobertura-mediatica-2174765"
         },
         {
-            "title": "Bernardo Silva recusou voltar já ao Benfica: “Houve contactos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/desporto/noticia/bernardo-silva-recusou-voltar-ja-benfica-2174793"
+            "title": "Governo volta atrás e leva ao Parlamento as suas linhas vermelhas da reforma laboral",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/economia/noticia/governo-volta-atras-leva-parlamento-linhas-vermelhas-reforma-laboral-2174794"
         },
         {
-            "title": "As listas de espera invisíveis da cardiologia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/opiniao/opiniao/listas-espera-invisiveis-cardiologia-2174675"
+            "title": "Depois da orgia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/culturaipsilon/opiniao/orgia-2174437"
         }
     ],
     "finance": [],
-    "last_update": "15/05/2026 02:44"
+    "last_update": "15/05/2026 06:22"
 }
