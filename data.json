@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.7,
-        "manha": 15.5,
-        "tarde": 19.2,
-        "noite": 15.4
+        "manha": 15.6,
+        "tarde": 19.3,
+        "noite": 15.6
     },
     "forecast": {
-        "max": 20.5,
-        "min": 13.7
+        "max": 20.6,
+        "min": 13.6
     },
     "news": [
         {
-            "title": "José Mourinho já não sabe se será dirá não ao Benfica",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/desporto/noticia/jose-mourinho-ja-nao-sabe-sera-dira-nao-benfica-2174811"
+            "title": "CIA confirma reunião do director com autoridades cubanas em Havana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/mundo/noticia/cia-confirma-reuniao-director-autoridades-cubanas-havana-2174817"
         },
         {
-            "title": "E se parassem de chatear o Camões?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/culturaipsilon/cronica/parassem-chatear-camoes-2174245"
+            "title": "Remuneração mensal média por trabalhador sobe 2,7% em termos reais até Março",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/economia/noticia/remuneracao-mensal-media-trabalhador-sobe-27-termos-reais-ate-marco-2174827"
         },
         {
-            "title": "Brasil tem mais de 1 milhão de eleitores no exterior e Lisboa lidera com quase 69 mil",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/publico-brasil/noticia/brasil-1-milhao-eleitores-exterior-lisboa-lidera-quase-69-mil-2174808"
+            "title": "&#129324; A Disney não está para brincadeiras",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/newsletter/proximo_episodio"
         },
         {
-            "title": "A Google quer transformar o nosso telemóvel num assistente pessoal que “pensa” por nós",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/enter/noticia/google-quer-transformar-telemovel-assistente-pessoal-pensa-2174739"
+            "title": "PJ detém professor suspeito de abusar sexualmente de aluna menor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/sociedade/noticia/pj-detem-professor-suspeito-abusar-sexualmente-aluna-menor-2174828"
         },
         {
-            "title": "Trump deixa China depois de conversas “muito bem-sucedidas” com Xi",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/mundo/noticia/trump-deixa-china-conversas-bemsucedidas-xi-2174806"
+            "title": "“Humilhação à escala planetária”: PS chama Rangel à AR após declaração de Marco Rubio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/politica/noticia/humilhacao-escala-planetaria-ps-chama-rangel-ar-apos-declaracao-marco-rubio-2174824"
         }
     ],
     "finance": [],
-    "last_update": "15/05/2026 09:37"
+    "last_update": "15/05/2026 11:46"
 }
