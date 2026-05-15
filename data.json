@@ -3,13 +3,21 @@
         "atual": 14.7,
         "manha": 15.6,
         "tarde": 19.6,
-        "noite": 16.0
+        "noite": 16.2
     },
     "forecast": {
         "max": 20.8,
         "min": 14.0
     },
     "news": [
+        {
+            "title": "EUA preparam-se para acusar criminalmente o ex-presidente de Cuba, Raúl Castro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/mundo/noticia/eua-preparamse-acusar-criminalmente-expresidente-cuba-raul-castro-2174930"
+        },
+        {
+            "title": "Quatro detidos em lancha com 6,5 toneladas de combustível em acção contra narcotráfico no Tejo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/sociedade/noticia/quatro-detidos-lancha-65-toneladas-combustivel-accao-narcotrafico-tejo-2174928"
+        },
         {
             "title": "Empresas tecnológicas e de videojogos apontam falhas à lei que quer limitar acesso às redes sociais",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/sociedade/noticia/empresas-tecnologicas-videojogos-apontam-falhas-lei-quer-limitar-acesso-redes-sociais-2174917"
@@ -21,16 +29,8 @@
         {
             "title": "Escavações no Tarrafal querem demonstrar que castigo da “frigideira” não era “mito”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/culturaipsilon/noticia/escavacoes-tarrafal-querem-demonstrar-castigo-frigideira-nao-mito-2174905"
-        },
-        {
-            "title": "Morreu João Abel Manta, que desenhou os contornos da liberdade em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/culturaipsilon/noticia/morreu-joao-abel-manta-desenhou-contornos-liberdade-portugal-2174923"
-        },
-        {
-            "title": "Pela última vez, parece ter vindo Alain Cavalier dizer ao Festival de Cannes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/15/culturaipsilon/noticia/ultima-parece-alain-cavalier-dizer-festival-cannes-2174873"
         }
     ],
     "finance": [],
-    "last_update": "15/05/2026 21:47"
+    "last_update": "15/05/2026 22:46"
 }
