@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.6,
-        "manha": 15.9,
-        "tarde": 20.9,
+        "manha": 15.7,
+        "tarde": 20.6,
         "noite": 15.7
     },
     "forecast": {
         "max": 20.1,
-        "min": 14.1
+        "min": 14.2
     },
     "news": [
         {
-            "title": "CDS reúne-se em Alcobaça entre “o risco de diluição” e a necessidade de “dar provas de vida” nas urnas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/politica/noticia/cds-reunese-alcobaca-risco-diluicao-necessidade-dar-provas-vida-urnas-2174879"
+            "title": "Infelizmente para Pizzi, o futebol ainda não é andebol",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/desporto/noticia/infelizmente-pizzi-futebol-nao-andebol-2174566"
         },
         {
-            "title": "O poder – 2",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/opiniao/opiniao/poder-2-2174913"
+            "title": "O Cairo silencioso. O Cairo caótico. E vice-versa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/fugas/reportagem/cairo-silencioso-cairo-caotico-viceversa-2172454"
         },
         {
-            "title": "Menos de 5% dos contratados por grandes empresas têm acima de 50 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/economia/noticia/menos-5-contratados-empresas-acima-50-anos-2174713"
+            "title": "Loris Karius foi para o Schalke e ajudaram-se um ao outro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/desporto/noticia/loris-karius-schalke-ajudaramse-2174895"
         },
         {
-            "title": "Mercado de TVDE sobe 36% e chega aos 800 milhões de euros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/economia/noticia/mercado-tvde-sobe-36-chega-800-milhoes-euros-2174729"
+            "title": "Trump diz que EUA mataram o segundo-comandante do Estado Islâmico em operação com a Nigéria",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/mundo/noticia/trump-eua-mataram-segundocomandante-estado-islamico-operacao-nigeria-2174937"
         },
         {
-            "title": "Turistas a mais? Dez anos após o <em>boom</em>, ainda não sabemos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/opiniao/opiniao/turistas-dez-anos-apos-boom-nao-sabemos-2174889"
+            "title": "Transplante de coração: “Senti-me estranhamente bem, é como se fosse meu desde sempre”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/sociedade/reportagem/transplante-coracao-sentime-estranhamente-bem-desde-2174481"
         }
     ],
     "finance": [],
-    "last_update": "16/05/2026 05:22"
+    "last_update": "16/05/2026 07:48"
 }
