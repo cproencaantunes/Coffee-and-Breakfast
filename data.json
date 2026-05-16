@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.6,
         "manha": 15.5,
-        "tarde": 20.7,
-        "noite": 15.3
+        "tarde": 20.4,
+        "noite": 15.1
     },
     "forecast": {
-        "max": 20.4,
+        "max": 20.0,
         "min": 14.1
     },
     "news": [
         {
-            "title": "Professores que testaram novas aprendizagens essenciais dizem que pouco muda no dia-a-dia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/sociedade/noticia/professores-testaram-novas-aprendizagens-essenciais-muda-diaadia-2174944"
+            "title": "PJ detém menores suspeitos de sequestro e roubo em Lisboa e Seixal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/sociedade/noticia/pj-detem-menores-suspeitos-sequestro-roubo-lisboa-seixal-2174987"
         },
         {
-            "title": "Guiné-Bissau: HRF pede a libertação imediata do “refém político” Domingos Simões Pereira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/mundo/noticia/guinebissau-hrf-pede-libertacao-imediata-refem-politico-domingos-simoes-pereira-2174983"
+            "title": "FC Porto vence Santa Clara no jogo de consagração",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/desporto/cronica_de_jogo/fc-porto-vence-santa-clara-jogo-consagracao-2174979"
         },
         {
-            "title": "Companhia brasileira volta a Portugal com espetáculo que mistura teatro e circo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/publico-brasil/noticia/companhia-brasileira-volta-portugal-espetaculo-mistura-teatro-circo-2174858"
+            "title": "Manchester City bate Chelsea e volta a erguer a Taça de Inglaterra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/desporto/noticia/manchester-city-bate-chelsea-volta-erguer-taca-inglaterra-2174972"
         },
         {
-            "title": "Canoagem: Messias Baptista conquista bronze no K1 200m em Brandemburgo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/desporto/noticia/canoagem-messias-baptista-conquista-bronze-k1-200m-brandemburgo-2174976"
+            "title": "Governo reduz desconto no ISP para o gasóleo e sobe na gasolina",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/economia/noticia/governo-reduz-desconto-isp-gasoleo-sobe-gasolina-2174980"
         },
         {
-            "title": "Celtic acaba com sonho do Hearts e chega ao “penta” na Escócia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/desporto/noticia/celtic-acaba-sonho-hearts-chega-penta-escocia-2174973"
+            "title": "Narváez vence 8.ª etapa e Eulálio mantém liderança da Volta a Itália",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/desporto/noticia/narvaez-vence-8-etapa-eulalio-mantem-lideranca-volta-italia-2174985"
         }
     ],
     "finance": [],
-    "last_update": "16/05/2026 15:47"
+    "last_update": "16/05/2026 16:43"
 }
