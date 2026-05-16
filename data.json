@@ -6,31 +6,31 @@
         "noite": 15.2
     },
     "forecast": {
-        "max": 20.4,
+        "max": 19.9,
         "min": 14.1
     },
     "news": [
         {
+            "title": "José Mourinho: “Há 99% de hipóteses de continuar no Benfica”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/desporto/noticia/jose-mourinho-ha-99-hipoteses-continuar-benfica-2175000"
+        },
+        {
+            "title": "Cannes 2026: olha o <em>robot</em>, o Javier Bardem e o James Gray",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/culturaipsilon/noticia/cannes-2026-olha-robot-javier-bardem-james-gray-2174970"
+        },
+        {
+            "title": "Pactos de regime sem final feliz: do “sucesso limitado” ao “modelo que não vingou”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/politica/noticia/pactos-regime-final-feliz-sucesso-limitado-modelo-nao-vingou-2174662"
+        },
+        {
             "title": "Sporting não autorizou intromissão do Gil na corrida pela Champions",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/desporto/noticia/sporting-nao-autorizou-intromissao-gil-corrida-champions-2174998"
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/desporto/cronica_de_jogo/sporting-nao-autorizou-intromissao-gil-corrida-champions-2174998"
         },
         {
             "title": "CDS diz não ter medo de ir a votos, mas Melo afasta debate sobre futuro da AD",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/politica/noticia/cds-nao-medo-ir-votos-melo-afasta-debate-futuro-ad-2174993"
-        },
-        {
-            "title": "O adeus português de João Abel Manta (1928-2026)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/culturaipsilon/noticia/adeus-portugues-joao-abel-manta-19282026-2174974"
-        },
-        {
-            "title": "Benfica sem culpa no adeus ao campeonato – e sem festa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/desporto/cronica_de_jogo/benfica-fecha-campeonato-culpa-festa-2174997"
-        },
-        {
-            "title": "Rio abaixo, Aliados acima: o FC Porto tomou conta do Porto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/desporto/noticia/rio-abaixo-aliados-acima-fc-porto-tomou-conta-porto-2174999"
         }
     ],
     "finance": [],
-    "last_update": "16/05/2026 21:38"
+    "last_update": "16/05/2026 22:35"
 }
