@@ -3,34 +3,34 @@
         "atual": 14.6,
         "manha": 15.5,
         "tarde": 20.4,
-        "noite": 15.1
+        "noite": 15.2
     },
     "forecast": {
-        "max": 20.0,
+        "max": 20.4,
         "min": 14.1
     },
     "news": [
         {
-            "title": "PJ detém menores suspeitos de sequestro e roubo em Lisboa e Seixal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/sociedade/noticia/pj-detem-menores-suspeitos-sequestro-roubo-lisboa-seixal-2174987"
+            "title": "Benfica volta a sagrar-se campeão de râguebi 25 anos depois",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/desporto/noticia/benfica-volta-sagrarse-campeao-raguebi-25-anos-2174994"
         },
         {
-            "title": "FC Porto vence Santa Clara no jogo de consagração",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/desporto/cronica_de_jogo/fc-porto-vence-santa-clara-jogo-consagracao-2174979"
+            "title": "Itália: homem conduz carro contra passeio e faz oito feridos, quatro em estado grave",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/mundo/noticia/italia-homem-conduz-carro-passeio-faz-oito-feridos-quatro-estado-grave-2174995"
         },
         {
-            "title": "Manchester City bate Chelsea e volta a erguer a Taça de Inglaterra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/desporto/noticia/manchester-city-bate-chelsea-volta-erguer-taca-inglaterra-2174972"
+            "title": "Académica junta-se a Amarante na subida à II Liga, Belenenses disputa <em>play-off</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/desporto/noticia/academica-juntase-amarante-subida-ii-liga-belenenses-disputa-playoff-2174991"
         },
         {
-            "title": "Governo reduz desconto no ISP para o gasóleo e sobe na gasolina",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/economia/noticia/governo-reduz-desconto-isp-gasoleo-sobe-gasolina-2174980"
+            "title": "Uma marcha contra a imigração e outra a favor da Palestina juntam milhares de pessoas em Londres",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/mundo/noticia/marcha-imigracao-favor-palestina-juntam-milhares-pessoas-londres-2174990"
         },
         {
-            "title": "Narváez vence 8.ª etapa e Eulálio mantém liderança da Volta a Itália",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/desporto/noticia/narvaez-vence-8-etapa-eulalio-mantem-lideranca-volta-italia-2174985"
+            "title": "Cada vez mais narcolanchas na costa portuguesa: PJ apreendeu mais de 200 em seis anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/16/sociedade/noticia/narcolanchas-costa-portuguesa-pj-apreendeu-200-seis-anos-2174962"
         }
     ],
     "finance": [],
-    "last_update": "16/05/2026 17:45"
+    "last_update": "16/05/2026 18:47"
 }
