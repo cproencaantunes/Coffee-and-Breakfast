@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.2,
         "manha": 16.0,
-        "tarde": 19.8,
-        "noite": 15.2
+        "tarde": 20.0,
+        "noite": 15.1
     },
     "forecast": {
-        "max": 20.1,
-        "min": 13.1
+        "max": 19.8,
+        "min": 13.3
     },
     "news": [
         {
-            "title": "Moção de Nuno Melo aprovada com 97,5%, Nuno Correia da Silva teve oito votos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/politica/noticia/mocao-nuno-melo-aprovada-975-nuno-correia-silva-oito-votos-2175008"
+            "title": "Alemanha: 27 mil pessoas retiradas de casa devido a bomba da Segunda Guerra Mundial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/mundo/noticia/alemanha-27-mil-pessoas-retiradas-casa-devido-bomba-segunda-guerra-mundial-2175014"
         },
         {
-            "title": "OMS declara surto de ébola da R.D. Congo uma emergência de saúde global",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/mundo/noticia/oms-declara-surto-ebola-rd-congo-emergencia-saude-global-2175007"
+            "title": "Estudantes marcharam em Lisboa a exigir “fim ao fóssil até 2030” e futuro sem guerras nem crise climática",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/azul/noticia/estudantes-marcharam-lisboa-exigir-fim-fossil-ate-2030-futuro-guerras-crise-climatica-2175013"
         },
         {
-            "title": "Palcos da semana: Marilyn e Imaginarius em tempos de resistência",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/culturaipsilon/noticia/palcos-semana-marilyn-imaginarius-tempos-resistencia-2174833"
+            "title": "Espanhol Xabi Alonso é o novo treinador do Chelsea",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/desporto/noticia/espanhol-xabi-alonso-novo-treinador-chelsea-2175012"
         },
         {
-            "title": "Um ano após as legislativas, há uma constante: ministra da Saúde é a menos popular",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/politica/noticia/ano-apos-legislativas-ha-constante-ministra-saude-menos-popular-2174382"
+            "title": "Dia da Internet: “Estar fora da rede equivale, para todos os efeitos, a não existir”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/enter/entrevista/dia-internet-estar-rede-equivale-efeitos-nao-existir-2175009"
         },
         {
-            "title": "Ricardo Quaresma: “O cigano tem de trabalhar. E oportunidades para o cigano trabalhar?”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/sociedade/prepublicacao/ricardo-quaresma-cigano-trabalhar-oportunidades-cigano-trabalhar-2173003"
+            "title": "Venezuela deporta para os EUA Alex Saab, aliado de Maduro acusado de corrupção",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/mundo/noticia/venezuela-deporta-eua-alex-saab-aliado-maduro-acusado-corrupcao-2175010"
         }
     ],
     "finance": [],
-    "last_update": "17/05/2026 08:08"
+    "last_update": "17/05/2026 10:17"
 }
