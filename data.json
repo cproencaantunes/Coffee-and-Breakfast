@@ -1,9 +1,9 @@
 {
     "weather": {
         "atual": 14.2,
-        "manha": 16.2,
-        "tarde": 19.9,
-        "noite": 15.0
+        "manha": 16.0,
+        "tarde": 19.8,
+        "noite": 15.2
     },
     "forecast": {
         "max": 20.1,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Telmo Baptista: “Não vale estar presente, mas a olhar para o telemóvel”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/sociedade/entrevista/telmo-baptista-nao-vale-estar-presente-olhar-telemovel-2174635"
+            "title": "Moção de Nuno Melo aprovada com 97,5%, Nuno Correia da Silva teve oito votos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/politica/noticia/mocao-nuno-melo-aprovada-975-nuno-correia-silva-oito-votos-2175008"
         },
         {
-            "title": "Na minha rua",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/opiniao/opiniao/rua-2174773"
+            "title": "OMS declara surto de ébola da R.D. Congo uma emergência de saúde global",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/mundo/noticia/oms-declara-surto-ebola-rd-congo-emergencia-saude-global-2175007"
         },
         {
-            "title": "Coimas por violação de dados pessoais ficam por aplicar por falta de funcionários",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/sociedade/noticia/coimas-violacao-dados-pessoais-ficam-aplicar-falta-funcionarios-2174617"
+            "title": "Palcos da semana: Marilyn e Imaginarius em tempos de resistência",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/culturaipsilon/noticia/palcos-semana-marilyn-imaginarius-tempos-resistencia-2174833"
         },
         {
-            "title": "<em>Operação Panicle</em>: arrasar Portugal para travar os alemães",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/politica/noticia/operacao-panicle-arrasar-portugal-travar-alemaes-2174423"
+            "title": "Um ano após as legislativas, há uma constante: ministra da Saúde é a menos popular",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/politica/noticia/ano-apos-legislativas-ha-constante-ministra-saude-menos-popular-2174382"
         },
         {
-            "title": "Floresta, incêndios e inundações: um desígnio nacional",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/azul/opiniao/floresta-incendios-inundacoes-designio-nacional-2174749"
+            "title": "Ricardo Quaresma: “O cigano tem de trabalhar. E oportunidades para o cigano trabalhar?”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/sociedade/prepublicacao/ricardo-quaresma-cigano-trabalhar-oportunidades-cigano-trabalhar-2173003"
         }
     ],
     "finance": [],
-    "last_update": "17/05/2026 05:50"
+    "last_update": "17/05/2026 08:08"
 }
