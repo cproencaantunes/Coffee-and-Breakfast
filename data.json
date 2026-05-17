@@ -3,13 +3,25 @@
         "atual": 14.2,
         "manha": 16.0,
         "tarde": 20.0,
-        "noite": 15.1
+        "noite": 15.0
     },
     "forecast": {
-        "max": 19.8,
-        "min": 13.3
+        "max": 19.5,
+        "min": 13.0
     },
     "news": [
+        {
+            "title": "Aerogare civil das Lajes com reservas de combustível para garantir operação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/sociedade/noticia/aerogare-civil-lajes-reservas-combustivel-garantir-operacao-2175033"
+        },
+        {
+            "title": "O <em>work-life balance</em> não funciona para mim",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/p3/cronica/worklife-balance-nao-funciona-mim-2175025"
+        },
+        {
+            "title": "Tchau, Portugal: brasileiros contam por que estão retornando ao Brasil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/publico-brasil/noticia/tchau-portugal-brasileiros-contam-estao-retornando-brasil-2174886"
+        },
         {
             "title": "Luís Montenegro entrega terceira moção à liderança do PSD sem eleições à vista",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/politica/noticia/luis-montenegro-entrega-terceira-mocao-lideranca-psd-eleicoes-vista-2175023"
@@ -17,20 +29,8 @@
         {
             "title": "Nuno Melo afirma que CDS está “mobilizado” e irá “ganhar músculo”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/politica/noticia/nuno-melo-afirma-cds-mobilizado-ira-ganhar-musculo-2175022"
-        },
-        {
-            "title": "Tens livros esquecidos na prateleira? Neste site podes fazer <em>match </em>com quem os queira (e que tenha os que tu queres)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/p3/noticia/tens-livros-esquecidos-prateleira-neste-site-podes-match-queira-queres-2174882"
-        },
-        {
-            "title": "Exorcismos, agressões e culpa: o trauma das terapias de conversão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/sociedade/reportagem/exorcismos-agressoes-culpa-trauma-terapias-conversao-2175018"
-        },
-        {
-            "title": "Um Elo entre diferentes para abraçar a adolescência e cultivar empatia: “As bolhas rebentaram”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/17/local/reportagem/elo-diferentes-abracar-adolescencia-cultivar-empatia-bolhas-rebentaram-2174007"
         }
     ],
     "finance": [],
-    "last_update": "17/05/2026 11:53"
+    "last_update": "17/05/2026 12:54"
 }
