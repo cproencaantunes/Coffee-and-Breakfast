@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.3,
-        "manha": 15.1,
-        "tarde": 20.0,
-        "noite": 15.8
+        "atual": 14.8,
+        "manha": 16.7,
+        "tarde": 22.7,
+        "noite": 18.4
     },
     "forecast": {
-        "max": 23.5,
-        "min": 14.0
+        "max": 29.3,
+        "min": 15.6
     },
     "news": [
         {
-            "title": "Votação na Eurovisão levam à saída do director da Rádio e Televisão da Moldova",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/culturaipsilon/noticia/votacao-eurovisao-levam-saida-director-radio-televisao-moldova-2175206"
+            "title": "Afinal, em que se podem entender PSD e PS?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/opiniao/opiniao/afinal-podem-entender-psd-ps-2175034"
         },
         {
-            "title": "Surto de Ébola na R.D. Congo já terá provocado 105 mortos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/mundo/noticia/surto-ebola-rd-congo-ja-tera-provocado-105-mortos-2175198"
+            "title": "Trump não fez um “negócio da China”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/opiniao/opiniao/trump-nao-fez-negocio-china-2175117"
         },
         {
-            "title": "Contra forças de bloqueio, Montenegro sonha com maioria absoluta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/politica/noticia/clamor-politico-reformas-montenegro-sonha-maioria-absoluta-2175205"
+            "title": "Saúde para todos, ou apenas palavras?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/opiniao/opiniao/saude-apenas-palavras-2174285"
         },
         {
-            "title": "Middlesbrough-Southampton: o caso do estagiário-espião e uma decisão que vale milhões",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/desporto/noticia/middlesbroughsouthampton-caso-estagiarioespiao-decisao-vale-milhoes-2175157"
+            "title": "Professores ou recursos humanos? O ReCAP e a managerialização da profissão docente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/opiniao/opiniao/professores-recursos-humanos-recap-managerializacao-profissao-docente-2175032"
         },
         {
-            "title": "Veja os 26 convocados para defender a Seleção Brasileira na Copa do Mundo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/publico-brasil/noticia/veja-26-convocados-defender-selecao-brasileira-copa-mundo-2175203"
+            "title": "Por uma sociedade cuidadora",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/opiniao/opiniao/sociedade-cuidadora-2175028"
         }
     ],
     "finance": [],
-    "last_update": "18/05/2026 22:47"
+    "last_update": "18/05/2026 23:55"
 }
