@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.3,
-        "manha": 15.2,
-        "tarde": 19.6,
-        "noite": 15.9
+        "manha": 15.3,
+        "tarde": 19.8,
+        "noite": 16.0
     },
     "forecast": {
-        "max": 23.0,
-        "min": 13.7
+        "max": 22.5,
+        "min": 14.2
     },
     "news": [
         {
-            "title": "A clínica do género humano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/opiniao/opiniao/clinica-genero-humano-2174255"
+            "title": "Chico Santos, um histórico com o coração dividido entre Viseu e Portimão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/desporto/noticia/chico-santos-historico-coracao-dividido-viseu-portimao-2174954"
         },
         {
-            "title": "PRR: menos projetos, mais atrasos e risco de perda de fundos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/opiniao/opiniao/prr-menos-projetos-atrasos-risco-perda-fundos-2174697"
+            "title": "Ac. Viseu “renasce” das cinzas para ocupar lugar no centro das elites",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/desporto/noticia/ac-viseu-renasce-cinzas-ocupar-lugar-centro-elites-2174952"
         },
         {
-            "title": "As reformas desestruturantes do Governo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/opiniao/opiniao/reformas-desestruturantes-governo-2174558"
+            "title": "Apesar do aumento de preços, valores do apoio alimentar aos mais carenciados sem actualização",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/sociedade/noticia/apesar-aumento-precos-valores-apoio-alimentar-carenciados-actualizacao-2174852"
         },
         {
-            "title": "Pedro Passos Coelho, ou a vida dura de um professor convidado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/opiniao/opiniao/pedro-passos-coelho-vida-dura-professor-convidado-2175027"
+            "title": "Empreendedora brasileira leva arte do mundo para o Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/publico-brasil/noticia/empreendedora-brasileira-leva-arte-mundo-porto-2175011"
         },
         {
-            "title": "Dar confiança à democracia local",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/opiniao/opiniao/dar-confianca-democracia-local-2174674"
+            "title": "Richard Dawkins e a sua sereia, Cláudia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/ciencia/opiniao/richard-dawkins-sereia-claudia-2174393"
         }
     ],
     "finance": [],
-    "last_update": "18/05/2026 02:11"
+    "last_update": "18/05/2026 06:43"
 }
