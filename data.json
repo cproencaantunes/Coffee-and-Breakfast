@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.3,
         "manha": 15.1,
-        "tarde": 19.7,
-        "noite": 15.8
+        "tarde": 20.2,
+        "noite": 16.1
     },
     "forecast": {
         "max": 23.4,
-        "min": 14.0
+        "min": 14.1
     },
     "news": [
         {
-            "title": "Odair Moniz: Ministério Público pede condenação por homicídio e a expulsão do agente Bruno Pinto da PSP",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/sociedade/noticia/odair-moniz-procurador-mp-pede-condenacao-homicidio-expulsao-agente-bruno-pinto-psp-2175101"
+            "title": "Temperaturas máximas sobem na quarta-feira e vão ultrapassar os 30 graus em algumas regiões",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/azul/noticia/temperaturas-maximas-sobem-quartafeira-vao-ultrapassar-30-graus-regioes-2175138"
         },
         {
-            "title": "À descoberta dos mistérios na voz de Juana Aguirre",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/culturaipsilon/noticia/descoberta-misterios-voz-juana-aguirre-2174465"
+            "title": "Nobel da paz iraniana Mohammadi teve alta e vai recuperar em casa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/mundo/noticia/nobel-paz-iraniana-mohammadi-alta-vai-recuperar-casa-2175135"
         },
         {
-            "title": "Os arquitectos do Studios Architecture, Annabelle Selldorf e Base vão fazer renascer o Louvre",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/culturaipsilon/noticia/arquitectos-studios-architecture-annabelle-selldorf-base-vao-renascer-louvre-2175091"
+            "title": "Canal+ põe na lista negra profissionais de cinema que se manifestaram contra Vincent Bolloré",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/culturaipsilon/noticia/canal-poe-lista-negra-profissionais-cinema-manifestaram-vincent-bollore-2175103"
         },
         {
-            "title": "Os <em>bots </em>compram os bilhetes todos para o Coliseu de Roma: novas regras travam burlas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/fugas/noticia/bots-compram-bilhetes-coliseu-roma-novas-regras-travam-burlas-2174829"
+            "title": "Carneiro defende investimento na formação para responder à inteligência artificial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/politica/noticia/carneiro-defende-investimento-formacao-responder-inteligencia-artificial-2175128"
         },
         {
-            "title": "“É praticamente impossível” a faca ter sido manipulada por Odair Moniz, diz chefe da PJ",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/sociedade/noticia/praticamente-impossivel-faca-manipulada-odair-moniz-chefe-pj-2175087"
+            "title": "Reguengos de Monsaraz vai preservar e divulgar espólio do cientista António Gião",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/ciencia/noticia/reguengos-monsaraz-vai-preservar-divulgar-espolio-cientista-antonio-giao-2174933"
         }
     ],
     "finance": [],
-    "last_update": "18/05/2026 10:56"
+    "last_update": "18/05/2026 14:25"
 }
