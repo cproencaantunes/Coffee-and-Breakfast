@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.3,
-        "manha": 15.3,
-        "tarde": 19.8,
-        "noite": 16.0
+        "manha": 15.1,
+        "tarde": 19.7,
+        "noite": 15.8
     },
     "forecast": {
-        "max": 22.5,
-        "min": 14.2
+        "max": 23.4,
+        "min": 14.0
     },
     "news": [
         {
-            "title": "Chico Santos, um histórico com o coração dividido entre Viseu e Portimão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/desporto/noticia/chico-santos-historico-coracao-dividido-viseu-portimao-2174954"
+            "title": "Odair Moniz: Ministério Público pede condenação por homicídio e a expulsão do agente Bruno Pinto da PSP",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/sociedade/noticia/odair-moniz-procurador-mp-pede-condenacao-homicidio-expulsao-agente-bruno-pinto-psp-2175101"
         },
         {
-            "title": "Ac. Viseu “renasce” das cinzas para ocupar lugar no centro das elites",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/desporto/noticia/ac-viseu-renasce-cinzas-ocupar-lugar-centro-elites-2174952"
+            "title": "À descoberta dos mistérios na voz de Juana Aguirre",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/culturaipsilon/noticia/descoberta-misterios-voz-juana-aguirre-2174465"
         },
         {
-            "title": "Apesar do aumento de preços, valores do apoio alimentar aos mais carenciados sem actualização",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/sociedade/noticia/apesar-aumento-precos-valores-apoio-alimentar-carenciados-actualizacao-2174852"
+            "title": "Os arquitectos do Studios Architecture, Annabelle Selldorf e Base vão fazer renascer o Louvre",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/culturaipsilon/noticia/arquitectos-studios-architecture-annabelle-selldorf-base-vao-renascer-louvre-2175091"
         },
         {
-            "title": "Empreendedora brasileira leva arte do mundo para o Porto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/publico-brasil/noticia/empreendedora-brasileira-leva-arte-mundo-porto-2175011"
+            "title": "Os <em>bots </em>compram os bilhetes todos para o Coliseu de Roma: novas regras travam burlas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/fugas/noticia/bots-compram-bilhetes-coliseu-roma-novas-regras-travam-burlas-2174829"
         },
         {
-            "title": "Richard Dawkins e a sua sereia, Cláudia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/ciencia/opiniao/richard-dawkins-sereia-claudia-2174393"
+            "title": "“É praticamente impossível” a faca ter sido manipulada por Odair Moniz, diz chefe da PJ",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/18/sociedade/noticia/praticamente-impossivel-faca-manipulada-odair-moniz-chefe-pj-2175087"
         }
     ],
     "finance": [],
-    "last_update": "18/05/2026 06:43"
+    "last_update": "18/05/2026 10:56"
 }
