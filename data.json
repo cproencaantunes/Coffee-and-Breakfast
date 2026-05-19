@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.5,
-        "manha": 16.5,
-        "tarde": 21.2,
-        "noite": 18.1
+        "atual": 17.0,
+        "manha": 17.7,
+        "tarde": 27.2,
+        "noite": 24.3
     },
     "forecast": {
-        "max": 29.4,
-        "min": 15.4
+        "max": 31.1,
+        "min": 17.9
     },
     "news": [
         {
-            "title": "<em>Taiwan Travelogue</em> é Prémio Booker 2026, o primeiro traduzido do mandarim",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/culturaipsilon/noticia/taiwan-travelogue-premio-booker-2026-traduzido-mandarim-2175346"
+            "title": "Pelos caminhos da esquerda e da direita",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/opiniao/opiniao/caminhos-esquerda-direita-2175239"
         },
         {
-            "title": "Israel intercepta último barco de frota humanitária para Gaza, soldados efectuaram disparos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/mundo/noticia/israel-intercepta-ultimo-barco-frota-humanitaria-gaza-soldados-efectuaram-disparos-2175344"
+            "title": "Caminhos da água",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/opiniao/opiniao/caminhos-agua-2173955"
         },
         {
-            "title": "A MAGA de Montenegro e o duelo à sombra com Passos Coelho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/politica/noticia/maga-montenegro-duelo-sombra-passos-coelho-2175343"
+            "title": "Serviço público e rentabilidade não podem (e não devem) estar de costas voltadas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/opiniao/opiniao/servico-publico-rentabilidade-nao-podem-nao-estar-costas-voltadas-2174958"
         },
         {
-            "title": "Trump movimentou 220 milhões de dólares em acções de empresas que promoveu na China",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/mundo/noticia/trump-movimentou-220-milhoes-dolares-accoes-empresas-promoveu-china-2175273"
+            "title": "Uma língua sem política",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/opiniao/opiniao/lingua-politica-2174261"
         },
         {
-            "title": "O ensino superior português entra na era do voto alargado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/opiniao/opiniao/ensino-superior-portugues-entra-voto-alargado-2175328"
+            "title": "A retenção na fonte",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/opiniao/cronica/retencao-fonte-2175238"
         }
     ],
     "finance": [],
-    "last_update": "19/05/2026 22:05"
+    "last_update": "19/05/2026 23:53"
 }
