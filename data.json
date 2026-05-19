@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.5,
         "manha": 16.5,
-        "tarde": 22.5,
-        "noite": 18.2
+        "tarde": 22.4,
+        "noite": 18.0
     },
     "forecast": {
         "max": 29.4,
-        "min": 15.3
+        "min": 15.4
     },
     "news": [
         {
-            "title": "Câmara de Coimbra quer habitação acessível em terrenos da IP junto à Estação Nova",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/local/noticia/camara-coimbra-quer-habitacao-acessivel-terrenos-ip-junto-estacao-nova-2175233"
+            "title": "No meio dos destroços de Gaza, há vestidos de noiva usados a ganharem uma segunda vida",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/fotogaleria/meio-destrocos-gaza-vestidos-noiva-ganharem-segunda-vida-415502"
         },
         {
-            "title": "Pensionistas emigrados no Canadá têm de fazer prova de vida já este ano para não perderem acesso à pensão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/sociedade/noticia/pensionistas-emigrados-canada-prova-vida-ja-ano-nao-perderem-acesso-pensao-2175227"
+            "title": "Conventos de Lisboa abrem as portas com itinerários, visitas e um concerto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/local/noticia/conventos-lisboa-abrem-portas-itinerarios-visitas-concerto-2175258"
         },
         {
-            "title": "O ano de 2026",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/ciencia/opiniao/ano-2026-2173692"
+            "title": "Tailândia altera isenção de visto para turistas: regras mais duras para conter abusos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/fugas/noticia/tailandia-altera-isencao-visto-turistas-regras-duras-conter-abusos-2174911"
         },
         {
-            "title": "Comboio histórico do Douro com 51 viagens de Junho a Outubro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/fugas/noticia/comboio-historico-douro-51-viagens-junho-outubro-2175218"
+            "title": "Stellantis com eléctrico na manga por 15 mil euros e plano para agitar mercado europeu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/enter/noticia/stellantis-electrico-manga-15-mil-euros-plano-agitar-mercado-europeu-2175260"
         },
         {
-            "title": "Ministério Público de Paris investiga possíveis casos de violência em 114 escolas e creches",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/mundo/noticia/ministerio-publico-paris-investiga-possiveis-casos-violencia-114-escolas-creches-2175222"
+            "title": "Trabalhistas preferem Burnham a Starmer e acreditam na vitória nas próximas eleições",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/mundo/noticia/trabalhistas-preferem-burnham-starmer-acreditam-vitoria-proximas-eleicoes-2175249"
         }
     ],
     "finance": [],
-    "last_update": "19/05/2026 10:31"
+    "last_update": "19/05/2026 13:49"
 }
