@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.5,
-        "manha": 16.3,
-        "tarde": 23.1,
-        "noite": 18.4
+        "manha": 16.5,
+        "tarde": 22.5,
+        "noite": 18.2
     },
     "forecast": {
         "max": 29.3,
-        "min": 15.6
+        "min": 15.4
     },
     "news": [
         {
-            "title": "Afinal, em que se podem entender PSD e PS?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/opiniao/opiniao/afinal-podem-entender-psd-ps-2175034"
+            "title": "A bicha do Pau-Brasil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/publico-brasil/opiniao/bicha-paubrasil-2175188"
         },
         {
-            "title": "Trump não fez um “negócio da China”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/opiniao/opiniao/trump-nao-fez-negocio-china-2175117"
+            "title": "Num só ano, a área construída da Terra aumentou 1,7% (e fez disparar as emissões)",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/azul/noticia/so-ano-area-construida-terra-aumentou-17-fez-disparar-emissoes-2174859"
         },
         {
-            "title": "Saúde para todos, ou apenas palavras?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/opiniao/opiniao/saude-apenas-palavras-2174285"
+            "title": "O El Niño está a chegar. Estamos preparados para um Verão quente?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/azul/noticia/el-nino-chegar-preparados-verao-quente-2175152"
         },
         {
-            "title": "Professores ou recursos humanos? O ReCAP e a managerialização da profissão docente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/opiniao/opiniao/professores-recursos-humanos-recap-managerializacao-profissao-docente-2175032"
+            "title": "Ulisses Correia e Silva, depois da derrota e da demissão: “Este é o momento de me sentir livre”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/mundo/entrevista/ulisses-correia-silva-derrota-demissao-momento-sentir-livre-2175182"
         },
         {
-            "title": "Por uma sociedade cuidadora",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/opiniao/opiniao/sociedade-cuidadora-2175028"
+            "title": "Liberalização do comboio Marselha–Nice mudou tudo menos a vista",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/19/economia/noticia/liberalizacao-comboio-marselhanice-mudou-menos-vista-2174596"
         }
     ],
     "finance": [],
-    "last_update": "19/05/2026 02:10"
+    "last_update": "19/05/2026 06:39"
 }
