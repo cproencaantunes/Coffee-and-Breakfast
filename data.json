@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 0,
-        "manha": 0,
-        "tarde": 0,
-        "noite": 0
+        "atual": 20.0,
+        "manha": 20.3,
+        "tarde": 30.5,
+        "noite": 26.0
     },
     "forecast": {
-        "max": 0,
-        "min": 0
+        "max": 31.9,
+        "min": 19.4
     },
     "news": [
         {
-            "title": "Está Rangel a ser mais corajoso com Israel do que com Trump?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/politica/noticia/rangel-corajoso-israel-trump-2175463"
+            "title": "A fome da estrela-do-mar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/opiniao/cronica/fome-estreladomar-2175382"
         },
         {
-            "title": "Aston Villa de Unai Emery é o novo rei da Liga Europa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/desporto/noticia/aston-villa-unai-emery-novo-rei-liga-europa-2175459"
+            "title": "Os 31 cargos ocultos de José Pedro Aguiar-Branco",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/opiniao/opiniao/31-cargos-ocultos-jose-pedro-aguiarbranco-2175379"
         },
         {
-            "title": "Renata",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/p3/cronica/renata-2175460"
+            "title": "Ex-polícia recebe 718 mil euros após 37 dias detido por <em>meme</em> sobre Charlie Kirk",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/mundo/noticia/expolicia-recebe-718-mil-euros-apos-37-dias-detido-meme-charlie-kirk-2175465"
         },
         {
-            "title": "PSD recusa governamentalização da Lusa, oposição junta-se nas críticas ao Governo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/politica/noticia/psd-recusa-governamentalizacao-lusa-oposicao-juntase-criticas-governo-2175461"
+            "title": "Agência de notícias Lusa parada: uma greve para todos nós",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/newsletter/livre-estilo"
         },
         {
-            "title": "Arthur Harari: dos medos da infância ao medo da extrema-direita francesa (e de Bolloré)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/culturaipsilon/entrevista/arthur-harari-medos-infancia-medo-extremadireita-francesa-bollore-2175432"
+            "title": "EUA retiram especialista da ONU para os territórios palestinianos da lista de sanções",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/mundo/noticia/eua-retiram-especialista-onu-territorios-palestinianos-lista-sancoes-2175467"
         }
     ],
     "finance": [],
-    "last_update": "20/05/2026 21:30"
+    "last_update": "20/05/2026 23:04"
 }
