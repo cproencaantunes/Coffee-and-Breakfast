@@ -2,35 +2,35 @@
     "weather": {
         "atual": 17.0,
         "manha": 17.3,
-        "tarde": 27.0,
-        "noite": 23.8
+        "tarde": 27.6,
+        "noite": 24.0
     },
     "forecast": {
-        "max": 30.9,
-        "min": 17.5
+        "max": 31.0,
+        "min": 17.6
     },
     "news": [
         {
-            "title": "Salvar o mundo com a ajuda das abelhas: no Dia Mundial, há colmeias oferecidas aos apicultores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/local/noticia/salvar-mundo-ajuda-abelhas-dia-mundial-ha-colmeias-oferecidas-apicultores-2175363"
+            "title": "Prova na dispensa por amamentação terá de ser apresentada de seis em seis meses",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/economia/noticia/prova-dispensa-amamentacao-tera-apresentada-seis-seis-meses-2175390"
         },
         {
-            "title": "<em>Uma Mãe e o Seu Filho</em>: o anjo negro de Teerão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/culturaipsilon/critica/mae-filho-anjo-negro-teerao-2175301"
+            "title": "Incêndio em Faro já se encontra extinto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/local/noticia/incendio-faro-ja-encontra-extinto-2175392"
         },
         {
-            "title": "Mundial 2026: os sete “magníficos” que não vão a Palm Beach",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/desporto/noticia/mundial-2026-sete-magnificos-nao-vao-palm-beach-2175294"
+            "title": "Barreiro vai candidatar-se a Capital Portuguesa da Cultura 2028",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/local/noticia/barreiro-vai-candidatarse-capital-portuguesa-cultura-2028-2175389"
         },
         {
-            "title": "Propina dos mestrados em ensino da Universidade Nova de Lisboa desce para 697 euros, após intervenção do ministério",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/sociedade/noticia/propina-mestrados-ensino-universidade-nova-lisboa-desce-697-euros-apos-intervencao-ministerio-2175277"
+            "title": "Sánchez garante “todo o seu apoio” a Zapatero e Feijóo pede-lhe que se demita",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/mundo/noticia/sanchez-garante-apoio-zapatero-feijoo-pedelhe-demita-2175374"
         },
         {
-            "title": "Aston Villa-Friburgo: o especialista contra os estreantes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/desporto/noticia/aston-villafriburgo-especialista-estreantes-2175305"
+            "title": "Burlas com cromos do Mundial disparam em Portugal. O que fazer para as evitar?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/desporto/noticia/burlas-cromos-mundial-disparam-portugal-evitar-2175377"
         }
     ],
     "finance": [],
-    "last_update": "20/05/2026 10:17"
+    "last_update": "20/05/2026 13:29"
 }
