@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 17.0,
-        "manha": 17.7,
-        "tarde": 27.2,
-        "noite": 24.5
+        "manha": 17.3,
+        "tarde": 27.0,
+        "noite": 24.0
     },
     "forecast": {
-        "max": 31.1,
-        "min": 17.9
+        "max": 30.7,
+        "min": 17.7
     },
     "news": [
         {
-            "title": "Pelos caminhos da esquerda e da direita",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/opiniao/opiniao/caminhos-esquerda-direita-2175239"
+            "title": "Imigrantes denunciam à AIMA falsificação de documentos para trabalhar em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/publico-brasil/noticia/imigrantes-denunciam-aima-falsificacao-documentos-trabalhar-portugal-2175335"
         },
         {
-            "title": "Caminhos da água",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/opiniao/opiniao/caminhos-agua-2173955"
+            "title": "Mundial de Futebol: Portugal não é favorito, mas será candidato?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/desporto/noticia/mundial-futebol-portugal-nao-favorito-sera-candidato-2175287"
         },
         {
-            "title": "Serviço público e rentabilidade não podem (e não devem) estar de costas voltadas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/opiniao/opiniao/servico-publico-rentabilidade-nao-podem-nao-estar-costas-voltadas-2174958"
+            "title": "A pertença ferida",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/mundo/opiniao/pertenca-ferida-2175241"
         },
         {
-            "title": "Uma língua sem política",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/opiniao/opiniao/lingua-politica-2174261"
+            "title": "“É tempo de abrir um pouco mais do baú”: AR debate desclassificação de documentos da rede bombista e FP-25",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/politica/noticia/tempo-abrir-bau-ar-debate-desclassificacao-documentos-rede-bombista-fp25-2175125"
         },
         {
-            "title": "A retenção na fonte",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/opiniao/cronica/retencao-fonte-2175238"
+            "title": "Governo manteve administrador da CMVM com salário mais alto durante ano e meio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/economia/noticia/governo-manteve-administrador-cmvm-salario-alto-durante-ano-meio-2175265"
         }
     ],
     "finance": [],
-    "last_update": "20/05/2026 02:09"
+    "last_update": "20/05/2026 06:38"
 }
