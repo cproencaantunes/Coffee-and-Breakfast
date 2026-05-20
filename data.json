@@ -2,35 +2,35 @@
     "weather": {
         "atual": 17.0,
         "manha": 17.3,
-        "tarde": 27.6,
+        "tarde": 27.5,
         "noite": 24.0
     },
     "forecast": {
         "max": 31.0,
-        "min": 17.6
+        "min": 17.8
     },
     "news": [
         {
-            "title": "Prova na dispensa por amamentação terá de ser apresentada de seis em seis meses",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/economia/noticia/prova-dispensa-amamentacao-tera-apresentada-seis-seis-meses-2175390"
+            "title": "Quando os sistemas financeiros nacionais deixam de ter fronteiras",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/publico-brasil/opiniao/sistemas-financeiros-nacionais-deixam-fronteiras-2175434"
         },
         {
-            "title": "Incêndio em Faro já se encontra extinto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/local/noticia/incendio-faro-ja-encontra-extinto-2175392"
+            "title": "“Bem-vindos a Israel”: ministro Ben-Gvir divulga vídeo a humilhar activistas detidos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/mundo/noticia/bemvindos-israel-ministro-bengvir-divulga-video-humilhar-activistas-detidos-2175427"
         },
         {
-            "title": "Barreiro vai candidatar-se a Capital Portuguesa da Cultura 2028",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/local/noticia/barreiro-vai-candidatarse-capital-portuguesa-cultura-2028-2175389"
+            "title": "Caem ciclistas, surgem vitórias. UAE segue em festa na Volta a Itália",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/desporto/noticia/caem-ciclistas-surgem-vitorias-uae-segue-festa-volta-italia-2175436"
         },
         {
-            "title": "Sánchez garante “todo o seu apoio” a Zapatero e Feijóo pede-lhe que se demita",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/mundo/noticia/sanchez-garante-apoio-zapatero-feijoo-pedelhe-demita-2175374"
+            "title": "Professores exigem explicações sobre digitalização de exames, ministro fala de “alarmismo”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/sociedade/noticia/professores-exigem-explicacoes-digitalizacao-exames-ministro-fala-alarmismo-2175414"
         },
         {
-            "title": "Burlas com cromos do Mundial disparam em Portugal. O que fazer para as evitar?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/desporto/noticia/burlas-cromos-mundial-disparam-portugal-evitar-2175377"
+            "title": "“Spygate”: Southampton critica castigo “desproporcional” e recorre da decisão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/20/desporto/noticia/spygate-southampton-critica-castigo-desproporcional-recorre-decisao-2175430"
         }
     ],
     "finance": [],
-    "last_update": "20/05/2026 13:29"
+    "last_update": "20/05/2026 16:43"
 }
