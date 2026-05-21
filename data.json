@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 0,
-        "manha": 0,
-        "tarde": 0,
-        "noite": 0
+        "atual": 19.6,
+        "manha": 20.4,
+        "tarde": 29.8,
+        "noite": 25.8
     },
     "forecast": {
-        "max": 0,
-        "min": 0
+        "max": 31.9,
+        "min": 19.6
     },
     "news": [
         {
-            "title": "Na Bienal de Veneza, a poesia inacabada — e estrangulada pelo mundo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/culturaipsilon/noticia/bienal-veneza-poesia-inacabada-estrangulada-mundo-2175339"
+            "title": "Mudanças no acesso à Creche Feliz lançam confusão entre pais e instituições",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/sociedade/noticia/mudancas-acesso-creche-feliz-lancam-confusao-pais-instituicoes-2175502"
         },
         {
-            "title": "É hora de ler ou reler dois clássicos: <em>Lazarillo de Tormes</em> e <em>Robinson Crusoe</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/culturaipsilon/critica/hora-ler-reler-dois-classicos-lazarillo-tormes-robinson-crusoe-2175145"
+            "title": "Danijoy e Daniel morreram há seis anos na prisão com minutos de diferença. Mães querem indemnização",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/sociedade/noticia/danijoy-daniel-morreram-ha-seis-anos-prisao-minutos-diferenca-maes-querem-indemnizacao-2175288"
         },
         {
-            "title": "Activistas portugueses da flotilha devem regressar esta quinta a Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/mundo/noticia/activistas-portugueses-flotilha-regressar-quinta-portugal-2175492"
+            "title": "“Há um projecto colectivo que Israel tenta destruir mas continua a ser desenvolvido”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/mundo/noticia/ha-projecto-colectivo-israel-tenta-destruir-continua-desenvolvido-2175468"
         },
         {
-            "title": "“Perspectivas alteraram-se substancialmente”: economia abranda com a guerra no Irão e Portugal não escapa ao défice",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/economia/noticia/economia-abranda-guerra-irao-portugal-nao-escapa-defice-2175491"
+            "title": "Mosteiro em Oeiras e palácio no Fundão classificados como monumentos de interesse público",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/local/noticia/mosteiro-oeiras-palacio-fundao-classificados-monumentos-interesse-publico-2175513"
         },
         {
-            "title": "Leiria existe, e há fotografias para o provar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/fugas/noticia/leiria-existe-ha-fotografias-provar-2175489"
+            "title": "Aplicação gov.pt já permite pedir segunda via da Carta de Condução. Em quatro meses, já foram pedidas 10 mil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/sociedade/noticia/aplicacao-govpt-ja-permite-pedir-segunda-via-carta-conducao-quatro-meses-ja-pedidas-10-mil-2175528"
         }
     ],
     "finance": [],
-    "last_update": "21/05/2026 10:30"
+    "last_update": "21/05/2026 13:53"
 }
