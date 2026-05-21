@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 19.6,
-        "manha": 19.9,
-        "tarde": 30.1,
-        "noite": 25.8
+        "atual": 0,
+        "manha": 0,
+        "tarde": 0,
+        "noite": 0
     },
     "forecast": {
-        "max": 31.1,
-        "min": 19.9
+        "max": 0,
+        "min": 0
     },
     "news": [
         {
-            "title": "Antes que saibamos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/publico-brasil/cronica/saibamos-2175457"
+            "title": "Na Bienal de Veneza, a poesia inacabada — e estrangulada pelo mundo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/culturaipsilon/noticia/bienal-veneza-poesia-inacabada-estrangulada-mundo-2175339"
         },
         {
-            "title": "Dispositivo robótico usável facilita a recuperação neuromuscular em crianças",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/ciencia/noticia/dispositivo-robotico-usavel-facilita-recuperacao-neuromuscular-criancas-2175397"
+            "title": "É hora de ler ou reler dois clássicos: <em>Lazarillo de Tormes</em> e <em>Robinson Crusoe</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/culturaipsilon/critica/hora-ler-reler-dois-classicos-lazarillo-tormes-robinson-crusoe-2175145"
         },
         {
-            "title": "SNS: 930 mil dos portugueses mais doentes somam 41% dos gastos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/sociedade/noticia/sns-930-mil-portugueses-doentes-somam-41-gastos-2175371"
+            "title": "Activistas portugueses da flotilha devem regressar esta quinta a Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/mundo/noticia/activistas-portugueses-flotilha-regressar-quinta-portugal-2175492"
         },
         {
-            "title": "Putin chegou à China, mas foi travado na Ucrânia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/mundo/noticia/putin-chegou-china-travado-ucrania-2175364"
+            "title": "“Perspectivas alteraram-se substancialmente”: economia abranda com a guerra no Irão e Portugal não escapa ao défice",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/economia/noticia/economia-abranda-guerra-irao-portugal-nao-escapa-defice-2175491"
         },
         {
-            "title": "Procura uma praia “imaculada” em Portugal? Há menos opções este ano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/azul/noticia/procura-praia-imaculada-portugal-ha-menos-opcoes-ano-2175404"
+            "title": "Leiria existe, e há fotografias para o provar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/fugas/noticia/leiria-existe-ha-fotografias-provar-2175489"
         }
     ],
     "finance": [],
-    "last_update": "21/05/2026 06:41"
+    "last_update": "21/05/2026 10:30"
 }
