@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.6,
         "manha": 19.9,
-        "tarde": 30.3,
-        "noite": 26.0
+        "tarde": 30.1,
+        "noite": 25.8
     },
     "forecast": {
-        "max": 31.9,
-        "min": 19.4
+        "max": 31.1,
+        "min": 19.9
     },
     "news": [
         {
-            "title": "As lições de uma negociação fracassada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/opiniao/opiniao/licoes-negociacao-fracassada-2175408"
+            "title": "Antes que saibamos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/publico-brasil/cronica/saibamos-2175457"
         },
         {
-            "title": "Acredite, Cher tem 80 anos: a diva que vence o tempo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/impar/noticia/acredite-cher-80-anos-diva-vence-tempo-2175471"
+            "title": "Dispositivo robótico usável facilita a recuperação neuromuscular em crianças",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/ciencia/noticia/dispositivo-robotico-usavel-facilita-recuperacao-neuromuscular-criancas-2175397"
         },
         {
-            "title": "Sindicatos: reformem-se",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/opiniao/opiniao/sindicatos-reformemse-2175385"
+            "title": "SNS: 930 mil dos portugueses mais doentes somam 41% dos gastos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/sociedade/noticia/sns-930-mil-portugueses-doentes-somam-41-gastos-2175371"
         },
         {
-            "title": "Já foi ao arquivo de José Mário Branco? Não? Então vá",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/culturaipsilon/opiniao/ja-arquivo-jose-mario-branco-nao-entao-va-2175317"
+            "title": "Putin chegou à China, mas foi travado na Ucrânia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/mundo/noticia/putin-chegou-china-travado-ucrania-2175364"
         },
         {
-            "title": "O pedido de OPI da SpaceX leva as ambições interplanetárias de Musk a Wall Street",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/economia/noticia/pedido-opi-spacex-leva-ambicoes-interplanetarias-musk-wall-street-2175472"
+            "title": "Procura uma praia “imaculada” em Portugal? Há menos opções este ano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/21/azul/noticia/procura-praia-imaculada-portugal-ha-menos-opcoes-ano-2175404"
         }
     ],
     "finance": [],
-    "last_update": "21/05/2026 02:08"
+    "last_update": "21/05/2026 06:41"
 }
