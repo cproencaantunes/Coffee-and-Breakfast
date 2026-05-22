@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 23.8,
-        "manha": 22.6,
-        "tarde": 30.8,
-        "noite": 23.0
+        "manha": 22.7,
+        "tarde": 30.2,
+        "noite": 23.4
     },
     "forecast": {
-        "max": 30.3,
-        "min": 19.7
+        "max": 29.0,
+        "min": 19.2
     },
     "news": [
         {
-            "title": "A purga republicana de Trump vai salvá-lo nas eleições de Novembro?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/mundo/noticia/purga-republicana-trump-vai-salvalo-eleicoes-novembro-2175616"
+            "title": "Tribunal dos Direitos Humanos vai obrigar Portugal a encarar condições das cadeias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/sociedade/noticia/tribunal-direitos-humanos-vai-obrigar-portugal-encarar-condicoes-cadeias-2175595"
         },
         {
-            "title": "Presidente Seguro está a ser como Ramalho Eanes?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/politica/noticia/presidente-seguro-ramalho-eanes-2175614"
+            "title": "Porquê continuar a falar em biodiversidade?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/azul/opiniao/continuar-falar-biodiversidade-2175570"
         },
         {
-            "title": "Conselho nacional do Chega unânime na rejeição da reforma laboral e do Estado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/politica/noticia/conselho-nacional-chega-unanime-rejeicao-reforma-laboral-estado-2175613"
+            "title": "A Copa, o hospital espanhol e a sua empresa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/publico-brasil/opiniao/copa-hospital-espanhol-empresa-2175571"
         },
         {
-            "title": "Trump quer enviar 5000 militares para a Polónia e justifica com relação com Nawrocki",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/mundo/noticia/trump-quer-enviar-5000-militares-polonia-justifica-relacao-nawrocki-2175607"
+            "title": "As três vindas de Miles Davis a Portugal: da “música infinita” ao “plástico dos electrónicos”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/culturaipsilon/noticia/tres-vindas-miles-davis-portugal-musica-infinita-plastico-electronicos-2175318"
         },
         {
-            "title": "Há menos pessoas pobres em Portugal, mas ainda são demasiadas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/opiniao/opiniao/ha-menos-pessoas-pobres-portugal-sao-demasiadas-2175588"
+            "title": "Miles Davis e John Coltrane: 100 anos a iluminar o jazz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/culturaipsilon/noticia/miles-davis-john-coltrane-100-anos-iluminar-jazz-2175223"
         }
     ],
     "finance": [],
-    "last_update": "22/05/2026 02:11"
+    "last_update": "22/05/2026 06:38"
 }
