@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 23.8,
-        "manha": 22.7,
-        "tarde": 30.2,
-        "noite": 23.4
+        "manha": 22.9,
+        "tarde": 30.9,
+        "noite": 23.7
     },
     "forecast": {
-        "max": 29.0,
-        "min": 19.2
+        "max": 29.4,
+        "min": 19.8
     },
     "news": [
         {
-            "title": "Tribunal dos Direitos Humanos vai obrigar Portugal a encarar condições das cadeias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/sociedade/noticia/tribunal-direitos-humanos-vai-obrigar-portugal-encarar-condicoes-cadeias-2175595"
+            "title": "Arbeloa despede-se do Real Madrid após época de “frustração”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/desporto/noticia/arbeloa-despedese-real-madrid-apos-epoca-frustracao-2175638"
         },
         {
-            "title": "Porquê continuar a falar em biodiversidade?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/azul/opiniao/continuar-falar-biodiversidade-2175570"
+            "title": "Associação pede revisão do diploma recém-promulgado sobre amianto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/azul/noticia/associacao-pede-revisao-diploma-recempromulgado-amianto-2175632"
         },
         {
-            "title": "A Copa, o hospital espanhol e a sua empresa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/publico-brasil/opiniao/copa-hospital-espanhol-empresa-2175571"
+            "title": "Polícia britânica afirma que investigação sobre ex-príncipe André será demorada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/impar/noticia/policia-britanica-afirma-investigacao-exprincipe-andre-sera-demorada-2175635"
         },
         {
-            "title": "As três vindas de Miles Davis a Portugal: da “música infinita” ao “plástico dos electrónicos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/culturaipsilon/noticia/tres-vindas-miles-davis-portugal-musica-infinita-plastico-electronicos-2175318"
+            "title": "EUA suspendem venda de armamento a Taiwan para poupar munições para o Irão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/mundo/noticia/eua-suspendem-venda-armamento-taiwan-poupar-municoes-irao-2175634"
         },
         {
-            "title": "Miles Davis e John Coltrane: 100 anos a iluminar o jazz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/culturaipsilon/noticia/miles-davis-john-coltrane-100-anos-iluminar-jazz-2175223"
+            "title": "Sondagem: um ano depois das eleições, PS lidera e AD cai para o terceiro lugar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/politica/noticia/sondagem-ano-eleicoes-ps-lidera-ad-cai-terceiro-lugar-2175631"
         }
     ],
     "finance": [],
-    "last_update": "22/05/2026 06:38"
+    "last_update": "22/05/2026 10:15"
 }
