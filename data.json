@@ -2,35 +2,35 @@
     "weather": {
         "atual": 23.8,
         "manha": 22.9,
-        "tarde": 30.9,
-        "noite": 23.5
+        "tarde": 31.1,
+        "noite": 23.4
     },
     "forecast": {
-        "max": 29.4,
+        "max": 29.2,
         "min": 19.7
     },
     "news": [
         {
-            "title": "Na primeira semana de vigência da nova lei, PJ detém homem e apreende nove lanchas rápidas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/sociedade/noticia/primeira-semana-vigencia-nova-lei-pj-detem-homem-apreende-nove-lanchas-rapidas-2175671"
+            "title": "Homem desaparecido nas águas do rio Paiva em Arouca",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/sociedade/noticia/homem-desaparecido-aguas-rio-paiva-arouca-2175717"
         },
         {
-            "title": "Dos suspeitos à investigação, um guia para o caso dos meninos franceses abandonados em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/sociedade/noticia/suspeitos-investigacao-guia-caso-meninos-franceses-abandonados-portugal-2175668"
+            "title": "Todos podem ser cientistas: festival de ciência-cidadã chega este sábado à Figueira da Foz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/ciencia/noticia/podem-cientistas-festival-cienciacidada-chega-sabado-figueira-foz-2175406"
         },
         {
-            "title": "Cannes: nos bastidores de um dos maiores festivais de cinema do mundo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/culturaipsilon/podcast/cannes-bastidores-maiores-festivais-cinema-mundo-2175466"
+            "title": "Afonso Eulálio continua de rosa na etapa do “azar” da Volta a Itália",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/desporto/noticia/afonso-eulalio-continua-rosa-etapa-azar-volta-italia-2175709"
         },
         {
-            "title": "Cascais está a criar regulamento para proteger as suas lojas e associações históricas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/local/noticia/cascais-criar-regulamento-proteger-lojas-associacoes-historicas-2175583"
+            "title": "<em>La vera pizza napoletana</em>: tradição e técnica no campeonato mundial em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/fugas/noticia/vera-pizza-napoletana-tradicao-tecnica-campeonato-mundial-portugal-2175678"
         },
         {
-            "title": "Seguro comemora Dia de Portugal no Luxemburgo, de 5 a 8 de Junho, Montenegro junta-se",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/politica/noticia/seguro-comemora-dia-portugal-luxemburgo-5-8-junho-montenegro-juntase-2175615"
+            "title": "Oppo Find X9 Ultra em teste: bate os melhores na fotografia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/enter/critica/oppo-find-x9-ultra-teste-bate-melhores-fotografia-2175685"
         }
     ],
     "finance": [],
-    "last_update": "22/05/2026 13:22"
+    "last_update": "22/05/2026 16:13"
 }
