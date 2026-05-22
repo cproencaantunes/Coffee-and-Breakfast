@@ -3,34 +3,34 @@
         "atual": 23.8,
         "manha": 22.9,
         "tarde": 31.1,
-        "noite": 23.2
+        "noite": 23.6
     },
     "forecast": {
-        "max": 29.2,
-        "min": 19.8
+        "max": 29.5,
+        "min": 19.9
     },
     "news": [
         {
+            "title": "Lens bate Nice e conquista a sua primeira Taça de França",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/desporto/noticia/lens-bate-nice-conquista-primeira-taca-franca-2175759"
+        },
+        {
+            "title": "MP acusa funcionária consular e mais 30 arguidos por legalização fraudulenta de milhares de imigrantes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/sociedade/noticia/mp-acusa-funcionaria-consular-30-arguidos-legalizacao-fraudulenta-milhares-imigrantes-2175758"
+        },
+        {
+            "title": "Tiago Rodrigues e Demarcy-Mota entre os 400 profissionais do teatro contra Bolloré",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/culturaipsilon/noticia/tiago-rodrigues-demarcymota-400-profissionais-teatro-bollore-2175755"
+        },
+        {
+            "title": "Pedro Delgado Alves: debate para desclassificar documentos é só para “diabolizar o outro”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/politica/entrevista/pedro-delgado-alves-debate-desclassificar-documentos-so-diabolizar-2175734"
+        },
+        {
             "title": "Encontrado corpo de homem desaparecido no rio Paiva em Arouca",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/sociedade/noticia/encontrado-corpo-homem-desaparecido-rio-paiva-arouca-2175747"
-        },
-        {
-            "title": "Entre o desafio, a estabilidade e o sonho: a história de cinco jovens na vida militar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/politica/reportagem/desafio-estabilidade-sonho-historia-cinco-jovens-vida-militar-2175730"
-        },
-        {
-            "title": "O que correu mal a Kamala Harris? “Autópsia” à campanha democrata omite Gaza e idade de Biden",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/mundo/noticia/correu-mal-kamala-harris-autopsia-campanha-democrata-omite-gaza-idade-biden-2175735"
-        },
-        {
-            "title": "Ébola: epidemia no Congo pode transformar-se em emergência humanitária incontrolável, avisa a ONU",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/mundo/noticia/ebola-epidemia-congo-transformarse-emergencia-humanitaria-incontrolavel-avisa-onu-2175749"
-        },
-        {
-            "title": "UE e México modernizam parceria com a eliminação de quase todas as tarifas e obstáculos ao comércio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/economia/noticia/ue-mexico-modernizam-parceria-eliminacao-quase-tarifas-obstaculos-comercio-2175716"
         }
     ],
     "finance": [],
-    "last_update": "22/05/2026 20:27"
+    "last_update": "22/05/2026 21:57"
 }
