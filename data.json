@@ -1,9 +1,9 @@
 {
     "weather": {
-        "atual": 23.1,
-        "manha": 22.4,
-        "tarde": 30.6,
-        "noite": 23.5
+        "atual": 23.8,
+        "manha": 22.6,
+        "tarde": 30.8,
+        "noite": 23.0
     },
     "forecast": {
         "max": 30.3,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
+            "title": "A purga republicana de Trump vai salvá-lo nas eleições de Novembro?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/mundo/noticia/purga-republicana-trump-vai-salvalo-eleicoes-novembro-2175616"
+        },
+        {
+            "title": "Presidente Seguro está a ser como Ramalho Eanes?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/politica/noticia/presidente-seguro-ramalho-eanes-2175614"
+        },
+        {
+            "title": "Conselho nacional do Chega unânime na rejeição da reforma laboral e do Estado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/politica/noticia/conselho-nacional-chega-unanime-rejeicao-reforma-laboral-estado-2175613"
+        },
+        {
             "title": "Trump quer enviar 5000 militares para a Polónia e justifica com relação com Nawrocki",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/mundo/noticia/trump-quer-enviar-5000-militares-polonia-justifica-relacao-nawrocki-2175607"
         },
         {
             "title": "Há menos pessoas pobres em Portugal, mas ainda são demasiadas",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/opiniao/opiniao/ha-menos-pessoas-pobres-portugal-sao-demasiadas-2175588"
-        },
-        {
-            "title": "Há espaço para um novo partido à direita",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/opiniao/opiniao/ha-espaco-novo-partido-direita-2175585"
-        },
-        {
-            "title": "Comissão Europeia <em>versus</em> Hungria: evolução ou exceção?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/europa/opiniao/comissao-europeia-versus-hungria-evolucao-excecao-2175605"
-        },
-        {
-            "title": "O ensino artístico especializado está a chegar ao limite",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/opiniao/opiniao/ensino-artistico-especializado-chegar-limite-2175606"
         }
     ],
     "finance": [],
-    "last_update": "21/05/2026 23:50"
+    "last_update": "22/05/2026 02:11"
 }
