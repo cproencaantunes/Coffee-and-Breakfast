@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 23.8,
-        "manha": 22.9,
-        "tarde": 31.1,
-        "noite": 23.6
+        "atual": 22.4,
+        "manha": 20.6,
+        "tarde": 29.1,
+        "noite": 23.9
     },
     "forecast": {
-        "max": 29.5,
-        "min": 19.9
+        "max": 27.5,
+        "min": 17.7
     },
     "news": [
         {
-            "title": "João Félix melhor jogador e Jorge Jesus melhor treinador na Arábia Saudita",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/desporto/noticia/joao-felix-melhor-jogador-jorge-jesus-melhor-treinador-arabia-saudita-2175765"
+            "title": "Crianças abandonadas: MP pede prisão preventiva para mãe e para o seu companheiro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/sociedade/noticia/criancas-abandonadas-mp-pede-prisao-preventiva-mae-companheiro-2175768"
         },
         {
-            "title": "Oito distritos do Norte e Centro sob aviso amarelo por chuva e trovoada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/azul/noticia/oito-distritos-norte-centro-aviso-amarelo-chuva-trovoada-2175763"
+            "title": "A infantilização dos adultos em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/opiniao/opiniao/infantilizacao-adultos-portugal-2175674"
         },
         {
-            "title": "Arquivado processo-crime contra Abrego Garcia, imigrante deportado irregularmente pelos EUA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/mundo/noticia/arquivado-processocrime-abrego-garcia-imigrante-deportado-irregularmente-eua-2175760"
+            "title": "Vamos “desturistificar” Albufeira e o Funchal?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/opiniao/opiniao/vamos-desturistificar-albufeira-funchal-2175653"
         },
         {
-            "title": "Lens bate Nice e conquista a sua primeira Taça de França",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/desporto/noticia/lens-bate-nice-conquista-primeira-taca-franca-2175759"
+            "title": "As prisões portuguesas e o TEDH",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/opiniao/opiniao/prisoes-portuguesas-tedh-2175669"
         },
         {
-            "title": "MP acusa funcionária consular e mais 30 arguidos por legalização fraudulenta de milhares de imigrantes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/22/sociedade/noticia/mp-acusa-funcionaria-consular-30-arguidos-legalizacao-fraudulenta-milhares-imigrantes-2175758"
+            "title": "Parcialmente cobardes, absolutamente cúmplices",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/opiniao/opiniao/parcialmente-cobardes-absolutamente-cumplices-2175699"
         }
     ],
     "finance": [],
-    "last_update": "22/05/2026 22:54"
+    "last_update": "22/05/2026 23:57"
 }
