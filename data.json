@@ -2,35 +2,35 @@
     "weather": {
         "atual": 22.4,
         "manha": 20.4,
-        "tarde": 28.6,
-        "noite": 23.1
+        "tarde": 29.2,
+        "noite": 23.0
     },
     "forecast": {
-        "max": 27.5,
-        "min": 17.7
+        "max": 27.8,
+        "min": 17.3
     },
     "news": [
         {
-            "title": "Irão: imprensa indica regresso iminente à guerra, Trump reúne equipa de segurança",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/mundo/noticia/trump-reune-equipa-seguranca-nacional-imprensa-indica-ataque-iminente-irao-2175771"
+            "title": "Um em cada quatro reclusos está em prisão preventiva, taxa não era tão alta desde 2003",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/sociedade/noticia/quatro-reclusos-prisao-preventiva-taxa-nao-tao-alta-desde-2003-2175047"
         },
         {
-            "title": "Crianças abandonadas: MP pede prisão preventiva para mãe e para o seu companheiro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/sociedade/noticia/criancas-abandonadas-mp-pede-prisao-preventiva-mae-companheiro-2175768"
+            "title": "Francisco Carvalho: “Portugal tem lugar reservado na primeira linha de construção do futuro de Cabo Verde”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/mundo/entrevista/francisco-carvalho-portugal-lugar-reservado-primeira-linha-construcao-futuro-cabo-verde-2175752"
         },
         {
-            "title": "A infantilização dos adultos em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/opiniao/opiniao/infantilizacao-adultos-portugal-2175674"
+            "title": "Prisão preventiva: juízes não são mais benevolentes com mulheres",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/sociedade/noticia/prisao-preventiva-juizes-nao-sao-benevolentes-mulheres-2174968"
         },
         {
-            "title": "Vamos “desturistificar” Albufeira e o Funchal?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/opiniao/opiniao/vamos-desturistificar-albufeira-funchal-2175653"
+            "title": "Companheiro da mãe é suspeito de maltratar meninos antes de serem abandonados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/sociedade/noticia/companheiro-mae-suspeito-maltratar-meninos-serem-abandonados-2175762"
         },
         {
-            "title": "As prisões portuguesas e o TEDH",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/opiniao/opiniao/prisoes-portuguesas-tedh-2175669"
+            "title": "O restauro da natureza precisa de escala para ser eficaz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/ciencia/opiniao/restauro-natureza-precisa-escala-eficaz-2175596"
         }
     ],
     "finance": [],
-    "last_update": "23/05/2026 02:33"
+    "last_update": "23/05/2026 05:58"
 }
