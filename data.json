@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 22.4,
-        "manha": 20.6,
-        "tarde": 29.1,
-        "noite": 23.9
+        "manha": 20.4,
+        "tarde": 28.6,
+        "noite": 23.1
     },
     "forecast": {
         "max": 27.5,
         "min": 17.7
     },
     "news": [
+        {
+            "title": "Irão: imprensa indica regresso iminente à guerra, Trump reúne equipa de segurança",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/mundo/noticia/trump-reune-equipa-seguranca-nacional-imprensa-indica-ataque-iminente-irao-2175771"
+        },
         {
             "title": "Crianças abandonadas: MP pede prisão preventiva para mãe e para o seu companheiro",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/sociedade/noticia/criancas-abandonadas-mp-pede-prisao-preventiva-mae-companheiro-2175768"
@@ -25,12 +29,8 @@
         {
             "title": "As prisões portuguesas e o TEDH",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/opiniao/opiniao/prisoes-portuguesas-tedh-2175669"
-        },
-        {
-            "title": "Parcialmente cobardes, absolutamente cúmplices",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/opiniao/opiniao/parcialmente-cobardes-absolutamente-cumplices-2175699"
         }
     ],
     "finance": [],
-    "last_update": "22/05/2026 23:57"
+    "last_update": "23/05/2026 02:33"
 }
