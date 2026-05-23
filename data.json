@@ -3,13 +3,17 @@
         "atual": 22.4,
         "manha": 20.2,
         "tarde": 28.4,
-        "noite": 21.8
+        "noite": 22.0
     },
     "forecast": {
-        "max": 27.6,
+        "max": 27.0,
         "min": 16.6
     },
     "news": [
+        {
+            "title": "Esta é uma semana dedicada a um dos maiores desafios ambientais: as espécies invasoras",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/local/noticia/semana-dedicada-maiores-desafios-ambientais-especies-invasoras-2175820"
+        },
         {
             "title": "F1: Russell vence <em>sprint </em>no Canadá com protestos de Antonelli",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/desporto/noticia/f1-russell-vence-sprint-canada-protestos-antonelli-2175821"
@@ -25,12 +29,8 @@
         {
             "title": "Bloco e PCP querem ver pacote laboral no “caixote do lixo” ou “no chão”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/politica/noticia/bloco-pcp-querem-pacote-laboral-caixote-lixo-chao-2175817"
-        },
-        {
-            "title": "Uma unidade árabe de fachada: três estratégias diferentes face ao Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/mundo/analise/unidade-arabe-fachada-tres-estrategias-diferentes-face-irao-2175784"
         }
     ],
     "finance": [],
-    "last_update": "23/05/2026 21:43"
+    "last_update": "23/05/2026 22:42"
 }
