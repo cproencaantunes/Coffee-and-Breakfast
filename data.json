@@ -2,8 +2,8 @@
     "weather": {
         "atual": 22.4,
         "manha": 20.2,
-        "tarde": 28.9,
-        "noite": 21.2
+        "tarde": 29.1,
+        "noite": 22.2
     },
     "forecast": {
         "max": 27.4,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
+            "title": "Relatório da Presidência Aberta deve ter acção consequente do Estado, pede autarca",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/sociedade/noticia/relatorio-presidencia-aberta-accao-consequente-estado-pede-autarca-2175788"
+        },
+        {
+            "title": "Associação pela Mobilidade Urbana em Bicicleta contra propostas sobre uso de capacete",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/sociedade/noticia/associacao-mobilidade-urbana-bicicleta-propostas-uso-capacete-2175787"
+        },
+        {
+            "title": "Feira do Livro de Madrid homenageia António Lobo Antunes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/culturaipsilon/noticia/feira-livro-madrid-homenageia-antonio-lobo-antunes-2175786"
+        },
+        {
+            "title": "Bruno Fernandes eleito melhor jogador da Premier League",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/desporto/noticia/bruno-fernandes-eleito-melhor-jogador-premier-league-2175785"
+        },
+        {
             "title": "Volta recolheu 400 mil embalagens no primeiro mês, diz associação da distribuição",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/economia/noticia/volta-recolheu-400-mil-embalagens-mes-associacao-distribuicao-2175783"
-        },
-        {
-            "title": "Fundadora do Instituto Moda Regenerativa, brasileira lança livro no Porto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/publico-brasil/noticia/fundadora-instituto-moda-regenerativa-brasileira-lanca-livro-porto-2175742"
-        },
-        {
-            "title": "Crianças abandonadas: prisão preventiva para mãe e companheiro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/sociedade/noticia/criancas-abandonadas-prisao-preventiva-mae-companheiro-2175779"
-        },
-        {
-            "title": "África do Sul: Parque Kruger, cem anos de sedução",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/fugas/reportagem/africa-sul-parque-kruger-cem-anos-seducao-2175055"
-        },
-        {
-            "title": "Montenegro diz que o povo está farto de eleições",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/23/politica/noticia/montenegro-povo-farto-eleicoes-2175780"
         }
     ],
     "finance": [],
-    "last_update": "23/05/2026 11:53"
+    "last_update": "23/05/2026 12:57"
 }
