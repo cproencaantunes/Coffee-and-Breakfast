@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 19.4,
-        "manha": 17.8,
-        "tarde": 25.2,
-        "noite": 22.4
+        "atual": 18.9,
+        "manha": 19.3,
+        "tarde": 26.9,
+        "noite": 23.8
     },
     "forecast": {
-        "max": 27.5,
-        "min": 17.6
+        "max": 32.7,
+        "min": 19.3
     },
     "news": [
         {
-            "title": "F1: Kimi Antonelli vence GP do Canadá e reforça comando do Mundial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/24/desporto/noticia/f1-kimi-antonelli-vence-gp-canada-reforca-comando-mundial-2175868"
+            "title": "Pacote fiscal da habitação: há sempre um mas…",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/opiniao/opiniao/pacote-fiscal-habitacao-ha-2175689"
         },
         {
-            "title": "Torres Vedras festejou a conquista do clube da terra: “Fizemos história”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/24/fotogaleria/torres-vedras-festejou-conquista-clube-terra-fizemos-historia-415553"
+            "title": "De Sócrates a Sócrates, o que mudou em 2400 anos?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/opiniao/opiniao/socrates-socrates-mudou-2400-anos-2175697"
         },
         {
-            "title": "Número de brasileiros repatriados da União Europeia quase dobra em 2025",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/24/publico-brasil/noticia/numero-brasileiros-repatriados-uniao-europeia-quase-dobra-2025-2175864"
+            "title": "Gozar com quem investiga",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/opiniao/opiniao/gozar-investiga-2175401"
         },
         {
-            "title": "A cabeça fria de Luís Tralhão: “Nem me mexi no segundo golo”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/24/desporto/noticia/luis-tralhao-mexi-segundo-golo-2175865"
+            "title": "A IA vai poder contratar e despedir?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/economia/noticia/ia-vai-contratar-despedir-2175663"
         },
         {
-            "title": "Ténis: estreia muito positiva de Nuno Borges em Paris",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/24/desporto/noticia/tenis-estreia-positiva-nuno-borges-paris-2175863"
+            "title": "Os números enfeitiçam-nos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/opiniao/cronica/numeros-enfeiticamnos-2175832"
         }
     ],
     "finance": [],
-    "last_update": "24/05/2026 22:45"
+    "last_update": "24/05/2026 23:50"
 }
