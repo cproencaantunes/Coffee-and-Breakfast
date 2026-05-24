@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.4,
         "manha": 17.8,
-        "tarde": 26.2,
-        "noite": 22.9
+        "tarde": 26.6,
+        "noite": 23.3
     },
     "forecast": {
-        "max": 27.5,
-        "min": 17.6
+        "max": 27.2,
+        "min": 17.5
     },
     "news": [
         {
-            "title": "A propaganda da desumanização",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/24/opiniao/opiniao/propaganda-desumanizacao-2175692"
+            "title": "José Domínguez Muñoz, “El Cabrero” (1944-2026), o cantautor de rebanhos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/24/culturaipsilon/cronica/jose-dominguez-munoz-el-cabrero-19442026-cantautor-rebanhos-2175176"
         },
         {
-            "title": "O ReCAP e a domesticação administrativa da docência: professores ou operadores de conformidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/24/opiniao/opiniao/recap-domesticacao-administrativa-docencia-professores-operadores-conformidade-2175679"
+            "title": "Totalitarismo: incerteza e actualidade de uma ideia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/24/mundo/ensaio/totalitarismo-incerteza-actualidade-ideia-2175192"
         },
         {
-            "title": "A erosão dos subsistemas e o dilema das fusões",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/24/opiniao/opiniao/erosao-subsistemas-dilema-fusoes-2175416"
+            "title": "A escola não é um saco sem fundo… e o saber também ocupa lugar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/24/impar/opiniao/escola-nao-saco-fundo-saber-tambem-ocupa-lugar-2175378"
         },
         {
-            "title": "O silêncio institucional em torno da Diretiva Europeia sobre Transparência Remuneratória",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/24/opiniao/opiniao/silencio-institucional-torno-diretiva-europeia-transparencia-remuneratoria-2175412"
+            "title": "Duncan Haldane: “Se a inteligência artificial fizer tudo por si, não saberá nada”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/24/ciencia/entrevista/duncan-haldane-inteligencia-artificial-fizer-nao-sabera-nada-2170139"
         },
         {
-            "title": "Os passeios ocupados e a erosão do respeito colectivo: uma obra pequena, uma grande reflexão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/24/opiniao/opiniao/passeios-ocupados-erosao-respeito-colectivo-obra-reflexao-2175683"
+            "title": "Conceição Lima (1961-2026), o seu “silêncio franqueia agora o umbral de qualquer coisa”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/24/culturaipsilon/noticia/conceicao-lima-silencio-franqueia-umbral-qualquer-2175413"
         }
     ],
     "finance": [],
-    "last_update": "24/05/2026 02:07"
+    "last_update": "24/05/2026 06:26"
 }
