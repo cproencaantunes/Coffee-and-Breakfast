@@ -3,13 +3,21 @@
         "atual": 19.4,
         "manha": 17.8,
         "tarde": 25.2,
-        "noite": 22.2
+        "noite": 22.4
     },
     "forecast": {
-        "max": 26.9,
-        "min": 17.4
+        "max": 27.5,
+        "min": 17.6
     },
     "news": [
+        {
+            "title": "F1: Kimi Antonelli vence GP do Canadá e reforça comando do Mundial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/24/desporto/noticia/f1-kimi-antonelli-vence-gp-canada-reforca-comando-mundial-2175868"
+        },
+        {
+            "title": "Torres Vedras festejou a conquista do clube da terra: “Fizemos história”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/24/fotogaleria/torres-vedras-festejou-conquista-clube-terra-fizemos-historia-415553"
+        },
         {
             "title": "Número de brasileiros repatriados da União Europeia quase dobra em 2025",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/24/publico-brasil/noticia/numero-brasileiros-repatriados-uniao-europeia-quase-dobra-2025-2175864"
@@ -21,16 +29,8 @@
         {
             "title": "Ténis: estreia muito positiva de Nuno Borges em Paris",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/24/desporto/noticia/tenis-estreia-positiva-nuno-borges-paris-2175863"
-        },
-        {
-            "title": "Trump agora, Trump depois, Trump outra vez",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/24/opiniao/editorial/trump-trump-trump-2175855"
-        },
-        {
-            "title": "Ébola: com RD Congo em alerta, Medicina do Viajante avisa quem viaja para o Uganda",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/24/sociedade/noticia/ebola-rd-congo-alerta-medicina-viajante-avisa-viaja-uganda-2175852"
         }
     ],
     "finance": [],
-    "last_update": "24/05/2026 21:44"
+    "last_update": "24/05/2026 22:45"
 }
