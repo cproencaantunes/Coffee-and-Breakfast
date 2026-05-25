@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 19.0,
-        "manha": 19.4,
-        "tarde": 27.0,
-        "noite": 24.0
+        "manha": 19.6,
+        "tarde": 26.9,
+        "noite": 23.8
     },
     "forecast": {
-        "max": 32.6,
+        "max": 32.3,
         "min": 19.5
     },
     "news": [
         {
-            "title": "Ezequiel mostra a sua <i>Portugalidade</i> como parcela do <i>Reflexo</i> do mundo que o rodeia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/video/ezequiel-mostra-portugalidade-parcela-reflexo-mundo-rodeia-20260524-223643"
+            "title": "Municípios assinalam 50 anos do poder local com homenagens, feira e conferência",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/local/noticia/municipios-assinalam-50-anos-local-homenagens-feira-conferencia-2175902"
         },
         {
-            "title": "Escritora brasileira transforma em poesia a dificuldade de ser mãe e imigrante",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/publico-brasil/noticia/escritora-brasileira-transforma-poesia-dificuldade-mae-imigrante-2175761"
+            "title": "O associativismo pode salvar a minha geração da solidão?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/p3/cronica/associativismo-salvar-geracao-solidao-2175705"
         },
         {
-            "title": "Despertador: Torreense leva a Taça. Professores processam escolas para que provem que cumprem lei",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/newsletter/despertador"
+            "title": "Os limites do corpo numa simbiose entre arte e ciência no Observatório de Coimbra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/publico-brasil/noticia/limites-corpo-simbiose-arte-ciencia-observatorio-coimbra-2175858"
         },
         {
-            "title": "Vem aí uma semana quente, com alertas de trovoada para Centro e Norte",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/azul/noticia/vem-ai-semana-quente-alertas-trovoada-centro-norte-2175876"
+            "title": "Preço do petróleo abaixo de 100 dólares, eventual acordo EUA-Irão anima bolsas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/economia/noticia/preco-petroleo-abaixo-100-dolares-eventual-acordo-euairao-anima-bolsas-2175893"
         },
         {
-            "title": "Tudo está conectado: formas dentro de formas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/publico-brasil/opiniao/conectado-formas-dentro-formas-2175751"
+            "title": "Papa exorta mundo a “abrandar” IA na sua primeira encíclica e recusa ideia de “guerra justa”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/sociedade/noticia/papa-exorta-mundo-abrandar-ia-primeira-enciclica-recusa-ideia-guerra-justa-2175892"
         }
     ],
     "finance": [],
-    "last_update": "25/05/2026 07:01"
+    "last_update": "25/05/2026 11:41"
 }
