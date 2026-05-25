@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.0,
         "manha": 19.4,
-        "tarde": 26.4,
-        "noite": 23.8
+        "tarde": 27.0,
+        "noite": 24.0
     },
     "forecast": {
-        "max": 32.7,
-        "min": 19.3
+        "max": 32.6,
+        "min": 19.5
     },
     "news": [
         {
-            "title": "Pacote fiscal da habitação: há sempre um mas…",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/opiniao/opiniao/pacote-fiscal-habitacao-ha-2175689"
+            "title": "Ezequiel mostra a sua <i>Portugalidade</i> como parcela do <i>Reflexo</i> do mundo que o rodeia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/video/ezequiel-mostra-portugalidade-parcela-reflexo-mundo-rodeia-20260524-223643"
         },
         {
-            "title": "De Sócrates a Sócrates, o que mudou em 2400 anos?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/opiniao/opiniao/socrates-socrates-mudou-2400-anos-2175697"
+            "title": "Escritora brasileira transforma em poesia a dificuldade de ser mãe e imigrante",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/publico-brasil/noticia/escritora-brasileira-transforma-poesia-dificuldade-mae-imigrante-2175761"
         },
         {
-            "title": "Gozar com quem investiga",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/opiniao/opiniao/gozar-investiga-2175401"
+            "title": "Despertador: Torreense leva a Taça. Professores processam escolas para que provem que cumprem lei",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/newsletter/despertador"
         },
         {
-            "title": "A IA vai poder contratar e despedir?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/economia/noticia/ia-vai-contratar-despedir-2175663"
+            "title": "Vem aí uma semana quente, com alertas de trovoada para Centro e Norte",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/azul/noticia/vem-ai-semana-quente-alertas-trovoada-centro-norte-2175876"
         },
         {
-            "title": "Os números enfeitiçam-nos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/opiniao/cronica/numeros-enfeiticamnos-2175832"
+            "title": "Tudo está conectado: formas dentro de formas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/publico-brasil/opiniao/conectado-formas-dentro-formas-2175751"
         }
     ],
     "finance": [],
-    "last_update": "25/05/2026 02:15"
+    "last_update": "25/05/2026 07:01"
 }
