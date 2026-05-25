@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 19.0,
-        "manha": 19.6,
-        "tarde": 27.4,
-        "noite": 23.9
+        "atual": 20.4,
+        "manha": 21.2,
+        "tarde": 32.1,
+        "noite": 26.7
     },
     "forecast": {
-        "max": 33.7,
-        "min": 19.1
+        "max": 32.6,
+        "min": 20.5
     },
     "news": [
         {
-            "title": "Irregularidades detectadas pela IGF no mandato de Viegas Nunes à frente da SIRESP foram corrigidas, diz MAI",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/sociedade/noticia/irregularidades-detectadas-igf-mandato-viegas-nunes-frente-siresp-corrigidas-mai-2175984"
+            "title": "O Governo tem um inimigo em Belém?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/politica/noticia/governo-inimigo-belem-2175987"
         },
         {
-            "title": "Serviço de televisão da Meo com falhas em várias zonas do país",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/economia/noticia/servico-televisao-meo-falhas-varias-zonas-pais-2175983"
+            "title": "O que nos diz o fetiche das maiorias absolutas?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/opiniao/opiniao/fetiche-maiorias-absolutas-2175900"
         },
         {
-            "title": "FC Porto contrata guarda-redes João Afonso ao Santa Clara",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/desporto/noticia/fc-porto-contrata-guardaredes-joao-afonso-santa-clara-2175982"
+            "title": "Legitimidade?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/opiniao/opiniao/legitimidade-2175897"
         },
         {
-            "title": "Stan Wawrinka despediu-se do <em>major </em>que venceu em 2015",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/desporto/noticia/stan-wawrinka-despediuse-major-venceu-2015-2175981"
+            "title": "Como Israel transforma a crueldade em rotina",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/opiniao/opiniao/israel-transforma-crueldade-rotina-2175951"
         },
         {
-            "title": "É aposentado brasileiro em Portugal? Começa o pagamento da 2ª parcela do 13º salário",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/publico-brasil/noticia/aposentado-brasileiro-portugal-comeca-pagamento-2-parcela-13-salario-2175979"
+            "title": "Crédito, cooperação e concorrência",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/opiniao/opiniao/credito-cooperacao-concorrencia-2175895"
         }
     ],
     "finance": [],
-    "last_update": "25/05/2026 22:00"
+    "last_update": "25/05/2026 23:54"
 }
