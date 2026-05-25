@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.0,
         "manha": 19.6,
-        "tarde": 26.9,
-        "noite": 23.8
+        "tarde": 27.0,
+        "noite": 23.6
     },
     "forecast": {
-        "max": 32.3,
-        "min": 19.5
+        "max": 32.7,
+        "min": 19.4
     },
     "news": [
         {
-            "title": "Municípios assinalam 50 anos do poder local com homenagens, feira e conferência",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/local/noticia/municipios-assinalam-50-anos-local-homenagens-feira-conferencia-2175902"
+            "title": "Magyar anuncia corte de salários de políticos na Hungria",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/mundo/noticia/magyar-anuncia-corte-salarios-politicos-hungria-2175925"
         },
         {
-            "title": "O associativismo pode salvar a minha geração da solidão?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/p3/cronica/associativismo-salvar-geracao-solidao-2175705"
+            "title": "Incêndio em armazém da DHL em Vila Franca de Xira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/local/noticia/incendio-armazem-dhl-vila-franca-xira-2175928"
         },
         {
-            "title": "Os limites do corpo numa simbiose entre arte e ciência no Observatório de Coimbra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/publico-brasil/noticia/limites-corpo-simbiose-arte-ciencia-observatorio-coimbra-2175858"
+            "title": "Lar do Comércio recebeu material para proteger da covid, mas guardou-o no salão nobre",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/sociedade/noticia/lar-comercio-recebeu-material-proteger-covid-guardouo-salao-nobre-2175458"
         },
         {
-            "title": "Preço do petróleo abaixo de 100 dólares, eventual acordo EUA-Irão anima bolsas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/economia/noticia/preco-petroleo-abaixo-100-dolares-eventual-acordo-euairao-anima-bolsas-2175893"
+            "title": "Chega quer ouvir António Costa em CPI à <em>Influencer </em>e impedi-lo de depor por escrito",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/politica/noticia/chega-quer-ouvir-antonio-costa-cpi-influencer-impedilo-depor-escrito-2175924"
         },
         {
-            "title": "Papa exorta mundo a “abrandar” IA na sua primeira encíclica e recusa ideia de “guerra justa”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/sociedade/noticia/papa-exorta-mundo-abrandar-ia-primeira-enciclica-recusa-ideia-guerra-justa-2175892"
+            "title": "Ministério da Administração Interna rejeita ilegalidades na gestão da SIRESP e destaca competência do presidente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/25/politica/noticia/ministerio-administracao-interna-rejeita-ilegalidades-gestao-siresp-destaca-competencia-presidente-2175923"
         }
     ],
     "finance": [],
-    "last_update": "25/05/2026 11:41"
+    "last_update": "25/05/2026 14:32"
 }
