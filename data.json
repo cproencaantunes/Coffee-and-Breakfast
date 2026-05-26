@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.2,
-        "manha": 20.9,
-        "tarde": 31.7,
-        "noite": 26.4
+        "atual": 0,
+        "manha": 0,
+        "tarde": 0,
+        "noite": 0
     },
     "forecast": {
-        "max": 31.8,
-        "min": 20.4
+        "max": 0,
+        "min": 0
     },
     "news": [
         {
-            "title": "Montenegro admite “modelar” <em>outsourcing</em>, mas não recua sobre banco de horas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/politica/noticia/montenegro-admite-modelar-outsourcing-nao-recua-banco-horas-2176015"
+            "title": "ICNF diz que foi cumprida a legislação no abate de pinheiros em Sesimbra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/local/noticia/icnf-cumprida-legislacao-abate-pinheiros-sesimbra-2176054"
         },
         {
-            "title": "Colisão entre comboio e autocarro escolar na Bélgica faz pelo menos quatro mortos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/mundo/noticia/colisao-comboio-autocarro-escolar-belgica-faz-varios-mortos-2176008"
+            "title": "Lítio: Associação diz que desmatações violam DIA em Boticas. Savannah nega",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/azul/noticia/litio-associacao-desmatacoes-violam-dia-boticas-savannah-nega-2176017"
         },
         {
-            "title": "Rússia ameaça nova escalada na Ucrânia e avisa diplomatas estrangeiros para saírem de Kiev",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/mundo/noticia/russia-ameaca-nova-escalada-ucrania-avisa-diplomatas-estrangeiros-sairem-kiev-2176007"
+            "title": "Governo do Brasil dará 2.600 bolsas para mestrado e doutorado a estudantes africanos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/publico-brasil/noticia/governo-brasil-dara-2600-bolsas-mestrado-doutorado-estudantes-africanos-2176047"
         },
         {
-            "title": "Polícia Judiciária faz buscas nas Águas de Gaia. Há dirigentes e empresários detidos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/sociedade/noticia/policia-judiciaria-faz-buscas-aguas-gaia-2176009"
+            "title": "Stellantis investe mil milhões numa nova geração de eléctricos na fábrica de Mulhouse",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/enter/noticia/stellantis-investe-mil-milhoes-nova-geracao-electricos-fabrica-mulhouse-2176042"
         },
         {
-            "title": "Onda de calor já atravessa país: temperaturas mantêm-se elevadas e prometem noites tropicais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/azul/noticia/onda-calor-ja-atravessa-pais-temperaturas-mantemse-elevadas-prometem-noites-tropicais-2176004"
+            "title": "Ex-marido de antiga primeira-ministra da Escócia declara-se culpado de desviar mais de 400 mil libras",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/mundo/noticia/exmarido-antiga-primeiraministra-escocia-declarase-culpado-desviar-400-mil-libras-2176043"
         }
     ],
     "finance": [],
-    "last_update": "26/05/2026 10:40"
+    "last_update": "26/05/2026 13:45"
 }
