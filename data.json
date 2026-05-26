@@ -3,13 +3,25 @@
         "atual": 20.2,
         "manha": 20.9,
         "tarde": 32.0,
-        "noite": 27.0
+        "noite": 26.9
     },
     "forecast": {
-        "max": 32.2,
-        "min": 20.6
+        "max": 31.8,
+        "min": 20.5
     },
     "news": [
+        {
+            "title": "O país de pouca gente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/opiniao/cronica/pais-gente-2176025"
+        },
+        {
+            "title": "Flávio Bolsonaro recebido por Donald Trump na Casa Branca",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/mundo/noticia/flavio-bolsonaro-recebido-donald-trump-casa-branca-2176140"
+        },
+        {
+            "title": "Passos Coelho ao ataque aos “políticos prostitutos”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/politica/noticia/passos-coelho-ataque-politicos-prostitutos-2176139"
+        },
         {
             "title": "Polícia entra em avião da brasileira Latam na Alemanha após confusão sobre assentos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/publico-brasil/noticia/policia-entra-aviao-brasileira-latam-alemanha-apos-confusao-assentos-2176138"
@@ -17,20 +29,8 @@
         {
             "title": "Ex-carmelita, artista plástico brasileiro aborda em mostra até violência do celibato",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/publico-brasil/noticia/excarmelita-artista-plastico-brasileiro-aborda-mostra-ate-violencia-celibato-2176108"
-        },
-        {
-            "title": "Seguro e Montenegro: choque na coabitação?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/opiniao/editorial/seguro-montenegro-choque-coabitacao-2176135"
-        },
-        {
-            "title": "Em modo anti-<em>woke</em>, Passos diz que políticos postiços ficam “prostitutos sem carácter”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/politica/noticia/modo-antiwoke-passos-politicos-posticos-ficam-prostitutos-caracter-2176136"
-        },
-        {
-            "title": "Parlamento vai ouvir Rangel acerca de declarações de Rubio sobre Lajes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/politica/noticia/parlamento-vai-ouvir-rangel-acerca-declaracoes-rubio-lajes-2176128"
         }
     ],
     "finance": [],
-    "last_update": "26/05/2026 21:27"
+    "last_update": "26/05/2026 22:59"
 }
