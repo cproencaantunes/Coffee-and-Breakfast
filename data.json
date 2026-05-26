@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 0,
-        "manha": 0,
-        "tarde": 0,
-        "noite": 0
+        "atual": 20.2,
+        "manha": 20.9,
+        "tarde": 32.0,
+        "noite": 26.2
     },
     "forecast": {
-        "max": 0,
-        "min": 0
+        "max": 32.5,
+        "min": 20.3
     },
     "news": [
         {
-            "title": "ICNF diz que foi cumprida a legislação no abate de pinheiros em Sesimbra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/local/noticia/icnf-cumprida-legislacao-abate-pinheiros-sesimbra-2176054"
+            "title": "Seguro promulga novo subsídio de mobilidade com alertas sobre fim do tecto máximo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/politica/noticia/seguro-promulga-novo-subsidio-mobilidade-alertas-fim-tecto-maximo-2176107"
         },
         {
-            "title": "Lítio: Associação diz que desmatações violam DIA em Boticas. Savannah nega",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/azul/noticia/litio-associacao-desmatacoes-violam-dia-boticas-savannah-nega-2176017"
+            "title": "Prioridade na utilização de cativações vai para salários e pagamentos em atraso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/economia/noticia/prioridade-utilizacao-cativacoes-vai-salarios-pagamentos-atraso-2176109"
         },
         {
-            "title": "Governo do Brasil dará 2.600 bolsas para mestrado e doutorado a estudantes africanos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/publico-brasil/noticia/governo-brasil-dara-2600-bolsas-mestrado-doutorado-estudantes-africanos-2176047"
+            "title": "Guardas da Revolução dizem que negociar é “perda de tempo” após EUA violarem cessar-fogo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/mundo/noticia/guardas-revolucao-negociar-perda-tempo-apos-eua-violarem-cessarfogo-2176104"
         },
         {
-            "title": "Stellantis investe mil milhões numa nova geração de eléctricos na fábrica de Mulhouse",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/enter/noticia/stellantis-investe-mil-milhoes-nova-geracao-electricos-fabrica-mulhouse-2176042"
+            "title": "Suspeito da morte do pai, Jonathan Andic afasta-se da administração da Mango",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/impar/noticia/suspeito-morte-pai-jonathan-andic-afastase-administracao-mango-2176103"
         },
         {
-            "title": "Ex-marido de antiga primeira-ministra da Escócia declara-se culpado de desviar mais de 400 mil libras",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/mundo/noticia/exmarido-antiga-primeiraministra-escocia-declarase-culpado-desviar-400-mil-libras-2176043"
+            "title": "Nova estratégia da TAP até 2035 é ser a “companhia preferida” entre Europa e Américas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/economia/noticia/nova-estrategia-tap-ate-2035-companhia-preferida-europa-americas-2176096"
         }
     ],
     "finance": [],
-    "last_update": "26/05/2026 13:45"
+    "last_update": "26/05/2026 17:19"
 }
