@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.2,
-        "manha": 21.2,
-        "tarde": 31.9,
+        "manha": 20.9,
+        "tarde": 31.7,
         "noite": 26.4
     },
     "forecast": {
-        "max": 31.7,
-        "min": 20.7
+        "max": 31.8,
+        "min": 20.4
     },
     "news": [
         {
-            "title": "Maria Gal: “Carolina pertence ao Brasil, mas sua humanidade pertence ao mundo”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/publico-brasil/entrevista/maria-gal-carolina-pertence-brasil-humanidade-pertence-mundo-2175942"
+            "title": "Montenegro admite “modelar” <em>outsourcing</em>, mas não recua sobre banco de horas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/politica/noticia/montenegro-admite-modelar-outsourcing-nao-recua-banco-horas-2176015"
         },
         {
-            "title": "João Costa: “Sou um bocado jogador/adepto, como se fosse um museu com pernas”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/desporto/entrevista/joao-costa-desde-momento-vi-iamos-equipa-porto-2175915"
+            "title": "Colisão entre comboio e autocarro escolar na Bélgica faz pelo menos quatro mortos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/mundo/noticia/colisao-comboio-autocarro-escolar-belgica-faz-varios-mortos-2176008"
         },
         {
-            "title": "No Porto, há uma unidade para quem não tem médico de família: “A saúde tem de chegar a todos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/sociedade/noticia/porto-ha-unidade-nao-medico-familia-saude-chegar-2175154"
+            "title": "Rússia ameaça nova escalada na Ucrânia e avisa diplomatas estrangeiros para saírem de Kiev",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/mundo/noticia/russia-ameaca-nova-escalada-ucrania-avisa-diplomatas-estrangeiros-sairem-kiev-2176007"
         },
         {
-            "title": "Governo abre a porta ao fabrico de bolsas de nicotina em Portugal e com sabores a mentol e menta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/sociedade/noticia/governo-abre-porta-fabrico-bolsas-nicotina-portugal-sabores-mentol-menta-2175946"
+            "title": "Polícia Judiciária faz buscas nas Águas de Gaia. Há dirigentes e empresários detidos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/sociedade/noticia/policia-judiciaria-faz-buscas-aguas-gaia-2176009"
         },
         {
-            "title": "Bad Bunny em Portugal. Como o porto-riquenho está a mudar a indústria musical",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/culturaipsilon/noticia/bad-bunny-portugal-portoriquenho-mudar-industria-musical-2175934"
+            "title": "Onda de calor já atravessa país: temperaturas mantêm-se elevadas e prometem noites tropicais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/azul/noticia/onda-calor-ja-atravessa-pais-temperaturas-mantemse-elevadas-prometem-noites-tropicais-2176004"
         }
     ],
     "finance": [],
-    "last_update": "26/05/2026 06:36"
+    "last_update": "26/05/2026 10:40"
 }
