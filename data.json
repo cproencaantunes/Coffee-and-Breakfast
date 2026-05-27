@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.2,
-        "manha": 20.9,
-        "tarde": 32.0,
-        "noite": 26.9
+        "atual": 24.4,
+        "manha": 22.6,
+        "tarde": 31.7,
+        "noite": 23.5
     },
     "forecast": {
-        "max": 31.8,
-        "min": 20.5
+        "max": 28.7,
+        "min": 17.9
     },
     "news": [
         {
-            "title": "O país de pouca gente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/opiniao/cronica/pais-gente-2176025"
+            "title": "Longa vida à Feira do Livro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/opiniao/opiniao/longa-vida-feira-livro-2176011"
         },
         {
-            "title": "Flávio Bolsonaro recebido por Donald Trump na Casa Branca",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/mundo/noticia/flavio-bolsonaro-recebido-donald-trump-casa-branca-2176140"
+            "title": "Falar dos sindicatos para não falar do essencial?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/opiniao/opiniao/falar-sindicatos-nao-falar-essencial-2176014"
         },
         {
-            "title": "Passos Coelho ao ataque aos “políticos prostitutos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/politica/noticia/passos-coelho-ataque-politicos-prostitutos-2176139"
+            "title": "Precisamos de um mecanismo nacional de gestão de crises",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/opiniao/opiniao/precisamos-mecanismo-nacional-gestao-crises-2176041"
         },
         {
-            "title": "Polícia entra em avião da brasileira Latam na Alemanha após confusão sobre assentos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/publico-brasil/noticia/policia-entra-aviao-brasileira-latam-alemanha-apos-confusao-assentos-2176138"
+            "title": "Antissemitismo, o silêncio que nos vai matando",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/opiniao/opiniao/antissemitismo-silencio-vai-matando-2175903"
         },
         {
-            "title": "Ex-carmelita, artista plástico brasileiro aborda em mostra até violência do celibato",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/26/publico-brasil/noticia/excarmelita-artista-plastico-brasileiro-aborda-mostra-ate-violencia-celibato-2176108"
+            "title": "Quando os filhos agridem os pais: o que revelam os números — e o que exigem compreender",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/opiniao/opiniao/filhos-agridem-pais-revelam-numeros-exigem-compreender-2176003"
         }
     ],
     "finance": [],
-    "last_update": "26/05/2026 22:59"
+    "last_update": "27/05/2026 00:07"
 }
