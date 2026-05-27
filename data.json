@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 24.4,
-        "manha": 22.3,
-        "tarde": 32.4,
-        "noite": 24.0
+        "atual": 21.4,
+        "manha": 21.1,
+        "tarde": 28.4,
+        "noite": 22.3
     },
     "forecast": {
-        "max": 28.9,
-        "min": 17.8
+        "max": 27.2,
+        "min": 17.4
     },
     "news": [
         {
+            "title": "Mobilidade: olhar à frente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/opiniao/opiniao/mobilidade-olhar-frente-2176221"
+        },
+        {
+            "title": "Já leste estes livros todos?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/opiniao/cronica/ja-leste-livros-2176187"
+        },
+        {
+            "title": "Seguro vai ser um Presidente incómodo? Ainda bem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/opiniao/opiniao/seguro-vai-presidente-incomodo-bem-2176204"
+        },
+        {
+            "title": "Dois passageiros assistidos à chegada de voo da TAP a Lisboa após “turbulência forte”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/sociedade/noticia/dois-passageiros-assistidos-chegada-voo-tap-lisboa-apos-turbulencia-forte-2176282"
+        },
+        {
             "title": "Na conferência dos plebeus, reinou o favorito Crystal Palace",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/desporto/noticia/conferencia-plebeus-reinou-favorito-crystal-palace-2176280"
-        },
-        {
-            "title": "Associação diz ser frequente serviços negarem atendimento a grávidas sem contacto com SNS24",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/sociedade/noticia/associacao-frequente-servicos-negarem-atendimento-gravidas-contacto-sns24-2176279"
-        },
-        {
-            "title": "Governo da Madeira defende que Reserva Marinha D. Carlos tem de salvaguardar pesca",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/azul/noticia/governo-madeira-defende-reserva-marinha-d-carlos-salvaguardar-pesca-2176095"
-        },
-        {
-            "title": "Governo admite falhas nas tempestades e fala em câmaras “exauridas” por atraso nos apoios",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/politica/noticia/governo-admite-falhas-tempestadas-fala-camaras-exauridas-atraso-apoios-2176261"
-        },
-        {
-            "title": "João Almeida, Madalena Costa e selecção de andebol entre os melhores do ano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/desporto/noticia/joao-almeida-madalena-costa-seleccao-andebol-melhores-ano-2176257"
         }
     ],
     "finance": [],
-    "last_update": "27/05/2026 21:44"
+    "last_update": "27/05/2026 23:08"
 }
