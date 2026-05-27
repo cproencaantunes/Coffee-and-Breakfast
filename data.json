@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 24.4,
-        "manha": 22.6,
-        "tarde": 31.7,
-        "noite": 23.5
+        "manha": 22.5,
+        "tarde": 31.9,
+        "noite": 23.2
     },
     "forecast": {
-        "max": 28.7,
-        "min": 17.9
+        "max": 28.4,
+        "min": 17.5
     },
     "news": [
+        {
+            "title": "Venda forçada de heranças indivisas pode agravar litígios, avisa Conselho Superior da Magistratura",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/economia/noticia/venda-forcada-herancas-indivisas-agravar-litigios-avisa-conselho-superior-magistratura-2175969"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/opiniao/opiniao/cartas-director-2176052"
+        },
         {
             "title": "Longa vida à Feira do Livro",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/opiniao/opiniao/longa-vida-feira-livro-2176011"
@@ -21,16 +29,8 @@
         {
             "title": "Precisamos de um mecanismo nacional de gestão de crises",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/opiniao/opiniao/precisamos-mecanismo-nacional-gestao-crises-2176041"
-        },
-        {
-            "title": "Antissemitismo, o silêncio que nos vai matando",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/opiniao/opiniao/antissemitismo-silencio-vai-matando-2175903"
-        },
-        {
-            "title": "Quando os filhos agridem os pais: o que revelam os números — e o que exigem compreender",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/opiniao/opiniao/filhos-agridem-pais-revelam-numeros-exigem-compreender-2176003"
         }
     ],
     "finance": [],
-    "last_update": "27/05/2026 00:07"
+    "last_update": "27/05/2026 05:08"
 }
