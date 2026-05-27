@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 24.4,
-        "manha": 22.5,
-        "tarde": 31.6,
+        "manha": 22.3,
+        "tarde": 32.4,
         "noite": 24.0
     },
     "forecast": {
-        "max": 28.4,
+        "max": 28.0,
         "min": 17.6
     },
     "news": [
         {
-            "title": "“Não é piada, é o caos”: filas no aeroporto de Lisboa chegam à CNN internacional",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/sociedade/noticia/nao-piada-caos-filas-aeroporto-lisboa-chegam-cnn-internacional-2176153"
+            "title": "Trump escolheu Paxton no Texas, os republicanos ouviram e os democratas celebram",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/mundo/noticia/trump-escolheu-paxton-texas-republicanos-ouviram-democratas-celebram-2176209"
         },
         {
-            "title": "Guarda Civil na sede do PSOE em Madrid, casas de ex-dirigentes socialistas alvo de buscas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/mundo/noticia/guarda-civil-sede-psoe-recolher-documentos-caso-corrupcao-2176152"
+            "title": "Palavra “mãe” foi apagada da “nova caderneta da gestante” do Brasil? Falso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/mundo/noticia/palavra-mae-apagada-nova-caderneta-gestante-brasil-falso-2176228"
         },
         {
-            "title": "Investimento no SNS permitiu retorno de 10,2 mil milhões na economia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/sociedade/noticia/investimento-sns-permitiu-retorno-102-mil-milhoes-economia-2176149"
+            "title": "Incêndio em armazém no Porto de Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/local/noticia/incendio-armazem-porto-lisboa-2176237"
         },
         {
-            "title": "Uma questão de expectativas: ausência de mulheres e minorias passa despercebida tanto no trabalho como na escola",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/p3/noticia/questao-expectativas-ausencia-mulheres-minorias-passa-despercebida-tanto-trabalho-escola-2176044"
+            "title": "Vingegaard e Eulálio tranquilos no Giro em etapa ganha por Valgren",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/desporto/noticia/vingegaard-eulalio-tranquilos-giro-etapa-ganha-valgren-2176223"
         },
         {
-            "title": "<em>Falta Muito para Amanhã</em>: veneno em Singapura",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/culturaipsilon/critica/falta-amanha-veneno-singapura-2176006"
+            "title": "A espingarda é a resposta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/27/p3/cronica/espingarda-resposta-2176222"
         }
     ],
     "finance": [],
-    "last_update": "27/05/2026 08:59"
+    "last_update": "27/05/2026 16:31"
 }
