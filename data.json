@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 21.4,
-        "manha": 21.1,
-        "tarde": 28.8,
-        "noite": 22.0
+        "manha": 21.2,
+        "tarde": 28.7,
+        "noite": 22.3
     },
     "forecast": {
-        "max": 27.5,
-        "min": 17.4
+        "max": 27.6,
+        "min": 17.5
     },
     "news": [
         {
-            "title": "Alexandre Poço: “Não vejo o primeiro-ministro como destinatário” das críticas de Passos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/politica/entrevista/alexandre-poco-nao-vejo-primeiroministro-destinatario-criticas-passos-2176256"
+            "title": "Incêndio em escola no Quénia deixa pelo menos 16 mortos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/mundo/noticia/incendio-escola-quenia-deixa-menos-16-mortos-2176308"
         },
         {
-            "title": "A Grande Muralha da literacia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/ciencia/opiniao/muralha-literacia-2176178"
+            "title": "<em>Sem Terra à Vista</em>, uma exposição imensa em São João da Madeira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/culturaipsilon/critica/terra-vista-exposicao-imensa-sao-joao-madeira-2175686"
         },
         {
-            "title": "Porque é que a Espanha parece grande por fora e pequena por dentro?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/mundo/noticia/espanha-parece-dentro-2176229"
+            "title": "Caixas de pizza com gordura podem ir para o ecoponto azul? Sim!",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/azul/noticia/caixas-pizza-gordura-podem-ir-ecoponto-azul-sim-2176048"
         },
         {
-            "title": "Calor extremo vai persistir na Europa até 2030, avisam os cientistas da OMM",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/azul/noticia/calor-extremo-vai-persistir-europa-ate-2030-avisam-cientistas-omm-2176269"
+            "title": "Sting diz que há mais “masculinidade tóxica” porque os homens não usam a “força masculina” nos seus trabalhos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/impar/noticia/sting-ha-masculinidade-toxica-homens-nao-usam-forca-masculina-trabalhos-2176304"
         },
         {
-            "title": "Entidades do SNS arriscam milhares de coimas por roubo de dados dos utentes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/sociedade/noticia/entidades-sns-arriscam-milhares-coimas-roubo-dados-utentes-2176214"
+            "title": "Pela primeira vez, Brasil alcança índice de desenvolvimento humano muito elevado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/mundo/noticia/primeira-brasil-alcanca-indice-desenvolvimento-humano-elevado-2176305"
         }
     ],
     "finance": [],
-    "last_update": "28/05/2026 06:10"
+    "last_update": "28/05/2026 10:43"
 }
