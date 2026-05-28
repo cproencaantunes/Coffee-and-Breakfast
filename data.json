@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 21.4,
-        "manha": 21.4,
-        "tarde": 29.1,
-        "noite": 22.5
+        "manha": 21.1,
+        "tarde": 28.8,
+        "noite": 22.0
     },
     "forecast": {
-        "max": 27.2,
+        "max": 27.5,
         "min": 17.4
     },
     "news": [
         {
-            "title": "EUA lançam novos ataques no Irão junto ao estreito de Ormuz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/mundo/noticia/eua-lancam-novos-ataques-irao-junto-estreito-ormuz-2176284"
+            "title": "Alexandre Poço: “Não vejo o primeiro-ministro como destinatário” das críticas de Passos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/politica/entrevista/alexandre-poco-nao-vejo-primeiroministro-destinatario-criticas-passos-2176256"
         },
         {
-            "title": "A “impaciência” dos portugueses e o seu profeta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/opiniao/opiniao/impaciencia-portugueses-profeta-2176227"
+            "title": "A Grande Muralha da literacia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/ciencia/opiniao/muralha-literacia-2176178"
         },
         {
-            "title": "Gente a mais? A preguiça intelectual e moral da “maisfobia”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/opiniao/opiniao/gente-preguica-intelectual-moral-maisfobia-2176271"
+            "title": "Porque é que a Espanha parece grande por fora e pequena por dentro?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/mundo/noticia/espanha-parece-dentro-2176229"
         },
         {
-            "title": "Quando a rádio nos dava cinco minutos, e não eram de jazz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/culturaipsilon/opiniao/radio-dava-cinco-minutos-nao-jazz-2176034"
+            "title": "Calor extremo vai persistir na Europa até 2030, avisam os cientistas da OMM",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/azul/noticia/calor-extremo-vai-persistir-europa-ate-2030-avisam-cientistas-omm-2176269"
         },
         {
-            "title": "O país onde matar ainda se chama equilíbrio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/opiniao/opiniao/pais-onde-matar-chama-equilibrio-2176216"
+            "title": "Entidades do SNS arriscam milhares de coimas por roubo de dados dos utentes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/sociedade/noticia/entidades-sns-arriscam-milhares-coimas-roubo-dados-utentes-2176214"
         }
     ],
     "finance": [],
-    "last_update": "28/05/2026 01:58"
+    "last_update": "28/05/2026 06:10"
 }
