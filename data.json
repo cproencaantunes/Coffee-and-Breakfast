@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.4,
         "manha": 21.2,
-        "tarde": 28.7,
-        "noite": 22.3
+        "tarde": 28.8,
+        "noite": 21.5
     },
     "forecast": {
-        "max": 27.6,
-        "min": 17.5
+        "max": 27.4,
+        "min": 17.3
     },
     "news": [
         {
-            "title": "Incêndio em escola no Quénia deixa pelo menos 16 mortos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/mundo/noticia/incendio-escola-quenia-deixa-menos-16-mortos-2176308"
+            "title": "Carneiro salienta que “investigação não visa PS” e promete defender legalidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/politica/noticia/carneiro-salienta-investigacao-nao-visa-ps-promete-defender-legalidade-2176336"
         },
         {
-            "title": "<em>Sem Terra à Vista</em>, uma exposição imensa em São João da Madeira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/culturaipsilon/critica/terra-vista-exposicao-imensa-sao-joao-madeira-2175686"
+            "title": "<em>Operação Imergente</em>: partidos defendem transparência, Luís Neves não comenta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/politica/noticia/operacao-imergente-partidos-defendem-transparencia-luis-neves-nao-comenta-2176326"
         },
         {
-            "title": "Caixas de pizza com gordura podem ir para o ecoponto azul? Sim!",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/azul/noticia/caixas-pizza-gordura-podem-ir-ecoponto-azul-sim-2176048"
+            "title": "Cantor e perfomer brasileiro estreia show em Portugal inspirado em Ney Matogrosso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/publico-brasil/noticia/cantor-perfomer-brasileiro-estreia-show-portugal-inspirado-ney-matogrosso-2176190"
         },
         {
-            "title": "Sting diz que há mais “masculinidade tóxica” porque os homens não usam a “força masculina” nos seus trabalhos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/impar/noticia/sting-ha-masculinidade-toxica-homens-nao-usam-forca-masculina-trabalhos-2176304"
+            "title": "Lightsource BP quer “pastoreio solar” na central fotovoltaica Sophia, na Beira Baixa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/azul/noticia/lightsource-bp-quer-pastoreio-solar-central-fotovoltaica-sophia-beira-baixa-2176310"
         },
         {
-            "title": "Pela primeira vez, Brasil alcança índice de desenvolvimento humano muito elevado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/mundo/noticia/primeira-brasil-alcanca-indice-desenvolvimento-humano-elevado-2176305"
+            "title": "O tempo nos Açores é sempre incerto, mas há um novo auxílio para os visitantes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/fugas/noticia/tempo-acores-incerto-ha-novo-auxilio-visitantes-2176315"
         }
     ],
     "finance": [],
-    "last_update": "28/05/2026 10:43"
+    "last_update": "28/05/2026 14:27"
 }
