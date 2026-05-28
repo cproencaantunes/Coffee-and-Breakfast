@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.4,
         "manha": 21.2,
-        "tarde": 28.8,
+        "tarde": 28.4,
         "noite": 21.5
     },
     "forecast": {
-        "max": 27.4,
-        "min": 17.3
+        "max": 28.1,
+        "min": 17.6
     },
     "news": [
         {
-            "title": "Carneiro salienta que “investigação não visa PS” e promete defender legalidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/politica/noticia/carneiro-salienta-investigacao-nao-visa-ps-promete-defender-legalidade-2176336"
+            "title": "Jaime Faria não pára de ganhar em Roland-Garros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/desporto/noticia/jaime-faria-nao-ganhar-rolandgarros-2176390"
         },
         {
-            "title": "<em>Operação Imergente</em>: partidos defendem transparência, Luís Neves não comenta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/politica/noticia/operacao-imergente-partidos-defendem-transparencia-luis-neves-nao-comenta-2176326"
+            "title": "Num mundo movido pelo ódio, Bad Bunny escolhe falar de amor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/p3/cronica/mundo-movido-odio-bad-bunny-escolhe-falar-amor-2176386"
         },
         {
-            "title": "Cantor e perfomer brasileiro estreia show em Portugal inspirado em Ney Matogrosso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/publico-brasil/noticia/cantor-perfomer-brasileiro-estreia-show-portugal-inspirado-ney-matogrosso-2176190"
+            "title": "Tecnologia que evita a venda de bilhetes a <em>bots</em> conquista Thirty Seconds to Mars",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/enter/noticia/tecnologia-evita-venda-bilhetes-bots-conquista-thirty-seconds-to-mars-2176377"
         },
         {
-            "title": "Lightsource BP quer “pastoreio solar” na central fotovoltaica Sophia, na Beira Baixa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/azul/noticia/lightsource-bp-quer-pastoreio-solar-central-fotovoltaica-sophia-beira-baixa-2176310"
+            "title": "Feira do Disco de Vinil volta a Marvila em segunda edição, nos dias 30 e 31 de Maio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/culturaipsilon/noticia/feira-disco-vinil-volta-marvila-segunda-edicao-dias-30-31-maio-2176381"
         },
         {
-            "title": "O tempo nos Açores é sempre incerto, mas há um novo auxílio para os visitantes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/fugas/noticia/tempo-acores-incerto-ha-novo-auxilio-visitantes-2176315"
+            "title": "Existem “300 mil crianças na pobreza” em Portugal, como afirmou Paulo Raimundo? Sim",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/politica/noticia/existem-300-mil-criancas-pobreza-portugal-afirmou-paulo-raimundo-sim-2176327"
         }
     ],
     "finance": [],
-    "last_update": "28/05/2026 14:27"
+    "last_update": "28/05/2026 17:55"
 }
