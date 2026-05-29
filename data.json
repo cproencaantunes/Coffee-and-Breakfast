@@ -2,35 +2,35 @@
     "weather": {
         "atual": 18.4,
         "manha": 19.0,
-        "tarde": 27.9,
-        "noite": 20.3
+        "tarde": 27.5,
+        "noite": 20.4
     },
     "forecast": {
         "max": 26.2,
-        "min": 17.2
+        "min": 17.0
     },
     "news": [
         {
-            "title": "Da terapia genética aos miniporcos, Putin gasta 22 mil milhões para viver para sempre",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/impar/noticia/terapia-genetica-miniporcos-putin-gasta-22-mil-milhoes-viver-2176442"
+            "title": "Trump toma hoje “decisão final” sobre acordo com o Irão, mas cita termos recusados por Teerão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/mundo/noticia/trump-toma-hoje-decisao-final-acordo-irao-cita-termos-recusados-teerao-2176530"
         },
         {
-            "title": "João Gomes volta a Portugal em 2027 com projeto<em> Dominguinho</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/publico-brasil/noticia/joao-gomes-volta-portugal-projeto-dominguinho-2027-2176319"
+            "title": "UNESCO quer até 2036 um geoparque num país lusófono africano ou asiático",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/azul/noticia/unesco-quer-ate-2036-geoparque-pais-lusofono-africano-asiatico-2176470"
         },
         {
-            "title": "Preços da energia disparam em Maio e mantêm inflação acima dos 3%",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/economia/noticia/precos-energia-disparam-maio-mantem-inflacao-acima-3-2176451"
+            "title": "Eulálio sofreu, mas segurou camisola branca na etapa rainha do Giro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/desporto/noticia/eulalio-sofreu-segurou-camisola-branca-etapa-rainha-giro-2176520"
         },
         {
-            "title": "PIB com variação nula: investimento acelera, mas faz disparar as importações",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/economia/noticia/pib-variacao-nula-investimento-acelera-faz-disparar-importacoes-2176452"
+            "title": "As provas cegas, o Reserva Especial e <em>O Estrangeiro</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/fugas/cronica/provas-cegas-reserva-especial-estrangeiro-2175873"
         },
         {
-            "title": "Companhias aéreas dizem que Lisboa “atingiu um ponto intolerável e irrazoável”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/economia/noticia/companhias-aereas-lisboa-atingiu-ponto-intoleravel-irrazoavel-2176448"
+            "title": "Netanyahu diz que as forças israelitas cruzaram o rio Litani no Líbano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/mundo/noticia/netanyahu-forcas-israelitas-cruzaram-rio-litani-libano-2176524"
         }
     ],
     "finance": [],
-    "last_update": "29/05/2026 12:39"
+    "last_update": "29/05/2026 16:34"
 }
