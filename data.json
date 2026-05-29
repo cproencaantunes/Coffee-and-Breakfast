@@ -2,35 +2,35 @@
     "weather": {
         "atual": 18.4,
         "manha": 19.0,
-        "tarde": 27.0,
-        "noite": 20.1
+        "tarde": 27.9,
+        "noite": 20.3
     },
     "forecast": {
-        "max": 26.3,
-        "min": 17.1
+        "max": 26.2,
+        "min": 17.2
     },
     "news": [
         {
-            "title": "Felizes os que têm uma estação palerma",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/culturaipsilon/cronica/felizes-estacao-palerma-2176002"
+            "title": "Da terapia genética aos miniporcos, Putin gasta 22 mil milhões para viver para sempre",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/impar/noticia/terapia-genetica-miniporcos-putin-gasta-22-mil-milhoes-viver-2176442"
         },
         {
-            "title": "Histórias para não adormecermos: uma conversa com Laurie Anderson",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/newsletter/ipsilon"
+            "title": "João Gomes volta a Portugal em 2027 com projeto<em> Dominguinho</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/publico-brasil/noticia/joao-gomes-volta-portugal-projeto-dominguinho-2027-2176319"
         },
         {
-            "title": "Anthropic consegue reunir 65 mil milhões de dólares em fundos privados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/enter/noticia/anthropic-consegue-reunir-65-mil-milhoes-dolares-fundos-privados-2176432"
+            "title": "Preços da energia disparam em Maio e mantêm inflação acima dos 3%",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/economia/noticia/precos-energia-disparam-maio-mantem-inflacao-acima-3-2176451"
         },
         {
-            "title": "Ministério Público faz buscas relacionadas com acidente do elevador da Glória",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/sociedade/noticia/ministerio-publico-faz-buscas-relacionadas-acidente-elevador-gloria-2176436"
+            "title": "PIB com variação nula: investimento acelera, mas faz disparar as importações",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/economia/noticia/pib-variacao-nula-investimento-acelera-faz-disparar-importacoes-2176452"
         },
         {
-            "title": "O sentimento de um acidental: Mário Santos revela-se com dois romances",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/culturaipsilon/critica/sentimento-acidental-mario-santos-revelase-dois-romances-2175944"
+            "title": "Companhias aéreas dizem que Lisboa “atingiu um ponto intolerável e irrazoável”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/economia/noticia/companhias-aereas-lisboa-atingiu-ponto-intoleravel-irrazoavel-2176448"
         }
     ],
     "finance": [],
-    "last_update": "29/05/2026 09:33"
+    "last_update": "29/05/2026 12:39"
 }
