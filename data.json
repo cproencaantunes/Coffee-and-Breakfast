@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 21.4,
-        "manha": 21.2,
-        "tarde": 28.4,
-        "noite": 21.7
+        "atual": 18.4,
+        "manha": 19.4,
+        "tarde": 27.4,
+        "noite": 20.3
     },
     "forecast": {
-        "max": 28.3,
-        "min": 17.6
+        "max": 26.5,
+        "min": 17.4
     },
     "news": [
         {
-            "title": "Procurador-geral nega <em>timings</em> políticos nas investigações e buscas do MP",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/sociedade/noticia/pgr-nega-timings-politicos-investigacoes-buscas-ministerio-publico-2176417"
+            "title": "França anula por unanimidade e com atraso de 180 anos código legal que regulava escravatura",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/mundo/noticia/franca-anula-unanimidade-atraso-180-anos-codigo-legal-regulava-escravatura-2176420"
         },
         {
-            "title": "O drama de Passos Coelho: como suceder a Montenegro?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/newsletter/diarios-republica"
+            "title": "A verdade dos factos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/opiniao/opiniao/verdade-factos-2176403"
         },
         {
-            "title": "Miúdos a Votos: já se conhecem os livros eleitos pelos alunos de todo o país",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/sociedade/noticia/miudos-votos-ja-conhecem-livros-eleitos-alunos-pais-2176411"
+            "title": "Merecemos mais coragem por parte de Passos Coelho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/opiniao/opiniao/merecemos-coragem-parte-passos-coelho-2176397"
         },
         {
-            "title": "Casa Pia derrota Torreense e mantém-se na I Liga",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/desporto/noticia/casa-pia-derrota-torreense-mantemse-i-liga-2176414"
+            "title": "Costa da Caparica: encontrado corpo de jovem desaparecido na praia do Dragão Vermelho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/sociedade/noticia/costa-caparica-encontrado-corpo-jovem-desaparecido-praia-dragao-vermelho-2176416"
         },
         {
-            "title": "Missão do PS é evitar contaminação, o medo é sair beliscado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/28/politica/noticia/missao-ps-evitar-contaminacao-medo-sair-beliscado-2176348"
+            "title": "Servidão ambiental",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/opiniao/opiniao/servidao-ambiental-2176354"
         }
     ],
     "finance": [],
-    "last_update": "28/05/2026 22:25"
+    "last_update": "29/05/2026 00:01"
 }
