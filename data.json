@@ -3,13 +3,25 @@
         "atual": 18.7,
         "manha": 19.4,
         "tarde": 26.2,
-        "noite": 18.4
+        "noite": 18.5
     },
     "forecast": {
-        "max": 27.0,
-        "min": 17.1
+        "max": 26.9,
+        "min": 17.2
     },
     "news": [
+        {
+            "title": "Râguebi: Cascais volta a conquistar Taça de Portugal, 33 anos depois",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/desporto/noticia/raguebi-cascais-volta-conquistar-taca-portugal-33-anos-2176627"
+        },
+        {
+            "title": "Controlo de fronteiras: no aeroporto do Porto viajantes chegaram a esperar uma hora",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/sociedade/noticia/controlo-fronteiras-aeroporto-porto-viajantes-chegaram-esperar-hora-2176621"
+        },
+        {
+            "title": "Juíza pede reabertura do caso entre Trump e o IRS alegando irregularidades no acordo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/mundo/noticia/juiza-pede-reabertura-caso-trump-irs-alegando-irregularidades-acordo-2176620"
+        },
         {
             "title": "Edgar Morin, um amigo que não esqueço...",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/culturaipsilon/opiniao/edgar-morin-amigo-nao-esqueco-2176612"
@@ -17,20 +29,8 @@
         {
             "title": "Estudo aponta Gerês-Xurés como um dos territórios mais promissores para criação de “Nova Floresta Primária”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/azul/noticia/estudo-aponta-geresxures-territorios-promissores-criacao-nova-floresta-primaria-2176300"
-        },
-        {
-            "title": "Vingegaard chega ao quinto triunfo no Giro2026, Eulálio “garante” Juventude e top10",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/desporto/noticia/vingegaard-chega-quinto-triunfo-giro2026-eulalio-garante-juventude-top10-2176614"
-        },
-        {
-            "title": "Após uma época de jejum, Liverpool quer “avançar” e fá-lo-á sem Arne Slot",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/desporto/noticia/apos-epoca-jejum-liverpool-quer-avancar-faloa-arne-slot-2176610"
-        },
-        {
-            "title": "Intérpretes de <em>Stranger Things</em>, <em>Hacks </em> e <em>Big Mistakes</em> pedem mais histórias LGBT+",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/culturaipsilon/noticia/interpretes-stranger-things-hacks-big-mistakes-pedem-historias-lgbt-2176613"
         }
     ],
     "finance": [],
-    "last_update": "30/05/2026 17:01"
+    "last_update": "30/05/2026 18:57"
 }
