@@ -3,13 +3,21 @@
         "atual": 18.7,
         "manha": 19.4,
         "tarde": 26.2,
-        "noite": 18.5
+        "noite": 18.6
     },
     "forecast": {
-        "max": 26.9,
+        "max": 27.0,
         "min": 17.2
     },
     "news": [
+        {
+            "title": "Aventura de Jaime Faria em Roland-Garros terminou em cinco <em>sets</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/desporto/noticia/aventura-jaime-faria-rolandgarros-terminou-cinco-sets-2176637"
+        },
+        {
+            "title": "Farense segura manutenção na II Liga com empate frente ao Belenenses",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/desporto/noticia/farense-segura-manutencao-ii-liga-empate-frente-belenenses-2176636"
+        },
         {
             "title": "Luís Montenegro reeleito líder do PSD com 94,8% dos votos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/politica/noticia/luis-montenegro-reeleito-lider-psd-948-votos-2176628"
@@ -21,16 +29,8 @@
         {
             "title": "Edgar Morin, um mestre da resistência",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/culturaipsilon/noticia/edgar-morin-mestre-resistencia-2176634"
-        },
-        {
-            "title": "Airbus contrapõe interesse europeu ao ‘namoro’ da Força Aérea com o F-35",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/politica/noticia/airbus-contrapoe-interesse-europeu-namoro-forca-aerea-f35-2176625"
-        },
-        {
-            "title": "Vasco Vilaça repete triunfo em Itália e lidera Mundial de triatlo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/desporto/noticia/vasco-vilaca-repete-triunfo-italia-lidera-mundial-triatlo-2176635"
         }
     ],
     "finance": [],
-    "last_update": "30/05/2026 21:50"
+    "last_update": "30/05/2026 22:46"
 }
