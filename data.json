@@ -2,35 +2,35 @@
     "weather": {
         "atual": 18.7,
         "manha": 19.4,
-        "tarde": 26.7,
+        "tarde": 26.4,
         "noite": 18.8
     },
     "forecast": {
-        "max": 26.8,
-        "min": 17.4
+        "max": 26.6,
+        "min": 17.2
     },
     "news": [
         {
-            "title": "MP pede prisão preventiva para quatro dos 14 detidos na operação “Águas Turvas”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/sociedade/noticia/mp-pede-prisao-preventiva-quatro-14-detidos-operacao-aguas-turvas-2176593"
+            "title": "Ataques nocturnos na Ucrânia fazem pelo menos quatro mortos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/mundo/noticia/ataques-nocturnos-ucrania-fazem-menos-quatro-mortos-2176595"
         },
         {
-            "title": "O Ferrari Luce, o Volvo EX60 e como poupar no estacionamento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/enter/podcast/ferrari-luce-volvo-ex60-poupar-estacionamento-2176547"
+            "title": "Detida mulher em Oeiras por tráfico de pessoas e exploração laboral",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/sociedade/noticia/detida-mulher-oeiras-trafico-pessoas-exploracao-laboral-2176600"
         },
         {
-            "title": "A Nova Capital Administrativa do Egipto parece “arqueologia de ficção científica”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/fotogaleria/nova-capital-administrativa-egipto-parece-arquologia-ficcao-cientifica-415579"
+            "title": "Um suplemento de alma para as Vinhas dos Homens de Miranda",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/terroir/reportagem/suplemento-alma-vinhas-homens-miranda-2174225"
         },
         {
-            "title": "Raheem Sterling detido por suspeita de condução sob efeito de droga",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/desporto/noticia/raheem-sterling-detido-suspeita-conducao-efeito-droga-2176589"
+            "title": "Itália interdita concertos de Kanye West e Travis Scott: motivos de segurança",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/culturaipsilon/noticia/italia-interdita-concertos-kanye-west-travis-scott-motivos-seguranca-2176597"
         },
         {
-            "title": "João Fonseca é primeiro brasileiro a bater Djokovic em torneio grande e supera nova marca do sérvio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/publico-brasil/noticia/joao-fonseca-brasileiro-bater-djokovic-torneio-supera-nova-marca-servio-2176590"
+            "title": "Retiradas mais quatro pessoas de gruta inundada no Laos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/mundo/noticia/retiradas-quatro-pessoas-gruta-inundada-laos-2176591"
         }
     ],
     "finance": [],
-    "last_update": "30/05/2026 10:43"
+    "last_update": "30/05/2026 12:00"
 }
