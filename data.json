@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.7,
-        "manha": 19.3,
-        "tarde": 27.0,
-        "noite": 18.5
+        "manha": 20.2,
+        "tarde": 27.2,
+        "noite": 19.1
     },
     "forecast": {
-        "max": 27.4,
-        "min": 17.2
+        "max": 27.7,
+        "min": 17.9
     },
     "news": [
         {
-            "title": "Medicina: desconfiança que mata",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/opiniao/opiniao/medicina-desconfianca-mata-2176342"
+            "title": "Bombeiros ainda à espera de carreira e salário convincentes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/sociedade/noticia/bombeiros-espera-carreira-salario-convincentes-2176529"
         },
         {
-            "title": "A justiça na revolução",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/opiniao/opiniao/justica-revolucao-2176337"
+            "title": "Sob risco de desgaste, Luís Neves chega (ainda) em alta a época de incêndios",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/politica/noticia/risco-desgaste-luis-neves-chega-alta-epoca-incendios-2176382"
         },
         {
-            "title": "A lição do Parque Eduardo VII",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/opiniao/opiniao/licao-parque-eduardo-vii-2176340"
+            "title": "Há mais recursos para combater incêndios, mas este vai ser “um Verão muito complicado”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/sociedade/noticia/ha-recursos-combater-incendios-vai-verao-complicado-2176525"
         },
         {
-            "title": "A corrupção que é estrutural",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/opiniao/opiniao/corrupcao-estrutural-2176460"
+            "title": "Como contaminar uma reforma com detalhes ideológicos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/opiniao/editorial/contaminar-reforma-detalhes-ideologicos-2176552"
         },
         {
-            "title": "Igualdade remuneratória e transposição da diretiva europeia — do avanço ao atraso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/opiniao/opiniao/igualdade-remuneratoria-transposicao-diretiva-europeia-avanco-atraso-2176020"
+            "title": "Há um “irritante” na reeleição de Montenegro no PSD chamado Passos Coelho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/politica/noticia/ha-irritante-reeleicao-montenegro-psd-chamado-passos-coelho-2176570"
         }
     ],
     "finance": [],
-    "last_update": "30/05/2026 02:00"
+    "last_update": "30/05/2026 05:50"
 }
