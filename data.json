@@ -2,35 +2,35 @@
     "weather": {
         "atual": 18.7,
         "manha": 19.4,
-        "tarde": 26.4,
-        "noite": 18.8
+        "tarde": 26.2,
+        "noite": 18.4
     },
     "forecast": {
-        "max": 26.6,
-        "min": 17.2
+        "max": 27.0,
+        "min": 17.1
     },
     "news": [
         {
-            "title": "De Agualusa a Hugo França: Embaixada do Brasil em Lisboa promove literatura e arte",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/publico-brasil/noticia/agualusa-hugo-franca-embaixada-brasil-lisboa-promove-literatura-arte-2176449"
+            "title": "Edgar Morin, um amigo que não esqueço...",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/culturaipsilon/opiniao/edgar-morin-amigo-nao-esqueco-2176612"
         },
         {
-            "title": "Governo dá passos para fazer novo aeroporto de Lisboa e desfazer-se de empresas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/economia/noticia/governo-passos-novo-aeroporto-lisboa-desfazerse-empresas-2176604"
+            "title": "Estudo aponta Gerês-Xurés como um dos territórios mais promissores para criação de “Nova Floresta Primária”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/azul/noticia/estudo-aponta-geresxures-territorios-promissores-criacao-nova-floresta-primaria-2176300"
         },
         {
-            "title": "EUA não querem “confronto desnecessário” com a China, diz Hegseth",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/mundo/noticia/eua-nao-querem-confronto-desnecessario-china-hegseth-2176602"
+            "title": "Vingegaard chega ao quinto triunfo no Giro2026, Eulálio “garante” Juventude e top10",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/desporto/noticia/vingegaard-chega-quinto-triunfo-giro2026-eulalio-garante-juventude-top10-2176614"
         },
         {
-            "title": "Greve geral: CP divulga serviços mínimos e alerta para perturbações na circulação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/economia/noticia/greve-geral-cp-divulga-servicos-minimos-alerta-perturbacoes-circulacao-2176603"
+            "title": "Após uma época de jejum, Liverpool quer “avançar” e fá-lo-á sem Arne Slot",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/desporto/noticia/apos-epoca-jejum-liverpool-quer-avancar-faloa-arne-slot-2176610"
         },
         {
-            "title": "Governo vai obrigar operadoras a limitar fraudes telefónicas e com cartões pré-pagos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/economia/noticia/governo-vai-obrigar-operadoras-limitar-fraudes-telefonicas-cartoes-prepagos-2176596"
+            "title": "Intérpretes de <em>Stranger Things</em>, <em>Hacks </em> e <em>Big Mistakes</em> pedem mais histórias LGBT+",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/culturaipsilon/noticia/interpretes-stranger-things-hacks-big-mistakes-pedem-historias-lgbt-2176613"
         }
     ],
     "finance": [],
-    "last_update": "30/05/2026 14:23"
+    "last_update": "30/05/2026 15:58"
 }
