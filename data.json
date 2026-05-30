@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.7,
-        "manha": 20.2,
-        "tarde": 27.2,
-        "noite": 19.1
+        "manha": 19.7,
+        "tarde": 26.9,
+        "noite": 18.8
     },
     "forecast": {
         "max": 27.7,
-        "min": 17.9
+        "min": 17.6
     },
     "news": [
         {
-            "title": "Bombeiros ainda à espera de carreira e salário convincentes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/sociedade/noticia/bombeiros-espera-carreira-salario-convincentes-2176529"
+            "title": "A Champions, pela primeira ou segunda vez",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/newsletter/aquecimento"
         },
         {
-            "title": "Sob risco de desgaste, Luís Neves chega (ainda) em alta a época de incêndios",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/politica/noticia/risco-desgaste-luis-neves-chega-alta-epoca-incendios-2176382"
+            "title": "Morreu o filósofo e sociólogo francês Edgar Morin aos 104 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/culturaipsilon/noticia/morreu-filosofo-sociologo-frances-edgar-morin-104-anos-2176584"
         },
         {
-            "title": "Há mais recursos para combater incêndios, mas este vai ser “um Verão muito complicado”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/sociedade/noticia/ha-recursos-combater-incendios-vai-verao-complicado-2176525"
+            "title": "Bloco envia questões a 11 ministérios sobre riscos da IA e pede “respostas articuladas”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/politica/noticia/bloco-envia-questoes-11-ministerios-riscos-ia-pede-respostas-articuladas-2176298"
         },
         {
-            "title": "Como contaminar uma reforma com detalhes ideológicos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/opiniao/editorial/contaminar-reforma-detalhes-ideologicos-2176552"
+            "title": "Juiz considera que nome de Trump foi colocado ilegalmente no Kennedy Center e trava obras",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/mundo/noticia/juiz-considera-nome-trump-colocado-ilegalmente-kennedy-center-trava-obras-2176582"
         },
         {
-            "title": "Há um “irritante” na reeleição de Montenegro no PSD chamado Passos Coelho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/politica/noticia/ha-irritante-reeleicao-montenegro-psd-chamado-passos-coelho-2176570"
+            "title": "PSG e Arsenal na final da Champions: duas formas diferentes de ganhar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/desporto/noticia/psg-arsenal-final-champions-duas-formas-diferentes-ganhar-2176535"
         }
     ],
     "finance": [],
-    "last_update": "30/05/2026 05:50"
+    "last_update": "30/05/2026 08:15"
 }
