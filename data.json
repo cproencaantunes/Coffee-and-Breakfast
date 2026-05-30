@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.7,
-        "manha": 19.7,
-        "tarde": 26.9,
+        "manha": 19.4,
+        "tarde": 26.7,
         "noite": 18.8
     },
     "forecast": {
-        "max": 27.7,
-        "min": 17.6
+        "max": 26.8,
+        "min": 17.4
     },
     "news": [
         {
-            "title": "A Champions, pela primeira ou segunda vez",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/newsletter/aquecimento"
+            "title": "MP pede prisão preventiva para quatro dos 14 detidos na operação “Águas Turvas”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/sociedade/noticia/mp-pede-prisao-preventiva-quatro-14-detidos-operacao-aguas-turvas-2176593"
         },
         {
-            "title": "Morreu o filósofo e sociólogo francês Edgar Morin aos 104 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/culturaipsilon/noticia/morreu-filosofo-sociologo-frances-edgar-morin-104-anos-2176584"
+            "title": "O Ferrari Luce, o Volvo EX60 e como poupar no estacionamento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/enter/podcast/ferrari-luce-volvo-ex60-poupar-estacionamento-2176547"
         },
         {
-            "title": "Bloco envia questões a 11 ministérios sobre riscos da IA e pede “respostas articuladas”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/politica/noticia/bloco-envia-questoes-11-ministerios-riscos-ia-pede-respostas-articuladas-2176298"
+            "title": "A Nova Capital Administrativa do Egipto parece “arqueologia de ficção científica”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/fotogaleria/nova-capital-administrativa-egipto-parece-arquologia-ficcao-cientifica-415579"
         },
         {
-            "title": "Juiz considera que nome de Trump foi colocado ilegalmente no Kennedy Center e trava obras",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/mundo/noticia/juiz-considera-nome-trump-colocado-ilegalmente-kennedy-center-trava-obras-2176582"
+            "title": "Raheem Sterling detido por suspeita de condução sob efeito de droga",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/desporto/noticia/raheem-sterling-detido-suspeita-conducao-efeito-droga-2176589"
         },
         {
-            "title": "PSG e Arsenal na final da Champions: duas formas diferentes de ganhar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/desporto/noticia/psg-arsenal-final-champions-duas-formas-diferentes-ganhar-2176535"
+            "title": "João Fonseca é primeiro brasileiro a bater Djokovic em torneio grande e supera nova marca do sérvio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/publico-brasil/noticia/joao-fonseca-brasileiro-bater-djokovic-torneio-supera-nova-marca-servio-2176590"
         }
     ],
     "finance": [],
-    "last_update": "30/05/2026 08:15"
+    "last_update": "30/05/2026 10:43"
 }
