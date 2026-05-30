@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 18.7,
-        "manha": 19.4,
-        "tarde": 26.2,
-        "noite": 18.6
+        "atual": 17.6,
+        "manha": 19.5,
+        "tarde": 27.0,
+        "noite": 19.9
     },
     "forecast": {
-        "max": 27.0,
-        "min": 17.2
+        "max": 25.6,
+        "min": 18.2
     },
     "news": [
         {
-            "title": "Aventura de Jaime Faria em Roland-Garros terminou em cinco <em>sets</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/desporto/noticia/aventura-jaime-faria-rolandgarros-terminou-cinco-sets-2176637"
+            "title": "Servir ou dominar?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/opiniao/opiniao/servir-dominar-2176467"
         },
         {
-            "title": "Farense segura manutenção na II Liga com empate frente ao Belenenses",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/desporto/noticia/farense-segura-manutencao-ii-liga-empate-frente-belenenses-2176636"
+            "title": "Educar na complexidade. O legado de Edgar Morin",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/opiniao/opiniao/educar-complexidade-legado-edgar-morin-2176601"
         },
         {
-            "title": "Luís Montenegro reeleito líder do PSD com 94,8% dos votos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/politica/noticia/luis-montenegro-reeleito-lider-psd-948-votos-2176628"
+            "title": "A morte anunciada do Cinema Paris",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/opiniao/opiniao/morte-anunciada-cinema-paris-2176607"
         },
         {
-            "title": "Borges, Martínez e o país que resiste a treinadores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/desporto/opiniao/borges-martinez-pais-resiste-treinadores-2176615"
+            "title": "A música: uma dádiva neonatal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/opiniao/opiniao/musica-dadiva-neonatal-2176196"
         },
         {
-            "title": "Edgar Morin, um mestre da resistência",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/culturaipsilon/noticia/edgar-morin-mestre-resistencia-2176634"
+            "title": "Desnivelamento do Nó do Lumiar: o propósito de esclarecer",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/opiniao/opiniao/desnivelamento-lumiar-proposito-esclarecer-2176605"
         }
     ],
     "finance": [],
-    "last_update": "30/05/2026 22:46"
+    "last_update": "30/05/2026 23:51"
 }
