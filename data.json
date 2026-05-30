@@ -1,9 +1,9 @@
 {
     "weather": {
-        "atual": 18.4,
+        "atual": 18.7,
         "manha": 19.3,
-        "tarde": 26.9,
-        "noite": 18.6
+        "tarde": 27.0,
+        "noite": 18.5
     },
     "forecast": {
         "max": 27.4,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Querem contar comigo quantas buscas tivemos desde 2021?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/opiniao/opiniao/querem-contar-comigo-quantas-buscas-desde-2021-2176554"
+            "title": "Medicina: desconfiança que mata",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/opiniao/opiniao/medicina-desconfianca-mata-2176342"
         },
         {
-            "title": "MAI esclarece que decisão de suspensão temporária dos registos biométricos nos aeroportos cabe à PSP",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/economia/noticia/mai-esclarece-decisao-suspensao-temporaria-registos-biometricos-aeroportos-cabe-psp-2176575"
+            "title": "A justiça na revolução",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/opiniao/opiniao/justica-revolucao-2176337"
         },
         {
-            "title": "ONU inclui forças israelitas e russas em relatório sobre violência sexual em conflitos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/mundo/noticia/onu-inclui-forcas-israelitas-russas-relatorio-violencia-sexual-conflitos-2176572"
+            "title": "A lição do Parque Eduardo VII",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/opiniao/opiniao/licao-parque-eduardo-vii-2176340"
         },
         {
-            "title": "PSD, Chega e PS chegaram a acordo sobre nomes para o Tribunal Constitucional",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/politica/noticia/psd-chega-ps-chegaram-acordo-nomes-tribunal-constitucional-2176519"
+            "title": "A corrupção que é estrutural",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/opiniao/opiniao/corrupcao-estrutural-2176460"
         },
         {
-            "title": "ICNF assegura continuidade da equipa actual no centro de reprodução do lince-ibérico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/29/azul/noticia/icnf-assegura-continuidade-equipa-actual-centro-reproducao-linceiberico-2176571"
+            "title": "Igualdade remuneratória e transposição da diretiva europeia — do avanço ao atraso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/30/opiniao/opiniao/igualdade-remuneratoria-transposicao-diretiva-europeia-avanco-atraso-2176020"
         }
     ],
     "finance": [],
-    "last_update": "29/05/2026 23:02"
+    "last_update": "30/05/2026 02:00"
 }
