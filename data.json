@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 17.3,
-        "manha": 18.6,
-        "tarde": 27.1,
-        "noite": 20.2
+        "atual": 18.4,
+        "manha": 19.7,
+        "tarde": 24.4,
+        "noite": 18.9
     },
     "forecast": {
-        "max": 24.6,
-        "min": 17.7
+        "max": 22.6,
+        "min": 17.3
     },
     "news": [
         {
-            "title": "EUA corrigem lacuna legal que permitiu acesso chinês aos chips mais avançados do mundo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/enter/noticia/eua-corrigem-lacuna-legal-permitiu-acesso-chines-chips-avancados-mundo-2176688"
+            "title": "Morreu o actor João Barbosa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/01/culturaipsilon/noticia/morreu-actor-joao-barbosa-2176692"
         },
         {
-            "title": "Os criminosos que salvariam o seu animal em vez de uma pessoa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/opiniao/cronica/criminosos-salvariam-animal-pessoa-2176670"
+            "title": "O desafio europeu da soberania digital",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/01/opiniao/opiniao/desafio-europeu-soberania-digital-2176651"
         },
         {
-            "title": "FC Porto bate Sporting e está na final da Liga de basquetebol",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/desporto/noticia/fc-porto-bate-sporting-final-liga-basquetebol-2176685"
+            "title": "A mordaça judicial: como a diretiva europeia anti-SLAPP defende a democracia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/01/opiniao/opiniao/mordaca-judicial-diretiva-europeia-antislapp-defende-democracia-2176608"
         },
         {
-            "title": "Quem são os duques de Edimburgo, Eduardo e Sofia, e o que vêm fazer a Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/impar/noticia/sao-duques-edimburgo-eduardo-sofia-vem-portugal-2176369"
+            "title": "Morreu Carlos Brito (PSD), antigo ministro da Defesa de Cavaco",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/01/politica/noticia/morreu-carlos-brito-psd-antigo-ministro-defesa-cavaco-2176691"
         },
         {
-            "title": "Polaris Nexus: uns óculos moderadamente inteligentes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/enter/noticia/polaris-nexus-oculos-moderadamente-inteligentes-2176687"
+            "title": "Até quando abusarão da nossa paciência?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/01/opiniao/opiniao/ate-abusarao-paciencia-2176689"
         }
     ],
     "finance": [],
-    "last_update": "31/05/2026 22:47"
+    "last_update": "31/05/2026 23:55"
 }
