@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 17.3,
-        "manha": 19.2,
-        "tarde": 26.9,
-        "noite": 20.1
+        "manha": 18.7,
+        "tarde": 26.7,
+        "noite": 19.8
     },
     "forecast": {
-        "max": 25.6,
-        "min": 18.2
+        "max": 24.5,
+        "min": 17.6
     },
     "news": [
         {
-            "title": "Servir ou dominar?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/opiniao/opiniao/servir-dominar-2176467"
+            "title": "Carmen Garcia: “Chegámos a um ponto em que os animais são confundidos com humanos”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/sociedade/entrevista/carmen-garcia-chegamos-ponto-animais-sao-confundidos-humanos-2176325"
         },
         {
-            "title": "Educar na complexidade. O legado de Edgar Morin",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/opiniao/opiniao/educar-complexidade-legado-edgar-morin-2176601"
+            "title": "Cearense se reinventa e cria empresa que fatura 170 mil euros por ano em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/publico-brasil/noticia/cearense-reinventa-cria-empresa-fatura-170-mil-euros-ano-portugal-2176618"
         },
         {
-            "title": "A morte anunciada do Cinema Paris",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/opiniao/opiniao/morte-anunciada-cinema-paris-2176607"
+            "title": "A velocidade da arquitectura",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/opiniao/cronica/velocidade-arquitectura-2176272"
         },
         {
-            "title": "A música: uma dádiva neonatal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/opiniao/opiniao/musica-dadiva-neonatal-2176196"
+            "title": "O choque cultural de ser brasileiro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/publico-brasil/opiniao/choque-cultural-brasileiro-2176623"
         },
         {
-            "title": "Desnivelamento do Nó do Lumiar: o propósito de esclarecer",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/opiniao/opiniao/desnivelamento-lumiar-proposito-esclarecer-2176605"
+            "title": "Uma daquelas séries da BBC",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/opiniao/cronica/daquelas-series-bbc-2176594"
         }
     ],
     "finance": [],
-    "last_update": "31/05/2026 02:27"
+    "last_update": "31/05/2026 06:47"
 }
