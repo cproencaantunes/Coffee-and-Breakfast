@@ -2,35 +2,35 @@
     "weather": {
         "atual": 17.3,
         "manha": 18.6,
-        "tarde": 26.7,
-        "noite": 19.9
+        "tarde": 27.1,
+        "noite": 20.1
     },
     "forecast": {
-        "max": 24.4,
-        "min": 17.6
+        "max": 24.9,
+        "min": 17.8
     },
     "news": [
         {
-            "title": "Ébola: DGS actualiza procedimentos para responder a eventuais casos suspeitos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/sociedade/noticia/ebola-dgs-actualiza-procedimentos-responder-eventuais-casos-suspeitos-2176664"
+            "title": "Julio Le Parc, visionário da arte cinética, morre aos 97 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/culturaipsilon/noticia/julio-le-parc-visionario-arte-cinetica-morre-97-anos-2176662"
         },
         {
-            "title": "MotoGP: Marco Bezzecchi venceu o GP de Itália",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/desporto/noticia/motogp-marco-bezzecchi-venceu-gp-italia-2176665"
+            "title": "Porque proibir o símbolo de reciclagem é um avanço na luta contra o lixo plástico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/azul/noticia/proibir-simbolo-reciclagem-avanco-luta-lixo-plastico-2176367"
         },
         {
-            "title": "Trump endurece condições para acordo com o Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/mundo/noticia/trump-endurece-condicoes-acordo-irao-2176661"
+            "title": "Casal comprou todas as casas de uma rua em Gaia. Agora quer remover moradores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/local/noticia/casal-comprou-casas-rua-gaia-quer-remover-moradores-2176561"
         },
         {
-            "title": "É mais fácil surgir novo partido à direita mas não será por aí que se trava populismo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/politica/noticia/facil-surgir-novo-partido-direita-nao-sera-ai-trava-populismo-2176660"
+            "title": "Câmara de Gaia tinha direito de preferência, mas não comprou casas do bairro do Cedro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/local/noticia/camara-gaia-direito-preferencia-nao-comprou-casas-bairro-cedro-2176539"
         },
         {
-            "title": "FC Porto chama escolas ao museu, alinhando-se com Ministério da Educação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/desporto/noticia/fc-porto-chama-escolas-museu-alinhandose-ministerio-educacao-2176657"
+            "title": "Hospitais continuam a cobrar indevidamente taxas moderadoras a utentes do SNS",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/sociedade/noticia/hospitais-continuam-cobrar-indevidamente-taxas-moderadoras-utentes-sns-2176631"
         }
     ],
     "finance": [],
-    "last_update": "31/05/2026 15:10"
+    "last_update": "31/05/2026 16:55"
 }
