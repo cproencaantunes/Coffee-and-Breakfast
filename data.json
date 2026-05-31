@@ -6,31 +6,31 @@
         "noite": 20.1
     },
     "forecast": {
-        "max": 24.9,
-        "min": 17.8
+        "max": 24.8,
+        "min": 17.7
     },
     "news": [
+        {
+            "title": "Governo passa a pagar 10.800 euros por cada ambulância que os bombeiros disponibilizem para socorro médico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/sociedade/noticia/governo-vai-pagar-dois-mil-euros-mes-ambulancia-bombeiros-disponibilizem-socorro-medico-2176680"
+        },
+        {
+            "title": "Feira de arte ARCOlisboa ultrapassa 15.000 visitantes e revela compras institucionais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/culturaipsilon/noticia/feira-arte-arcolisboa-ultrapassa-15000-visitantes-revela-compras-institucionais-2176676"
+        },
+        {
+            "title": "O que fazer? Segunda é dia de celebrar as crianças com jogos e visitas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/fugas/noticia/segunda-dia-celebrar-criancas-jogos-visitas-2176652"
+        },
         {
             "title": "Gil Semedo lança novo álbum e celebra renovação de gênero musical de Cabo Verde",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/publico-brasil/noticia/gil-semedo-lanca-novo-album-celebra-renovacao-genero-musical-cabo-verde-2176674"
         },
         {
-            "title": "Posso pedir-lhe um autógrafo?",
+            "title": "Posso pedir-lhe um autógrafo? A corrida às dedicatórias na Feira do Livro de Lisboa",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/culturaipsilon/noticia/pedirlhe-autografo-2176672"
-        },
-        {
-            "title": "Santos Pereira não vota sobre subida de juros pelo BCE mas deixa alerta contra demora",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/economia/noticia/santos-pereira-nao-vota-subida-juros-bce-deixa-alerta-demora-2176669"
-        },
-        {
-            "title": "PAN enfrenta novo pedido de impugnação, direcção defende “legitimidade política”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/politica/noticia/pan-enfrenta-novo-pedido-impugnacao-direccao-defende-legitimidade-politica-2175560"
-        },
-        {
-            "title": "Vingegaard fez o que lhe competia no Giro do “gladiador” Eulálio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/05/31/desporto/noticia/vingegaard-fez-competia-giro-gladiador-eulalio-2176675"
         }
     ],
     "finance": [],
-    "last_update": "31/05/2026 17:54"
+    "last_update": "31/05/2026 19:01"
 }
