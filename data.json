@@ -2,35 +2,35 @@
     "weather": {
         "atual": 18.4,
         "manha": 19.3,
-        "tarde": 23.9,
-        "noite": 19.0
+        "tarde": 24.4,
+        "noite": 18.9
     },
     "forecast": {
-        "max": 22.4,
-        "min": 17.2
+        "max": 22.2,
+        "min": 17.1
     },
     "news": [
         {
-            "title": "Planos para domingo à noite: inquietação e tai chi com Laurie Anderson",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/01/culturaipsilon/critica/planos-domingo-noite-inquietacao-tai-chi-laurie-anderson-2176733"
+            "title": "Médio Issa Doumbia contratado pelo Sporting ao Veneza",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/01/desporto/noticia/medio-issa-doumbia-contratado-sporting-veneza-2176826"
         },
         {
-            "title": "UNICEF Portugal alerta para o papel do brincar no desenvolvimento infantil",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/01/impar/noticia/unicef-portugal-alerta-papel-brincar-desenvolvimento-infantil-2176755"
+            "title": "PJ detém duas mulheres e um homem em Lisboa com 47 quilos de cocaína",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/01/sociedade/noticia/pj-detem-duas-mulheres-homem-lisboa-47-quilos-cocaina-2176810"
         },
         {
-            "title": "Petição pede igualdade para famílias monoparentais na assistência a filhos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/01/sociedade/noticia/peticao-pede-igualdade-familias-monoparentais-assistencia-filhos-2176732"
+            "title": "Sérgio Conceição já não é treinador do Al-Ittihad da Arábia Saudita",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/01/desporto/noticia/sergio-conceicao-ja-nao-treinador-alittihad-arabia-saudita-2176824"
         },
         {
-            "title": "Governo vai entrar com mais 1500 milhões no Banco Português de Fomento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/01/economia/noticia/governo-vai-entrar-1500-milhoes-banco-portugues-fomento-2176744"
+            "title": "PSD vai votar contra e condena ao fracasso reapreciação da perda da nacionalidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/01/politica/noticia/psd-vai-votar-condena-fracasso-reapreciacao-perda-nacionalidade-2176821"
         },
         {
-            "title": "Carris reforça serviço de proximidade com 15 “manjericos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/01/local/noticia/carris-reforca-servico-proximidade-15-manjericos-2176758"
+            "title": "Bombeira da corporação de Mirandela agredida teve de receber tratamento hospitalar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/01/sociedade/noticia/bombeira-corporacao-mirandela-agredida-receber-tratamento-hospitalar-2176822"
         }
     ],
     "finance": [],
-    "last_update": "01/06/2026 14:48"
+    "last_update": "01/06/2026 19:51"
 }
