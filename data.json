@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 18.5,
-        "manha": 19.4,
-        "tarde": 21.9,
-        "noite": 17.4
+        "atual": 16.9,
+        "manha": 19.1,
+        "tarde": 24.5,
+        "noite": 19.0
     },
     "forecast": {
-        "max": 24.6,
-        "min": 16.6
+        "max": 22.7,
+        "min": 16.4
     },
     "news": [
         {
-            "title": "Fibromialgia: consenso na AR aponta para revisão de tabelas de incapacidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/politica/noticia/fibromialgia-consenso-ar-aponta-revisao-tabelas-incapacidade-2176993"
+            "title": "O mar é nosso, a praia também",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/opiniao/cronica/mar-praia-tambem-2176875"
         },
         {
-            "title": "Prestação social única: PS a analisar; Chega diz que vota contra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/politica/noticia/prestacao-social-unica-ps-analisar-chega-vota-2176977"
+            "title": "Arménio Carlos responde: porquê uma greve geral agora?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/sociedade/noticia/armenio-carlos-responde-greve-geral-2176997"
         },
         {
-            "title": "Passos: quando o criador se revolta contra a criatura",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/opiniao/editorial/passos-criador-revolta-criatura-2176990"
+            "title": "Serviços mínimos obrigatórios podem não ser suficientes para limitar impacto das greves",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/economia/noticia/servicos-minimos-obrigatorios-podem-nao-suficientes-limitar-impacto-greves-2176976"
         },
         {
-            "title": "“Sou, então, um traidor?”, o grito de Kamel Daoud e a viagem de Erika Fatland",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/culturaipsilon/noticia/entao-traidor-grito-kamel-daoud-viagem-erika-fatland-2176959"
+            "title": "A praia (ainda) é o lugar mais democrático do mundo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/opiniao/opiniao/praia-lugar-democratico-mundo-2176952"
         },
         {
-            "title": "Projecto ensina crianças a pensar sobre dinheiro e a aprender que promoções nem sempre são poupanças",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/local/noticia/projecto-ensina-criancas-pensar-dinheiro-aprender-promocoes-sao-poupancas-2176978"
+            "title": "Nastassja Kinski quer apagar cena que gravou seminua aos 13 anos num filme de Wenders",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/culturaipsilon/noticia/nastassja-kinski-quer-apagar-cena-gravou-seminua-13-anos-filme-wenders-2176996"
         }
     ],
     "finance": [],
-    "last_update": "02/06/2026 21:40"
+    "last_update": "02/06/2026 23:26"
 }
