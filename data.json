@@ -2,35 +2,35 @@
     "weather": {
         "atual": 18.5,
         "manha": 19.4,
-        "tarde": 21.8,
-        "noite": 17.5
+        "tarde": 21.9,
+        "noite": 17.4
     },
     "forecast": {
-        "max": 24.0,
-        "min": 16.4
+        "max": 24.6,
+        "min": 16.6
     },
     "news": [
         {
-            "title": "Onda de calor de Maio foi a terceira mais longa de que há registo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/azul/noticia/onda-calor-maio-terceira-longa-ha-registo-2176915"
+            "title": "Prestação Social Única: porque foi o PS a aproximar-se do Governo e não o Chega?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/politica/noticia/prestacao-social-unica-ps-aproximarse-governo-nao-chega-2176975"
         },
         {
-            "title": "Exame revelou “extrema inteligência” de Trump? Não, teste avalia estado cognitivo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/mundo/noticia/exame-revelou-extrema-inteligencia-trump-nao-teste-avalia-estado-cognitivo-2176912"
+            "title": "Seguro alerta para “assimetria” territorial e exige mais recursos para as autarquias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/politica/noticia/seguro-alerta-assimetria-territorial-exige-recursos-autarquias-2176943"
         },
         {
-            "title": "Teerão continua a analisar proposta norte-americana, mas com “muita desconfiança”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/mundo/noticia/teerao-continua-analisar-proposta-norteamericana-desconfianca-2176914"
+            "title": "Comissão Nacional de Protecção de Dados está a receber “largas centenas” de queixas de utentes com dados expostos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/sociedade/noticia/comissao-nacional-proteccao-dados-receber-largas-centenas-queixas-utentes-dados-expostos-2176872"
         },
         {
-            "title": "Candidatos ao TC evitam falar de aborto e nacionalidade. Nome do Chega recusa prisão perpétua",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/politica/noticia/candidatos-tc-evitam-falar-aborto-nacionalidade-nome-chega-recusa-prisao-perpetua-2176899"
+            "title": "Interactivo: as propostas para mudar o Código do Trabalho que levaram à greve geral",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/infografia/propostas-mudar-codigo-trabalho-levaram-greve-geral-898"
         },
         {
-            "title": "Mais de 200 taxistas detidos pela PSP na região de Lisboa desde o início do ano por especulação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/sociedade/noticia/200-taxistas-detidos-psp-regiao-lisboa-desde-inicio-ano-especulacao-2176908"
+            "title": "Prisão preventiva para ex-director das Águas de Gaia e empreiteiro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/sociedade/noticia/prisao-preventiva-exdirector-aguas-gaia-empreiteiro-2176969"
         }
     ],
     "finance": [],
-    "last_update": "02/06/2026 14:41"
+    "last_update": "02/06/2026 18:30"
 }
