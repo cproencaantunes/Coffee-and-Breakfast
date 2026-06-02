@@ -1,15 +1,27 @@
 {
     "weather": {
         "atual": 18.5,
-        "manha": 19.2,
-        "tarde": 22.0,
-        "noite": 17.7
+        "manha": 19.5,
+        "tarde": 22.4,
+        "noite": 17.9
     },
     "forecast": {
-        "max": 24.7,
-        "min": 16.7
+        "max": 24.5,
+        "min": 16.6
     },
     "news": [
+        {
+            "title": "Os dados dão razão a Álvaro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/opiniao/editorial/dados-dao-razao-alvaro-2176794"
+        },
+        {
+            "title": "“A ADSE precisa de dar um salto: é o subsistema ideal para fazer prevenção na saúde”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/economia/entrevista/adse-precisa-dar-salto-subsistema-ideal-prevencao-saude-2176811"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/opiniao/opiniao/cartas-director-2176791"
+        },
         {
             "title": "Hegseth retira promoções na Marinha e afecta mais mulheres e homens negros",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/mundo/noticia/hegseth-retira-promocoes-marinha-afecta-mulheres-homens-negros-2176835"
@@ -17,20 +29,8 @@
         {
             "title": "Sem tempo e sem plano",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/opiniao/opiniao/tempo-plano-2176772"
-        },
-        {
-            "title": "Pedro Passos Coelho e o seu labirinto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/opiniao/opiniao/pedro-passos-coelho-labirinto-2176781"
-        },
-        {
-            "title": "A AIMA faz o que lhe apetece? E a Metro?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/opiniao/opiniao/aima-faz-apetece-metro-2176037"
-        },
-        {
-            "title": "A Primavera que resta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/opiniao/opiniao/primavera-resta-2176767"
         }
     ],
     "finance": [],
-    "last_update": "02/06/2026 00:05"
+    "last_update": "02/06/2026 05:21"
 }
