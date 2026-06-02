@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.5,
-        "manha": 19.5,
-        "tarde": 22.4,
-        "noite": 17.9
+        "manha": 19.4,
+        "tarde": 22.0,
+        "noite": 17.6
     },
     "forecast": {
-        "max": 24.5,
-        "min": 16.6
+        "max": 23.7,
+        "min": 16.5
     },
     "news": [
         {
-            "title": "Os dados dão razão a Álvaro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/opiniao/editorial/dados-dao-razao-alvaro-2176794"
+            "title": "BYD assume custos de acidentes com condução autónoma",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/enter/noticia/byd-assume-custos-acidentes-conducao-autonoma-2176852"
         },
         {
-            "title": "“A ADSE precisa de dar um salto: é o subsistema ideal para fazer prevenção na saúde”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/economia/entrevista/adse-precisa-dar-salto-subsistema-ideal-prevencao-saude-2176811"
+            "title": "Médicos que prescrevem atividades culturais: Universidade do Porto testa projecto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/sociedade/noticia/medicos-prescrevem-atividades-culturais-universidade-porto-testa-projecto-2176854"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/opiniao/opiniao/cartas-director-2176791"
+            "title": "Cinco organizações criam rede para ajudar jovens “nem-nem” a arranjar trabalho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/p3/noticia/cinco-organizacoes-criam-rede-ajudar-jovens-nemnem-arranjar-trabalho-2176855"
         },
         {
-            "title": "Hegseth retira promoções na Marinha e afecta mais mulheres e homens negros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/mundo/noticia/hegseth-retira-promocoes-marinha-afecta-mulheres-homens-negros-2176835"
+            "title": "Sindicato critica ULS do Alto Ave por proibir férias acordadas a médicos de família",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/sociedade/noticia/sindicato-critica-uls-alto-ave-proibir-ferias-acordadas-medicos-familia-2176842"
         },
         {
-            "title": "Sem tempo e sem plano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/opiniao/opiniao/tempo-plano-2176772"
+            "title": "Inteligência artificial da Meta enganada para entregar contas de Instagram",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/enter/noticia/inteligencia-artificial-meta-enganada-entregar-contas-instagram-2176846"
         }
     ],
     "finance": [],
-    "last_update": "02/06/2026 05:21"
+    "last_update": "02/06/2026 10:01"
 }
