@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 18.4,
-        "manha": 19.3,
-        "tarde": 24.4,
-        "noite": 19.0
+        "atual": 18.5,
+        "manha": 19.2,
+        "tarde": 22.0,
+        "noite": 17.7
     },
     "forecast": {
-        "max": 22.3,
-        "min": 17.0
+        "max": 24.7,
+        "min": 16.7
     },
     "news": [
         {
-            "title": "Recusar trabalho social bloqueia acesso à Prestação Social Única durante dois anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/01/economia/noticia/recusar-trabalho-social-bloqueia-acesso-prestacao-social-unica-durante-dois-anos-2176829"
+            "title": "Hegseth retira promoções na Marinha e afecta mais mulheres e homens negros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/mundo/noticia/hegseth-retira-promocoes-marinha-afecta-mulheres-homens-negros-2176835"
         },
         {
-            "title": "Motociclista português morre após colisão com carro na Suíça",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/01/sociedade/noticia/motociclista-portugues-morre-apos-colisao-carro-suica-2176832"
+            "title": "Sem tempo e sem plano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/opiniao/opiniao/tempo-plano-2176772"
         },
         {
-            "title": "A “cegueira” de Machado de Assis e a luz de Eça de Queirós",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/01/publico-brasil/opiniao/cegueira-machado-assis-luz-eca-queiros-2176830"
+            "title": "Pedro Passos Coelho e o seu labirinto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/opiniao/opiniao/pedro-passos-coelho-labirinto-2176781"
         },
         {
-            "title": "Estão a ser criados três centros de triagem para repatriamento rápido de cidadãos estrangeiros sem documentos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/01/sociedade/noticia/estao-criados-tres-centros-triagem-repatriamento-rapido-cidadaos-estrangeiros-documentos-2176816"
+            "title": "A AIMA faz o que lhe apetece? E a Metro?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/opiniao/opiniao/aima-faz-apetece-metro-2176037"
         },
         {
-            "title": "Para Alexandre de Moraes, todos foram ingênuos em relação às redes sociais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/01/publico-brasil/noticia/alexandre-moraes-ingenuos-relacao-redes-sociais-2176828"
+            "title": "A Primavera que resta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/opiniao/opiniao/primavera-resta-2176767"
         }
     ],
     "finance": [],
-    "last_update": "01/06/2026 22:29"
+    "last_update": "02/06/2026 00:05"
 }
