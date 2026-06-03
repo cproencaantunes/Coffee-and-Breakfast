@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 16.7,
-        "manha": 18.6,
-        "tarde": 24.1,
-        "noite": 18.9
+        "manha": 18.9,
+        "tarde": 24.7,
+        "noite": 19.4
     },
     "forecast": {
-        "max": 22.7,
-        "min": 16.4
+        "max": 23.0,
+        "min": 16.3
     },
     "news": [
         {
-            "title": "O mar é nosso, a praia também",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/opiniao/cronica/mar-praia-tambem-2176875"
+            "title": "Capacete obrigatório? 65% das mortes em bicicleta são causadas por veículos a motor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/local/noticia/capacete-obrigatorio-65-mortes-bicicleta-sao-causadas-veiculos-motor-2176981"
         },
         {
-            "title": "Arménio Carlos responde: porquê uma greve geral agora?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/sociedade/noticia/armenio-carlos-responde-greve-geral-2176997"
+            "title": "Irão ataca vizinhos e atinge aeroporto no Kuwait. EUA atingem a ilha de Qeshm",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/mundo/noticia/irao-ataca-vizinhos-atinge-aeroporto-kuwait-eua-atingem-ilha-qeshm-2177004"
         },
         {
-            "title": "Serviços mínimos obrigatórios podem não ser suficientes para limitar impacto das greves",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/economia/noticia/servicos-minimos-obrigatorios-podem-nao-suficientes-limitar-impacto-greves-2176976"
+            "title": "Pedidos de comissões de inquérito disparam, mas a maioria fica pelo caminho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/politica/noticia/pedidos-comissoes-inquerito-disparam-maioria-fica-caminho-2176817"
         },
         {
-            "title": "A praia (ainda) é o lugar mais democrático do mundo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/opiniao/opiniao/praia-lugar-democratico-mundo-2176952"
+            "title": "Título histórico para os Knicks ou definidor de legado para os Spurs: chegou a final da NBA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/desporto/noticia/titulo-historico-knicks-definidor-legado-spurs-chegou-final-nba-2176973"
         },
         {
-            "title": "Nastassja Kinski quer apagar cena que gravou seminua aos 13 anos num filme de Wenders",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/02/culturaipsilon/noticia/nastassja-kinski-quer-apagar-cena-gravou-seminua-13-anos-filme-wenders-2176996"
+            "title": "O herói dos meus pais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/publico-brasil/opiniao/heroi-pais-2177000"
         }
     ],
     "finance": [],
-    "last_update": "03/06/2026 02:43"
+    "last_update": "03/06/2026 08:04"
 }
