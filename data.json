@@ -2,35 +2,35 @@
     "weather": {
         "atual": 16.7,
         "manha": 18.9,
-        "tarde": 24.3,
-        "noite": 19.4
+        "tarde": 25.1,
+        "noite": 19.5
     },
     "forecast": {
         "max": 22.4,
-        "min": 16.2
+        "min": 16.3
     },
     "news": [
         {
-            "title": "Rússia perde terreno na Ucrânia pela primeira vez em dois anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/mundo/noticia/russia-perde-terreno-ucrania-primeira-dois-anos-2177031"
+            "title": "Os Pulitzer são ambição, rigor, compaixão e equipas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/newsletter/livre-estilo"
         },
         {
-            "title": "Febraban vê ataque dos EUA ao PIX como resultado de “informação incompleta”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/publico-brasil/noticia/febraban-ve-ataque-eua-pix-resultado-informacao-incompleta-2177026"
+            "title": "O povo saiu à rua. “Não estamos a lutar contra os patrões, mas pelos nossos direitos”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/local/reportagem/povo-saiu-rua-nao-lutar-patroes-direitos-2177064"
         },
         {
-            "title": "Ministra do Interior britânica condena protestos por morte de estudante algemado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/mundo/noticia/ministra-interior-britanica-condena-protestos-morte-estudante-algemado-2177025"
+            "title": "Montenegro: “A consequência desta greve, no final deste dia, parece-me que passou apenas por prejudicar a vida de muita gente”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/politica/noticia/montenegro-consequencia-greve-final-dia-pareceme-passou-apenas-prejudicar-vida-gente-2177060"
         },
         {
-            "title": "Trump admite conversa dura com Netanyahu e diz que ficou perturbado com “os combates constantes no Líbano”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/mundo/noticia/trump-admite-conversa-dura-netanyahu-ficou-perturbado-combates-constantes-libano-2177022"
+            "title": "“Está tudo igual” num lado, “muito menos movimento” no outro: na Maia, a greve geral não afectou o comércio por igual",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/local/noticia/igual-lado-menos-movimento-centro-maia-greve-geral-nao-afectou-comercio-igual-2177066"
         },
         {
-            "title": "Leiria e Setúbal são candidatas a Capital Portuguesa da Cultura 2028",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/local/noticia/leiria-setubal-sao-candidatas-capital-portuguesa-cultura-2028-2176909"
+            "title": "Entre arraiais, orações e vinho, somos todos santos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/newsletter/relaxar"
         }
     ],
     "finance": [],
-    "last_update": "03/06/2026 13:04"
+    "last_update": "03/06/2026 18:15"
 }
