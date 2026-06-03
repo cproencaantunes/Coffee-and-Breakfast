@@ -2,35 +2,35 @@
     "weather": {
         "atual": 16.7,
         "manha": 18.9,
-        "tarde": 24.7,
+        "tarde": 24.3,
         "noite": 19.4
     },
     "forecast": {
-        "max": 23.0,
-        "min": 16.3
+        "max": 22.4,
+        "min": 16.2
     },
     "news": [
         {
-            "title": "Capacete obrigatório? 65% das mortes em bicicleta são causadas por veículos a motor",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/local/noticia/capacete-obrigatorio-65-mortes-bicicleta-sao-causadas-veiculos-motor-2176981"
+            "title": "Rússia perde terreno na Ucrânia pela primeira vez em dois anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/mundo/noticia/russia-perde-terreno-ucrania-primeira-dois-anos-2177031"
         },
         {
-            "title": "Irão ataca vizinhos e atinge aeroporto no Kuwait. EUA atingem a ilha de Qeshm",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/mundo/noticia/irao-ataca-vizinhos-atinge-aeroporto-kuwait-eua-atingem-ilha-qeshm-2177004"
+            "title": "Febraban vê ataque dos EUA ao PIX como resultado de “informação incompleta”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/publico-brasil/noticia/febraban-ve-ataque-eua-pix-resultado-informacao-incompleta-2177026"
         },
         {
-            "title": "Pedidos de comissões de inquérito disparam, mas a maioria fica pelo caminho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/politica/noticia/pedidos-comissoes-inquerito-disparam-maioria-fica-caminho-2176817"
+            "title": "Ministra do Interior britânica condena protestos por morte de estudante algemado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/mundo/noticia/ministra-interior-britanica-condena-protestos-morte-estudante-algemado-2177025"
         },
         {
-            "title": "Título histórico para os Knicks ou definidor de legado para os Spurs: chegou a final da NBA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/desporto/noticia/titulo-historico-knicks-definidor-legado-spurs-chegou-final-nba-2176973"
+            "title": "Trump admite conversa dura com Netanyahu e diz que ficou perturbado com “os combates constantes no Líbano”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/mundo/noticia/trump-admite-conversa-dura-netanyahu-ficou-perturbado-combates-constantes-libano-2177022"
         },
         {
-            "title": "O herói dos meus pais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/publico-brasil/opiniao/heroi-pais-2177000"
+            "title": "Leiria e Setúbal são candidatas a Capital Portuguesa da Cultura 2028",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/03/local/noticia/leiria-setubal-sao-candidatas-capital-portuguesa-cultura-2028-2176909"
         }
     ],
     "finance": [],
-    "last_update": "03/06/2026 08:04"
+    "last_update": "03/06/2026 13:04"
 }
