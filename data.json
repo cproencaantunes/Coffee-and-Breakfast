@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 0,
-        "manha": 0,
-        "tarde": 0,
-        "noite": 0
+        "atual": 18.8,
+        "manha": 19.2,
+        "tarde": 22.4,
+        "noite": 17.5
     },
     "forecast": {
-        "max": 0,
-        "min": 0
+        "max": 22.7,
+        "min": 14.8
     },
     "news": [
         {
-            "title": "Mourinho fez queixa no Tribunal dos Direitos Humanos devido a castigo na Turquia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/desporto/noticia/mourinho-fez-queixa-tribunal-direitos-humanos-devido-castigo-turquia-2177121"
+            "title": "Como se constrói um professor?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/newsletter/educacao"
         },
         {
-            "title": "Proposta para desbloquear heranças indivisas passa primeiro teste no Parlamento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/economia/noticia/proposta-desbloquear-herancas-indivisas-passa-teste-parlamento-2177122"
+            "title": "União Europeia escolhe portugueses como embaixadores na Albânia e Brasil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/mundo/noticia/uniao-europeia-escolhe-portugueses-embaixadores-albania-brasil-2177138"
         },
         {
-            "title": "Autoridade de Segurança Rodoviária congratula-se com nova estratégia que chega com seis anos de atraso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/sociedade/noticia/autoridade-seguranca-rodoviaria-congratulase-nova-estrategia-chega-seis-anos-atraso-2177118"
+            "title": "Wim Wenders cede e elimina filme em que Nastassja Kinski surge seminua aos 13 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/culturaipsilon/noticia/wim-wenders-cede-elimina-filme-nastassja-kinski-surge-seminua-13-anos-2177142"
         },
         {
-            "title": "Dúvida: porque não se pode devolver embalagens amassadas ao sistema Volta?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/azul/noticia/duvida-nao-devolver-embalagens-amassadas-sistema-volta-2176924"
+            "title": "Benfica confirma que Mourinho sai se Florentino Pérez vencer eleições do Real Madrid",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/desporto/noticia/benfica-confirma-mourinho-sai-florentino-perez-vencer-eleicoes-real-madrid-2177143"
         },
         {
-            "title": "Economia e lei de imigração reduzem número de brasileiros em Portugal, diz ministro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/publico-brasil/noticia/economia-lei-imigracao-reduzem-numero-brasileiros-portugal-ministro-2177117"
+            "title": "Número de multimilionários subiu para 25,3 milhões de pessoas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/economia/noticia/numero-multimilionarios-subiu-253-milhoes-pessoas-2177131"
         }
     ],
     "finance": [],
-    "last_update": "04/06/2026 13:51"
+    "last_update": "04/06/2026 16:41"
 }
