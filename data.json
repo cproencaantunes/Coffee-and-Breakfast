@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 18.8,
-        "manha": 19.2,
-        "tarde": 22.5,
-        "noite": 17.8
+        "atual": 0,
+        "manha": 0,
+        "tarde": 0,
+        "noite": 0
     },
     "forecast": {
-        "max": 22.7,
-        "min": 15.1
+        "max": 0,
+        "min": 0
     },
     "news": [
         {
-            "title": "“Pessoas com elevada auto-estima magoam-se menos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/impar/entrevista/pessoas-elevada-autoestima-magoamse-menos-2174619"
+            "title": "Mourinho fez queixa no Tribunal dos Direitos Humanos devido a castigo na Turquia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/desporto/noticia/mourinho-fez-queixa-tribunal-direitos-humanos-devido-castigo-turquia-2177121"
         },
         {
-            "title": "FIFA proíbe garrafas reutilizáveis nos estádios do Mundial 2026",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/desporto/noticia/fifa-proibe-garrafas-reutilizaveis-estadios-mundial-2026-2177104"
+            "title": "Proposta para desbloquear heranças indivisas passa primeiro teste no Parlamento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/economia/noticia/proposta-desbloquear-herancas-indivisas-passa-teste-parlamento-2177122"
         },
         {
-            "title": "Albaneses protestam contra <em>resort</em> de luxo em área protegida ligado a genro de Trump",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/azul/noticia/albaneses-protestam-resort-luxo-area-protegida-ligado-genro-trump-2177101"
+            "title": "Autoridade de Segurança Rodoviária congratula-se com nova estratégia que chega com seis anos de atraso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/sociedade/noticia/autoridade-seguranca-rodoviaria-congratulase-nova-estrategia-chega-seis-anos-atraso-2177118"
         },
         {
-            "title": "Milhares de anos após a sua morte, os micróbios de Otzi, o homem do gelo, ganham vida",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/ciencia/noticia/milhares-anos-apos-morte-microbios-otzi-homem-gelo-ganham-vida-2177055"
+            "title": "Dúvida: porque não se pode devolver embalagens amassadas ao sistema Volta?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/azul/noticia/duvida-nao-devolver-embalagens-amassadas-sistema-volta-2176924"
         },
         {
-            "title": "<em>Bravo Bene!</em> ou Maresco por Maresco",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/culturaipsilon/critica/bravo-bene-maresco-maresco-2176921"
+            "title": "Economia e lei de imigração reduzem número de brasileiros em Portugal, diz ministro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/publico-brasil/noticia/economia-lei-imigracao-reduzem-numero-brasileiros-portugal-ministro-2177117"
         }
     ],
     "finance": [],
-    "last_update": "04/06/2026 10:53"
+    "last_update": "04/06/2026 13:51"
 }
