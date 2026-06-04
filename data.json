@@ -3,34 +3,34 @@
         "atual": 18.8,
         "manha": 19.2,
         "tarde": 22.4,
-        "noite": 17.5
+        "noite": 17.7
     },
     "forecast": {
-        "max": 22.7,
-        "min": 14.8
+        "max": 22.8,
+        "min": 14.9
     },
     "news": [
         {
-            "title": "Como se constrói um professor?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/newsletter/educacao"
+            "title": "NASA abandona Marte seis meses depois de ter perdido contacto com sonda",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/ciencia/noticia/nasa-abandona-marte-seis-meses-perdido-contacto-sonda-2177141"
         },
         {
-            "title": "União Europeia escolhe portugueses como embaixadores na Albânia e Brasil",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/mundo/noticia/uniao-europeia-escolhe-portugueses-embaixadores-albania-brasil-2177138"
+            "title": "Marjane Satrapi: “Não aceito a morte, é um escândalo”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/culturaipsilon/entrevista/marjane-satrapi-nao-aceito-morte-escandalo-2177162"
         },
         {
-            "title": "Wim Wenders cede e elimina filme em que Nastassja Kinski surge seminua aos 13 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/culturaipsilon/noticia/wim-wenders-cede-elimina-filme-nastassja-kinski-surge-seminua-13-anos-2177142"
+            "title": "Pais acusam professora de discurso de ódio, escola na Parede abre averiguações após novas queixas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/sociedade/noticia/pais-acusam-professora-discurso-odio-escola-abre-averiguacoes-apos-novas-queixas-2177130"
         },
         {
-            "title": "Benfica confirma que Mourinho sai se Florentino Pérez vencer eleições do Real Madrid",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/desporto/noticia/benfica-confirma-mourinho-sai-florentino-perez-vencer-eleicoes-real-madrid-2177143"
+            "title": "Exposição reúne obras de 14 artistas brasileiros em Lisboa: memórias e transformação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/publico-brasil/noticia/exposicao-reune-obras-14-artistas-brasileiros-lisboa-memorias-transformacao-2177151"
         },
         {
-            "title": "Número de multimilionários subiu para 25,3 milhões de pessoas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/economia/noticia/numero-multimilionarios-subiu-253-milhoes-pessoas-2177131"
+            "title": "Seguro alerta que envelhecimento é “bomba-relógio” e pede “melhor resposta” do Estado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/politica/noticia/seguro-alerta-envelhecimento-bombarelogio-pede-melhor-resposta-estado-2177157"
         }
     ],
     "finance": [],
-    "last_update": "04/06/2026 16:41"
+    "last_update": "04/06/2026 19:12"
 }
