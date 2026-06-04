@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.8,
-        "manha": 19.3,
-        "tarde": 22.0,
-        "noite": 17.7
+        "manha": 19.2,
+        "tarde": 22.8,
+        "noite": 17.9
     },
     "forecast": {
-        "max": 22.6,
-        "min": 15.1
+        "max": 22.5,
+        "min": 15.3
     },
     "news": [
         {
-            "title": "Segurança social: não vale tudo para chegar ao poder",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/opiniao/opiniao/seguranca-social-nao-vale-chegar-2177052"
+            "title": "Vestir a farda da tribo é o funeral do pensamento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/p3/cronica/vestir-farda-tribo-funeral-pensamento-2176245"
         },
         {
-            "title": "A poesia ainda é para comer e a mesa está posta nos palcos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/culturaipsilon/opiniao/poesia-comer-mesa-posta-palcos-2176771"
+            "title": "Ministra critica Fernando Araújo e a reforma do SNS mas promete contas certas até 2029",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/sociedade/noticia/ministra-critica-fernando-araujo-reforma-sns-promete-contas-certas-ate-2029-2177070"
         },
         {
-            "title": "Sem respeito não existirão professores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/opiniao/opiniao/respeito-nao-existirao-professores-2177057"
+            "title": "Síndrome de Down: por fim, a degeneração do cérebro detectada desde o nascimento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/ciencia/noticia/sindrome-down-fim-degeneracao-cerebro-detectada-desde-nascimento-2174838"
         },
         {
-            "title": "O hospital cinzento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/opiniao/opiniao/hospital-cinzento-2177079"
+            "title": "Apoios para pessoas com deficiência: Governo aprova verba inferior à que foi necessária em 2025",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/sociedade/noticia/apoios-pessoas-deficiencia-governo-aprova-verba-inferior-necessaria-2025-2177077"
         },
         {
-            "title": "Não há nada para ver",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/opiniao/cronica/nao-ha-nada-2177019"
+            "title": "Isabel Capeloa Gil: reforma laboral sem IA “é uma oportunidade perdida”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/politica/entrevista/isabel-capeloa-gil-reforma-laboral-ia-oportunidade-perdida-2177072"
         }
     ],
     "finance": [],
-    "last_update": "04/06/2026 02:37"
+    "last_update": "04/06/2026 07:13"
 }
