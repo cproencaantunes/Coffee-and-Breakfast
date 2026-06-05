@@ -3,13 +3,21 @@
         "atual": 16.4,
         "manha": 16.8,
         "tarde": 22.4,
-        "noite": 17.4
+        "noite": 17.6
     },
     "forecast": {
-        "max": 26.3,
-        "min": 16.5
+        "max": 26.4,
+        "min": 16.6
     },
     "news": [
+        {
+            "title": "Senhor de Matosinhos: o templo das luzes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/fotogaleria/senhor-matosinhos-415597"
+        },
+        {
+            "title": "Seguro pede que não se encarem todas as suas “chamadas de atenção” como críticas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/politica/noticia/seguro-pede-nao-encarem-chamadas-atencao-criticas-2177312"
+        },
         {
             "title": "Mais de 4700 professores entraram nos quadros do Ministério da Educação",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/sociedade/noticia/4700-professores-entraram-quadros-ministerio-educacao-2177310"
@@ -21,16 +29,8 @@
         {
             "title": "Governo do Reino Unido denuncia “interferência” após críticas de J.D. Vance",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/mundo/noticia/governo-reino-unido-denuncia-interferencia-apos-criticas-jd-vance-2177309"
-        },
-        {
-            "title": "Ministra diz que encontrar soluções para utentes com altas proteladas é “prioridade nacional”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/sociedade/noticia/ministra-encontrar-solucoes-utentes-altas-proteladas-prioridade-nacional-2177302"
-        },
-        {
-            "title": "OMS lança plano de 518 milhões para travar surto de ébola, há 452 casos na RD Congo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/mundo/noticia/oms-lanca-plano-518-milhoes-travar-surto-ebola-ha-452-casos-rd-congo-2177305"
         }
     ],
     "finance": [],
-    "last_update": "05/06/2026 21:16"
+    "last_update": "05/06/2026 22:57"
 }
