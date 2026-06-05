@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 16.3,
+        "atual": 16.4,
         "manha": 17.3,
-        "tarde": 22.4,
+        "tarde": 22.1,
         "noite": 17.5
     },
     "forecast": {
         "max": 25.3,
-        "min": 16.6
+        "min": 16.4
     },
     "news": [
         {
-            "title": "EUA impõem sanções a Presidente cubano e membros da família Castro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/mundo/noticia/eua-impoem-sancoes-presidente-cubano-membros-familia-castro-2177173"
+            "title": "Assim como assim, damos-lhe transporte e ração",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/opiniao/opiniao/assim-assim-damoslhe-transporte-racao-2177154"
         },
         {
-            "title": "Central nuclear na Ucrânia gerida pela Rússia acusa Kiev de ataques com <em>drones</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/mundo/noticia/central-nuclear-ucrania-gerida-russia-acusa-kiev-ataques-drones-2177171"
+            "title": "As bandeiras vermelhas de Bad Bunny no Estádio da Luz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/opiniao/opiniao/bandeiras-vermelhas-bad-bunny-estadio-luz-2177105"
         },
         {
-            "title": "Anatomia de um golpe inconstitucional PSD/Chega/Aguiar Branco",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/opiniao/opiniao/anatomia-golpe-inconstitucional-psdchegaaguiar-branco-2177107"
+            "title": "A língua afro-luso-brasileira-e-arredores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/opiniao/opiniao/lingua-afrolusobrasileiraearredores-2177163"
         },
         {
-            "title": "Guterres condena morte de soldado da ONU no Líbano, a sétima em quatro meses",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/mundo/noticia/guterres-condena-morte-soldado-onu-libano-setima-quatro-meses-2177170"
+            "title": "A educação precisa de voltar a acreditar na humanidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/opiniao/opiniao/educacao-precisa-voltar-acreditar-humanidade-2177158"
         },
         {
-            "title": "Na legislação laboral, o melhor é começar de novo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/04/opiniao/opiniao/legislacao-laboral-melhor-comecar-novo-2177126"
+            "title": "PFAS na Europa, em Portugal e em Lisboa: este é o tempo de agir",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/opiniao/opiniao/pfas-europa-portugal-lisboa-tempo-agir-2177165"
         }
     ],
     "finance": [],
-    "last_update": "04/06/2026 22:59"
+    "last_update": "05/06/2026 00:11"
 }
