@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 16.4,
-        "manha": 17.3,
-        "tarde": 22.1,
-        "noite": 17.5
+        "manha": 17.1,
+        "tarde": 21.9,
+        "noite": 17.4
     },
     "forecast": {
-        "max": 25.3,
-        "min": 16.4
+        "max": 25.5,
+        "min": 16.3
     },
     "news": [
+        {
+            "title": "Montepio tem 210 milhões de euros em imóveis de habitação e diz que número crescerá",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/economia/noticia/montepio-210-milhoes-euros-imoveis-habitacao-numero-crescera-2177134"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/opiniao/opiniao/cartas-director-2177132"
+        },
         {
             "title": "Assim como assim, damos-lhe transporte e ração",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/opiniao/opiniao/assim-assim-damoslhe-transporte-racao-2177154"
@@ -21,16 +29,8 @@
         {
             "title": "A língua afro-luso-brasileira-e-arredores",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/opiniao/opiniao/lingua-afrolusobrasileiraearredores-2177163"
-        },
-        {
-            "title": "A educação precisa de voltar a acreditar na humanidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/opiniao/opiniao/educacao-precisa-voltar-acreditar-humanidade-2177158"
-        },
-        {
-            "title": "PFAS na Europa, em Portugal e em Lisboa: este é o tempo de agir",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/opiniao/opiniao/pfas-europa-portugal-lisboa-tempo-agir-2177165"
         }
     ],
     "finance": [],
-    "last_update": "05/06/2026 00:11"
+    "last_update": "05/06/2026 05:09"
 }
