@@ -2,35 +2,35 @@
     "weather": {
         "atual": 16.4,
         "manha": 16.8,
-        "tarde": 21.8,
-        "noite": 17.2
+        "tarde": 22.2,
+        "noite": 17.4
     },
     "forecast": {
-        "max": 25.5,
+        "max": 25.8,
         "min": 16.3
     },
     "news": [
         {
-            "title": "Grande entrevista com Jorge Molder: uma vida entre o eu e o outro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/newsletter/ipsilon"
+            "title": "Seguro promulga diploma que regula contratação de médicos tarefeiros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/politica/noticia/seguro-promulga-diploma-regula-contratacao-medicos-tarefeiros-2177224"
         },
         {
-            "title": "Federação sindical diz que greve do pessoal não docente ronda os 50%",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/sociedade/noticia/federacao-sindical-greve-pessoal-nao-docente-ronda-50-2177187"
+            "title": "Ministério Público arrasa juízes e PJ no recurso de Rui Pinto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/sociedade/noticia/ministerio-publico-arrasa-juizes-pj-recurso-rui-pinto-2177231"
         },
         {
-            "title": "Actor James Handy morto à facada, filho da namorada detido",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/culturaipsilon/noticia/actor-james-handy-morto-facada-filho-namorada-detido-2177191"
+            "title": "Tecnologia brasileira que combate desperdício de alimentos ganha prêmio em Viena",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/publico-brasil/noticia/tecnologia-brasileira-combate-desperdicio-alimentos-ganha-premio-viena-2177198"
         },
         {
-            "title": "Golpes, fantasmas e murmúrios: os contos escolhidos de Luísa Costa Gomes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/culturaipsilon/critica/golpes-fantasmas-murmurios-contos-escolhidos-luisa-costa-gomes-2176763"
+            "title": "Jovem suspeito de matar namorada em Odivelas está em coma",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/sociedade/noticia/jovem-suspeito-matar-namorada-odivelas-coma-2177225"
         },
         {
-            "title": "Aos 89 anos, Art Ulene está a treinar para escalar o Kilimanjaro neste Verão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/impar/noticia/89-anos-art-ulene-treinar-escalar-kilimanjaro-neste-verao-2177029"
+            "title": "Infinitude, o outro legado de Jardim Gonçalves",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/terroir/reportagem/infinitude-legado-jardim-goncalves-2176927"
         }
     ],
     "finance": [],
-    "last_update": "05/06/2026 09:28"
+    "last_update": "05/06/2026 12:30"
 }
