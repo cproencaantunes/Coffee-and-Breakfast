@@ -1,9 +1,9 @@
 {
     "weather": {
         "atual": 16.4,
-        "manha": 17.1,
-        "tarde": 21.9,
-        "noite": 17.4
+        "manha": 16.8,
+        "tarde": 21.8,
+        "noite": 17.2
     },
     "forecast": {
         "max": 25.5,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Montepio tem 210 milhões de euros em imóveis de habitação e diz que número crescerá",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/economia/noticia/montepio-210-milhoes-euros-imoveis-habitacao-numero-crescera-2177134"
+            "title": "Grande entrevista com Jorge Molder: uma vida entre o eu e o outro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/newsletter/ipsilon"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/opiniao/opiniao/cartas-director-2177132"
+            "title": "Federação sindical diz que greve do pessoal não docente ronda os 50%",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/sociedade/noticia/federacao-sindical-greve-pessoal-nao-docente-ronda-50-2177187"
         },
         {
-            "title": "Assim como assim, damos-lhe transporte e ração",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/opiniao/opiniao/assim-assim-damoslhe-transporte-racao-2177154"
+            "title": "Actor James Handy morto à facada, filho da namorada detido",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/culturaipsilon/noticia/actor-james-handy-morto-facada-filho-namorada-detido-2177191"
         },
         {
-            "title": "As bandeiras vermelhas de Bad Bunny no Estádio da Luz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/opiniao/opiniao/bandeiras-vermelhas-bad-bunny-estadio-luz-2177105"
+            "title": "Golpes, fantasmas e murmúrios: os contos escolhidos de Luísa Costa Gomes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/culturaipsilon/critica/golpes-fantasmas-murmurios-contos-escolhidos-luisa-costa-gomes-2176763"
         },
         {
-            "title": "A língua afro-luso-brasileira-e-arredores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/opiniao/opiniao/lingua-afrolusobrasileiraearredores-2177163"
+            "title": "Aos 89 anos, Art Ulene está a treinar para escalar o Kilimanjaro neste Verão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/impar/noticia/89-anos-art-ulene-treinar-escalar-kilimanjaro-neste-verao-2177029"
         }
     ],
     "finance": [],
-    "last_update": "05/06/2026 05:09"
+    "last_update": "05/06/2026 09:28"
 }
