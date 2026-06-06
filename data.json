@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 16.4,
-        "manha": 16.8,
-        "tarde": 22.4,
-        "noite": 17.6
+        "atual": 16.6,
+        "manha": 19.8,
+        "tarde": 26.4,
+        "noite": 18.5
     },
     "forecast": {
-        "max": 26.4,
-        "min": 16.6
+        "max": 26.7,
+        "min": 16.1
     },
     "news": [
         {
-            "title": "Senhor de Matosinhos: o templo das luzes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/fotogaleria/senhor-matosinhos-415597"
+            "title": "Comer em tempos difíceis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/opiniao/opiniao/comer-tempos-dificeis-2177197"
         },
         {
-            "title": "Seguro pede que não se encarem todas as suas “chamadas de atenção” como críticas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/politica/noticia/seguro-pede-nao-encarem-chamadas-atencao-criticas-2177312"
+            "title": "Passos pensa que a Europa está a deslaçar-se ou a deslassar-se?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/culturaipsilon/opiniao/passos-pensa-europa-deslacarse-deslassarse-2177228"
         },
         {
-            "title": "Mais de 4700 professores entraram nos quadros do Ministério da Educação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/sociedade/noticia/4700-professores-entraram-quadros-ministerio-educacao-2177310"
+            "title": "Crimes sem criminoso...",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/opiniao/opiniao/crimes-criminoso-2177244"
         },
         {
-            "title": "Uma imagem cooperante e voz dos mais pequenos: o que levou Portugal de regresso ao Conselho de Segurança",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/politica/noticia/imagem-cooperante-voz-levou-portugal-regresso-conselho-seguranca-onu-2177308"
+            "title": "Criminalizar o racismo?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/opiniao/opiniao/criminalizar-racismo-2177218"
         },
         {
-            "title": "Governo do Reino Unido denuncia “interferência” após críticas de J.D. Vance",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/05/mundo/noticia/governo-reino-unido-denuncia-interferencia-apos-criticas-jd-vance-2177309"
+            "title": "O nebuloso banco de horas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/opiniao/opiniao/nebuloso-banco-horas-2177201"
         }
     ],
     "finance": [],
-    "last_update": "05/06/2026 22:57"
+    "last_update": "06/06/2026 00:03"
 }
