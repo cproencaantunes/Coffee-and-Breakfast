@@ -3,13 +3,21 @@
         "atual": 16.5,
         "manha": 19.2,
         "tarde": 24.4,
-        "noite": 17.9
+        "noite": 18.2
     },
     "forecast": {
-        "max": 25.8,
-        "min": 15.9
+        "max": 25.9,
+        "min": 16.0
     },
     "news": [
+        {
+            "title": "Avançado da selecção iraquiana interrogado durante sete horas à chegada aos EUA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/desporto/noticia/avancado-seleccao-iraquiana-interrogado-durante-sete-horas-chegada-eua-2177359"
+        },
+        {
+            "title": "Adeus, dislexia: eles criaram uma <em>app </em>que é um companheiro de leitura personalizado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/p3/noticia/adeus-dislexia-criaram-app-companheiro-leitura-personalizado-2176721"
+        },
         {
             "title": "RTP, SIC e TVI chegam a acordo com FIFA e vão transmitir 20 jogos do Mundial",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/desporto/noticia/rtp-sic-tvi-chegam-acordo-fifa-vao-transmitir-20-jogos-mundial-2177358"
@@ -21,16 +29,8 @@
         {
             "title": "Yolanda Díaz: “Quando damos direitos às mulheres, aos migrantes, todos ganhamos”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/economia/entrevista/yolanda-diaz-damos-direitos-mulheres-migrantes-ganhamos-2177306"
-        },
-        {
-            "title": "Antonelli continua a dominar a F1 e conquista <em>pole position</em> para o GP do Mónaco",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/desporto/noticia/antonelli-continua-dominar-f1-conquista-pole-position-gp-monaco-2177356"
-        },
-        {
-            "title": "Europa confirma veto à carne brasileira e suspende importações a partir de setembro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/publico-brasil/noticia/europa-confirma-veto-carne-brasileira-suspende-importacoes-partir-setembro-2177354"
         }
     ],
     "finance": [],
-    "last_update": "06/06/2026 16:57"
+    "last_update": "06/06/2026 18:02"
 }
