@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 16.5,
-        "manha": 19.5,
-        "tarde": 25.8,
-        "noite": 18.1
+        "manha": 19.4,
+        "tarde": 26.0,
+        "noite": 17.9
     },
     "forecast": {
         "max": 26.1,
-        "min": 15.8
+        "min": 15.7
     },
     "news": [
         {
-            "title": "Uma grande vitória numa ONU pequenina",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/opiniao/editorial/vitoria-onu-pequenina-2177261"
+            "title": "A anatomia cruel do normal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/p3/cronica/anatomia-cruel-normal-2176543"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/opiniao/opiniao/cartas-director-2177256"
+            "title": "Estratégia rodoviária quer salvar 2250 vidas e poupar 20 mil milhões de euros até 2030",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/politica/noticia/estrategia-rodoviaria-quer-salvar-2250-vidas-poupar-20-mil-milhoes-euros-ate-2030-2177307"
         },
         {
-            "title": "Comer em tempos difíceis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/opiniao/opiniao/comer-tempos-dificeis-2177197"
+            "title": "A primeira regra da cozinha portuguesa: não ligues ao aspecto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/fugas/cronica/primeira-regra-cozinha-portuguesa-nao-ligues-aspecto-2176723"
         },
         {
-            "title": "Passos pensa que a Europa está a deslaçar-se ou a deslassar-se?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/culturaipsilon/opiniao/passos-pensa-europa-deslacarse-deslassarse-2177228"
+            "title": "Governo propõe sexta alteração à lei de estrangeiros em dois anos. Agora para centros de triagem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/politica/noticia/governo-propoe-sexta-alteracao-lei-estrangeiros-dois-anos-centros-triagem-2177294"
         },
         {
-            "title": "Crimes sem criminoso...",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/opiniao/opiniao/crimes-criminoso-2177244"
+            "title": "Obrigada, Grada!",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/publico-brasil/opiniao/obrigada-grada-2177318"
         }
     ],
     "finance": [],
-    "last_update": "06/06/2026 04:45"
+    "last_update": "06/06/2026 07:39"
 }
