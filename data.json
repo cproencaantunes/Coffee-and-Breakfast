@@ -1,15 +1,23 @@
 {
     "weather": {
-        "atual": 16.6,
-        "manha": 19.8,
-        "tarde": 26.4,
-        "noite": 18.5
+        "atual": 16.5,
+        "manha": 19.5,
+        "tarde": 25.8,
+        "noite": 18.1
     },
     "forecast": {
-        "max": 26.7,
-        "min": 16.1
+        "max": 26.1,
+        "min": 15.8
     },
     "news": [
+        {
+            "title": "Uma grande vitória numa ONU pequenina",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/opiniao/editorial/vitoria-onu-pequenina-2177261"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/opiniao/opiniao/cartas-director-2177256"
+        },
         {
             "title": "Comer em tempos difíceis",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/opiniao/opiniao/comer-tempos-dificeis-2177197"
@@ -21,16 +29,8 @@
         {
             "title": "Crimes sem criminoso...",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/opiniao/opiniao/crimes-criminoso-2177244"
-        },
-        {
-            "title": "Criminalizar o racismo?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/opiniao/opiniao/criminalizar-racismo-2177218"
-        },
-        {
-            "title": "O nebuloso banco de horas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/opiniao/opiniao/nebuloso-banco-horas-2177201"
         }
     ],
     "finance": [],
-    "last_update": "06/06/2026 00:03"
+    "last_update": "06/06/2026 04:45"
 }
