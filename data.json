@@ -2,35 +2,35 @@
     "weather": {
         "atual": 16.5,
         "manha": 19.2,
-        "tarde": 26.0,
-        "noite": 17.9
+        "tarde": 25.5,
+        "noite": 17.8
     },
     "forecast": {
         "max": 25.8,
-        "min": 15.7
+        "min": 15.8
     },
     "news": [
         {
-            "title": "Ministério acompanha processo de escola da Parede a professora acusada de racismo por pais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/sociedade/noticia/ministerio-acompanha-processo-escola-parede-professora-acusada-racismo-pais-2177329"
+            "title": "Notários: proposta para libertar imóveis das heranças só tem impacto a dez ou 20 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/economia/noticia/notarios-proposta-libertar-imoveis-herancas-so-impacto-dez-20-anos-2177328"
         },
         {
-            "title": "Onde colocar o chapéu-de-sol? Ministra aconselha “desenho” à entrada da praia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/sociedade/noticia/onde-colocar-chapeudesol-ministra-aconselha-desenho-entrada-praia-2177330"
+            "title": "PS vota contra a PSU “tal como está” e acusa Governo de deixar “o essencial para portaria”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/politica/noticia/ps-vota-psu-tal-acusa-governo-deixar-essencial-portaria-2177327"
         },
         {
-            "title": "Serra da Estrela é a mais nova Reserva da Biosfera da UNESCO",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/azul/noticia/serra-estrela-nova-reserva-biosfera-unesco-portuguesa-2177333"
+            "title": "Comissão do Parlamento vai discutir petição sobre transição para Lei da Nacionalidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/publico-brasil/noticia/comissao-parlamento-vai-discutir-peticao-transicao-lei-nacionalidade-2177336"
         },
         {
-            "title": "Trabalho social associado à PSU “é um retrocesso”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/sociedade/entrevista/trabalho-social-associado-psu-retrocesso-2177235"
+            "title": "Accenture rejeita irregularidades após condenação a multa pela Concorrência",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/economia/noticia/accenture-rejeita-irregularidades-apos-condenacao-multa-concorrencia-2177331"
         },
         {
-            "title": "O fim da era dos chefes de família",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/impar/noticia/fim-chefes-familia-2174702"
+            "title": "Ministro das Finanças nomeado vice-presidente do Conselho de Governadores do BERD",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/06/economia/noticia/ministro-financas-nomeado-vicepresidente-conselho-governadores-berd-2177335"
         }
     ],
     "finance": [],
-    "last_update": "06/06/2026 11:15"
+    "last_update": "06/06/2026 13:06"
 }
