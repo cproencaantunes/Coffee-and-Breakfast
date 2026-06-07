@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 16.9,
-        "manha": 18.7,
-        "tarde": 25.7,
-        "noite": 18.0
+        "manha": 18.5,
+        "tarde": 25.4,
+        "noite": 17.9
     },
     "forecast": {
-        "max": 24.9,
-        "min": 16.4
+        "max": 23.9,
+        "min": 16.2
     },
     "news": [
         {
-            "title": "Um pacote laboral para o século XXI: o trabalho e a <em>Magnifica Humanitas</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/opiniao/opiniao/pacote-laboral-seculo-xxi-trabalho-magnifica-humanitas-2177209"
+            "title": "O trágico testemunho da natureza humana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/publico-brasil/opiniao/tragico-testemunho-natureza-humana-2177365"
         },
         {
-            "title": "Conciliar ou (des)conciliar? Eis a questão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/opiniao/opiniao/conciliar-desconciliar-eis-questao-2177204"
+            "title": "Festinhas, mimos e abraços entre gente que se entranha: assim é uma Cuddle Party",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/p3/reportagem/festinhas-mimos-abracos-gente-entranha-assim-cuddle-party-2173533"
         },
         {
-            "title": "A difícil arquitetura dos retornos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/opiniao/opiniao/dificil-arquitetura-retornos-2177220"
+            "title": "As “coisas novas” da primeira encíclica de Leão XIV",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/sociedade/noticia/novas-primeira-enciclica-leao-xiv-2177295"
         },
         {
-            "title": "Viver para sobreviver no Médio Oriente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/opiniao/opiniao/viver-sobreviver-medio-oriente-2177156"
+            "title": "“Se morrer aqui, façam justiça”: desde Janeiro, morreram 28 pessoas nas prisões portuguesas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/sociedade/noticia/morrer-aqui-facam-justica-desde-janeiro-morreram-28-pessoas-prisoes-portuguesas-2176991"
         },
         {
-            "title": "E uma <em>app </em>para os banhistas?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/opiniao/cronica/app-banhistas-2177340"
+            "title": "Empreendedora paulista planeja expansão de marca de joias e acessórios em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/publico-brasil/noticia/empreendedora-paulista-planeja-expansao-marca-joias-acessorios-portugal-2177364"
         }
     ],
     "finance": [],
-    "last_update": "07/06/2026 02:40"
+    "last_update": "07/06/2026 06:57"
 }
