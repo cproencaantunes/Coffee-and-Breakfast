@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 16.9,
-        "manha": 18.5,
-        "tarde": 25.4,
-        "noite": 18.6
+        "atual": 17.1,
+        "manha": 18.6,
+        "tarde": 24.1,
+        "noite": 19.2
     },
     "forecast": {
-        "max": 24.2,
-        "min": 16.6
+        "max": 24.4,
+        "min": 15.8
     },
     "news": [
         {
+            "title": "Acelerar até ao desastre?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/opiniao/opiniao/acelerar-ate-desastre-2177160"
+        },
+        {
+            "title": "Biba la Lhibardade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/opiniao/opiniao/biba-lhibardade-2177223"
+        },
+        {
+            "title": "Cuidado com os marroquinos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/opiniao/cronica/cuidado-marroquinos-2177382"
+        },
+        {
+            "title": "Florentino ganha eleições, Mourinho regressa ao Real Madrid",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/desporto/noticia/florentino-ganha-eleicoes-mourinho-regressa-real-madrid-2177420"
+        },
+        {
             "title": "A febre da IA enriquece os fabricantes de memória e os consumidores pagam a conta",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/enter/noticia/febre-ia-enriquece-fabricantes-memoria-consumidores-pagam-conta-2177183"
-        },
-        {
-            "title": "Sporting conquista 20.ª Taça de Portugal de andebol ao bater Benfica",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/desporto/noticia/sporting-conquista-20-taca-portugal-andebol-bater-benfica-2177419"
-        },
-        {
-            "title": "A aversão aos “malandros do rendimento mínimo”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/politica/cronica/aversao-malandros-rendimento-minimo-2177412"
-        },
-        {
-            "title": "Falar com as plantas, dormir com o gato",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/p3/cronica/falar-plantas-dormir-gato-2176787"
-        },
-        {
-            "title": "Irão lança nova vaga de mísseis contra Israel, no primeiro ataque desde o cessar-fogo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/mundo/noticia/irao-lanca-nova-vaga-ataques-misseis-israel-2177418"
         }
     ],
     "finance": [],
-    "last_update": "07/06/2026 22:04"
+    "last_update": "07/06/2026 23:57"
 }
