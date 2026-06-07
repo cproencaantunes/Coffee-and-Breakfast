@@ -2,35 +2,35 @@
     "weather": {
         "atual": 16.9,
         "manha": 18.5,
-        "tarde": 25.3,
-        "noite": 17.9
+        "tarde": 25.4,
+        "noite": 17.8
     },
     "forecast": {
-        "max": 24.1,
-        "min": 16.3
+        "max": 24.0,
+        "min": 16.2
     },
     "news": [
         {
-            "title": "Israel ataca subúrbios a sul de Beirute, Hamas reivindica atentado contra israelitas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/mundo/noticia/israel-ataca-suburbios-sul-beirute-hamas-reivindica-atentado-israelitas-2177398"
+            "title": "Economia do Brasil está entre pessimismo do mercado e otimismo do governo, diz Salto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/publico-brasil/entrevista/economia-brasil-pessimismo-mercado-otimismo-governo-salto-2177393"
         },
         {
-            "title": "Calor extremo põe à prova a produção recorde de leite da Índia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/azul/noticia/calor-extremo-poe-prova-producao-recorde-leite-india-2176886"
+            "title": "João Almeida sofre no regresso à competição no Tour Auvergne-Rhône-Alpes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/desporto/noticia/joao-almeida-sofre-regresso-competicao-tour-auvergnerhonealpes-2177404"
         },
         {
-            "title": "Consenso na Assembleia da República para a reabertura da linha do Corgo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/local/noticia/consenso-assembleia-republica-reabertura-linha-corgo-2177185"
+            "title": "Vento do buraco negro supermaciço da Via Láctea é finalmente descoberto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/ciencia/noticia/vento-buraco-negro-supermacico-via-lactea-finalmente-descoberto-2177194"
         },
         {
-            "title": "Márquez está de volta: espanhol conquistou 100.ª vitória na carreira no GP da Hungria",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/desporto/noticia/marquez-volta-espanhol-conquistou-100-vitoria-carreira-gp-hungria-2177392"
+            "title": "OPEP+ decide aumentar produção de petróleo em 188 mil barris por dia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/economia/noticia/opep-decide-aumentar-producao-petroleo-188-mil-barris-dia-2177401"
         },
         {
-            "title": "Passe ferroviário verde passa a estar disponível na aplicação gov.pt",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/economia/noticia/passe-ferroviario-verde-passa-estar-disponivel-aplicacao-govpt-2177387"
+            "title": "Kimi Antonelli volta a vencer um Grande Prémio de Fórmula 1",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/desporto/noticia/kimi-antonelli-volta-vencer-premio-formula-1-2177405"
         }
     ],
     "finance": [],
-    "last_update": "07/06/2026 15:17"
+    "last_update": "07/06/2026 17:04"
 }
