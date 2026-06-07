@@ -2,35 +2,35 @@
     "weather": {
         "atual": 16.9,
         "manha": 18.5,
-        "tarde": 25.4,
-        "noite": 17.9
+        "tarde": 25.5,
+        "noite": 18.0
     },
     "forecast": {
-        "max": 23.9,
-        "min": 16.2
+        "max": 24.0,
+        "min": 16.3
     },
     "news": [
         {
-            "title": "O trágico testemunho da natureza humana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/publico-brasil/opiniao/tragico-testemunho-natureza-humana-2177365"
+            "title": "“Defesa europeia não é igualmente eficaz com ou sem EUA”, diz Nuno Melo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/politica/noticia/defesa-europeia-nao-igualmente-eficaz-eua-nuno-melo-2177373"
         },
         {
-            "title": "Festinhas, mimos e abraços entre gente que se entranha: assim é uma Cuddle Party",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/p3/reportagem/festinhas-mimos-abracos-gente-entranha-assim-cuddle-party-2173533"
+            "title": "A morrer de amor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/newsletter/impar"
         },
         {
-            "title": "As “coisas novas” da primeira encíclica de Leão XIV",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/sociedade/noticia/novas-primeira-enciclica-leao-xiv-2177295"
+            "title": "Há uma onda antifeminista liderada por mulheres dispostas a regressar ao passado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/impar/noticia/ha-onda-antifeminista-liderada-mulheres-dispostas-regressar-passado-2175879"
         },
         {
-            "title": "“Se morrer aqui, façam justiça”: desde Janeiro, morreram 28 pessoas nas prisões portuguesas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/sociedade/noticia/morrer-aqui-facam-justica-desde-janeiro-morreram-28-pessoas-prisoes-portuguesas-2176991"
+            "title": "“Não temos recursos suficientes para erradicar o siluro”, o grande predador dos rios",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/azul/entrevista/nao-recursos-suficientes-erradicar-siluro-predador-rios-2177276"
         },
         {
-            "title": "Empreendedora paulista planeja expansão de marca de joias e acessórios em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/publico-brasil/noticia/empreendedora-paulista-planeja-expansao-marca-joias-acessorios-portugal-2177364"
+            "title": "Ana Maria Magalhães e Zeferino Coelho: a aventura que saiu das páginas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/impar/noticia/ana-maria-magalhaes-zeferino-coelho-aventura-saiu-paginas-2175092"
         }
     ],
     "finance": [],
-    "last_update": "07/06/2026 06:57"
+    "last_update": "07/06/2026 09:57"
 }
