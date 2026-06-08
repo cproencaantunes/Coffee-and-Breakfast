@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 16.9,
-        "manha": 18.6,
+        "manha": 18.5,
         "tarde": 24.4,
         "noite": 19.6
     },
     "forecast": {
-        "max": 24.4,
+        "max": 23.9,
         "min": 15.8
     },
     "news": [
         {
-            "title": "Sismo de 7,8 atinge o Sul das Filipinas. Emitido alerta de <em>tsunami</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/mundo/noticia/sismo-82-atinge-filipinas-emitido-alerta-tsunami-2177425"
+            "title": "Trabalhadores dos Registos e Notariado iniciam greve de uma semana contra “situação crítica” do sector",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/sociedade/noticia/trabalhadores-registos-notariado-iniciam-greve-semana-situacao-critica-sector-2177430"
         },
         {
-            "title": "Acelerar até ao desastre?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/opiniao/opiniao/acelerar-ate-desastre-2177160"
+            "title": "Lisboa acaba com gabinete que planeava zonas verdes e questionava opções urbanísticas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/local/noticia/lisboa-acaba-gabinete-planeava-zonas-verdes-questionava-opcoes-urbanisticas-2176493"
         },
         {
-            "title": "Biba la Lhibardade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/opiniao/opiniao/biba-lhibardade-2177223"
+            "title": "Ligações fluviais com horários reforçados entre Cacilhas, Barreiro e Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/local/noticia/ligacoes-fluviais-horarios-reforcados-cacilhas-barreiro-lisboa-2177429"
         },
         {
-            "title": "Cuidado com os marroquinos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/opiniao/cronica/cuidado-marroquinos-2177382"
+            "title": "Despertador: IHRU não fiscaliza isenções fiscais no arrendamento acessível",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/newsletter/despertador"
         },
         {
-            "title": "Florentino ganha eleições, Mourinho regressa ao Real Madrid",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/desporto/noticia/florentino-ganha-eleicoes-mourinho-regressa-real-madrid-2177420"
+            "title": "Israel não cede à pressão de Trump para parar ataques e atinge complexo petroquímico iraniano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/mundo/noticia/israel-nao-cede-pressao-trump-parar-ataques-atinge-complexo-petroquimico-iraniano-2177426"
         }
     ],
     "finance": [],
-    "last_update": "08/06/2026 03:34"
+    "last_update": "08/06/2026 08:43"
 }
