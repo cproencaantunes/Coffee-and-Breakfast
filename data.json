@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 16.9,
-        "manha": 18.4,
-        "tarde": 24.4,
-        "noite": 19.4
+        "atual": 18.2,
+        "manha": 17.8,
+        "tarde": 23.7,
+        "noite": 17.6
     },
     "forecast": {
-        "max": 23.9,
-        "min": 16.0
+        "max": 26.7,
+        "min": 16.9
     },
     "news": [
         {
-            "title": "ONU alerta que conflito na Ucrânia está a intensificar-se e avizinha-se escalada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/mundo/noticia/onu-alerta-conflito-ucrania-intensificarse-avizinhase-escalada-2177559"
+            "title": "Foi o que se arranjou",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/opiniao/cronica/arranjou-2177443"
         },
         {
-            "title": "Selecção recebeu Presidente da República antes da ida para os EUA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/desporto/noticia/seleccao-recebeu-presidente-republica-ida-eua-2177558"
+            "title": "Primo dá meio milhão e Pinto de Albuquerque não diz que não",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/opiniao/opiniao/primo-meio-milhao-pinto-albuquerque-nao-nao-2177544"
         },
         {
-            "title": "Manuscritos de Leonardo da Vinci sobre arte e ciência de novo juntos, 400 anos depois",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/culturaipsilon/noticia/manuscritos-leonardo-vinci-arte-ciencia-novo-juntos-400-anos-2177555"
+            "title": "Comprimido da AstraZeneca para a obesidade ajuda doentes a perder 10,5% do peso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/ciencia/noticia/comprimido-astrazeneca-obesidade-ajuda-doentes-perder-105-peso-2177561"
         },
         {
-            "title": "Leitor, precisamos de conversar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/p3/cronica/leitor-precisamos-conversar-2177512"
+            "title": "Saiba quais os horários e os canais de TV onde pode ver todos os jogos do Mundial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/desporto/noticia/saiba-horarios-canais-tv-onde-jogos-mundial-2177509"
         },
         {
-            "title": "Lisboa emparedou 1261 casas destinadas à demolição para evitar ocupações e pilhagens",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/local/noticia/lisboa-emparedou-1261-casas-destinadas-demolicao-evitar-ocupacoes-pilhagens-2177257"
+            "title": "Sánchez ultrapassa Fujimori nas presidenciais do Peru, ainda sem vencedor declarado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/mundo/noticia/sanchez-ultrapassa-fujimori-presidenciais-peru-vencedor-declarado-2177545"
         }
     ],
     "finance": [],
-    "last_update": "08/06/2026 21:42"
+    "last_update": "08/06/2026 23:06"
 }
