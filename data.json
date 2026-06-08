@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 17.1,
+        "atual": 16.9,
         "manha": 18.6,
-        "tarde": 24.1,
-        "noite": 19.2
+        "tarde": 24.4,
+        "noite": 19.6
     },
     "forecast": {
         "max": 24.4,
         "min": 15.8
     },
     "news": [
+        {
+            "title": "Sismo de 7,8 atinge o Sul das Filipinas. Emitido alerta de <em>tsunami</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/mundo/noticia/sismo-82-atinge-filipinas-emitido-alerta-tsunami-2177425"
+        },
         {
             "title": "Acelerar até ao desastre?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/opiniao/opiniao/acelerar-ate-desastre-2177160"
@@ -25,12 +29,8 @@
         {
             "title": "Florentino ganha eleições, Mourinho regressa ao Real Madrid",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/desporto/noticia/florentino-ganha-eleicoes-mourinho-regressa-real-madrid-2177420"
-        },
-        {
-            "title": "A febre da IA enriquece os fabricantes de memória e os consumidores pagam a conta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/07/enter/noticia/febre-ia-enriquece-fabricantes-memoria-consumidores-pagam-conta-2177183"
         }
     ],
     "finance": [],
-    "last_update": "07/06/2026 23:57"
+    "last_update": "08/06/2026 03:34"
 }
