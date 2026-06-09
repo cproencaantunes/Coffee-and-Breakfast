@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 18.3,
-        "manha": 17.8,
-        "tarde": 23.4,
-        "noite": 17.4
+        "atual": 16.9,
+        "manha": 19.7,
+        "tarde": 27.4,
+        "noite": 19.7
     },
     "forecast": {
-        "max": 27.4,
-        "min": 16.6
+        "max": 31.7,
+        "min": 17.9
     },
     "news": [
         {
+            "title": "Agricultura em crise: quando o Governo prefere os números às pessoas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/opiniao/opiniao/agricultura-crise-governo-prefere-numeros-pessoas-2177631"
+        },
+        {
+            "title": "Um em cada quatro europeus olha para os EUA como um “rival” ou “adversário”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/mundo/noticia/quatro-europeus-olha-eua-rival-adversario-2177670"
+        },
+        {
+            "title": "Curaçau no coração",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/opiniao/cronica/curacau-coracao-2177602"
+        },
+        {
+            "title": "Só gosto de mim. Porquê? Eu sei",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/opiniao/opiniao/so-gosto-mim-sei-2177648"
+        },
+        {
             "title": "FC Porto bate Benfica no prolongamento e empata final da Liga de basquetebol",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/desporto/noticia/fc-porto-bate-benfica-prolongamento-empata-final-liga-basquetebol-2177697"
-        },
-        {
-            "title": "É oficial. Benfica despede-se de José Mourinho e anuncia Marco Silva",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/desporto/noticia/oficial-benfica-despedese-mourinho-obrigado-2177698"
-        },
-        {
-            "title": "Identidade de género: PSD quer lei até ao Verão, mas ainda não há acordo sobre audições",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/politica/noticia/identidade-genero-psd-quer-lei-ate-verao-nao-ha-acordo-audicoes-2177692"
-        },
-        {
-            "title": "Com Base das Lajes em fundo, Seguro foca-se na “unidade nacional” em visita à Terceira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/politica/noticia/base-lajes-fundo-seguro-focase-unidade-nacional-visita-terceira-2177680"
-        },
-        {
-            "title": "População de polvos multiplica-se na costa britânica devido ao aquecimento do oceano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/azul/noticia/populacao-polvos-multiplicase-costa-britanica-devido-aquecimento-oceano-2177581"
         }
     ],
     "finance": [],
-    "last_update": "09/06/2026 21:29"
+    "last_update": "09/06/2026 23:09"
 }
