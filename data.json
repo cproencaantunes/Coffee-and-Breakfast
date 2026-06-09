@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.3,
-        "manha": 17.6,
-        "tarde": 23.4,
-        "noite": 17.5
+        "manha": 17.8,
+        "tarde": 23.3,
+        "noite": 17.4
     },
     "forecast": {
-        "max": 26.1,
-        "min": 16.7
+        "max": 26.2,
+        "min": 16.5
     },
     "news": [
         {
-            "title": "O sorriso da médica",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/publico-brasil/cronica/sorriso-medica-2177543"
+            "title": "Zelensky diz que Rússia está “isolada” e a “perder iniciativa dia após dia” no terreno",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/mundo/noticia/zelensky-russia-isolada-perder-iniciativa-dia-apos-dia-terreno-2177580"
         },
         {
-            "title": "Ordens dos Médicos e Nutricionistas pedem controlo prévio aos suplementos alimentares",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/ciencia/noticia/ordens-medicos-nutricionistas-pedem-controlo-previo-suplementos-alimentares-2177498"
+            "title": "Será mesmo que lá em casa não mandamos nada?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/impar/cronica/sera-casa-nao-mandamos-nada-2174521"
         },
         {
-            "title": "Trump está a diminuir a influência dos EUA no Médio Oriente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/mundo/noticia/trump-diminuir-influencia-eua-medio-oriente-2177541"
+            "title": "TPI suspende procurador Karim Khan por suspeitas de assédio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/mundo/noticia/tpi-suspende-procurador-karim-khan-suspeitas-assedio-2177579"
         },
         {
-            "title": "Eurico Castro Alves, o poder discreto na saúde portuguesa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/sociedade/investigacao/eurico-castro-alves-discreto-saude-portuguesa-2177539"
+            "title": "O que se passa no Helicoide, a prisão venezuelana que Rubio diz ter fechado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/mundo/noticia/passa-helicoide-prisao-venezuelana-rubio-fechado-2177397"
         },
         {
-            "title": "<em>Cannabis</em> medicinal junta companheiras de Eurico Castro Alves e Marco António Costa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/sociedade/investigacao/cannabis-medicinal-junta-companheiras-eurico-castro-alves-marco-antonio-costa-2177525"
+            "title": "Museus nacionais, conceitos e práticas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/culturaipsilon/opiniao/museus-nacionais-conceitos-praticas-2177332"
         }
     ],
     "finance": [],
-    "last_update": "09/06/2026 06:38"
+    "last_update": "09/06/2026 10:26"
 }
