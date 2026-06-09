@@ -1,9 +1,9 @@
 {
     "weather": {
-        "atual": 18.2,
-        "manha": 17.8,
-        "tarde": 23.7,
-        "noite": 17.6
+        "atual": 18.3,
+        "manha": 17.7,
+        "tarde": 23.6,
+        "noite": 17.5
     },
     "forecast": {
         "max": 26.7,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Foi o que se arranjou",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/opiniao/cronica/arranjou-2177443"
+            "title": "Repararam que fomos eleitos para o Conselho de Segurança?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/opiniao/opiniao/repararam-eleitos-conselho-seguranca-2177442"
         },
         {
-            "title": "Primo dá meio milhão e Pinto de Albuquerque não diz que não",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/opiniao/opiniao/primo-meio-milhao-pinto-albuquerque-nao-nao-2177544"
+            "title": "Crónica sobre os pobres e os malandros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/opiniao/opiniao/cronica-pobres-malandros-2177511"
         },
         {
-            "title": "Comprimido da AstraZeneca para a obesidade ajuda doentes a perder 10,5% do peso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/ciencia/noticia/comprimido-astrazeneca-obesidade-ajuda-doentes-perder-105-peso-2177561"
+            "title": "“Rudes negros de África…”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/opiniao/opiniao/rudes-negros-africa-2177531"
         },
         {
-            "title": "Saiba quais os horários e os canais de TV onde pode ver todos os jogos do Mundial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/desporto/noticia/saiba-horarios-canais-tv-onde-jogos-mundial-2177509"
+            "title": "Tubarão-branco adulto filmado pela primeira vez no Mediterrâneo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/azul/noticia/tubaraobranco-adulto-filmado-primeira-mediterraneo-2177562"
         },
         {
-            "title": "Sánchez ultrapassa Fujimori nas presidenciais do Peru, ainda sem vencedor declarado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/08/mundo/noticia/sanchez-ultrapassa-fujimori-presidenciais-peru-vencedor-declarado-2177545"
+            "title": "EUA barram entrada a árbitro da Somália que ia apitar no Mundial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/desporto/noticia/eua-barram-entrada-arbitro-somalia-ia-apitar-mundial-2177563"
         }
     ],
     "finance": [],
-    "last_update": "08/06/2026 23:06"
+    "last_update": "09/06/2026 02:00"
 }
