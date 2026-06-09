@@ -2,35 +2,35 @@
     "weather": {
         "atual": 18.3,
         "manha": 17.8,
-        "tarde": 23.2,
-        "noite": 17.4
+        "tarde": 23.4,
+        "noite": 17.3
     },
     "forecast": {
-        "max": 26.3,
-        "min": 16.5
+        "max": 26.7,
+        "min": 16.4
     },
     "news": [
         {
-            "title": "Presidente mexicana disse permitir que Irão “opere” no México? Falso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/mundo/noticia/presidente-mexicana-permitir-irao-opere-mexico-falso-2177611"
+            "title": "Comissão Europeia e Apple trocam acusações sobre o bloqueio da nova Siri na Europa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/enter/noticia/comissao-europeia-apple-trocam-acusacoes-bloqueio-nova-siri-europa-2177649"
         },
         {
-            "title": "Mais uma automotora avariada no Alentejo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/economia/noticia/automotora-avariada-alentejo-2177614"
+            "title": "Brasileiros investem na construção de imóveis para a classe média em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/publico-brasil/noticia/brasileiros-investem-construcao-imoveis-classe-media-portugal-2177633"
         },
         {
-            "title": "O que fazer ao siluro e outros peixes de rio invasores? Talvez comê-los",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/fugas/noticia/siluro-peixes-rio-invasores-comelos-2177432"
+            "title": "Governo vai preferir PS ou Chega na PSU?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/politica/noticia/governo-vai-preferir-ps-chega-psu-2177566"
         },
         {
-            "title": "Risco de incêndio leva Stellantis a chamar 357 Jeep à oficina em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/enter/noticia/risco-incendio-leva-stellantis-chamar-357-jeep-oficina-portugal-2177606"
+            "title": "Porto desperdiça PRR para obras em centros de saúde, mas não deixa cair plano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/local/noticia/porto-desperdica-prr-obras-centros-saude-nao-deixa-cair-plano-2177650"
         },
         {
-            "title": "A “Arte de Tocar Pedrinhas” de Arronches a Património Cultural de Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/fugas/noticia/arte-tocar-pedrinhas-arronches-patrimonio-cultural-portugal-2177607"
+            "title": "Reclamações sobre serviços digitais triplicam no primeiro trimestre",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/economia/noticia/reclamacoes-servicos-digitais-triplicam-trimestre-2177651"
         }
     ],
     "finance": [],
-    "last_update": "09/06/2026 13:36"
+    "last_update": "09/06/2026 16:24"
 }
