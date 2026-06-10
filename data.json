@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 16.8,
-        "manha": 19.4,
-        "tarde": 27.7,
-        "noite": 20.5
+        "manha": 19.0,
+        "tarde": 27.6,
+        "noite": 21.1
     },
     "forecast": {
-        "max": 31.7,
-        "min": 18.3
+        "max": 31.5,
+        "min": 18.2
     },
     "news": [
         {
-            "title": "Director da Escola Portuguesa sai de Macau para Luanda. Ministro admite dificuldades na contratação de docentes portugueses",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/sociedade/noticia/director-escola-portuguesa-sai-macau-luanda-ministro-admite-dificuldades-contratacao-docentes-portugueses-2177721"
+            "title": "Devolvidas dez milhões de embalagens em dois meses do sistema Volta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/azul/noticia/devolvidas-dez-milhoes-embalagens-dois-meses-sistema-volta-2177722"
         },
         {
-            "title": "Ataques aéreos do Paquistão matam pelo menos 13 pessoas no Afeganistão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/mundo/noticia/ataques-aereos-paquistao-matam-menos-13-pessoas-afeganistao-2177724"
+            "title": "A nova questão social: disciplinar ou emancipar?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/opiniao/opiniao/nova-questao-social-disciplinar-emancipar-2177474"
         },
         {
-            "title": "A minha irmã é autista e não-verbal, mas encontrei formas de me relacionar com ela",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/p3/noticia/irma-autista-naoverbal-encontrei-formas-relacionarme-2177637"
+            "title": "Primavera Sound Porto em contagem decrescente para uma edição que pode bater recordes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/culturaipsilon/noticia/primavera-sound-porto-contagem-decrescente-edicao-bater-recordes-2177594"
         },
         {
-            "title": "TAP ambiciona reforçar no Brasil e presidente acredita que o novo accionista vai ajudar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/economia/noticia/tap-ambiciona-reforcar-brasil-presidente-acredita-novo-accionista-vai-ajudar-2177709"
+            "title": "Mais de um ano depois, Ana Paula conseguiu uma casa em Loures",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/sociedade/noticia/ano-ana-paula-conseguiu-casa-loures-2177732"
         },
         {
-            "title": "O problema de Portugal é um problema de azeite",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/fugas/cronica/problema-portugal-problema-azeite-2177517"
+            "title": "Veja onde assistir aos jogos do Brasil — e não só — em Portugal durante Copa do Mundo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/publico-brasil/noticia/veja-onde-assistir-jogos-brasil-nao-so-portugal-durante-copa-mundo-2177653"
         }
     ],
     "finance": [],
-    "last_update": "10/06/2026 10:51"
+    "last_update": "10/06/2026 14:16"
 }
