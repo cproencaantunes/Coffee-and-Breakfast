@@ -1,9 +1,9 @@
 {
     "weather": {
-        "atual": 16.9,
+        "atual": 16.8,
         "manha": 19.7,
-        "tarde": 27.4,
-        "noite": 19.7
+        "tarde": 27.8,
+        "noite": 19.9
     },
     "forecast": {
         "max": 31.7,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
+            "title": "O multilateralismo vale a pena",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/opiniao/opiniao/multilateralismo-vale-pena-2177626"
+        },
+        {
+            "title": "Uma encíclica como programa de governo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/opiniao/opiniao/enciclica-programa-governo-2177603"
+        },
+        {
+            "title": "A PSU e a perseguição ideológica aos pobres",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/opiniao/opiniao/psu-perseguicao-ideologica-pobres-2177460"
+        },
+        {
+            "title": "Vigilância digital: o Papa, os algoritmos e nós",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/opiniao/opiniao/vigilancia-digital-papa-algoritmos-2177618"
+        },
+        {
             "title": "Agricultura em crise: quando o Governo prefere os números às pessoas",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/opiniao/opiniao/agricultura-crise-governo-prefere-numeros-pessoas-2177631"
-        },
-        {
-            "title": "Um em cada quatro europeus olha para os EUA como um “rival” ou “adversário”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/mundo/noticia/quatro-europeus-olha-eua-rival-adversario-2177670"
-        },
-        {
-            "title": "Curaçau no coração",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/opiniao/cronica/curacau-coracao-2177602"
-        },
-        {
-            "title": "Só gosto de mim. Porquê? Eu sei",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/opiniao/opiniao/so-gosto-mim-sei-2177648"
-        },
-        {
-            "title": "FC Porto bate Benfica no prolongamento e empata final da Liga de basquetebol",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/09/desporto/noticia/fc-porto-bate-benfica-prolongamento-empata-final-liga-basquetebol-2177697"
         }
     ],
     "finance": [],
-    "last_update": "09/06/2026 23:09"
+    "last_update": "10/06/2026 02:13"
 }
