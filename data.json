@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 16.8,
-        "manha": 19.7,
-        "tarde": 27.8,
-        "noite": 19.9
+        "manha": 19.4,
+        "tarde": 27.7,
+        "noite": 20.5
     },
     "forecast": {
         "max": 31.7,
-        "min": 17.9
+        "min": 18.3
     },
     "news": [
         {
-            "title": "O multilateralismo vale a pena",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/opiniao/opiniao/multilateralismo-vale-pena-2177626"
+            "title": "A outra banda sonora de Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/p3/cronica/banda-sonora-portugal-2177625"
         },
         {
-            "title": "Uma encíclica como programa de governo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/opiniao/opiniao/enciclica-programa-governo-2177603"
+            "title": "Salários e produtividade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/opiniao/editorial/salarios-produtividade-2177677"
         },
         {
-            "title": "A PSU e a perseguição ideológica aos pobres",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/opiniao/opiniao/psu-perseguicao-ideologica-pobres-2177460"
+            "title": "O ano em que o Verão chegou mais cedo com uma onda de calor histórica em Maio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/azul/noticia/ano-verao-chegou-cedo-onda-calor-historica-maio-2177669"
         },
         {
-            "title": "Vigilância digital: o Papa, os algoritmos e nós",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/opiniao/opiniao/vigilancia-digital-papa-algoritmos-2177618"
+            "title": "Prestação Social Única: regime diferenciado para imigrantes é “inconstitucional”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/politica/noticia/prestacao-social-unica-regime-diferenciado-imigrantes-inconstitucional-2177656"
         },
         {
-            "title": "Agricultura em crise: quando o Governo prefere os números às pessoas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/opiniao/opiniao/agricultura-crise-governo-prefere-numeros-pessoas-2177631"
+            "title": "Chega quer impedir que crime de ódio restrinja liberdade de expressão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/politica/noticia/chega-quer-impedir-crime-odio-restrinja-liberdade-expressao-2177617"
         }
     ],
     "finance": [],
-    "last_update": "10/06/2026 02:13"
+    "last_update": "10/06/2026 06:57"
 }
