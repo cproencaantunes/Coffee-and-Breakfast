@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.4,
-        "manha": 22.3,
-        "tarde": 30.2,
-        "noite": 27.7
+        "atual": 0,
+        "manha": 0,
+        "tarde": 0,
+        "noite": 0
     },
     "forecast": {
-        "max": 34.2,
-        "min": 19.6
+        "max": 0,
+        "min": 0
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/opiniao/opiniao/cartas-director-2177741"
+            "title": "Movimento quer respostas sobre projecto no Cais do Ginjal, que autarquia diz que será alterado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/local/noticia/movimento-quer-respostas-projecto-cais-ginjal-autarquia-sera-alterado-2176803"
         },
         {
-            "title": "Mundial 2026: Que hipótese tem Portugal no torneio mais ambicioso de sempre?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/desporto/noticia/mundial-2026-hipotese-portugal-torneio-ambicioso-2177786"
+            "title": "João Rodrigues: “A fome emocional é saciada quando ingerimos alimentos ricos em açúcar, sal e gordura”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/impar/entrevista/joao-rodrigues-fome-emocional-saciada-ingerimos-alimentos-ricos-acucar-sal-gordura-2177687"
         },
         {
-            "title": "O trabalho social entre o incentivo e a esmola",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/opiniao/opiniao/trabalho-social-incentivo-esmola-2177763"
+            "title": "Governo de Portugal conta com a ultradireita para fechar mais as portas a imigrantes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/publico-brasil/noticia/governo-portugal-conta-ultradireita-fechar-portas-imigrantes-2177791"
         },
         {
-            "title": "(Não) Dá um beijinho ao tio!",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/opiniao/opiniao/nao-beijinho-tio-2177772"
+            "title": "Irão responde a ofensiva dos EUA com novos ataques a bases militares",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/mundo/noticia/irao-responde-ofensiva-eua-novos-ataques-bases-militares-2177787"
         },
         {
-            "title": "Tanta guerra, tanto engano, e há Camões de novo em cena",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/culturaipsilon/opiniao/tanta-guerra-tanto-engano-ha-camoes-novo-cena-2177716"
+            "title": "Quando joga um português, ganham logo 2 ou 3. Quando perde, azar o dele",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/p3/cronica/joga-portugues-ganham-logo-2-3-perde-azar-2176907"
         }
     ],
     "finance": [],
-    "last_update": "11/06/2026 05:20"
+    "last_update": "11/06/2026 10:03"
 }
