@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.7,
-        "manha": 22.1,
-        "tarde": 30.8,
-        "noite": 27.6
+        "atual": 25.8,
+        "manha": 22.9,
+        "tarde": 33.5,
+        "noite": 26.2
     },
     "forecast": {
-        "max": 34.0,
-        "min": 19.3
+        "max": 32.4,
+        "min": 22.0
     },
     "news": [
         {
-            "title": "“Pegada sem precedentes”: o impacto ambiental do maior Mundial de sempre",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/azul/noticia/pegada-precedentes-impacto-ambiental-maior-mundial-2177919"
+            "title": "Internamentos sociais: uma emergência nacional",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/opiniao/opiniao/internamentos-sociais-emergencia-nacional-2177704"
         },
         {
-            "title": "Cromos do Mundial: uma febre que se apanha no escritório e esgota stocks em todo o lado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/p3/noticia/cromos-mundial-febre-apanha-escritorio-esgota-stocks-lado-2177883"
+            "title": "Morrer de amor ou da falta dele?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/opiniao/opiniao/morrer-amor-falta-2177755"
         },
         {
-            "title": "Depois de Seguro pedir revisão, Governo cria grupo para a Lei das Finanças Regionais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/politica/noticia/seguro-pedir-revisao-governo-cria-grupo-lei-financas-regionais-2177917"
+            "title": "Não olhe para a bola",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/opiniao/cronica/nao-olhe-bola-2177819"
         },
         {
-            "title": "Mundial de maldade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/opiniao/editorial/mundial-maldade-2177903"
+            "title": "O Mundial do nosso descontentamento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/opiniao/opiniao/mundial-descontentamento-2177839"
         },
         {
-            "title": "Real Madrid anuncia José Mourinho como novo treinador para as próximas três épocas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/desporto/noticia/real-madrid-anuncia-jose-mourinho-novo-treinador-proximas-tres-epocas-2177914"
+            "title": "Luís Filipe Castro Mendes vence Grande Prémio Literatura de Viagens Maria Ondina Braga",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/culturaipsilon/noticia/luis-filipe-castro-mendes-vence-premio-literatura-viagens-maria-ondina-braga-2177927"
         }
     ],
     "finance": [],
-    "last_update": "11/06/2026 21:10"
+    "last_update": "11/06/2026 23:13"
 }
