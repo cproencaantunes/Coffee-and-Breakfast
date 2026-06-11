@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 16.8,
-        "manha": 19.0,
-        "tarde": 27.6,
-        "noite": 21.1
+        "atual": 20.4,
+        "manha": 22.3,
+        "tarde": 30.2,
+        "noite": 27.7
     },
     "forecast": {
-        "max": 31.7,
-        "min": 18.3
+        "max": 34.2,
+        "min": 19.6
     },
     "news": [
         {
-            "title": "Seguro veta decreto sobre bandeiras “ideológicas” em edifícios públicos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/politica/noticia/seguro-veta-decreto-bandeiras-ideologicas-edificios-publicos-2177782"
+            "title": "O trabalho social entre o incentivo e a esmola",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/opiniao/opiniao/trabalho-social-incentivo-esmola-2177763"
         },
         {
-            "title": "EUA lançam novos ataques contra alvos no Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/mundo/noticia/eua-lancam-novos-ataques-alvos-irao-2177781"
+            "title": "(Não) Dá um beijinho ao tio!",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/opiniao/opiniao/nao-beijinho-tio-2177772"
         },
         {
-            "title": "Basílica da Sagrada Família alcança o seu ponto mais alto com a bênção do Papa – veja as imagens",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/fotogaleria/papa-leao-xiv-inauguracao-sagrada-familia-415624"
+            "title": "Tanta guerra, tanto engano, e há Camões de novo em cena",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/culturaipsilon/opiniao/tanta-guerra-tanto-engano-ha-camoes-novo-cena-2177716"
         },
         {
-            "title": "Portugal voa para os EUA com alguma carga indesejada no porão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/desporto/cronica_de_jogo/vitoria-portugal-teste-serio-mundial-2177780"
+            "title": "A igualdade salarial é inadiável",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/opiniao/opiniao/igualdade-salarial-inadiavel-2177771"
         },
         {
-            "title": "Jensen Huang, o engenheiro do casaco de cabedal que dita o rumo da IA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/10/enter/perfil/jensen-huang-engenheiro-casaco-cabedal-dita-rumo-ia-2177668"
+            "title": "Os donos da praia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/opiniao/opiniao/donos-praia-2177705"
         }
     ],
     "finance": [],
-    "last_update": "10/06/2026 22:46"
+    "last_update": "11/06/2026 00:07"
 }
