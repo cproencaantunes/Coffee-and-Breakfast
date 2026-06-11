@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 0,
-        "manha": 0,
-        "tarde": 0,
-        "noite": 0
+        "atual": 20.7,
+        "manha": 22.1,
+        "tarde": 30.8,
+        "noite": 27.6
     },
     "forecast": {
-        "max": 0,
-        "min": 0
+        "max": 34.0,
+        "min": 19.3
     },
     "news": [
         {
-            "title": "Movimento quer respostas sobre projecto no Cais do Ginjal, que autarquia diz que será alterado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/local/noticia/movimento-quer-respostas-projecto-cais-ginjal-autarquia-sera-alterado-2176803"
+            "title": "Ministro da Defesa britânico demite-se por falta de investimento nas Forças Armadas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/mundo/noticia/ministro-defesa-britanico-demitese-falta-investimento-forcas-armadas-2177847"
         },
         {
-            "title": "João Rodrigues: “A fome emocional é saciada quando ingerimos alimentos ricos em açúcar, sal e gordura”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/impar/entrevista/joao-rodrigues-fome-emocional-saciada-ingerimos-alimentos-ricos-acucar-sal-gordura-2177687"
+            "title": "Luís Quintais vence Grande Prémio de Literatura dst com <em>Nocturama</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/culturaipsilon/noticia/luis-quintais-vence-premio-literatura-dst-nocturama-2177851"
         },
         {
-            "title": "Governo de Portugal conta com a ultradireita para fechar mais as portas a imigrantes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/publico-brasil/noticia/governo-portugal-conta-ultradireita-fechar-portas-imigrantes-2177791"
+            "title": "Portugal activa cláusula de salvaguarda da UE para acomodar despesas energéticas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/economia/noticia/portugal-activa-clausula-salvaguarda-ue-acomodar-despesas-energeticas-2177854"
         },
         {
-            "title": "Irão responde a ofensiva dos EUA com novos ataques a bases militares",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/mundo/noticia/irao-responde-ofensiva-eua-novos-ataques-bases-militares-2177787"
+            "title": "“Trabalho social” será avaliado caso a caso para quem tem incapacidade inferior a 80% e não esteja de baixa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/sociedade/noticia/trabalho-social-sera-avaliado-caso-caso-incapacidade-inferior-80-nao-baixa-2177846"
         },
         {
-            "title": "Quando joga um português, ganham logo 2 ou 3. Quando perde, azar o dele",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/p3/cronica/joga-portugues-ganham-logo-2-3-perde-azar-2176907"
+            "title": "Miranda do Douro: Uma biografia sensorial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/impar/cronica/miranda-douro-biografia-sensorial-2177818"
         }
     ],
     "finance": [],
-    "last_update": "11/06/2026 10:03"
+    "last_update": "11/06/2026 14:28"
 }
