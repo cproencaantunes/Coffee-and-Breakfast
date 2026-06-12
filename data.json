@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 26.2,
-        "manha": 23.4,
+        "atual": 24.3,
+        "manha": 23.6,
         "tarde": 32.6,
-        "noite": 26.4
+        "noite": 23.0
     },
     "forecast": {
-        "max": 32.3,
-        "min": 21.1
+        "max": 25.8,
+        "min": 19.0
     },
     "news": [
         {
-            "title": "Greve nas conservatórias teve adesão de 93,41%, diz sindicato",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/sociedade/noticia/greve-conservatorias-adesao-9341-sindicato-2178065"
+            "title": "Viva a brisa das seis!",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/opiniao/cronica/viva-brisa-seis-2177998"
         },
         {
-            "title": "Canadá investiu na coragem e arrancou à Bósnia primeiro ponto em Mundiais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/desporto/cronica_de_jogo/canada-investiu-coragem-arrancou-bosnia-ponto-mundiais-2178062"
+            "title": "A PSU e a extrema dificuldade em ter uma conversa séria",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/opiniao/opiniao/psu-extrema-dificuldade-conversa-2178020"
         },
         {
-            "title": "Portugal recusa vistos a parteiras que vinham a congresso internacional em Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/politica/noticia/portugal-recusa-vistos-parteiras-vinham-congresso-internacional-lisboa-2178064"
+            "title": "Departamento de Justiça dos EUA aprovou aquisição da Warner Bros. pela Paramount",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/culturaipsilon/noticia/departamento-justica-eua-aprovou-aquisicao-warner-bros-paramount-2178073"
         },
         {
-            "title": "Pobres, estrangeiros e bodes expiatórios",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/opiniao/editorial/pobres-estrangeiros-bodes-expiatorios-2178057"
+            "title": "Sistemas do SNS afectados por falha de energia estão “praticamente todos operacionais”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/sociedade/noticia/sistemas-sns-afectados-falha-energia-estao-praticamente-operacionais-2178070"
         },
         {
-            "title": "Avaliação das jóias encontradas em cofre agravam problemas judiciais de Zapatero",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/mundo/noticia/avaliacao-joias-encontradas-cofre-agravam-problemas-judiciais-zapatero-2178048"
+            "title": "Futsal: Benfica vence Sporting no primeiro jogo da final da Liga",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/desporto/noticia/futsal-benfica-vence-sporting-jogo-final-liga-2178071"
         }
     ],
     "finance": [],
-    "last_update": "12/06/2026 21:23"
+    "last_update": "12/06/2026 23:06"
 }
