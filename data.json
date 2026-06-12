@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 26.2,
-        "manha": 23.0,
-        "tarde": 33.4,
-        "noite": 26.5
+        "manha": 23.2,
+        "tarde": 33.2,
+        "noite": 26.6
     },
     "forecast": {
-        "max": 32.0,
-        "min": 21.1
+        "max": 32.3,
+        "min": 21.0
     },
     "news": [
         {
-            "title": "North Festival — o festival enquanto penico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/opiniao/opiniao/north-festival-festival-penico-2177887"
+            "title": "Mais de 160 concelhos de 17 distritos do continente em perigo máximo de incêndio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/sociedade/noticia/160-concelhos-17-distritos-continente-perigo-maximo-incendio-2177932"
         },
         {
-            "title": "É preciso escutar os radicais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/opiniao/opiniao/preciso-escutar-radicais-2177802"
+            "title": "Realocados climáticos: o problema que já não pode ser ignorado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/azul/opiniao/realocados-climaticos-problema-ja-nao-ignorado-2177893"
         },
         {
-            "title": "A guerra cultural que a Europa não pode ignorar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/opiniao/opiniao/guerra-cultural-europa-nao-ignorar-2177436"
+            "title": "Despertador: Estado limpa neste Verão 19% da floresta da zona centro atingida pelas tempestades",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/newsletter/despertador"
         },
         {
-            "title": "Já se joga o Mundial: veja as imagens da festa, dos protestos e da vitória do México",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/fotogaleria/mundial-415625"
+            "title": "O Apocalipse dos caracóis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/culturaipsilon/opiniao/apocalipse-caracois-2177582"
         },
         {
-            "title": "Internamentos sociais: uma emergência nacional",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/opiniao/opiniao/internamentos-sociais-emergencia-nacional-2177704"
+            "title": "EUA, uma selecção à procura do seu espaço",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/desporto/noticia/eua-seleccao-procura-espaco-2177900"
         }
     ],
     "finance": [],
-    "last_update": "12/06/2026 02:30"
+    "last_update": "12/06/2026 07:11"
 }
