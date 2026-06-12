@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 26.2,
-        "manha": 23.2,
-        "tarde": 33.2,
-        "noite": 26.6
+        "manha": 23.4,
+        "tarde": 33.0,
+        "noite": 26.4
     },
     "forecast": {
-        "max": 32.3,
-        "min": 21.0
+        "max": 31.8,
+        "min": 20.6
     },
     "news": [
         {
-            "title": "Mais de 160 concelhos de 17 distritos do continente em perigo máximo de incêndio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/sociedade/noticia/160-concelhos-17-distritos-continente-perigo-maximo-incendio-2177932"
+            "title": "?? As plataformas pedem demais de nós",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/newsletter/proximo_episodio"
         },
         {
-            "title": "Realocados climáticos: o problema que já não pode ser ignorado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/azul/opiniao/realocados-climaticos-problema-ja-nao-ignorado-2177893"
+            "title": "Peugeot E-208 GTi une herança do 205 GTi à electricidade com 281cv e 375 km de autonomia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/enter/noticia/peugeot-e208-gti-une-heranca-205-gti-electricidade-281cv-375-km-autonomia-2177963"
         },
         {
-            "title": "Despertador: Estado limpa neste Verão 19% da floresta da zona centro atingida pelas tempestades",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/newsletter/despertador"
+            "title": "Governo prolonga transição da mobilidade eléctrica até final de 2027",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/enter/noticia/governo-prolonga-transicao-mobilidade-electrica-ate-final-2027-2177967"
         },
         {
-            "title": "O Apocalipse dos caracóis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/culturaipsilon/opiniao/apocalipse-caracois-2177582"
+            "title": "Chefe das secretas pede revisão constitucional para acesso a metadados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/politica/noticia/chefe-secretas-pede-revisao-constitucional-acesso-metadados-2177968"
         },
         {
-            "title": "EUA, uma selecção à procura do seu espaço",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/desporto/noticia/eua-seleccao-procura-espaco-2177900"
+            "title": "Conservas de pescado e os truques dos <em>chefs</em>: “Fica espectacular e ninguém diz que é de lata”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/fugas/reportagem/conservas-pescado-truques-chefs-fica-espectacular-ninguem-lata-2177291"
         }
     ],
     "finance": [],
-    "last_update": "12/06/2026 07:11"
+    "last_update": "12/06/2026 11:33"
 }
