@@ -3,34 +3,34 @@
         "atual": 26.2,
         "manha": 23.4,
         "tarde": 32.6,
-        "noite": 26.1
+        "noite": 26.4
     },
     "forecast": {
-        "max": 31.7,
-        "min": 20.7
+        "max": 32.3,
+        "min": 21.1
     },
     "news": [
         {
-            "title": "Seguro alerta para riscos do uso da Inteligência Artificial na justiça",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/politica/noticia/seguro-alerta-riscos-uso-inteligencia-artificial-justica-2178037"
+            "title": "Praias de Matosinhos vão ter 600 cadeiras e espreguiçadeiras gratuitas para banhistas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/fugas/noticia/praias-matosinhos-vao-600-cadeiras-espreguicadeiras-gratuitas-banhistas-2178061"
         },
         {
-            "title": "Influenciadores que violaram menor em Loures condenados a penas de prisão até oito anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/sociedade/noticia/influenciadores-violaram-menor-loures-condenados-penas-prisao-ate-oito-anos-2178041"
+            "title": "Pinto da Costa tinha mais de 70 contas só em Portugal, diz filho em queixa-crime",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/sociedade/noticia/pinto-costa-70-contas-so-portugal-filho-queixacrime-2177990"
         },
         {
-            "title": "Canoagem: Fernando Pimenta garante final europeia de K1 500m",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/desporto/noticia/canoagem-fernando-pimenta-garante-final-europeia-k1-500m-2178027"
+            "title": "Um golo (e um dia) inesquecível para o sul-coreano Hwang Inbeom",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/desporto/noticia/golo-dia-inesquecivel-sulcoreano-hwang-inbeom-2178055"
         },
         {
-            "title": "O novo elenco do Tribunal Constitucional",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/infografia/novo-elenco-tribunal-constitucional-901"
+            "title": "Papa nomeia Estêvão Fernando após homicídio do bispo de Quelimane em Moçambique",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/mundo/noticia/papa-nomeia-estevao-fernando-apos-homicidio-bispo-quelimane-mocambique-2178051"
         },
         {
-            "title": "Mais de 100 operacionais combatem incêndio em Gondomar, EN15 cortada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/sociedade/noticia/100-operacionais-combatem-incendio-gondomar-en15-cortada-2178033"
+            "title": "David Hockney: um ano na Normandia, uma vida inteira a olhar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/culturaipsilon/cronica/david-hockney-ano-normandia-vida-inteira-olhar-2178031"
         }
     ],
     "finance": [],
-    "last_update": "12/06/2026 17:30"
+    "last_update": "12/06/2026 19:51"
 }
