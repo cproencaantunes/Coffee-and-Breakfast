@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 0,
-        "manha": 0,
-        "tarde": 0,
-        "noite": 0
+        "atual": 26.2,
+        "manha": 23.4,
+        "tarde": 32.6,
+        "noite": 26.1
     },
     "forecast": {
-        "max": 0,
-        "min": 0
+        "max": 31.7,
+        "min": 20.7
     },
     "news": [
         {
-            "title": "Atletas menores de idade, filhos de pai português, esperam por cidadania há três anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/publico-brasil/noticia/atletas-menores-idade-filhos-pai-portugues-esperam-cidadania-ha-tres-anos-2177993"
+            "title": "Seguro alerta para riscos do uso da Inteligência Artificial na justiça",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/politica/noticia/seguro-alerta-riscos-uso-inteligencia-artificial-justica-2178037"
         },
         {
-            "title": "Número de beneficiários do RSI é o mais baixo dos últimos 20 anos? Verdadeiro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/sociedade/noticia/numero-beneficiarios-rsi-baixo-ultimos-20-anos-verdadeiro-2177992"
+            "title": "Influenciadores que violaram menor em Loures condenados a penas de prisão até oito anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/sociedade/noticia/influenciadores-violaram-menor-loures-condenados-penas-prisao-ate-oito-anos-2178041"
         },
         {
-            "title": "Cultas e Vinho Verde com Sónia Taborda",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/impar/noticia/cultas-vinho-verde-sonia-taborda-2176496"
+            "title": "Canoagem: Fernando Pimenta garante final europeia de K1 500m",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/desporto/noticia/canoagem-fernando-pimenta-garante-final-europeia-k1-500m-2178027"
         },
         {
-            "title": "Alimentada por humanos, agregada por IA: Soko, a nova <em>app </em>para desfrutar da cidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/fugas/noticia/alimentada-humanos-agregada-ia-soko-nova-app-desfrutar-cidade-2177915"
+            "title": "O novo elenco do Tribunal Constitucional",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/infografia/novo-elenco-tribunal-constitucional-901"
         },
         {
-            "title": "PSD admite rever prazo para imigrantes acederem à PSU e excepções ao trabalho social",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/sociedade/noticia/psd-admite-rever-prazo-imigrantes-acederem-psu-excepcoes-trabalho-social-2177996"
+            "title": "Mais de 100 operacionais combatem incêndio em Gondomar, EN15 cortada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/sociedade/noticia/100-operacionais-combatem-incendio-gondomar-en15-cortada-2178033"
         }
     ],
     "finance": [],
-    "last_update": "12/06/2026 14:32"
+    "last_update": "12/06/2026 17:30"
 }
