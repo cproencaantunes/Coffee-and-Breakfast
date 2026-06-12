@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 25.8,
-        "manha": 22.9,
-        "tarde": 33.5,
-        "noite": 26.2
+        "atual": 26.2,
+        "manha": 23.0,
+        "tarde": 33.4,
+        "noite": 26.5
     },
     "forecast": {
-        "max": 32.4,
-        "min": 22.0
+        "max": 32.0,
+        "min": 21.1
     },
     "news": [
         {
+            "title": "North Festival — o festival enquanto penico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/opiniao/opiniao/north-festival-festival-penico-2177887"
+        },
+        {
+            "title": "É preciso escutar os radicais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/opiniao/opiniao/preciso-escutar-radicais-2177802"
+        },
+        {
+            "title": "A guerra cultural que a Europa não pode ignorar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/opiniao/opiniao/guerra-cultural-europa-nao-ignorar-2177436"
+        },
+        {
+            "title": "Já se joga o Mundial: veja as imagens da festa, dos protestos e da vitória do México",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/fotogaleria/mundial-415625"
+        },
+        {
             "title": "Internamentos sociais: uma emergência nacional",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/opiniao/opiniao/internamentos-sociais-emergencia-nacional-2177704"
-        },
-        {
-            "title": "Morrer de amor ou da falta dele?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/opiniao/opiniao/morrer-amor-falta-2177755"
-        },
-        {
-            "title": "Não olhe para a bola",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/opiniao/cronica/nao-olhe-bola-2177819"
-        },
-        {
-            "title": "O Mundial do nosso descontentamento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/opiniao/opiniao/mundial-descontentamento-2177839"
-        },
-        {
-            "title": "Luís Filipe Castro Mendes vence Grande Prémio Literatura de Viagens Maria Ondina Braga",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/11/culturaipsilon/noticia/luis-filipe-castro-mendes-vence-premio-literatura-viagens-maria-ondina-braga-2177927"
         }
     ],
     "finance": [],
-    "last_update": "11/06/2026 23:13"
+    "last_update": "12/06/2026 02:30"
 }
