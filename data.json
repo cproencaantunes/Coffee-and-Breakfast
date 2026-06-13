@@ -2,35 +2,35 @@
     "weather": {
         "atual": 24.8,
         "manha": 24.4,
-        "tarde": 32.3,
-        "noite": 23.1
+        "tarde": 32.6,
+        "noite": 23.4
     },
     "forecast": {
-        "max": 25.9,
-        "min": 19.1
+        "max": 26.5,
+        "min": 18.8
     },
     "news": [
         {
-            "title": "Polícia investiga roubo de equipamento da selecção de Inglaterra no Mundial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/desporto/noticia/policia-investiga-roubo-equipamento-seleccao-inglaterra-mundial-2178098"
+            "title": "Roberta Sá apresenta <em>Tudo Que Cantei Sou</em>, em Espinho. “Música é resistência”, diz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/publico-brasil/entrevista/roberta-sa-apresenta-cantei-espinho-musica-resistencia-2178107"
         },
         {
-            "title": "Austrália-Turquia, um duelo de estilos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/desporto/noticia/australiaturquia-duelo-estilos-2178058"
+            "title": "Nome de Trump retirado do Kennedy Center durante a madrugada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/mundo/noticia/nome-trump-retirado-kennedy-center-durante-madrugada-2178096"
         },
         {
-            "title": "OpenAI sob investigação de procuradores-gerais nos EUA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/tecnologia/noticia/openai-investigacao-procuradoresgerais-eua-2178095"
+            "title": "Lar clandestino em São João das Lampas encerrado por condições de perigo para os idosos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/sociedade/noticia/lar-clandestino-sao-joao-lampas-encerrado-condicoes-perigo-idosos-2178102"
         },
         {
-            "title": "Europeus de canoagem: Fernando Pimenta conquista bronze em K1 1000m",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/desporto/noticia/europeus-canoagem-fernando-pimenta-conquista-bronze-k1-1000m-2178094"
+            "title": "Irão: funeral de antigo líder Ali Khamenei marcado para 9 de Julho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/mundo/noticia/irao-funeral-antigo-lider-ali-khamenei-marcado-9-julho-2178103"
         },
         {
-            "title": "Suíça vota em referendo medida sem precedentes: limitar a população a dez milhões",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/mundo/noticia/suica-vota-referendo-medida-precedentes-limitar-populacao-dez-milhoes-2178032"
+            "title": "Investigação mostra que opinião pública portuguesa legitima o apoio social",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/sociedade/noticia/investigacao-mostra-opiniao-publica-portuguesa-legitima-apoio-social-2178101"
         }
     ],
     "finance": [],
-    "last_update": "13/06/2026 11:46"
+    "last_update": "13/06/2026 13:23"
 }
