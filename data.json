@@ -2,35 +2,35 @@
     "weather": {
         "atual": 24.8,
         "manha": 24.3,
-        "tarde": 31.8,
-        "noite": 22.7
+        "tarde": 32.4,
+        "noite": 23.1
     },
     "forecast": {
-        "max": 25.8,
-        "min": 19.0
+        "max": 26.8,
+        "min": 18.9
     },
     "news": [
         {
-            "title": "As artes de Donald Trump",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/opiniao/opiniao/artes-donald-trump-2177981"
+            "title": "A sandes desconstruída de 2026 é a bucha de antigamente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/fugas/cronica/sandes-desconstruida-2026-bucha-antigamente-2177421"
         },
         {
-            "title": "Urgências obstétricas: uma visão integrada da saúde materno-infantil",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/opiniao/opiniao/urgencias-obstetricas-visao-integrada-saude-maternoinfantil-2177440"
+            "title": "Identidade de género: audições deverão ser menos de metade das de 2018",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/politica/noticia/identidade-genero-audicoes-deverao-menos-metade-2018-2178042"
         },
         {
-            "title": "Porto sem retorno",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/opiniao/opiniao/ponto-retorno-2177994"
+            "title": "O Governo e a caça ao pobre",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/politica/opiniao/governo-caca-pobre-2177985"
         },
         {
-            "title": "A destruição do nosso legado humanista e universalista",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/opiniao/opiniao/destruicao-legado-humanista-universalista-2177522"
+            "title": "Metade da Europa tem bases de dados públicas de suplementos alimentares, ao contrário de Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/ciencia/noticia/metade-europa-bases-dados-publicas-suplementos-alimentares-contrario-portugal-2178012"
         },
         {
-            "title": "A nova encíclica: avisos e críticas também para lá da IA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/opiniao/opiniao/nova-enciclica-avisos-criticas-tambem-ia-2177621"
+            "title": "Já há cinco países na União Europeia que exigem aprovação prévia dos suplementos alimentares",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/ciencia/noticia/ja-ha-cinco-paises-uniao-europeia-exigem-aprovacao-previa-suplementos-alimentares-2178018"
         }
     ],
     "finance": [],
-    "last_update": "13/06/2026 02:11"
+    "last_update": "13/06/2026 06:46"
 }
