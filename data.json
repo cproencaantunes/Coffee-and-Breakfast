@@ -1,9 +1,9 @@
 {
     "weather": {
-        "atual": 24.3,
-        "manha": 23.6,
-        "tarde": 32.6,
-        "noite": 23.0
+        "atual": 24.8,
+        "manha": 24.3,
+        "tarde": 31.8,
+        "noite": 22.7
     },
     "forecast": {
         "max": 25.8,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Viva a brisa das seis!",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/opiniao/cronica/viva-brisa-seis-2177998"
+            "title": "As artes de Donald Trump",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/opiniao/opiniao/artes-donald-trump-2177981"
         },
         {
-            "title": "A PSU e a extrema dificuldade em ter uma conversa séria",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/opiniao/opiniao/psu-extrema-dificuldade-conversa-2178020"
+            "title": "Urgências obstétricas: uma visão integrada da saúde materno-infantil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/opiniao/opiniao/urgencias-obstetricas-visao-integrada-saude-maternoinfantil-2177440"
         },
         {
-            "title": "Departamento de Justiça dos EUA aprovou aquisição da Warner Bros. pela Paramount",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/culturaipsilon/noticia/departamento-justica-eua-aprovou-aquisicao-warner-bros-paramount-2178073"
+            "title": "Porto sem retorno",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/opiniao/opiniao/ponto-retorno-2177994"
         },
         {
-            "title": "Sistemas do SNS afectados por falha de energia estão “praticamente todos operacionais”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/sociedade/noticia/sistemas-sns-afectados-falha-energia-estao-praticamente-operacionais-2178070"
+            "title": "A destruição do nosso legado humanista e universalista",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/opiniao/opiniao/destruicao-legado-humanista-universalista-2177522"
         },
         {
-            "title": "Futsal: Benfica vence Sporting no primeiro jogo da final da Liga",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/12/desporto/noticia/futsal-benfica-vence-sporting-jogo-final-liga-2178071"
+            "title": "A nova encíclica: avisos e críticas também para lá da IA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/opiniao/opiniao/nova-enciclica-avisos-criticas-tambem-ia-2177621"
         }
     ],
     "finance": [],
-    "last_update": "12/06/2026 23:06"
+    "last_update": "13/06/2026 02:11"
 }
