@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 24.8,
-        "manha": 24.3,
-        "tarde": 32.4,
+        "manha": 24.4,
+        "tarde": 32.3,
         "noite": 23.1
     },
     "forecast": {
-        "max": 26.8,
-        "min": 18.9
+        "max": 25.9,
+        "min": 19.1
     },
     "news": [
         {
-            "title": "Anthropic suspende acesso a modelo mais avançado por ordem de segurança dos EUA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/tecnologia/noticia/anthropic-suspende-acesso-modelo-avancado-ordem-seguranca-eua-2178092"
+            "title": "Polícia investiga roubo de equipamento da selecção de Inglaterra no Mundial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/desporto/noticia/policia-investiga-roubo-equipamento-seleccao-inglaterra-mundial-2178098"
         },
         {
-            "title": "A vida dupla de André Serra, da cozinha do Áurea às marchas de Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/fugas/noticia/vida-dupla-andre-serra-cozinha-aurea-marchas-lisboa-2177449"
+            "title": "Austrália-Turquia, um duelo de estilos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/desporto/noticia/australiaturquia-duelo-estilos-2178058"
         },
         {
-            "title": "Inundações mortais na Indonésia dizimaram 7% dos orangotangos mais raros do mundo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/azul/noticia/inundacoes-mortais-indonesia-dizimaram-7-orangotangos-raros-mundo-2177794"
+            "title": "OpenAI sob investigação de procuradores-gerais nos EUA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/tecnologia/noticia/openai-investigacao-procuradoresgerais-eua-2178095"
         },
         {
-            "title": "Ricardo Pimenta, o pastor que chegou a saber de cor o nome de 120 ovelhas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/fugas/perfil/ricardo-pimenta-pastor-chegou-saber-cor-nome-120-ovelhas-2178074"
+            "title": "Europeus de canoagem: Fernando Pimenta conquista bronze em K1 1000m",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/desporto/noticia/europeus-canoagem-fernando-pimenta-conquista-bronze-k1-1000m-2178094"
         },
         {
-            "title": "Parlamento veta projeto antirracista turbinado por caso Vini Jr. e avança contra imigração",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/publico-brasil/noticia/parlamento-veta-projeto-antirracista-turbinado-caso-vini-jr-avanca-imigracao-2178089"
+            "title": "Suíça vota em referendo medida sem precedentes: limitar a população a dez milhões",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/mundo/noticia/suica-vota-referendo-medida-precedentes-limitar-populacao-dez-milhoes-2178032"
         }
     ],
     "finance": [],
-    "last_update": "13/06/2026 09:49"
+    "last_update": "13/06/2026 11:46"
 }
