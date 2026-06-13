@@ -3,34 +3,34 @@
         "atual": 24.8,
         "manha": 24.4,
         "tarde": 31.7,
-        "noite": 23.2
+        "noite": 23.1
     },
     "forecast": {
-        "max": 26.8,
-        "min": 18.9
+        "max": 27.2,
+        "min": 19.1
     },
     "news": [
         {
-            "title": "Viktor Orbán reeleito presidente do Fidesz após derrota nas eleições de Abril",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/mundo/noticia/viktor-orban-reeleito-presidente-fidesz-apos-derrota-eleicoes-abil-2178128"
+            "title": "Conflito entre Trump e Anthropic agrava-se: modelos mais avançados suspensos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/economia/noticia/conflito-trump-anthropic-agravase-modelos-avancados-suspensos-2178132"
         },
         {
-            "title": "Governo está preparado para “soluções extraordinárias” de ajuda aos bombeiros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/sociedade/noticia/governo-preparado-solucoes-extraordinarias-ajuda-bombeiros-2178125"
+            "title": "Contar os mísseis, não os comunicados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/mundo/opiniao/contar-misseis-nao-comunicados-2178111"
         },
         {
-            "title": "Programa de reabilitação para incendiários começa em Julho em sete prisões",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/sociedade/noticia/programa-reabilitacao-incendiarios-comeca-julho-sete-prisoes-2178118"
+            "title": "Para estes professores <em>“influencers”</em>, a escola tem coisas a aprender com as redes sociais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/sociedade/reportagem/professores-influencers-escola-aprender-redes-sociais-2178006"
         },
         {
-            "title": "Hóquei em patins:  Benfica adianta-se ao Sporting na final do campeonato",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/desporto/noticia/hoquei-patins-benfica-adiantase-sporting-final-campeonato-2178121"
+            "title": "Os improváveis campos de futebol que pintam a paisagem do México — em imagens",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/fotogaleria/imagens-campos-futebol-surpreendentes-mexico-415626"
         },
         {
-            "title": "Brasil estreia na Copa do Mundo em busca do hexa contra o perigoso Marrocos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/publico-brasil/noticia/brasil-estreia-copa-mundo-busca-hexa-perigoso-marrocos-2178119"
+            "title": "Sindicato diz que falha informática no SNS continua a provocar constrangimentos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/sociedade/noticia/sindicato-falha-informatica-sns-continua-provocar-constrangimentos-2178129"
         }
     ],
     "finance": [],
-    "last_update": "13/06/2026 17:09"
+    "last_update": "13/06/2026 19:06"
 }
