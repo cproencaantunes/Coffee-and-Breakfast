@@ -2,35 +2,35 @@
     "weather": {
         "atual": 24.8,
         "manha": 24.4,
-        "tarde": 32.6,
-        "noite": 23.4
+        "tarde": 31.7,
+        "noite": 23.2
     },
     "forecast": {
-        "max": 26.5,
-        "min": 18.8
+        "max": 26.8,
+        "min": 18.9
     },
     "news": [
         {
-            "title": "Manifestantes derrubam vedações de projecto turístico na Albânia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/mundo/noticia/manifestantes-derrubam-vedacoes-projecto-turistico-albania-2178114"
+            "title": "Viktor Orbán reeleito presidente do Fidesz após derrota nas eleições de Abril",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/mundo/noticia/viktor-orban-reeleito-presidente-fidesz-apos-derrota-eleicoes-abil-2178128"
         },
         {
-            "title": "Mitsubishi Outlander PHEV: o “excesso” de competência não trava o passar dos anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/fugas/noticia/mitsubishi-outlander-phev-excesso-competencia-nao-trava-passar-anos-2177632"
+            "title": "Governo está preparado para “soluções extraordinárias” de ajuda aos bombeiros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/sociedade/noticia/governo-preparado-solucoes-extraordinarias-ajuda-bombeiros-2178125"
         },
         {
-            "title": "Paquistão antecipa acordo imediato entre EUA e Irão, mas Teerão trava expectativas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/mundo/noticia/paquistao-antecipa-acordo-imediato-eua-irao-teerao-trava-expectativas-2178106"
+            "title": "Programa de reabilitação para incendiários começa em Julho em sete prisões",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/sociedade/noticia/programa-reabilitacao-incendiarios-comeca-julho-sete-prisoes-2178118"
         },
         {
-            "title": "As 24h de Le Mans começam agora, com a BMW a assumir a dianteira depois de um erro da Cadillac",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/desporto/noticia/24h-le-mans-comecam-bmw-assumir-dianteira-erro-cadillac-2178104"
+            "title": "Hóquei em patins:  Benfica adianta-se ao Sporting na final do campeonato",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/desporto/noticia/hoquei-patins-benfica-adiantase-sporting-final-campeonato-2178121"
         },
         {
-            "title": "Roberta Sá apresenta <em>Tudo Que Cantei Sou</em>, em Espinho. “Música é resistência”, diz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/publico-brasil/entrevista/roberta-sa-apresenta-cantei-espinho-musica-resistencia-2178107"
+            "title": "Brasil estreia na Copa do Mundo em busca do hexa contra o perigoso Marrocos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/13/publico-brasil/noticia/brasil-estreia-copa-mundo-busca-hexa-perigoso-marrocos-2178119"
         }
     ],
     "finance": [],
-    "last_update": "13/06/2026 15:24"
+    "last_update": "13/06/2026 17:09"
 }
