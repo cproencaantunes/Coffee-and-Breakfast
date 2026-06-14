@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.1,
         "manha": 21.6,
-        "tarde": 27.5,
-        "noite": 20.8
+        "tarde": 26.8,
+        "noite": 20.6
     },
     "forecast": {
         "max": 26.4,
-        "min": 17.8
+        "min": 17.9
     },
     "news": [
         {
-            "title": "Le Mans: avarias, penalizações e duelos emocionantes entre os hipercarros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/desporto/noticia/le-mans-avarias-penalizacoes-duelos-emocionantes-hipercarros-2178147"
+            "title": "Fotógrafo brasileiro abre estúdio e faz do Porto base para atender marcas globais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/publico-brasil/noticia/fotografo-brasileiro-abre-estudio-faz-porto-base-atender-marcas-globais-2178161"
         },
         {
-            "title": "Deixem em paz a calçada à portuguesa!",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/opiniao/opiniao/deixem-paz-calcada-portuguesa-2177817"
+            "title": "Israel ataca alvos do Hezbollah nos subúrbios do Sul de Beirute",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/mundo/noticia/israel-ataca-alvos-hezbollah-suburbios-sul-beirute-2178156"
         },
         {
-            "title": "Presidente da Câmara da Amadora arguido na <em>Operação Imergente</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/politica/noticia/presidente-camara-amadora-arguido-operacao-imergente-2178148"
+            "title": "Jovem morre no Brasil após ser lançada sem corda de uma ponte numa actividade radical",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/mundo/noticia/jovem-morre-brasil-apos-lancada-corda-ponte-actividade-radical-2178151"
         },
         {
-            "title": "Trump organiza combates de MMA na Casa Branca para celebrar aniversário",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/mundo/noticia/trump-organiza-combates-mma-casa-branca-celebrar-aniversario-2178149"
+            "title": "Cervejeiras nacionais têm impacto socioeconómico de 7,3 mil milhões, diz estudo da Nova SBE",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/fugas/noticia/cervejeiras-nacionais-impacto-socioeconomico-73-mil-milhoes-estudo-nova-sbe-2178046"
         },
         {
-            "title": "No Primavera Sound, os Massive Attack escancararam um mundo doente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/culturaipsilon/noticia/primavera-sound-massive-attack-escancararam-mundo-doente-2178145"
+            "title": "Suíços rejeitam em referendo limites à população, de acordo com projecções",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/mundo/noticia/suicos-rejeitam-referendo-limites-populacao-acordo-projeccoes-2178154"
         }
     ],
     "finance": [],
-    "last_update": "14/06/2026 11:22"
+    "last_update": "14/06/2026 13:26"
 }
