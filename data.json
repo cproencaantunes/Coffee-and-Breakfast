@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.1,
         "manha": 21.6,
-        "tarde": 26.8,
-        "noite": 20.6
+        "tarde": 25.5,
+        "noite": 20.7
     },
     "forecast": {
-        "max": 26.4,
+        "max": 26.5,
         "min": 17.9
     },
     "news": [
         {
-            "title": "Irão acusa Estados Unidos de incapacidade para garantir acordo após ataques de Israel no Líbano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/mundo/noticia/irao-acusa-estados-unidos-incapacidade-garantir-acordo-apos-ataques-israel-libano-2178168"
+            "title": "Guerra de Trump no Irão amarra discussões no G7",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/mundo/noticia/guerra-trump-irao-amarra-discussoes-g7-2178173"
         },
         {
-            "title": "Choque de dois helicópteros faz pelo menos seis mortos no Rio de Janeiro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/mundo/noticia/choque-dois-helicopteros-faz-menos-seis-mortos-rio-janeiro-2178172"
+            "title": "O que fazer? Segunda é dia de ir dos pósteres de Marvila aos carris do Douro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/fugas/noticia/segunda-dia-ir-posteres-marvila-carris-douro-2178078"
         },
         {
-            "title": "Brasil quer atrair 300 mil turistas portugueses — um recorde — e aposta na cultura",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/publico-brasil/noticia/brasil-quer-atrair-300-mil-turistas-portugueses-recorde-aposta-cultura-2178170"
+            "title": "Fernando Pimenta sagra-se campeão da Europa em K1 5000m",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/desporto/noticia/fernando-pimenta-sagrase-campeao-europa-k1-5000m-2178176"
         },
         {
-            "title": "Penafiel Racing Fest reúne 150 mil pessoas e prepara terreno para pilotos brasileiros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/publico-brasil/noticia/penafiel-racing-fest-reune-150-mil-pessoas-prepara-terreno-pilotos-brasileiros-2178162"
+            "title": "Um homem sem qualidades em<em> Carne</em>, de David Szalay",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/culturaipsilon/critica/homem-qualidades-carne-david-szalay-2177504"
         },
         {
-            "title": "Fórmula 1: Lewis Hamilton vence GP Barcelona-Catalunha e quebra jejum de dois anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/desporto/noticia/formula-1-lewis-hamilton-vence-gp-catalunha-quebra-jejum-dois-anos-2178167"
+            "title": "Os psicadélicos são um recurso terapêutico eficaz na saúde mental. Por que não falamos mais deles?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/opiniao/opiniao/psicadelicos-sao-recurso-terapeutico-eficaz-saude-mental-nao-falamos-2177762"
         }
     ],
     "finance": [],
-    "last_update": "14/06/2026 15:41"
+    "last_update": "14/06/2026 17:07"
 }
