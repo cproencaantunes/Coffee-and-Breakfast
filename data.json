@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 21.1,
-        "manha": 22.0,
-        "tarde": 27.6,
-        "noite": 21.2
+        "manha": 21.6,
+        "tarde": 27.5,
+        "noite": 20.8
     },
     "forecast": {
-        "max": 26.2,
-        "min": 17.9
+        "max": 26.4,
+        "min": 17.8
     },
     "news": [
         {
-            "title": "Castelo Branco une-se pela oficina do Batista, numa luta contra a especulação imobiliária",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/local/noticia/castelo-branco-unese-oficina-batista-luta-especulacao-imobiliaria-2177792"
+            "title": "Le Mans: avarias, penalizações e duelos emocionantes entre os hipercarros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/desporto/noticia/le-mans-avarias-penalizacoes-duelos-emocionantes-hipercarros-2178147"
         },
         {
-            "title": "Caiu o número de pedidos de asilo de menores de idade feitos a Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/sociedade/noticia/caiu-numero-pedidos-asilo-menores-idade-portugal-2173089"
+            "title": "Deixem em paz a calçada à portuguesa!",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/opiniao/opiniao/deixem-paz-calcada-portuguesa-2177817"
         },
         {
-            "title": "Política pública sem política partidária: é possível?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/p3/cronica/politica-publica-politica-partidaria-possivel-2178014"
+            "title": "Presidente da Câmara da Amadora arguido na <em>Operação Imergente</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/politica/noticia/presidente-camara-amadora-arguido-operacao-imergente-2178148"
         },
         {
-            "title": "Palcos da semana: <em>O Cavalo</em> e um beijo entre trengos e fregueses",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/culturaipsilon/noticia/palcos-semana-cavalo-beijo-trengos-fregueses-2177925"
+            "title": "Trump organiza combates de MMA na Casa Branca para celebrar aniversário",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/mundo/noticia/trump-organiza-combates-mma-casa-branca-celebrar-aniversario-2178149"
         },
         {
-            "title": "Jornadas do PCP têm foco nas tempestades sem esquecer pacote laboral do Governo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/politica/noticia/jornadas-pcp-foco-tempestades-esquecer-pacote-laboral-governo-2178109"
+            "title": "No Primavera Sound, os Massive Attack escancararam um mundo doente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/culturaipsilon/noticia/primavera-sound-massive-attack-escancararam-mundo-doente-2178145"
         }
     ],
     "finance": [],
-    "last_update": "14/06/2026 08:07"
+    "last_update": "14/06/2026 11:22"
 }
