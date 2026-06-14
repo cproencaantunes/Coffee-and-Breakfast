@@ -3,34 +3,34 @@
         "atual": 21.1,
         "manha": 21.6,
         "tarde": 25.5,
-        "noite": 20.7
+        "noite": 20.4
     },
     "forecast": {
-        "max": 26.5,
-        "min": 17.9
+        "max": 27.0,
+        "min": 17.7
     },
     "news": [
         {
-            "title": "Guerra de Trump no Irão amarra discussões no G7",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/mundo/noticia/guerra-trump-irao-amarra-discussoes-g7-2178173"
+            "title": "Curaçau bateu forte, mas a Alemanha não abdicou do rolo compressor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/desporto/cronica_de_jogo/curacau-bateu-forte-alemanha-nao-abdicou-rolo-compressor-2178182"
         },
         {
-            "title": "O que fazer? Segunda é dia de ir dos pósteres de Marvila aos carris do Douro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/fugas/noticia/segunda-dia-ir-posteres-marvila-carris-douro-2178078"
+            "title": "Queda persistente do desempenho dos melhores alunos deve suscitar preocupação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/sociedade/noticia/queda-persistente-desempenho-melhores-alunos-suscitar-preocupacao-2177636"
         },
         {
-            "title": "Fernando Pimenta sagra-se campeão da Europa em K1 5000m",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/desporto/noticia/fernando-pimenta-sagrase-campeao-europa-k1-5000m-2178176"
+            "title": "Quem entra no ensino superior só com uma prova de ingresso abandona mais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/sociedade/noticia/entra-ensino-superior-so-prova-ingresso-abandona-2177646"
         },
         {
-            "title": "Um homem sem qualidades em<em> Carne</em>, de David Szalay",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/culturaipsilon/critica/homem-qualidades-carne-david-szalay-2177504"
+            "title": "Uma década depois, FC Porto volta a sagrar-se campeão de basquetebol",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/desporto/noticia/decada-fc-porto-volta-sagrarse-campeao-basquetebol-2178187"
         },
         {
-            "title": "Os psicadélicos são um recurso terapêutico eficaz na saúde mental. Por que não falamos mais deles?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/opiniao/opiniao/psicadelicos-sao-recurso-terapeutico-eficaz-saude-mental-nao-falamos-2177762"
+            "title": "Zelensky e Trump discutiram “esforços de paz” em chamada antes do encontro do G7",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/mundo/noticia/zelensky-trump-discutiram-esforcos-paz-chamada-encontro-g7-2178185"
         }
     ],
     "finance": [],
-    "last_update": "14/06/2026 17:07"
+    "last_update": "14/06/2026 19:07"
 }
