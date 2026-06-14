@@ -1,15 +1,23 @@
 {
     "weather": {
-        "atual": 21.0,
-        "manha": 21.6,
-        "tarde": 26.8,
-        "noite": 21.0
+        "atual": 21.1,
+        "manha": 21.7,
+        "tarde": 26.9,
+        "noite": 20.4
     },
     "forecast": {
         "max": 26.7,
         "min": 17.7
     },
     "news": [
+        {
+            "title": "Rui Rodrigues eleito presidente do Vitória SC por margem de dois votos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/desporto/noticia/rui-rodrigues-eleito-presidente-vitoria-sc-margem-dois-votos-2178138"
+        },
+        {
+            "title": "Brasil e Marrocos não saíram do empate em “duelo” com duas faces",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/desporto/cronica_de_jogo/brasil-marrocos-nao-sairam-empate-duelo-duas-faces-2178135"
+        },
         {
             "title": "A conversão de Jesus e a nossa conversão",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/opiniao/opiniao/conversao-jesus-conversao-2177823"
@@ -21,16 +29,8 @@
         {
             "title": "Na hora da reconstrução, o Governo não pode desaparecer",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/opiniao/opiniao/hora-reconstrucao-governo-nao-desaparecer-2177751"
-        },
-        {
-            "title": "Supervisão policial (enfraquecida)?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/opiniao/opiniao/supervisao-policial-enfraquecida-2177481"
-        },
-        {
-            "title": "Manipular é errado. Sempre!",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/14/opiniao/opiniao/manipular-errado-2177700"
         }
     ],
     "finance": [],
-    "last_update": "13/06/2026 23:57"
+    "last_update": "14/06/2026 03:31"
 }
