@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 19.1,
-        "manha": 19.6,
-        "tarde": 26.5,
-        "noite": 20.0
+        "manha": 19.7,
+        "tarde": 26.2,
+        "noite": 19.9
     },
     "forecast": {
-        "max": 28.2,
-        "min": 17.6
+        "max": 27.6,
+        "min": 17.5
     },
     "news": [
         {
-            "title": "Chega em luta acesa nas distritais, direcção não interfere mas pende para incumbentes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/15/politica/noticia/chega-luta-acesa-distritais-direccao-nao-interfere-pende-incumbentes-2178152"
+            "title": "À espera do metro, Colina de Alcântara é enclave onde há esquecimento e gentrificação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/15/local/noticia/espera-metro-colina-alcantara-enclave-onde-ha-esquecimento-gentrificacao-2177535"
         },
         {
-            "title": "Encantar pessoas com a ciência que se faz no CERN",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/15/ciencia/depoimento/encantar-pessoas-ciencia-faz-cern-2173815"
+            "title": "PCP regista “sentimento de abandono” na zona Centro e quer explicações da Estrutura de Missão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/15/politica/noticia/pcp-regista-sentimento-abandono-zona-centro-quer-explicacoes-estrutura-missao-2178238"
         },
         {
-            "title": "Economia europeia mais lenta ameaça previsões de crescimento do Governo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/15/economia/noticia/economia-europeia-lenta-ameaca-previsoes-crescimento-governo-2178183"
+            "title": "Panteão Nacional encerrado dez dias para requalificação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/15/culturaipsilon/noticia/panteao-nacional-encerrado-dez-dias-requalificacao-2178246"
         },
         {
-            "title": "Exames do Secundário: entre a expectativa e a ansiedade, 166 mil alunos a jogar uma parte do futuro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/15/sociedade/podcast/exames-secundario-expectativa-ansiedade-166-mil-alunos-jogar-parte-futuro-2178194"
+            "title": "Hospitais gastam milhares de euros a substituir viaturas médicas quando o concurso do INEM está quase no fim",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/15/sociedade/noticia/hospitais-gastam-milhares-euros-substituir-viaturas-medicas-concurso-inem-quase-fim-2177103"
         },
         {
-            "title": "Suplementos para o cérebro: há ciência por trás — mas não para todos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/15/ciencia/opiniao/suplementos-cerebro-ha-ciencia-tras-nao-2177642"
+            "title": "Chega pede reapreciação parlamentar do diploma das “bandeiras ideológicas” em edifícios públicos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/15/politica/noticia/chega-pede-reapreciacao-parlamentar-diploma-bandeiras-ideologicas-edificios-publicos-2178224"
         }
     ],
     "finance": [],
-    "last_update": "15/06/2026 06:13"
+    "last_update": "15/06/2026 12:56"
 }
