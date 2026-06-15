@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 19.1,
-        "manha": 19.7,
-        "tarde": 26.9,
-        "noite": 20.3
+        "manha": 19.6,
+        "tarde": 26.5,
+        "noite": 20.0
     },
     "forecast": {
-        "max": 28.6,
-        "min": 17.8
+        "max": 28.2,
+        "min": 17.6
     },
     "news": [
         {
-            "title": "A Europa não vencerá a China com tarifas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/15/opiniao/opiniao/europa-nao-vencera-china-tarifas-2177797"
+            "title": "Chega em luta acesa nas distritais, direcção não interfere mas pende para incumbentes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/15/politica/noticia/chega-luta-acesa-distritais-direccao-nao-interfere-pende-incumbentes-2178152"
         },
         {
-            "title": "De 80% de dias em incumprimento para a plenitude de incumprimento?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/15/opiniao/opiniao/80-dias-incumprimento-plenitude-incumprimento-2177844"
+            "title": "Encantar pessoas com a ciência que se faz no CERN",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/15/ciencia/depoimento/encantar-pessoas-ciencia-faz-cern-2173815"
         },
         {
-            "title": "O que estamos a acelerar?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/15/opiniao/opiniao/acelerar-2177699"
+            "title": "Economia europeia mais lenta ameaça previsões de crescimento do Governo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/15/economia/noticia/economia-europeia-lenta-ameaca-previsoes-crescimento-governo-2178183"
         },
         {
-            "title": "A ADSE precisa de um salto? Os beneficiários esperam há demasiado tempo!",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/15/opiniao/opiniao/adse-precisa-salto-beneficiarios-esperam-ha-demasiado-tempo-2177828"
+            "title": "Exames do Secundário: entre a expectativa e a ansiedade, 166 mil alunos a jogar uma parte do futuro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/15/sociedade/podcast/exames-secundario-expectativa-ansiedade-166-mil-alunos-jogar-parte-futuro-2178194"
         },
         {
-            "title": "Lisboa: 48, Bragança: 3",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/15/opiniao/opiniao/lisboa-48-braganca-3-2177764"
+            "title": "Suplementos para o cérebro: há ciência por trás — mas não para todos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/15/ciencia/opiniao/suplementos-cerebro-ha-ciencia-tras-nao-2177642"
         }
     ],
     "finance": [],
-    "last_update": "15/06/2026 00:00"
+    "last_update": "15/06/2026 06:13"
 }
