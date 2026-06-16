@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.4,
-        "manha": 19.1,
-        "tarde": 27.5,
-        "noite": 21.7
+        "manha": 19.2,
+        "tarde": 27.7,
+        "noite": 21.9
     },
     "forecast": {
-        "max": 30.2,
-        "min": 18.0
+        "max": 30.3,
+        "min": 18.1
     },
     "news": [
         {
-            "title": "Nos bairros mexicanos os campos são novos. O resto espera",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/desporto/reportagem/bairros-mexicanos-campos-sao-novos-resto-espera-2178292"
+            "title": "Luca Zidane, o filho guarda-redes de Zinedine",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/desporto/noticia/luca-zidane-filho-guardaredes-zinedine-2178285"
         },
         {
-            "title": "O ébola não ameaça o Mundial. Não se pode dizer o mesmo do sarampo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/ciencia/noticia/ebola-nao-ameaca-mundial-nao-dizer-sarampo-2178056"
+            "title": "Supremo Tribunal de Israel rejeita recurso para libertação de médico palestiniano Abu Safiya",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/mundo/noticia/supremo-tribunal-israel-rejeita-recurso-libertacao-medico-palestiniano-abu-safiya-2178372"
         },
         {
-            "title": "Raphael Fonseca: “Quero escrever outras páginas na história da Culturgest”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/culturaipsilon/entrevista/raphael-fonseca-quero-escrever-paginas-historia-culturgest-2178271"
+            "title": "França investe 655 milhões na inteligência artificial para ganhar autonomia dos EUA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/enter/noticia/franca-investe-655-milhoes-inteligencia-artificial-ganhar-autonomia-eua-2178357"
         },
         {
-            "title": "Cessar-fogo no Irão é um teste à relação de forças entre EUA e Israel",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/mundo/noticia/cessarfogo-irao-teste-relacao-forcas-eua-israel-2178308"
+            "title": "Com guerra na Ucrânia sem fim à vista, Putin convoca eleições na Rússia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/mundo/noticia/guerra-ucrania-fim-vista-putin-convoca-eleicoes-russia-2178353"
         },
         {
-            "title": "Estudar para os exames com ajuda da inteligência artificial? É útil, mas “comete muitos erros”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/sociedade/noticia/estudar-exames-ajuda-inteligencia-artificial-util-comete-erros-2178298"
+            "title": "Escritora Lídia Jorge distinguida com Prémio Estatal Austríaco de Literatura Europeia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/culturaipsilon/noticia/escritora-lidia-jorge-distinguida-premio-estatal-austriaco-literatura-europeia-2178363"
         }
     ],
     "finance": [],
-    "last_update": "16/06/2026 06:23"
+    "last_update": "16/06/2026 12:02"
 }
