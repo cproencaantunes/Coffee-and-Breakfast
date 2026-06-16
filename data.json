@@ -3,34 +3,34 @@
         "atual": 18.4,
         "manha": 19.2,
         "tarde": 27.8,
-        "noite": 21.8
+        "noite": 22.1
     },
     "forecast": {
-        "max": 30.8,
-        "min": 18.2
+        "max": 31.0,
+        "min": 18.4
     },
     "news": [
         {
-            "title": "Reforma laboral: “Até ao momento não foi possível chegar a entendimento”, diz Ventura",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/politica/noticia/reforma-laboral-ate-momento-nao-possivel-chegar-entendimento-ventura-2178439"
+            "title": "Tarefeiros dizem que novas regras não acautelam turnos críticos no SNS e limitam contratações",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/sociedade/noticia/tarefeiros-novas-regras-nao-acautelam-turnos-criticos-sns-limitam-contratacoes-2178452"
         },
         {
-            "title": "Com Cristiano Ronaldo como sócio, LiveMode começa expansão internacional por Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/publico-brasil/noticia/cristiano-ronaldo-socio-livemode-comeca-expansao-internacional-portugal-2178432"
+            "title": "Acordo para a paz no Irão prevê fundo de investimento privado de 300 mil milhões de dólares",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/mundo/noticia/acordo-paz-irao-preve-fundo-investimento-privado-300-mil-milhoes-dolares-2178445"
         },
         {
-            "title": "Exame de Português foi “compatível” com programa, mas professores criticam excesso de escolhas múltiplas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/sociedade/noticia/exame-portugues-compativel-programa-professores-criticam-excesso-escolhas-multiplas-2178419"
+            "title": "Pedro e Hélder Moutinho juntos ao vivo, como “uma tertúlia dos dois em palco”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/culturaipsilon/noticia/pedro-helder-moutinho-juntos-vivo-tertulia-dois-palco-2178301"
         },
         {
-            "title": "Raimundo acusa Chega de encenar negociação laboral e propor um “embuste” nas pensões",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/politica/noticia/raimundo-acusa-chega-encenar-negociacao-laboral-propor-embuste-pensoes-2178437"
+            "title": "Arre, as coisas que uma mãe tem de ouvir",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/p3/cronica/arre-mae-ouvir-2178221"
         },
         {
-            "title": "Governo reconhece direito de habitação e regulariza ocupações de casas de função",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/economia/noticia/governo-reconhece-direito-habitacao-regulariza-ocupacoes-casas-funcao-2178406"
+            "title": "Mundial 2026: o sonho “azul” cabo-verdiano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/desporto/cronica/mundial-2026-sonho-azul-caboverdiano-2178456"
         }
     ],
     "finance": [],
-    "last_update": "16/06/2026 17:53"
+    "last_update": "16/06/2026 20:35"
 }
