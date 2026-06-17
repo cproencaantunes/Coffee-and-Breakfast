@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 18.4,
-        "manha": 19.2,
-        "tarde": 27.8,
-        "noite": 22.1
+        "atual": 20.6,
+        "manha": 20.5,
+        "tarde": 31.6,
+        "noite": 21.5
     },
     "forecast": {
-        "max": 31.0,
-        "min": 18.4
+        "max": 30.4,
+        "min": 18.1
     },
     "news": [
         {
-            "title": "Ex-adjunto da Justiça enfrenta 7986 acusações por crimes de abuso de menores, avança CNN",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/sociedade/noticia/exadjunto-justica-enfrenta-7986-acusacoes-crimes-abuso-menores-avanca-cnn-2178460"
+            "title": "Enfermeiro de família para todos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/opiniao/opiniao/enfermeiro-familia-2177946"
         },
         {
-            "title": "Sporting vence Benfica no segundo jogo e iguala final da Liga de futsal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/desporto/noticia/sporting-vence-benfica-segundo-jogo-iguala-final-liga-futsal-2178459"
+            "title": "Eduardo Bolsonaro condenado a mais de quatro anos de prisão por coacção a juízes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/mundo/noticia/eduardo-bolsonaro-condenado-quatro-anos-prisao-coaccao-juizes-2178461"
         },
         {
-            "title": "A França salvou-se de mais um embaraço com o Senegal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/desporto/cronica_de_jogo/franca-salvouse-embaraco-senegal-2178458"
+            "title": "Não há economia forte com trabalho frágil. Portugal tem de escolher",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/opiniao/opiniao/nao-ha-economia-forte-trabalho-fragil-portugal-escolher-2178430"
         },
         {
-            "title": "Trump e Netanyahu: estaremos a assistir ao fim de uma bela amizade?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/mundo/noticia/trump-netanyahu-estaremos-assistir-fim-bela-amizade-2178401"
+            "title": "Corpo resgatado em Albufeira poderá pertencer a jovem britânico desaparecido no mar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/local/noticia/corpo-resgatado-albufeira-podera-pertencer-jovem-britanico-desaparecido-mar-2178463"
         },
         {
-            "title": "João Carlos Loureiro: contra a eutanásia, adepto de longas declarações de voto e direito alemão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/16/politica/noticia/joao-carlos-loureiro-eutanasia-adepto-longas-declaracoes-voto-direito-alemao-2178455"
+            "title": "Como escolhem os mais pobres",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/opiniao/opiniao/escolhem-pobres-2178399"
         }
     ],
     "finance": [],
-    "last_update": "16/06/2026 22:47"
+    "last_update": "17/06/2026 00:08"
 }
