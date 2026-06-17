@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.6,
-        "manha": 20.5,
-        "tarde": 31.6,
-        "noite": 21.5
+        "atual": 20.5,
+        "manha": 20.3,
+        "tarde": 30.6,
+        "noite": 21.1
     },
     "forecast": {
-        "max": 30.4,
-        "min": 18.1
+        "max": 29.7,
+        "min": 17.6
     },
     "news": [
         {
-            "title": "Enfermeiro de família para todos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/opiniao/opiniao/enfermeiro-familia-2177946"
+            "title": "Nenhuma partida começa 0-0",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/mundo/opiniao/nenhuma-partida-comeca-00-2178402"
         },
         {
-            "title": "Eduardo Bolsonaro condenado a mais de quatro anos de prisão por coacção a juízes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/mundo/noticia/eduardo-bolsonaro-condenado-quatro-anos-prisao-coaccao-juizes-2178461"
+            "title": "Cristiano Ronaldo é uma bênção ou uma maldição?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/desporto/podcast/cristiano-ronaldo-bencao-maldicao-2178443"
         },
         {
-            "title": "Não há economia forte com trabalho frágil. Portugal tem de escolher",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/opiniao/opiniao/nao-ha-economia-forte-trabalho-fragil-portugal-escolher-2178430"
+            "title": "Esta guerra que nunca existiu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/opiniao/editorial/guerra-existiu-2178453"
         },
         {
-            "title": "Corpo resgatado em Albufeira poderá pertencer a jovem britânico desaparecido no mar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/local/noticia/corpo-resgatado-albufeira-podera-pertencer-jovem-britanico-desaparecido-mar-2178463"
+            "title": "Petróleo, gás e investimentos reforçam influência económica dos EUA em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/economia/noticia/petroleo-gas-investimentos-reforcam-influencia-economica-eua-portugal-2178022"
         },
         {
-            "title": "Como escolhem os mais pobres",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/opiniao/opiniao/escolhem-pobres-2178399"
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/opiniao/opiniao/cartas-director-2178424"
         }
     ],
     "finance": [],
-    "last_update": "17/06/2026 00:08"
+    "last_update": "17/06/2026 05:59"
 }
