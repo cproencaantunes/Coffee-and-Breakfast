@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.5,
-        "manha": 20.3,
-        "tarde": 30.6,
-        "noite": 21.1
+        "manha": 20.4,
+        "tarde": 31.1,
+        "noite": 21.6
     },
     "forecast": {
-        "max": 29.7,
-        "min": 17.6
+        "max": 30.1,
+        "min": 17.8
     },
     "news": [
         {
-            "title": "Nenhuma partida começa 0-0",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/mundo/opiniao/nenhuma-partida-comeca-00-2178402"
+            "title": "Florestas, património e projectos locais: os casos concretos que os municípios opõem ao mapa das renováveis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/azul/noticia/florestas-patrimonio-projectos-locais-casos-concretos-municipios-opoem-mapa-renovaveis-2178493"
         },
         {
-            "title": "Cristiano Ronaldo é uma bênção ou uma maldição?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/desporto/podcast/cristiano-ronaldo-bencao-maldicao-2178443"
+            "title": "António Simões: \"Vejam lá se conseguem fazer melhor [do que fizemos em 1966]\"",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/video/antonio-simoes-vejam-conseguem-melhor-fizemos-1966-20260616-181608"
         },
         {
-            "title": "Esta guerra que nunca existiu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/opiniao/editorial/guerra-existiu-2178453"
+            "title": "Nestlé vai cortar 88 postos de trabalho em Portugal até 2027",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/economia/noticia/nestle-vai-cortar-88-postos-trabalho-portugal-ate-2027-2178486"
         },
         {
-            "title": "Petróleo, gás e investimentos reforçam influência económica dos EUA em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/economia/noticia/petroleo-gas-investimentos-reforcam-influencia-economica-eua-portugal-2178022"
+            "title": "Capitão da GNR admite ter traficado toneladas de cocaína no Porto de Leixões",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/sociedade/noticia/capitao-gnr-admite-traficado-toneladas-cocaina-porto-leixoes-2178489"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/opiniao/opiniao/cartas-director-2178424"
+            "title": "Municípios chumbam proposta do “mapa verde” das renováveis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/azul/noticia/municipios-chumbam-proposta-mapa-verde-renovaveis-2178484"
         }
     ],
     "finance": [],
-    "last_update": "17/06/2026 05:59"
+    "last_update": "17/06/2026 10:55"
 }
