@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.5,
         "manha": 20.4,
-        "tarde": 30.9,
-        "noite": 21.9
+        "tarde": 31.1,
+        "noite": 21.6
     },
     "forecast": {
         "max": 29.9,
-        "min": 17.9
+        "min": 17.7
     },
     "news": [
         {
-            "title": "UEFA  mantém Liga dos Campeões sem pausas para hidratação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/desporto/noticia/uefa-mantem-liga-campeoes-pausas-hidratacao-2178539"
+            "title": "Évora vai ser o município convidado da feira de viagens BTL em 2027",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/fugas/noticia/evora-vai-municipio-convidado-feira-viagens-btl-2027-2178574"
         },
         {
-            "title": "Rangel acusa PS de “infantilização” e defende mais “pressão” da UE sobre Israel",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/politica/noticia/rangel-acusa-ps-infantilizacao-defende-pressao-ue-israel-2178482"
+            "title": "Câmara de Gaia promete casa até 31 de Julho a moradores da Rua Garcia de Orta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/local/noticia/camara-gaia-promete-casa-ate-31-julho-moradores-rua-garcia-orta-2178576"
         },
         {
-            "title": "Queixa por difamação contra Boaventura de Sousa Santos foi arquivada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/sociedade/noticia/queixa-difamacao-boaventura-sousa-santos-arquivada-2178500"
+            "title": "Torres Vedras quer atrair enfermeiros brasileiros e promete boa qualidade de vida",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/publico-brasil/noticia/torres-vedras-quer-atrair-enfermeiros-brasileiros-promete-boa-qualidade-vida-2178544"
         },
         {
-            "title": "“Mapa verde” das renováveis entra em consulta pública já com obstáculos por resolver",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/azul/noticia/mapa-verde-renovaveis-entra-consulta-publica-ja-obstaculos-resolver-2178515"
+            "title": "Um Algarve desconhecido na Fugas do próximo sábado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/fugas/noticia/algarve-desconhecido-fugas-proximo-sabado-2178510"
         },
         {
-            "title": "Bancos presentes em Portugal investigados por falhas na concorrência em Espanha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/economia/noticia/bancos-presentes-portugal-investigados-falhas-concorrencia-espanha-2178512"
+            "title": "A arte do memorando e o regresso de Trump à casa de partida no Irão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/newsletter/aquinaamerica"
         }
     ],
     "finance": [],
-    "last_update": "17/06/2026 14:22"
+    "last_update": "17/06/2026 17:43"
 }
