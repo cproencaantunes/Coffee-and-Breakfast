@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.5,
         "manha": 20.4,
-        "tarde": 31.1,
-        "noite": 21.6
+        "tarde": 30.9,
+        "noite": 21.9
     },
     "forecast": {
-        "max": 30.1,
-        "min": 17.8
+        "max": 29.9,
+        "min": 17.9
     },
     "news": [
         {
-            "title": "Florestas, património e projectos locais: os casos concretos que os municípios opõem ao mapa das renováveis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/azul/noticia/florestas-patrimonio-projectos-locais-casos-concretos-municipios-opoem-mapa-renovaveis-2178493"
+            "title": "UEFA  mantém Liga dos Campeões sem pausas para hidratação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/desporto/noticia/uefa-mantem-liga-campeoes-pausas-hidratacao-2178539"
         },
         {
-            "title": "António Simões: \"Vejam lá se conseguem fazer melhor [do que fizemos em 1966]\"",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/video/antonio-simoes-vejam-conseguem-melhor-fizemos-1966-20260616-181608"
+            "title": "Rangel acusa PS de “infantilização” e defende mais “pressão” da UE sobre Israel",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/politica/noticia/rangel-acusa-ps-infantilizacao-defende-pressao-ue-israel-2178482"
         },
         {
-            "title": "Nestlé vai cortar 88 postos de trabalho em Portugal até 2027",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/economia/noticia/nestle-vai-cortar-88-postos-trabalho-portugal-ate-2027-2178486"
+            "title": "Queixa por difamação contra Boaventura de Sousa Santos foi arquivada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/sociedade/noticia/queixa-difamacao-boaventura-sousa-santos-arquivada-2178500"
         },
         {
-            "title": "Capitão da GNR admite ter traficado toneladas de cocaína no Porto de Leixões",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/sociedade/noticia/capitao-gnr-admite-traficado-toneladas-cocaina-porto-leixoes-2178489"
+            "title": "“Mapa verde” das renováveis entra em consulta pública já com obstáculos por resolver",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/azul/noticia/mapa-verde-renovaveis-entra-consulta-publica-ja-obstaculos-resolver-2178515"
         },
         {
-            "title": "Municípios chumbam proposta do “mapa verde” das renováveis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/azul/noticia/municipios-chumbam-proposta-mapa-verde-renovaveis-2178484"
+            "title": "Bancos presentes em Portugal investigados por falhas na concorrência em Espanha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/17/economia/noticia/bancos-presentes-portugal-investigados-falhas-concorrencia-espanha-2178512"
         }
     ],
     "finance": [],
-    "last_update": "17/06/2026 10:55"
+    "last_update": "17/06/2026 14:22"
 }
