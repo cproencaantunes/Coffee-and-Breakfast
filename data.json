@@ -3,34 +3,34 @@
         "atual": 20.1,
         "manha": 19.9,
         "tarde": 30.6,
-        "noite": 22.4
+        "noite": 22.7
     },
     "forecast": {
-        "max": 29.2,
-        "min": 17.7
+        "max": 28.6,
+        "min": 17.6
     },
     "news": [
         {
-            "title": "Do vício dos fundos ao futuro hipotecado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/opiniao/opiniao/vicio-fundos-futuro-hipotecado-2178548"
+            "title": "<em>Magalhães</em>, de Lav Diaz, lembra-me um sonho lindo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/culturaipsilon/critica/magalhaes-lav-diaz-lembrame-sonho-lindo-2178297"
         },
         {
-            "title": "Um congresso para dissimular a nova “geringonça”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/opiniao/opiniao/congresso-dissimular-nova-geringonca-2178546"
+            "title": "Patentes: a verdadeira soberania",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/publico-brasil/opiniao/patentes-verdadeira-soberania-2178606"
         },
         {
-            "title": "Liberdade, liberdade, quem a tem chama-lhe sua (e cativa)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/culturaipsilon/opiniao/liberdade-liberdade-chamalhe-cativa-2178365"
+            "title": "“Aqueles que pensam estratégia de manhã, à tarde e à noite nos EUA pensam na China”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/mundo/noticia/pensam-estrategia-manha-tarde-noite-eua-pensam-china-2178534"
         },
         {
-            "title": "Estados Unidos e Irão já assinaram memorando de entendimento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/mundo/noticia/estados-unidos-irao-ja-assinaram-memorando-entendimento-2178598"
+            "title": "<em>A Morte de Robin Hood</em>: imperdoável!",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/culturaipsilon/critica/morte-robin-hood-imperdoavel-2178270"
         },
         {
-            "title": "Aproveitar este pecadinho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/opiniao/cronica/aproveitar-pecadinho-2178506"
+            "title": "A tecnologia prometeu uma revolução na arquitetura. Os <em>ateliers </em>ainda estão a negociar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/p3/cronica/tecnologia-prometeu-revolucao-arquitetura-ateliers-estao-negociar-2177829"
         }
     ],
     "finance": [],
-    "last_update": "18/06/2026 02:36"
+    "last_update": "18/06/2026 07:25"
 }
