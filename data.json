@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.1,
         "manha": 19.9,
-        "tarde": 30.6,
-        "noite": 22.7
+        "tarde": 30.0,
+        "noite": 22.0
     },
     "forecast": {
-        "max": 28.6,
-        "min": 17.6
+        "max": 29.1,
+        "min": 17.7
     },
     "news": [
         {
-            "title": "<em>Magalhães</em>, de Lav Diaz, lembra-me um sonho lindo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/culturaipsilon/critica/magalhaes-lav-diaz-lembrame-sonho-lindo-2178297"
+            "title": "Tribunal contrariou versão da PSP: Odair não empunhou faca, punhal surgiu “inusitadamente”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/sociedade/noticia/tribunal-contrariou-versao-psp-odair-nao-empunhou-faca-punhal-surgiu-inusitadamente-2178631"
         },
         {
-            "title": "Patentes: a verdadeira soberania",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/publico-brasil/opiniao/patentes-verdadeira-soberania-2178606"
+            "title": "Aos 80 anos, Maria Bethânia é radical do seu próprio movimento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/impar/noticia/80-anos-maria-bethania-radical-proprio-movimento-2178637"
         },
         {
-            "title": "“Aqueles que pensam estratégia de manhã, à tarde e à noite nos EUA pensam na China”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/mundo/noticia/pensam-estrategia-manha-tarde-noite-eua-pensam-china-2178534"
+            "title": "Lá vai Lisboa, se não a salvarmos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/opiniao/opiniao/vai-lisboa-nao-salvarmos-2178398"
         },
         {
-            "title": "<em>A Morte de Robin Hood</em>: imperdoável!",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/culturaipsilon/critica/morte-robin-hood-imperdoavel-2178270"
+            "title": "Portugal vai delimitar zonas proibidas para renováveis para proteger biodiversidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/azul/noticia/portugal-vai-delimitar-zonas-proibidas-renovaveis-proteger-biodiversidade-2178619"
         },
         {
-            "title": "A tecnologia prometeu uma revolução na arquitetura. Os <em>ateliers </em>ainda estão a negociar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/p3/cronica/tecnologia-prometeu-revolucao-arquitetura-ateliers-estao-negociar-2177829"
+            "title": "Jardim de Verão volta à Gulbenkian entre 27 de Junho e 12 de Julho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/culturaipsilon/noticia/jardim-verao-volta-gulbenkian-27-junho-12-julho-2178627"
         }
     ],
     "finance": [],
-    "last_update": "18/06/2026 07:25"
+    "last_update": "18/06/2026 11:43"
 }
