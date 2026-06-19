@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.1,
-        "manha": 19.9,
-        "tarde": 30.3,
-        "noite": 22.7
+        "atual": 19.4,
+        "manha": 19.7,
+        "tarde": 28.9,
+        "noite": 21.4
     },
     "forecast": {
-        "max": 28.4,
-        "min": 17.3
+        "max": 30.1,
+        "min": 18.7
     },
     "news": [
         {
+            "title": "Os Massive Attack e a arte política enquanto mercadoria",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/opiniao/opiniao/massive-attack-arte-politica-mercadoria-2178721"
+        },
+        {
+            "title": "As acrobacias de Palma Ramalho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/opiniao/opiniao/acrobacias-palma-ramalho-2178726"
+        },
+        {
+            "title": "O pisar descalço",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/opiniao/opiniao/pisar-descalco-2178674"
+        },
+        {
+            "title": "É altura de os políticos deixarem o futebol em paz (e vice-versa)",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/opiniao/opiniao/altura-politicos-deixarem-futebol-paz-viceversa-2178690"
+        },
+        {
             "title": "Congo viraliza com “homem estátua” e imortaliza memória de Lumumba",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/desporto/noticia/congo-viraliza-homem-estatua-imortaliza-memoria-lumumba-2178701"
-        },
-        {
-            "title": "Agente da PSP formou neonazis para “defender a sua raça”. Tinha lista de indesejáveis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/sociedade/noticia/agente-psp-formou-neonazis-defender-raca-lista-indesejaveis-2178699"
-        },
-        {
-            "title": "Inquérito por maus tratos a idosos em Lousada começou em 2023 e nunca esteve parado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/sociedade/noticia/inquerito-maus-tratos-idosos-lousada-comecou-2023-parado-2178732"
-        },
-        {
-            "title": "A Suíça recuperou tranquilidade e a Bósnia ficou aflita",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/desporto/noticia/suica-recuperou-tranquilidade-bosnia-ficou-aflita-2178738"
-        },
-        {
-            "title": "Greves no INEM: adjunta da ministra garante que não sabia do protesto, mas deputados não ficaram convencidos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/sociedade/noticia/greves-inem-adjunta-ministra-garante-nao-sabia-protesto-deputados-nao-ficaram-convencidos-2178737"
         }
     ],
     "finance": [],
-    "last_update": "18/06/2026 22:50"
+    "last_update": "19/06/2026 00:19"
 }
