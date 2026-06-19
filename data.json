@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.4,
         "manha": 19.8,
-        "tarde": 28.6,
-        "noite": 22.0
+        "tarde": 28.5,
+        "noite": 21.8
     },
     "forecast": {
-        "max": 31.0,
-        "min": 18.7
+        "max": 30.8,
+        "min": 18.9
     },
     "news": [
         {
-            "title": "“Ofensa” de Trump a Meloni abre nova crise nas relações entre EUA e Itália",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/mundo/noticia/ofensa-trump-meloni-abre-nova-crise-relacoes-eua-italia-2178805"
+            "title": "O escândalo do Master aproxima-se do PT e deixa Lula em alerta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/mundo/noticia/escandalo-master-aproximase-pt-deixa-lula-alerta-2178853"
         },
         {
-            "title": "Incêndios: Forças Armadas não terão de aguardar pedidos para agir",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/politica/noticia/incendios-forcas-armadas-nao-terao-aguardar-pedidos-agir-2178806"
+            "title": "Chega votou sempre contra mais férias? Na maioria das vezes, mas não para dadores de sangue",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/politica/noticia/chega-votou-ferias-maioria-vezes-nao-dadores-sangue-2178790"
         },
         {
-            "title": "Director da PSP considera excepcional e grave envolvimento de polícia em grupo de extrema-direita",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/sociedade/noticia/director-psp-considera-excepcional-grave-envolvimento-policia-grupo-extremadireita-2178809"
+            "title": "O fotógrafo que abrandou o tempo para retratar a nossa diversidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/local/noticia/fotografo-abrandou-tempo-retratar-diversidade-2178828"
         },
         {
-            "title": "Infantino usa jacto privado para assistir a dois jogos do Mundial por dia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/azul/noticia/infantino-usa-jacto-privado-assistir-dois-jogos-mundial-dia-2178807"
+            "title": "Autoridade da Concorrência aprova modelo de centralização dos direitos de TV da Liga",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/desporto/noticia/autoridade-concorrencia-aprova-modelo-centralizacao-direitos-tv-liga-2178846"
         },
         {
-            "title": "CGTP: travão ao pacote laboral é “um sinal para o Governo”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/economia/noticia/cgtp-chumbo-pacote-laboral-sinal-governo-2178811"
+            "title": "Movimento Armilar: neonazis queriam “tribunais populares” para punir alvos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/sociedade/noticia/movimento-armilar-neonazis-queriam-tribunais-populares-punir-alvos-2178832"
         }
     ],
     "finance": [],
-    "last_update": "19/06/2026 14:40"
+    "last_update": "19/06/2026 17:10"
 }
