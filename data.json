@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 19.4,
-        "manha": 19.8,
-        "tarde": 28.5,
-        "noite": 21.9
+        "atual": 20.1,
+        "manha": 21.2,
+        "tarde": 30.6,
+        "noite": 24.1
     },
     "forecast": {
-        "max": 30.8,
-        "min": 19.2
+        "max": 33.3,
+        "min": 19.9
     },
     "news": [
         {
-            "title": "EUA passam grande barreira de coral da Austrália para fazer companhia ao México",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/desporto/noticia/eua-passam-barreira-coral-australia-companhia-mexico-2178887"
+            "title": "Criminalizar palavras",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/opiniao/opiniao/criminalizar-palavras-2178827"
         },
         {
-            "title": "Ribau Esteves: questionar liderança de Montenegro seria “desestabilizar o país”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/politica/entrevista/ribau-esteves-questionar-lideranca-montenegro-desestabilizar-pais-2178784"
+            "title": "Chover no molhado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/opiniao/opiniao/chover-molhado-2178803"
         },
         {
-            "title": "Como o Chega foi da “vitória” ao chumbo do pacote laboral",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/politica/noticia/chega-vitoria-chumbo-pacote-laboral-2178876"
+            "title": "Ouviram o ministro das polícias sobre “a maior ameaça”?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/sociedade/opiniao/ouviram-ministro-policias-maior-ameaca-2178856"
         },
         {
-            "title": "Lista de alvos dos neonazis: PGR diz que só soube mais tarde, ministra pede reflexão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/sociedade/noticia/lista-alvos-neonazis-pgr-so-soube-tarde-ministra-pede-reflexao-2178883"
+            "title": "Cuidado com os atalhos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/opiniao/cronica/cuidado-atalhos-2178801"
         },
         {
-            "title": "PJ faz buscas a membros do Colectivo pela Libertação da Palestina",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/sociedade/noticia/pj-faz-buscas-membros-colectivo-libertacao-palestina-2178888"
+            "title": "Trump engole óleo de fígado de bacalhau e diz que é caviar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/opiniao/opiniao/trump-engole-oleo-figado-bacalhau-caviar-2178800"
         }
     ],
     "finance": [],
-    "last_update": "19/06/2026 22:05"
+    "last_update": "19/06/2026 23:59"
 }
