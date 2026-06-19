@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.4,
         "manha": 19.8,
-        "tarde": 28.2,
-        "noite": 21.6
+        "tarde": 28.6,
+        "noite": 22.0
     },
     "forecast": {
-        "max": 30.1,
+        "max": 31.0,
         "min": 18.7
     },
     "news": [
         {
-            "title": "Ministro ataca burocracia de entidades públicas e promete nova justiça tributária para breve",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/economia/noticia/ministro-ataca-burocracia-entidades-publicas-promete-nova-justica-tributaria-breve-2178771"
+            "title": "“Ofensa” de Trump a Meloni abre nova crise nas relações entre EUA e Itália",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/mundo/noticia/ofensa-trump-meloni-abre-nova-crise-relacoes-eua-italia-2178805"
         },
         {
-            "title": "A Ernst Lubitsch toda a gente diz “<em>I love you</em>”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/culturaipsilon/noticia/ernst-lubitsch-gente-i-love-you-2178695"
+            "title": "Incêndios: Forças Armadas não terão de aguardar pedidos para agir",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/politica/noticia/incendios-forcas-armadas-nao-terao-aguardar-pedidos-agir-2178806"
         },
         {
-            "title": "Albufeira: à descoberta do património histórico que se esconde entre turistas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/fugas/reportagem/albufeira-descoberta-patrimonio-historico-esconde-turistas-2178411"
+            "title": "Director da PSP considera excepcional e grave envolvimento de polícia em grupo de extrema-direita",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/sociedade/noticia/director-psp-considera-excepcional-grave-envolvimento-policia-grupo-extremadireita-2178809"
         },
         {
-            "title": "GNR desmantela rede de tráfico de droga em Beja com 14 detidos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/sociedade/noticia/gnr-desmantela-rede-trafico-droga-beja-14-detidos-2178764"
+            "title": "Infantino usa jacto privado para assistir a dois jogos do Mundial por dia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/azul/noticia/infantino-usa-jacto-privado-assistir-dois-jogos-mundial-dia-2178807"
         },
         {
-            "title": "A “perturbação do jogo é devastadora”: mal abriu a porta, centro para dependência do jogo a dinheiro já tinha um pedido de ajuda",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/sociedade/noticia/perturbacao-jogo-devastadora-mal-abriu-porta-centro-dependencia-jogo-dinheiro-ja-pedido-ajuda-2178757"
+            "title": "CGTP: travão ao pacote laboral é “um sinal para o Governo”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/economia/noticia/cgtp-chumbo-pacote-laboral-sinal-governo-2178811"
         }
     ],
     "finance": [],
-    "last_update": "19/06/2026 11:12"
+    "last_update": "19/06/2026 14:40"
 }
