@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 19.4,
-        "manha": 19.7,
-        "tarde": 28.9,
-        "noite": 21.4
+        "manha": 20.1,
+        "tarde": 28.6,
+        "noite": 21.6
     },
     "forecast": {
-        "max": 30.1,
-        "min": 18.7
+        "max": 29.7,
+        "min": 18.9
     },
     "news": [
         {
-            "title": "Os Massive Attack e a arte política enquanto mercadoria",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/opiniao/opiniao/massive-attack-arte-politica-mercadoria-2178721"
+            "title": "Andy Burnham conquistou Makerfield e abriu caminho para desafiar Keir Starmer",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/mundo/noticia/andy-burnham-conquistou-makerfield-abriu-caminho-desafiar-keir-starmer-2178742"
         },
         {
-            "title": "As acrobacias de Palma Ramalho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/opiniao/opiniao/acrobacias-palma-ramalho-2178726"
+            "title": "Partidos defendem aumento do valor do apoio alimentar através do cartão social",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/politica/noticia/partidos-defendem-aumento-valor-apoio-alimentar-atraves-cartao-social-2178673"
         },
         {
-            "title": "O pisar descalço",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/opiniao/opiniao/pisar-descalco-2178674"
+            "title": "Ler, o superpoder subversivo que continua a ameaçar ditadores e autocratas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/mundo/cronica/ler-superpoder-subversivo-continua-ameacar-ditadores-autocratas-2178735"
         },
         {
-            "title": "É altura de os políticos deixarem o futebol em paz (e vice-versa)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/opiniao/opiniao/altura-politicos-deixarem-futebol-paz-viceversa-2178690"
+            "title": "Montenegro em Congresso entre o Portugal maior, o unanimismo e a descentralização",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/politica/podcast/montenegro-congresso-portugal-maior-unanimismo-descentralizacao-2178739"
         },
         {
-            "title": "Congo viraliza com “homem estátua” e imortaliza memória de Lumumba",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/18/desporto/noticia/congo-viraliza-homem-estatua-imortaliza-memoria-lumumba-2178701"
+            "title": "Desde 2009, só um polícia foi punido por morte ligada ao uso de arma de serviço",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/sociedade/noticia/desde-2009-so-policia-punido-morte-ligada-uso-arma-servico-2178679"
         }
     ],
     "finance": [],
-    "last_update": "19/06/2026 00:19"
+    "last_update": "19/06/2026 06:07"
 }
