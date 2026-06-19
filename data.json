@@ -3,13 +3,17 @@
         "atual": 19.4,
         "manha": 19.8,
         "tarde": 28.5,
-        "noite": 22.0
+        "noite": 21.9
     },
     "forecast": {
-        "max": 31.4,
-        "min": 18.9
+        "max": 30.8,
+        "min": 19.2
     },
     "news": [
+        {
+            "title": "EUA passam grande barreira de coral da Austrália para fazer companhia ao México",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/desporto/noticia/eua-passam-barreira-coral-australia-companhia-mexico-2178887"
+        },
         {
             "title": "Ribau Esteves: questionar liderança de Montenegro seria “desestabilizar o país”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/politica/entrevista/ribau-esteves-questionar-lideranca-montenegro-desestabilizar-pais-2178784"
@@ -25,12 +29,8 @@
         {
             "title": "PJ faz buscas a membros do Colectivo pela Libertação da Palestina",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/sociedade/noticia/pj-faz-buscas-membros-colectivo-libertacao-palestina-2178888"
-        },
-        {
-            "title": "Ventura teve medo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/19/opiniao/editorial/ventura-medo-2178858"
         }
     ],
     "finance": [],
-    "last_update": "19/06/2026 21:00"
+    "last_update": "19/06/2026 22:05"
 }
