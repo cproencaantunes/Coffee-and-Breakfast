@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.1,
         "manha": 21.3,
-        "tarde": 30.8,
-        "noite": 23.6
+        "tarde": 30.9,
+        "noite": 23.9
     },
     "forecast": {
-        "max": 32.7,
-        "min": 20.3
+        "max": 32.6,
+        "min": 20.1
     },
     "news": [
         {
-            "title": "De mulheres para mulheres e não só, um disco contra a violência e o preconceito",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/culturaipsilon/noticia/mulheres-mulheres-nao-so-disco-violencia-preconceito-2177987"
+            "title": "Polónia retira condecoração a Zelenskiy em protesto contra nome dado a unidade militar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/mundo/noticia/polonia-retira-condecoracao-zelenskiy-protesto-nome-dado-unidade-militar-2178910"
         },
         {
-            "title": "O Casal Ventoso nunca desapareceu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/local/reportagem/casal-ventoso-desapareceu-2172806"
+            "title": "A História exige mais do que certezas fáceis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/opiniao/opiniao/historia-exige-certezas-faceis-2177809"
         },
         {
-            "title": "Proteger “idade mais avançada”. Lisboa lança renda acessível para maiores de 60 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/local/noticia/proteger-idade-avancada-lisboa-lanca-renda-acessivel-maiores-60-anos-2178834"
+            "title": "Técnicos de Emergência Pré-Hospitalar criticam ministra da Saúde e pedem reunião a Seguro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/sociedade/noticia/tecnicos-emergencia-prehospitalar-criticam-ministra-saude-pedem-reuniao-seguro-2178905"
         },
         {
-            "title": "Mundial 2026: EUA apurados, Turquia eliminada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/desporto/noticia/mundial-2026-eua-apurados-turquia-eliminada-2178898"
+            "title": "Mais de duas mil queixas sobre táxis e TVDE no Livro de Reclamações Electrónico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/economia/noticia/duas-mil-queixas-taxis-tvde-livro-reclamacoes-electronico-2178907"
         },
         {
-            "title": "Mundial 2026: um palco verdadeiramente global",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/p3/cronica/mundial-2026-palco-verdadeiramente-global-2178769"
+            "title": "Um morto e quase 1700 retirados após incêndio em <em>resort</em> na República Dominicana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/mundo/noticia/morto-quase-1700-retirados-apos-incendio-resort-republica-dominicana-2178906"
         }
     ],
     "finance": [],
-    "last_update": "20/06/2026 07:41"
+    "last_update": "20/06/2026 10:24"
 }
