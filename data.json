@@ -3,34 +3,34 @@
         "atual": 20.1,
         "manha": 21.3,
         "tarde": 31.4,
-        "noite": 23.5
+        "noite": 24.1
     },
     "forecast": {
-        "max": 33.4,
-        "min": 20.0
+        "max": 33.3,
+        "min": 19.8
     },
     "news": [
         {
-            "title": "O resto é silêncio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/p3/cronica/resto-silencio-2178245"
+            "title": "A desVentura do pacote laboral",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/opiniao/opiniao/desventura-pacote-laboral-2178946"
         },
         {
-            "title": "Centenas manifestaram-se em Lisboa para protestar contra sentença do polícia que matou Odair Moniz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/sociedade/noticia/centenas-manifestaramse-lisboa-protestar-sentenca-policia-matou-odair-moniz-2178940"
+            "title": "Uma foto com Luís Montenegro? Há quem prefira Passos Coelho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/politica/reportagem/foto-luis-montenegro-ha-prefira-passos-coelho-2178939"
         },
         {
-            "title": "A Suécia, depois de golear, foi goleada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/desporto/cronica_de_jogo/suecia-golear-goleada-2178941"
+            "title": "Três novidades na cúpula do PSD: Bugalho, Carlos Moedas e Pedro Duarte",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/politica/noticia/tres-novidades-direccao-psd-bugalho-carlos-moedas-pedro-duarte-2178943"
         },
         {
-            "title": "Reforma laboral: as medidas que ficam pelo caminho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/economia/noticia/medidas-laborais-ficam-caminho-2178937"
+            "title": "Mais do que um ataque à oposição, uma ode a Montenegro no primeiro dia de congresso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/politica/noticia/ataque-oposicao-ode-montenegro-dia-congresso-2178942"
         },
         {
-            "title": "Ameaça terrorista: Luís Neves diz que “houve uma falha” ao não avisar o gabinete do primeiro-ministro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/sociedade/noticia/ameaca-terrorista-luis-neves-falha-nao-avisar-gabinete-primeiroministro-2178935"
+            "title": "<em>Swim</em>: o BTS, o mar português e a arte de continuar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/publico-brasil/opiniao/swim-bts-mar-portugues-arte-continuar-2178945"
         }
     ],
     "finance": [],
-    "last_update": "20/06/2026 20:09"
+    "last_update": "20/06/2026 21:58"
 }
