@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.1,
-        "manha": 21.2,
-        "tarde": 30.6,
-        "noite": 24.1
+        "manha": 21.3,
+        "tarde": 30.8,
+        "noite": 23.6
     },
     "forecast": {
-        "max": 33.3,
-        "min": 19.9
+        "max": 32.7,
+        "min": 20.3
     },
     "news": [
         {
-            "title": "Brasil usou Vini Jr. e Matheus Cunha para castigar ousadia do Haiti",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/desporto/cronica_de_jogo/brasil-usou-vini-jr-matheus-cunha-castigar-ousadia-haiti-2178896"
+            "title": "De mulheres para mulheres e não só, um disco contra a violência e o preconceito",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/culturaipsilon/noticia/mulheres-mulheres-nao-so-disco-violencia-preconceito-2177987"
         },
         {
-            "title": "Danilo e Matheus Cunha entram na Seleção para enfrentar o Haiti. Veja escalação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/publico-brasil/noticia/danilo-matheus-cunha-entram-selecao-enfrentar-haiti-veja-escalacao-2178892"
+            "title": "O Casal Ventoso nunca desapareceu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/local/reportagem/casal-ventoso-desapareceu-2172806"
         },
         {
-            "title": "Marrocos foi muito melhor, mas precisa de marcar mais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/desporto/cronica_de_jogo/marrocos-melhor-precisa-marcar-2178895"
+            "title": "Proteger “idade mais avançada”. Lisboa lança renda acessível para maiores de 60 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/local/noticia/proteger-idade-avancada-lisboa-lanca-renda-acessivel-maiores-60-anos-2178834"
         },
         {
-            "title": "Criminalizar palavras",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/opiniao/opiniao/criminalizar-palavras-2178827"
+            "title": "Mundial 2026: EUA apurados, Turquia eliminada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/desporto/noticia/mundial-2026-eua-apurados-turquia-eliminada-2178898"
         },
         {
-            "title": "Chover no molhado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/opiniao/opiniao/chover-molhado-2178803"
+            "title": "Mundial 2026: um palco verdadeiramente global",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/p3/cronica/mundial-2026-palco-verdadeiramente-global-2178769"
         }
     ],
     "finance": [],
-    "last_update": "20/06/2026 03:39"
+    "last_update": "20/06/2026 07:41"
 }
