@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.1,
         "manha": 21.3,
-        "tarde": 30.7,
-        "noite": 23.5
+        "tarde": 31.4,
+        "noite": 23.8
     },
     "forecast": {
-        "max": 32.7,
+        "max": 33.4,
         "min": 20.2
     },
     "news": [
+        {
+            "title": "Benfica derrota Sporting e é campeão nacional de hóquei em patins",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/desporto/noticia/benfica-derrota-sporting-campeao-nacional-hoquei-patins-2178931"
+        },
+        {
+            "title": "Dalot diz que a selecção está “blindada” contra aqueles que não querem que ela ganhe",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/desporto/noticia/dalot-seleccao-blindada-nao-querem-ganhe-2178930"
+        },
+        {
+            "title": "Como vai funcionar o plano para “acelerar” energia eólica e solar em Portugal?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/azul/perguntaserespostas/vai-funcionar-plano-acelerar-energia-eolica-solar-portugal-2178537"
+        },
         {
             "title": "José Luís Carneiro considera “ridículas” insinuações sobre coligação com o Chega",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/politica/noticia/jose-luis-carneiro-considera-ridiculas-insinuacoes-coligacao-chega-2178923"
         },
         {
-            "title": "Morreu o super-realizador televisivo James Burrows, co-criador de <em>Cheers, Aquele Bar</em>",
+            "title": "James Burrows (1940-2026) O super-realizador das mil e uma <em>sitcoms</em>",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/culturaipsilon/noticia/morreu-superrealizador-televisivo-james-burrows-cocriador-cheers-bar-2178922"
-        },
-        {
-            "title": "Mais de 100 deputados trabalhistas pedem a Starmer que se afaste: “Não tem qualquer autoridade”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/mundo/noticia/100-deputados-trabalhistas-pedem-starmer-afaste-nao-qualquer-autoridade-2178921"
-        },
-        {
-            "title": "Mulher de Pedro Sánchez vai a julgamento e fica sem passaporte",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/mundo/noticia/mulher-pedro-sanchez-vai-julgamento-fica-passaporte-2178920"
-        },
-        {
-            "title": "O direito de deambular na natureza",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/opiniao/opiniao/direito-deambular-natureza-2178536"
         }
     ],
     "finance": [],
-    "last_update": "20/06/2026 14:59"
+    "last_update": "20/06/2026 16:17"
 }
