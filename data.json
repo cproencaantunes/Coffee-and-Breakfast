@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.1,
         "manha": 21.3,
-        "tarde": 30.9,
-        "noite": 23.9
+        "tarde": 30.7,
+        "noite": 23.5
     },
     "forecast": {
-        "max": 32.6,
-        "min": 20.1
+        "max": 32.7,
+        "min": 20.2
     },
     "news": [
         {
-            "title": "Polónia retira condecoração a Zelenskiy em protesto contra nome dado a unidade militar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/mundo/noticia/polonia-retira-condecoracao-zelenskiy-protesto-nome-dado-unidade-militar-2178910"
+            "title": "Turquia, a primeira grande desilusão do Mundial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/desporto/noticia/turquia-primeira-desilusao-mundial-2178917"
         },
         {
-            "title": "A História exige mais do que certezas fáceis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/opiniao/opiniao/historia-exige-certezas-faceis-2177809"
+            "title": "Mais de 1400 hóteis espanhóis preparam acção milionária contra a Booking",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/economia/noticia/1400-hoteis-espanhois-preparam-accao-milionaria-booking-2178916"
         },
         {
-            "title": "Técnicos de Emergência Pré-Hospitalar criticam ministra da Saúde e pedem reunião a Seguro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/sociedade/noticia/tecnicos-emergencia-prehospitalar-criticam-ministra-saude-pedem-reuniao-seguro-2178905"
+            "title": "Ex-candidato autárquico do Chega na Azambuja acusado de 47 crimes sexuais contra menores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/sociedade/noticia/excandidato-autarquico-chega-azambuja-acusado-47-crimes-sexuais-menores-2178914"
         },
         {
-            "title": "Mais de duas mil queixas sobre táxis e TVDE no Livro de Reclamações Electrónico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/economia/noticia/duas-mil-queixas-taxis-tvde-livro-reclamacoes-electronico-2178907"
+            "title": "Verdelago: o <em>resort</em> da Praia Verde chega ao Verão pleno de novidades",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/fugas/reportagem/verdelago-resort-praia-verde-chega-verao-pleno-novidades-2178302"
         },
         {
-            "title": "Um morto e quase 1700 retirados após incêndio em <em>resort</em> na República Dominicana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/mundo/noticia/morto-quase-1700-retirados-apos-incendio-resort-republica-dominicana-2178906"
+            "title": "O regresso do Renault Twingo, agora 100% eléctrico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/enter/podcast/regresso-renault-twingo-100-electrico-2178833"
         }
     ],
     "finance": [],
-    "last_update": "20/06/2026 10:24"
+    "last_update": "20/06/2026 12:22"
 }
