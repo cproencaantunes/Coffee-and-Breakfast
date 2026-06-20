@@ -1,15 +1,27 @@
 {
     "weather": {
-        "atual": 20.1,
-        "manha": 21.3,
-        "tarde": 31.4,
-        "noite": 24.1
+        "atual": 22.5,
+        "manha": 24.0,
+        "tarde": 33.3,
+        "noite": 25.6
     },
     "forecast": {
-        "max": 33.3,
-        "min": 19.8
+        "max": 28.5,
+        "min": 21.3
     },
     "news": [
+        {
+            "title": "O negócio do solstício",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/opiniao/opiniao/negocio-solsticio-2178925"
+        },
+        {
+            "title": "A nova vaga de óculos inteligentes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/enter/noticia/nova-vaga-oculos-inteligentes-2178666"
+        },
+        {
+            "title": "A Alemanha resolveu o jogo com a Costa do Marfim com o que tinha no banco",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/desporto/noticia/alemanha-resolveu-banco-2178950"
+        },
         {
             "title": "A desVentura do pacote laboral",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/opiniao/opiniao/desventura-pacote-laboral-2178946"
@@ -17,20 +29,8 @@
         {
             "title": "Uma foto com Luís Montenegro? Há quem prefira Passos Coelho",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/politica/reportagem/foto-luis-montenegro-ha-prefira-passos-coelho-2178939"
-        },
-        {
-            "title": "Três novidades na cúpula do PSD: Bugalho, Carlos Moedas e Pedro Duarte",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/politica/noticia/tres-novidades-direccao-psd-bugalho-carlos-moedas-pedro-duarte-2178943"
-        },
-        {
-            "title": "Mais do que um ataque à oposição, uma ode a Montenegro no primeiro dia de congresso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/politica/noticia/ataque-oposicao-ode-montenegro-dia-congresso-2178942"
-        },
-        {
-            "title": "<em>Swim</em>: o BTS, o mar português e a arte de continuar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/publico-brasil/opiniao/swim-bts-mar-portugues-arte-continuar-2178945"
         }
     ],
     "finance": [],
-    "last_update": "20/06/2026 21:58"
+    "last_update": "20/06/2026 23:07"
 }
