@@ -2,14 +2,22 @@
     "weather": {
         "atual": 22.5,
         "manha": 24.0,
-        "tarde": 33.3,
-        "noite": 25.6
+        "tarde": 33.2,
+        "noite": 25.5
     },
     "forecast": {
         "max": 28.5,
         "min": 21.3
     },
     "news": [
+        {
+            "title": "“Sem pedir desculpa”, o <em>enfant terrible</em> Santana Lopes está de regresso ao PSD",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/politica/noticia/pedir-desculpa-enfant-terrible-santana-lopes-regresso-psd-2178956"
+        },
+        {
+            "title": "Mona Khalil, “guardiã das tartarugas” do Líbano, morta em ataque israelita",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/azul/noticia/mona-khalil-guardia-tartarugas-libano-morta-ataque-israelita-2178951"
+        },
         {
             "title": "O negócio do solstício",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/opiniao/opiniao/negocio-solsticio-2178925"
@@ -21,16 +29,8 @@
         {
             "title": "A Alemanha resolveu o jogo com a Costa do Marfim com o que tinha no banco",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/desporto/noticia/alemanha-resolveu-banco-2178950"
-        },
-        {
-            "title": "A desVentura do pacote laboral",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/opiniao/opiniao/desventura-pacote-laboral-2178946"
-        },
-        {
-            "title": "Uma foto com Luís Montenegro? Há quem prefira Passos Coelho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/politica/reportagem/foto-luis-montenegro-ha-prefira-passos-coelho-2178939"
         }
     ],
     "finance": [],
-    "last_update": "20/06/2026 23:07"
+    "last_update": "21/06/2026 02:38"
 }
