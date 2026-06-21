@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 22.5,
-        "manha": 23.9,
-        "tarde": 33.1,
-        "noite": 25.0
+        "atual": 0,
+        "manha": 0,
+        "tarde": 0,
+        "noite": 0
     },
     "forecast": {
-        "max": 26.6,
-        "min": 20.8
+        "max": 0,
+        "min": 0
     },
     "news": [
         {
-            "title": "“Eu nem gosto de brasileiros, mas foi um que me salvou”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/newsletter/impar"
+            "title": "Escritora croata Slavenka Drakulic morre aos 76 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/culturaipsilon/noticia/escritora-croata-slavenka-drakulic-morre-76-anos-2178981"
         },
         {
-            "title": "Pai salta do oitavo andar com filha de quatro anos em Santarém, morreram ambos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/sociedade/noticia/pai-filha-menor-morrem-santarem-apos-queda-oitavo-andar-2178965"
+            "title": "Bolívia entra em estado de emergência para pôr fim a 51 dias de estradas bloqueadas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/mundo/noticia/bolivia-entra-estado-emergencia-fim-51-dias-estradas-bloqueadas-2178975"
         },
         {
-            "title": "Violência no feminino: um paradoxo que o não é",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/ciencia/opiniao/violencia-feminino-paradoxo-nao-2178882"
+            "title": "Montenegro anuncia fundo soberano para participação accionista em “empresas estratégicas”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/politica/noticia/psd-encerra-congresso-lista-direccao-41-70-lugares-conselho-nacional-2178967"
         },
         {
-            "title": "Vera Jardim preocupado com aumento de casos de discriminação religiosa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/sociedade/noticia/vera-jardim-preocupado-aumento-casos-discriminacao-religiosa-2178964"
+            "title": "Portal da queixa regista mais de 200 burlas ligadas aos cromos do Mundial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/desporto/noticia/portal-queixa-regista-200-burlas-ligadas-cromos-mundial-2178977"
         },
         {
-            "title": "Ciclo da destruição, do fogo e da morte",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/opiniao/opiniao/ciclo-destruicao-fogo-morte-2178948"
+            "title": "Pedro Sampaio leva o <em>funk</em> brasileiro ao Rock in Rio Lisboa e recebe tripla platina",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/publico-brasil/noticia/pedro-sampaio-leva-funk-brasileiro-rock-in-rio-lisboa-recebe-tripla-platina-2178962"
         }
     ],
     "finance": [],
-    "last_update": "21/06/2026 10:58"
+    "last_update": "21/06/2026 13:03"
 }
