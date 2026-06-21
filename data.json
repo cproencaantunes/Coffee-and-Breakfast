@@ -2,35 +2,35 @@
     "weather": {
         "atual": 22.5,
         "manha": 23.9,
-        "tarde": 33.1,
-        "noite": 24.9
+        "tarde": 33.0,
+        "noite": 24.7
     },
     "forecast": {
-        "max": 26.7,
-        "min": 20.9
+        "max": 27.5,
+        "min": 20.7
     },
     "news": [
         {
-            "title": "Francisco Conceição garante que não há obrigação de passar a bola a Cristiano Ronaldo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/desporto/noticia/francisco-conceicao-garante-nao-ha-obrigacao-passar-bola-cristiano-ronaldo-2178992"
+            "title": "Entraram jovens e nunca mais de lá saíram: os últimos leprosos do Hospital Rovisco Pais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/local/noticia/entraram-jovens-sairam-ultimos-leprosos-hospital-rovisco-pais-2178866"
         },
         {
-            "title": "PSD entre o choque e a dúvida: será o princípio do fim?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/politica/analise/psd-choque-duvida-sera-principio-fim-2178984"
+            "title": "Marc Márquez vence MotoGP da República Checa e já só está a 40 pontos da liderança",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/desporto/noticia/marc-marquez-vence-motogp-republica-checa-ja-so-40-pontos-lideranca-2178996"
         },
         {
-            "title": "Do fundo soberano ao arrendamento: as dez medidas que Montenegro levou ao congresso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/politica/noticia/fundo-soberano-arrendamento-dez-medidas-montenegro-levou-congresso-2178985"
+            "title": "Como melhorar o sistema de imigração em Portugal? Pela AIMA, dizem imigrantes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/publico-brasil/noticia/melhorar-sistema-imigracao-portugal-aima-imigrantes-2178987"
         },
         {
-            "title": "Imigrantes juntam-se em assembleia para pedir melhorias no sistema migratório português",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/sociedade/noticia/imigrantes-juntamse-assembleia-pedir-melhorias-sistema-migratorio-portugues-2178986"
+            "title": "Há mais utentes inscritos e novos médicos no SNS, mas clínicos não subscrevem o “sucesso” apontado pela ministra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/sociedade/noticia/ha-utentes-inscritos-medicos-sns-clinicos-nao-subscrevem-sucesso-apontado-ministra-2178991"
         },
         {
-            "title": "Na Albânia, a “ilha de Kushner” é rastilho para uma revolta maior contra as elites",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/mundo/noticia/albania-ilha-kushner-rastilho-revolta-maior-elites-2178976"
+            "title": "Morreu Francisco Guterres “Lu Olo”, ex-Presidente de Timor-Leste",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/mundo/noticia/morreu-francisco-guterres-luolo-expresidente-timorleste-2178995"
         }
     ],
     "finance": [],
-    "last_update": "21/06/2026 15:44"
+    "last_update": "21/06/2026 17:17"
 }
