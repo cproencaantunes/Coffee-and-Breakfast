@@ -3,13 +3,17 @@
         "atual": 22.5,
         "manha": 23.9,
         "tarde": 33.0,
-        "noite": 25.1
+        "noite": 24.6
     },
     "forecast": {
-        "max": 27.6,
-        "min": 20.6
+        "max": 27.2,
+        "min": 20.8
     },
     "news": [
+        {
+            "title": "Agora tenho de saber mais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/opiniao/cronica/saber-2178968"
+        },
         {
             "title": "O Dr. Monte e o Mr. Negro",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/opiniao/editorial/dr-monte-mr-negro-2179000"
@@ -25,12 +29,8 @@
         {
             "title": "NAPA ganha platina dupla no Brasil por “Deslocado” e sonha em tocar no país",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/publico-brasil/noticia/napa-ganha-platina-dupla-brasil-deslocado-sonha-tocar-pais-2179001"
-        },
-        {
-            "title": "Autarca de Cascais saúda subconcessão de linha ferroviária e quer gratuitidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/local/noticia/autarca-cascais-sauda-subconcessao-linha-ferroviaria-quer-gratuitidade-2179003"
         }
     ],
     "finance": [],
-    "last_update": "21/06/2026 21:03"
+    "last_update": "21/06/2026 22:59"
 }
