@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 0,
-        "manha": 0,
-        "tarde": 0,
-        "noite": 0
+        "atual": 22.5,
+        "manha": 23.9,
+        "tarde": 33.1,
+        "noite": 24.9
     },
     "forecast": {
-        "max": 0,
-        "min": 0
+        "max": 26.7,
+        "min": 20.9
     },
     "news": [
         {
-            "title": "Escritora croata Slavenka Drakulic morre aos 76 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/culturaipsilon/noticia/escritora-croata-slavenka-drakulic-morre-76-anos-2178981"
+            "title": "Francisco Conceição garante que não há obrigação de passar a bola a Cristiano Ronaldo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/desporto/noticia/francisco-conceicao-garante-nao-ha-obrigacao-passar-bola-cristiano-ronaldo-2178992"
         },
         {
-            "title": "Bolívia entra em estado de emergência para pôr fim a 51 dias de estradas bloqueadas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/mundo/noticia/bolivia-entra-estado-emergencia-fim-51-dias-estradas-bloqueadas-2178975"
+            "title": "PSD entre o choque e a dúvida: será o princípio do fim?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/politica/analise/psd-choque-duvida-sera-principio-fim-2178984"
         },
         {
-            "title": "Montenegro anuncia fundo soberano para participação accionista em “empresas estratégicas”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/politica/noticia/psd-encerra-congresso-lista-direccao-41-70-lugares-conselho-nacional-2178967"
+            "title": "Do fundo soberano ao arrendamento: as dez medidas que Montenegro levou ao congresso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/politica/noticia/fundo-soberano-arrendamento-dez-medidas-montenegro-levou-congresso-2178985"
         },
         {
-            "title": "Portal da queixa regista mais de 200 burlas ligadas aos cromos do Mundial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/desporto/noticia/portal-queixa-regista-200-burlas-ligadas-cromos-mundial-2178977"
+            "title": "Imigrantes juntam-se em assembleia para pedir melhorias no sistema migratório português",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/sociedade/noticia/imigrantes-juntamse-assembleia-pedir-melhorias-sistema-migratorio-portugues-2178986"
         },
         {
-            "title": "Pedro Sampaio leva o <em>funk</em> brasileiro ao Rock in Rio Lisboa e recebe tripla platina",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/publico-brasil/noticia/pedro-sampaio-leva-funk-brasileiro-rock-in-rio-lisboa-recebe-tripla-platina-2178962"
+            "title": "Na Albânia, a “ilha de Kushner” é rastilho para uma revolta maior contra as elites",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/mundo/noticia/albania-ilha-kushner-rastilho-revolta-maior-elites-2178976"
         }
     ],
     "finance": [],
-    "last_update": "21/06/2026 13:03"
+    "last_update": "21/06/2026 15:44"
 }
