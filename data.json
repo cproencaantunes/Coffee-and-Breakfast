@@ -2,35 +2,35 @@
     "weather": {
         "atual": 22.5,
         "manha": 23.9,
-        "tarde": 33.3,
-        "noite": 25.5
+        "tarde": 33.1,
+        "noite": 25.0
     },
     "forecast": {
-        "max": 28.1,
-        "min": 21.3
+        "max": 26.6,
+        "min": 20.8
     },
     "news": [
         {
-            "title": "Estudo mostra que microbiota materna pode revelar saúde da mãe e do recém-nascido",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/ciencia/noticia/estudo-mostra-microbiota-materna-revelar-saude-mae-recemnascido-2178796"
+            "title": "“Eu nem gosto de brasileiros, mas foi um que me salvou”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/newsletter/impar"
         },
         {
-            "title": "Festival de Annecy começa este domingo com animação portuguesa em competição",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/culturaipsilon/noticia/festival-annecy-comeca-domingo-cinema-portugues-animacao-competicao-2178958"
+            "title": "Pai salta do oitavo andar com filha de quatro anos em Santarém, morreram ambos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/sociedade/noticia/pai-filha-menor-morrem-santarem-apos-queda-oitavo-andar-2178965"
         },
         {
-            "title": "Quando o luxo veste o artesanato",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/p3/cronica/luxo-veste-artesanato-2178254"
+            "title": "Violência no feminino: um paradoxo que o não é",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/ciencia/opiniao/violencia-feminino-paradoxo-nao-2178882"
         },
         {
-            "title": "Palcos da semana: Mimo, Babell e outros mundos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/culturaipsilon/noticia/palcos-semana-mimo-babell-mundos-2178863"
+            "title": "Vera Jardim preocupado com aumento de casos de discriminação religiosa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/sociedade/noticia/vera-jardim-preocupado-aumento-casos-discriminacao-religiosa-2178964"
         },
         {
-            "title": "Para o Mundial, o Iraque uniu a equipa dividindo-a ao meio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/desporto/noticia/mundial-iraque-uniu-equipa-dividindoa-meio-2178936"
+            "title": "Ciclo da destruição, do fogo e da morte",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/opiniao/opiniao/ciclo-destruicao-fogo-morte-2178948"
         }
     ],
     "finance": [],
-    "last_update": "21/06/2026 07:24"
+    "last_update": "21/06/2026 10:58"
 }
