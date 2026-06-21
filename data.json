@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 22.5,
-        "manha": 24.0,
-        "tarde": 33.2,
+        "manha": 23.9,
+        "tarde": 33.3,
         "noite": 25.5
     },
     "forecast": {
-        "max": 28.5,
+        "max": 28.1,
         "min": 21.3
     },
     "news": [
         {
-            "title": "“Sem pedir desculpa”, o <em>enfant terrible</em> Santana Lopes está de regresso ao PSD",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/politica/noticia/pedir-desculpa-enfant-terrible-santana-lopes-regresso-psd-2178956"
+            "title": "Estudo mostra que microbiota materna pode revelar saúde da mãe e do recém-nascido",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/ciencia/noticia/estudo-mostra-microbiota-materna-revelar-saude-mae-recemnascido-2178796"
         },
         {
-            "title": "Mona Khalil, “guardiã das tartarugas” do Líbano, morta em ataque israelita",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/azul/noticia/mona-khalil-guardia-tartarugas-libano-morta-ataque-israelita-2178951"
+            "title": "Festival de Annecy começa este domingo com animação portuguesa em competição",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/culturaipsilon/noticia/festival-annecy-comeca-domingo-cinema-portugues-animacao-competicao-2178958"
         },
         {
-            "title": "O negócio do solstício",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/opiniao/opiniao/negocio-solsticio-2178925"
+            "title": "Quando o luxo veste o artesanato",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/p3/cronica/luxo-veste-artesanato-2178254"
         },
         {
-            "title": "A nova vaga de óculos inteligentes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/enter/noticia/nova-vaga-oculos-inteligentes-2178666"
+            "title": "Palcos da semana: Mimo, Babell e outros mundos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/culturaipsilon/noticia/palcos-semana-mimo-babell-mundos-2178863"
         },
         {
-            "title": "A Alemanha resolveu o jogo com a Costa do Marfim com o que tinha no banco",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/20/desporto/noticia/alemanha-resolveu-banco-2178950"
+            "title": "Para o Mundial, o Iraque uniu a equipa dividindo-a ao meio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/desporto/noticia/mundial-iraque-uniu-equipa-dividindoa-meio-2178936"
         }
     ],
     "finance": [],
-    "last_update": "21/06/2026 02:38"
+    "last_update": "21/06/2026 07:24"
 }
