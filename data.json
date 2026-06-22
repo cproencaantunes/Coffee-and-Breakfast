@@ -2,35 +2,35 @@
     "weather": {
         "atual": 23.5,
         "manha": 21.9,
-        "tarde": 27.9,
-        "noite": 22.0
+        "tarde": 29.0,
+        "noite": 22.7
     },
     "forecast": {
-        "max": 28.6,
-        "min": 20.6
+        "max": 28.9,
+        "min": 20.7
     },
     "news": [
         {
-            "title": "Henrique Raposo: “Serei sempre da classe operária”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/politica/noticia/henrique-raposo-classe-operaria-2179034"
+            "title": "Equipa de Oliver Tree homenageia cantor com realização do seu último desejo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/impar/noticia/equipa-oliver-tree-homenageia-cantor-realizacao-ultimo-desejo-2179064"
         },
         {
-            "title": "Ordem dos Médicos quer revisão da lei para travar centros de “medicina integrativa” sem controlo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/ciencia/noticia/ordem-medicos-quer-revisao-lei-travar-centros-medicina-integrativa-controlo-2179041"
+            "title": "Marketa Vondrousova suspensa quatro anos por recusa de teste antidoping",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/desporto/noticia/marketa-vondrousova-suspensa-quatro-anos-recusa-teste-antidoping-2179102"
         },
         {
-            "title": "Conferência de Bona: entre implementação e sal nas feridas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/azul/opiniao/conferencia-bona-implementacao-sal-feridas-2179042"
+            "title": "Chega vai ter de pagar 30 mil euros por falsa sondagem nas legislativas de 2025",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/politica/noticia/chega-vai-pagar-30-mil-euros-falsa-sondagem-legislativas-2025-2179050"
         },
         {
-            "title": "Teatro da Trindade 26/27: <em>Clube dos Poetas Mortos</em> até Dezembro, depois pelo país",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/culturaipsilon/noticia/teatro-trindade-2627-clube-poetas-mortos-ate-dezembro-pais-2179022"
+            "title": "Rede de troca de baterias para camiões elétricos chega à Europa em 2027",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/enter/noticia/rede-troca-baterias-camioes-eletricos-chega-europa-2027-2179076"
         },
         {
-            "title": "Colômbia rende-se à direita radical de De la Espriella, apontado como próximo Presidente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/mundo/noticia/colombia-rendese-direita-radical-espriella-apontado-proximo-presidente-2179040"
+            "title": "Imigração e saúde: porque o diagnóstico não pode parar na fronteira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/publico-brasil/opiniao/imigracao-saude-diagnostico-nao-parar-fronteira-2179100"
         }
     ],
     "finance": [],
-    "last_update": "22/06/2026 12:41"
+    "last_update": "22/06/2026 17:24"
 }
