@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 22.5,
-        "manha": 23.9,
-        "tarde": 33.0,
-        "noite": 24.6
+        "atual": 23.5,
+        "manha": 21.6,
+        "tarde": 25.7,
+        "noite": 21.4
     },
     "forecast": {
-        "max": 27.2,
-        "min": 20.8
+        "max": 27.8,
+        "min": 20.0
     },
     "news": [
+        {
+            "title": "Benfica vence Sporting nos penáltis e fica a uma vitória de ser campeão de futsal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/desporto/noticia/benfica-vence-sporting-penaltis-fica-vitoria-campeao-futsal-2179006"
+        },
         {
             "title": "Agora tenho de saber mais",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/opiniao/cronica/saber-2178968"
@@ -25,12 +29,8 @@
         {
             "title": "Após duas mortes de crianças em contexto familiar, pede-se mais atenção aos sinais de perigo",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/sociedade/noticia/apos-duas-mortes-criancas-contexto-familiar-pedese-atencao-sinais-perigo-2179002"
-        },
-        {
-            "title": "NAPA ganha platina dupla no Brasil por “Deslocado” e sonha em tocar no país",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/publico-brasil/noticia/napa-ganha-platina-dupla-brasil-deslocado-sonha-tocar-pais-2179001"
         }
     ],
     "finance": [],
-    "last_update": "21/06/2026 22:59"
+    "last_update": "22/06/2026 00:11"
 }
