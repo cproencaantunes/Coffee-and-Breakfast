@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 23.5,
-        "manha": 21.7,
-        "tarde": 27.6,
-        "noite": 21.9
+        "manha": 21.9,
+        "tarde": 27.9,
+        "noite": 22.0
     },
     "forecast": {
-        "max": 28.2,
-        "min": 20.3
+        "max": 28.6,
+        "min": 20.6
     },
     "news": [
         {
-            "title": "Associações da área da violência doméstica e tráfico humano alertam para risco de colapso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/sociedade/noticia/associacoes-area-violencia-domestica-trafico-humano-alertam-risco-colapso-2178647"
+            "title": "Henrique Raposo: “Serei sempre da classe operária”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/politica/noticia/henrique-raposo-classe-operaria-2179034"
         },
         {
-            "title": "O concurso de professores: um modelo que falha às escolas, aos docentes e aos alunos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/opiniao/opiniao/concurso-professores-modelo-falha-escolas-docentes-alunos-2178664"
+            "title": "Ordem dos Médicos quer revisão da lei para travar centros de “medicina integrativa” sem controlo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/ciencia/noticia/ordem-medicos-quer-revisao-lei-travar-centros-medicina-integrativa-controlo-2179041"
         },
         {
-            "title": "Regulador da saúde condenou clínica que se promovia como “medicina integrativa”. Mas há 54 centros a fazê-lo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/ciencia/noticia/regulador-saude-condenou-clinica-promovia-medicina-integrativa-ha-54-centros-fazelo-2178611"
+            "title": "Conferência de Bona: entre implementação e sal nas feridas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/azul/opiniao/conferencia-bona-implementacao-sal-feridas-2179042"
         },
         {
-            "title": "Centros de “medicina integrativa” ganharam mais de um milhão de euros em fundos europeus",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/ciencia/noticia/centros-medicina-integrativa-ganharam-milhao-euros-fundos-europeus-2178607"
+            "title": "Teatro da Trindade 26/27: <em>Clube dos Poetas Mortos</em> até Dezembro, depois pelo país",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/culturaipsilon/noticia/teatro-trindade-2627-clube-poetas-mortos-ate-dezembro-pais-2179022"
         },
         {
-            "title": "De onde vêm a medicina “integrativa” ou a “funcional”?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/ciencia/noticia/onde-vem-medicina-integrativa-funcional-2178608"
+            "title": "Colômbia rende-se à direita radical de De la Espriella, apontado como próximo Presidente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/mundo/noticia/colombia-rendese-direita-radical-espriella-apontado-proximo-presidente-2179040"
         }
     ],
     "finance": [],
-    "last_update": "22/06/2026 06:19"
+    "last_update": "22/06/2026 12:41"
 }
