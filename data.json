@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 23.5,
-        "manha": 21.9,
-        "tarde": 29.0,
-        "noite": 22.9
+        "atual": 22.3,
+        "manha": 21.8,
+        "tarde": 28.8,
+        "noite": 24.1
     },
     "forecast": {
-        "max": 29.0,
-        "min": 20.5
+        "max": 24.1,
+        "min": 18.8
     },
     "news": [
         {
-            "title": "Português que liderava escolas de Los Angeles demite-se meses após buscas do FBI",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/mundo/noticia/portugues-liderava-escolas-los-angeles-demitese-meses-apos-buscas-fbi-2179130"
+            "title": "Kim Jong-Un garante que Coreia do Norte vai exercer a sua condição de Estado nuclear",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/mundo/noticia/kim-jongun-coreia-norte-vai-exercer-condicao-estado-nuclear-2179132"
         },
         {
-            "title": "Gabinete do primeiro-ministro alerta para fraude em nome de Luís Montenegro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/sociedade/noticia/gabinete-primeiroministro-alerta-fraude-nome-luis-montenegro-2179129"
+            "title": "Já se pode dizer que a maioria de direita é um unicórnio?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/opiniao/opiniao/ja-dizer-maioria-direita-unicornio-2178978"
         },
         {
-            "title": "O “fundo soberano”: descobrimos petróleo e ninguém avisou?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/opiniao/opiniao/fundo-soberano-descobrimos-petroleo-ninguem-avisou-2179049"
+            "title": "Para que serve o relatório do combate à fraude fiscal?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/opiniao/opiniao/serve-relatorio-combate-fraude-fiscal-2179077"
         },
         {
-            "title": "Cometa 3I/ATLAS que passou “perto” da Terra remonta aos primórdios do Universo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/ciencia/noticia/cometa-3iatlas-passou-perto-terra-remonta-primordios-universo-2179127"
+            "title": "O PSD tem razões para dizer que já chega",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/opiniao/opiniao/psd-razoes-dizer-ja-chega-2179098"
         },
         {
-            "title": "Yusupov conduziu 26 horas para jogar pelo Uzbequistão. Quantos já fizeram isso?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/desporto/noticia/yusupov-conduziu-26-horas-jogar-uzebquistao-ja-fizeram-2179086"
+            "title": "Como formar engenheiros para um mundo que já mudou? O GENI – Curso Geral de Engenharia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/opiniao/opiniao/formar-engenheiros-mundo-ja-mudou-geni-curso-geral-engenharia-2176188"
         }
     ],
     "finance": [],
-    "last_update": "22/06/2026 22:40"
+    "last_update": "22/06/2026 23:59"
 }
