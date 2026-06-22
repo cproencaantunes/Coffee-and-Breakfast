@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 23.5,
-        "manha": 21.6,
-        "tarde": 25.7,
-        "noite": 21.4
+        "manha": 21.7,
+        "tarde": 27.6,
+        "noite": 21.9
     },
     "forecast": {
-        "max": 27.8,
-        "min": 20.0
+        "max": 28.2,
+        "min": 20.3
     },
     "news": [
         {
-            "title": "Benfica vence Sporting nos penáltis e fica a uma vitória de ser campeão de futsal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/desporto/noticia/benfica-vence-sporting-penaltis-fica-vitoria-campeao-futsal-2179006"
+            "title": "Associações da área da violência doméstica e tráfico humano alertam para risco de colapso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/sociedade/noticia/associacoes-area-violencia-domestica-trafico-humano-alertam-risco-colapso-2178647"
         },
         {
-            "title": "Agora tenho de saber mais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/opiniao/cronica/saber-2178968"
+            "title": "O concurso de professores: um modelo que falha às escolas, aos docentes e aos alunos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/opiniao/opiniao/concurso-professores-modelo-falha-escolas-docentes-alunos-2178664"
         },
         {
-            "title": "O Dr. Monte e o Mr. Negro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/opiniao/editorial/dr-monte-mr-negro-2179000"
+            "title": "Regulador da saúde condenou clínica que se promovia como “medicina integrativa”. Mas há 54 centros a fazê-lo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/ciencia/noticia/regulador-saude-condenou-clinica-promovia-medicina-integrativa-ha-54-centros-fazelo-2178611"
         },
         {
-            "title": "Ser pobre é triste, ser triste é uma desgraça",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/p3/cronica/pobre-triste-triste-desgraca-2178247"
+            "title": "Centros de “medicina integrativa” ganharam mais de um milhão de euros em fundos europeus",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/ciencia/noticia/centros-medicina-integrativa-ganharam-milhao-euros-fundos-europeus-2178607"
         },
         {
-            "title": "Após duas mortes de crianças em contexto familiar, pede-se mais atenção aos sinais de perigo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/21/sociedade/noticia/apos-duas-mortes-criancas-contexto-familiar-pedese-atencao-sinais-perigo-2179002"
+            "title": "De onde vêm a medicina “integrativa” ou a “funcional”?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/22/ciencia/noticia/onde-vem-medicina-integrativa-funcional-2178608"
         }
     ],
     "finance": [],
-    "last_update": "22/06/2026 00:11"
+    "last_update": "22/06/2026 06:19"
 }
