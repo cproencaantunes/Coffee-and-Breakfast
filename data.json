@@ -2,35 +2,35 @@
     "weather": {
         "atual": 22.3,
         "manha": 21.8,
-        "tarde": 29.1,
-        "noite": 23.4
+        "tarde": 29.2,
+        "noite": 23.0
     },
     "forecast": {
-        "max": 24.3,
+        "max": 24.6,
         "min": 19.4
     },
     "news": [
         {
-            "title": "Polícia de Londres investe em câmaras fixas de reconhecimento facial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/enter/noticia/policia-londres-investe-camaras-fixas-reconhecimento-facial-2179164"
+            "title": "Revisão do Plano de Urbanização admite mais de 7.000 novos fogos em Évora",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/local/noticia/revisao-plano-urbanizacao-admite-7000-novos-fogos-evora-2179222"
         },
         {
-            "title": "Onde pára o cinema político? Três dias para começar a recuperar a nossa memória",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/culturaipsilon/noticia/onde-cinema-politico-tres-dias-comecar-recuperar-memoria-2179142"
+            "title": "Marte é marketing: fortunas continuam a ser acumulada na Terra com suor e sangue",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/publico-brasil/opiniao/marte-marketing-fortunas-continuam-acumulada-terra-suor-sangue-2179221"
         },
         {
-            "title": "Preços da habitação ainda sobem mas abrandaram pela primeira vez em quase dois anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/economia/noticia/precos-habitacao-sobem-abrandaram-primeira-quase-dois-anos-2179172"
+            "title": "Israel continua a matar deliberadamente crianças palestinianas, conclui comissão da ONU",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/mundo/noticia/israel-continua-matar-deliberadamente-criancas-palestinianas-conclui-comissao-onu-2179213"
         },
         {
-            "title": "Quer assistir ao retorno de Neymar à Seleção Brasileira contra a Escócia? Saiba onde",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/publico-brasil/noticia/quer-assistir-retorno-neymar-selecao-brasileira-escocia-saiba-onde-2179131"
+            "title": "Henrique Raposo: “Os miúdos que agora têm 20 anos são muito mais reaccionários”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/video/henrique-raposo-miudos-20-anos-sao-reaccionarios-20260623-145041"
         },
         {
-            "title": "Exame de Matemática B: veja aqui a prova e os critérios de correcção",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/sociedade/noticia/exame-matematica-b-veja-aqui-prova-criterios-correccao-2179170"
+            "title": "Fertagus conta ter duas novas carruagens no primeiro semestre de 2027",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/local/noticia/fertagus-conta-duas-novas-carruagens-semestre-2027-2179218"
         }
     ],
     "finance": [],
-    "last_update": "23/06/2026 13:34"
+    "last_update": "23/06/2026 16:19"
 }
