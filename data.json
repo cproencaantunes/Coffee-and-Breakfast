@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 22.3,
-        "manha": 21.8,
-        "tarde": 28.8,
-        "noite": 24.1
+        "manha": 21.7,
+        "tarde": 29.1,
+        "noite": 24.7
     },
     "forecast": {
-        "max": 24.1,
-        "min": 18.8
+        "max": 24.7,
+        "min": 19.0
     },
     "news": [
         {
-            "title": "O triunfo da França (e de Mbappé) sobre o Iraque durou quatro horas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/desporto/noticia/triunfo-franca-mbappe-iraque-durou-quatro-horas-2179139"
+            "title": "Despertador: Secretas não foram informadas de ameaças contra Luís Montenegro e Marcelo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/newsletter/despertador"
         },
         {
-            "title": "Selecção com extremos interiores? Para Martínez, “não é uma questão”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/desporto/noticia/seleccao-extremos-interiores-martinez-nao-questao-2179133"
+            "title": "Sepultura se despede sem volta. “Arrependimento zero”, diz Andreas Kisser",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/publico-brasil/noticia/sepultura-despede-volta-arrependimento-zero-andreas-kisser-2179128"
         },
         {
-            "title": "Sebastião Bugalho, Carlos Moedas e Pedro Duarte: Montenegro já prepara a sucessão?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/politica/noticia/sebastiao-bugalho-carlos-moedas-pedro-duarte-montenegro-ja-prepara-sucessao-2179137"
+            "title": "Oeiras será uma das cidades anfitriãs da <em> Science Comes to Town</em> em 2027",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/ciencia/noticia/oeiras-sera-cidades-anfitrias-da-science-comes-to-town-2027-2178717"
         },
         {
-            "title": "Kim Jong-Un garante que Coreia do Norte vai exercer a sua condição de Estado nuclear",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/mundo/noticia/kim-jongun-coreia-norte-vai-exercer-condicao-estado-nuclear-2179132"
+            "title": "Augusto Inácio: “Um mês antes do Mundial, o médico da selecção diz-me assim, ‘Tu foste por uma unha negra’”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/desporto/noticia/augusto-inacio-mes-mundial-medico-seleccao-dizme-assim-foste-unha-negra-2179025"
         },
         {
-            "title": "Já se pode dizer que a maioria de direita é um unicórnio?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/opiniao/opiniao/ja-dizer-maioria-direita-unicornio-2178978"
+            "title": "Secretas não foram informadas de ameaças contra Luís Montenegro e Marcelo Rebelo de Sousa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/sociedade/noticia/secretas-nao-informadas-ameacas-luis-montenegro-marcelo-rebelo-sousa-2179119"
         }
     ],
     "finance": [],
-    "last_update": "23/06/2026 03:34"
+    "last_update": "23/06/2026 07:37"
 }
