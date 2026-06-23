@@ -2,35 +2,35 @@
     "weather": {
         "atual": 22.3,
         "manha": 21.8,
-        "tarde": 28.5,
-        "noite": 24.6
+        "tarde": 29.1,
+        "noite": 23.4
     },
     "forecast": {
-        "max": 24.4,
-        "min": 19.1
+        "max": 24.3,
+        "min": 19.4
     },
     "news": [
         {
-            "title": "EUA investigam acidente mortal com Tesla no Texas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/enter/noticia/eua-investigam-acidente-mortal-tesla-texas-2179156"
+            "title": "Polícia de Londres investe em câmaras fixas de reconhecimento facial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/enter/noticia/policia-londres-investe-camaras-fixas-reconhecimento-facial-2179164"
         },
         {
-            "title": "Era para ser secreta, mas a prova de Matemática do 9.º ano “está a circular” na Internet",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/sociedade/noticia/secreta-prova-matematica-9-ano-circular-internet-2179147"
+            "title": "Onde pára o cinema político? Três dias para começar a recuperar a nossa memória",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/culturaipsilon/noticia/onde-cinema-politico-tres-dias-comecar-recuperar-memoria-2179142"
         },
         {
-            "title": "Emissão de dívida, diluição de capital e lucro rápido põem SpaceX a cair na vertical",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/economia/noticia/emissao-divida-diluicao-capital-lucro-rapido-poem-spacex-cair-vertical-2179154"
+            "title": "Preços da habitação ainda sobem mas abrandaram pela primeira vez em quase dois anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/economia/noticia/precos-habitacao-sobem-abrandaram-primeira-quase-dois-anos-2179172"
         },
         {
-            "title": "<em>Toy Story 5 </em>percebeu o problema da tecnologia. Depois desligou-se dele",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/p3/cronica/toy-story-5-percebeu-problema-tecnologia-desligouse-2179066"
+            "title": "Quer assistir ao retorno de Neymar à Seleção Brasileira contra a Escócia? Saiba onde",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/publico-brasil/noticia/quer-assistir-retorno-neymar-selecao-brasileira-escocia-saiba-onde-2179131"
         },
         {
-            "title": "Sistema Volta avança, mas Deco diz que há falta de informação sobre regras de devolução",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/azul/noticia/sistema-volta-avanca-deco-ha-falta-informacao-regras-devolucao-2179151"
+            "title": "Exame de Matemática B: veja aqui a prova e os critérios de correcção",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/sociedade/noticia/exame-matematica-b-veja-aqui-prova-criterios-correccao-2179170"
         }
     ],
     "finance": [],
-    "last_update": "23/06/2026 10:53"
+    "last_update": "23/06/2026 13:34"
 }
