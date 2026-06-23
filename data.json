@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 22.3,
-        "manha": 21.7,
-        "tarde": 29.1,
-        "noite": 24.7
+        "manha": 21.8,
+        "tarde": 28.5,
+        "noite": 24.6
     },
     "forecast": {
-        "max": 24.7,
-        "min": 19.0
+        "max": 24.4,
+        "min": 19.1
     },
     "news": [
         {
-            "title": "Despertador: Secretas não foram informadas de ameaças contra Luís Montenegro e Marcelo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/newsletter/despertador"
+            "title": "EUA investigam acidente mortal com Tesla no Texas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/enter/noticia/eua-investigam-acidente-mortal-tesla-texas-2179156"
         },
         {
-            "title": "Sepultura se despede sem volta. “Arrependimento zero”, diz Andreas Kisser",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/publico-brasil/noticia/sepultura-despede-volta-arrependimento-zero-andreas-kisser-2179128"
+            "title": "Era para ser secreta, mas a prova de Matemática do 9.º ano “está a circular” na Internet",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/sociedade/noticia/secreta-prova-matematica-9-ano-circular-internet-2179147"
         },
         {
-            "title": "Oeiras será uma das cidades anfitriãs da <em> Science Comes to Town</em> em 2027",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/ciencia/noticia/oeiras-sera-cidades-anfitrias-da-science-comes-to-town-2027-2178717"
+            "title": "Emissão de dívida, diluição de capital e lucro rápido põem SpaceX a cair na vertical",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/economia/noticia/emissao-divida-diluicao-capital-lucro-rapido-poem-spacex-cair-vertical-2179154"
         },
         {
-            "title": "Augusto Inácio: “Um mês antes do Mundial, o médico da selecção diz-me assim, ‘Tu foste por uma unha negra’”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/desporto/noticia/augusto-inacio-mes-mundial-medico-seleccao-dizme-assim-foste-unha-negra-2179025"
+            "title": "<em>Toy Story 5 </em>percebeu o problema da tecnologia. Depois desligou-se dele",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/p3/cronica/toy-story-5-percebeu-problema-tecnologia-desligouse-2179066"
         },
         {
-            "title": "Secretas não foram informadas de ameaças contra Luís Montenegro e Marcelo Rebelo de Sousa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/sociedade/noticia/secretas-nao-informadas-ameacas-luis-montenegro-marcelo-rebelo-sousa-2179119"
+            "title": "Sistema Volta avança, mas Deco diz que há falta de informação sobre regras de devolução",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/23/azul/noticia/sistema-volta-avanca-deco-ha-falta-informacao-regras-devolucao-2179151"
         }
     ],
     "finance": [],
-    "last_update": "23/06/2026 07:37"
+    "last_update": "23/06/2026 10:53"
 }
