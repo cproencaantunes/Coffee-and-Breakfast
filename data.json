@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.7,
         "manha": 20.9,
-        "tarde": 24.0,
-        "noite": 20.9
+        "tarde": 23.7,
+        "noite": 20.7
     },
     "forecast": {
-        "max": 23.6,
-        "min": 19.0
+        "max": 23.5,
+        "min": 18.8
     },
     "news": [
         {
-            "title": "Seleção Brasileira enfrenta a Escócia com o peso de provar que pode ser campeã",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/24/publico-brasil/noticia/selecao-brasileira-enfrenta-escocia-peso-provar-campea-2179300"
+            "title": "Cerca de 15% da população de Figueiró dos Vinhos continua sem telecomunicações",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/24/local/noticia/cerca-15-populacao-figueiro-vinhos-continua-telecomunicacoes-2179332"
         },
         {
-            "title": "Parlamento tenta nova eleição de Luísa Neto para provedora de Justiça a 3 de Julho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/24/politica/noticia/parlamento-tenta-nova-eleicao-luisa-neto-provedora-justica-3-julho-2179296"
+            "title": "Os últimos dias de Marianne Faithfull",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/24/culturaipsilon/critica/ultimos-dias-marianne-faithfull-2178799"
         },
         {
-            "title": "Meia tonelada de droga apreendida na “auto-estrada da cocaína” em acção da Polícia Judiciária",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/24/sociedade/noticia/meia-tonelada-droga-apreendida-autoestrada-cocaina-accao-policia-judiciaria-2179299"
+            "title": "Olha o balão do São João",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/24/fotogaleria/olha-balao-sao-joao-415685"
         },
         {
-            "title": "Governo prolonga cheque-livro até 31 de Agosto após emissão de 40 mil vouchers",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/24/culturaipsilon/noticia/governo-prolonga-chequelivro-ate-31-agosto-apos-emissao-40-mil-vouchers-2179298"
+            "title": "O teatro da existência em <em>Broken English</em>, retrato inteiro de Marianne Faithfull",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/24/culturaipsilon/noticia/teatro-existencia-broken-english-retrato-inteiro-marianne-faithfull-2178929"
         },
         {
-            "title": "Têm peso a mais, fazem pouco exercício e comem legumes a menos: o retrato da saúde em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/24/sociedade/noticia/peso-fazem-exercicio-comem-legumes-menos-retrato-saude-portugal-2179289"
+            "title": "Saúde oral mantém-se um problema. Quase 12% avalia a sua situação como má",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/24/sociedade/noticia/saude-oral-mantemse-problema-quase-12-avalia-situacao-ma-2179316"
         }
     ],
     "finance": [],
-    "last_update": "24/06/2026 13:10"
+    "last_update": "24/06/2026 16:07"
 }
