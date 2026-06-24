@@ -3,34 +3,34 @@
         "atual": 20.7,
         "manha": 20.9,
         "tarde": 23.7,
-        "noite": 20.7
+        "noite": 20.8
     },
     "forecast": {
         "max": 23.5,
-        "min": 18.8
+        "min": 18.9
     },
     "news": [
         {
-            "title": "Cerca de 15% da população de Figueiró dos Vinhos continua sem telecomunicações",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/24/local/noticia/cerca-15-populacao-figueiro-vinhos-continua-telecomunicacoes-2179332"
+            "title": "Pé na areia, sal na pele e lata para passear",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/24/newsletter/relaxar"
         },
         {
-            "title": "Os últimos dias de Marianne Faithfull",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/24/culturaipsilon/critica/ultimos-dias-marianne-faithfull-2178799"
+            "title": "Oito alunas acusadas de homicídio por incêndio em escola do Quénia que matou 16 pessoas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/24/mundo/noticia/oito-alunas-acusadas-homicidio-incendio-escola-quenia-matou-16-pessoas-2179353"
         },
         {
-            "title": "Olha o balão do São João",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/24/fotogaleria/olha-balao-sao-joao-415685"
+            "title": "A gesta histórica de Cabo Verde até onde poderá chegar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/24/mundo/podcast/gesta-historica-cabo-verde-ate-onde-podera-chegar-2179363"
         },
         {
-            "title": "O teatro da existência em <em>Broken English</em>, retrato inteiro de Marianne Faithfull",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/24/culturaipsilon/noticia/teatro-existencia-broken-english-retrato-inteiro-marianne-faithfull-2178929"
+            "title": "FMI detecta falhas na independência orçamental dos reguladores em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/24/economia/noticia/fmi-detecta-falhas-independencia-orcamental-reguladores-portugal-2179360"
         },
         {
-            "title": "Saúde oral mantém-se um problema. Quase 12% avalia a sua situação como má",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/24/sociedade/noticia/saude-oral-mantemse-problema-quase-12-avalia-situacao-ma-2179316"
+            "title": "D. Maria II está de regresso a casa com <em>Macbeth</em>, Gil Vicente e imigração",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/24/culturaipsilon/noticia/d-maria-ii-regresso-casa-macbeth-gil-vicente-imigracao-2179305"
         }
     ],
     "finance": [],
-    "last_update": "24/06/2026 16:07"
+    "last_update": "24/06/2026 18:26"
 }
