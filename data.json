@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.7,
         "manha": 20.0,
-        "tarde": 22.7,
+        "tarde": 22.8,
         "noite": 21.0
     },
     "forecast": {
-        "max": 24.3,
+        "max": 24.4,
         "min": 20.0
     },
     "news": [
         {
-            "title": "Equipa portuguesa participa em descoberta mundial de ADN pré-histórico em arte rupestre",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/ciencia/noticia/equipa-portuguesa-participa-descoberta-mundial-adn-prehistorico-arte-rupestre-2179395"
+            "title": "Junta de São Vicente exige em tribunal acesso a documentos sobre Quartel da Graça",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/local/noticia/junta-sao-vicente-exige-tribunal-acesso-documentos-quartel-graca-2179430"
         },
         {
-            "title": "Afinal, os engenheiros informáticos estão a resistir bem à inteligência artificial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/enter/noticia/afinal-engenheiros-informaticos-estao-resistir-bem-inteligencia-artificial-2179399"
+            "title": "Hoje não falamos de clima porque está muito calor ",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/newsletter/azul"
         },
         {
-            "title": "<em>Broken English</em>, <em>Little Trouble Girls</em> e outras estreias para esta semana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/culturaipsilon/noticia/broken-english-little-trouble-girls-estreias-semana-2178748"
+            "title": "Eduqa reconhece “atrasos” na classificação dos exames. Professores terão até 10 de Julho para concluírem correcções",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/sociedade/noticia/eduqa-reconhece-atrasos-classificacao-exames-professores-terao-ate-10-julho-concluirem-correccoes-2179407"
         },
         {
-            "title": "Nova taxa de resíduos agrava penalização às entidades gestoras",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/azul/noticia/nova-taxa-residuos-agrava-penalizacao-entidades-gestoras-2179203"
+            "title": "EDP agnóstica sobre ter fundo soberano português como accionista: “É um mercado livre”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/economia/noticia/edp-agnostica-fundo-soberano-portugues-accionista-mercado-livre-2179415"
         },
         {
-            "title": "Como os brinquedos de lata contam a história de Portugal entre 1920 e 1960",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/impar/noticia/brinquedos-lata-contam-historia-portugal-1920-1960-2179349"
+            "title": "Exame de Física e Química A: veja aqui a prova e os critérios de correcção",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/sociedade/noticia/exame-fisica-quimica-veja-aqui-prova-criterios-correccao-2179426"
         }
     ],
     "finance": [],
-    "last_update": "25/06/2026 10:10"
+    "last_update": "25/06/2026 13:09"
 }
