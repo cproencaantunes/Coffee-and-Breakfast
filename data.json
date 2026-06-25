@@ -3,34 +3,34 @@
         "atual": 19.7,
         "manha": 20.0,
         "tarde": 22.5,
-        "noite": 20.7
+        "noite": 20.6
     },
     "forecast": {
-        "max": 24.2,
-        "min": 19.8
+        "max": 23.9,
+        "min": 19.7
     },
     "news": [
         {
-            "title": "Mirabilis branco, das vinhas velhas do Douro para o mundo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/terroir/noticia/mirabilis-branco-vinhas-velhas-douro-mundo-2179176"
+            "title": "O “assassino de monopólios” entra na disputa entre China e EUA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/publico-brasil/opiniao/assassino-monopolios-entra-disputa-china-eua-2179504"
         },
         {
-            "title": "Governo aprova alterações aos contratos públicos e deixa cair preço-base obrigatório",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/politica/noticia/governo-aprova-alteracoes-contratos-publicos-deixa-cair-precobase-obrigatorio-2179460"
+            "title": "Plateia pede que Governo repense regras de atribuição do Subsídio de Mérito Cultural",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/culturaipsilon/noticia/plateia-pede-governo-repense-regras-atribuicao-subsidio-merito-cultural-2179505"
         },
         {
-            "title": "TAP permite alterar voos de e para Caracas e diz que tripulação está em segurança",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/economia/noticia/tap-permite-alterar-voos-caracas-tripulacao-seguranca-2179467"
+            "title": "António José Seguro encontra-se com Macron a 1 de Julho em Paris",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/politica/noticia/antonio-jose-seguro-encontrase-macron-1-julho-paris-2179499"
         },
         {
-            "title": "“Dificuldades técnicas” emperram a máquina dos exames",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/newsletter/educacao"
+            "title": "David Clayton-Thomas (1941-2026), a voz imponente dos Blood, Sweat & Tears",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/culturaipsilon/noticia/david-claytonthomas-19412026-voz-imponente-blood-sweat-tears-2179498"
         },
         {
-            "title": "Pesados proibidos de circular na VCI durante a semana entre as sete e as 21 horas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/local/noticia/pesados-proibidos-circular-vci-durante-semana-sete-21-horas-2179465"
+            "title": "Crise de <em>chips </em>faz disparar os preços dos MacBook e iPad",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/enter/noticia/crise-chips-faz-disparar-precos-macbook-ipad-2179450"
         }
     ],
     "finance": [],
-    "last_update": "25/06/2026 16:14"
+    "last_update": "25/06/2026 19:00"
 }
