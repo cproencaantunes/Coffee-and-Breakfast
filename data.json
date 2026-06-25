@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 19.7,
-        "manha": 20.1,
-        "tarde": 23.1,
+        "manha": 20.0,
+        "tarde": 22.7,
         "noite": 21.0
     },
     "forecast": {
-        "max": 24.5,
-        "min": 20.1
+        "max": 24.3,
+        "min": 20.0
     },
     "news": [
         {
-            "title": "Um Parlamento em nada europeu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/publico-brasil/opiniao/parlamento-nada-europeu-2179377"
+            "title": "Equipa portuguesa participa em descoberta mundial de ADN pré-histórico em arte rupestre",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/ciencia/noticia/equipa-portuguesa-participa-descoberta-mundial-adn-prehistorico-arte-rupestre-2179395"
         },
         {
-            "title": "Células estaminais “eliminam” doença auto-imune grave durante mais de 15 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/ciencia/noticia/celulas-estaminais-eliminam-doenca-autoimune-grave-durante-15-anos-2179344"
+            "title": "Afinal, os engenheiros informáticos estão a resistir bem à inteligência artificial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/enter/noticia/afinal-engenheiros-informaticos-estao-resistir-bem-inteligencia-artificial-2179399"
         },
         {
-            "title": "Sem Chega e com 600 milhões em jogo, PSD vira-se para o PS e garante PSU",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/politica/noticia/chega-agarrar-600-milhoes-euros-psd-virase-ps-garante-psu-2179374"
+            "title": "<em>Broken English</em>, <em>Little Trouble Girls</em> e outras estreias para esta semana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/culturaipsilon/noticia/broken-english-little-trouble-girls-estreias-semana-2178748"
         },
         {
-            "title": "Este não é “mais um filme” sobre o golpe de Estado no Chile",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/culturaipsilon/noticia/nao-filme-golpe-estado-chile-2179273"
+            "title": "Nova taxa de resíduos agrava penalização às entidades gestoras",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/azul/noticia/nova-taxa-residuos-agrava-penalizacao-entidades-gestoras-2179203"
         },
         {
-            "title": "A nova prestação social única negociada entre PSD e PS deixa os imigrantes em paz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/sociedade/podcast/nova-prestacao-social-unica-negociada-psd-ps-deixa-imigrantes-paz-2179388"
+            "title": "Como os brinquedos de lata contam a história de Portugal entre 1920 e 1960",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/impar/noticia/brinquedos-lata-contam-historia-portugal-1920-1960-2179349"
         }
     ],
     "finance": [],
-    "last_update": "25/06/2026 06:39"
+    "last_update": "25/06/2026 10:10"
 }
