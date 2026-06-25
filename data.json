@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.7,
         "manha": 20.0,
-        "tarde": 22.8,
-        "noite": 21.0
+        "tarde": 22.5,
+        "noite": 20.7
     },
     "forecast": {
-        "max": 24.4,
-        "min": 20.0
+        "max": 24.2,
+        "min": 19.8
     },
     "news": [
         {
-            "title": "Junta de São Vicente exige em tribunal acesso a documentos sobre Quartel da Graça",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/local/noticia/junta-sao-vicente-exige-tribunal-acesso-documentos-quartel-graca-2179430"
+            "title": "Mirabilis branco, das vinhas velhas do Douro para o mundo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/terroir/noticia/mirabilis-branco-vinhas-velhas-douro-mundo-2179176"
         },
         {
-            "title": "Hoje não falamos de clima porque está muito calor ",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/newsletter/azul"
+            "title": "Governo aprova alterações aos contratos públicos e deixa cair preço-base obrigatório",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/politica/noticia/governo-aprova-alteracoes-contratos-publicos-deixa-cair-precobase-obrigatorio-2179460"
         },
         {
-            "title": "Eduqa reconhece “atrasos” na classificação dos exames. Professores terão até 10 de Julho para concluírem correcções",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/sociedade/noticia/eduqa-reconhece-atrasos-classificacao-exames-professores-terao-ate-10-julho-concluirem-correccoes-2179407"
+            "title": "TAP permite alterar voos de e para Caracas e diz que tripulação está em segurança",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/economia/noticia/tap-permite-alterar-voos-caracas-tripulacao-seguranca-2179467"
         },
         {
-            "title": "EDP agnóstica sobre ter fundo soberano português como accionista: “É um mercado livre”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/economia/noticia/edp-agnostica-fundo-soberano-portugues-accionista-mercado-livre-2179415"
+            "title": "“Dificuldades técnicas” emperram a máquina dos exames",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/newsletter/educacao"
         },
         {
-            "title": "Exame de Física e Química A: veja aqui a prova e os critérios de correcção",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/sociedade/noticia/exame-fisica-quimica-veja-aqui-prova-criterios-correccao-2179426"
+            "title": "Pesados proibidos de circular na VCI durante a semana entre as sete e as 21 horas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/local/noticia/pesados-proibidos-circular-vci-durante-semana-sete-21-horas-2179465"
         }
     ],
     "finance": [],
-    "last_update": "25/06/2026 13:09"
+    "last_update": "25/06/2026 16:14"
 }
