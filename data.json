@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.2,
-        "manha": 20.8,
-        "tarde": 24.3,
-        "noite": 21.7
+        "atual": 20.0,
+        "manha": 20.2,
+        "tarde": 25.6,
+        "noite": 21.4
     },
     "forecast": {
-        "max": 25.9,
-        "min": 19.0
+        "max": 26.8,
+        "min": 19.2
     },
     "news": [
         {
-            "title": "EUA atacam o Irão “em resposta” a ataque contra navio de carga no estreito de Ormuz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/mundo/noticia/eua-atacam-irao-resposta-ataque-ontem-navio-carga-estreito-ormuz-2179654"
+            "title": "Nós, os portugueses",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/sociedade/opiniao/portugueses-2179583"
         },
         {
-            "title": "Dembélé puxou três vezes do remo no naufrágio da Noruega",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/desporto/cronica_de_jogo/dembele-puxou-tres-vezes-remo-naufragio-noruega-2179652"
+            "title": "A imigração debaixo do tapete",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/opiniao/opiniao/imigracao-debaixo-tapete-2179643"
         },
         {
-            "title": "“Não queria admitir que estava doente.” O primeiro tratamento com CAR-T no São João",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/ciencia/noticia/nao-queria-admitir-doente-tratamento-cart-sao-joao-2179393"
+            "title": "Canais de notícias e polarização",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/opiniao/opiniao/canais-noticias-polarizacao-2179438"
         },
         {
-            "title": "Se uma diz mata, outra diz esfola, e as duas juntas fizeram <em>Barbie</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/culturaipsilon/noticia/mata-esfola-duas-juntas-fizeram-barbie-2179545"
+            "title": "A advocacia no Azerbaijão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/opiniao/opiniao/advocacia-azerbaijao-2179578"
         },
         {
-            "title": "Desastres naturais podem afectar saúde mental, mesmo de quem está longe: como ajudar?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/mundo/noticia/desastres-naturais-podem-afectar-saude-mental-longe-ajudar-2179648"
+            "title": "Defender os advogados é defender os cidadãos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/opiniao/opiniao/defender-advogados-defender-cidadaos-2179337"
         }
     ],
     "finance": [],
-    "last_update": "26/06/2026 22:01"
+    "last_update": "26/06/2026 23:53"
 }
