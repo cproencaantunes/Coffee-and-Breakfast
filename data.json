@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.2,
         "manha": 20.8,
-        "tarde": 24.4,
-        "noite": 21.5
+        "tarde": 24.3,
+        "noite": 21.3
     },
     "forecast": {
-        "max": 25.7,
-        "min": 18.9
+        "max": 25.5,
+        "min": 18.7
     },
     "news": [
         {
-            "title": "Terror No Escuro: porque é que gostámos de <em>Obsessão</em> e não gostámos de <em>Backrooms</em>?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/culturaipsilon/noticia/terror-escuro-gostamos-obsessao-nao-gostamos-backrooms-2179319"
+            "title": "Transtejo inicia no sábado carreiras Seixal-Barreiro-Cais do Sodré em regime experimental",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/local/noticia/transtejo-inicia-sabado-carreiras-seixalbarreirocais-sodre-regime-experimental-2179615"
         },
         {
-            "title": "Os bairros-fantasma de Xangai: uma cidade em pausa antes da demolição",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/fotogaleria/intervalo-transformacoes-urbanisticas-xangai-415683"
+            "title": "Granvinhos joga contra a corrente e investe 27 milhões no Douro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/economia/noticia/granvinhos-joga-corrente-investe-27-milhoes-douro-2179600"
         },
         {
-            "title": "PS pede explicações ao Governo sobre “incumprimento contratual” na concessão do Quartel da Graça",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/local/noticia/ps-pede-explicacoes-governo-incumprimento-contratual-concessao-quartel-graca-2179570"
+            "title": "Patrícia Portela:  \"Um livro sobre o que não se sabe e o que não se viu\"",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/newsletter/ipsilon"
         },
         {
-            "title": "Carlos III não vai morar no Palácio de Buckingham e revela ter pago quase 15 milhões de euros em impostos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/impar/noticia/carlos-iii-nao-vai-morar-palacio-buckingham-revela-pago-quase-15-milhoes-euros-impostos-2179554"
+            "title": "Ministra diz que reforma laboral é tão “inevitável como o nascer do sol”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/politica/noticia/ministra-reforma-laboral-tao-inevitavel-nascer-sol-2179606"
         },
         {
-            "title": "Exame de Desenho A: veja aqui a prova e os critérios de correcção",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/sociedade/noticia/exame-desenho-veja-aqui-prova-criterios-correccao-2179568"
+            "title": "O que fazer neste fim-de-semana? Passear com Mimo, música e vinho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/fugas/noticia/neste-fimdesemana-passear-mimo-musica-vinho-2179454"
         }
     ],
     "finance": [],
-    "last_update": "26/06/2026 13:01"
+    "last_update": "26/06/2026 16:05"
 }
