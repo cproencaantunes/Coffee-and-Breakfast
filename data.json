@@ -1,9 +1,9 @@
 {
     "weather": {
-        "atual": 20.3,
-        "manha": 20.7,
+        "atual": 20.2,
+        "manha": 20.8,
         "tarde": 24.3,
-        "noite": 21.5
+        "noite": 21.4
     },
     "forecast": {
         "max": 25.6,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "A elite do carimbo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/opiniao/cronica/elite-carimbo-2179437"
+            "title": "Quem ganhou e quem perdeu na PSU?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/politica/podcast/ganhou-perdeu-psu-2179529"
         },
         {
-            "title": "Chega para lá, Chega para cá",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/opiniao/opiniao/chega-chega-ca-2179473"
+            "title": "Contas de merceeiro (ou crónica de uma semana insólita)",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/opiniao/opiniao/contas-merceeiro-cronica-semana-insolita-2179503"
         },
         {
-            "title": "Gonzalo Plata foi ouro para o Equador frente à Alemanha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/desporto/noticia/gonzalo-plata-ouro-equador-frente-alemanha-2179525"
+            "title": "Já não há paciência para a conversa sobre o “Brexit”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/opiniao/opiniao/ja-nao-ha-paciencia-conversa-brexit-2179482"
         },
         {
-            "title": "Porque não há comboios para Alcântara-Terra ao fim-de-semana? Rúben Calvinho quis saber e a justificação da CP foi surreal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/economia/noticia/nao-ha-comboios-alcantaraterra-fimdesemana-ruben-calvinho-quis-saber-justificacao-cp-surreal-2179348"
+            "title": "A Cidade do Rock e o deserto à volta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/opiniao/opiniao/cidade-rock-deserto-volta-2179468"
         },
         {
-            "title": "O grande susto da França",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/25/newsletter/o-estado-das-coisas"
+            "title": "<em>Shaken, not stirred</em>: quando o Estado perde a memória",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/opiniao/opiniao/shaken-not-stirred-estado-perde-memoria-2179297"
         }
     ],
     "finance": [],
-    "last_update": "25/06/2026 23:06"
+    "last_update": "26/06/2026 02:11"
 }
