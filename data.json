@@ -3,34 +3,34 @@
         "atual": 20.2,
         "manha": 20.8,
         "tarde": 24.3,
-        "noite": 21.3
+        "noite": 21.7
     },
     "forecast": {
         "max": 25.9,
-        "min": 18.7
+        "min": 19.0
     },
     "news": [
         {
+            "title": "EUA atacam o Irão “em resposta” a ataque contra navio de carga no estreito de Ormuz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/mundo/noticia/eua-atacam-irao-resposta-ataque-ontem-navio-carga-estreito-ormuz-2179654"
+        },
+        {
+            "title": "Dembélé puxou três vezes do remo no naufrágio da Noruega",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/desporto/cronica_de_jogo/dembele-puxou-tres-vezes-remo-naufragio-noruega-2179652"
+        },
+        {
+            "title": "“Não queria admitir que estava doente.” O primeiro tratamento com CAR-T no São João",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/ciencia/noticia/nao-queria-admitir-doente-tratamento-cart-sao-joao-2179393"
+        },
+        {
+            "title": "Se uma diz mata, outra diz esfola, e as duas juntas fizeram <em>Barbie</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/culturaipsilon/noticia/mata-esfola-duas-juntas-fizeram-barbie-2179545"
+        },
+        {
             "title": "Desastres naturais podem afectar saúde mental, mesmo de quem está longe: como ajudar?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/mundo/noticia/desastres-naturais-podem-afectar-saude-mental-longe-ajudar-2179648"
-        },
-        {
-            "title": "Os pais do vizinho são melhores que os meus",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/p3/cronica/pais-vizinho-sao-melhores-2179058"
-        },
-        {
-            "title": "Jornalista do PÚBLICO recebe prémio pela cobertura de temas de ambiente no Azul",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/azul/noticia/jornalista-publico-recebe-premio-cobertura-temas-ambiente-azul-2179641"
-        },
-        {
-            "title": "Chega vai pedir fiscalização da constitucionalidade da PSU",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/politica/noticia/chega-vai-pedir-fiscalizacao-constitucionalidade-psu-2179645"
-        },
-        {
-            "title": "Israel e Líbano assinam princípio de acordo de paz após negociações mediadas pelos EUA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/mundo/noticia/israel-libano-assinam-principio-acordo-paz-apos-negociacoes-mediadas-eua-2179647"
         }
     ],
     "finance": [],
-    "last_update": "26/06/2026 20:25"
+    "last_update": "26/06/2026 22:01"
 }
