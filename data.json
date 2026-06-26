@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.2,
         "manha": 20.8,
-        "tarde": 24.3,
-        "noite": 21.3
+        "tarde": 24.4,
+        "noite": 21.5
     },
     "forecast": {
-        "max": 25.6,
-        "min": 18.5
+        "max": 25.7,
+        "min": 18.9
     },
     "news": [
         {
-            "title": "A Mala Voadora procura o Paraíso no Pólo Norte",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/culturaipsilon/noticia/mala-voadora-procura-paraiso-polo-norte-2178971"
+            "title": "Terror No Escuro: porque é que gostámos de <em>Obsessão</em> e não gostámos de <em>Backrooms</em>?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/culturaipsilon/noticia/terror-escuro-gostamos-obsessao-nao-gostamos-backrooms-2179319"
         },
         {
-            "title": "<em>Homo erectus</em> já usava fogo há 1,8 milhões de anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/ciencia/noticia/homo-erectus-ja-usava-fogo-ha-18-milhoes-anos-2179439"
+            "title": "Os bairros-fantasma de Xangai: uma cidade em pausa antes da demolição",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/fotogaleria/intervalo-transformacoes-urbanisticas-xangai-415683"
         },
         {
-            "title": "Mundial 2026: Austrália segue em frente e Turquia despede-se apesar do triunfo sobre os EUA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/desporto/noticia/mundial-2026-australia-segue-frente-turquia-despedese-apesar-triunfo-eua-2179550"
+            "title": "PS pede explicações ao Governo sobre “incumprimento contratual” na concessão do Quartel da Graça",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/local/noticia/ps-pede-explicacoes-governo-incumprimento-contratual-concessao-quartel-graca-2179570"
         },
         {
-            "title": "Supremo dos EUA abre a porta a que Trump deporte milhares de haitianos e sírios",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/mundo/noticia/supremo-eua-abre-porta-trump-deporte-milhares-haitianos-sirios-2179547"
+            "title": "Carlos III não vai morar no Palácio de Buckingham e revela ter pago quase 15 milhões de euros em impostos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/impar/noticia/carlos-iii-nao-vai-morar-palacio-buckingham-revela-pago-quase-15-milhoes-euros-impostos-2179554"
         },
         {
-            "title": "Rui Tavares deixa de ser co-porta-voz do Livre a partir de Julho. Jorge Pinto é o próximo candidato",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/politica/noticia/rui-tavares-deixa-coportavoz-livre-partir-julho-jorge-pinto-proximo-candidato-2179543"
+            "title": "Exame de Desenho A: veja aqui a prova e os critérios de correcção",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/sociedade/noticia/exame-desenho-veja-aqui-prova-criterios-correccao-2179568"
         }
     ],
     "finance": [],
-    "last_update": "26/06/2026 10:12"
+    "last_update": "26/06/2026 13:01"
 }
