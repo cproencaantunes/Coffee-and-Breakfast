@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.2,
-        "manha": 20.8,
-        "tarde": 24.3,
+        "manha": 20.7,
+        "tarde": 24.0,
         "noite": 21.4
     },
     "forecast": {
-        "max": 25.6,
+        "max": 26.0,
         "min": 18.5
     },
     "news": [
         {
-            "title": "Quem ganhou e quem perdeu na PSU?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/politica/podcast/ganhou-perdeu-psu-2179529"
+            "title": "Terramoto na Venezuela: novo balanço aponta para 235 mortos e mais de 4000 feridos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/mundo/noticia/terramoto-venezuela-novo-balanco-aponta-235-mortos-4000-feridos-2179531"
         },
         {
-            "title": "Contas de merceeiro (ou crónica de uma semana insólita)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/opiniao/opiniao/contas-merceeiro-cronica-semana-insolita-2179503"
+            "title": "Despertador: Venezuela enfrenta “tragédia” de proporções incertas. Problemas nos exames nacionais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/newsletter/despertador"
         },
         {
-            "title": "Já não há paciência para a conversa sobre o “Brexit”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/opiniao/opiniao/ja-nao-ha-paciencia-conversa-brexit-2179482"
+            "title": "Quando a extrema-direita recebe do Estado também faz trabalho comunitário?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/mundo/cronica/extremadireita-recebe-estado-tambem-faz-trabalho-comunitario-2179511"
         },
         {
-            "title": "A Cidade do Rock e o deserto à volta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/opiniao/opiniao/cidade-rock-deserto-volta-2179468"
+            "title": "Diversidade 5 x 0 Racismo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/publico-brasil/opiniao/diversidade-5-x-0-racismo-2179518"
         },
         {
-            "title": "<em>Shaken, not stirred</em>: quando o Estado perde a memória",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/opiniao/opiniao/shaken-not-stirred-estado-perde-memoria-2179297"
+            "title": "Cabo Verde já fez muito no Mundial, mas quer mais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/26/desporto/noticia/cabo-verde-ja-fez-mundial-quer-2179462"
         }
     ],
     "finance": [],
-    "last_update": "26/06/2026 02:11"
+    "last_update": "26/06/2026 06:42"
 }
