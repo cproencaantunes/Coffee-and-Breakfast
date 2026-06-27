@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 20.0,
-        "manha": 20.2,
-        "tarde": 25.6,
-        "noite": 21.4
+        "atual": 19.8,
+        "manha": 20.0,
+        "tarde": 25.5,
+        "noite": 21.7
     },
     "forecast": {
         "max": 26.8,
         "min": 19.2
     },
     "news": [
+        {
+            "title": "O “convidado” tomou conta da festa: Cabo Verde segue no Mundial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/desporto/cronica_de_jogo/convidado-tomou-conta-festa-cabo-verde-segue-mundial-2179655"
+        },
         {
             "title": "Nós, os portugueses",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/sociedade/opiniao/portugueses-2179583"
@@ -25,12 +29,8 @@
         {
             "title": "A advocacia no Azerbaijão",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/opiniao/opiniao/advocacia-azerbaijao-2179578"
-        },
-        {
-            "title": "Defender os advogados é defender os cidadãos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/opiniao/opiniao/defender-advogados-defender-cidadaos-2179337"
         }
     ],
     "finance": [],
-    "last_update": "26/06/2026 23:53"
+    "last_update": "27/06/2026 02:06"
 }
