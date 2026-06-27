@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 0,
-        "manha": 0,
-        "tarde": 0,
-        "noite": 0
+        "atual": 19.8,
+        "manha": 20.1,
+        "tarde": 25.5,
+        "noite": 21.3
     },
     "forecast": {
-        "max": 0,
-        "min": 0
+        "max": 26.0,
+        "min": 19.3
     },
     "news": [
         {
+            "title": "Assembleia Geral do Benfica aprova orçamento para 2026-27",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/desporto/noticia/assembleia-geral-benfica-aprova-orcamento-202627-2179714"
+        },
+        {
+            "title": "Vã tentativa de pulverizar fantasmas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/p3/cronica/va-tentativa-pulverizar-fantasmas-2179060"
+        },
+        {
+            "title": "“A ansiedade demográfica não devia existir. O que é preciso é a resiliência demográfica”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/azul/entrevista/ansiedade-demografica-nao-existir-preciso-resiliencia-demografica-2178712"
+        },
+        {
+            "title": "Margaret Atwood: “Muitos dizem-me: <em>A História de uma Serva</em> não é ficção, está a acontecer”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/culturaipsilon/reportagem/margaret-atwood-dizemme-historia-serva-nao-ficcao-acontecer-2179710"
+        },
+        {
             "title": "Plataforma já tem exames para classificar, mas há relatos de “respostas de alunos que não acabam”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/sociedade/noticia/plataforma-ja-exames-classificar-ha-relatos-respostas-alunos-nao-acabam-2179682"
-        },
-        {
-            "title": "Hospital de São João realizou transplante renal robótico com dador vivo, procedimento ainda é raro no país",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/sociedade/reportagem/hospital-sao-joao-realizou-transplante-renal-robotico-dador-vivo-procedimento-raro-pais-2179191"
-        },
-        {
-            "title": "O tempo para encontrar sobreviventes depois dos sismos na Venezuela começa a esgotar-se",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/mundo/noticia/tempo-encontrar-sobreviventes-sismos-venezuela-comeca-esgotarse-2179709"
-        },
-        {
-            "title": "Festival Med: do magnetismo de Arooj Aftab à fúria de Seun Kuti",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/culturaipsilon/reportagem/festival-med-magnetismo-arooj-aftab-furia-seun-kuti-2179704"
-        },
-        {
-            "title": "Ainda não encontrei o que procuro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/publico-brasil/opiniao/nao-encontrei-procuro-2179708"
         }
     ],
     "finance": [],
-    "last_update": "27/06/2026 19:02"
+    "last_update": "27/06/2026 20:48"
 }
