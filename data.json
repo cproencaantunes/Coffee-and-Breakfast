@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 19.8,
-        "manha": 20.1,
-        "tarde": 25.5,
-        "noite": 21.7
+        "atual": 20.0,
+        "manha": 21.4,
+        "tarde": 26.4,
+        "noite": 21.2
     },
     "forecast": {
-        "max": 26.4,
-        "min": 19.5
+        "max": 29.8,
+        "min": 19.0
     },
     "news": [
         {
-            "title": "Pela segunda noite consecutiva, EUA lançam ataques contra vários alvos no Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/mundo/noticia/segunda-noite-consecutiva-eua-lancam-ataques-varios-alvos-irao-2179717"
+            "title": "Exames coloniais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/opiniao/opiniao/exames-coloniais-2179447"
         },
         {
-            "title": "Colômbia-Portugal, um jogo para definir o futuro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/desporto/noticia/minuto-colombiaportugal-jogo-definir-futuro-2179712"
+            "title": "Liderar não é substituir",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/opiniao/opiniao/liderar-nao-substituir-2179435"
         },
         {
-            "title": "Telemóveis na Venezuela emitiram alerta de terramoto segundos antes dos tremores — como?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/tecnologia/noticia/telemoveis-venezuela-emitiram-alerta-terramoto-segundos-tremores-2179711"
+            "title": "Da lei de Murphy à lei Ramalho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/opiniao/opiniao/lei-murphy-lei-ramalho-2179680"
         },
         {
-            "title": "Assembleia Geral do Benfica aprova orçamento para 2026-27",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/desporto/noticia/assembleia-geral-benfica-aprova-orcamento-202627-2179714"
+            "title": "Esplanadas de Lisboa, passámos do 8 ao 80",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/opiniao/opiniao/esplanadas-lisboa-passamos-8-80-2179675"
         },
         {
-            "title": "Vã tentativa de pulverizar fantasmas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/p3/cronica/va-tentativa-pulverizar-fantasmas-2179060"
+            "title": "Bernie Sanders tem razão e está alinhado com a União Europeia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/opiniao/opiniao/bernie-sanders-razao-alinhado-uniao-europeia-2179491"
         }
     ],
     "finance": [],
-    "last_update": "27/06/2026 22:53"
+    "last_update": "27/06/2026 23:52"
 }
