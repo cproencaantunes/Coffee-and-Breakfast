@@ -3,13 +3,21 @@
         "atual": 19.8,
         "manha": 20.1,
         "tarde": 25.5,
-        "noite": 21.3
+        "noite": 21.7
     },
     "forecast": {
-        "max": 26.0,
-        "min": 19.3
+        "max": 26.4,
+        "min": 19.5
     },
     "news": [
+        {
+            "title": "Pela segunda noite consecutiva, EUA lançam ataques contra vários alvos no Irão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/mundo/noticia/segunda-noite-consecutiva-eua-lancam-ataques-varios-alvos-irao-2179717"
+        },
+        {
+            "title": "Colômbia-Portugal, um jogo para definir o futuro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/desporto/noticia/minuto-colombiaportugal-jogo-definir-futuro-2179712"
+        },
         {
             "title": "Telemóveis na Venezuela emitiram alerta de terramoto segundos antes dos tremores — como?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/tecnologia/noticia/telemoveis-venezuela-emitiram-alerta-terramoto-segundos-tremores-2179711"
@@ -21,16 +29,8 @@
         {
             "title": "Vã tentativa de pulverizar fantasmas",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/p3/cronica/va-tentativa-pulverizar-fantasmas-2179060"
-        },
-        {
-            "title": "“A ansiedade demográfica não devia existir. O que é preciso é a resiliência demográfica”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/azul/entrevista/ansiedade-demografica-nao-existir-preciso-resiliencia-demografica-2178712"
-        },
-        {
-            "title": "Margaret Atwood: “Muitos dizem-me: <em>A História de uma Serva</em> não é ficção, está a acontecer”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/culturaipsilon/reportagem/margaret-atwood-dizemme-historia-serva-nao-ficcao-acontecer-2179710"
         }
     ],
     "finance": [],
-    "last_update": "27/06/2026 21:52"
+    "last_update": "27/06/2026 22:53"
 }
