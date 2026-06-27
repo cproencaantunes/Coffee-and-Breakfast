@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.8,
         "manha": 20.1,
-        "tarde": 25.6,
-        "noite": 21.7
+        "tarde": 25.5,
+        "noite": 21.5
     },
     "forecast": {
-        "max": 26.5,
-        "min": 19.4
+        "max": 26.1,
+        "min": 19.3
     },
     "news": [
         {
-            "title": "Nova Iorque vai congelar as rendas de um milhão de apartamentos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/mundo/noticia/nova-iorque-vai-congelar-rendas-milhao-apartamentos-2179690"
+            "title": "Centenário de Manuel Cargaleiro celebrado com exposições e novo pólo museológico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/culturaipsilon/noticia/centenario-manuel-cargaleiro-celebrado-exposicoes-novo-polo-museologico-2179702"
         },
         {
-            "title": "Pesadelo do guarda-redes, indignação de Valverde e fúria de Bielsa: o adeus do Uruguai ao Mundial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/desporto/noticia/pesadelo-guardaredes-indignacao-valverde-furia-bielsa-adeus-uruguai-mundial-2179684"
+            "title": "Anafre quer nova Lei das Finanças Locais com aumento de verbas para as freguesias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/politica/noticia/anafre-quer-nova-lei-financas-locais-aumento-verbas-freguesias-2179701"
         },
         {
-            "title": "BE quer saber se Portugal esteve na reunião entre Comissão Europeia e talibans",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/politica/noticia/be-quer-saber-portugal-reuniao-comissao-europeia-talibans-2179691"
+            "title": "Milhares celebram Orgulho LGBTI+ em Budapeste, na primeira marcha pós-Orbán",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/fotogaleria/budapeste-415687"
         },
         {
-            "title": "Mais de mil socorristas estrangeiros chegam à Venezuela em corrida contra o tempo para encontrar sobreviventes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/mundo/noticia/mil-socorristas-estrangeiros-chegam-venezuela-corrida-tempo-encontrar-sobreviventes-2179685"
+            "title": "Ciclismo: Maria Martins é a nova campeã portuguesa de fundo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/desporto/noticia/ciclism-maria-martins-nova-campea-portuguesa-fundo-2179700"
         },
         {
-            "title": "Fazer a Festa com teatro, livros e bicharada: sete ideias em família",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/impar/noticia/festa-teatro-livros-bicharada-sete-ideias-familia-2179542"
+            "title": "Benfica é campeão feminino de hóquei em patins pela 13.ª vez seguida",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/27/desporto/noticia/benfica-campeao-feminino-hoquei-patins-13-seguida-2179699"
         }
     ],
     "finance": [],
-    "last_update": "27/06/2026 15:07"
+    "last_update": "27/06/2026 16:55"
 }
