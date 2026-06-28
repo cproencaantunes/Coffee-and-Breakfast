@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.9,
         "manha": 21.3,
-        "tarde": 26.4,
-        "noite": 21.5
+        "tarde": 26.3,
+        "noite": 21.3
     },
     "forecast": {
-        "max": 28.9,
-        "min": 18.6
+        "max": 28.6,
+        "min": 18.4
     },
     "news": [
         {
-            "title": "Morreram 11 pessoas em queda de avião em Nancy, nordeste de França",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/mundo/noticia/aviao-transportava-paraquedistas-cai-nancy-nordeste-franca-2179733"
+            "title": "Ucrânia ataca duas refinarias de petróleo na Rússia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/mundo/noticia/ucrania-ataca-duas-refinarias-petroleo-russia-2179743"
         },
         {
-            "title": "Prémio Nacional de Banda Desenhada distingue carreira de António Jorge Gonçalves",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/culturaipsilon/noticia/premio-nacional-banda-desenhada-distingue-carreira-antonio-jorge-goncalves-2179734"
+            "title": "Onda de calor: milhões de europeus sob altas temperaturas, França conta mil mortes em excesso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/azul/noticia/onda-calor-milhoes-europeus-altas-temperaturas-franca-conta-mil-mortes-excesso-2179735"
         },
         {
-            "title": "Uma Selecção de pés atados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/desporto/opiniao/seleccao-pes-atados-2179732"
+            "title": "Velhos heróis, feitos históricos e águias moribundas na 3.ª jornada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/desporto/noticia/velhos-herois-historicos-aguias-moribundas-3-jornada-2179737"
         },
         {
-            "title": "Filme luso-espanhol <em>Decorado</em>, de Alberto Vázquez, premiado no festival de Annecy",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/culturaipsilon/noticia/filme-lusoespanhol-decorado-alberto-vazquez-premiado-festival-annecy-2179731"
+            "title": "Israel põe em causa o cessar-fogo com novos ataques no sul do Líbano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/mundo/noticia/israel-poe-causa-cessarfogo-novos-ataques-sul-libano-2179738"
         },
         {
-            "title": "“Caos” nos exames: Fenprof diz que é “inaceitável” desresponsabilização do Governo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/sociedade/noticia/caos-exames-fenprof-inaceitavel-desresponsabilizacao-governo-2179730"
+            "title": "Sismos na Venezuela: número de portugueses e lusodescendentes mortos sobe para 51",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/sociedade/noticia/sismos-venezuela-numero-portugueses-lusodescendentes-mortos-sobe-51-2179740"
         }
     ],
     "finance": [],
-    "last_update": "28/06/2026 11:40"
+    "last_update": "28/06/2026 13:13"
 }
