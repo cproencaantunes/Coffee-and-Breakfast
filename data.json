@@ -1,15 +1,27 @@
 {
     "weather": {
-        "atual": 20.0,
-        "manha": 21.4,
-        "tarde": 26.4,
-        "noite": 21.2
+        "atual": 19.9,
+        "manha": 21.3,
+        "tarde": 26.2,
+        "noite": 21.1
     },
     "forecast": {
         "max": 29.8,
-        "min": 19.0
+        "min": 18.7
     },
     "news": [
+        {
+            "title": "Colômbia 0-Portugal 0: as notas aos jogadores portugueses",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/desporto/noticia/colombia-0portugal-0-notas-jogadores-portugueses-2179722"
+        },
+        {
+            "title": "Roberto Martínez e o empate com a Colômbia: “Defendemos a área muito bem”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/desporto/noticia/roberto-martinez-empate-colombia-defendemos-area-bem-2179721"
+        },
+        {
+            "title": "A Colômbia levou o café, Portugal levou o sono",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/desporto/cronica_de_jogo/colombia-levou-cafe-portugal-levou-sono-2179713"
+        },
         {
             "title": "Exames coloniais",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/opiniao/opiniao/exames-coloniais-2179447"
@@ -17,20 +29,8 @@
         {
             "title": "Liderar não é substituir",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/opiniao/opiniao/liderar-nao-substituir-2179435"
-        },
-        {
-            "title": "Da lei de Murphy à lei Ramalho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/opiniao/opiniao/lei-murphy-lei-ramalho-2179680"
-        },
-        {
-            "title": "Esplanadas de Lisboa, passámos do 8 ao 80",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/opiniao/opiniao/esplanadas-lisboa-passamos-8-80-2179675"
-        },
-        {
-            "title": "Bernie Sanders tem razão e está alinhado com a União Europeia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/opiniao/opiniao/bernie-sanders-razao-alinhado-uniao-europeia-2179491"
         }
     ],
     "finance": [],
-    "last_update": "27/06/2026 23:52"
+    "last_update": "28/06/2026 02:28"
 }
