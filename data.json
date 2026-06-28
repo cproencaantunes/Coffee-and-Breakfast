@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 19.9,
-        "manha": 21.3,
-        "tarde": 26.4,
-        "noite": 21.7
+        "atual": 19.3,
+        "manha": 21.0,
+        "tarde": 29.5,
+        "noite": 22.8
     },
     "forecast": {
-        "max": 29.4,
-        "min": 18.7
+        "max": 30.6,
+        "min": 20.1
     },
     "news": [
         {
-            "title": "Dupla francesa vence E-Rally no Alentejo numa decisão ao segundo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/enter/noticia/dupla-francesa-vence-erally-alentejo-decisao-segundo-2179775"
+            "title": "Destruir será sinónimo de reformar?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/opiniao/opiniao/destruir-sera-sinonimo-reformar-2179745"
         },
         {
-            "title": "Eustáquio garante passagem in extremis do Canadá aos “oitavos” do Mundial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/desporto/cronica_de_jogo/eustaquio-garante-passagem-in-extremis-canada-oitavos-mundial-2179777"
+            "title": "Longevidade? Estamos preparados para viver mais?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/opiniao/opiniao/longevidade-preparados-viver-2179186"
         },
         {
-            "title": "Benfica ganha quinto derby e sagra-se bicampeão nacional de futsal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/desporto/noticia/benfica-ganha-quinto-derby-sagrase-bicampeao-nacional-futsal-2179780"
+            "title": "Arquitetos do nosso próprio futuro: a Europa tem de dominar as tecnologias essenciais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/opiniao/opiniao/arquitetos-proprio-futuro-europa-dominar-tecnologias-essenciais-2179677"
         },
         {
-            "title": "De Bonga a Sarab, o Med é uma confluência de culturas e experimentação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/culturaipsilon/reportagem/bonga-sarab-med-confluencia-culturas-experimentacao-2179778"
+            "title": "A universidade como porto seguro: notas sobre um dever adiado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/opiniao/opiniao/universidade-porto-seguro-notas-adiado-2179087"
         },
         {
-            "title": "Iranianos lembram a Trump que são eles que mandam no estreito de Ormuz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/mundo/noticia/iranianos-lembram-trump-sao-mandam-estreito-ormuz-2179779"
+            "title": "Plano Diretor Florestal Municipal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/opiniao/opiniao/plano-diretor-florestal-municipal-2179441"
         }
     ],
     "finance": [],
-    "last_update": "28/06/2026 22:52"
+    "last_update": "28/06/2026 23:59"
 }
