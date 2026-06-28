@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 19.9,
-        "manha": 21.1,
-        "tarde": 26.1,
-        "noite": 21.4
+        "manha": 21.3,
+        "tarde": 26.4,
+        "noite": 21.5
     },
     "forecast": {
-        "max": 29.3,
+        "max": 28.9,
         "min": 18.6
     },
     "news": [
         {
-            "title": "Consumo de vinho cresce no Brasil e favorece exportações do Alvarinho português",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/publico-brasil/noticia/consumo-vinho-cresce-brasil-favorece-exportacoes-alvarinho-portugues-2179698"
+            "title": "Chefe de gabinete de Javier Milei demite-se após suspeitas de corrupção",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/mundo/noticia/chefe-gabinete-javier-milei-demitese-apos-suspeitas-corrupcao-2179728"
         },
         {
-            "title": "A Espanha perdida no labirinto da corrupção",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/mundo/noticia/espanha-perdida-labirinto-corrupcao-2179604"
+            "title": "Chega elege hoje novos órgãos de 12 estruturas distritais e regionais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/politica/noticia/chega-elege-hoje-novos-orgaos-12-estruturas-distritais-regionais-2179729"
         },
         {
-            "title": "A invenção de uma cultura chamada brasileira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/publico-brasil/opiniao/invencao-cultura-chamada-brasileira-2179720"
+            "title": "Portugal aquece e sete distritos chegam aos 40 graus na próxima semana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/azul/noticia/portugal-aquece-sete-distritos-chegam-40-graus-proxima-semana-2179727"
         },
         {
-            "title": "The Major Oak (?-2026)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/ciencia/cronica/the-major-oak-2026-2179500"
+            "title": "Serena Williams está de volta a Wimbledon",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/desporto/noticia/serena-williams-volta-wimbledon-2179705"
         },
         {
-            "title": "Qual a importância de os pais lerem histórias aos filhos?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/impar/opiniao/importancia-pais-lerem-historias-filhos-2179357"
+            "title": "As Ibeyi vão da raiva à beleza no disco do seu renascimento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/28/culturaipsilon/noticia/ibeyi-vao-raiva-beleza-disco-renascimento-2179046"
         }
     ],
     "finance": [],
-    "last_update": "28/06/2026 06:53"
+    "last_update": "28/06/2026 09:52"
 }
