@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 19.3,
-        "manha": 20.7,
-        "tarde": 29.5,
-        "noite": 21.8
+        "atual": 20.6,
+        "manha": 21.8,
+        "tarde": 30.0,
+        "noite": 22.7
     },
     "forecast": {
-        "max": 30.1,
-        "min": 19.4
+        "max": 34.5,
+        "min": 20.2
     },
     "news": [
         {
-            "title": "Sindicatos dizem que Governo quer criar subsídio para polícias que trabalham nos aeroportos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/sociedade/noticia/sindicatos-governo-quer-criar-subsidio-policias-trabalham-aeroportos-2179908"
+            "title": "IPMA prevê máximas de 43 graus e coloca sete distritos sob aviso laranja",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/azul/noticia/ipma-preve-maximas-43-graus-coloca-sete-distritos-aviso-laranja-2179926"
         },
         {
-            "title": "Há 105 cursos superiores em que a taxa de desemprego é superior à média nacional",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/sociedade/noticia/ha-105-cursos-superiores-taxa-desemprego-superior-media-nacional-2179891"
+            "title": "O debate sobre o sistema de governo municipal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/opiniao/opiniao/debate-sistema-governo-municipal-2179073"
         },
         {
-            "title": "<em>Operação Marquês</em>: Estado condenado a pagar 15 mil euros a José Sócrates",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/sociedade/noticia/operacao-marques-estado-condenado-pagar-15-mil-euros-jose-socrates-2179920"
+            "title": "A Europa aplaude quando a expulsão se torna regra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/mundo/opiniao/europa-aplaude-expulsao-torna-regra-2179901"
         },
         {
-            "title": "Gabinete estatístico da UE revê PIB <em>per capita</em> português após alteração pelo INE",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/economia/noticia/gabinete-estatistico-ue-reve-pib-capita-portugues-apos-revisao-ine-2179917"
+            "title": "O canal de denúncias da PSU e o conceito de “bufaria”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/opiniao/opiniao/canal-denuncias-psu-conceito-bufaria-2179811"
         },
         {
-            "title": "Europa respira melhor, mas o calor e os incêndios não evitam crises em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/azul/noticia/europa-respira-melhor-calor-incendios-nao-evitam-crises-portugal-2179889"
+            "title": "A prata até é barata",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/opiniao/opiniao/prata-ate-barata-2179839"
         }
     ],
     "finance": [],
-    "last_update": "29/06/2026 22:03"
+    "last_update": "29/06/2026 23:52"
 }
