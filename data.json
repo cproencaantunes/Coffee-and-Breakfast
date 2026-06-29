@@ -1,9 +1,9 @@
 {
     "weather": {
         "atual": 19.3,
-        "manha": 20.8,
-        "tarde": 29.5,
-        "noite": 22.3
+        "manha": 20.6,
+        "tarde": 29.8,
+        "noite": 22.5
     },
     "forecast": {
         "max": 30.4,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Destruir será sinónimo de reformar?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/opiniao/opiniao/destruir-sera-sinonimo-reformar-2179745"
+            "title": "Nos paraísos perdidos de Inez Teixeira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/culturaipsilon/noticia/paraisos-perdidos-inez-teixeira-2178541"
         },
         {
-            "title": "Longevidade? Estamos preparados para viver mais?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/opiniao/opiniao/longevidade-preparados-viver-2179186"
+            "title": "Número de portugueses desaparecidos nos sismos na Venezuela aumenta para 89",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/mundo/noticia/numero-portugueses-desaparecidos-sismos-venezuela-aumenta-89-2179794"
         },
         {
-            "title": "Arquitetos do nosso próprio futuro: a Europa tem de dominar as tecnologias essenciais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/opiniao/opiniao/arquitetos-proprio-futuro-europa-dominar-tecnologias-essenciais-2179677"
+            "title": "GNR regista mais de 2300 furtos em residências e alerta para período de férias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/sociedade/noticia/gnr-regista-2300-furtos-residencias-alerta-periodo-ferias-2179792"
         },
         {
-            "title": "A universidade como porto seguro: notas sobre um dever adiado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/opiniao/opiniao/universidade-porto-seguro-notas-adiado-2179087"
+            "title": "Exploração de lítio do Barroso pode ser retomada após suspensão de 20 dias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/azul/noticia/exploracao-litio-barroso-retomada-apos-suspensao-20-dias-2179787"
         },
         {
-            "title": "Plano Diretor Florestal Municipal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/opiniao/opiniao/plano-diretor-florestal-municipal-2179441"
+            "title": "Despertador: Governo confirma ao FMI que este ano não haverá corte adicional de IRS",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/newsletter/despertador"
         }
     ],
     "finance": [],
-    "last_update": "29/06/2026 03:57"
+    "last_update": "29/06/2026 08:54"
 }
