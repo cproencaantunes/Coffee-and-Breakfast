@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 19.3,
-        "manha": 20.6,
-        "tarde": 29.8,
-        "noite": 22.5
+        "manha": 20.7,
+        "tarde": 29.5,
+        "noite": 22.1
     },
     "forecast": {
-        "max": 30.4,
-        "min": 20.1
+        "max": 31.1,
+        "min": 19.7
     },
     "news": [
         {
-            "title": "Nos paraísos perdidos de Inez Teixeira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/culturaipsilon/noticia/paraisos-perdidos-inez-teixeira-2178541"
+            "title": "Movimento apela a professores que peçam escusa de responsabilidade se não tiverem condições para classificar exames",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/sociedade/noticia/movimento-apela-professores-pecam-escusa-responsabilidade-nao-condicoes-classificar-exames-2179832"
         },
         {
-            "title": "Número de portugueses desaparecidos nos sismos na Venezuela aumenta para 89",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/mundo/noticia/numero-portugueses-desaparecidos-sismos-venezuela-aumenta-89-2179794"
+            "title": "Cinco pessoas mortas a tiro na Alemanha, polícia deteve dois suspeitos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/mundo/noticia/cinco-pessoas-mortas-tiro-alemanha-policia-deteve-suspeito-2179838"
         },
         {
-            "title": "GNR regista mais de 2300 furtos em residências e alerta para período de férias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/sociedade/noticia/gnr-regista-2300-furtos-residencias-alerta-periodo-ferias-2179792"
+            "title": "Resgatados 54 cães em situação de maus tratos em Palmela",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/p3/noticia/resgatados-54-caes-situacao-maus-tratos-palmela-2179836"
         },
         {
-            "title": "Exploração de lítio do Barroso pode ser retomada após suspensão de 20 dias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/azul/noticia/exploracao-litio-barroso-retomada-apos-suspensao-20-dias-2179787"
+            "title": "PSD quer ouvir antigos governantes do PS, como José Luís Carneiro, sobre imigração",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/politica/noticia/psd-quer-ouvir-antigos-governantes-ps-jose-luis-carneiro-imigracao-2179835"
         },
         {
-            "title": "Despertador: Governo confirma ao FMI que este ano não haverá corte adicional de IRS",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/newsletter/despertador"
+            "title": "Estudo diz que turismo ligado à aviação contribui para aumento das rendas em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/29/economia/noticia/estudo-turismo-ligado-aviacao-contribui-aumento-rendas-portugal-2179825"
         }
     ],
     "finance": [],
-    "last_update": "29/06/2026 08:54"
+    "last_update": "29/06/2026 12:56"
 }
