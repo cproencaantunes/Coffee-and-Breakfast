@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 20.6,
-        "manha": 21.8,
-        "tarde": 30.0,
-        "noite": 22.7
+        "manha": 22.0,
+        "tarde": 30.1,
+        "noite": 23.0
     },
     "forecast": {
         "max": 34.5,
         "min": 20.2
     },
     "news": [
+        {
+            "title": "Paraguai elimina Alemanha nos penáltis e está nos “oitavos” do Mundial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/desporto/noticia/paraguai-elimina-alemanha-penaltis-oitavos-mundial-2179927"
+        },
         {
             "title": "IPMA prevê máximas de 43 graus e coloca sete distritos sob aviso laranja",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/azul/noticia/ipma-preve-maximas-43-graus-coloca-sete-distritos-aviso-laranja-2179926"
@@ -25,12 +29,8 @@
         {
             "title": "O canal de denúncias da PSU e o conceito de “bufaria”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/opiniao/opiniao/canal-denuncias-psu-conceito-bufaria-2179811"
-        },
-        {
-            "title": "A prata até é barata",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/opiniao/opiniao/prata-ate-barata-2179839"
         }
     ],
     "finance": [],
-    "last_update": "29/06/2026 23:52"
+    "last_update": "30/06/2026 02:12"
 }
