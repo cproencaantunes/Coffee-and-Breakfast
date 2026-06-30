@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.6,
         "manha": 21.5,
-        "tarde": 29.8,
-        "noite": 23.1
+        "tarde": 29.5,
+        "noite": 22.3
     },
     "forecast": {
-        "max": 34.3,
-        "min": 19.8
+        "max": 34.9,
+        "min": 19.7
     },
     "news": [
         {
-            "title": "Sobre a noite passada: <em>The Bear</em> era bom, mas acabou-se",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/culturaipsilon/noticia/noite-passada-the-bear-bom-acabouse-2179970"
+            "title": "Quase a deixar o cargo, Starmer divulga plano para aumentar gastos militares do Reino Unido",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/mundo/noticia/quase-deixar-cargo-starmer-divulga-plano-aumentar-gastos-militares-reino-unido-2180018"
         },
         {
-            "title": "Austrália quer reforçar proibição das redes sociais para menores com multas até 60 milhões de euros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/enter/noticia/australia-quer-reforcar-proibicao-redes-sociais-menores-multas-ate-60-milhoes-euros-2179875"
+            "title": "Fim da reestruturação permite à TAP usar todos os novos aviões",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/economia/noticia/fim-reestruturacao-permite-tap-usar-novos-avioes-2180013"
         },
         {
-            "title": "Há dez mil <em>vouchers</em> gratuitos para viagens para jovens (com alojamento)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/p3/noticia/ha-10-mil-vouchers-gratuitos-viagens-jovens-alojamento-2179964"
+            "title": "Bloqueio da cidadania a filhos de imigrantes ilegais nos EUA revertido pelo Supremo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/mundo/noticia/bloqueio-cidadania-filhos-imigrantes-ilegais-eua-revertido-supremo-2180017"
         },
         {
-            "title": "Calor intenso à vista: Beja, Évora e Portalegre sob aviso laranja a partir de quarta-feira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/azul/noticia/calor-intenso-vista-beja-evora-portalegre-aviso-laranja-partir-quartafeira-2179940"
+            "title": "Creches privadas indignadas com referência da Fenprof a “depósitos de crianças”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/sociedade/noticia/creches-privadas-indignadas-referencia-fenprof-depositos-criancas-2180005"
         },
         {
-            "title": "Educação inclusiva: Governo propõe gestor de apoio à inclusão e um sistema que articule escolas, saúde e Segurança Social",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/sociedade/noticia/educacao-inclusiva-governo-propoe-gestor-apoio-inclusao-sistema-articule-escolas-saude-seguranca-social-2179978"
+            "title": "Supremo Tribunal dos EUA rejeita mais um recurso de Trump no caso de E. Jean Carrol",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/mundo/noticia/supremo-tribunal-eua-rejeita-recurso-trump-caso-jean-carrol-2179987"
         }
     ],
     "finance": [],
-    "last_update": "30/06/2026 13:02"
+    "last_update": "30/06/2026 16:14"
 }
