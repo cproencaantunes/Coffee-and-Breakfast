@@ -3,13 +3,25 @@
         "atual": 20.6,
         "manha": 21.5,
         "tarde": 29.5,
-        "noite": 22.3
+        "noite": 22.6
     },
     "forecast": {
-        "max": 34.2,
+        "max": 33.8,
         "min": 19.7
     },
     "news": [
+        {
+            "title": "Sporting anuncia contratação de Sergi Altimira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/desporto/noticia/sporting-anuncia-contratacao-sergi-altimira-2180058"
+        },
+        {
+            "title": "Calor: Governo quer que cada ULS tenha um local de abrigo climatizado por concelho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/sociedade/noticia/calor-governo-quer-uls-local-abrigo-climatizado-concelho-2180052"
+        },
+        {
+            "title": "Benfica confirma Lenglet como reforço para a próxima época",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/desporto/noticia/benfica-confirma-lenglet-reforco-proxima-epoca-2180057"
+        },
         {
             "title": "O que quer Mário Centeno?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/opiniao/editorial/quer-mario-centeno-2180054"
@@ -17,20 +29,8 @@
         {
             "title": "Clubes aprovam inclusão dos cantos no VAR e novo modelo para a Taça da Liga",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/desporto/noticia/clubes-aprovam-inclusao-cantos-var-novo-modelo-taca-liga-2180055"
-        },
-        {
-            "title": "O novo “discurso do diabo” é de Mário Centeno",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/politica/podcast/novo-discurso-diabo-mario-centeno-2180044"
-        },
-        {
-            "title": "Sismos na Venezuela: “Abandonaram-nos e muita gente morreu”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/mundo/reportagem/sismos-venezuela-abandonaramnos-gente-morreu-2180036"
-        },
-        {
-            "title": "Apesar das falhas na classificação dos exames, associações de pais afastam, para já, impacto nos alunos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/sociedade/noticia/apesar-falhas-classificacao-exames-associacoes-pais-afastam-ja-impacto-alunos-2180041"
         }
     ],
     "finance": [],
-    "last_update": "30/06/2026 20:50"
+    "last_update": "30/06/2026 22:07"
 }
