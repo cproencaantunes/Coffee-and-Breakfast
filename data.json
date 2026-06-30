@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.6,
-        "manha": 21.5,
-        "tarde": 29.5,
-        "noite": 22.6
+        "atual": 20.2,
+        "manha": 22.2,
+        "tarde": 33.3,
+        "noite": 27.5
     },
     "forecast": {
-        "max": 33.8,
-        "min": 19.7
+        "max": 38.5,
+        "min": 21.6
     },
     "news": [
         {
-            "title": "Sporting anuncia contratação de Sergi Altimira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/desporto/noticia/sporting-anuncia-contratacao-sergi-altimira-2180058"
+            "title": "Esqueçam a heroína, a epidemia de drogas é outra e invisível",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/opiniao/opiniao/esquecam-heroina-epidemia-drogas-invisivel-2179676"
         },
         {
-            "title": "Calor: Governo quer que cada ULS tenha um local de abrigo climatizado por concelho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/sociedade/noticia/calor-governo-quer-uls-local-abrigo-climatizado-concelho-2180052"
+            "title": "Estudantes diversos, territórios desiguais: a ação social e o desafio da coerência das políticas públicas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/opiniao/opiniao/estudantes-diversos-territorios-desiguais-acao-social-desafio-coerencia-politicas-publicas-2179673"
         },
         {
-            "title": "Benfica confirma Lenglet como reforço para a próxima época",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/desporto/noticia/benfica-confirma-lenglet-reforco-proxima-epoca-2180057"
+            "title": "O Fundo Soberano parece uma boa ideia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/opiniao/opiniao/fundo-soberano-parece-boa-ideia-2180008"
         },
         {
-            "title": "O que quer Mário Centeno?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/opiniao/editorial/quer-mario-centeno-2180054"
+            "title": "Há quem escreva sobre o Douro. Há quem o tenha transformado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/opiniao/opiniao/ha-escreva-douro-ha-transformado-2180009"
         },
         {
-            "title": "Clubes aprovam inclusão dos cantos no VAR e novo modelo para a Taça da Liga",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/desporto/noticia/clubes-aprovam-inclusao-cantos-var-novo-modelo-taca-liga-2180055"
+            "title": "O país sem peixe frito",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/opiniao/opiniao/pais-peixe-frito-2180001"
         }
     ],
     "finance": [],
-    "last_update": "30/06/2026 22:07"
+    "last_update": "30/06/2026 23:56"
 }
