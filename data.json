@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.6,
-        "manha": 22.0,
+        "manha": 21.5,
         "tarde": 30.1,
-        "noite": 23.0
+        "noite": 23.2
     },
     "forecast": {
-        "max": 34.5,
-        "min": 20.2
+        "max": 34.8,
+        "min": 20.0
     },
     "news": [
         {
-            "title": "Paraguai elimina Alemanha nos penáltis e está nos “oitavos” do Mundial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/desporto/noticia/paraguai-elimina-alemanha-penaltis-oitavos-mundial-2179927"
+            "title": "“A pizza salvou a minha vida”, diz chef que largou a alta gastronomia e hoje é premiado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/publico-brasil/noticia/pizza-salvou-vida-chef-largou-alta-gastronomia-hoje-premiado-2179867"
         },
         {
-            "title": "IPMA prevê máximas de 43 graus e coloca sete distritos sob aviso laranja",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/azul/noticia/ipma-preve-maximas-43-graus-coloca-sete-distritos-aviso-laranja-2179926"
+            "title": "A saúde mental deixou de ser um tema periférico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/publico-brasil/opiniao/saude-mental-deixou-tema-periferico-2179924"
         },
         {
-            "title": "O debate sobre o sistema de governo municipal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/opiniao/opiniao/debate-sistema-governo-municipal-2179073"
+            "title": "Despertador: Subvenções vitalícias de políticos caem. A realidade de idosos em lares ilegais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/newsletter/despertador"
         },
         {
-            "title": "A Europa aplaude quando a expulsão se torna regra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/mundo/opiniao/europa-aplaude-expulsao-torna-regra-2179901"
+            "title": "Centros que fazem “ponte” entre ciência e empresas ficam sem verbas e sem solução do Governo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/ciencia/noticia/centros-fazem-ponte-ciencia-empresas-ficam-verbas-solucao-governo-2179809"
         },
         {
-            "title": "O canal de denúncias da PSU e o conceito de “bufaria”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/opiniao/opiniao/canal-denuncias-psu-conceito-bufaria-2179811"
+            "title": "Caneira: com Scolari “estávamos preparados para tudo, para o <em>ballet</em>, para a batalha e para o ringue”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/desporto/noticia/caneira-scolari-estavamos-preparados-ballet-batalha-ringue-2179921"
         }
     ],
     "finance": [],
-    "last_update": "30/06/2026 02:12"
+    "last_update": "30/06/2026 06:44"
 }
