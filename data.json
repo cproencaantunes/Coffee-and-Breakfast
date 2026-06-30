@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.6,
         "manha": 21.5,
-        "tarde": 29.7,
+        "tarde": 29.8,
         "noite": 23.1
     },
     "forecast": {
         "max": 34.3,
-        "min": 19.9
+        "min": 19.8
     },
     "news": [
         {
-            "title": "Lutar contra os incêndios é mais do que travar os eucaliptos, diz a Greenpeace",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/azul/noticia/lutar-incendios-travar-eucaliptos-greenpeace-2179916"
+            "title": "Sobre a noite passada: <em>The Bear</em> era bom, mas acabou-se",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/culturaipsilon/noticia/noite-passada-the-bear-bom-acabouse-2179970"
         },
         {
-            "title": "Banco Mundial abandona meta de crédito para o clima sob pressão da Administração Trump",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/azul/noticia/banco-mundial-abandona-meta-credito-clima-pressao-administracao-trump-2179947"
+            "title": "Austrália quer reforçar proibição das redes sociais para menores com multas até 60 milhões de euros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/enter/noticia/australia-quer-reforcar-proibicao-redes-sociais-menores-multas-ate-60-milhoes-euros-2179875"
         },
         {
-            "title": "Socorro Acioli é a convidada do Encontro de Leituras de Julho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/culturaipsilon/noticia/socorro-acioli-convidada-encontro-leituras-julho-2179446"
+            "title": "Há dez mil <em>vouchers</em> gratuitos para viagens para jovens (com alojamento)",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/p3/noticia/ha-10-mil-vouchers-gratuitos-viagens-jovens-alojamento-2179964"
         },
         {
-            "title": "PS continua à frente nas sondagens, mas perde vantagem face à AD",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/politica/noticia/ps-continua-frente-sondagens-perde-vantagem-face-ad-2179949"
+            "title": "Calor intenso à vista: Beja, Évora e Portalegre sob aviso laranja a partir de quarta-feira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/azul/noticia/calor-intenso-vista-beja-evora-portalegre-aviso-laranja-partir-quartafeira-2179940"
         },
         {
-            "title": "Dos sismos às baleias nas paredes: há cinco bolsas europeias a caminho de Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/ciencia/noticia/sismos-baleias-paredes-ha-cinco-bolsas-europeias-caminho-portugal-2179930"
+            "title": "Educação inclusiva: Governo propõe gestor de apoio à inclusão e um sistema que articule escolas, saúde e Segurança Social",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/sociedade/noticia/educacao-inclusiva-governo-propoe-gestor-apoio-inclusao-sistema-articule-escolas-saude-seguranca-social-2179978"
         }
     ],
     "finance": [],
-    "last_update": "30/06/2026 10:23"
+    "last_update": "30/06/2026 13:02"
 }
