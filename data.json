@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.6,
         "manha": 21.5,
-        "tarde": 30.1,
-        "noite": 23.2
+        "tarde": 29.7,
+        "noite": 23.1
     },
     "forecast": {
-        "max": 34.8,
-        "min": 20.0
+        "max": 34.3,
+        "min": 19.9
     },
     "news": [
         {
-            "title": "“A pizza salvou a minha vida”, diz chef que largou a alta gastronomia e hoje é premiado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/publico-brasil/noticia/pizza-salvou-vida-chef-largou-alta-gastronomia-hoje-premiado-2179867"
+            "title": "Lutar contra os incêndios é mais do que travar os eucaliptos, diz a Greenpeace",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/azul/noticia/lutar-incendios-travar-eucaliptos-greenpeace-2179916"
         },
         {
-            "title": "A saúde mental deixou de ser um tema periférico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/publico-brasil/opiniao/saude-mental-deixou-tema-periferico-2179924"
+            "title": "Banco Mundial abandona meta de crédito para o clima sob pressão da Administração Trump",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/azul/noticia/banco-mundial-abandona-meta-credito-clima-pressao-administracao-trump-2179947"
         },
         {
-            "title": "Despertador: Subvenções vitalícias de políticos caem. A realidade de idosos em lares ilegais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/newsletter/despertador"
+            "title": "Socorro Acioli é a convidada do Encontro de Leituras de Julho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/culturaipsilon/noticia/socorro-acioli-convidada-encontro-leituras-julho-2179446"
         },
         {
-            "title": "Centros que fazem “ponte” entre ciência e empresas ficam sem verbas e sem solução do Governo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/ciencia/noticia/centros-fazem-ponte-ciencia-empresas-ficam-verbas-solucao-governo-2179809"
+            "title": "PS continua à frente nas sondagens, mas perde vantagem face à AD",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/politica/noticia/ps-continua-frente-sondagens-perde-vantagem-face-ad-2179949"
         },
         {
-            "title": "Caneira: com Scolari “estávamos preparados para tudo, para o <em>ballet</em>, para a batalha e para o ringue”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/desporto/noticia/caneira-scolari-estavamos-preparados-ballet-batalha-ringue-2179921"
+            "title": "Dos sismos às baleias nas paredes: há cinco bolsas europeias a caminho de Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/06/30/ciencia/noticia/sismos-baleias-paredes-ha-cinco-bolsas-europeias-caminho-portugal-2179930"
         }
     ],
     "finance": [],
-    "last_update": "30/06/2026 06:44"
+    "last_update": "30/06/2026 10:23"
 }
