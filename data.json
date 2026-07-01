@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 20.2,
-        "manha": 22.2,
+        "atual": 20.0,
+        "manha": 22.1,
         "tarde": 33.3,
         "noite": 27.5
     },
     "forecast": {
         "max": 38.5,
-        "min": 21.6
+        "min": 21.5
     },
     "news": [
+        {
+            "title": "Novo recorde do calor oceânico anuncia “nova fase” do risco climático",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/azul/noticia/novo-recorde-calor-oceanico-anuncia-nova-fase-risco-climatico-2180021"
+        },
         {
             "title": "Esqueçam a heroína, a epidemia de drogas é outra e invisível",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/opiniao/opiniao/esquecam-heroina-epidemia-drogas-invisivel-2179676"
@@ -25,12 +29,8 @@
         {
             "title": "Há quem escreva sobre o Douro. Há quem o tenha transformado",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/opiniao/opiniao/ha-escreva-douro-ha-transformado-2180009"
-        },
-        {
-            "title": "O país sem peixe frito",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/opiniao/opiniao/pais-peixe-frito-2180001"
         }
     ],
     "finance": [],
-    "last_update": "30/06/2026 23:56"
+    "last_update": "01/07/2026 02:52"
 }
