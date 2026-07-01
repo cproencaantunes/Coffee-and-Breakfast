@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.0,
         "manha": 22.3,
-        "tarde": 33.0,
-        "noite": 27.6
+        "tarde": 32.5,
+        "noite": 26.8
     },
     "forecast": {
-        "max": 39.3,
-        "min": 21.7
+        "max": 38.6,
+        "min": 21.1
     },
     "news": [
         {
-            "title": "Portugal e Espanha devem coordenar acções em defesa do lobo-ibérico, pedem ONG",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/azul/noticia/portugal-espanha-coordenar-accoes-defesa-loboiberico-pedem-ong-2180023"
+            "title": "Seguro elogia “reacção pronta” do Governo no apoio prestado a Caracas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/politica/noticia/seguro-elogia-reaccao-pronta-governo-apoio-prestado-caracas-2180181"
         },
         {
-            "title": "Três estações do metro de Lisboa abertas fora do horário para acolher sem-abrigo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/local/noticia/tres-estacoes-metro-lisboa-abertas-horario-acolher-semabrigo-2180119"
+            "title": "Alemanha acusa formalmente cidadão ucraniano pelas explosões no gasoduto Nord Stream",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/mundo/noticia/alemanha-acusa-formalmente-cidadao-ucraniano-explosoes-gasoduto-nord-stream-2180175"
         },
         {
-            "title": "Soberania a crédito",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/p3/cronica/soberania-credito-2180093"
+            "title": "Ministro diz que prazos dos exames serão cumpridos, mas as explicações não convencem professores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/sociedade/noticia/ministro-prazos-exames-serao-cumpridos-explicacoes-nao-convencem-professores-2180138"
         },
         {
-            "title": "População une-se para debater futuro da ponte da Vista Alegre, encerrada há seis meses",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/local/noticia/populacao-unese-debater-futuro-ponte-vista-alegre-encerrada-ha-seis-meses-2179993"
+            "title": "Presidente da FIFA foi fotografado em dois jogos do Mundial que ocorreram em simultâneo? Falso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/desporto/noticia/presidente-fifa-fotografado-dois-jogos-mundial-ocorreram-simultaneo-falso-2180123"
         },
         {
-            "title": "Calor extremo obriga Festival Lisb-On a trocar Monsanto por Parque Eduardo VII",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/culturaipsilon/noticia/calor-extremo-obriga-festival-lisbon-trocar-monsanto-parque-eduardo-vii-2180115"
+            "title": "Mário Ferreira não é a Dona Antónia do século XXI",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/opiniao/opiniao/mario-ferreira-nao-dona-antonia-seculo-xxi-2180140"
         }
     ],
     "finance": [],
-    "last_update": "01/07/2026 14:05"
+    "last_update": "01/07/2026 17:05"
 }
