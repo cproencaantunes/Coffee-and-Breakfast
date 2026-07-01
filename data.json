@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.0,
         "manha": 22.3,
-        "tarde": 32.3,
-        "noite": 26.9
+        "tarde": 33.0,
+        "noite": 27.6
     },
     "forecast": {
         "max": 39.3,
-        "min": 21.0
+        "min": 21.7
     },
     "news": [
         {
-            "title": "PJ detém médica de Benavente suspeita de receber dinheiro para viabilizar reformas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/sociedade/noticia/pj-detem-medica-benavente-suspeita-receber-dinheiro-viabilizar-reformas-2180094"
+            "title": "Portugal e Espanha devem coordenar acções em defesa do lobo-ibérico, pedem ONG",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/azul/noticia/portugal-espanha-coordenar-accoes-defesa-loboiberico-pedem-ong-2180023"
         },
         {
-            "title": "Ministra afasta “reforma estrutural” da Segurança Social na legislatura, mas admite mecanismos de poupança individual",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/economia/noticia/ministra-afasta-reforma-estrutural-seguranca-social-legislatura-admite-mecanismos-poupanca-individual-2180089"
+            "title": "Três estações do metro de Lisboa abertas fora do horário para acolher sem-abrigo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/local/noticia/tres-estacoes-metro-lisboa-abertas-horario-acolher-semabrigo-2180119"
         },
         {
-            "title": "Que histórias conta uma garrafeira perdida, agora encontrada, no Dão?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/fugas/noticia/historias-conta-garrafeira-perdida-encontrada-dao-2180032"
+            "title": "Soberania a crédito",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/p3/cronica/soberania-credito-2180093"
         },
         {
-            "title": "Mudar de ideias tornou-se um sinal de fraqueza",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/p3/cronica/mudar-ideias-tornouse-sinal-fraqueza-2179201"
+            "title": "População une-se para debater futuro da ponte da Vista Alegre, encerrada há seis meses",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/local/noticia/populacao-unese-debater-futuro-ponte-vista-alegre-encerrada-ha-seis-meses-2179993"
         },
         {
-            "title": "Governo “não abdicará do seu objectivo de reformar a legislação laboral”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/economia/noticia/governo-nao-abdicara-objectivo-reformar-legislacao-laboral-2180083"
+            "title": "Calor extremo obriga Festival Lisb-On a trocar Monsanto por Parque Eduardo VII",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/culturaipsilon/noticia/calor-extremo-obriga-festival-lisbon-trocar-monsanto-parque-eduardo-vii-2180115"
         }
     ],
     "finance": [],
-    "last_update": "01/07/2026 11:16"
+    "last_update": "01/07/2026 14:05"
 }
