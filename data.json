@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.0,
-        "manha": 22.1,
-        "tarde": 33.3,
-        "noite": 27.5
+        "manha": 22.6,
+        "tarde": 32.9,
+        "noite": 26.9
     },
     "forecast": {
-        "max": 38.5,
+        "max": 38.9,
         "min": 21.5
     },
     "news": [
         {
-            "title": "Novo recorde do calor oceânico anuncia “nova fase” do risco climático",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/azul/noticia/novo-recorde-calor-oceanico-anuncia-nova-fase-risco-climatico-2180021"
+            "title": "Despertador: Hospitais com urgências fechadas vão sofrer cortes. Onda de calor atinge Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/newsletter/despertador"
         },
         {
-            "title": "Esqueçam a heroína, a epidemia de drogas é outra e invisível",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/opiniao/opiniao/esquecam-heroina-epidemia-drogas-invisivel-2179676"
+            "title": "Em casa manda o México, que derrotou o Equador e marcou encontro com a História",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/desporto/noticia/casa-manda-mexico-derrotou-equador-marcou-encontro-historia-2180066"
         },
         {
-            "title": "Estudantes diversos, territórios desiguais: a ação social e o desafio da coerência das políticas públicas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/opiniao/opiniao/estudantes-diversos-territorios-desiguais-acao-social-desafio-coerencia-politicas-publicas-2179673"
+            "title": "Perigo máximo de incêndio em 60 concelhos e muito elevado em mais de cem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/azul/noticia/perigo-maximo-incendio-60-concelhos-elevado-cem-2180067"
         },
         {
-            "title": "O Fundo Soberano parece uma boa ideia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/opiniao/opiniao/fundo-soberano-parece-boa-ideia-2180008"
+            "title": "A irrupção da história",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/mundo/opiniao/irrupcao-historia-2179953"
         },
         {
-            "title": "Há quem escreva sobre o Douro. Há quem o tenha transformado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/opiniao/opiniao/ha-escreva-douro-ha-transformado-2180009"
+            "title": "A história se repete",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/publico-brasil/cronica/historia-repete-2180056"
         }
     ],
     "finance": [],
-    "last_update": "01/07/2026 02:52"
+    "last_update": "01/07/2026 07:03"
 }
