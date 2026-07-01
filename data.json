@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.0,
-        "manha": 22.3,
-        "tarde": 32.5,
-        "noite": 27.1
+        "atual": 24.1,
+        "manha": 26.8,
+        "tarde": 37.4,
+        "noite": 32.5
     },
     "forecast": {
-        "max": 38.9,
-        "min": 21.2
+        "max": 37.3,
+        "min": 26.6
     },
     "news": [
         {
-            "title": "Sindicato \"dos\" ou \"de\" Jornalistas?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/newsletter/livre-estilo"
+            "title": "Quinze mil euros para Sócrates — e o pior é que a juíza tem razão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/opiniao/opiniao/15-mil-euros-socrates-pior-juiza-razao-2180108"
         },
         {
-            "title": "Martínez: “Ronaldo está acima da opinião pública. Idade é só um número”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/desporto/noticia/martinez-idade-so-numero-ronaldo-acima-opiniao-publica-2180208"
+            "title": "Mundial 2026: a Bélgica deu tudo em cinco minutos e ainda ganhou",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/desporto/cronica_de_jogo/belgica-deu-cinco-minutos-ganhou-2180227"
         },
         {
-            "title": "Clube da Esquina: Toninho Horta e Antonio Villeroy fazem show juntos em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/publico-brasil/noticia/clube-esquina-toninho-horta-antonio-villeroy-fazem-show-juntos-portugal-2180194"
+            "title": "Caos nos exames: Fernando Alexandre arrisca demissão?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/politica/podcast/caos-exames-fernando-alexandre-arrisca-demissao-2180206"
         },
         {
-            "title": "Tempestuosa sobrevivência",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/p3/cronica/tempestuosa-sobrevivencia-2179872"
+            "title": "EUA e 12 países árabes defendem livre navegação no estreito de Ormuz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/mundo/noticia/eua-12-paises-arabes-defendem-livre-navegacao-estreito-ormuz-2180225"
         },
         {
-            "title": "María Corina Machado deve ficar no estrangeiro porque “agora não faria nada” na Venezuela",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/mundo/noticia/maria-corina-machado-ficar-estrangeiro-nao-faria-nada-pais-2180157"
+            "title": "Americanos satisfeitos votam republicano. O problema de Trump: estão em minoria",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/newsletter/aquinaamerica"
         }
     ],
     "finance": [],
-    "last_update": "01/07/2026 21:16"
+    "last_update": "01/07/2026 23:01"
 }
