@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 23.8,
-        "manha": 26.4,
-        "tarde": 37.1,
+        "manha": 26.6,
+        "tarde": 37.5,
         "noite": 32.8
     },
     "forecast": {
-        "max": 37.2,
-        "min": 26.8
+        "max": 37.1,
+        "min": 26.5
     },
     "news": [
         {
-            "title": "Irão adverte EUA e Israel contra ataques antes dos cortejos fúnebres de Khamenei",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/mundo/noticia/irao-adverte-eua-israel-ataques-cortejos-funebres-khamenei-2180243"
+            "title": "Ministério Público pede condenação do empresário Mário Ferreira acusado de fraude fiscal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/sociedade/noticia/ministerio-publico-pede-condenacao-empresario-mario-ferreira-acusado-fraude-fiscal-2180261"
         },
         {
-            "title": "Investigadores do Porto validam estratégia para vacinas contra cancro colorrectal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/ciencia/noticia/investigadores-porto-validam-estrategia-vacinas-cancro-colorrectal-2180241"
+            "title": "Autoridades ucranianas acusadas de ordenar sabotagem aos gasodutos Nord Stream",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/mundo/noticia/autoridades-ucranianas-acusadas-ordenar-sabotagem-gasodutos-nord-stream-2180257"
         },
         {
-            "title": "Notas de Verão (algumas inoportunas, concedo)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/culturaipsilon/cronica/notas-verao-inoportunas-concedo-2179902"
+            "title": "Governo decreta situação de alerta até segunda-feira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/sociedade/noticia/governo-decreta-situacao-alerta-ate-segundafeira-2180255"
         },
         {
-            "title": "Morrer de calor ",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/newsletter/azul"
+            "title": "AIMA abre portal de renovações para residência de cidadãos da UE e familiares",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/publico-brasil/noticia/aima-abre-portal-renovacoes-residencia-cidadaos-ue-familiares-2180253"
         },
         {
-            "title": "Centenas de socorristas tentam resgatar Hérnan, soterrado há uma semana na Venezuela",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/mundo/noticia/centenas-socorristas-tentam-resgatar-hernan-soterrado-ha-semana-venezuela-2180238"
+            "title": "Casal detido após escalar ao topo do Empire State Building: uma declaração de amor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/impar/noticia/casal-detido-apos-pedido-casamento-topo-empire-state-building-2180250"
         }
     ],
     "finance": [],
-    "last_update": "02/07/2026 09:50"
+    "last_update": "02/07/2026 12:01"
 }
