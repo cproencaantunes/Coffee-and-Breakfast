@@ -1,9 +1,9 @@
 {
     "weather": {
-        "atual": 24.1,
-        "manha": 26.8,
-        "tarde": 37.4,
-        "noite": 32.5
+        "atual": 23.8,
+        "manha": 26.6,
+        "tarde": 37.3,
+        "noite": 32.7
     },
     "forecast": {
         "max": 37.3,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Quinze mil euros para Sócrates — e o pior é que a juíza tem razão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/opiniao/opiniao/15-mil-euros-socrates-pior-juiza-razao-2180108"
+            "title": "O custo de decidir sem dados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/opiniao/opiniao/custo-decidir-dados-2180178"
         },
         {
-            "title": "Mundial 2026: a Bélgica deu tudo em cinco minutos e ainda ganhou",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/desporto/cronica_de_jogo/belgica-deu-cinco-minutos-ganhou-2180227"
+            "title": "Número de casos de ébola na RD Congo sobe para 1406",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/mundo/noticia/numero-casos-ebola-rd-congo-sobe-1406-2180228"
         },
         {
-            "title": "Caos nos exames: Fernando Alexandre arrisca demissão?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/politica/podcast/caos-exames-fernando-alexandre-arrisca-demissao-2180206"
+            "title": "Se adoto, logo adeto — ou o português como ortuguês",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/culturaipsilon/opiniao/adoto-logo-adeto-portugues-ortugues-2179965"
         },
         {
-            "title": "EUA e 12 países árabes defendem livre navegação no estreito de Ormuz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/mundo/noticia/eua-12-paises-arabes-defendem-livre-navegacao-estreito-ormuz-2180225"
+            "title": "Está tudo mal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/opiniao/opiniao/mal-2180136"
         },
         {
-            "title": "Americanos satisfeitos votam republicano. O problema de Trump: estão em minoria",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/01/newsletter/aquinaamerica"
+            "title": "Querido Líder",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/opiniao/opiniao/querido-lider-2180124"
         }
     ],
     "finance": [],
-    "last_update": "01/07/2026 23:01"
+    "last_update": "02/07/2026 02:08"
 }
