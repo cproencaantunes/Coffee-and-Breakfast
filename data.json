@@ -2,35 +2,35 @@
     "weather": {
         "atual": 23.8,
         "manha": 26.6,
-        "tarde": 37.5,
-        "noite": 32.8
+        "tarde": 37.3,
+        "noite": 32.5
     },
     "forecast": {
-        "max": 37.1,
-        "min": 26.5
+        "max": 36.6,
+        "min": 26.2
     },
     "news": [
         {
-            "title": "Casal escala Empire State Building para apelo à paz (e pedido de casamento) e termina detido",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/video/casal-escala-empire-state-building-apelo-paz-pedido-casamento-termina-detido-20260702-155350"
+            "title": "Calor: estes são espaços apontados pelas autarquias como abrigos temporários",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/local/noticia/calor-sao-espacos-apontados-autarquias-abrigos-temporarios-2180318"
         },
         {
-            "title": "Assinado regulamento que impedia investigadores de progredir na carreira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/ciencia/noticia/assinado-regulamento-impedia-investigadores-progredir-carreira-2180275"
+            "title": "Tuchel quer que as crianças faltem à escola para ver o Inglaterra-México. Starmer diz que não",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/desporto/noticia/tuchel-quer-criancas-faltem-escola-inglaterramexico-starmer-nao-2180320"
         },
         {
-            "title": "Vídeos estão a ser partilhados como se fossem dos sismos na Venezuela, mas têm anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/video/videos-estao-partilhados-sismos-venezuela-anos-20260702-152321"
+            "title": "Prémio Camões 2026 para a escritora portuguesa Lídia Jorge",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/culturaipsilon/noticia/premio-camoes-2026-escritora-portuguesa-lidia-jorge-2180242"
         },
         {
-            "title": "Luchino Visconti: integral a partir de 17 de Julho no Nimas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/culturaipsilon/noticia/luchino-visconti-integral-partir-17-julho-nimas-2180269"
+            "title": "Falsos ecrãs azuis e burlas com hotéis ameaçam internautas portugueses",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/enter/noticia/falsos-ecras-azuis-burlas-hoteis-ameacam-internautas-portugueses-2180319"
         },
         {
-            "title": "Calor: Protecção Civil do Barreiro encerra Mata da Machada até 10 de Julho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/local/noticia/calor-proteccao-civil-barreiro-encerra-mata-machada-ate-10-julho-2180276"
+            "title": "McMurtry Spéirling, o carro desportivo com aspirador, já tem versão comercial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/02/enter/noticia/mcmurtry-speirling-carro-desportivo-aspirador-ja-versao-comercial-2180300"
         }
     ],
     "finance": [],
-    "last_update": "02/07/2026 15:04"
+    "last_update": "02/07/2026 17:25"
 }
