@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 27.8,
-        "manha": 27.8,
-        "tarde": 36.2,
-        "noite": 29.7
+        "atual": 0,
+        "manha": 0,
+        "tarde": 0,
+        "noite": 0
     },
     "forecast": {
-        "max": 36.7,
-        "min": 23.5
+        "max": 0,
+        "min": 0
     },
     "news": [
         {
+            "title": "Uma revolução apadrinhada pelo Supremo Tribunal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/opiniao/opiniao/revolucao-apadrinhada-supremo-tribunal-2180462"
+        },
+        {
+            "title": "Ucrânia: que a força esteja com ela!*",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/opiniao/opiniao/ucrania-forca-2180295"
+        },
+        {
+            "title": "Nova ponte entre as ribeiras do Porto e de Gaia: a boa notícia e a notícia preocupante",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/opiniao/opiniao/nova-ponte-ribeiras-porto-gaia-boa-noticia-noticia-preocupante-2180370"
+        },
+        {
+            "title": "250 anos dos EUA: porque é que somos todos americanos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/opiniao/opiniao/250-anos-eua-americanos-2180484"
+        },
+        {
             "title": "Ministra da Saúde admite preocupação: procura das urgências, INEM e SNS24 já está a aumentar",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/sociedade/noticia/ministra-saude-admite-preocupacao-procura-urgencias-inem-sns24-ja-aumentar-2180520"
-        },
-        {
-            "title": "Águeda de novo envolta em chamas. “É uma tristeza todos os anos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/sociedade/reportagem/agueda-novo-envolta-chamas-tristeza-anos-2180514"
-        },
-        {
-            "title": "Livrei-me dos Escuteiros por causa das brasas de louro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/fugas/cronica/livreime-escuteiros-causa-brasas-louro-2180499"
-        },
-        {
-            "title": "Serralves, Matosinhos, Braga: Julho é de jazz, efectivamente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/culturaipsilon/noticia/serralves-matosinhos-braga-julho-jazz-efectivamente-2180478"
-        },
-        {
-            "title": "Previsão do impacto do calor na mortalidade pode atingir nível recorde no domingo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/sociedade/noticia/previsao-impacto-calor-mortalidade-atingir-nivel-recorde-domingo-2180500"
         }
     ],
     "finance": [],
-    "last_update": "03/07/2026 22:53"
+    "last_update": "03/07/2026 23:56"
 }
