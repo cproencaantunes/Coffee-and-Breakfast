@@ -2,35 +2,35 @@
     "weather": {
         "atual": 27.8,
         "manha": 27.8,
-        "tarde": 36.8,
-        "noite": 29.6
+        "tarde": 36.6,
+        "noite": 29.5
     },
     "forecast": {
-        "max": 36.3,
+        "max": 36.2,
         "min": 23.3
     },
     "news": [
         {
-            "title": "Incêndios rurais: os gestos que podem prevenir riscos e salvar vidas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/azul/noticia/incendios-rurais-gestos-podem-prevenir-riscos-salvar-vidas-2180386"
+            "title": "Kremlin: sabotagem do Nord Stream deve pesar na adesão da Ucrânia à UE",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/mundo/noticia/kremlin-sabotagem-nord-stream-pesar-adesao-ucrania-2180418"
         },
         {
-            "title": "Alemanha: o país “campeão das baixas médicas” tenta reduzi-las",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/mundo/noticia/alemanha-pais-campeao-baixas-medicas-tenta-reduzilas-2180399"
+            "title": "Desta vez, Portugal não ficou a salvo da onda de calor na Europa. Porquê?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/azul/noticia/portugal-nao-ficou-salvo-onda-calor-europa-2180303"
         },
         {
-            "title": "Com Panda e muita água, a ler ou por um fio: sete ideias para brincar em família",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/impar/noticia/panda-agua-ler-fio-sete-ideias-brincar-familia-2180390"
+            "title": "Preços dos combustíveis voltam a subir na próxima semana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/economia/noticia/precos-combustiveis-voltam-subir-proxima-semana-2180425"
         },
         {
-            "title": "Pelo menos 2025 mortes registadas a mais devido ao calor em França",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/mundo/noticia/menos-2025-mortes-registadas-devido-calor-franca-2180398"
+            "title": "Diogo Costa e Gonçalo Ramos colocam Portugal nos oitavos de final do Mundial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/video/diogo-costa-goncalo-ramos-colocam-portugal-oitavos-final-mundial-20260703-140905"
         },
         {
-            "title": "Joss Stone recusa o jogo das celebridades e exalta o brasileiro comum",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/publico-brasil/noticia/joss-stone-recusa-jogo-celebridades-exalta-brasileiro-comum-2180392"
+            "title": "BYD volta a bater Tesla no mundo, mas o Model 3 domina as estradas portuguesas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/enter/noticia/byd-volta-bater-tesla-mundo-model-3-domina-estradas-portuguesas-2180410"
         }
     ],
     "finance": [],
-    "last_update": "03/07/2026 11:24"
+    "last_update": "03/07/2026 13:39"
 }
