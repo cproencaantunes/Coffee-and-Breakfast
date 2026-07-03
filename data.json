@@ -2,7 +2,7 @@
     "weather": {
         "atual": 27.8,
         "manha": 27.8,
-        "tarde": 36.6,
+        "tarde": 36.2,
         "noite": 29.5
     },
     "forecast": {
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Governo activa mecanismo europeu de Protecção Civil para prevenção de incêndios",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/politica/noticia/governo-activa-mecanismo-europeu-proteccao-civil-prevencao-incendios-2180453"
+            "title": "Gonçalo Ramos, mais do que um goleador fora de horas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/desporto/noticia/goncalo-ramos-goleador-horas-2180433"
         },
         {
-            "title": "Muitos dos melhores filmes do ano são realizados por mulheres. <em>L’ Aventura</em> vem confirmá-lo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/culturaipsilon/podcast/melhores-filmes-ano-sao-realizados-mulheres-l-aventura-vem-confirmalo-2180337"
+            "title": "Inteligência artificial da Anthropic entra nos laboratórios para criar fármacos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/enter/noticia/inteligencia-artificial-anthropic-entra-laboratorios-criar-farmacos-2180479"
         },
         {
-            "title": "População de Almada queixa-se de falhas no abastecimento de água e pede medidas urgentes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/local/noticia/populacao-almada-queixase-falhas-abastecimento-agua-pede-medidas-urgentes-2180445"
+            "title": "Barrantes e os maus exemplos judiciais que vêm de Espanha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/fugas/cronica/barrantes-maus-exemplos-judiciais-vem-espanha-2179826"
         },
         {
-            "title": "Que trapalhada digital, Sr. Ministro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/p3/cronica/trapalhada-digital-sr-ministro-2180448"
+            "title": "Tribunal suspende de funções médica de Benavente suspeita de facilitar reformas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/sociedade/noticia/tribunal-suspende-funcoes-medica-benavente-suspeita-facilitar-reformas-2180475"
         },
         {
-            "title": "Baile da Rosa regressa no Dia da Cidade de Coimbra pelos 100 anos do Salão Brazil",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/local/noticia/baile-rosa-regressa-dia-cidade-coimbra-100-anos-salao-brazil-2180449"
+            "title": "<em>Crime e castigo</em>, por Roberto Martínez",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/03/desporto/analise/crime-castigo-roberto-martinez-2180456"
         }
     ],
     "finance": [],
-    "last_update": "03/07/2026 15:47"
+    "last_update": "03/07/2026 17:11"
 }
