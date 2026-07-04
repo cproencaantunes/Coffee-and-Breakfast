@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 0,
-        "manha": 0,
-        "tarde": 0,
-        "noite": 0
+        "atual": 27.4,
+        "manha": 26.2,
+        "tarde": 34.4,
+        "noite": 31.2
     },
     "forecast": {
-        "max": 0,
-        "min": 0
+        "max": 36.3,
+        "min": 24.9
     },
     "news": [
         {
-            "title": "Cabo Verde teve tudo de todos, a Argentina teve Messi e os centrais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/desporto/noticia/cabo-verde-argentina-messi-centrais-2180523"
+            "title": "Nos 250 anos dos EUA, a sua democracia vive uma crise de meia idade de causa congénita",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/mundo/noticia/250-anos-eua-democracia-vive-crise-meia-idade-causa-congenita-2180493"
         },
         {
-            "title": "Uma revolução apadrinhada pelo Supremo Tribunal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/opiniao/opiniao/revolucao-apadrinhada-supremo-tribunal-2180462"
+            "title": "Moody’s diz que venda da TAP poderá durar “vários anos”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/economia/noticia/moodys-venda-tap-podera-durar-varios-anos-2180473"
         },
         {
-            "title": "Ucrânia: que a força esteja com ela!*",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/opiniao/opiniao/ucrania-forca-2180295"
+            "title": "Processo de digitalização de exames do básico e secundário custou mais de sete milhões de euros em três anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/sociedade/noticia/processo-digitalizacao-exames-basico-secundario-custou-sete-milhoes-euros-tres-anos-2180369"
         },
         {
-            "title": "Nova ponte entre as ribeiras do Porto e de Gaia: a boa notícia e a notícia preocupante",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/opiniao/opiniao/nova-ponte-ribeiras-porto-gaia-boa-noticia-noticia-preocupante-2180370"
+            "title": "Falhas nos exames põem em causa rigor da classificação. “Estou sem saber o que fazer”, diz professor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/sociedade/noticia/falhas-exames-poem-causa-rigor-avaliacao-saber-professor-2180506"
         },
         {
-            "title": "250 anos dos EUA: porque é que somos todos americanos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/opiniao/opiniao/250-anos-eua-americanos-2180484"
+            "title": "João Costa: Processo de digitalização da avaliação previa “controlo de qualidade” antes de ser generalizado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/sociedade/noticia/joao-costa-processo-digitalizacao-avaliacao-previa-controlo-qualidade-generalizado-2180513"
         }
     ],
     "finance": [],
-    "last_update": "04/07/2026 02:03"
+    "last_update": "04/07/2026 06:08"
 }
