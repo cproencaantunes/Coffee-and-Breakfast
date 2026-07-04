@@ -2,35 +2,35 @@
     "weather": {
         "atual": 27.4,
         "manha": 26.4,
-        "tarde": 35.0,
-        "noite": 31.2
+        "tarde": 34.7,
+        "noite": 30.8
     },
     "forecast": {
-        "max": 36.0,
+        "max": 35.6,
         "min": 23.8
     },
     "news": [
         {
+            "title": "“Numa época tão ruidosa como esta, o piano é um instrumento que nos faz falta ouvir”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/culturaipsilon/noticia/epoca-tao-ruidosa-piano-instrumento-faz-falta-ouvir-2180232"
+        },
+        {
+            "title": "A nuvem carregada que paira sobre os <em>data centers</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/azul/opiniao/nuvem-carregada-paira-data-centers-2180245"
+        },
+        {
+            "title": "PCP critica escolha de Portas para coordenar comemorações da fundação de Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/politica/noticia/pcp-critica-escolha-portas-coordenar-comemoracoes-fundacao-portugal-2180553"
+        },
+        {
+            "title": "Trump lança comemorações do 4 de Julho com ataque à “ameaça comunista” nos EUA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/mundo/noticia/trump-lanca-comemoracoes-4-julho-ataque-ameaca-comunista-eua-2180551"
+        },
+        {
             "title": "Pelo menos 18 mortos na República Democrática do Congo em ataque do M23",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/mundo/noticia/menos-18-mortos-republica-democratica-congo-ataque-m23-2180549"
-        },
-        {
-            "title": "Fisioterapia remota com IA? A minha missão diária é conseguir tratar mais doentes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/opiniao/opiniao/fisioterapia-remota-ia-missao-diaria-conseguir-tratar-doentes-2180459"
-        },
-        {
-            "title": "Luísa Neto: a jurista “discreta” que segue para o Palácio de Vilalva",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/politica/perfil/luisa-neto-jurista-discreta-segue-palacio-vilalva-2180129"
-        },
-        {
-            "title": "Medicina da NOVA foca em brasileiros e pede mais eficiência em vistos para estudantes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/publico-brasil/entrevista/medicina-nova-foca-brasileiros-pede-eficiencia-vistos-estudantes-2180547"
-        },
-        {
-            "title": "Em Rebordinho vê-se o fogo avançar, na esperança de que o vento não vire",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/04/sociedade/reportagem/rebordinho-vese-fogo-avancar-esperanca-vento-nao-vire-2180545"
         }
     ],
     "finance": [],
-    "last_update": "04/07/2026 14:25"
+    "last_update": "04/07/2026 15:53"
 }
