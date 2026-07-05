@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 27.9,
-        "manha": 25.6,
-        "tarde": 35.5,
-        "noite": 31.6
+        "manha": 25.9,
+        "tarde": 35.9,
+        "noite": 31.8
     },
     "forecast": {
-        "max": 36.1,
-        "min": 22.8
+        "max": 35.9,
+        "min": 22.5
     },
     "news": [
         {
-            "title": "Bolsas de nicotina: regular para reduzir riscos, não para proibir",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/opiniao/opiniao/bolsas-nicotina-regular-reduzir-riscos-nao-proibir-2180266"
+            "title": "Arguidos por agressão a enfermeiros recorrem, vítima espera que pena se mantenha: “Fui muito lesada”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/sociedade/noticia/arguidos-agressao-enfermeiros-recorrem-vitima-espera-pena-mantenha-lesada-2180404"
         },
         {
-            "title": "Para quê? Para atrapalhar (e muito) a França",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/desporto/cronica_de_jogo/atrapalhar-franca-2180578"
+            "title": "Turquia aproveita cimeira para recalibrar relação tensa com a NATO",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/mundo/noticia/turquia-aproveita-cimeira-recalibrar-relacao-tensa-nato-2180532"
         },
         {
-            "title": "A factura dos 500 milhões: reciclar ou pagar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/opiniao/opiniao/factura-500-milhoes-reciclar-pagar-2180189"
+            "title": "“A NATO continua a ser indispensável para a Turquia, mas tem as suas limitações”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/mundo/entrevista/nato-continua-indispensavel-turquia-limitacoes-2180535"
         },
         {
-            "title": "Entrámos, mas não chegámos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/opiniao/opiniao/entramos-nao-chegamos-2180361"
+            "title": "Lea Ypi: “Este não é um mundo onde a dignidade é realmente respeitada e reconhecida”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/mundo/entrevista/lea-ypi-nao-mundo-onde-dignidade-realmente-respeitada-reconhecida-2179103"
         },
         {
-            "title": "Imigração em horário nobre",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/opiniao/opiniao/imigracao-horario-nobre-2180270"
+            "title": "Perguntas frequentes sobre o Mundial (edição para principiantes)",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/opiniao/cronica/perguntas-frequentes-mundial-edicao-principiantes-2180412"
         }
     ],
     "finance": [],
-    "last_update": "05/07/2026 01:59"
+    "last_update": "05/07/2026 06:05"
 }
