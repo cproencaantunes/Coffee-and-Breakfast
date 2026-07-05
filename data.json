@@ -2,35 +2,35 @@
     "weather": {
         "atual": 27.9,
         "manha": 26.2,
-        "tarde": 35.2,
-        "noite": 31.5
+        "tarde": 35.4,
+        "noite": 32.1
     },
     "forecast": {
         "max": 36.0,
-        "min": 22.5
+        "min": 22.1
     },
     "news": [
         {
-            "title": "Literacia do oceano: conhecer para proteger",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/azul/opiniao/literacia-oceano-conhecer-proteger-2180435"
+            "title": "“Rap e trap já são mais ouvidos que o pop no Brasil”, diz Filipe Ret em Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/publico-brasil/noticia/rap-trap-ja-sao-ouvidos-pop-brasil-filipe-ret-lisboa-2180592"
         },
         {
-            "title": "França condena Chilavert por dizer que Paraguai ia enfrentar uma “selecção de África”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/desporto/noticia/franca-condena-chilavert-dizer-paraguai-ia-enfrentar-seleccao-africa-2180589"
+            "title": "Mensagem do funeral de Khamenei no Irão: “Não desejamos a guerra, mas ela tornou-nos mais fortes”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/mundo/noticia/mensagem-funeral-khamenei-irao-nao-desejamos-guerra-tornounos-fortes-2180596"
         },
         {
-            "title": "Peugeot 408 Hybrid 145cv: quando assenta, é como uma luva",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/fugas/noticia/peugeot-408-hybrid-145cv-assenta-luva-2179414"
+            "title": "ONU alerta para escassez de água que ameaça milhões de pessoas em Cabul",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/azul/noticia/onu-alerta-escassez-agua-ameaca-milhoes-pessoas-cabul-2180598"
         },
         {
-            "title": "O que sabemos sobre o novo (e forte) <em>El Niño</em>?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/azul/noticia/sabemos-novo-forte-el-nino-2180495"
+            "title": "Governo transfere mais 200 milhões de euros para o SNS pagar dívidas a fornecedores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/sociedade/noticia/governo-transfere-200-milhoes-euros-sns-pagar-dividas-fornecedores-2180593"
         },
         {
-            "title": "“Soprar o balão” no telemóvel",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/enter/noticia/soprar-balao-telemovel-2180587"
+            "title": "Cerimónia fúnebre de Khamenei sem a presença do seu sucessor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/mundo/noticia/cerimonia-funebre-khamenei-presenca-sucessor-2180590"
         }
     ],
     "finance": [],
-    "last_update": "05/07/2026 11:22"
+    "last_update": "05/07/2026 13:05"
 }
