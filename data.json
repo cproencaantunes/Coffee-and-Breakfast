@@ -3,34 +3,34 @@
         "atual": 27.9,
         "manha": 26.2,
         "tarde": 35.5,
-        "noite": 31.4
+        "noite": 31.9
     },
     "forecast": {
-        "max": 36.1,
-        "min": 23.2
+        "max": 36.3,
+        "min": 23.5
     },
     "news": [
         {
+            "title": "Número de mortes dos sismos na Venezuela sobe para 3342 e o de feridos para 16.740",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/mundo/noticia/numero-mortes-sismos-venezuela-sobe-3342-feridos-16740-2180649"
+        },
+        {
+            "title": "Haaland atirou o Brasil para fora do Mundial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/desporto/cronica_de_jogo/haaland-atirou-brasil-mundial-2180648"
+        },
+        {
+            "title": "Portugal vence na Grécia e avança na qualificação para o Mundial de basquetebol",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/desporto/noticia/portugal-vence-grecia-avanca-qualificacao-mundial-basquetebol-2180647"
+        },
+        {
+            "title": "Indústria química influencia lista de produtos “críticos” que podem ter apoio europeu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/azul/noticia/industria-quimica-influencia-lista-produtos-criticos-podem-apoio-europeu-2180400"
+        },
+        {
             "title": "Contribuições de estrangeiros para a Segurança Social subiram para os 365,4 milhões",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/sociedade/noticia/contribuicoes-estrangeiros-seguranca-social-subiram-3654-milhoes-2179114"
-        },
-        {
-            "title": "Montenegro vai a Dallas ver a selecção e falha jornadas do PSD",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/politica/noticia/montenegro-vai-dallas-seleccao-falha-jornadas-psd-2180646"
-        },
-        {
-            "title": "Djokovic vai fazendo história em Wimbledon",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/desporto/noticia/djokovic-vai-historia-wimbledon-2180644"
-        },
-        {
-            "title": "FIFA perdoa castigo a jogador dos EUA e Trump agradeceu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/desporto/noticia/fifa-perdoa-castigo-jogador-eua-trump-agradeceu-2180642"
-        },
-        {
-            "title": "O caos dos exames merece uma comissão de inquérito",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/politica/cronica/caos-exames-merece-comissao-inquerito-2180628"
         }
     ],
     "finance": [],
-    "last_update": "05/07/2026 21:49"
+    "last_update": "05/07/2026 22:50"
 }
