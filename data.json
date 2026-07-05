@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 27.9,
-        "manha": 25.9,
-        "tarde": 35.9,
-        "noite": 31.8
+        "manha": 26.2,
+        "tarde": 35.2,
+        "noite": 31.5
     },
     "forecast": {
-        "max": 35.9,
+        "max": 36.0,
         "min": 22.5
     },
     "news": [
         {
-            "title": "Aranha-reclusa-chilena (que é venenosa) foi detectada pela primeira vez em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/ciencia/noticia/aranhareclusachilena-venenosa-detectada-primeira-portugal-2180304"
+            "title": "Literacia do oceano: conhecer para proteger",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/azul/opiniao/literacia-oceano-conhecer-proteger-2180435"
         },
         {
-            "title": "“A Casa Cedo é, na sua essência, uma casa. É aconchego, criatividade e beleza”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/fugas/noticia/casa-cedo-essencia-casa-aconchego-criatividade-beleza-2179452"
+            "title": "França condena Chilavert por dizer que Paraguai ia enfrentar uma “selecção de África”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/desporto/noticia/franca-condena-chilavert-dizer-paraguai-ia-enfrentar-seleccao-africa-2180589"
         },
         {
-            "title": "Arqueólogos descobrem novas gravuras do Paleolítico Superior no Vale do Côa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/culturaipsilon/noticia/arqueologos-descobrem-novas-gravuras-paleolitico-superior-vale-coa-2180584"
+            "title": "Peugeot 408 Hybrid 145cv: quando assenta, é como uma luva",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/fugas/noticia/peugeot-408-hybrid-145cv-assenta-luva-2179414"
         },
         {
-            "title": "Brasil tenta quebrar tabu contra a Noruega. Ancelotti vê Seleção no melhor momento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/publico-brasil/noticia/brasil-tenta-quebrar-tabu-noruega-ancelotti-ve-selecao-melhor-momento-2180585"
+            "title": "O que sabemos sobre o novo (e forte) <em>El Niño</em>?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/azul/noticia/sabemos-novo-forte-el-nino-2180495"
         },
         {
-            "title": "Ípsilon Livros & Ideias: uma revista de leitura lenta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/edicoes-publico/noticia/ipsilon-livros-ideias-revista-leitura-lenta-2180501"
+            "title": "“Soprar o balão” no telemóvel",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/enter/noticia/soprar-balao-telemovel-2180587"
         }
     ],
     "finance": [],
-    "last_update": "05/07/2026 09:33"
+    "last_update": "05/07/2026 11:22"
 }
