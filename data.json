@@ -2,35 +2,35 @@
     "weather": {
         "atual": 27.9,
         "manha": 26.2,
-        "tarde": 35.4,
-        "noite": 32.1
+        "tarde": 35.5,
+        "noite": 31.5
     },
     "forecast": {
-        "max": 36.0,
-        "min": 22.1
+        "max": 35.3,
+        "min": 22.5
     },
     "news": [
         {
-            "title": "Especialistas querem inteligência artificial no centro da reforma laboral",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/economia/noticia/especialistas-querem-inteligencia-artificial-centro-reforma-laboral-2179914"
+            "title": "Pogacar “oferece” vitória a Isaac del Toro no segundo dia da Volta a França",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/desporto/noticia/pogacar-oferece-vitoria-isaac-del-toro-segundo-dia-volta-franca-2180617"
         },
         {
-            "title": "Terminada missão da GNR no controlo de fronteiras do aeroporto de Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/sociedade/noticia/terminada-missao-gnr-controlo-fronteiras-aeroporto-lisboa-2180606"
+            "title": "Da rave Marques’Almeida ao até já de Susana Bettencourt: eis destaques do Portugal Fashion",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/impar/noticia/rave-marquesalmeida-ate-ja-susana-bettencourt-eis-destaques-portugal-fashion-2180619"
         },
         {
-            "title": "Maria Grazia Calandrone: a escrita começa onde há uma ausência",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/culturaipsilon/entrevista/maria-grazia-calandrone-escrita-comeca-onde-ha-ausencia-2180002"
+            "title": "Famílias com viagens pagas em risco por causa da mudança do calendário de exames",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/sociedade/noticia/familias-viagens-pagas-risco-causa-mudanca-calendario-exames-2180615"
         },
         {
-            "title": "A Europa já não tem desculpas para manter os produtos dos colonatos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/opiniao/opiniao/europa-ja-nao-desculpas-manter-produtos-colonatos-2180327"
+            "title": "Jihadistas e tuaregues voltam a unir forças para novo ataque coordenado no Mali",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/mundo/noticia/jihadistas-tuaregues-voltam-unir-forcas-novo-ataque-coordenado-mali-2180623"
         },
         {
-            "title": "BE propõe comissão de inquérito sobre o caso das avaliações dos exames nacionais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/politica/noticia/be-propoe-comissao-inquerito-caso-avaliacoes-exames-nacionais-2180605"
+            "title": "Eliminação do Irão no Mundial origina processo milionário contra a FIFA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/desporto/noticia/eliminacao-irao-mundial-origina-processo-milionario-fifa-2180620"
         }
     ],
     "finance": [],
-    "last_update": "05/07/2026 15:04"
+    "last_update": "05/07/2026 16:53"
 }
