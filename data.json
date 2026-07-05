@@ -1,15 +1,27 @@
 {
     "weather": {
-        "atual": 27.9,
-        "manha": 26.2,
-        "tarde": 35.5,
-        "noite": 31.9
+        "atual": 27.1,
+        "manha": 26.5,
+        "tarde": 35.6,
+        "noite": 27.1
     },
     "forecast": {
-        "max": 36.3,
-        "min": 23.5
+        "max": 32.7,
+        "min": 20.4
     },
     "news": [
+        {
+            "title": "Educação, a democratização inacabada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/opiniao/opiniao/educacao-democratizacao-inacabada-2180364"
+        },
+        {
+            "title": "A proteção das crianças exige mais do que indignação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/opiniao/opiniao/protecao-criancas-exige-indignacao-2180368"
+        },
+        {
+            "title": "A preguiça é uma defesa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/opiniao/cronica/preguica-defesa-2180591"
+        },
         {
             "title": "Número de mortes dos sismos na Venezuela sobe para 3342 e o de feridos para 16.740",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/mundo/noticia/numero-mortes-sismos-venezuela-sobe-3342-feridos-16740-2180649"
@@ -17,20 +29,8 @@
         {
             "title": "Haaland atirou o Brasil para fora do Mundial",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/desporto/cronica_de_jogo/haaland-atirou-brasil-mundial-2180648"
-        },
-        {
-            "title": "Portugal vence na Grécia e avança na qualificação para o Mundial de basquetebol",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/desporto/noticia/portugal-vence-grecia-avanca-qualificacao-mundial-basquetebol-2180647"
-        },
-        {
-            "title": "Indústria química influencia lista de produtos “críticos” que podem ter apoio europeu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/azul/noticia/industria-quimica-influencia-lista-produtos-criticos-podem-apoio-europeu-2180400"
-        },
-        {
-            "title": "Contribuições de estrangeiros para a Segurança Social subiram para os 365,4 milhões",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/sociedade/noticia/contribuicoes-estrangeiros-seguranca-social-subiram-3654-milhoes-2179114"
         }
     ],
     "finance": [],
-    "last_update": "05/07/2026 22:50"
+    "last_update": "05/07/2026 23:56"
 }
