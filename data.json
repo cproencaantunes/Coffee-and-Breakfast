@@ -2,35 +2,35 @@
     "weather": {
         "atual": 27.5,
         "manha": 27.0,
-        "tarde": 36.0,
-        "noite": 26.2
+        "tarde": 35.6,
+        "noite": 25.3
     },
     "forecast": {
-        "max": 32.7,
-        "min": 20.8
+        "max": 32.3,
+        "min": 20.7
     },
     "news": [
         {
-            "title": "Supremo mantém que Ângelo Guterres matou Gurpreet Singh por racismo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/sociedade/noticia/supremo-mantem-angelo-guterres-matou-gurpreet-singh-racismo-2180716"
+            "title": "Na Costa de Caparica, há água por todos os lados, menos nas torneiras",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/local/noticia/costa-caparica-ha-agua-lados-menos-torneiras-2180720"
         },
         {
-            "title": "Bruno Lage vai treinar os sauditas do Al-Diriyah",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/desporto/noticia/bruno-lage-vai-treinar-sauditas-aldiriyah-2180723"
+            "title": "Fernando Alexandre acha mesmo que tem condições para continuar?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/politica/noticia/fernando-alexandre-acha-condicoes-continuar-2180755"
         },
         {
-            "title": "Dois olhares sobre a África Colonial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/edicoes-publico/noticia/dois-olhares-africa-colonial-2180611"
+            "title": "Ex-miss, atriz que vive entre Angola e Portugal entrará em novela no Brasil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/publico-brasil/noticia/exmiss-atriz-vive-angola-portugal-entrara-novela-brasil-2180754"
         },
         {
-            "title": "Incêndios: Carneiro critica ausência de Montenegro para assistir ao Mundial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/politica/noticia/incendios-carneiro-critica-ausencia-montenegro-assistir-mundial-2180705"
+            "title": "Sony esclarece que jogos lançados antes de 2028 podem continuar a ser produzidos em disco",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/enter/noticia/sony-esclarece-jogos-lancados-2028-podem-continuar-produzidos-disco-2180722"
         },
         {
-            "title": "Hamas anuncia que sai do governo de Gaza",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/mundo/noticia/hamas-anuncia-sai-governo-gaza-2180710"
+            "title": "Bubista: “Os jogadores cabo-verdianos vão ficar mais valorizados” depois do Mundial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/desporto/entrevista/bubista-jogadores-caboverdianos-vao-ficar-valorizados-mundial-2180747"
         }
     ],
     "finance": [],
-    "last_update": "06/07/2026 14:56"
+    "last_update": "06/07/2026 17:35"
 }
