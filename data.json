@@ -2,35 +2,35 @@
     "weather": {
         "atual": 27.5,
         "manha": 27.0,
-        "tarde": 36.2,
-        "noite": 27.0
+        "tarde": 36.0,
+        "noite": 26.2
     },
     "forecast": {
-        "max": 33.0,
-        "min": 20.5
+        "max": 32.7,
+        "min": 20.8
     },
     "news": [
         {
-            "title": "Há motoristas de TVDE a recusar transportar cães-guia. “Eu e a <em>Java</em> ficamos ali, abandonados na rua”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/p3/noticia/ha-motoristas-tvde-recusar-transportar-caesguia-java-ficamos-ali-abandonados-rua-2178376"
+            "title": "Supremo mantém que Ângelo Guterres matou Gurpreet Singh por racismo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/sociedade/noticia/supremo-mantem-angelo-guterres-matou-gurpreet-singh-racismo-2180716"
         },
         {
-            "title": "Primeiro cinco milhões e agora benefícios: Farage omite ajuda de aliado das criptomoedas condenado por fraude",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/mundo/noticia/cinco-milhoes-beneficios-farage-omite-ajuda-aliado-criptomoedas-condenado-fraude-2180693"
+            "title": "Bruno Lage vai treinar os sauditas do Al-Diriyah",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/desporto/noticia/bruno-lage-vai-treinar-sauditas-aldiriyah-2180723"
         },
         {
-            "title": "Lentamente, disparidade salarial entre géneros volta a baixar; directiva europeia pode ajudar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/sociedade/noticia/lentamente-disparidade-salarial-generos-volta-baixar-directiva-europeia-ajudar-2180279"
+            "title": "Dois olhares sobre a África Colonial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/edicoes-publico/noticia/dois-olhares-africa-colonial-2180611"
         },
         {
-            "title": "Multibanco + Perto chega a localidades do interior onde os serviços bancários desapareceram",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/economia/noticia/multibanco-perto-chega-localidades-interior-onde-servicos-bancarios-desapareceram-2180676"
+            "title": "Incêndios: Carneiro critica ausência de Montenegro para assistir ao Mundial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/politica/noticia/incendios-carneiro-critica-ausencia-montenegro-assistir-mundial-2180705"
         },
         {
-            "title": "Vouzela: a coluna de fumo de 620 quilómetros pode ser vista do espaço",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/azul/noticia/vouzela-coluna-fumo-620-quilometros-vista-espaco-2180687"
+            "title": "Hamas anuncia que sai do governo de Gaza",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/mundo/noticia/hamas-anuncia-sai-governo-gaza-2180710"
         }
     ],
     "finance": [],
-    "last_update": "06/07/2026 11:53"
+    "last_update": "06/07/2026 14:56"
 }
