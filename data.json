@@ -3,34 +3,34 @@
         "atual": 27.5,
         "manha": 27.0,
         "tarde": 35.6,
-        "noite": 25.1
+        "noite": 24.7
     },
     "forecast": {
-        "max": 32.0,
-        "min": 20.6
+        "max": 31.4,
+        "min": 20.3
     },
     "news": [
         {
-            "title": "Portugal adormeceu na <em>siesta </em>e vai ver o resto do Mundial em casa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/desporto/cronica_de_jogo/portugal-adormeceu-siesta-vai-resto-mundial-casa-2180652"
+            "title": "Seguro diz que o novo Adamastor é o “algoritmo que decide sem explicar”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/ciencia/noticia/seguro-novo-adamastor-algoritmo-decide-explicar-2180782"
         },
         {
-            "title": "Ucrânia passa de beneficiária a fornecedora de segurança da NATO",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/mundo/noticia/ucrania-passa-beneficiaria-fornecedora-seguranca-nato-2180764"
+            "title": "Em Wimbledon, o conto de fadas continua para Arthur Fery",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/desporto/noticia/wimbledon-conto-fadas-continua-arthur-fery-2180783"
         },
         {
-            "title": "Dentro do pavilhão onde se guardam os exames nacionais: “As provas existem. Estão todas ali”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/sociedade/reportagem/dentro-pavilhao-onde-guardam-exames-nacionais-provas-existem-estao-ali-2180774"
+            "title": "Portugal 0-Espanha 1: as notas aos jogadores portugueses",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/desporto/noticia/portugal-0espanha-1-notas-jogadores-portugueses-2180780"
         },
         {
-            "title": "Rutte ignora tensões e dá crédito a Trump pela modernização da NATO",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/mundo/noticia/rutte-ignora-tensoes-credito-trump-modernizacao-nato-2180744"
+            "title": "Roberto Martínez despede-se orgulhoso: “Vim para ganhar, não faz sentido continuar”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/desporto/noticia/roberto-martinez-despedese-orgulhoso-vim-ganhar-nao-faz-sentido-continuar-2180781"
         },
         {
-            "title": "Durão Barroso faz apelo ao patriotismo sem xenofobias nas jornadas da AD",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/politica/noticia/durao-barroso-faz-apelo-patriotismo-xenofobias-jornadas-ad-2180765"
+            "title": "Governo prolonga estado de alerta devido ao calor e aos incêndios",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/sociedade/noticia/governo-prolonga-estado-alerta-devido-calor-incendios-2180779"
         }
     ],
     "finance": [],
-    "last_update": "06/07/2026 21:19"
+    "last_update": "06/07/2026 22:56"
 }
