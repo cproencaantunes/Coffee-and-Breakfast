@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 27.5,
-        "manha": 26.8,
-        "tarde": 35.8,
-        "noite": 27.0
+        "manha": 27.0,
+        "tarde": 36.3,
+        "noite": 27.2
     },
     "forecast": {
-        "max": 32.7,
-        "min": 20.4
+        "max": 33.2,
+        "min": 20.9
     },
     "news": [
         {
-            "title": "Educação, a democratização inacabada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/opiniao/opiniao/educacao-democratizacao-inacabada-2180364"
+            "title": "Perigo máximo de incêndio para mais de 100 concelhos, detenções por fogo aumentam",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/sociedade/noticia/perigo-maximo-incendio-100-concelhos-detencoes-fogo-aumentam-2180657"
         },
         {
-            "title": "A proteção das crianças exige mais do que indignação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/opiniao/opiniao/protecao-criancas-exige-indignacao-2180368"
+            "title": "No próximo episódio de Dallas, uma desavença familiar entre Portugal e Espanha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/desporto/noticia/proximo-episodio-dallas-desavenca-familiar-portugal-espanha-2180629"
         },
         {
-            "title": "A preguiça é uma defesa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/opiniao/cronica/preguica-defesa-2180591"
+            "title": "Saiu de Dallas a digressão mais louca e perigosa da história do futebol",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/desporto/reportagem/dallas-saiu-digressao-louca-perigosa-historia-futebol-2180604"
         },
         {
-            "title": "Número de mortes dos sismos na Venezuela sobe para 3342 e o de feridos para 16.740",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/mundo/noticia/numero-mortes-sismos-venezuela-sobe-3342-feridos-16740-2180649"
+            "title": "A crise da IA será a nostalgia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/publico-brasil/opiniao/crise-ia-sera-nostalgia-2180633"
         },
         {
-            "title": "Haaland atirou o Brasil para fora do Mundial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/05/desporto/cronica_de_jogo/haaland-atirou-brasil-mundial-2180648"
+            "title": "Despertador: Despesa do SNS com medicamentos oncológicos triplica em 10 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/newsletter/despertador"
         }
     ],
     "finance": [],
-    "last_update": "06/07/2026 02:24"
+    "last_update": "06/07/2026 07:00"
 }
