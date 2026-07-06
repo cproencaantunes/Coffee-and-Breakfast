@@ -1,9 +1,9 @@
 {
     "weather": {
-        "atual": 27.1,
-        "manha": 26.5,
-        "tarde": 35.6,
-        "noite": 27.1
+        "atual": 27.5,
+        "manha": 26.8,
+        "tarde": 35.8,
+        "noite": 27.0
     },
     "forecast": {
         "max": 32.7,
@@ -32,5 +32,5 @@
         }
     ],
     "finance": [],
-    "last_update": "05/07/2026 23:56"
+    "last_update": "06/07/2026 02:24"
 }
