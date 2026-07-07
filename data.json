@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 21.3,
-        "manha": 21.4,
+        "manha": 21.0,
         "tarde": 31.2,
         "noite": 24.1
     },
     "forecast": {
-        "max": 32.5,
-        "min": 19.8
+        "max": 32.4,
+        "min": 19.5
     },
     "news": [
         {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/opiniao/opiniao/cartas-director-2180748"
+        },
+        {
+            "title": "Bélgica 4, Casa Branca 1: os EUA foram despejados do Mundial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/desporto/cronica_de_jogo/belgica-4-casa-branca-1-eua-despejados-mundial-2180791"
+        },
+        {
+            "title": "João Félix é a figura do jogo que coloca Portugal fora do Mundial de Futebol",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/video/joao-felix-figura-jogo-coloca-portugal-mundial-futebol-20260707-000038"
+        },
+        {
+            "title": "Cristiano Ronaldo: “Saio de consciência tranquila, de quem deu sempre tudo”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/desporto/noticia/cristiano-ronaldo-saio-consciencia-tranquila-deu-2180786"
+        },
+        {
             "title": "A reinvenção democrática",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/opiniao/opiniao/reinvencao-democratica-2180679"
-        },
-        {
-            "title": "Montenegro e a sua “Comissão dos Centenários”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/opiniao/opiniao/montenegro-comissao-centenarios-2180757"
-        },
-        {
-            "title": "Resiliência da banca portuguesa: um ativo estratégico nacional",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/opiniao/opiniao/resiliencia-banca-portuguesa-ativo-estrategico-nacional-2180274"
-        },
-        {
-            "title": "Obviamente, demita-se!",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/opiniao/opiniao/obviamente-demitase-2180715"
-        },
-        {
-            "title": "PRR: Casas prontas. Portas fechadas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/opiniao/opiniao/prr-casas-prontas-portas-fechadas-2180718"
         }
     ],
     "finance": [],
-    "last_update": "07/07/2026 00:01"
+    "last_update": "07/07/2026 04:40"
 }
