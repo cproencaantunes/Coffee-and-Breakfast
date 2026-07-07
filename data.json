@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.3,
         "manha": 20.8,
-        "tarde": 31.0,
-        "noite": 23.7
+        "tarde": 30.9,
+        "noite": 23.6
     },
     "forecast": {
-        "max": 32.7,
-        "min": 19.5
+        "max": 33.1,
+        "min": 19.4
     },
     "news": [
         {
-            "title": "Nova ligação fluvial entre Trafaria e Algés arranca quinta-feira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/local/noticia/nova-ligacao-fluvial-trafaria-alges-arranca-quintafeira-2180823"
+            "title": "O pior exemplo que os adultos podem dar aos mais novos: nada é para cumprir",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/impar/cronica/pior-exemplo-adultos-podem-dar-novos-nada-cumprir-2180824"
         },
         {
-            "title": "Proibição de redes sociais a jovens na Austrália tem falhas, diz estudo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/p3/noticia/proibicao-redes-sociais-jovens-australia-falhas-estudo-2180816"
+            "title": "O destino da selecção estava traçado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/desporto/opiniao/destino-seleccao-tracado-2180856"
         },
         {
-            "title": "Mundial 2026: como ajudar as crianças a lidar com a desilusão da derrota",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/impar/noticia/mundial-2026-ajudar-criancas-lidar-desilusao-derrota-2180817"
+            "title": "A UE já tem uma <em>app </em>para provar a idade. Portugal ainda escolheu a CMD?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/p3/cronica/ue-ja-app-provar-idade-portugal-escolheu-cmd-2180848"
         },
         {
-            "title": "Até onde o nosso corpo aguenta o calor? E como ter uma boa noite de sono?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/ciencia/perguntaserespostas/ate-onde-corpo-aguenta-calor-boa-noite-sono-2180813"
+            "title": "Sete Vales Suspensos: empresas turísticas denunciam “crescente degradação” do trilho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/fugas/noticia/sete-vales-suspensos-empresas-turisticas-denunciam-crescente-degradacao-trilho-2180839"
         },
         {
-            "title": "Acusação de violação contra Graham Platner ameaça reconquista democrata do Senado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/mundo/noticia/acusacao-violacao-graham-platner-ameaca-reconquista-democrata-senado-2180809"
+            "title": "Governo aponta Almada como o município com maiores perdas de água",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/local/noticia/governo-aponta-almada-municipio-maiores-perdas-agua-2180844"
         }
     ],
     "finance": [],
-    "last_update": "07/07/2026 11:36"
+    "last_update": "07/07/2026 14:04"
 }
