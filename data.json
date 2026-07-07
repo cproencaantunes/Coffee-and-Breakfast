@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 21.3,
-        "manha": 20.8,
-        "tarde": 31.0,
-        "noite": 23.9
+        "atual": 21.5,
+        "manha": 21.1,
+        "tarde": 33.7,
+        "noite": 26.6
     },
     "forecast": {
-        "max": 34.0,
-        "min": 19.0
+        "max": 27.3,
+        "min": 19.2
     },
     "news": [
         {
-            "title": "Wimbledon: Jannik Sinner sobrevive no calor de Londres",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/desporto/noticia/wimbledon-jannik-sinner-sobrevive-calor-londres-2180933"
+            "title": "NATO 3.0: aliança ou parceria?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/opiniao/opiniao/nato-30-alianca-parceria-2180892"
         },
         {
-            "title": "EUA lançam novos ataques “poderosos” contra o Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/mundo/noticia/eua-lancam-novos-ataques-poderosos-irao-2180932"
+            "title": "Espanto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/opiniao/opiniao/espanto-2180815"
         },
         {
-            "title": "Consulado do Brasil em Nova York é fechado por risco de desabamento de prédio vizinho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/publico-brasil/noticia/consulado-brasil-nova-york-fechado-risco-desabamento-predio-vizinho-2180928"
+            "title": "Montenegro “do povo” atrás da selecção à custa dos contribuintes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/politica/noticia/montenegro-povo-atras-seleccao-custa-contribuintes-2180936"
         },
         {
-            "title": "Plataforma de classificação dos exames foi escolhida em 2017: programadores “eram excepcionais e muito rápidos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/sociedade/noticia/plataforma-classificacao-exames-escolhida-2017-programadores-excepcionais-rapidos-2180850"
+            "title": "O julgamento de Bad Münstereifel",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/opiniao/opiniao/julgamento-bad-munstereifel-2180704"
         },
         {
-            "title": "Seguro promulga lei orgânica do INEM. Sindicato pede a partidos que a travem no Parlamento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/sociedade/noticia/seguro-promulga-lei-organica-inem-sindicato-pede-partidos-travem-parlamento-2180926"
+            "title": "Fundo de Compensação do Trabalho, uma questão de justiça e bom senso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/opiniao/opiniao/fundo-compensacao-trabalho-questao-justica-bom-senso-2180706"
         }
     ],
     "finance": [],
-    "last_update": "07/07/2026 22:50"
+    "last_update": "07/07/2026 23:45"
 }
