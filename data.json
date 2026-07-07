@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 21.3,
-        "manha": 20.9,
-        "tarde": 31.4,
-        "noite": 24.0
+        "manha": 20.8,
+        "tarde": 31.0,
+        "noite": 23.7
     },
     "forecast": {
-        "max": 32.4,
-        "min": 19.4
+        "max": 32.7,
+        "min": 19.5
     },
     "news": [
         {
-            "title": "Explosões em Damasco durante visita de Macron",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/mundo/noticia/explosoes-damasco-durante-visita-macron-2180798"
+            "title": "Nova ligação fluvial entre Trafaria e Algés arranca quinta-feira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/local/noticia/nova-ligacao-fluvial-trafaria-alges-arranca-quintafeira-2180823"
         },
         {
-            "title": "Cientistas criaram, pela primeira vez, uma “célula sintética” a partir do zero",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/ciencia/noticia/cientistas-criaram-primeira-celula-sintetica-partir-zero-2180721"
+            "title": "Proibição de redes sociais a jovens na Austrália tem falhas, diz estudo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/p3/noticia/proibicao-redes-sociais-jovens-australia-falhas-estudo-2180816"
         },
         {
-            "title": "Ensino superior: consórcio apresenta ferramentas para valorizar inovação pedagógica dos professores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/sociedade/noticia/ensino-superior-consorcio-apresenta-ferramentas-valorizar-inovacao-pedagogica-professores-2180731"
+            "title": "Mundial 2026: como ajudar as crianças a lidar com a desilusão da derrota",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/impar/noticia/mundial-2026-ajudar-criancas-lidar-desilusao-derrota-2180817"
         },
         {
-            "title": "Número de brasileiros expulsos dos Estados Unidos quase dobrou em 2025",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/publico-brasil/noticia/numero-brasileiros-expulsos-estados-unidos-quase-dobrou-2025-2180777"
+            "title": "Até onde o nosso corpo aguenta o calor? E como ter uma boa noite de sono?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/ciencia/perguntaserespostas/ate-onde-corpo-aguenta-calor-boa-noite-sono-2180813"
         },
         {
-            "title": "Brasil teme acção militar dos EUA após classificação de grupos como terroristas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/mundo/noticia/brasil-teme-accao-militar-eua-apos-classificacao-grupos-terroristas-2180797"
+            "title": "Acusação de violação contra Graham Platner ameaça reconquista democrata do Senado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/mundo/noticia/acusacao-violacao-graham-platner-ameaca-reconquista-democrata-senado-2180809"
         }
     ],
     "finance": [],
-    "last_update": "07/07/2026 08:13"
+    "last_update": "07/07/2026 11:36"
 }
