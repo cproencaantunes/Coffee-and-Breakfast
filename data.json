@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.3,
         "manha": 20.8,
-        "tarde": 30.9,
-        "noite": 23.6
+        "tarde": 31.0,
+        "noite": 23.2
     },
     "forecast": {
         "max": 33.1,
-        "min": 19.4
+        "min": 19.1
     },
     "news": [
         {
-            "title": "O pior exemplo que os adultos podem dar aos mais novos: nada é para cumprir",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/impar/cronica/pior-exemplo-adultos-podem-dar-novos-nada-cumprir-2180824"
+            "title": "Centros de dados fazem disparar custos de energia para a indústria americana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/enter/noticia/centros-dados-fazem-disparar-custos-energia-industria-americana-2180837"
         },
         {
-            "title": "O destino da selecção estava traçado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/desporto/opiniao/destino-seleccao-tracado-2180856"
+            "title": "Eurodeputados aprovam novas regras para acabar com “práticas inaceitáveis” nos aviões",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/economia/noticia/eurodeputados-aprovam-novas-regras-acabar-praticas-inaceitaveis-avioes-2180876"
         },
         {
-            "title": "A UE já tem uma <em>app </em>para provar a idade. Portugal ainda escolheu a CMD?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/p3/cronica/ue-ja-app-provar-idade-portugal-escolheu-cmd-2180848"
+            "title": "Portugal lança fundo de fundos com 1500 milhões no Outono",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/economia/noticia/portugal-lanca-fundo-fundos-1500-milhoes-outono-2180897"
         },
         {
-            "title": "Sete Vales Suspensos: empresas turísticas denunciam “crescente degradação” do trilho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/fugas/noticia/sete-vales-suspensos-empresas-turisticas-denunciam-crescente-degradacao-trilho-2180839"
+            "title": "Plataforma de classificação dos exames vai voltar a estar indisponível para os professores a partir da meia-noite",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/sociedade/noticia/plataforma-classificacao-exames-vai-voltar-estar-indisponivel-professores-partir-meianoite-2180895"
         },
         {
-            "title": "Governo aponta Almada como o município com maiores perdas de água",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/local/noticia/governo-aponta-almada-municipio-maiores-perdas-agua-2180844"
+            "title": "Na Madeira, homenageou-se Ronaldo com um espetáculo de <em>drones</em>? Não, é IA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/desporto/noticia/madeira-homenageouse-ronaldo-espetaculo-drones-nao-ia-2180886"
         }
     ],
     "finance": [],
-    "last_update": "07/07/2026 14:04"
+    "last_update": "07/07/2026 17:04"
 }
