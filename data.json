@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 27.5,
-        "manha": 27.0,
-        "tarde": 35.6,
-        "noite": 24.7
+        "atual": 21.3,
+        "manha": 21.4,
+        "tarde": 31.2,
+        "noite": 24.1
     },
     "forecast": {
-        "max": 31.4,
-        "min": 20.3
+        "max": 32.5,
+        "min": 19.8
     },
     "news": [
         {
-            "title": "Seguro diz que o novo Adamastor é o “algoritmo que decide sem explicar”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/ciencia/noticia/seguro-novo-adamastor-algoritmo-decide-explicar-2180782"
+            "title": "A reinvenção democrática",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/opiniao/opiniao/reinvencao-democratica-2180679"
         },
         {
-            "title": "Em Wimbledon, o conto de fadas continua para Arthur Fery",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/desporto/noticia/wimbledon-conto-fadas-continua-arthur-fery-2180783"
+            "title": "Montenegro e a sua “Comissão dos Centenários”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/opiniao/opiniao/montenegro-comissao-centenarios-2180757"
         },
         {
-            "title": "Portugal 0-Espanha 1: as notas aos jogadores portugueses",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/desporto/noticia/portugal-0espanha-1-notas-jogadores-portugueses-2180780"
+            "title": "Resiliência da banca portuguesa: um ativo estratégico nacional",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/opiniao/opiniao/resiliencia-banca-portuguesa-ativo-estrategico-nacional-2180274"
         },
         {
-            "title": "Roberto Martínez despede-se orgulhoso: “Vim para ganhar, não faz sentido continuar”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/desporto/noticia/roberto-martinez-despedese-orgulhoso-vim-ganhar-nao-faz-sentido-continuar-2180781"
+            "title": "Obviamente, demita-se!",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/opiniao/opiniao/obviamente-demitase-2180715"
         },
         {
-            "title": "Governo prolonga estado de alerta devido ao calor e aos incêndios",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/06/sociedade/noticia/governo-prolonga-estado-alerta-devido-calor-incendios-2180779"
+            "title": "PRR: Casas prontas. Portas fechadas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/07/opiniao/opiniao/prr-casas-prontas-portas-fechadas-2180718"
         }
     ],
     "finance": [],
-    "last_update": "06/07/2026 22:56"
+    "last_update": "07/07/2026 00:01"
 }
