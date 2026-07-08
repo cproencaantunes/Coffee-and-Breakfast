@@ -3,11 +3,11 @@
         "atual": 21.2,
         "manha": 20.8,
         "tarde": 33.0,
-        "noite": 24.3
+        "noite": 24.7
     },
     "forecast": {
-        "max": 26.6,
-        "min": 18.3
+        "max": 26.7,
+        "min": 18.2
     },
     "news": [
         {
@@ -23,7 +23,7 @@
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/sociedade/noticia/urgencia-regional-obstetricia-almada-ja-imprevistos-escalas-podem-repetirse-2181046"
         },
         {
-            "title": "Trump ameaçou e EUA estão a atacar o Irão novamente",
+            "title": "Trump ameaçou e EUA estão a atacar o Irão novamente, Teerão promete resposta",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/mundo/noticia/trump-ameacou-eua-estao-atacar-irao-novamente-2181060"
         },
         {
@@ -32,5 +32,5 @@
         }
     ],
     "finance": [],
-    "last_update": "08/07/2026 20:55"
+    "last_update": "08/07/2026 21:57"
 }
