@@ -1,15 +1,27 @@
 {
     "weather": {
-        "atual": 21.2,
-        "manha": 20.8,
-        "tarde": 33.0,
-        "noite": 24.7
+        "atual": 20.9,
+        "manha": 19.4,
+        "tarde": 26.6,
+        "noite": 21.2
     },
     "forecast": {
-        "max": 26.7,
-        "min": 18.2
+        "max": 27.2,
+        "min": 18.7
     },
     "news": [
+        {
+            "title": "Ronaldo devia estar no banco. Montenegro devia estar calado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/opiniao/opiniao/ronaldo-estar-banco-montenegro-estar-calado-2181039"
+        },
+        {
+            "title": "Quase dois terços dos exames distribuídos já estão classificados, diz Fernando Alexandre",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/sociedade/noticia/quase-dois-tercos-exames-distribuidos-ja-estao-classificados-fernando-alexandre-2181061"
+        },
+        {
+            "title": "Supremo rejeita recurso de elementos dos No Name Boys em caso de violação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/sociedade/noticia/supremo-rejeita-recurso-elementos-name-boys-caso-violacao-2181062"
+        },
         {
             "title": "Governo precisa de curso de literacia mediática",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/newsletter/livre-estilo"
@@ -17,20 +29,8 @@
         {
             "title": "Mais combate político e “almofadas” para a governação: os novos vices de Montenegro no PSD",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/politica/noticia/combate-politico-almofadas-governacao-novos-vices-montenegro-psd-2181057"
-        },
-        {
-            "title": "Urgência regional de obstetrícia de Almada já teve “imprevistos” nas escalas e podem repetir-se",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/sociedade/noticia/urgencia-regional-obstetricia-almada-ja-imprevistos-escalas-podem-repetirse-2181046"
-        },
-        {
-            "title": "Trump ameaçou e EUA estão a atacar o Irão novamente, Teerão promete resposta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/mundo/noticia/trump-ameacou-eua-estao-atacar-irao-novamente-2181060"
-        },
-        {
-            "title": "O Nos Alive será de Nick Cave e dos Foo Fighters, será o do regresso dos Buraka Som Sistema",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/culturaipsilon/noticia/alive-sera-nick-cave-foo-fighters-sera-regresso-buraka-som-sistema-2180935"
         }
     ],
     "finance": [],
-    "last_update": "08/07/2026 21:57"
+    "last_update": "08/07/2026 23:02"
 }
