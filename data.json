@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.2,
         "manha": 20.8,
-        "tarde": 33.5,
-        "noite": 25.9
+        "tarde": 33.2,
+        "noite": 26.0
     },
     "forecast": {
-        "max": 27.0,
+        "max": 27.4,
         "min": 18.6
     },
     "news": [
         {
-            "title": "Pensões brasileiras em Portugal: o direito que muitos desconhecem",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/publico-brasil/opiniao/pensoes-brasileiras-portugal-direito-desconhecem-2180945"
+            "title": "Farage desafiou “sistema”, mas pode acabar a discutir eleição com “guerreiro interplanetário” interpretado por humorista",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/mundo/noticia/farage-desafiou-sistema-acabar-discutir-eleicao-guerreiro-interplanetario-interpretado-humorista-2180957"
         },
         {
-            "title": "Fogo no Sabugal dominado, há 14 distritos em perigo máximo de incêndio rural",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/sociedade/noticia/fogo-concelho-sabugal-dominado-ha-14-distritos-perigo-maximo-incendio-rural-2180942"
+            "title": "Conselho para a Acção Climática: a paridade pariu um rato!",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/azul/opiniao/conselho-accao-climatica-paridade-pariu-rato-2180917"
         },
         {
-            "title": "Despertador: PSD quer união de facto como travão à venda de casa nas heranças indivisas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/newsletter/despertador"
+            "title": "Jornalistas portugueses ganham bolsa de investigação europeia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/ciencia/noticia/jornalistas-portugueses-ganham-bolsa-investigacao-europeia-2180944"
         },
         {
-            "title": "Depois da eliminação do Mundial, selecção nacional regressa a Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/desporto/noticia/eliminacao-mundial-seleccao-nacional-regressa-lisboa-2180941"
+            "title": "Avião de carga desaparece sobre o mar Arábico ao chegar a Karachi",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/mundo/noticia/aviao-carga-desaparece-mar-arabico-chegar-karachi-2180954"
         },
         {
-            "title": "Ex-combatentes saúdam “vitória” no passe gratuito, mas pedem revisão de apoios sociais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/politica/noticia/excombatentes-saudam-vitoria-passe-gratuito-pedem-revisao-apoios-sociais-2180905"
+            "title": "Teatro Variedades celebra 100 anos com visitas, exposição, teatro e cinema",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/culturaipsilon/noticia/teatro-variedades-celebra-100-anos-visitas-exposicao-teatro-cinema-2180955"
         }
     ],
     "finance": [],
-    "last_update": "08/07/2026 07:25"
+    "last_update": "08/07/2026 10:05"
 }
