@@ -2,14 +2,18 @@
     "weather": {
         "atual": 21.2,
         "manha": 20.8,
-        "tarde": 34.0,
-        "noite": 26.0
+        "tarde": 33.7,
+        "noite": 25.9
     },
     "forecast": {
-        "max": 27.3,
-        "min": 19.2
+        "max": 27.0,
+        "min": 18.8
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/opiniao/opiniao/cartas-director-2180900"
+        },
         {
             "title": "EUA: agente do ICE mata mexicano em operação de fiscalização rodoviária no Texas",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/mundo/noticia/eua-agente-ice-mata-mexicano-tiro-operacao-fiscalizacao-carros-houston-2180938"
@@ -25,12 +29,8 @@
         {
             "title": "Montenegro “do povo” atrás da selecção à custa dos contribuintes",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/politica/noticia/montenegro-povo-atras-seleccao-custa-contribuintes-2180936"
-        },
-        {
-            "title": "O julgamento de Bad Münstereifel",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/opiniao/opiniao/julgamento-bad-munstereifel-2180704"
         }
     ],
     "finance": [],
-    "last_update": "08/07/2026 01:30"
+    "last_update": "08/07/2026 04:57"
 }
