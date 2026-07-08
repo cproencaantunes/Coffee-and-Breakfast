@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 21.5,
-        "manha": 21.1,
-        "tarde": 33.7,
-        "noite": 26.6
+        "atual": 21.2,
+        "manha": 20.8,
+        "tarde": 34.0,
+        "noite": 26.0
     },
     "forecast": {
         "max": 27.3,
         "min": 19.2
     },
     "news": [
+        {
+            "title": "EUA: agente do ICE mata mexicano em operação de fiscalização rodoviária no Texas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/mundo/noticia/eua-agente-ice-mata-mexicano-tiro-operacao-fiscalizacao-carros-houston-2180938"
+        },
         {
             "title": "NATO 3.0: aliança ou parceria?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/opiniao/opiniao/nato-30-alianca-parceria-2180892"
@@ -25,12 +29,8 @@
         {
             "title": "O julgamento de Bad Münstereifel",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/opiniao/opiniao/julgamento-bad-munstereifel-2180704"
-        },
-        {
-            "title": "Fundo de Compensação do Trabalho, uma questão de justiça e bom senso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/opiniao/opiniao/fundo-compensacao-trabalho-questao-justica-bom-senso-2180706"
         }
     ],
     "finance": [],
-    "last_update": "07/07/2026 23:45"
+    "last_update": "08/07/2026 01:30"
 }
