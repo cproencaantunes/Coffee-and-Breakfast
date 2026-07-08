@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.2,
         "manha": 20.8,
-        "tarde": 33.7,
+        "tarde": 33.5,
         "noite": 25.9
     },
     "forecast": {
         "max": 27.0,
-        "min": 18.8
+        "min": 18.6
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/opiniao/opiniao/cartas-director-2180900"
+            "title": "Pensões brasileiras em Portugal: o direito que muitos desconhecem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/publico-brasil/opiniao/pensoes-brasileiras-portugal-direito-desconhecem-2180945"
         },
         {
-            "title": "EUA: agente do ICE mata mexicano em operação de fiscalização rodoviária no Texas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/mundo/noticia/eua-agente-ice-mata-mexicano-tiro-operacao-fiscalizacao-carros-houston-2180938"
+            "title": "Fogo no Sabugal dominado, há 14 distritos em perigo máximo de incêndio rural",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/sociedade/noticia/fogo-concelho-sabugal-dominado-ha-14-distritos-perigo-maximo-incendio-rural-2180942"
         },
         {
-            "title": "NATO 3.0: aliança ou parceria?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/opiniao/opiniao/nato-30-alianca-parceria-2180892"
+            "title": "Despertador: PSD quer união de facto como travão à venda de casa nas heranças indivisas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/newsletter/despertador"
         },
         {
-            "title": "Espanto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/opiniao/opiniao/espanto-2180815"
+            "title": "Depois da eliminação do Mundial, selecção nacional regressa a Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/desporto/noticia/eliminacao-mundial-seleccao-nacional-regressa-lisboa-2180941"
         },
         {
-            "title": "Montenegro “do povo” atrás da selecção à custa dos contribuintes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/politica/noticia/montenegro-povo-atras-seleccao-custa-contribuintes-2180936"
+            "title": "Ex-combatentes saúdam “vitória” no passe gratuito, mas pedem revisão de apoios sociais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/politica/noticia/excombatentes-saudam-vitoria-passe-gratuito-pedem-revisao-apoios-sociais-2180905"
         }
     ],
     "finance": [],
-    "last_update": "08/07/2026 04:57"
+    "last_update": "08/07/2026 07:25"
 }
