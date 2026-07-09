@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.7,
         "manha": 19.7,
-        "tarde": 26.7,
-        "noite": 21.0
+        "tarde": 26.2,
+        "noite": 20.6
     },
     "forecast": {
-        "max": 27.1,
-        "min": 18.6
+        "max": 27.0,
+        "min": 18.5
     },
     "news": [
         {
-            "title": "Graham Platner, Kamala Harris e o dom democrata para procurar a derrota",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/newsletter/aquinaamerica"
+            "title": "Castelo do Bode recebe aldeamento turístico sem Avaliação de Impacte Ambiental",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/azul/noticia/castelo-bode-recebe-aldeamento-turistico-avaliacao-impacte-ambiental-2181051"
         },
         {
-            "title": "Adopção internacional continua residual: apenas três crianças portuguesas encontraram família no estrangeiro em 2024",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/sociedade/noticia/adopcao-internacional-continua-residual-apenas-tres-criancas-portuguesas-encontraram-familia-estrangeiro-2024-2180894"
+            "title": "Chega insiste em debate de urgência sobre falhas nos exames nacionais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/politica/noticia/chega-insiste-debate-urgencia-falhas-exames-nacionais-2181122"
         },
         {
-            "title": "Esquadra do Rato: Relação confirma prisão preventiva de agentes suspeitos de tortura",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/sociedade/noticia/esquadra-rato-relacao-confirma-prisao-preventiva-agentes-suspeitos-tortura-2181092"
+            "title": "Banco de Portugal não vê alarme no crédito à habitação, mas há “sinais de alerta”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/economia/noticia/banco-portugal-nao-ve-alarme-credito-habitacao-ha-sinais-alerta-2181127"
         },
         {
-            "title": "Carneiro acusa primeiro-ministro de “insensibilidade atroz” sobre exames nacionais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/politica/noticia/carneiro-acusa-primeiroministro-insensibilidade-atroz-exames-nacionais-2181087"
+            "title": "Mata do Bussaco é a primeira Floresta Terapêutica da Península Ibérica",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/impar/noticia/mata-bussaco-primeira-floresta-terapeutica-peninsula-iberica-2181120"
         },
         {
-            "title": "Jeep Avenger amplia oferta com gasolina, híbrido, 4xe e eléctrico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/fugas/noticia/jeep-avenger-amplia-oferta-gasolina-hibrido-4xe-electrico-2180838"
+            "title": "Pogacar ataca no Tourmalet e destrói a concorrência no Tour",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/desporto/noticia/pogacar-ataca-tourmalet-destroi-concorrencia-tour-2181135"
         }
     ],
     "finance": [],
-    "last_update": "09/07/2026 12:25"
+    "last_update": "09/07/2026 15:51"
 }
