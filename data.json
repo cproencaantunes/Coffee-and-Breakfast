@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.7,
-        "manha": 19.8,
+        "manha": 19.7,
         "tarde": 26.7,
         "noite": 21.0
     },
     "forecast": {
-        "max": 27.2,
+        "max": 27.1,
         "min": 18.6
     },
     "news": [
         {
-            "title": "PSP faz buscas e detém dez pessoas ligadas à claque dos No Name Boys",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/sociedade/noticia/psp-faz-buscas-detem-dez-pessoas-ligadas-claque-name-boys-2181076"
+            "title": "Graham Platner, Kamala Harris e o dom democrata para procurar a derrota",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/newsletter/aquinaamerica"
         },
         {
-            "title": "Ladies Night Fest e MACAM, em Setembro a festa chega ao museu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/fugas/noticia/ladies-night-fest-macam-setembro-festa-chega-museu-2180980"
+            "title": "Adopção internacional continua residual: apenas três crianças portuguesas encontraram família no estrangeiro em 2024",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/sociedade/noticia/adopcao-internacional-continua-residual-apenas-tres-criancas-portuguesas-encontraram-familia-estrangeiro-2024-2180894"
         },
         {
-            "title": "EUA atingem 90 alvos e matam 14 pessoas, Irão retalia no Golfo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/mundo/noticia/eua-atingem-90-alvos-matam-14-pessoas-irao-retalia-golfo-2181073"
+            "title": "Esquadra do Rato: Relação confirma prisão preventiva de agentes suspeitos de tortura",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/sociedade/noticia/esquadra-rato-relacao-confirma-prisao-preventiva-agentes-suspeitos-tortura-2181092"
         },
         {
-            "title": "O efeito do calor no cérebro: memória, atenção e tomada de decisões são afectadas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/impar/noticia/efeito-calor-cerebro-memoria-atencao-tomada-decisoes-sao-afectadas-2180988"
+            "title": "Carneiro acusa primeiro-ministro de “insensibilidade atroz” sobre exames nacionais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/politica/noticia/carneiro-acusa-primeiroministro-insensibilidade-atroz-exames-nacionais-2181087"
         },
         {
-            "title": "Novo centro de investigação olha para o oceano para impulsionar futuro de Viana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/local/noticia/novo-centro-investigacao-olha-oceano-impulsionar-futuro-viana-2181027"
+            "title": "Jeep Avenger amplia oferta com gasolina, híbrido, 4xe e eléctrico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/fugas/noticia/jeep-avenger-amplia-oferta-gasolina-hibrido-4xe-electrico-2180838"
         }
     ],
     "finance": [],
-    "last_update": "09/07/2026 09:19"
+    "last_update": "09/07/2026 12:25"
 }
