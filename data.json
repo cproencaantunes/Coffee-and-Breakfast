@@ -1,9 +1,9 @@
 {
     "weather": {
-        "atual": 20.9,
-        "manha": 19.4,
-        "tarde": 26.6,
-        "noite": 21.2
+        "atual": 20.7,
+        "manha": 19.2,
+        "tarde": 26.7,
+        "noite": 21.0
     },
     "forecast": {
         "max": 27.2,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Ronaldo devia estar no banco. Montenegro devia estar calado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/opiniao/opiniao/ronaldo-estar-banco-montenegro-estar-calado-2181039"
+            "title": "Os agrafos dos exames e outros agrafos da política",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/opiniao/opiniao/agrafos-exames-agrafos-politica-2181037"
         },
         {
-            "title": "Quase dois terços dos exames distribuídos já estão classificados, diz Fernando Alexandre",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/sociedade/noticia/quase-dois-tercos-exames-distribuidos-ja-estao-classificados-fernando-alexandre-2181061"
+            "title": "O Amílcar não vai à bola",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/opiniao/opiniao/amilcar-nao-vai-bola-2181040"
         },
         {
-            "title": "Supremo rejeita recurso de elementos dos No Name Boys em caso de violação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/sociedade/noticia/supremo-rejeita-recurso-elementos-name-boys-caso-violacao-2181062"
+            "title": "A ortografia “geral” é como a “língua geral”: não existe",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/culturaipsilon/opiniao/ortografia-geral-lingua-geral-nao-existe-2180958"
         },
         {
-            "title": "Governo precisa de curso de literacia mediática",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/newsletter/livre-estilo"
+            "title": "Apelo à Irlanda para se abster dos dossiers digitais e fiscais na sua presidência da UE",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/opiniao/opiniao/apelo-irlanda-abster-dossiers-digitais-fiscais-presidencia-ue-2181010"
         },
         {
-            "title": "Mais combate político e “almofadas” para a governação: os novos vices de Montenegro no PSD",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/08/politica/noticia/combate-politico-almofadas-governacao-novos-vices-montenegro-psd-2181057"
+            "title": "Volta a Portugal de 2026 une Lisboa e Porto numa extensão de 1388 quilómetros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/desporto/noticia/volta-portugal-2026-une-lisboa-porto-extensao-1388-quilometros-2181065"
         }
     ],
     "finance": [],
-    "last_update": "08/07/2026 23:02"
+    "last_update": "09/07/2026 01:52"
 }
