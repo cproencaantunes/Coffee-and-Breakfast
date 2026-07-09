@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.7,
-        "manha": 19.2,
+        "manha": 19.8,
         "tarde": 26.7,
         "noite": 21.0
     },
     "forecast": {
         "max": 27.2,
-        "min": 18.7
+        "min": 18.6
     },
     "news": [
         {
-            "title": "Os agrafos dos exames e outros agrafos da política",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/opiniao/opiniao/agrafos-exames-agrafos-politica-2181037"
+            "title": "PSP faz buscas e detém dez pessoas ligadas à claque dos No Name Boys",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/sociedade/noticia/psp-faz-buscas-detem-dez-pessoas-ligadas-claque-name-boys-2181076"
         },
         {
-            "title": "O Amílcar não vai à bola",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/opiniao/opiniao/amilcar-nao-vai-bola-2181040"
+            "title": "Ladies Night Fest e MACAM, em Setembro a festa chega ao museu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/fugas/noticia/ladies-night-fest-macam-setembro-festa-chega-museu-2180980"
         },
         {
-            "title": "A ortografia “geral” é como a “língua geral”: não existe",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/culturaipsilon/opiniao/ortografia-geral-lingua-geral-nao-existe-2180958"
+            "title": "EUA atingem 90 alvos e matam 14 pessoas, Irão retalia no Golfo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/mundo/noticia/eua-atingem-90-alvos-matam-14-pessoas-irao-retalia-golfo-2181073"
         },
         {
-            "title": "Apelo à Irlanda para se abster dos dossiers digitais e fiscais na sua presidência da UE",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/opiniao/opiniao/apelo-irlanda-abster-dossiers-digitais-fiscais-presidencia-ue-2181010"
+            "title": "O efeito do calor no cérebro: memória, atenção e tomada de decisões são afectadas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/impar/noticia/efeito-calor-cerebro-memoria-atencao-tomada-decisoes-sao-afectadas-2180988"
         },
         {
-            "title": "Volta a Portugal de 2026 une Lisboa e Porto numa extensão de 1388 quilómetros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/desporto/noticia/volta-portugal-2026-une-lisboa-porto-extensao-1388-quilometros-2181065"
+            "title": "Novo centro de investigação olha para o oceano para impulsionar futuro de Viana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/09/local/noticia/novo-centro-investigacao-olha-oceano-impulsionar-futuro-viana-2181027"
         }
     ],
     "finance": [],
-    "last_update": "09/07/2026 01:52"
+    "last_update": "09/07/2026 09:19"
 }
