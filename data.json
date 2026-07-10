@@ -2,35 +2,35 @@
     "weather": {
         "atual": 18.9,
         "manha": 20.3,
-        "tarde": 27.1,
-        "noite": 21.4
+        "tarde": 26.8,
+        "noite": 21.1
     },
     "forecast": {
-        "max": 25.1,
-        "min": 18.7
+        "max": 24.9,
+        "min": 18.5
     },
     "news": [
         {
-            "title": "Quais são os filmes mais quentes do cinema norte-americano?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/video/sao-filmes-quentes-cinema-americano-20260709-204558"
+            "title": "László Krasznahorkai ficou “profundamente embaraçado” com o Nobel da Literatura",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/newsletter/ipsilon"
         },
         {
-            "title": "Governo mudou regras para cirurgias adicionais e há hospitais a suspender esta actividade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/sociedade/noticia/governo-mudou-regras-cirurgias-adicionais-ha-hospitais-suspender-actividade-2181215"
+            "title": "Cinco destaques da Semana de Alta-costura: da noiva Taylor Swift aos contos de fadas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/impar/noticia/cinco-destaques-semana-altacostura-noiva-taylor-swift-contos-fadas-2181229"
         },
         {
-            "title": "Surto de ébola continua a alastrar-se, em grande parte sem ser detectado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/ciencia/noticia/surto-ebola-continua-alastrarse-parte-detectado-2181214"
+            "title": "O que pode mudar nas rendas antigas?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/economia/perguntaserespostas/mudar-rendas-antigas-2181233"
         },
         {
-            "title": "Crime organizado e corrupção são simbióticos, e um alimenta o outro, diz politólogo italiano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/mundo/entrevista/crime-organizado-corrupcao-sao-simbioticos-alimenta-politologo-italiano-2181220"
+            "title": "Participação de Cabo Verde no Mundial desperta interesse turístico pelo país",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/fugas/noticia/participacao-cabo-verde-mundial-desperta-interesse-turistico-pais-2181231"
         },
         {
-            "title": "No cinema norte-americano, quanto mais quente melhor",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/culturaipsilon/podcast/cinema-americano-quente-melhor-2181072"
+            "title": "De Catherine Zeta-Jones ao princípe William, as mensagens de despedida a Bonnie Tyler",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/impar/noticia/catherine-zetajones-principe-william-mensagens-despedida-bonnie-tyler-2181228"
         }
     ],
     "finance": [],
-    "last_update": "10/07/2026 11:53"
+    "last_update": "10/07/2026 13:55"
 }
