@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 18.9,
-        "manha": 20.3,
-        "tarde": 27.1,
-        "noite": 20.6
+        "atual": 18.8,
+        "manha": 19.9,
+        "tarde": 24.7,
+        "noite": 21.4
     },
     "forecast": {
-        "max": 24.7,
-        "min": 18.2
+        "max": 24.8,
+        "min": 18.8
     },
     "news": [
         {
-            "title": "NOS Alive 2026: da Maré ao funk, o Brasil marca presença no festival de Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/publico-brasil/noticia/alive-2026-mare-funk-brasil-marca-presenca-festival-lisboa-2181284"
+            "title": "O elogio da irreverência no país do “respeitinho”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/opiniao/opiniao/elogio-irreverencia-pais-respeitinho-2181267"
         },
         {
-            "title": "Meias-finais garantidas: Espanha poderá sempre contar com Mikel Merino",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/desporto/cronica_de_jogo/meiasfinais-garantidas-espanha-podera-contar-mikel-merino-2181301"
+            "title": "A censura nos EUA é real. Viu o vídeo dos médicos expulsos?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/ciencia/opiniao/censura-eua-real-viu-video-medicos-expulsos-2181293"
         },
         {
-            "title": "Após caso do Santa Maria, pequenas intervenções passam a ter lista paralela à de cirurgia, Governo promete transparência",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/sociedade/noticia/apos-caso-santa-maria-cirurgias-passam-lista-paralela-cirurgia-governo-promete-transparencia-2181299"
+            "title": "Ricos, famosos e queixosos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/opiniao/opiniao/ricos-famosos-queixosos-2181255"
         },
         {
-            "title": "Governo abre a porta à revogação de contratos de arrendamento ao fim de um ano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/economia/noticia/governo-abre-porta-revogacao-contratos-arrendamento-fim-ano-2181276"
+            "title": "Um atentado ao europeísmo português",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/opiniao/opiniao/atentado-europeismo-portugues-2181287"
         },
         {
-            "title": "Quando os enólogos também metem o nariz no lúpulo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/fugas/noticia/enologos-tambem-metem-nariz-lupulo-2180889"
+            "title": "RTP: privatizar não, reformar sim",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/opiniao/opiniao/rtp-privatizar-nao-reformar-sim-2180264"
         }
     ],
     "finance": [],
-    "last_update": "10/07/2026 22:49"
+    "last_update": "10/07/2026 23:46"
 }
