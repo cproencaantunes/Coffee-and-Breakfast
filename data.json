@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 18.9,
-        "manha": 20.6,
-        "tarde": 27.6,
-        "noite": 21.5
+        "atual": 0,
+        "manha": 0,
+        "tarde": 0,
+        "noite": 0
     },
     "forecast": {
-        "max": 25.7,
-        "min": 18.8
+        "max": 0,
+        "min": 0
     },
     "news": [
         {
-            "title": "Rui Tavares: “Quero fazer uma fileira de formação de lideranças do Livre”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/politica/entrevista/rui-tavares-quero-fileira-formacao-liderancas-livre-2181147"
+            "title": "Condução “autónoma” da Tesla chega à Europa, mas ainda precisa de nós",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/enter/noticia/conducao-autonoma-tesla-chega-europa-precisa-2181200"
         },
         {
-            "title": "Ministro autoriza novos gastos de 500 mil euros com classificação digital de exames",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/sociedade/noticia/ministro-autoriza-novos-gastos-500-mil-euros-classificacao-digital-exames-2181110"
+            "title": "Incêndio em Espanha já fez 11 mortos, há pelo menos 23 desaparecidos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/mundo/noticia/incendio-espanha-ja-fez-11-mortos-ha-menos-23-desaparecidos-2181199"
         },
         {
-            "title": "László Krasznahorkai, Nobel da Literatura: “Quando lemos a imaginação acende-se”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/culturaipsilon/entrevista/laszlo-krasznahorkai-nobel-literatura-lemos-imaginacao-acendese-2180833"
+            "title": "Israel transmite alerta urgente aos EUA sobre novo plano do Irão para matar Trump",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/mundo/noticia/israel-transmite-alerta-urgente-eua-novo-plano-irao-matar-trump-2181195"
         },
         {
-            "title": "Sistema Volta recolheu 55,5 milhões de embalagens nos primeiros três meses",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/azul/noticia/sistema-volta-recolheu-555-milhoes-embalagens-tres-meses-2181141"
+            "title": "Um Nick Cave irrepetível na estreia no Nos Alive com os Bad Seeds",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/culturaipsilon/noticia/nick-cave-irrepetivel-estreia-alive-bad-seeds-2181196"
         },
         {
-            "title": "Há mais portugueses a fazer férias em Portugal e no estrangeiro no mesmo ano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/economia/noticia/ha-portugueses-ferias-portugal-estrangeiro-ano-2181161"
+            "title": "Ministério Público da Bolívia pede informações a Espanha e Peru sobre caso Zapatero",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/mundo/noticia/ministerio-publico-bolivia-pede-informacoes-espanha-peru-caso-zapatero-2181197"
         }
     ],
     "finance": [],
-    "last_update": "10/07/2026 05:53"
+    "last_update": "10/07/2026 09:00"
 }
