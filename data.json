@@ -2,35 +2,35 @@
     "weather": {
         "atual": 18.9,
         "manha": 20.3,
-        "tarde": 26.8,
-        "noite": 21.1
+        "tarde": 27.1,
+        "noite": 20.7
     },
     "forecast": {
-        "max": 24.9,
-        "min": 18.5
+        "max": 24.5,
+        "min": 18.2
     },
     "news": [
         {
-            "title": "László Krasznahorkai ficou “profundamente embaraçado” com o Nobel da Literatura",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/newsletter/ipsilon"
+            "title": "Doutrinação de crianças ucranianas pela Rússia acontece “de forma sistemática”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/mundo/noticia/doutrinacao-criancas-ucranianas-russia-acontece-forma-sistematica-2181251"
         },
         {
-            "title": "Cinco destaques da Semana de Alta-costura: da noiva Taylor Swift aos contos de fadas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/impar/noticia/cinco-destaques-semana-altacostura-noiva-taylor-swift-contos-fadas-2181229"
+            "title": "Tim Merlier impõe-se ao <em>sprint </em>na sétima etapa do Tour",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/desporto/noticia/tim-merlier-impoese-sprint-setima-etapa-tour-2181256"
         },
         {
-            "title": "O que pode mudar nas rendas antigas?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/economia/perguntaserespostas/mudar-rendas-antigas-2181233"
+            "title": "Jorge Jesus: “A selecção tem de jogar o dobro, senão fica tudo igual”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/desporto/noticia/jorge-jesus-seleccao-jogar-dobro-senao-fica-igual-2181248"
         },
         {
-            "title": "Participação de Cabo Verde no Mundial desperta interesse turístico pelo país",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/fugas/noticia/participacao-cabo-verde-mundial-desperta-interesse-turistico-pais-2181231"
+            "title": "Afinal, nem Meghan acompanha o príncipe Harry na visita a Birmingham",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/impar/noticia/afinal-meghan-acompanha-principe-harry-visita-birmingham-2181244"
         },
         {
-            "title": "De Catherine Zeta-Jones ao princípe William, as mensagens de despedida a Bonnie Tyler",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/impar/noticia/catherine-zetajones-principe-william-mensagens-despedida-bonnie-tyler-2181228"
+            "title": "Cegonhas afectadas pelo calor devolvidas ao Baixo Vouga após tratamento em Gaia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/azul/noticia/cegonhas-afectadas-calor-devolvidas-baixo-vouga-apos-tratamento-gaia-2181243"
         }
     ],
     "finance": [],
-    "last_update": "10/07/2026 13:55"
+    "last_update": "10/07/2026 16:14"
 }
