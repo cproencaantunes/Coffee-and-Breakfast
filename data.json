@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 0,
-        "manha": 0,
-        "tarde": 0,
-        "noite": 0
+        "atual": 18.9,
+        "manha": 20.3,
+        "tarde": 27.1,
+        "noite": 21.4
     },
     "forecast": {
-        "max": 0,
-        "min": 0
+        "max": 25.1,
+        "min": 18.7
     },
     "news": [
         {
-            "title": "Condução “autónoma” da Tesla chega à Europa, mas ainda precisa de nós",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/enter/noticia/conducao-autonoma-tesla-chega-europa-precisa-2181200"
+            "title": "Quais são os filmes mais quentes do cinema norte-americano?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/video/sao-filmes-quentes-cinema-americano-20260709-204558"
         },
         {
-            "title": "Incêndio em Espanha já fez 11 mortos, há pelo menos 23 desaparecidos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/mundo/noticia/incendio-espanha-ja-fez-11-mortos-ha-menos-23-desaparecidos-2181199"
+            "title": "Governo mudou regras para cirurgias adicionais e há hospitais a suspender esta actividade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/sociedade/noticia/governo-mudou-regras-cirurgias-adicionais-ha-hospitais-suspender-actividade-2181215"
         },
         {
-            "title": "Israel transmite alerta urgente aos EUA sobre novo plano do Irão para matar Trump",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/mundo/noticia/israel-transmite-alerta-urgente-eua-novo-plano-irao-matar-trump-2181195"
+            "title": "Surto de ébola continua a alastrar-se, em grande parte sem ser detectado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/ciencia/noticia/surto-ebola-continua-alastrarse-parte-detectado-2181214"
         },
         {
-            "title": "Um Nick Cave irrepetível na estreia no Nos Alive com os Bad Seeds",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/culturaipsilon/noticia/nick-cave-irrepetivel-estreia-alive-bad-seeds-2181196"
+            "title": "Crime organizado e corrupção são simbióticos, e um alimenta o outro, diz politólogo italiano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/mundo/entrevista/crime-organizado-corrupcao-sao-simbioticos-alimenta-politologo-italiano-2181220"
         },
         {
-            "title": "Ministério Público da Bolívia pede informações a Espanha e Peru sobre caso Zapatero",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/mundo/noticia/ministerio-publico-bolivia-pede-informacoes-espanha-peru-caso-zapatero-2181197"
+            "title": "No cinema norte-americano, quanto mais quente melhor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/10/culturaipsilon/podcast/cinema-americano-quente-melhor-2181072"
         }
     ],
     "finance": [],
-    "last_update": "10/07/2026 09:00"
+    "last_update": "10/07/2026 11:53"
 }
