@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.7,
-        "manha": 19.9,
-        "tarde": 24.3,
-        "noite": 21.1
+        "manha": 19.4,
+        "tarde": 23.9,
+        "noite": 20.9
     },
     "forecast": {
         "max": 24.4,
-        "min": 19.2
+        "min": 19.3
     },
     "news": [
         {
-            "title": "Os despejos do dia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/opiniao/editorial/despejos-dia-2181295"
+            "title": "Brasileiros ampliam investimentos em Portugal e portugueses reduzem posição no Brasil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/publico-brasil/noticia/brasileiros-ampliam-investimentos-portugal-portugueses-reduzem-posicao-brasil-2181302"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/opiniao/opiniao/cartas-director-2181245"
+            "title": "Ai, Zezinho, Zezinho: o tomate de salada quer-se fininho...e descascadinho!",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/fugas/cronica/ai-zezinho-zezinho-tomate-salada-querse-fininhoe-descascadinho-2180519"
         },
         {
-            "title": "O elogio da irreverência no país do “respeitinho”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/opiniao/opiniao/elogio-irreverencia-pais-respeitinho-2181267"
+            "title": "As muitas vidas de <em>Caderno de Memórias Coloniais</em> e a autobiografia de Kiko is Hot",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/culturaipsilon/noticia/vidas-caderno-memorias-coloniais-autobiografia-kiko-is-hot-2178774"
         },
         {
-            "title": "A censura nos EUA é real. Viu o vídeo dos médicos expulsos?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/ciencia/opiniao/censura-eua-real-viu-video-medicos-expulsos-2181293"
+            "title": "Lídia Jorge, o Prêmio Camões e porque essa conquista é importante para todas nós",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/publico-brasil/opiniao/lidia-jorge-premio-camoes-conquista-importante-2181258"
         },
         {
-            "title": "Ricos, famosos e queixosos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/opiniao/opiniao/ricos-famosos-queixosos-2181255"
+            "title": "Luís Montenegro foi “à bola” com o país em estado de alerta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/politica/opiniao/luis-montenegro-bola-pais-estado-alerta-2181236"
         }
     ],
     "finance": [],
-    "last_update": "11/07/2026 04:52"
+    "last_update": "11/07/2026 07:04"
 }
