@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 18.7,
-        "manha": 19.2,
-        "tarde": 22.8,
-        "noite": 20.4
+        "atual": 19.3,
+        "manha": 20.2,
+        "tarde": 24.2,
+        "noite": 21.3
     },
     "forecast": {
-        "max": 24.6,
-        "min": 18.8
+        "max": 24.7,
+        "min": 18.7
     },
     "news": [
         {
-            "title": "Fenprof vai apresentar queixa na PGR a pedir inquérito à classificação dos exames",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/sociedade/noticia/fenprof-vai-apresentar-queixa-pgr-pedir-inquerito-classificacao-exames-2181357"
+            "title": "As paixões que agitam a Igreja",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/opiniao/opiniao/paixoes-agitam-igreja-2181101"
         },
         {
-            "title": "A guerra das sandes: nas praias privadas de Itália, levar comida de casa pode dar chatices",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/fugas/noticia/guerra-sandes-praias-privadas-italia-levar-comida-casa-dar-chatices-2181355"
+            "title": "Longevidade – Como estamos de pensões de reforma?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/opiniao/opiniao/longevidade-pensoes-reforma-2181185"
         },
         {
-            "title": "Um teste duro (literalmente) para um Benfica à procura de si próprio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/desporto/cronica_de_jogo/teste-duro-literalmente-benfica-procura-proprio-2181353"
+            "title": "Um grande compromisso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/opiniao/opiniao/compromisso-2180160"
         },
         {
-            "title": "Livre diz-se a nova esquerda, aponta ao poder e critica cheques em branco do PS ao Governo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/politica/noticia/livre-dizse-nova-esquerda-aponta-critica-cheques-branco-ps-governo-2181348"
+            "title": "A História-Ciência e a História-Pretexto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/opiniao/opiniao/historiaciencia-historiapretexto-2181131"
         },
         {
-            "title": "Uma lição de delicadeza",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/p3/cronica/licao-delicadeza-2180714"
+            "title": "Em Lisboa, as árvores caem do céu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/opiniao/opiniao/lisboa-arvores-caem-ceu-2181323"
         }
     ],
     "finance": [],
-    "last_update": "11/07/2026 22:36"
+    "last_update": "11/07/2026 23:42"
 }
