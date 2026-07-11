@@ -2,35 +2,35 @@
     "weather": {
         "atual": 18.7,
         "manha": 19.2,
-        "tarde": 23.7,
-        "noite": 20.8
+        "tarde": 22.8,
+        "noite": 20.5
     },
     "forecast": {
-        "max": 24.6,
+        "max": 24.4,
         "min": 18.9
     },
     "news": [
         {
-            "title": "Morreu Jayden Adams, médio que jogou pela África do Sul no Mundial 2026",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/desporto/noticia/morreu-jayden-adams-medio-jogou-africa-sul-mundial-2026-2181335"
+            "title": "PSD diz-se aberto ao diálogo sobre arrendamento e não vê “portas fechadas” noutros partidos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/politica/noticia/psd-dizse-aberto-dialogo-arrendamento-nao-ve-portas-fechadas-noutros-partidos-2181338"
         },
         {
-            "title": "Governo húngaro apresenta gabinete anticorrupção",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/mundo/noticia/governo-hungaro-apresenta-gabinete-anticorrupcao-2181329"
+            "title": "Sismos na Venezuela: confirmados 110 portugueses e lusodescendentes mortos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/mundo/noticia/sismos-venezuela-confirmados-110-portugueses-lusodescendentes-mortos-2181336"
         },
         {
-            "title": "Faltam folhas nos exames? Ordem do Eduqa não é para classificar como está, é para “reportar”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/sociedade/noticia/faltam-folhas-exames-ordem-eduqa-nao-classificar-reportar-2181326"
+            "title": "Guerra de “longo alcance”: Zelensky reforça estratégia que já está a paralisar a Crimeia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/mundo/noticia/guerra-longo-alcance-zelensky-reforca-estrategia-ja-paralisar-crimeia-2181318"
         },
         {
-            "title": "As alterações climáticas estão a reescrever a biodiversidade marinha em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/azul/noticia/alteracoes-climaticas-estao-reescrever-biodiversidade-marinha-portugal-2180474"
+            "title": "Ultradireita portuguesa escolhe povos ciganos como alvos de xenofobia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/publico-brasil/noticia/ultradireita-portuguesa-escolhe-povos-ciganos-alvos-xenofobia-2181333"
         },
         {
-            "title": "DS Nº7 E-Tense desafia a concorrência com conforto e autonomia de referência",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/enter/noticia/ds-n7-etense-desafia-concorrencia-conforto-autonomia-referencia-2181239"
+            "title": "Bombeiros espanhóis adoptam postura mais ofensiva no combate ao fogo de Almería",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/mundo/noticia/bombeiros-espanhois-adoptam-postura-ofensiva-combate-fogo-almeria-2181334"
         }
     ],
     "finance": [],
-    "last_update": "11/07/2026 14:17"
+    "last_update": "11/07/2026 15:43"
 }
