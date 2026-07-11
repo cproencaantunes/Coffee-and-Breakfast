@@ -3,13 +3,21 @@
         "atual": 18.7,
         "manha": 19.9,
         "tarde": 24.3,
-        "noite": 21.2
+        "noite": 21.1
     },
     "forecast": {
-        "max": 24.8,
-        "min": 18.8
+        "max": 24.4,
+        "min": 19.2
     },
     "news": [
+        {
+            "title": "Os despejos do dia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/opiniao/editorial/despejos-dia-2181295"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/opiniao/opiniao/cartas-director-2181245"
+        },
         {
             "title": "O elogio da irreverência no país do “respeitinho”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/opiniao/opiniao/elogio-irreverencia-pais-respeitinho-2181267"
@@ -21,16 +29,8 @@
         {
             "title": "Ricos, famosos e queixosos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/opiniao/opiniao/ricos-famosos-queixosos-2181255"
-        },
-        {
-            "title": "Um atentado ao europeísmo português",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/opiniao/opiniao/atentado-europeismo-portugues-2181287"
-        },
-        {
-            "title": "RTP: privatizar não, reformar sim",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/opiniao/opiniao/rtp-privatizar-nao-reformar-sim-2180264"
         }
     ],
     "finance": [],
-    "last_update": "11/07/2026 01:29"
+    "last_update": "11/07/2026 04:52"
 }
