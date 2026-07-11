@@ -3,34 +3,34 @@
         "atual": 18.7,
         "manha": 19.2,
         "tarde": 23.7,
-        "noite": 20.9
+        "noite": 20.8
     },
     "forecast": {
-        "max": 24.7,
-        "min": 19.1
+        "max": 24.6,
+        "min": 18.9
     },
     "news": [
         {
+            "title": "Os olhos também bebem: as cores e as caras da cerveja",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/fotogaleria/olhos-tambem-bebem-cores-caras-cerveja-415760"
+        },
+        {
+            "title": "PJ detém mulher suspeita de matar o marido no concelho do Seixal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/sociedade/noticia/pj-detem-mulher-suspeita-matar-marido-concelho-seixal-2181331"
+        },
+        {
+            "title": "Morreram 15 turistas que seguiam a bordo de barco que virou no Vietname",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/mundo/noticia/morreram-15-turistas-seguiam-bordo-barco-virou-vietname-2181328"
+        },
+        {
+            "title": "<em>Os Espíritos das Aves</em>, Eliot Weinberger e o mundo como outra coisa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/culturaipsilon/critica/espiritos-aves-eliot-weinberger-mundo-2179165"
+        },
+        {
             "title": "PS pede documentação detalhada da nova solução para futura sede do Banco de Portugal",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/economia/noticia/ps-pede-documentacao-detalhada-nova-solucao-futura-sede-banco-portugal-2181320"
-        },
-        {
-            "title": "Ministro da Administração Interna lamenta morte por atropelamento de militar da GNR",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/sociedade/noticia/ministro-administracao-interna-lamenta-morte-atropelamento-militar-gnr-2181321"
-        },
-        {
-            "title": "Professores vão receber horas extraordinárias por esforço na correcção de exames",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/sociedade/noticia/professores-vao-receber-horas-extraordinarias-esforco-correccao-exames-2181322"
-        },
-        {
-            "title": "Trump ameaça Irão com “mil mísseis” caso o tentem assassinar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/mundo/noticia/trump-ameaca-irao-mil-misseis-caso-tentem-assassinar-2181317"
-        },
-        {
-            "title": "Está pronta a saltar a rolha do espumante de cerveja",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/11/fugas/noticia/pronta-saltar-rolha-espumante-cerveja-2180819"
         }
     ],
     "finance": [],
-    "last_update": "11/07/2026 11:42"
+    "last_update": "11/07/2026 12:52"
 }
