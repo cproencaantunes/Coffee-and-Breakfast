@@ -3,11 +3,11 @@
         "atual": 18.7,
         "manha": 19.2,
         "tarde": 22.8,
-        "noite": 20.2
+        "noite": 20.4
     },
     "forecast": {
-        "max": 24.4,
-        "min": 18.7
+        "max": 24.6,
+        "min": 18.8
     },
     "news": [
         {
@@ -32,5 +32,5 @@
         }
     ],
     "finance": [],
-    "last_update": "11/07/2026 21:38"
+    "last_update": "11/07/2026 22:36"
 }
