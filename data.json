@@ -3,34 +3,34 @@
         "atual": 19.1,
         "manha": 20.1,
         "tarde": 24.6,
-        "noite": 21.3
+        "noite": 21.1
     },
     "forecast": {
-        "max": 24.6,
-        "min": 18.2
+        "max": 24.7,
+        "min": 18.4
     },
     "news": [
         {
+            "title": "Superbikes: Miguel Oliveira foi 12.º na segunda corrida de Donington Park",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/desporto/noticia/superbikes-miguel-oliveira-12-segunda-corrida-donington-park-2181413"
+        },
+        {
+            "title": "Mariano Rajoy acusado de racismo por dizer que França joga “sem franceses”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/desporto/noticia/mariano-rajoy-acusado-racismo-dizer-franca-joga-franceses-2181411"
+        },
+        {
+            "title": "O que fazer? Segunda é dia de jazz, banda desenhada e legos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/fugas/noticia/segunda-dia-jazz-banda-desenhada-legos-2181373"
+        },
+        {
+            "title": "Israel marca eleições legislativas para 27 de Outubro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/mundo/noticia/israel-marca-eleicoes-legislativas-27-outubro-2181407"
+        },
+        {
             "title": "Ataques israelitas em Gaza matam seis pessoas, incluindo uma criança, dizem médicos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/mundo/noticia/ataques-israelitas-gaza-matam-seis-pessoas-incluindo-crianca-medicos-2181408"
-        },
-        {
-            "title": "No bairro do Talude, em Loures, barracas continuam de pé, tal como a memória das demolições",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/local/noticia/bairro-talude-loures-barracas-continuam-pe-tal-memoria-demolicoes-2181257"
-        },
-        {
-            "title": "No Chão da Lagoa, Albuquerque avisou Montenegro de que acabou o tempo das “ilhas adjacentes”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/politica/noticia/chao-lagoa-albuquerque-avisou-montenegro-acabou-tempo-ilhas-adjacentes-2181405"
-        },
-        {
-            "title": "Construção de prédio de luxo em terreno mesmo atrás do CCB irrita moradores de Belém",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/local/noticia/construcao-predio-luxo-terreno-atras-ccb-irrita-moradores-belem-2179910"
-        },
-        {
-            "title": "Ministros analisam opções para restringir comércio da UE com colonatos ilegais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/mundo/noticia/ministros-analisam-opcoes-restringir-comercio-ue-colonatos-ilegais-2181403"
         }
     ],
     "finance": [],
-    "last_update": "12/07/2026 17:50"
+    "last_update": "12/07/2026 18:48"
 }
