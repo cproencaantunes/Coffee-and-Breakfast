@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 19.1,
-        "manha": 20.1,
-        "tarde": 24.6,
-        "noite": 21.4
+        "atual": 19.6,
+        "manha": 19.9,
+        "tarde": 24.5,
+        "noite": 21.5
     },
     "forecast": {
-        "max": 24.8,
-        "min": 18.5
+        "max": 25.9,
+        "min": 18.7
     },
     "news": [
         {
-            "title": "EUA voltam a bombardear o Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/mundo/noticia/eua-voltam-bombardear-irao-2181423"
+            "title": "Para que serve a imigração?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/opiniao/opiniao/serve-imigracao-2180434"
         },
         {
-            "title": "Incêndio num bar em Banguecoque faz pelo menos 27 mortos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/mundo/noticia/incendio-bar-banguecoque-faz-menos-27-mortos-2181422"
+            "title": "“Manchesterismo”: três lições para Portugal (e para o Porto)",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/opiniao/opiniao/manchesterismo-tres-licoes-portugal-porto-2180109"
         },
         {
-            "title": "Novos Certificados do Tesouro registam “volume muito significativo de subscrições”, mas CA ganham",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/economia/noticia/novos-certificados-tesouro-registam-volume-significativo-subscricoes-ca-ganham-2181342"
+            "title": "O talentoso Sr. Alexandre",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/opiniao/opiniao/talentoso-sr-alexandre-2181384"
         },
         {
-            "title": "Jannik Sinner conserva a coroa em Wimbledon",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/desporto/noticia/jannik-sinner-conserva-coroa-wimbledon-2181420"
+            "title": "Resiliência da banca, sim. Mas a que preço?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/opiniao/opiniao/resiliencia-banca-sim-preco-2180991"
         },
         {
-            "title": "O adeus à geração de ouro e o estoicismo dos campeões do mundo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/mundo/noticia/adeus-geracao-ouro-estoicismo-campeoes-mundo-2181385"
+            "title": "Mondego: limites dos modelos e desafios do planeamento. Implicações para outras bacias hidrográficas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/opiniao/opiniao/mondego-limites-modelos-desafios-planeamento-implicacoes-bacias-hidrograficas-2178972"
         }
     ],
     "finance": [],
-    "last_update": "12/07/2026 22:36"
+    "last_update": "12/07/2026 23:41"
 }
