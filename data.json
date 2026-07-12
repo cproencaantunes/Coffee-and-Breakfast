@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.1,
         "manha": 20.1,
-        "tarde": 23.9,
-        "noite": 20.9
+        "tarde": 24.3,
+        "noite": 21.2
     },
     "forecast": {
-        "max": 24.1,
-        "min": 18.5
+        "max": 24.7,
+        "min": 18.3
     },
     "news": [
         {
+            "title": "Isabel Mendes Lopes desafia PS a travar revisão constitucional",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/politica/noticia/isabel-mendes-lopes-desafia-ps-travar-revisao-constitucional-2181371"
+        },
+        {
+            "title": "ONG de protecção do património pede “esclarecimentos urgentes” à Câmara do Porto sobre obras no centro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/local/noticia/ong-proteccao-patrimonio-pede-esclarecimentos-urgentes-camara-porto-obras-centro-2181381"
+        },
+        {
+            "title": "O reformista do deserto: morreu o antigo emir do Qatar, xeque Hamad",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/mundo/noticia/reformista-deserto-morreu-antigo-emir-qatar-xeque-hamad-2181377"
+        },
+        {
+            "title": "Mendes Lopes e Jorge Pinto eleitos líderes do Livre com 68%. Quatro críticos na direcção",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/politica/noticia/mendes-lopes-jorge-pinto-eleitos-lideres-livre-68-quatro-criticos-direccao-2181370"
+        },
+        {
             "title": "Mundial 2026: Senegal despede o selecionador Pape Thiaw",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/desporto/noticia/mundial-2026-senegal-despede-selecionador-pape-thiaw-2181376"
-        },
-        {
-            "title": "Jorge Pinto defende “regionalização é a grande reforma estrutural de que o país precisa”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/politica/noticia/jorge-pinto-defende-regionalizacao-reforma-estrutural-pais-precisa-2181374"
-        },
-        {
-            "title": "Fogo em Almería está controlado e desalojados foram autorizados a regressar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/mundo/noticia/fogo-almeria-controlado-desalojados-autorizados-regressar-2181375"
-        },
-        {
-            "title": "Loja online da FIFA vende bocados do relvado da final do Mundial por 390 euros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/desporto/noticia/loja-online-fifa-vende-bocados-relvado-final-mundial-390-euros-2181372"
-        },
-        {
-            "title": "Morreu Lindsey Graham, senador republicano dos EUA e apoiante de Trump",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/mundo/noticia/morreu-lindsey-graham-senador-republicano-eua-2181369"
         }
     ],
     "finance": [],
-    "last_update": "12/07/2026 11:03"
+    "last_update": "12/07/2026 12:54"
 }
