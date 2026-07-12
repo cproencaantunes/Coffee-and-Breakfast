@@ -1,9 +1,9 @@
 {
     "weather": {
         "atual": 19.1,
-        "manha": 19.5,
-        "tarde": 23.7,
-        "noite": 20.8
+        "manha": 20.0,
+        "tarde": 24.0,
+        "noite": 20.9
     },
     "forecast": {
         "max": 24.0,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "<em>Citizen Boll</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/opiniao/cronica/citizen-boll-2181224"
+            "title": "Suspeito de 28 anos detido pelo homicídio de antiga governante conservadora britânica",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/mundo/noticia/suspeito-28-anos-detido-homicidio-antiga-governante-conservadora-britanica-2181359"
         },
         {
-            "title": "Que Deus perdoe a América",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/opiniao/cronica/deus-perdoe-america-2181213"
+            "title": "Clara Ferreira Alves: “Se queremos ser asininos, vamos ser comidos vivos”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/politica/entrevista/queremos-asininos-vamos-comidos-vivos-2181271"
         },
         {
-            "title": "Uma <em>silly season</em> desafiante",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/opiniao/editorial/silly-season-desafiante-2181274"
+            "title": "“Alcance o seu corpo de verão”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/impar/opiniao/alcance-corpo-verao-2180834"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/opiniao/opiniao/cartas-director-2181340"
+            "title": "Bassim Khandakji: “Não nasci para ser um assassino nem para ser assassinado”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/mundo/noticia/bassim-khandakji-nao-nasci-assassino-assassinado-2180643"
         },
         {
-            "title": "A caixa-forte da Suíça resistiu a tudo, menos à obra de arte de Álvarez",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/desporto/cronica_de_jogo/caixaforte-suica-resistiu-menos-obra-arte-alvarez-2181366"
+            "title": "Todos queremos salvar o planeta, mas não demasiado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/p3/cronica/queremos-salvar-planeta-nao-demasiado-2179898"
         }
     ],
     "finance": [],
-    "last_update": "12/07/2026 05:15"
+    "last_update": "12/07/2026 07:57"
 }
