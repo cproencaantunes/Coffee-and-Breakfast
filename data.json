@@ -3,13 +3,17 @@
         "atual": 19.1,
         "manha": 20.1,
         "tarde": 24.6,
-        "noite": 21.1
+        "noite": 21.4
     },
     "forecast": {
-        "max": 24.7,
-        "min": 18.4
+        "max": 24.8,
+        "min": 18.5
     },
     "news": [
+        {
+            "title": "EUA voltam a bombardear o Irão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/mundo/noticia/eua-voltam-bombardear-irao-2181423"
+        },
         {
             "title": "Incêndio num bar em Banguecoque faz pelo menos 27 mortos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/mundo/noticia/incendio-bar-banguecoque-faz-menos-27-mortos-2181422"
@@ -25,12 +29,8 @@
         {
             "title": "O adeus à geração de ouro e o estoicismo dos campeões do mundo",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/mundo/noticia/adeus-geracao-ouro-estoicismo-campeoes-mundo-2181385"
-        },
-        {
-            "title": "Três metros debaixo do chão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/12/p3/cronica/tres-metros-debaixo-chao-2180717"
         }
     ],
     "finance": [],
-    "last_update": "12/07/2026 21:39"
+    "last_update": "12/07/2026 22:36"
 }
