@@ -3,34 +3,34 @@
         "atual": 19.6,
         "manha": 20.1,
         "tarde": 24.7,
-        "noite": 21.7
+        "noite": 22.0
     },
     "forecast": {
-        "max": 26.3,
-        "min": 18.9
+        "max": 25.9,
+        "min": 19.1
     },
     "news": [
         {
-            "title": "IP3 reabre entre Tondela e Santa Comba Dão após incêndio causado por camião",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/local/noticia/ip3-reabre-tondela-santa-comba-dao-apos-incendio-causado-camiao-2181511"
+            "title": "Luís Palha da Silva renuncia à presidência da Pharol, que fica sem administração ",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/economia/noticia/luis-palha-silva-renuncia-presidencia-pharol-fica-administracao-2181530"
         },
         {
-            "title": "Solução de Santos Pereira empurra nova sede do Banco de Portugal para 2028",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/economia/noticia/solucao-santos-pereira-empurra-nova-sede-banco-portugal-2028-2181485"
+            "title": "Trump anuncia abertura do estreito de Ormuz e que EUA vão cobrar taxa de 20% sobre toda a carga",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/mundo/noticia/trump-anuncia-abertura-estreito-ormuz-eua-vao-cobrar-taxa-20-carga-2181528"
         },
         {
-            "title": "Onda de calor de Junho fez dez mil mortos em excesso na Europa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/azul/noticia/onda-calor-junho-fez-10-mil-mortos-excesso-europa-2181438"
+            "title": "Líder da bancada do PS da Assembleia Municipal de Almada pede cabeça de Inês de Medeiros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/local/noticia/lider-bancada-ps-assembleia-municipal-almada-pede-cabeca-ines-medeiros-2181531"
         },
         {
-            "title": "Filho da princesa Mette-Marit vai cumprir a pena em prisão domiciliária",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/impar/noticia/filho-princesa-mettemarit-vai-cumprir-pena-prisao-domiciliaria-2181500"
+            "title": "Parlamento húngaro aprova alteração constitucional para destituir o Presidente aliado de Orbán",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/mundo/noticia/parlamento-hungaro-aprova-alteracao-constitucional-destituir-presidente-aliado-orban-2181514"
         },
         {
-            "title": "Arqueólogos descobrem sóis com seis mil anos gravados em rocha em Alfândega da Fé",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/culturaipsilon/noticia/arqueologos-descobrem-sois-seis-mil-anos-gravados-rocha-alfandega-fe-2181481"
+            "title": "Anúncio antiaborto de Miguel Milhão leva ERC a agir contra operadores de TV",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/sociedade/noticia/anuncio-antiaborto-miguel-milhao-leva-erc-agir-operadores-tv-2181516"
         }
     ],
     "finance": [],
-    "last_update": "13/07/2026 17:04"
+    "last_update": "13/07/2026 19:10"
 }
