@@ -1,15 +1,27 @@
 {
     "weather": {
         "atual": 19.6,
-        "manha": 19.9,
+        "manha": 20.2,
         "tarde": 24.3,
-        "noite": 21.4
+        "noite": 22.0
     },
     "forecast": {
-        "max": 25.9,
-        "min": 18.7
+        "max": 26.5,
+        "min": 19.0
     },
     "news": [
+        {
+            "title": "Atenção ao tom: o que o pacote energético de Julho diz sobre a agenda climática europeia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/opiniao/opiniao/atencao-tom-pacote-energetico-julho-agenda-climatica-europeia-2181327"
+        },
+        {
+            "title": "A sede de Centeno passou a ser de Álvaro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/opiniao/editorial/sede-centeno-passou-alvaro-2181414"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/opiniao/opiniao/cartas-director-2181396"
+        },
         {
             "title": "Para que serve a imigração?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/opiniao/opiniao/serve-imigracao-2180434"
@@ -17,20 +29,8 @@
         {
             "title": "“Manchesterismo”: três lições para Portugal (e para o Porto)",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/opiniao/opiniao/manchesterismo-tres-licoes-portugal-porto-2180109"
-        },
-        {
-            "title": "O talentoso Sr. Alexandre",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/opiniao/opiniao/talentoso-sr-alexandre-2181384"
-        },
-        {
-            "title": "Resiliência da banca, sim. Mas a que preço?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/opiniao/opiniao/resiliencia-banca-sim-preco-2180991"
-        },
-        {
-            "title": "Mondego: limites dos modelos e desafios do planeamento. Implicações para outras bacias hidrográficas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/opiniao/opiniao/mondego-limites-modelos-desafios-planeamento-implicacoes-bacias-hidrograficas-2178972"
         }
     ],
     "finance": [],
-    "last_update": "13/07/2026 01:45"
+    "last_update": "13/07/2026 05:24"
 }
