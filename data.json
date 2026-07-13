@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 19.6,
-        "manha": 20.2,
-        "tarde": 24.9,
+        "manha": 20.1,
+        "tarde": 24.8,
         "noite": 21.9
     },
     "forecast": {
-        "max": 26.5,
+        "max": 27.2,
         "min": 19.5
     },
     "news": [
         {
-            "title": "Preço do petróleo sobe mais 4% com escalada militar no Médio Oriente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/economia/noticia/preco-petroleo-sobe-4-escalada-militar-medio-oriente-2181436"
+            "title": "91% da área ardida em fogos em 2025 foi causada por 44 fogos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/azul/noticia/91-area-ardida-fogos-2025-causada-44-fogos-2181465"
         },
         {
-            "title": "Parque de Campismo da Praia do Pedrógão reabre mas “casas” têm de ir abaixo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/local/noticia/parque-campismo-praia-pedrogao-reabre-casas-ir-abaixo-2181285"
+            "title": "PSP e Airbnb alertam para aumento de burlas com alojamento durante as férias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/fugas/noticia/psp-airbnb-alertam-aumento-burlas-alojamento-durante-ferias-2181462"
         },
         {
-            "title": "Incêndio em floresta nos arredores de Paris já consumiu 800 hectares",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/mundo/noticia/incendio-floresta-arredores-paris-ja-consumiu-800-hectares-2181432"
+            "title": "Ficam em prisão preventiva elementos dos No Name Boys detidos pela PSP",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/desporto/noticia/ficam-prisao-preventiva-elementos-name-boys-detidos-psp-2181464"
         },
         {
-            "title": "Morreu Sam Neill,  o paleontólogo do <em>Parque Jurássico</em>, o marido de <em>O Piano</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/culturaipsilon/noticia/morreu-sam-neill-paleontologo-parque-jurassico-marido-piano-2181430"
+            "title": "Volkswagen pode ter de despedir mais 50 mil trabalhadores, avisa presidente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/economia/noticia/volkswagen-despedir-50-mil-trabalhadores-avisa-presidente-2181461"
         },
         {
-            "title": "Físico português eleito membro da Real Academia Dinamarquesa de Ciências e Letras",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/ciencia/noticia/fisico-portugues-eleito-membro-real-academia-dinamarquesa-ciencias-letras-2181280"
+            "title": "PS exige explicação sobre acesso de membros do ministério ao espaço onde estão os exames",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/politica/noticia/ps-exige-explicacao-acesso-membros-ministerio-espaco-onde-estao-exames-2181458"
         }
     ],
     "finance": [],
-    "last_update": "13/07/2026 08:45"
+    "last_update": "13/07/2026 11:50"
 }
