@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 19.6,
-        "manha": 20.1,
-        "tarde": 24.7,
-        "noite": 22.1
+        "atual": 20.2,
+        "manha": 20.7,
+        "tarde": 26.0,
+        "noite": 22.7
     },
     "forecast": {
-        "max": 26.0,
-        "min": 19.1
+        "max": 27.4,
+        "min": 18.3
     },
     "news": [
         {
-            "title": "Que versão foi respondida pelo alunos? À beira do fim do prazo, escolas recebem novo pedido de informação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/sociedade/noticia/versao-respondida-alunos-beira-fim-prazo-escolas-recebem-novo-pedido-informacao-2181552"
+            "title": "Ensinemos a curiosidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/opiniao/opiniao/ensinemos-curiosidade-2181380"
         },
         {
-            "title": "A utopia da eterna erecção",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/p3/cronica/utopia-eterna-ereccao-2181551"
+            "title": "Afinal, o que são três dias?...",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/opiniao/opiniao/afinal-sao-tres-dias-2181394"
         },
         {
-            "title": "Houthis disparam mísseis contra a Arábia Saudita, ONU pede contenção ao Iémen",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/mundo/noticia/houthis-disparam-misseis-arabia-saudita-onu-pede-contencao-iemen-2181550"
+            "title": "“Troféu de participação na Guerra do Irão” para Trump: estátua satírica surpreende Washington",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/p3/noticia/trofeu-participacao-guerra-irao-trump-estatua-satirica-surpreende-washington-2181553"
         },
         {
-            "title": "Ex-magnata da moda Peter Nygard considerado culpado em mais um caso de agressão sexual",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/impar/noticia/exmagnata-moda-peter-nygard-considerado-culpado-caso-agressao-sexual-2181547"
+            "title": "Reforma do Estado: a urgência de repensar Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/opiniao/opiniao/reforma-estado-urgencia-repensar-portugal-2180872"
         },
         {
-            "title": "Vítimas de abusos na Igreja lamentam silêncio do PR e pedem auditoria do Estado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/sociedade/noticia/vitimas-abusos-igreja-lamentam-silencio-pr-pedem-auditoria-estado-2181541"
+            "title": "EUA atacam alvos no Irão pela terceira noite consecutiva, Teerão retalia em Ormuz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/mundo/noticia/eua-atacam-alvos-irao-terceira-noite-consecutiva-teerao-retalia-ormuz-2181554"
         }
     ],
     "finance": [],
-    "last_update": "13/07/2026 22:43"
+    "last_update": "13/07/2026 23:41"
 }
