@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.6,
         "manha": 20.1,
-        "tarde": 24.8,
-        "noite": 21.9
+        "tarde": 25.1,
+        "noite": 21.7
     },
     "forecast": {
-        "max": 27.2,
+        "max": 27.1,
         "min": 19.5
     },
     "news": [
         {
-            "title": "91% da área ardida em fogos em 2025 foi causada por 44 fogos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/azul/noticia/91-area-ardida-fogos-2025-causada-44-fogos-2181465"
+            "title": "Fila de horas no Gabinete do Munícipe para tirar Cartão Porto. para transportes gratuitos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/local/noticia/fila-horas-gabinete-municipe-tirar-cartao-porto-transportes-gratuitos-2181486"
         },
         {
-            "title": "PSP e Airbnb alertam para aumento de burlas com alojamento durante as férias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/fugas/noticia/psp-airbnb-alertam-aumento-burlas-alojamento-durante-ferias-2181462"
+            "title": "No bar em Banguecoque onde morreram 27 pessoas: “Era impossível perceber onde estavam as saídas”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/mundo/reportagem/bar-banguecoque-onde-morreram-27-pessoas-impossivel-perceber-onde-saidas-2181480"
         },
         {
-            "title": "Ficam em prisão preventiva elementos dos No Name Boys detidos pela PSP",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/desporto/noticia/ficam-prisao-preventiva-elementos-name-boys-detidos-psp-2181464"
+            "title": "Brasileira retoma empresa com ajuda de amigos após furto de equipamentos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/publico-brasil/noticia/brasileira-retoma-empresa-ajuda-amigos-apos-furto-equipamentos-2181469"
         },
         {
-            "title": "Volkswagen pode ter de despedir mais 50 mil trabalhadores, avisa presidente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/economia/noticia/volkswagen-despedir-50-mil-trabalhadores-avisa-presidente-2181461"
+            "title": "PS insiste na redução do IVA dos combustíveis e acusa Governo de “ganhar dinheiro com a inflação”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/politica/noticia/ps-insiste-reducao-iva-combustiveis-acusa-governo-ganhar-dinheiro-inflacao-2181459"
         },
         {
-            "title": "PS exige explicação sobre acesso de membros do ministério ao espaço onde estão os exames",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/politica/noticia/ps-exige-explicacao-acesso-membros-ministerio-espaco-onde-estao-exames-2181458"
+            "title": "Dejectos de pecuárias e aviários da Galiza deixam verde a água da albufeira do Lindoso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/azul/noticia/cianobacterias-toxicas-vindas-galiza-deixam-aguas-albufeira-lindoso-verdes-2180825"
         }
     ],
     "finance": [],
-    "last_update": "13/07/2026 11:50"
+    "last_update": "13/07/2026 14:02"
 }
