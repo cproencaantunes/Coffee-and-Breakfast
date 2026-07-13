@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.6,
         "manha": 20.1,
-        "tarde": 25.1,
+        "tarde": 24.7,
         "noite": 21.7
     },
     "forecast": {
-        "max": 27.1,
-        "min": 19.5
+        "max": 26.3,
+        "min": 18.9
     },
     "news": [
         {
-            "title": "Fila de horas no Gabinete do Munícipe para tirar Cartão Porto. para transportes gratuitos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/local/noticia/fila-horas-gabinete-municipe-tirar-cartao-porto-transportes-gratuitos-2181486"
+            "title": "IP3 reabre entre Tondela e Santa Comba Dão após incêndio causado por camião",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/local/noticia/ip3-reabre-tondela-santa-comba-dao-apos-incendio-causado-camiao-2181511"
         },
         {
-            "title": "No bar em Banguecoque onde morreram 27 pessoas: “Era impossível perceber onde estavam as saídas”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/mundo/reportagem/bar-banguecoque-onde-morreram-27-pessoas-impossivel-perceber-onde-saidas-2181480"
+            "title": "Solução de Santos Pereira empurra nova sede do Banco de Portugal para 2028",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/economia/noticia/solucao-santos-pereira-empurra-nova-sede-banco-portugal-2028-2181485"
         },
         {
-            "title": "Brasileira retoma empresa com ajuda de amigos após furto de equipamentos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/publico-brasil/noticia/brasileira-retoma-empresa-ajuda-amigos-apos-furto-equipamentos-2181469"
+            "title": "Onda de calor de Junho fez dez mil mortos em excesso na Europa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/azul/noticia/onda-calor-junho-fez-10-mil-mortos-excesso-europa-2181438"
         },
         {
-            "title": "PS insiste na redução do IVA dos combustíveis e acusa Governo de “ganhar dinheiro com a inflação”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/politica/noticia/ps-insiste-reducao-iva-combustiveis-acusa-governo-ganhar-dinheiro-inflacao-2181459"
+            "title": "Filho da princesa Mette-Marit vai cumprir a pena em prisão domiciliária",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/impar/noticia/filho-princesa-mettemarit-vai-cumprir-pena-prisao-domiciliaria-2181500"
         },
         {
-            "title": "Dejectos de pecuárias e aviários da Galiza deixam verde a água da albufeira do Lindoso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/azul/noticia/cianobacterias-toxicas-vindas-galiza-deixam-aguas-albufeira-lindoso-verdes-2180825"
+            "title": "Arqueólogos descobrem sóis com seis mil anos gravados em rocha em Alfândega da Fé",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/13/culturaipsilon/noticia/arqueologos-descobrem-sois-seis-mil-anos-gravados-rocha-alfandega-fe-2181481"
         }
     ],
     "finance": [],
-    "last_update": "13/07/2026 14:02"
+    "last_update": "13/07/2026 17:04"
 }
