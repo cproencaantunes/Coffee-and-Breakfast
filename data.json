@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 20.0,
-        "manha": 20.6,
-        "tarde": 26.2,
-        "noite": 22.2
+        "manha": 20.7,
+        "tarde": 26.6,
+        "noite": 22.1
     },
     "forecast": {
-        "max": 27.4,
-        "min": 18.3
+        "max": 27.7,
+        "min": 18.6
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/opiniao/opiniao/cartas-director-2181454"
+        },
         {
             "title": "Ensinemos a curiosidade",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/opiniao/opiniao/ensinemos-curiosidade-2181380"
@@ -25,12 +29,8 @@
         {
             "title": "Reforma do Estado: a urgência de repensar Portugal",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/opiniao/opiniao/reforma-estado-urgencia-repensar-portugal-2180872"
-        },
-        {
-            "title": "EUA atacam alvos no Irão pela terceira noite consecutiva, Teerão retalia em Ormuz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/mundo/noticia/eua-atacam-alvos-irao-terceira-noite-consecutiva-teerao-retalia-ormuz-2181554"
         }
     ],
     "finance": [],
-    "last_update": "14/07/2026 01:21"
+    "last_update": "14/07/2026 04:39"
 }
