@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.0,
+        "atual": 20.5,
         "manha": 20.8,
-        "tarde": 26.8,
+        "tarde": 27.0,
         "noite": 22.4
     },
     "forecast": {
-        "max": 27.0,
-        "min": 18.5
+        "max": 27.9,
+        "min": 19.6
     },
     "news": [
         {
-            "title": "Mariana Mortágua apresenta Senhores do Algoritmo, o novo <em>podcast</em> do PÚBLICO",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/sociedade/noticia/mariana-mortagua-apresenta-senhores-algoritmo-novo-podcast-publico-2181668"
+            "title": "A Grande Coligação da Europa chegou ao fim. É hora de os partidos tradicionais romperem com o PPE",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/opiniao/opiniao/coligacao-europa-chegou-fim-hora-partidos-tradicionais-romperem-ppe-2181352"
         },
         {
-            "title": "Saída de Mário Tomé do Bloco de Esquerda é o fim de uma era?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/politica/noticia/saida-mario-tome-bloco-esquerda-fim-2181664"
+            "title": "O preço da gasolina desce devagar também por culpa dos consumidores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/opiniao/opiniao/preco-gasolina-desce-devagar-tambem-culpa-consumidores-2181606"
         },
         {
-            "title": "Anatomia do <em>caos</em>, agora na educação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/opiniao/opiniao/anatomia-caos-educacao-2181677"
+            "title": "Um bombeiro e outras cinco pessoas detidas na sequência dos incêndios em França",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/mundo/noticia/bombeiro-cinco-pessoas-detidas-sequencia-incendios-franca-2181704"
         },
         {
-            "title": "Presidente da Câmara de Setúbal suspende mandato durante três meses",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/local/noticia/presidente-camara-setubal-suspende-mandato-durante-tres-meses-2181701"
+            "title": "O PSD, os refugiados e os imigrantes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/opiniao/opiniao/psd-refugiados-imigrantes-2181354"
         },
         {
-            "title": "EUA intensificam ataques e retomam bloqueio naval aos portos do Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/mundo/noticia/eua-intensificam-ataques-retomam-bloqueio-naval-portos-irao-2181697"
+            "title": "Quatro minutos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/opiniao/opiniao/quatro-minutos-2181671"
         }
     ],
     "finance": [],
-    "last_update": "14/07/2026 22:44"
+    "last_update": "14/07/2026 23:41"
 }
