@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.0,
-        "manha": 20.7,
+        "manha": 20.6,
         "tarde": 26.6,
-        "noite": 22.1
+        "noite": 22.0
     },
     "forecast": {
         "max": 27.7,
-        "min": 18.6
+        "min": 18.3
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/opiniao/opiniao/cartas-director-2181454"
+            "title": "Selecção da Noruega recebida por milhares de pessoas em Oslo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/desporto/noticia/seleccao-noruega-recebida-milhares-pessoas-oslo-2181560"
         },
         {
-            "title": "Ensinemos a curiosidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/opiniao/opiniao/ensinemos-curiosidade-2181380"
+            "title": "China exporta mais de um milhão de automóveis em Junho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/economia/noticia/china-exporta-milhao-automoveis-junho-2181559"
         },
         {
-            "title": "Afinal, o que são três dias?...",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/opiniao/opiniao/afinal-sao-tres-dias-2181394"
+            "title": "Despertador: a síntese da actualidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/newsletter/despertador"
         },
         {
-            "title": "“Troféu de participação na Guerra do Irão” para Trump: estátua satírica surpreende Washington",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/p3/noticia/trofeu-participacao-guerra-irao-trump-estatua-satirica-surpreende-washington-2181553"
+            "title": "Serviços secretos israelitas tentam há vários anos conduzir Ahmadinejad de volta à Presidência do Irão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/mundo/noticia/servicos-secretos-israelitas-tentam-ha-varios-anos-conduzir-ahmadinejad-volta-presidencia-irao-2181544"
         },
         {
-            "title": "Reforma do Estado: a urgência de repensar Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/opiniao/opiniao/reforma-estado-urgencia-repensar-portugal-2180872"
+            "title": "Palácio Baldaya volta a receber a Feira de Vinil de Benfica, agora na nona edição",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/culturaipsilon/noticia/palacio-baldaya-volta-receber-feira-vinil-benfica-nona-edicao-2181502"
         }
     ],
     "finance": [],
-    "last_update": "14/07/2026 04:39"
+    "last_update": "14/07/2026 07:02"
 }
