@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.0,
         "manha": 20.8,
-        "tarde": 26.7,
+        "tarde": 26.9,
         "noite": 22.3
     },
     "forecast": {
-        "max": 26.6,
-        "min": 18.2
+        "max": 26.9,
+        "min": 18.1
     },
     "news": [
         {
-            "title": "“O que aconteceu em Almada pode acontecer noutro município do distrito de Setúbal”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/local/noticia/aconteceu-almada-acontecer-noutro-municipio-distrito-setubal-2181533"
+            "title": "Mais de 75% das prestações sociais destinam-se à velhice e à doença",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/sociedade/noticia/75-prestacoes-sociais-destinamse-velhice-doenca-2181597"
         },
         {
-            "title": "Viena aumenta taxa turística para manter serviços públicos de “primeira classe”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/fugas/noticia/viena-aumenta-taxa-turistica-manter-servicos-publicos-primeira-classe-2181534"
+            "title": "Pró-reitor da Universidade do Porto entre os 15 acusados de fraude de 3,5 milhões de euros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/sociedade/noticia/proreitor-universidade-porto-15-acusados-fraude-35-milhoes-euros-2181612"
         },
         {
-            "title": "Designer-estrela Olivier Rousteing é o novo director criativo da Rabanne",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/impar/noticia/designerestrela-olivier-rousteing-novo-director-criativo-rabanne-2181577"
+            "title": "Com CGD, BCP e Unicre, Portugal será um dos principais países a testar o euro digital",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/economia/noticia/cgd-bcp-unicre-portugal-sera-principais-paises-testar-euro-digital-2181601"
         },
         {
-            "title": "“O nosso Bloco acabou”: 60 militantes desfiliam-se do BE",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/politica/noticia/bloco-acabou-60-militantes-desfiliamse-be-2181571"
+            "title": "Mette-Marit da Noruega tem alta depois de transplante pulmonar e está de “boa” saúde",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/impar/noticia/mettemarit-noruega-alta-transplante-pulmonar-boa-saude-2181594"
         },
         {
-            "title": "Presidente da Microsoft alerta: empresas pagam duas vezes pela IA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/enter/noticia/presidente-microsoft-alerta-empresas-pagam-duas-vezes-ia-2181581"
+            "title": "Nova estratégia para a biodiversidade precisa de acções concretas, dizem cientistas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/azul/noticia/nova-estrategia-biodiversidade-precisa-accoes-concretas-cientistas-2181565"
         }
     ],
     "finance": [],
-    "last_update": "14/07/2026 11:16"
+    "last_update": "14/07/2026 13:04"
 }
