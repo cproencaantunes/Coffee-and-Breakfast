@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.0,
-        "manha": 20.6,
-        "tarde": 26.6,
-        "noite": 22.0
+        "manha": 20.8,
+        "tarde": 26.7,
+        "noite": 22.3
     },
     "forecast": {
-        "max": 27.7,
-        "min": 18.3
+        "max": 26.6,
+        "min": 18.2
     },
     "news": [
         {
-            "title": "Como destruir a confiança nos exames nacionais: a cronologia de uma grande trapalhada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/opiniao/opiniao/destruir-confianca-exames-nacionais-cronologia-trapalhada-2181573"
+            "title": "“O que aconteceu em Almada pode acontecer noutro município do distrito de Setúbal”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/local/noticia/aconteceu-almada-acontecer-noutro-municipio-distrito-setubal-2181533"
         },
         {
-            "title": "Incêndios em França resultam na detenção de 30 adultos e 29 menores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/mundo/noticia/incendios-franca-resultam-detencao-30-adultos-29-menores-2181569"
+            "title": "Viena aumenta taxa turística para manter serviços públicos de “primeira classe”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/fugas/noticia/viena-aumenta-taxa-turistica-manter-servicos-publicos-primeira-classe-2181534"
         },
         {
-            "title": "Gratuitidade dos transportes públicos no Porto: um erro que se vai pagar caro?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/economia/noticia/gratuitidade-transportes-publicos-porto-erro-vai-pagar-caro-2181558"
+            "title": "Designer-estrela Olivier Rousteing é o novo director criativo da Rabanne",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/impar/noticia/designerestrela-olivier-rousteing-novo-director-criativo-rabanne-2181577"
         },
         {
-            "title": "População pede que árvores na estrada entre Sintra e Almoçageme sejam classificadas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/local/noticia/populacao-pede-arvores-estrada-sintra-almocageme-classificadas-2180427"
+            "title": "“O nosso Bloco acabou”: 60 militantes desfiliam-se do BE",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/politica/noticia/bloco-acabou-60-militantes-desfiliamse-be-2181571"
         },
         {
-            "title": "Último muro na Europa continental cai à meia-noite em Gibraltar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/mundo/noticia/ultimo-muro-europa-continental-cai-meianoite-gibraltar-2181562"
+            "title": "Presidente da Microsoft alerta: empresas pagam duas vezes pela IA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/enter/noticia/presidente-microsoft-alerta-empresas-pagam-duas-vezes-ia-2181581"
         }
     ],
     "finance": [],
-    "last_update": "14/07/2026 09:45"
+    "last_update": "14/07/2026 11:16"
 }
