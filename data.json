@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.0,
         "manha": 20.8,
-        "tarde": 26.9,
-        "noite": 22.3
+        "tarde": 26.8,
+        "noite": 22.2
     },
     "forecast": {
-        "max": 26.9,
-        "min": 18.1
+        "max": 26.6,
+        "min": 18.3
     },
     "news": [
         {
-            "title": "Encargos do Estado com hemodiálise subiram 3% para cerca de 271 milhões em 2025",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/sociedade/noticia/encargos-estado-hemodialise-subiram-3-cerca-271-milhoes-2025-2181615"
+            "title": "Ventura quer falar com Seguro sobre “regular funcionamento do Governo”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/politica/noticia/ventura-quer-falar-seguro-regular-funcionamento-governo-2181663"
         },
         {
-            "title": "CNB abre temporada com duas estreias à volta de Pessoa e começa a festejar os 50 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/culturaipsilon/noticia/cnb-abre-temporada-duas-estreias-volta-pessoa-comeca-festejar-50-anos-2181632"
+            "title": "O que fazer? Quarta é dia de música e Vaudeville Rendez-Vous",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/fugas/noticia/quarta-dia-musica-vaudeville-rendezvous-2181665"
         },
         {
-            "title": "Inteligência artificial só está presente em 1% dos contratos colectivos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/economia/noticia/inteligencia-artificial-so-presente-1-contratos-colectivos-2181522"
+            "title": "Antes que tudo seja cinza",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/azul/opiniao/cinza-2181521"
         },
         {
-            "title": "Santos Pereira & Centeno: onde fica a independência do Banco de Portugal?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/opiniao/opiniao/santos-pereira-centeno-onde-fica-independencia-banco-portugal-2181576"
+            "title": "Primeiro-ministro de Cabo Verde acusado de corrupção pelo Ministério Público",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/mundo/noticia/primeiroministro-cabo-verde-acusado-corrupcao-ministerio-publico-2181657"
         },
         {
-            "title": "Reservas de sangue em baixa: instituto apela à dádiva antes ou durante as férias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/sociedade/noticia/reservas-sangue-baixa-instituto-apela-dadiva-durante-ferias-2181630"
+            "title": "Trilho emblemático da Levada do Furado reabre na Madeira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/14/fugas/noticia/trilho-emblematico-levada-furado-reabre-madeira-2181656"
         }
     ],
     "finance": [],
-    "last_update": "14/07/2026 15:15"
+    "last_update": "14/07/2026 17:01"
 }
