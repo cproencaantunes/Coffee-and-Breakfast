@@ -3,34 +3,34 @@
         "atual": 20.5,
         "manha": 20.9,
         "tarde": 26.2,
-        "noite": 22.5
+        "noite": 22.4
     },
     "forecast": {
-        "max": 27.5,
+        "max": 27.6,
         "min": 19.6
     },
     "news": [
         {
-            "title": "UE mantém tecto máximo do preço do petróleo russo até à próxima semana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/mundo/noticia/ue-mantem-tecto-maximo-preco-petroleo-russo-ate-proxima-semana-2181817"
+            "title": "Ócio, grelhas e melancias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/newsletter/relaxar"
         },
         {
-            "title": "Fisco recebeu 6,4 milhões de declarações de IRS, 40% com reembolso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/economia/noticia/fisco-recebeu-64-milhoes-declaracoes-irs-40-reembolso-2181814"
+            "title": "Em dois meses do acordo UE-Mercosul, Brasil exportou US$ 2 bilhões a mais para Europa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/publico-brasil/noticia/dois-meses-acordo-uemercosul-brasil-exportou-us-2-bilhoes-europa-2181841"
         },
         {
-            "title": "Credores comuns do BES podem pedir compensação ao Fundo de Resolução em Dezembro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/economia/noticia/credores-comuns-bes-podem-pedir-compensacao-fundo-resolucao-dezembro-2181807"
+            "title": "Qual o estado das reservas de água em Almada? SMAS disponibiliza painel",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/local/noticia/estado-reservas-agua-almada-smas-disponibiliza-painel-2181829"
         },
         {
-            "title": "Portugal processado pela UE por falhas em directivas de protecção ambiental",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/azul/noticia/portugal-processado-ue-falhas-directivas-proteccao-ambiental-2181771"
+            "title": "Starmer despede-se do Parlamento britânico: “É o fim do meu percurso político”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/mundo/noticia/starmer-despedese-parlamento-britanico-fim-percurso-politico-2181836"
         },
         {
-            "title": "Rodrigo, o menino que salvou a mãe ao ligar para o INEM, recebe prémio de civismo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/impar/noticia/rodrigo-menino-salvou-mae-ligar-inem-recebe-premio-civismo-2181810"
+            "title": "Sérgio Figueiredo abandona canal Conta Lá, que não paga salários há dois meses",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/economia/noticia/sergio-figueiredo-abandona-canal-conta-nao-paga-salarios-ha-dois-meses-2181845"
         }
     ],
     "finance": [],
-    "last_update": "15/07/2026 17:03"
+    "last_update": "15/07/2026 18:53"
 }
