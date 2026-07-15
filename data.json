@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 20.5,
-        "manha": 20.9,
-        "tarde": 26.5,
-        "noite": 22.6
+        "manha": 21.0,
+        "tarde": 26.8,
+        "noite": 22.5
     },
     "forecast": {
-        "max": 27.9,
-        "min": 19.6
+        "max": 28.3,
+        "min": 19.7
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/opiniao/opiniao/cartas-director-2181613"
+        },
         {
             "title": "A Grande Coligação da Europa chegou ao fim. É hora de os partidos tradicionais romperem com o PPE",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/opiniao/opiniao/coligacao-europa-chegou-fim-hora-partidos-tradicionais-romperem-ppe-2181352"
@@ -25,12 +29,8 @@
         {
             "title": "O PSD, os refugiados e os imigrantes",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/opiniao/opiniao/psd-refugiados-imigrantes-2181354"
-        },
-        {
-            "title": "Quatro minutos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/opiniao/opiniao/quatro-minutos-2181671"
         }
     ],
     "finance": [],
-    "last_update": "15/07/2026 01:18"
+    "last_update": "15/07/2026 04:39"
 }
