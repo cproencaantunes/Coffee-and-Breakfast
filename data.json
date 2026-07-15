@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.5,
         "manha": 20.9,
-        "tarde": 26.8,
-        "noite": 22.3
+        "tarde": 27.0,
+        "noite": 22.4
     },
     "forecast": {
-        "max": 27.7,
-        "min": 19.8
+        "max": 27.9,
+        "min": 19.6
     },
     "news": [
         {
-            "title": "Grupo de editoras processa Google pelo uso ilegal de obras para treino de IA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/culturaipsilon/noticia/grupo-editoras-processa-google-uso-ilegal-obras-treino-ia-2181728"
+            "title": "Fundo de Garantia tem mais dinheiro disponível, mas há mais depósitos que não protege",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/economia/noticia/fundo-garantia-dinheiro-disponivel-ha-depositos-nao-protege-2181756"
         },
         {
-            "title": "Dezenas de investigadores protestam em Lisboa por melhores condições de trabalho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/ciencia/noticia/dezenas-investigadores-protestam-lisboa-melhores-condicoes-trabalho-2181733"
+            "title": "Ministério desmente que professores tenham até quinta-feira para classificar exames",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/sociedade/noticia/ministerio-desmente-professores-ate-quintafeira-classificar-exames-2181751"
         },
         {
-            "title": "Americanos querem Moreira Rato para presidir à Pharol, mas BCE tem de aprovar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/economia/noticia/americanos-querem-moreira-rato-presidir-pharol-bce-aprovar-2181731"
+            "title": "Trump paga cinco milhões de euros a E. Jean Carroll por violação sexual e difamação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/mundo/noticia/trump-paga-cinco-milhoes-euros-jean-carroll-violacao-sexual-difamacao-2181740"
         },
         {
-            "title": "Cinema ao ar livre: telas a céu aberto para as noites de Verão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/fugas/noticia/cinema-ar-livre-telas-ceu-aberto-noites-verao-2181628"
+            "title": "O hedge virou bet: o Brasil, o BRICS e a conta russa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/publico-brasil/opiniao/hedge-virou-bet-brasil-brics-conta-russa-2181754"
         },
         {
-            "title": "Um pato e uma cadela criaram uma amizade improvável e, agora, são inseparáveis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/p3/noticia/pato-cadela-criaram-amizade-improvavel-sao-inseparaveis-2181702"
+            "title": "O encontro da ciência e da inovação trouxe “dois amores”, mas há um de que se gosta mais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/15/ciencia/noticia/encontro-ciencia-inovacao-trouxe-dois-amores-ha-gosta-2181749"
         }
     ],
     "finance": [],
-    "last_update": "15/07/2026 11:20"
+    "last_update": "15/07/2026 13:08"
 }
