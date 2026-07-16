@@ -3,34 +3,34 @@
         "atual": 20.7,
         "manha": 21.1,
         "tarde": 27.4,
-        "noite": 22.0
+        "noite": 22.4
     },
     "forecast": {
-        "max": 26.9,
+        "max": 27.0,
         "min": 19.3
     },
     "news": [
         {
-            "title": "Ministro da Educação “muito confiante” de que notas serão todas publicadas sexta-feira à tarde",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/politica/noticia/ministro-educacao-confiante-notas-serao-publicadas-sextafeira-tarde-2182001"
+            "title": "Os exames nacionais e o atirar ao alvo errado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/newsletter/educacao"
         },
         {
-            "title": "A primeira queda de uma mãe",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/p3/cronica/primeira-queda-mae-2181607"
+            "title": "SUS atendeu 775 mil estrangeiros em 2025, sendo 81 mil portugueses, diz ministro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/publico-brasil/entrevista/sus-atendeu-775-mil-estrangeiros-2025-81-mil-portugueses-ministro-2181988"
         },
         {
-            "title": "Museu Gulbenkian reabre “renovado”, para ficar mais igual ao que era há quase 60 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/culturaipsilon/noticia/museu-gulbenkian-reabre-renovado-ficar-igual-ha-quase-60-anos-2181996"
+            "title": "Nem <em>resorts</em>, nem reconstrução: Conselho de Paz planeia instalar contentores em Gaza",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/mundo/noticia/resorts-reconstrucao-conselho-paz-planeia-instalar-contentores-gaza-2182003"
         },
         {
-            "title": "Com Mohammad Rasoulof, o Curtas convida-nos a entrar na <em>Twilight Zone</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/culturaipsilon/noticia/mohammad-rasoulof-curtas-convidanos-entrar-twilight-zone-2181649"
+            "title": "Argentina é a rainha dos golos fora de horas num Mundial recordista",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/desporto/noticia/argentina-rainha-golos-horas-mundial-recordista-2181959"
         },
         {
-            "title": "Por precaução, estudantes do superior pedem ao ministro que adie novo modelo de bolsas de estudo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/sociedade/noticia/precaucao-estudantes-superior-pedem-ministro-adie-novo-modelo-bolsas-estudo-2181936"
+            "title": "Sem trunfos, Montenegro segura ministros e nega caos nos exames",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/politica/noticia/trunfos-montenegro-segura-ministros-nega-caos-exames-2181974"
         }
     ],
     "finance": [],
-    "last_update": "16/07/2026 20:44"
+    "last_update": "16/07/2026 21:57"
 }
