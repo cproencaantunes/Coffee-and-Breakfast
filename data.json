@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.7,
-        "manha": 21.1,
-        "tarde": 27.4,
-        "noite": 22.4
+        "atual": 20.6,
+        "manha": 20.9,
+        "tarde": 26.9,
+        "noite": 21.0
     },
     "forecast": {
-        "max": 27.0,
-        "min": 19.3
+        "max": 26.3,
+        "min": 18.6
     },
     "news": [
         {
-            "title": "Os exames nacionais e o atirar ao alvo errado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/newsletter/educacao"
+            "title": "Vance acusa governantes israelitas de influenciar norte-americanos a opor-se ao acordo com o Irão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/mundo/noticia/vance-acusa-governantes-israelitas-influenciar-norteamericanos-oporse-acordo-irao-2182008"
         },
         {
-            "title": "SUS atendeu 775 mil estrangeiros em 2025, sendo 81 mil portugueses, diz ministro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/publico-brasil/entrevista/sus-atendeu-775-mil-estrangeiros-2025-81-mil-portugueses-ministro-2181988"
+            "title": "EUA atacam aeroporto e pontes iranianas na zona de Ormuz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/mundo/noticia/eua-atacam-aeroporto-pontes-iranianas-zona-ormuz-2182012"
         },
         {
-            "title": "Nem <em>resorts</em>, nem reconstrução: Conselho de Paz planeia instalar contentores em Gaza",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/mundo/noticia/resorts-reconstrucao-conselho-paz-planeia-instalar-contentores-gaza-2182003"
+            "title": "EUA anunciam restrição de vistos a membros de grupos terroristas de extrema-esquerda",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/mundo/noticia/eua-anunciam-restricao-vistos-membros-grupos-terroristas-extremaesquerda-2182011"
         },
         {
-            "title": "Argentina é a rainha dos golos fora de horas num Mundial recordista",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/desporto/noticia/argentina-rainha-golos-horas-mundial-recordista-2181959"
+            "title": "Como a paridade de género lixa o planeta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/opiniao/opiniao/paridade-genero-lixa-planeta-2181979"
         },
         {
-            "title": "Sem trunfos, Montenegro segura ministros e nega caos nos exames",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/politica/noticia/trunfos-montenegro-segura-ministros-nega-caos-exames-2181974"
+            "title": "Sistema Volta levou a mais contentores de lixo remexidos e despejados no Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/azul/noticia/sistema-volta-levou-contentores-lixo-remexidos-despejados-porto-2182009"
         }
     ],
     "finance": [],
-    "last_update": "16/07/2026 22:47"
+    "last_update": "16/07/2026 23:48"
 }
