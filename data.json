@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.7,
-        "manha": 21.2,
-        "tarde": 27.4,
-        "noite": 22.4
+        "manha": 21.0,
+        "tarde": 27.5,
+        "noite": 22.2
     },
     "forecast": {
         "max": 27.2,
-        "min": 19.5
+        "min": 19.1
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/opiniao/opiniao/cartas-director-2181826"
+            "title": "“Quem está a dar cabo da Rússia é o Presidente Putin e as suas aventuras ucranianas”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/mundo/noticia/dar-cabo-russia-presidente-putin-aventuras-ucranianas-2181772"
         },
         {
-            "title": "O estado da nação com o PS calado e o Governo a arder",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/opiniao/opiniao/estado-nacao-ps-calado-governo-arder-2181822"
+            "title": "Do Desporto da Nação para uma Nação do Desporto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/desporto/opiniao/desporto-nacao-nacao-desporto-2181797"
         },
         {
-            "title": "Taxas e taxinhas: prestação de contas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/opiniao/opiniao/taxas-taxinhas-prestacao-contas-2181790"
+            "title": "O que é o debate sobre o Estado da Nação? E para que serve?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/video/debate-estado-nacao-serve-20260714-174853"
         },
         {
-            "title": "Danças com números, a propósito de algumas capicuas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/culturaipsilon/opiniao/dancas-numeros-proposito-capicuas-2181446"
+            "title": "O que que eu não sei (e gosto assim)",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/publico-brasil/cronica/nao-sei-gosto-assim-2181869"
         },
         {
-            "title": "A América antes do “depois”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/opiniao/opiniao/america-2181741"
+            "title": "Relatório do ISCTE aponta ao Governo “obsessão com imigração” e falhas no combate à pobreza",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/politica/noticia/relatorio-iscte-aponta-governo-obsessao-imigracao-falhas-combate-pobreza-2181866"
         }
     ],
     "finance": [],
-    "last_update": "16/07/2026 04:49"
+    "last_update": "16/07/2026 07:14"
 }
