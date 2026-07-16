@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.7,
         "manha": 21.1,
-        "tarde": 27.6,
-        "noite": 22.2
+        "tarde": 27.5,
+        "noite": 22.0
     },
     "forecast": {
-        "max": 27.1,
-        "min": 19.3
+        "max": 27.0,
+        "min": 19.5
     },
     "news": [
         {
-            "title": "Plataforma X tem seis meses para cumprir exigências da UE de transparência e acesso a dados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/enter/noticia/plataforma-x-seis-meses-cumprir-exigencias-ue-transparencia-acesso-dados-2181899"
+            "title": "Coimbra vai à Paulista: universidade portuguesa terá representação própria no Brasil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/publico-brasil/noticia/coimbra-vai-paulista-universidade-portuguesa-tera-representacao-propria-brasil-2181902"
         },
         {
-            "title": "Onde é que Christopher Nolan arranjou estes brinquedos maravilhosos?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/culturaipsilon/noticia/onde-christopher-nolan-arranjou-brinquedos-maravilhosos-2181887"
+            "title": "Repavimentação da Avenida da Liberdade, em Lisboa, começa no fim de Agosto e durará dois meses",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/local/noticia/repavimentacao-avenida-liberdade-comeca-fim-agosto-durara-dois-meses-2181838"
         },
         {
-            "title": "Quando a água deixa de bater à porta…",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/azul/opiniao/agua-deixa-bater-porta-2181840"
+            "title": "Activista indiano está em greve de fome há 19 dias por reforma na educação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/mundo/noticia/activista-indiano-greve-fome-ha-19-dias-reforma-educacao-2181907"
         },
         {
-            "title": "Nova lei orgânica do INEM já foi publicada e abre a porta a acordos com o privado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/sociedade/noticia/nova-lei-organica-inem-ja-publicada-abre-porta-acordos-privado-2181881"
+            "title": "Funcionários de hospital privado detidos em esquema de receitas falsas de medicamentos para obesidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/sociedade/noticia/funcionarios-hospital-privado-detidos-esquema-receitas-falsas-medicamentos-obesidade-2181906"
         },
         {
-            "title": "Starmer faz uma visita final a Kiev num dia de protestos contra a demissão do ministro da Defesa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/mundo/noticia/starmer-faz-visita-final-kiev-dia-protestos-demissao-ministro-defesa-2181892"
+            "title": "Boteco em Lisboa tem charcutaria artesanal, “prato-feito” e outros clássicos brasileiros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/publico-brasil/noticia/boteco-lisboa-charcutaria-artesanal-pratofeito-classicos-brasileiros-2181776"
         }
     ],
     "finance": [],
-    "last_update": "16/07/2026 11:26"
+    "last_update": "16/07/2026 13:16"
 }
