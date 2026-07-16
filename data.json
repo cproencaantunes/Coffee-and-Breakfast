@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 20.7,
-        "manha": 21.0,
+        "manha": 21.2,
         "tarde": 27.4,
-        "noite": 22.5
+        "noite": 22.4
     },
     "forecast": {
-        "max": 27.1,
-        "min": 19.3
+        "max": 27.2,
+        "min": 19.5
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/opiniao/opiniao/cartas-director-2181826"
+        },
         {
             "title": "O estado da nação com o PS calado e o Governo a arder",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/opiniao/opiniao/estado-nacao-ps-calado-governo-arder-2181822"
@@ -25,12 +29,8 @@
         {
             "title": "A América antes do “depois”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/opiniao/opiniao/america-2181741"
-        },
-        {
-            "title": "Quando o clima muda mais depressa do que as infraestruturas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/opiniao/opiniao/clima-muda-depressa-infraestruturas-2181137"
         }
     ],
     "finance": [],
-    "last_update": "16/07/2026 01:28"
+    "last_update": "16/07/2026 04:49"
 }
