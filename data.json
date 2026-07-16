@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.7,
         "manha": 21.1,
-        "tarde": 27.5,
-        "noite": 22.0
+        "tarde": 27.4,
+        "noite": 21.9
     },
     "forecast": {
         "max": 27.0,
-        "min": 19.5
+        "min": 19.3
     },
     "news": [
         {
-            "title": "Almada: corte do abastecimento de água em 21 locais esta noite",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/local/noticia/almada-corte-abastecimento-agua-21-locais-noite-2181941"
+            "title": "Madeira: no Gato Legal, lá longe na Ponta do Pargo, o café de especialidade é para todos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/fugas/noticia/madeira-gato-legal-longe-ponta-pargo-cafe-especialidade-2181266"
         },
         {
-            "title": "União Europeia obriga Google a ceder dados do Android e motor de pesquisa à concorrência",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/enter/noticia/uniao-europeia-obriga-google-ceder-dados-android-motor-pesquisa-concorrencia-2181917"
+            "title": "Tim Merlier completa o <em>hat-trick </em>na Volta a França",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/desporto/noticia/tim-merlier-completa-hattrick-volta-franca-2181952"
         },
         {
-            "title": "Mães e filhas: a conversa que salva a nossa relação com o corpo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/impar/noticia/maes-filhas-conversa-salva-relacao-corpo-2181889"
+            "title": "Carolina Bianchi, Isabél Zuaa e Ali Chahrour na <em>rentrée</em> do Teatro Municipal do Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/culturaipsilon/noticia/carolina-bianchi-isabel-zuaa-ali-chahrour-rentree-teatro-municipal-porto-2181958"
         },
         {
-            "title": "Demissão repentina do ministro da Defesa ucraniano é “erro estratégico” de Zelensky",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/mundo/noticia/demissao-repentina-ministro-defesa-ucraniano-erro-estrategico-zelensky-2181932"
+            "title": "Sem cidadãos, não há áreas de aceleração",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/azul/opiniao/cidadaos-nao-ha-areas-aceleracao-2181820"
         },
         {
-            "title": "Cinco e dez cêntimos: parquímetros de Lisboa sobem preços pela primeira vez desde 2011",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/local/noticia/cinco-dez-centimos-parquimetros-lisboa-sobem-precos-primeira-desde-2011-2181927"
+            "title": "Morreu o cientista japonês Susumu Tonegawa, Nobel da Medicina de 1987",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/16/ciencia/noticia/morreu-cientista-japones-susumu-tonegawa-nobel-medicina-1987-2181955"
         }
     ],
     "finance": [],
-    "last_update": "16/07/2026 15:24"
+    "last_update": "16/07/2026 17:01"
 }
