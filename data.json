@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.7,
-        "manha": 21.1,
+        "manha": 21.0,
         "tarde": 26.9,
         "noite": 21.3
     },
     "forecast": {
         "max": 26.6,
-        "min": 19.0
+        "min": 18.8
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/opiniao/opiniao/cartas-director-2181965"
+            "title": "Portuenses The Acoustic Foundation têm um novo álbum, <i>whaTAFunk</i>, e lançam-no <i>Agora</i>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/video/portuenses-the-acoustic-foundation-novo-album-whatafunk-lancamno-20260716-110803"
         },
         {
-            "title": "Trump acusa China e fomenta desconfiança sobre eleições a meses das intercalares",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/mundo/noticia/trump-implica-china-fomenta-desconfianca-eleicoes-meses-intercalares-2182015"
+            "title": "Despertador: Ministro da Educação acredita que notas dos exames saem hoje. A IA na música",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/newsletter/despertador"
         },
         {
-            "title": "Vance acusa governantes israelitas de influenciar norte-americanos a opor-se ao acordo com o Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/mundo/noticia/vance-acusa-governantes-israelitas-influenciar-norteamericanos-oporse-acordo-irao-2182008"
+            "title": "Seria a Copa uma das últimas experiências coletivas do mundo?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/publico-brasil/opiniao/copa-ultimas-experiencias-coletivas-mundo-2182007"
         },
         {
-            "title": "EUA atacam aeroporto e pontes iranianas na zona de Ormuz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/mundo/noticia/eua-atacam-aeroporto-pontes-iranianas-zona-ormuz-2182012"
+            "title": "Ministros inovadores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/ciencia/opiniao/ministros-inovadores-2181641"
         },
         {
-            "title": "EUA anunciam restrição de vistos a membros de grupos terroristas de extrema-esquerda",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/mundo/noticia/eua-anunciam-restricao-vistos-membros-grupos-terroristas-extremaesquerda-2182011"
+            "title": "“As Malvinas são argentinas”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/mundo/cronica/malvinas-sao-argentinas-2181997"
         }
     ],
     "finance": [],
-    "last_update": "17/07/2026 04:52"
+    "last_update": "17/07/2026 07:09"
 }
