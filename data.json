@@ -11,11 +11,15 @@
     },
     "news": [
         {
+            "title": "Presidente da República promulga autorização legislativa para criar Prestação Social Única",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/politica/noticia/presidente-republica-promulga-autorizacao-legislativa-criar-prestacao-social-unica-2182177"
+        },
+        {
             "title": "Benfica bate Villarreal em ensaio geral para a Liga Europa",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/desporto/noticia/benfica-bate-villarreal-ensaio-geral-liga-europa-2182171"
         },
         {
-            "title": "Seguro quer “perceber o que se passou” na classificação de exames e segunda fase sem problemas",
+            "title": "Seguro quer “perceber o que se passou” na classificação dos exames e segunda fase sem problemas",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/politica/noticia/seguro-quer-perceber-passou-classificacao-exames-segunda-fase-problemas-2182175"
         },
         {
@@ -25,12 +29,8 @@
         {
             "title": "HP OmniBook Ultra 14 em teste: um ultraportátil de luxo com força de sobra",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/enter/critica/hp-omnibook-ultra-14-teste-ultraportatil-luxo-forca-sobra-2182080"
-        },
-        {
-            "title": "A culpa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/p3/cronica/culpa-2181609"
         }
     ],
     "finance": [],
-    "last_update": "17/07/2026 20:46"
+    "last_update": "17/07/2026 21:40"
 }
