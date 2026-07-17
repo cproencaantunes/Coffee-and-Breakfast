@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.7,
         "manha": 21.1,
-        "tarde": 26.7,
-        "noite": 21.1
+        "tarde": 26.6,
+        "noite": 21.2
     },
     "forecast": {
-        "max": 26.8,
-        "min": 18.9
+        "max": 26.7,
+        "min": 19.0
     },
     "news": [
         {
-            "title": "Bruxelas quer duplicar a taxa de electrificação da UE para 46% até 2040",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/economia/noticia/bruxelas-quer-duplicar-taxa-electrificacao-ue-46-ate-2040-2182110"
+            "title": "Volta a França: Mauro Schmid vence etapa mais longa, Pidcock ameaça top 3",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/desporto/noticia/volta-franca-mauro-schmid-vence-etapa-longa-pidcock-ameaca-top-3-2182138"
         },
         {
-            "title": "FIFA vai entregar anéis personalizados aos campeões do mundo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/desporto/noticia/fifa-vai-entregar-aneis-personalizados-campeoes-mundo-2182106"
+            "title": "O honorífico Mário Ferreira, os fidalgos do Porto e a bela teta duriense",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/fugas/cronica/honorifico-mario-ferreira-fidalgos-porto-bela-teta-duriense-2181449"
         },
         {
-            "title": "Coligações políticas pedem à CEDEAO para travar o processo de revisão constitucional na Guiné-Bissau",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/mundo/noticia/coligacoes-politicas-pedem-cedeao-travar-processo-revisao-constitucional-guinebissau-2182103"
+            "title": "Bruxelas quer rever as regras do comércio de emissões. Perceba porquê",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/azul/perguntaserespostas/bruxelas-quer-rever-regras-comercio-emissoes-perceba-2182135"
         },
         {
-            "title": "Japão muda a lei de sucessão, mas ainda não é desta que a princesa Aiko chega ao trono",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/impar/noticia/japao-muda-lei-sucessao-nao-princesa-aiko-chega-trono-2182094"
+            "title": "Quadros medievais, bolas de Berlim e uma <em>Fórmula Mágica</em> para a família",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/impar/noticia/quadros-medievais-bolas-berlim-formula-magica-familia-2182132"
         },
         {
-            "title": "Comissão de Avaliação do Mérito Cultural que decide subsídios enceta novo mandato",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/culturaipsilon/noticia/comissao-avaliacao-merito-cultural-decide-subsidios-enceta-novo-mandato-2182055"
+            "title": "Simão Costa vai dar-nos a escutar a música da Ponte 25 de Abril",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/culturaipsilon/noticia/simao-costa-vai-darnos-escutar-musica-ponte-25-abril-2182077"
         }
     ],
     "finance": [],
-    "last_update": "17/07/2026 15:04"
+    "last_update": "17/07/2026 16:57"
 }
