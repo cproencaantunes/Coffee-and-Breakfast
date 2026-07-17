@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.7,
-        "manha": 21.1,
+        "atual": 20.1,
+        "manha": 21.4,
         "tarde": 26.6,
-        "noite": 21.4
+        "noite": 21.3
     },
     "forecast": {
-        "max": 26.6,
-        "min": 19.2
+        "max": 27.1,
+        "min": 19.4
     },
     "news": [
         {
-            "title": "Resultados chegaram ao início da noite às escolas, mas há “centenas” de alunos sem notas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/sociedade/noticia/resultados-chegaram-inicio-noite-escolas-ha-centenas-alunos-notas-2182176"
+            "title": "Irão: EUA lançam nova vaga de ataques pelo sétimo dia consecutivo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/mundo/noticia/irao-eua-lancam-nova-vaga-ataques-setimo-dia-consecutivo-2182182"
         },
         {
-            "title": "Canadá enfrenta mais de 200 incêndios florestais e críticas de Trump por poluição",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/mundo/noticia/canada-enfrenta-200-incendios-florestais-criticas-trump-poluicao-2182179"
+            "title": "Ver o que está e o que não está nas fotografias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/opiniao/opiniao/nao-fotografias-2182170"
         },
         {
-            "title": "Preocupado com “gravidade” do caso Luís Neves, Carneiro pede explicação “clara e inequívoca”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/politica/noticia/preocupado-gravidade-caso-luis-neves-carneiro-pede-explicacao-clara-inequivoca-2182178"
+            "title": "E se as ONG europeias inundassem o correio de Marco Rubio?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/mundo/opiniao/ong-europeias-inundassem-correio-marco-rubio-2182111"
         },
         {
-            "title": "Presidente da República promulga autorização legislativa para criar Prestação Social Única",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/politica/noticia/presidente-republica-promulga-autorizacao-legislativa-criar-prestacao-social-unica-2182177"
+            "title": "Morrer: obrigação ou direito?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/opiniao/opiniao/morrer-obrigacao-direito-2181987"
         },
         {
-            "title": "Benfica bate Villarreal em ensaio geral para a Liga Europa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/desporto/noticia/benfica-bate-villarreal-ensaio-geral-liga-europa-2182171"
+            "title": "O regresso à obscuridade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/opiniao/opiniao/regresso-obscuridade-2181782"
         }
     ],
     "finance": [],
-    "last_update": "17/07/2026 22:37"
+    "last_update": "17/07/2026 23:41"
 }
