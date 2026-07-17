@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.7,
-        "manha": 21.0,
+        "manha": 21.1,
         "tarde": 26.9,
         "noite": 21.3
     },
     "forecast": {
-        "max": 26.6,
+        "max": 26.7,
         "min": 18.8
     },
     "news": [
         {
-            "title": "Portuenses The Acoustic Foundation têm um novo álbum, <i>whaTAFunk</i>, e lançam-no <i>Agora</i>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/video/portuenses-the-acoustic-foundation-novo-album-whatafunk-lancamno-20260716-110803"
+            "title": "Consegue distinguir uma canção feita por IA de uma criada por humanos?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/newsletter/ipsilon"
         },
         {
-            "title": "Despertador: Ministro da Educação acredita que notas dos exames saem hoje. A IA na música",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/newsletter/despertador"
+            "title": "Brigas e tentativas de furar fila marcam passagem pelo aeroporto de Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/publico-brasil/noticia/brigas-tentativas-furar-fila-marcam-passagem-aeroporto-lisboa-2182028"
         },
         {
-            "title": "Seria a Copa uma das últimas experiências coletivas do mundo?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/publico-brasil/opiniao/copa-ultimas-experiencias-coletivas-mundo-2182007"
+            "title": "IA, baratas e buracos de minhoca",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/culturaipsilon/cronica/ia-baratas-buracos-minhoca-2181567"
         },
         {
-            "title": "Ministros inovadores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/ciencia/opiniao/ministros-inovadores-2181641"
+            "title": "Ex-ministro dos Negócios Estrangeiros da Hungria investigado por ligações à Rússia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/mundo/noticia/exministro-negocios-estrangeiros-hungria-investigado-ligacoes-russia-2182023"
         },
         {
-            "title": "“As Malvinas são argentinas”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/mundo/cronica/malvinas-sao-argentinas-2181997"
+            "title": "Governo promete “autonomia total” aos municípios no mapa verde das renováveis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/azul/noticia/governo-promete-autonomia-total-municipios-mapa-verde-renovaveis-2182021"
         }
     ],
     "finance": [],
-    "last_update": "17/07/2026 07:09"
+    "last_update": "17/07/2026 09:45"
 }
