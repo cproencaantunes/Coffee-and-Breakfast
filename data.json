@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.7,
         "manha": 21.1,
-        "tarde": 26.9,
-        "noite": 21.3
+        "tarde": 26.7,
+        "noite": 21.1
     },
     "forecast": {
-        "max": 26.7,
-        "min": 18.8
+        "max": 26.8,
+        "min": 18.9
     },
     "news": [
         {
-            "title": "O tradutor de Homero não quer ver <em>A Odisseia</em>. Porquê, Frederico Lourenço?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/culturaipsilon/podcast/tradutor-homero-nao-quer-odisseia-frederico-lourenco-2181900"
+            "title": "Parlamento elege António Barbas Homem presidente do Conselho Nacional de Educação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/politica/noticia/parlamento-elege-antonio-barbas-homem-presidente-conselho-nacional-educacao-2182064"
         },
         {
-            "title": "Preços das casas aceleram em metade dos municípios populosos no primeiro trimestre",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/economia/noticia/precos-casas-aceleram-metade-municipios-populosos-trimestre-2182039"
+            "title": "Aprovado alargamento a todo o país dos transportes gratuitos para ex-combatentes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/politica/noticia/aprovado-alargamento-pais-transportes-gratuitos-excombatentes-2182059"
         },
         {
-            "title": "Venda de casas atinge em 2025 valor recorde de 41,2 mil milhões",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/economia/noticia/venda-casas-atinge-2025-valor-recorde-412-mil-milhoes-2182035"
+            "title": "48 horas em New York City sem dormir",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/publico-brasil/cronica/48-horas-new-york-city-dormir-2182046"
         },
         {
-            "title": "30 anos de Lux Records: “Estou a criar um catálogo. É mais importante do que ter lucro”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/culturaipsilon/noticia/lux-records-criar-catalogo-importante-lucro-2181666"
+            "title": "Distúrbios alimentares: YouTube continua a recomendar vídeos nocivos, revela estudo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/p3/noticia/disturbios-alimentares-youtube-continua-recomendar-videos-nocivos-revela-estudo-2181903"
         },
         {
-            "title": "Morreu a matriarca do clã Kardashian. Mary Jo Shannon tinha 91 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/impar/noticia/morreu-matriarca-cla-kardashian-mary-jo-shannon-91-anos-2182030"
+            "title": "Luís Neves: PJ comunica ao MP caso de atrelado apreendido, PGR “analisa outros factos noticiados”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/sociedade/noticia/luis-neves-pj-comunica-mp-caso-atrelado-apreendido-pgr-analisa-factos-noticiados-2182058"
         }
     ],
     "finance": [],
-    "last_update": "17/07/2026 11:13"
+    "last_update": "17/07/2026 13:01"
 }
