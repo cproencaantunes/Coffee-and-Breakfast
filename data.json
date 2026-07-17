@@ -3,13 +3,21 @@
         "atual": 20.7,
         "manha": 21.1,
         "tarde": 26.9,
-        "noite": 21.1
+        "noite": 21.3
     },
     "forecast": {
-        "max": 26.3,
-        "min": 18.6
+        "max": 26.6,
+        "min": 19.0
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/opiniao/opiniao/cartas-director-2181965"
+        },
+        {
+            "title": "Trump acusa China e fomenta desconfiança sobre eleições a meses das intercalares",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/mundo/noticia/trump-implica-china-fomenta-desconfianca-eleicoes-meses-intercalares-2182015"
+        },
         {
             "title": "Vance acusa governantes israelitas de influenciar norte-americanos a opor-se ao acordo com o Irão",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/mundo/noticia/vance-acusa-governantes-israelitas-influenciar-norteamericanos-oporse-acordo-irao-2182008"
@@ -21,16 +29,8 @@
         {
             "title": "EUA anunciam restrição de vistos a membros de grupos terroristas de extrema-esquerda",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/mundo/noticia/eua-anunciam-restricao-vistos-membros-grupos-terroristas-extremaesquerda-2182011"
-        },
-        {
-            "title": "Como a paridade de género lixa o planeta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/opiniao/opiniao/paridade-genero-lixa-planeta-2181979"
-        },
-        {
-            "title": "Sistema Volta levou a mais contentores de lixo remexidos e despejados no Porto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/17/azul/noticia/sistema-volta-levou-contentores-lixo-remexidos-despejados-porto-2182009"
         }
     ],
     "finance": [],
-    "last_update": "17/07/2026 01:42"
+    "last_update": "17/07/2026 04:52"
 }
