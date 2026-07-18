@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.0,
-        "manha": 21.1,
-        "tarde": 25.9,
-        "noite": 21.5
+        "atual": 20.3,
+        "manha": 21.5,
+        "tarde": 27.0,
+        "noite": 22.0
     },
     "forecast": {
-        "max": 27.0,
-        "min": 19.6
+        "max": 27.3,
+        "min": 20.5
     },
     "news": [
         {
-            "title": "Antigo presidente do JNE era contra a generalização da correcção digital: “Sabia que as coisas poderiam ir por este caminho”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/sociedade/noticia/antigo-presidente-jne-generalizacao-correccao-digital-sabia-ir-caminho-2182245"
+            "title": "Políticas culturais, gratuitidade e museus: avançar, recuando",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/culturaipsilon/opiniao/politicas-culturais-gratuitidade-museus-avancar-recuando-2181745"
         },
         {
-            "title": "Arrábida: tudo o que é belo não é para vender",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/opiniao/opiniao/arrabida-belo-nao-vender-2182233"
+            "title": "Democracia em tempo de crise: as lições de Darwin para o ativismo de sofá",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/opiniao/opiniao/democracia-tempo-crise-licoes-darwin-ativismo-sofa-2182053"
         },
         {
-            "title": "Designer brasileira em Portugal conta quais são as exigências de sua clientela",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/publico-brasil/noticia/designer-brasileira-portugal-conta-sao-exigencias-clientela-2182144"
+            "title": "Recuperar a soberania cívica perante o poder dos algoritmos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/opiniao/opiniao/recuperar-soberania-civica-algoritmos-2181910"
         },
         {
-            "title": "Mamdani pondera deter Netanyahu na Assembleia Geral da ONU",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/mundo/noticia/mamdani-pondera-deter-netanyahu-assembleia-geral-onu-2182244"
+            "title": "O anti-Midas da habitação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/opiniao/opiniao/antimidas-habitacao-2181795"
         },
         {
-            "title": "Argélia: FLN ganha as eleições legislativas onde quase ninguém quis votar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/mundo/noticia/argelia-fln-ganha-eleicoes-legislativas-onde-quase-ninguem-quis-votar-2182243"
+            "title": "A Inglaterra saiu consolada, a França salvou a face",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/desporto/noticia/inglaterra-saiu-consolada-franca-salvou-face-2182248"
         }
     ],
     "finance": [],
-    "last_update": "18/07/2026 22:37"
+    "last_update": "18/07/2026 23:41"
 }
