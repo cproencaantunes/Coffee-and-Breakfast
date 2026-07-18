@@ -3,13 +3,21 @@
         "atual": 20.0,
         "manha": 21.1,
         "tarde": 25.9,
-        "noite": 21.3
+        "noite": 21.5
     },
     "forecast": {
         "max": 27.0,
-        "min": 19.4
+        "min": 19.6
     },
     "news": [
+        {
+            "title": "Antigo presidente do JNE era contra a generalização da correcção digital: “Sabia que as coisas poderiam ir por este caminho”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/sociedade/noticia/antigo-presidente-jne-generalizacao-correccao-digital-sabia-ir-caminho-2182245"
+        },
+        {
+            "title": "Arrábida: tudo o que é belo não é para vender",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/opiniao/opiniao/arrabida-belo-nao-vender-2182233"
+        },
         {
             "title": "Designer brasileira em Portugal conta quais são as exigências de sua clientela",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/publico-brasil/noticia/designer-brasileira-portugal-conta-sao-exigencias-clientela-2182144"
@@ -21,16 +29,8 @@
         {
             "title": "Argélia: FLN ganha as eleições legislativas onde quase ninguém quis votar",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/mundo/noticia/argelia-fln-ganha-eleicoes-legislativas-onde-quase-ninguem-quis-votar-2182243"
-        },
-        {
-            "title": "Virgens assassinas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/p3/cronica/virgens-assassinas-2181620"
-        },
-        {
-            "title": "Escolas ainda sem respostas para dar a alunos com notas suspensas. Ministério promete para mais tarde",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/sociedade/noticia/escolas-respostas-dar-alunos-notas-suspensas-ministerio-promete-tarde-2182229"
         }
     ],
     "finance": [],
-    "last_update": "18/07/2026 21:39"
+    "last_update": "18/07/2026 22:37"
 }
