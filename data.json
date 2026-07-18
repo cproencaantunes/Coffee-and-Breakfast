@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.0,
         "manha": 21.1,
-        "tarde": 26.1,
+        "tarde": 25.9,
         "noite": 21.3
     },
     "forecast": {
-        "max": 27.2,
-        "min": 19.3
+        "max": 27.1,
+        "min": 19.4
     },
     "news": [
         {
+            "title": "Bienal de Artes de Cerveira atribuiu dez prémios aquisição e um prémio revelação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/culturaipsilon/noticia/bienal-artes-cerveira-atribuiu-dez-premios-aquisicao-premio-revelacao-2182143"
+        },
+        {
+            "title": "Irão acusa EUA de atacar infra-estruturas civis e atinge países do Golfo em retaliação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/mundo/noticia/irao-acusa-eua-atacar-infraestruturas-civis-atinge-paises-golfo-retaliacao-2182223"
+        },
+        {
+            "title": "Grupo de 260 pessoas apresenta queixa crime contra os participantes no golpe militar na Guiné-Bissau",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/mundo/noticia/grupo-260-pessoas-apresenta-queixa-crime-participantes-golpe-militar-guinebissau-2182224"
+        },
+        {
+            "title": "Ayrton Senna é uma das atrações em exposição no Museu do Caramulo, em Viseu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/publico-brasil/noticia/ayrton-senna-atracoes-exposicao-museu-caramulo-viseu-2182200"
+        },
+        {
             "title": "Controlar e otimizar o consumo de energia na sua casa reduz custos e a pegada digital",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/azul/opiniao/controlar-otimizar-consumo-energia-casa-reduz-custos-pegada-digital-2181877"
-        },
-        {
-            "title": "Ordem alerta que fixação de médicos de família no SNS exige medidas adicionais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/sociedade/noticia/ordem-alerta-fixacao-medicos-familia-sns-exige-medidas-adicionais-2182221"
-        },
-        {
-            "title": "Jurista diz que solução pode ser criar “época extraordinária para alunos com nota suspensa”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/sociedade/entrevista/jurista-solucao-criar-epoca-extraordinaria-alunos-nota-suspensa-2182212"
-        },
-        {
-            "title": "Nações Unidas da Inteligência Artificial: Xi Jinping defende supervisão global para reforçar segurança",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/mundo/noticia/nacoes-unidas-inteligencia-artificial-xi-jinping-defende-supervisao-global-reforcar-seguranca-2182219"
-        },
-        {
-            "title": "Pai corre maratona de Chicago para angariar fundos para investigação sobre diabetes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/sociedade/noticia/pai-corre-maratona-chicago-angariar-fundos-investigacao-diabetes-2182037"
         }
     ],
     "finance": [],
-    "last_update": "18/07/2026 15:43"
+    "last_update": "18/07/2026 16:42"
 }
