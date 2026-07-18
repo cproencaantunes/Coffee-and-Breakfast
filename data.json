@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.0,
         "manha": 21.1,
-        "tarde": 26.2,
+        "tarde": 26.1,
         "noite": 21.3
     },
     "forecast": {
-        "max": 27.1,
+        "max": 27.2,
         "min": 19.3
     },
     "news": [
         {
+            "title": "Carneiro desafia Montenegro: “Um ministro que não assume responsabilidades deixa de ser ministro”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/sociedade/noticia/carneiro-desafia-montenegro-ministro-nao-assume-responsabilidades-deixa-ministro-2182199"
+        },
+        {
+            "title": "Associação do sector do táxi contesta revisão da chamada “lei dos TVDE”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/economia/noticia/associacao-sector-taxi-contesta-revisao-chamada-lei-tvde-2182195"
+        },
+        {
+            "title": "Exames: Fenprof diz que processo está “comprometido” e funcionários não são obrigados a trabalhar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/sociedade/noticia/exames-fenprof-processo-comprometido-funcionarios-nao-sao-obrigados-trabalhar-2182191"
+        },
+        {
+            "title": "Um busto de Picasso inaugura na Alemanha nova era na restituição de arte pilhada pelos nazis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/culturaipsilon/noticia/busto-picasso-inaugura-alemanha-nova-restituicao-arte-pilhada-nazis-2182202"
+        },
+        {
             "title": "ONU raciona comida em El Obeid, epicentro da crise humanitária no Sudão",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/mundo/noticia/onu-raciona-comida-el-obeid-epicentro-crise-humanitaria-sudao-2182204"
-        },
-        {
-            "title": "Nuno Borges regressa ao Estoril Open “com mais pressão e expectativas”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/desporto/noticia/nuno-borges-regressa-estoril-open-pressao-expectativas-2182203"
-        },
-        {
-            "title": "Exames nacionais: No rescaldo do dia D, sem recurso a IA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/opiniao/opiniao/exames-nacionais-rescaldo-dia-d-recurso-ia-2182197"
-        },
-        {
-            "title": "Surf: Teresa Bonvalot vence final portuguesa do Ballito Pro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/desporto/noticia/surf-teresa-bonvalot-vence-final-portuguesa-ballito-pro-2182201"
-        },
-        {
-            "title": "Irão prossegue ataques no Golfo após mais uma noite de bombardeamentos dos EUA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/mundo/noticia/irao-prossegue-ataques-golfo-apos-noite-bombardeamentos-eua-2182194"
         }
     ],
     "finance": [],
-    "last_update": "18/07/2026 11:43"
+    "last_update": "18/07/2026 12:48"
 }
