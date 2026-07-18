@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 20.0,
-        "manha": 21.3,
-        "tarde": 26.4,
+        "manha": 21.2,
+        "tarde": 26.5,
         "noite": 21.3
     },
     "forecast": {
-        "max": 27.1,
-        "min": 19.4
+        "max": 27.3,
+        "min": 19.5
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/opiniao/opiniao/cartas-director-2182115"
+        },
+        {
+            "title": "Grandiosas Festas do Mártir São Sebastião evacuadas devido a fuga de amoníaco",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/local/noticia/grandiosas-festas-martir-sao-sebastiao-evacuadas-devido-fuga-amoniaco-2182186"
+        },
         {
             "title": "Fernando Alexandre chumbou ou passou no exame?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/politica/noticia/fernando-alexandre-chumbou-passou-exame-2181962"
@@ -21,16 +29,8 @@
         {
             "title": "Irão: EUA lançam nova vaga de ataques pelo sétimo dia consecutivo",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/mundo/noticia/irao-eua-lancam-nova-vaga-ataques-setimo-dia-consecutivo-2182182"
-        },
-        {
-            "title": "Ver o que está e o que não está nas fotografias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/opiniao/opiniao/nao-fotografias-2182170"
-        },
-        {
-            "title": "E se as ONG europeias inundassem o correio de Marco Rubio?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/mundo/opiniao/ong-europeias-inundassem-correio-marco-rubio-2182111"
         }
     ],
     "finance": [],
-    "last_update": "18/07/2026 01:23"
+    "last_update": "18/07/2026 04:37"
 }
