@@ -2,8 +2,8 @@
     "weather": {
         "atual": 20.0,
         "manha": 21.2,
-        "tarde": 26.5,
-        "noite": 21.3
+        "tarde": 26.4,
+        "noite": 21.4
     },
     "forecast": {
         "max": 27.3,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/opiniao/opiniao/cartas-director-2182115"
+            "title": "Brasileiros já são o maior grupo estrangeiro na Universidade de Aveiro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/publico-brasil/noticia/brasileiros-ja-sao-maior-grupo-estrangeiro-universidade-aveiro-2182155"
         },
         {
-            "title": "Grandiosas Festas do Mártir São Sebastião evacuadas devido a fuga de amoníaco",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/local/noticia/grandiosas-festas-martir-sao-sebastiao-evacuadas-devido-fuga-amoniaco-2182186"
+            "title": "E se os nossos queijinhos frescos forem mesmo os melhores do mundo?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/fugas/cronica/queijinhos-frescos-melhores-mundo-2181452"
         },
         {
-            "title": "Fernando Alexandre chumbou ou passou no exame?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/politica/noticia/fernando-alexandre-chumbou-passou-exame-2181962"
+            "title": "Como Pero Vaz de Caminha ensinou o primeiro drible à AIMA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/publico-brasil/opiniao/pero-vaz-caminha-ensinou-drible-aima-2182100"
         },
         {
-            "title": "Dez mortos e 20 feridos em ataques russos e ucranianos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/mundo/noticia/dez-mortos-20-feridos-ataques-russos-ucranianos-2182185"
+            "title": "Bidões com químicos para processar droga estavam na posse de amigo do ministro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/sociedade/noticia/bidoes-quimicos-processar-droga-posse-amigo-ministro-2182165"
         },
         {
-            "title": "Irão: EUA lançam nova vaga de ataques pelo sétimo dia consecutivo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/mundo/noticia/irao-eua-lancam-nova-vaga-ataques-setimo-dia-consecutivo-2182182"
+            "title": "Luís Montenegro está desgastado e fragilizado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/politica/opiniao/luis-montenegro-desgastado-fragilizado-2182069"
         }
     ],
     "finance": [],
-    "last_update": "18/07/2026 04:37"
+    "last_update": "18/07/2026 06:52"
 }
