@@ -1,8 +1,8 @@
 {
     "weather": {
-        "atual": 20.1,
-        "manha": 21.4,
-        "tarde": 26.6,
+        "atual": 20.0,
+        "manha": 21.3,
+        "tarde": 26.4,
         "noite": 21.3
     },
     "forecast": {
@@ -10,6 +10,14 @@
         "min": 19.4
     },
     "news": [
+        {
+            "title": "Fernando Alexandre chumbou ou passou no exame?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/politica/noticia/fernando-alexandre-chumbou-passou-exame-2181962"
+        },
+        {
+            "title": "Dez mortos e 20 feridos em ataques russos e ucranianos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/mundo/noticia/dez-mortos-20-feridos-ataques-russos-ucranianos-2182185"
+        },
         {
             "title": "Irão: EUA lançam nova vaga de ataques pelo sétimo dia consecutivo",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/mundo/noticia/irao-eua-lancam-nova-vaga-ataques-setimo-dia-consecutivo-2182182"
@@ -21,16 +29,8 @@
         {
             "title": "E se as ONG europeias inundassem o correio de Marco Rubio?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/mundo/opiniao/ong-europeias-inundassem-correio-marco-rubio-2182111"
-        },
-        {
-            "title": "Morrer: obrigação ou direito?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/opiniao/opiniao/morrer-obrigacao-direito-2181987"
-        },
-        {
-            "title": "O regresso à obscuridade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/18/opiniao/opiniao/regresso-obscuridade-2181782"
         }
     ],
     "finance": [],
-    "last_update": "17/07/2026 23:41"
+    "last_update": "18/07/2026 01:23"
 }
