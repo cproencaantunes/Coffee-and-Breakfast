@@ -3,34 +3,34 @@
         "atual": 20.1,
         "manha": 21.1,
         "tarde": 26.4,
-        "noite": 21.5
+        "noite": 21.6
     },
     "forecast": {
-        "max": 26.9,
-        "min": 19.9
+        "max": 26.6,
+        "min": 20.1
     },
     "news": [
         {
-            "title": "Madonna, Shakira, BTS e Bieber: estrelas preenchem intervalo na final do Mundial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/fotogaleria/madonna-shakira-bts-bieber-estrelas-preenchem-intervalo-final-mundial-415773"
+            "title": "Kylian Mbappé, um goleador para a história",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/desporto/noticia/kylian-mbappe-goleador-historia-2182305"
         },
         {
-            "title": "A minha filha é comunista",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/p3/cronica/filha-comunista-2181621"
+            "title": "De la Fuente, seleccionador de Espanha: “O jogo devia ter-se decidido antes”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/desporto/noticia/fuente-jogo-deviase-decidido-2182306"
         },
         {
-            "title": "Exames nacionais: ”Juridicamente, houve uma falha do Estado”, diz bastonário",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/sociedade/noticia/polemica-exames-juridicamente-falha-estado-alunos-estao-prejudicados-bastonario-advogados-2182300"
+            "title": "Ayamonte, uma festa luso-espanhola na vitória de Espanha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/desporto/reportagem/ayamonte-festa-lusoespanhola-vitoria-espanha-2182285"
         },
         {
-            "title": "MP diz que promotor do hotel Hilton anexou terreno com rua pública em Cascais para manter sete pisos. E câmara aceitou",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/sociedade/noticia/ministerio-publico-promotor-hilton-anexou-terreno-rua-publica-manter-sete-pisos-camara-aceitou-2182297"
+            "title": "Após chumbo na acreditação, Instituto Miguel Torga prepara integração na Universidade de Coimbra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/sociedade/noticia/apos-chumbo-acreditacao-instituto-miguel-torga-prepara-integracao-universidade-coimbra-2182266"
         },
         {
-            "title": "Caixa Geral de Depósitos mantém ritmo de contratações com a IA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/economia/noticia/caixa-geral-depositos-mantem-ritmo-contratacoes-ia-2181982"
+            "title": "A Espanha trabalhou para chegar ao título e a Argentina não teve milagre",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/desporto/cronica_de_jogo/espanha-trabalhou-chegar-titulo-argentina-nao-milagre-2182303"
         }
     ],
     "finance": [],
-    "last_update": "19/07/2026 21:41"
+    "last_update": "19/07/2026 22:40"
 }
