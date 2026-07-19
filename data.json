@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.1,
-        "manha": 21.1,
-        "tarde": 26.4,
-        "noite": 21.6
+        "atual": 20.5,
+        "manha": 21.6,
+        "tarde": 26.6,
+        "noite": 21.7
     },
     "forecast": {
-        "max": 26.6,
-        "min": 20.1
+        "max": 27.6,
+        "min": 19.2
     },
     "news": [
         {
-            "title": "Kylian Mbappé, um goleador para a história",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/desporto/noticia/kylian-mbappe-goleador-historia-2182305"
+            "title": "Qual é o papel de Portugal na nova geoeconomia?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/opiniao/opiniao/papel-portugal-nova-geoeconomia-2182275"
         },
         {
-            "title": "De la Fuente, seleccionador de Espanha: “O jogo devia ter-se decidido antes”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/desporto/noticia/fuente-jogo-deviase-decidido-2182306"
+            "title": "Incêndios rurais: o populismo não apaga fogos, a reforma da propriedade pode evitá-los",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/opiniao/opiniao/incendios-rurais-populismo-nao-apaga-fogos-reforma-propriedade-evitalos-2181382"
         },
         {
-            "title": "Ayamonte, uma festa luso-espanhola na vitória de Espanha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/desporto/reportagem/ayamonte-festa-lusoespanhola-vitoria-espanha-2182285"
+            "title": "O “criador informal”: quando o Estado decide aumentar o problema",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/opiniao/opiniao/criador-informal-estado-decide-aumentar-problema-2182060"
         },
         {
-            "title": "Após chumbo na acreditação, Instituto Miguel Torga prepara integração na Universidade de Coimbra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/sociedade/noticia/apos-chumbo-acreditacao-instituto-miguel-torga-prepara-integracao-universidade-coimbra-2182266"
+            "title": "A rede eléctrica dá choque",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/opiniao/opiniao/rede-electrica-choque-2181378"
         },
         {
-            "title": "A Espanha trabalhou para chegar ao título e a Argentina não teve milagre",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/desporto/cronica_de_jogo/espanha-trabalhou-chegar-titulo-argentina-nao-milagre-2182303"
+            "title": "Portugal precisa de uma nova literacia sobre políticas públicas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/opiniao/opiniao/portugal-precisa-nova-literacia-politicas-publicas-2181187"
         }
     ],
     "finance": [],
-    "last_update": "19/07/2026 22:40"
+    "last_update": "19/07/2026 23:45"
 }
