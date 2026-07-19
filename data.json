@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.1,
         "manha": 21.1,
-        "tarde": 26.7,
+        "tarde": 26.9,
         "noite": 21.8
     },
     "forecast": {
-        "max": 27.0,
-        "min": 20.3
+        "max": 27.1,
+        "min": 20.0
     },
     "news": [
         {
-            "title": "Público do Festival de Almada elege <em>O Rei da Farândola</em> como Espectáculo de Honra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/culturaipsilon/noticia/publico-festival-almada-elege-rei-farandola-espectaculo-honra-2182261"
+            "title": "Presidente da Hungria assinou a revisão constitucional que o afasta do cargo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/mundo/noticia/presidente-hungria-assinou-revisao-constitucional-afasta-cargo-2182268"
         },
         {
-            "title": "Exames: Académica de Coimbra lança movimento “Isto é Gozar com Quem Estuda”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/sociedade/noticia/exames-academica-coimbra-lanca-movimento-gozar-estuda-2182262"
+            "title": "Líder supremo do Irão diz que ambições de Washington na região são “fantasia ingénua”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/mundo/noticia/lider-supremo-irao-ambicoes-washington-regiao-sao-fantasia-ingenua-2182267"
         },
         {
-            "title": "Reservas de água em Almada atingem 40% e permitem avaliar redução dos cortes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/local/noticia/reservas-agua-almada-atingem-40-permitem-avaliar-reducao-cortes-2182259"
+            "title": "A grande final",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/publico-brasil/cronica/final-2182256"
         },
         {
-            "title": "Palcos da semana: das tragédias ao vivo aos cenários de sonho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/culturaipsilon/noticia/palcos-semana-tragedias-vivo-cenarios-sonho-2182260"
+            "title": "J.D. Vance vai mudar-se para enclave de luxo perto de Washington e os vizinhos já se estão a queixar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/mundo/reportagem/jd-vance-vai-mudarse-enclave-luxo-perto-washington-vizinhos-ja-estao-queixar-2182265"
         },
         {
-            "title": "Facebook e Instagram estiveram indisponíveis para milhões de utilizadores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/enter/noticia/facebook-instagram-estao-indisponiveis-milhoes-utilizadores-2182257"
+            "title": "MAL: polícia esteve em centro que acolhia timorenses, a quem chamou “sub-humanos”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/sociedade/noticia/mal-policia-centro-acolhia-timorenses-chamou-subhumanos-2181616"
         }
     ],
     "finance": [],
-    "last_update": "19/07/2026 11:03"
+    "last_update": "19/07/2026 12:52"
 }
