@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.1,
         "manha": 21.3,
-        "tarde": 26.9,
-        "noite": 22.0
+        "tarde": 26.7,
+        "noite": 21.8
     },
     "forecast": {
-        "max": 27.3,
-        "min": 20.5
+        "max": 27.0,
+        "min": 20.3
     },
     "news": [
         {
-            "title": "Políticas culturais, gratuitidade e museus: avançar, recuando",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/culturaipsilon/opiniao/politicas-culturais-gratuitidade-museus-avancar-recuando-2181745"
+            "title": "Esperar e dar um jeito",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/opiniao/opiniao/esperar-dar-jeito-2182208"
         },
         {
-            "title": "Democracia em tempo de crise: as lições de Darwin para o ativismo de sofá",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/opiniao/opiniao/democracia-tempo-crise-licoes-darwin-ativismo-sofa-2182053"
+            "title": "“Custos da queda do investimento só se sentem no longo prazo”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/economia/entrevista/custos-queda-investimento-so-sentem-longo-prazo-2182174"
         },
         {
-            "title": "Recuperar a soberania cívica perante o poder dos algoritmos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/opiniao/opiniao/recuperar-soberania-civica-algoritmos-2181910"
+            "title": "Donald Trump está desesperado. Resta-lhe o caos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/opiniao/opiniao/donald-trump-desesperado-restalhe-caos-2182215"
         },
         {
-            "title": "O anti-Midas da habitação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/opiniao/opiniao/antimidas-habitacao-2181795"
+            "title": "A Judiciária, o empreiteiro, o tanque e o atrelado da droga",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/opiniao/opiniao/judiciaria-empreiteiro-tanque-atrelado-droga-2182214"
         },
         {
-            "title": "A Inglaterra saiu consolada, a França salvou a face",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/desporto/noticia/inglaterra-saiu-consolada-franca-salvou-face-2182248"
+            "title": "Portugal terá de substituir PRR para travar efeitos negativos nos serviços públicos e produtividade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/economia/noticia/portugal-tera-substituir-prr-travar-efeitos-negativos-servicos-publicos-produtividade-2182210"
         }
     ],
     "finance": [],
-    "last_update": "19/07/2026 01:29"
+    "last_update": "19/07/2026 05:00"
 }
