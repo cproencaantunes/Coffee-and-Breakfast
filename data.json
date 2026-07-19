@@ -3,13 +3,21 @@
         "atual": 20.1,
         "manha": 21.1,
         "tarde": 26.4,
-        "noite": 21.4
+        "noite": 21.5
     },
     "forecast": {
-        "max": 26.8,
-        "min": 19.8
+        "max": 26.9,
+        "min": 19.9
     },
     "news": [
+        {
+            "title": "MP diz que promotor do Hilton anexou terreno com rua pública em Cascais para manter sete pisos. E câmara aceitou",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/sociedade/noticia/ministerio-publico-promotor-hilton-anexou-terreno-rua-publica-manter-sete-pisos-camara-aceitou-2182297"
+        },
+        {
+            "title": "Caixa Geral de Depósitos mantém ritmo de contratações com a IA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/economia/noticia/caixa-geral-depositos-mantem-ritmo-contratacoes-ia-2181982"
+        },
         {
             "title": "“Foco nos momentos difíceis, que sua hora vai chegar”, receita de Anitta a imigrantes",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/publico-brasil/noticia/foco-momentos-dificeis-hora-vai-chegar-receita-anitta-imigrantes-2182287"
@@ -21,16 +29,8 @@
         {
             "title": "Presidente do Líbano encontra-se com Trump para o convencer a pressionar Israel",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/mundo/noticia/presidente-libano-encontrase-trump-convencer-pressionar-israel-2182286"
-        },
-        {
-            "title": "O Rua Direita voltou a Angra do Heroísmo para recuperar o sonho do <em>Açor</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/culturaipsilon/reportagem/rua-direita-voltou-angra-heroismo-recuperar-sonho-acor-2182269"
-        },
-        {
-            "title": "Jovem desaparecido após ter ido nadar com amigos no rio Minho, em Caminha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/19/sociedade/noticia/jovem-desaparecido-apos-ido-nadar-amigos-rio-minho-caminha-2182292"
         }
     ],
     "finance": [],
-    "last_update": "19/07/2026 17:47"
+    "last_update": "19/07/2026 18:48"
 }
