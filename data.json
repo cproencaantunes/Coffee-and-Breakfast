@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.4,
         "manha": 21.6,
-        "tarde": 26.6,
-        "noite": 21.7
+        "tarde": 26.7,
+        "noite": 21.8
     },
     "forecast": {
         "max": 27.6,
-        "min": 19.0
+        "min": 19.1
     },
     "news": [
         {
-            "title": "Prazos, vagas, candidaturas e exames: guia para quem quer concorrer ao ensino superior",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/sociedade/noticia/prazos-vagas-candidaturas-exames-guia-quer-concorrer-ensino-superior-2181476"
+            "title": "Jovem de 13 anos morre durante festejos pela vitória de Espanha no Mundial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/mundo/noticia/jovem-13-anos-morre-durante-festejos-vitoria-espanha-mundial-2182318"
         },
         {
-            "title": "Alojamento estudantil: 60% dos projectos estão por concluir e só pouco mais de um quarto das camas está pronto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/sociedade/noticia/alojamento-estudantil-60-projectos-estao-concluir-so-quarto-camas-pronto-2182281"
+            "title": "Movimento Metaprof constitui bolsa de reapreciação de exames para apoiar alunos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/sociedade/noticia/movimento-metaprof-constitui-bolsa-reapreciacao-exames-apoiar-alunos-2182317"
         },
         {
-            "title": "Polícias classificam bairros pobres como “problemáticos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/sociedade/noticia/policias-classificam-bairros-pobres-problematicos-2181703"
+            "title": "<em>Prazer Máximo Garantido</em> televisivo num <em>thriller</em> viciante",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/culturaipsilon/noticia/prazer-maximo-garantido-televisivo-thriller-viciante-2182272"
         },
         {
-            "title": "Fernando Alexandre vai ter a casa a arder por mais tempo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/opiniao/editorial/fernando-alexandre-vai-casa-arder-tempo-2182289"
+            "title": "Sismo no Peru faz seis mortos e centenas de desalojados, continuam operações nos escombros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/mundo/noticia/sismo-peru-faz-seis-mortos-centenas-desalojados-continuam-operacoes-escombros-2182313"
         },
         {
-            "title": "Associação de professores alerta para erro “provável” na classificação do exame de Física e Química",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/sociedade/noticia/associacao-professores-alerta-erro-provavel-classificacao-exame-fisica-quimica-2182302"
+            "title": "O Coração Ainda Bate. No recreio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/impar/cronica/coracao-bate-recreio-2182312"
         }
     ],
     "finance": [],
-    "last_update": "20/07/2026 05:29"
+    "last_update": "20/07/2026 08:37"
 }
