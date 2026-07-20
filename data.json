@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.4,
-        "manha": 21.4,
-        "tarde": 26.5,
-        "noite": 21.6
+        "manha": 21.6,
+        "tarde": 26.6,
+        "noite": 21.7
     },
     "forecast": {
         "max": 27.6,
-        "min": 19.2
+        "min": 19.0
     },
     "news": [
         {
-            "title": "As lágrimas encurtaram a conferência de Scaloni: “Dói-me a alma”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/desporto/noticia/lagrimas-encurtaram-conferencia-scaloni-doime-alma-2182309"
+            "title": "Prazos, vagas, candidaturas e exames: guia para quem quer concorrer ao ensino superior",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/sociedade/noticia/prazos-vagas-candidaturas-exames-guia-quer-concorrer-ensino-superior-2181476"
         },
         {
-            "title": "Espanha em festa com segundo mundial da “roja”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/video/espanha-festa-segundo-mundial-roja-20260720-003237"
+            "title": "Alojamento estudantil: 60% dos projectos estão por concluir e só pouco mais de um quarto das camas está pronto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/sociedade/noticia/alojamento-estudantil-60-projectos-estao-concluir-so-quarto-camas-pronto-2182281"
         },
         {
-            "title": "Qual é o papel de Portugal na nova geoeconomia?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/opiniao/opiniao/papel-portugal-nova-geoeconomia-2182275"
+            "title": "Polícias classificam bairros pobres como “problemáticos”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/sociedade/noticia/policias-classificam-bairros-pobres-problematicos-2181703"
         },
         {
-            "title": "Incêndios rurais: o populismo não apaga fogos, a reforma da propriedade pode evitá-los",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/opiniao/opiniao/incendios-rurais-populismo-nao-apaga-fogos-reforma-propriedade-evitalos-2181382"
+            "title": "Fernando Alexandre vai ter a casa a arder por mais tempo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/opiniao/editorial/fernando-alexandre-vai-casa-arder-tempo-2182289"
         },
         {
-            "title": "O “criador informal”: quando o Estado decide aumentar o problema",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/opiniao/opiniao/criador-informal-estado-decide-aumentar-problema-2182060"
+            "title": "Associação de professores alerta para erro “provável” na classificação do exame de Física e Química",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/sociedade/noticia/associacao-professores-alerta-erro-provavel-classificacao-exame-fisica-quimica-2182302"
         }
     ],
     "finance": [],
-    "last_update": "20/07/2026 01:55"
+    "last_update": "20/07/2026 05:29"
 }
