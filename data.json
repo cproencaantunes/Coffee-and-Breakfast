@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.4,
         "manha": 21.6,
-        "tarde": 26.8,
-        "noite": 21.6
+        "tarde": 26.5,
+        "noite": 21.5
     },
     "forecast": {
-        "max": 27.8,
+        "max": 27.5,
         "min": 18.9
     },
     "news": [
         {
-            "title": "Cientistas portugueses fazem estudo inédito de nuvens em Marte",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/ciencia/noticia/cientistas-portugueses-fazem-estudo-inedito-nuvens-marte-2181555"
+            "title": "Investimento directo estrangeiro atingiu valor recorde em 2025? Falso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/video/investimento-directo-estrangeiro-atingiu-valor-recorde-2025-falso-20260720-164933"
         },
         {
-            "title": "Miloš Forman, João Canijo e <em>anime</em> na nova temporada do Batalha Centro de Cinema",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/culturaipsilon/noticia/milos-forman-joao-canijo-anime-nova-temporada-batalha-centro-cinema-2182377"
+            "title": "WordPress sob ataque: falha crítica expõe milhões de <em>sites</em> a invasões",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/enter/noticia/wordpress-ataque-falha-critica-expoe-milhoes-sites-invasoes-2182402"
         },
         {
-            "title": "Praia do Ourigo livra-se de “pequeno monstro”. Câmara do Porto terá mais poder sobre o litoral",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/local/noticia/praia-ourigo-livrase-monstro-camara-porto-tera-litoral-2182382"
+            "title": "Consulado do Brasil em Lisboa alerta sobre prazo para solicitar o voto em trânsito",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/publico-brasil/noticia/consulado-brasil-lisboa-alerta-prazo-solicitar-voto-transito-2182388"
         },
         {
-            "title": "“Não há boa solução”, mas PS pede novo “calendário justo” e insiste em reapreciação grátis dos exames",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/politica/noticia/nao-ha-boa-solucao-ps-pede-novo-calendario-justo-insiste-reapreciacao-gratis-exames-2182364"
+            "title": "Quem é a nova “primeira-dama” do Reino Unido, que chegou a dar uma tampa a Burnham",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/impar/perfil/nova-primeiradama-reino-unido-chegou-dar-tampa-burnham-2182390"
         },
         {
-            "title": "Do deserto do Sara à Eslováquia, um festim blues a abrir o FMM",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/culturaipsilon/noticia/deserto-sara-eslovaquia-festim-blues-abrir-fmm-2182368"
+            "title": "O que fazer? Terça é dia de passeata e poesia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/fugas/noticia/terca-dia-passeata-poesia-2182396"
         }
     ],
     "finance": [],
-    "last_update": "20/07/2026 15:44"
+    "last_update": "20/07/2026 17:18"
 }
