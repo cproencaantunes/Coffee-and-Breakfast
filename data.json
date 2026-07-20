@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.4,
         "manha": 21.6,
-        "tarde": 26.7,
-        "noite": 21.8
+        "tarde": 26.8,
+        "noite": 21.7
     },
     "forecast": {
-        "max": 27.6,
-        "min": 19.1
+        "max": 27.9,
+        "min": 18.9
     },
     "news": [
         {
-            "title": "Jovem de 13 anos morre durante festejos pela vitória de Espanha no Mundial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/mundo/noticia/jovem-13-anos-morre-durante-festejos-vitoria-espanha-mundial-2182318"
+            "title": "Ensino superior: ministro mantém calendário da 1.ª fase de acesso, mas cria época especial na 2.ª fase",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/sociedade/noticia/ensino-superior-ministro-mantem-calendario-1-fase-acesso-cria-epoca-especial-2-fase-2182339"
         },
         {
-            "title": "Movimento Metaprof constitui bolsa de reapreciação de exames para apoiar alunos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/sociedade/noticia/movimento-metaprof-constitui-bolsa-reapreciacao-exames-apoiar-alunos-2182317"
+            "title": "Burnham sucede a Starmer e é o novo primeiro-ministro do Reino Unido",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/mundo/noticia/burnham-sucede-starmer-novo-primeiroministro-reino-unido-2182335"
         },
         {
-            "title": "<em>Prazer Máximo Garantido</em> televisivo num <em>thriller</em> viciante",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/culturaipsilon/noticia/prazer-maximo-garantido-televisivo-thriller-viciante-2182272"
+            "title": "Mulher de 85 anos atropelada mortalmente numa passadeira em Guimarães",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/local/noticia/mulher-85-anos-atropelada-mortalmente-passadeira-guimaraes-2182344"
         },
         {
-            "title": "Sismo no Peru faz seis mortos e centenas de desalojados, continuam operações nos escombros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/mundo/noticia/sismo-peru-faz-seis-mortos-centenas-desalojados-continuam-operacoes-escombros-2182313"
+            "title": "J.D. e Usha Vance anunciam o nascimento do quarto filho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/impar/noticia/jd-usha-vance-anunciam-nascimento-quarto-filho-2182329"
         },
         {
-            "title": "O Coração Ainda Bate. No recreio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/impar/cronica/coracao-bate-recreio-2182312"
+            "title": "Reitores disponíveis para adiar calendário de acesso ao Ensino Superior",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/20/sociedade/noticia/exames-reitores-disponiveis-adiar-calendario-acesso-ensino-superior-2182337"
         }
     ],
     "finance": [],
-    "last_update": "20/07/2026 08:37"
+    "last_update": "20/07/2026 11:34"
 }
