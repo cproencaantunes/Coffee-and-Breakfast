@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 20.4,
-        "manha": 21.2,
+        "manha": 21.3,
         "tarde": 27.6,
-        "noite": 23.3
+        "noite": 23.1
     },
     "forecast": {
-        "max": 28.2,
-        "min": 20.2
+        "max": 28.1,
+        "min": 20.0
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/opiniao/opiniao/cartas-director-2182398"
+        },
         {
             "title": "Fernado Alexandre disse que correu tudo bem nos exames, mas riu-se",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/politica/noticia/fernado-alexandre-correu-bem-exames-riuse-2182438"
@@ -25,12 +29,8 @@
         {
             "title": "Regras de climatização na saúde existem. Apliquem-se",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/opiniao/opiniao/regras-climatizacao-saude-existem-apliquemse-2180976"
-        },
-        {
-            "title": "Será que a PSU(nha) tem cura?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/opiniao/opiniao/sera-psunha-cura-2182149"
         }
     ],
     "finance": [],
-    "last_update": "21/07/2026 01:29"
+    "last_update": "21/07/2026 04:57"
 }
