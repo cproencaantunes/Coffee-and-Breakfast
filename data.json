@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.4,
         "manha": 21.3,
-        "tarde": 27.4,
-        "noite": 23.2
+        "tarde": 27.3,
+        "noite": 23.1
     },
     "forecast": {
-        "max": 28.5,
-        "min": 19.9
+        "max": 28.2,
+        "min": 20.0
     },
     "news": [
         {
-            "title": "Ministro garante que correcção de erros nas classificações “é feita em minutos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/sociedade/noticia/ministro-garante-correccao-erros-classificacoes-minutos-2182463"
+            "title": "Andrew Tate e o irmão vão lutar contra a extradição e comparam o seu caso ao de Trump",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/impar/noticia/andrew-tate-irmao-vao-lutar-extradicao-comparam-caso-trump-2182494"
         },
         {
-            "title": "Montenegro não vai tirar férias no Verão e estará a “coordenar actividade do Governo”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/politica/noticia/montenegro-nao-vai-tirar-ferias-verao-estara-coordenar-atividade-governo-2182461"
+            "title": "Braga e Guimarães unem-se para criar Área Metropolitana do Minho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/local/noticia/braga-guimaraes-unemse-criar-area-metropolitana-minho-2182496"
         },
         {
-            "title": "Sob um “complexo processo de reestruturação”, Estoril-Sol instada a pagar 37 milhões ao Estado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/economia/noticia/complexo-processo-reestruturacao-estorilsol-instada-pagar-37-milhoes-estado-2182458"
+            "title": "Espanha quer proibir menores de fumar e alarga veto geral às esplanadas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/mundo/noticia/espanha-quer-proibir-menores-fumar-alarga-veto-geral-esplanadas-2182476"
         },
         {
-            "title": "Ataques russos intensificam-se na Ucrânia enquanto Zelensky enfrenta forte contestação política",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/mundo/noticia/ataques-russos-intensificamse-ucrania-zelensky-enfrenta-forte-contestacao-politica-2182454"
+            "title": "Grupo Meliá termina todas as operações em Cuba devido ao embargo dos EUA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/fugas/noticia/grupo-melia-termina-operacoes-cuba-devido-embargo-eua-2182483"
         },
         {
-            "title": "Ode às noras",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/impar/cronica/ode-noras-2182383"
+            "title": "Lucros e solidez recordes: Banco de Portugal confirma números inéditos da banca em 2025",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/economia/noticia/lucros-solidez-recordes-banco-portugal-confirma-numeros-ineditos-banca-2025-2182470"
         }
     ],
     "finance": [],
-    "last_update": "21/07/2026 10:13"
+    "last_update": "21/07/2026 12:18"
 }
