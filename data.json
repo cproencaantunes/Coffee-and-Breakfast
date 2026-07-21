@@ -3,34 +3,34 @@
         "atual": 20.4,
         "manha": 21.3,
         "tarde": 27.2,
-        "noite": 22.9
+        "noite": 23.1
     },
     "forecast": {
-        "max": 28.1,
-        "min": 19.8
+        "max": 28.3,
+        "min": 20.0
     },
     "news": [
         {
+            "title": "Bica do Sapato já não é restaurante: passa a casa de eventos e casamentos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/fugas/noticia/bica-sapato-ja-nao-restaurante-passa-casa-eventos-casamentos-2182570"
+        },
+        {
+            "title": "Todos os alunos que estão a fazer exames na 2.ª fase podem ir à época especial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/sociedade/noticia/alunos-estao-exames-2-fase-podem-ir-epoca-especial-2182572"
+        },
+        {
+            "title": "Portugal vai comprar três fragatas: como são e para que servem?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/politica/noticia/portugal-vai-comprar-tres-fragatas-sao-servem-2182524"
+        },
+        {
+            "title": "Zelensky demite o comandante das Forças Armadas da Ucrânia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/mundo/noticia/zelensky-demite-comandante-forcas-armadas-ucrania-2182569"
+        },
+        {
             "title": "Síndrome de Stendhal",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/p3/cronica/sindrome-stendhal-2182411"
-        },
-        {
-            "title": "PSD cerra fileiras em torno de Fernando Alexandre e é mais cauteloso com Luís Neves",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/politica/noticia/psd-cerra-fileiras-torno-fernando-alexandre-cauteloso-luis-neves-2182515"
-        },
-        {
-            "title": "O mundo pode acabar, o Festival de Avignon não",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/culturaipsilon/reportagem/mundo-acabar-festival-avignon-nao-2182557"
-        },
-        {
-            "title": "<em>Frozen Charlotte</em>: Jack White e esta urgência rock’n’roll que não há forma de serenar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/culturaipsilon/critica/frozen-charlotte-jack-white-urgencia-rocknroll-nao-ha-forma-serenar-2182391"
-        },
-        {
-            "title": "Acha que há menos mochos-galegos e andorinhas-das-chaminés? É verdade, eles estão em declínio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/azul/noticia/acha-ha-menos-mochosgalegos-andorinhasdaschamines-verdade-estao-declinio-2182539"
         }
     ],
     "finance": [],
-    "last_update": "21/07/2026 20:12"
+    "last_update": "21/07/2026 21:53"
 }
