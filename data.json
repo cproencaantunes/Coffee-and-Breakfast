@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.4,
         "manha": 21.3,
-        "tarde": 27.6,
+        "tarde": 27.5,
         "noite": 23.1
     },
     "forecast": {
         "max": 28.1,
-        "min": 20.0
+        "min": 19.9
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/opiniao/opiniao/cartas-director-2182398"
+            "title": "Homem acusado de assassinar ex-ministra britânica Ann Widdecombe",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/mundo/noticia/homem-acusado-assassinar-exministra-britanica-ann-widdecombe-2182452"
         },
         {
-            "title": "Fernado Alexandre disse que correu tudo bem nos exames, mas riu-se",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/politica/noticia/fernado-alexandre-correu-bem-exames-riuse-2182438"
+            "title": "No <em>Macbeth</em> dos SillySeason, a violência está próxima do desejo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/culturaipsilon/noticia/macbeth-sillyseason-violencia-proxima-desejo-2182417"
         },
         {
-            "title": "A cabeça de Fernando Alexandre e outros escritos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/opiniao/opiniao/cabeca-fernando-alexandre-escritos-2182404"
+            "title": "Carlos Peninha volta ao seu “chão” inicial, a poesia, com um <em>Chão Ardente</em> neste Verão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/culturaipsilon/noticia/carlos-peninha-volta-chao-inicial-poesia-chao-ardente-neste-verao-2182331"
         },
         {
-            "title": "O desumano significado do “mandem-nos de volta”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/opiniao/opiniao/desumano-significado-mandemnos-volta-2182158"
+            "title": "FIFA anuncia investigação aos distúrbios após o apito final do Espanha-Argentina",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/desporto/noticia/fifa-anuncia-investigacao-disturbios-apos-apito-final-espanhaargentina-2182451"
         },
         {
-            "title": "Regras de climatização na saúde existem. Apliquem-se",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/opiniao/opiniao/regras-climatizacao-saude-existem-apliquemse-2180976"
+            "title": "De São Paulo à cozinha japonesa, o chef Maurício Varela reencontra Aveiro no fogo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/publico-brasil/noticia/sao-paulo-cozinha-japonesa-chef-mauricio-varela-reencontra-aveiro-fogo-2182426"
         }
     ],
     "finance": [],
-    "last_update": "21/07/2026 04:57"
+    "last_update": "21/07/2026 07:29"
 }
