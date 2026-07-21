@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.4,
         "manha": 21.3,
-        "tarde": 27.3,
-        "noite": 23.1
+        "tarde": 27.2,
+        "noite": 22.7
     },
     "forecast": {
-        "max": 28.2,
-        "min": 20.0
+        "max": 27.9,
+        "min": 19.9
     },
     "news": [
         {
-            "title": "Nuno Borges apura-se para a segunda ronda do Estoril Open",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/desporto/noticia/nuno-borges-apurase-segunda-ronda-estoril-open-2182522"
+            "title": "Com novo início de ano negro na Circunvalação, Câmara do Porto pede intervenção da IP",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/local/noticia/novo-inicio-ano-negro-circunvalacao-camara-porto-pede-intervencao-ip-2182537"
         },
         {
-            "title": "Seguro disse a Montenegro que é “obrigatório” salvaguardar “igualdade” entre alunos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/politica/noticia/seguro-montenegro-obrigatorio-salvaguardar-igualdade-alunos-2182521"
+            "title": "Evenepoel vence segunda etapa consecutiva no Tour",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/desporto/noticia/evenepoel-vence-segunda-etapa-consecutiva-tour-2182541"
         },
         {
-            "title": "Espanha enfrenta onda de calor, Portugal terá “apenas” temperaturas acima da média",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/azul/noticia/espanha-enfrenta-onda-calor-portugal-tera-apenas-temperaturas-acima-media-2182418"
+            "title": "Ataque aéreo israelita mata família de seis pessoas em Gaza, apesar do cessar-fogo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/mundo/noticia/ataque-aereo-israelita-mata-familia-seis-pessoas-gaza-apesar-cessarfogo-2182530"
         },
         {
-            "title": "Duas brasileiras, dois livros e um sotaque que reverbera além-mar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/publico-brasil/noticia/duas-brasileiras-dois-livros-sotaque-reverbera-alemmar-2182504"
+            "title": "Presidente da Nicarágua anuncia que o país não voltará a ter eleições",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/mundo/noticia/presidente-nicaragua-anuncia-pais-nao-voltara-eleicoes-2182532"
         },
         {
-            "title": "Os conflitos pesam na fome: África foi o continente mais faminto em 2025",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/azul/noticia/conflitos-pesam-fome-africa-continente-faminto-2025-2182497"
+            "title": "Samsung cria divisão de robótica e contrata antigo líder da Boston Dynamics",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/21/enter/noticia/samsung-cria-divisao-robotica-contrata-antigo-lider-boston-dynamics-2182525"
         }
     ],
     "finance": [],
-    "last_update": "21/07/2026 14:54"
+    "last_update": "21/07/2026 16:14"
 }
