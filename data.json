@@ -1,9 +1,9 @@
 {
     "weather": {
         "atual": 20.9,
-        "manha": 21.2,
-        "tarde": 27.9,
-        "noite": 22.9
+        "manha": 21.0,
+        "tarde": 27.6,
+        "noite": 22.8
     },
     "forecast": {
         "max": 28.2,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Pelo menos 53 mortos e dezenas de desaparecidos em naufrágio de <em>ferry</em> na Guiana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/mundo/noticia/menos-53-mortos-dezenas-desaparecidos-naufragio-ferry-guiana-2182582"
+            "title": "Luís Represas: uma vida em palco com um pé em Timor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/fotogaleria/luis-represas-vida-palco-415782"
         },
         {
-            "title": "Meu General estreia álbum e lança mais um single com João Cabeleira por convidado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/video/general-ja-novo-album-lanca-single-joao-cabeleira-convidado-20260718-175431"
+            "title": "Retenção de ambulâncias nas urgências do Algarve compromete assistência",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/sociedade/noticia/retencao-ambulancias-urgencias-algarve-compromete-assistencia-2182593"
         },
         {
-            "title": "Ouça aqui a série completa de Senhores do Algoritmo por Mariana Mortágua",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/sociedade/noticia/ouca-aqui-serie-completa-senhores-algoritmo-mariana-mortagua-2182566"
+            "title": "“Partiu o homem, ficou a voz”: as reacções à morte de Luís Represas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/culturaipsilon/noticia/partiu-homem-ficou-voz-reaccoes-morte-luis-represas-2182596"
         },
         {
-            "title": "Sismo com magnitude de 3,6 sentido em Évora",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/sociedade/noticia/sismo-magnitude-36-sentido-evora-2182583"
+            "title": "Depois de cortar IVA na electricidade, Burnham limita preço nas viagens de autocarro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/mundo/noticia/cortar-iva-electricidade-burnham-limita-preco-viagens-autocarro-2182595"
         },
         {
-            "title": "No segundo tempo de 2026, empresas colocam líderes à prova",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/publico-brasil/opiniao/segundo-tempo-2026-empresas-colocam-lideres-prova-2182575"
+            "title": "<em>Portuguese Love</em>: a má televisão desliga-se em casa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/culturaipsilon/critica/portuguese-love-ma-televisao-desligase-casa-2182499"
         }
     ],
     "finance": [],
-    "last_update": "22/07/2026 07:31"
+    "last_update": "22/07/2026 10:13"
 }
