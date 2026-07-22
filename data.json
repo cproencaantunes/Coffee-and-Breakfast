@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 20.9,
-        "manha": 21.1,
-        "tarde": 28.0,
-        "noite": 22.6
+        "manha": 21.4,
+        "tarde": 27.9,
+        "noite": 22.7
     },
     "forecast": {
         "max": 28.2,
-        "min": 19.9
+        "min": 20.2
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/opiniao/opiniao/cartas-director-2182535"
+        },
         {
             "title": "Luís Neves não tem pressa em esclarecer o país",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/politica/noticia/luis-neves-nao-pressa-esclarecer-pais-2182576"
@@ -25,12 +29,8 @@
         {
             "title": "Resiliência com eficiência e baixo preço",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/opiniao/opiniao/resiliencia-eficiencia-baixo-preco-2181915"
-        },
-        {
-            "title": "Universidades e institutos politécnicos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/opiniao/opiniao/universidades-institutos-politecnicos-2181761"
         }
     ],
     "finance": [],
-    "last_update": "22/07/2026 01:28"
+    "last_update": "22/07/2026 04:57"
 }
