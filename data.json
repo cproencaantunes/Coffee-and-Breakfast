@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.9,
         "manha": 21.0,
-        "tarde": 27.9,
-        "noite": 22.9
+        "tarde": 27.7,
+        "noite": 22.7
     },
     "forecast": {
-        "max": 28.2,
-        "min": 20.0
+        "max": 27.9,
+        "min": 20.1
     },
     "news": [
         {
-            "title": "Jeep Compass aposta na electrificação, com o fora de estrada a correr-lhe nas veias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/fugas/noticia/jeep-compass-aposta-electrificacao-estrada-correrlhe-veias-2182560"
+            "title": "Venda do Novo Banco servirá para abater 0,2 pontos da dívida pública",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/economia/noticia/venda-novo-banco-servira-abater-02-pontos-divida-publica-2182675"
         },
         {
-            "title": "“Dificuldade na prova” e casos mal identificados explicam poucas sanções por assédio no trabalho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/sociedade/noticia/dificuldade-prova-casos-mal-identificados-explicam-sancoes-assedio-trabalho-2182654"
+            "title": "Nuno Borges eliminado nos oitavos-de-final do Estoril Open",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/desporto/noticia/nuno-borges-eliminado-oitavosdefinal-estoril-open-2182682"
         },
         {
-            "title": "Infarmed dá parecer negativo a medicamentos inovadores para doença de Alzheimer",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/sociedade/noticia/infarmed-parecer-negativo-medicamentos-inovadores-doenca-alzheimer-2182651"
+            "title": "Jasper Philipsen fugiu para vencer pelo quinto ano consecutivo no Tour",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/desporto/noticia/jasper-philipsen-fugiu-vencer-quinto-ano-consecutivo-tour-2182681"
         },
         {
-            "title": "Viktor Orbán faz “declaração de resistência” na Hungria",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/mundo/noticia/viktor-orban-faz-declaracao-resistencia-hungria-2182622"
+            "title": "ANMP pede rápida definição de mecanismos de transição para obras do PRR",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/politica/noticia/anmp-pede-rapida-definicao-mecanismos-transicao-obras-prr-2182674"
         },
         {
-            "title": "O adeus a Cuba de toda a grande hotelaria espanhola: da Meliá a Iberostar e Barceló",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/fugas/noticia/adeus-cuba-hotelaria-espanhola-melia-iberostar-barcelo-2182628"
+            "title": "<em>De Mãos Atadas</em>: um escritor amarrado enquanto a casa vem abaixo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/culturaipsilon/critica/maos-atadas-escritor-amarrado-casa-vem-abaixo-2182526"
         }
     ],
     "finance": [],
-    "last_update": "22/07/2026 14:54"
+    "last_update": "22/07/2026 16:13"
 }
