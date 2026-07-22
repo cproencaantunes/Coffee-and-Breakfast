@@ -1,9 +1,9 @@
 {
     "weather": {
         "atual": 20.9,
-        "manha": 21.4,
+        "manha": 21.2,
         "tarde": 27.9,
-        "noite": 22.7
+        "noite": 22.9
     },
     "forecast": {
         "max": 28.2,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/opiniao/opiniao/cartas-director-2182535"
+            "title": "Pelo menos 53 mortos e dezenas de desaparecidos em naufrágio de <em>ferry</em> na Guiana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/mundo/noticia/menos-53-mortos-dezenas-desaparecidos-naufragio-ferry-guiana-2182582"
         },
         {
-            "title": "Luís Neves não tem pressa em esclarecer o país",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/politica/noticia/luis-neves-nao-pressa-esclarecer-pais-2182576"
+            "title": "Meu General estreia álbum e lança mais um single com João Cabeleira por convidado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/video/general-ja-novo-album-lanca-single-joao-cabeleira-convidado-20260718-175431"
         },
         {
-            "title": "Mundial 2026: teatro do mundo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/opiniao/opiniao/mundial-2026-teatro-mundo-2182491"
+            "title": "Ouça aqui a série completa de Senhores do Algoritmo por Mariana Mortágua",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/sociedade/noticia/ouca-aqui-serie-completa-senhores-algoritmo-mariana-mortagua-2182566"
         },
         {
-            "title": "Decatombe",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/opiniao/opiniao/decatombe-2182474"
+            "title": "Sismo com magnitude de 3,6 sentido em Évora",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/sociedade/noticia/sismo-magnitude-36-sentido-evora-2182583"
         },
         {
-            "title": "Resiliência com eficiência e baixo preço",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/opiniao/opiniao/resiliencia-eficiencia-baixo-preco-2181915"
+            "title": "No segundo tempo de 2026, empresas colocam líderes à prova",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/publico-brasil/opiniao/segundo-tempo-2026-empresas-colocam-lideres-prova-2182575"
         }
     ],
     "finance": [],
-    "last_update": "22/07/2026 04:57"
+    "last_update": "22/07/2026 07:31"
 }
