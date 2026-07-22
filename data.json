@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.9,
-        "manha": 21.0,
-        "tarde": 27.7,
-        "noite": 22.9
+        "atual": 21.1,
+        "manha": 21.4,
+        "tarde": 28.0,
+        "noite": 22.0
     },
     "forecast": {
-        "max": 28.0,
-        "min": 20.2
+        "max": 25.9,
+        "min": 20.0
     },
     "news": [
         {
-            "title": "Nuno Melo diz ter “muito orgulho” no ministro da Educação e destaca resultados na Administração Interna",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/politica/noticia/nuno-melo-orgulho-ministro-educacao-destaca-resultados-administracao-interna-2182734"
+            "title": "O estalo na Nação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/opiniao/opiniao/estalo-nacao-2182725"
         },
         {
-            "title": "Administração Trump avalia uma acção militar no Mali, dizem responsáveis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/mundo/noticia/administracao-trump-avalia-accao-militar-mali-responsaveis-2182726"
+            "title": "A caminho do centenário, José Afonso volta à Galiza",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/culturaipsilon/opiniao/caminho-centenario-jose-afonso-volta-galiza-2182571"
         },
         {
-            "title": "FC Porto perde com o Gil Vicente em jogo de pré-época",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/desporto/noticia/fc-porto-perde-gil-vicente-jogo-preepoca-2182733"
+            "title": "Caos nos exames: no fim, o Estado perde sempre",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/opiniao/opiniao/caos-exames-fim-estado-perde-2182553"
         },
         {
-            "title": "Sp. Braga entra a ganhar na Liga Conferência",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/desporto/cronica_de_jogo/sp-braga-entra-ganhar-liga-conferencia-2182732"
+            "title": "Incêndio obriga a deslocar populações de várias localidades da região de Madrid e deixa outra confinada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/mundo/noticia/incendio-obriga-deslocar-populacoes-varias-localidades-regiao-madrid-deixa-confinada-2182735"
         },
         {
-            "title": "Trio de músicos brasileiros estreia na Europa reunindo acordeon, violão e trompete",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/publico-brasil/noticia/trio-musicos-brasileiros-estreia-europa-reunindo-acordeon-violao-trompete-2182722"
+            "title": "A incompetência reformista do Governo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/opiniao/opiniao/incompetencia-reformista-governo-2182638"
         }
     ],
     "finance": [],
-    "last_update": "22/07/2026 22:53"
+    "last_update": "22/07/2026 23:53"
 }
