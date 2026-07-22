@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.9,
         "manha": 21.0,
-        "tarde": 27.6,
-        "noite": 22.8
+        "tarde": 27.9,
+        "noite": 22.9
     },
     "forecast": {
         "max": 28.2,
-        "min": 20.2
+        "min": 20.0
     },
     "news": [
         {
-            "title": "Luís Represas: uma vida em palco com um pé em Timor",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/fotogaleria/luis-represas-vida-palco-415782"
+            "title": "Exame da 2.ª fase de MACS: veja aqui a prova e os critérios de correcção",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/sociedade/noticia/exame-2-fase-macs-veja-aqui-prova-criterios-correccao-2182633"
         },
         {
-            "title": "Retenção de ambulâncias nas urgências do Algarve compromete assistência",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/sociedade/noticia/retencao-ambulancias-urgencias-algarve-compromete-assistencia-2182593"
+            "title": "Exame da 2.ª fase de Matemática A: veja aqui a prova e os critérios de correcção",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/sociedade/noticia/exame-2-fase-matematica-veja-aqui-prova-criterios-correccao-2182629"
         },
         {
-            "title": "“Partiu o homem, ficou a voz”: as reacções à morte de Luís Represas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/culturaipsilon/noticia/partiu-homem-ficou-voz-reaccoes-morte-luis-represas-2182596"
+            "title": "Plas Johnson (1931-2026), o saxofonista que garantiu a imortalidade com <em>A Pantera Cor-de-Rosa</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/culturaipsilon/noticia/plas-johnson-19312026-saxofonista-garantiu-imortalidade-pantera-corderosa-2182624"
         },
         {
-            "title": "Depois de cortar IVA na electricidade, Burnham limita preço nas viagens de autocarro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/mundo/noticia/cortar-iva-electricidade-burnham-limita-preco-viagens-autocarro-2182595"
+            "title": "Zero exige escrutínio ambiental ao novo aeroporto e contesta expansão da Portela",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/azul/noticia/zero-exige-escrutinio-ambiental-novo-aeroporto-contesta-expansao-portela-2182619"
         },
         {
-            "title": "<em>Portuguese Love</em>: a má televisão desliga-se em casa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/culturaipsilon/critica/portuguese-love-ma-televisao-desligase-casa-2182499"
+            "title": "Montenegro convicto de que “pior já passou” e que “equidade está salvaguardada” nos exames",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/22/politica/noticia/montenegro-convicto-pior-ja-passou-equidade-salvaguardada-exames-2182623"
         }
     ],
     "finance": [],
-    "last_update": "22/07/2026 10:13"
+    "last_update": "22/07/2026 12:20"
 }
