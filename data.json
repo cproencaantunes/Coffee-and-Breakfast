@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.9,
-        "manha": 21.4,
-        "tarde": 27.8,
-        "noite": 21.9
+        "atual": 20.8,
+        "manha": 21.5,
+        "tarde": 25.4,
+        "noite": 21.1
     },
     "forecast": {
-        "max": 25.6,
-        "min": 19.7
+        "max": 26.1,
+        "min": 19.6
     },
     "news": [
         {
-            "title": "Seguro esteve bem na crise dos exames?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/politica/noticia/seguro-bem-crise-exames-2182857"
+            "title": "Triste país",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/opiniao/opiniao/triste-pais-2182847"
         },
         {
-            "title": "Tribunal liberta canção: Santamaria podem cantar <em>Eu sei, tu és</em> (e já cantam)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/impar/noticia/tribunal-liberta-cancao-santamaria-podem-cantar-sei-es-ja-cantam-2182855"
+            "title": "Quem cuida de quem faz a justiça funcionar?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/opiniao/opiniao/cuida-faz-justica-funcionar-2182136"
         },
         {
-            "title": "Financiamento da rede para vítimas de violência doméstica previsto no OE 2027, afirma ministra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/sociedade/noticia/financiamento-rede-vitimas-violencia-domestica-previsto-oe-2027-afirma-ministra-2182854"
+            "title": "A decapitação ritual",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/opiniao/opiniao/decapitacao-ritual-2182818"
         },
         {
-            "title": "Há uma \"cabala\" do Chega para destruir Luís Neves?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/newsletter/diarios-republica"
+            "title": "Campeão e vice-campeão mundial, Otamendi despede-se da selecção argentina",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/desporto/noticia/campeao-vicecampeao-mundial-otamendi-despedese-seleccao-argentina-2182859"
         },
         {
-            "title": "Meta promove IA com mensagem optimista ao som de uma canção sobre o fim do mundo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/enter/noticia/meta-promove-ia-mensagem-optimista-som-cancao-fim-mundo-2182829"
+            "title": "O rei vai nu! A ação do Governo não serve para baixar, mas para aumentar, os preços na habitação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/opiniao/opiniao/rei-vai-nu-acao-governo-nao-serve-baixar-aumentar-precos-habitacao-2182678"
         }
     ],
     "finance": [],
-    "last_update": "23/07/2026 22:45"
+    "last_update": "23/07/2026 23:50"
 }
