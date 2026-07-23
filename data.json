@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.9,
         "manha": 21.4,
-        "tarde": 27.9,
-        "noite": 22.0
+        "tarde": 27.8,
+        "noite": 21.9
     },
     "forecast": {
-        "max": 25.5,
+        "max": 25.6,
         "min": 19.5
     },
     "news": [
         {
-            "title": "China lança exercícios militares com fogo real no estreito de Taiwan",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/mundo/noticia/china-lanca-exercicios-militares-fogo-real-estreito-taiwan-2182791"
+            "title": "Exames nacionais 2026: quando a certeza falha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/p3/cronica/exames-nacionais-2026-certeza-falha-2182803"
         },
         {
-            "title": "Petróleo volta a atingir 100 dólares por barril",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/economia/noticia/petroleo-volta-atingir-100-2182789"
+            "title": "Falemos do Arinto de Bucelas e desse farol chamado Romeyra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/terroir/noticia/falemos-arinto-bucelas-farol-chamado-romeyra-2182599"
         },
         {
-            "title": "Exame da 2.ª fase de História A: veja aqui a prova e os critérios de correcção",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/sociedade/noticia/exame-2-fase-historia-veja-aqui-prova-criterios-correccao-2182793"
+            "title": "Ministro da Administração Interna sente-se legitimado para continuar a trabalhar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/politica/noticia/ministro-administracao-interna-sentese-legitimado-continuar-trabalhar-2182825"
         },
         {
-            "title": "Urgência de obstetrícia do São Francisco Xavier fecha em Agosto e só irá dar resposta ao INEM",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/sociedade/noticia/urgencia-obstetricia-sao-francisco-xavier-fecha-agosto-so-ira-dar-resposta-inem-2182788"
+            "title": "Amigos, amigos, negócios à parte?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/publico-brasil/opiniao/amigos-amigos-negocios-parte-2182823"
         },
         {
-            "title": "Exame da 2.ª fase de Biologia e Geologia: veja aqui a prova e os critérios de correcção",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/sociedade/noticia/exame-2-fase-biologia-geologia-veja-aqui-prova-criterios-correccao-2182790"
+            "title": "IL quer chamar ministro da Administração Interna à Comissão Permanente da AR",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/politica/noticia/il-quer-chamar-ministro-administracao-interna-comissao-permanente-ar-2182805"
         }
     ],
     "finance": [],
-    "last_update": "23/07/2026 15:00"
+    "last_update": "23/07/2026 17:08"
 }
