@@ -1,8 +1,8 @@
 {
     "weather": {
-        "atual": 21.1,
-        "manha": 21.4,
-        "tarde": 28.0,
+        "atual": 20.9,
+        "manha": 21.3,
+        "tarde": 28.2,
         "noite": 22.0
     },
     "forecast": {
@@ -10,6 +10,10 @@
         "min": 20.0
     },
     "news": [
+        {
+            "title": "Arábia Saudita assina acordo com EUA para lançar programa nuclear civil e enriquecer urânio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/mundo/noticia/arabia-saudita-assina-acordo-eua-lancar-programa-nuclear-civil-enriquecer-uranio-2182736"
+        },
         {
             "title": "O estalo na Nação",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/opiniao/opiniao/estalo-nacao-2182725"
@@ -25,12 +29,8 @@
         {
             "title": "Incêndio obriga a deslocar populações de várias localidades da região de Madrid e deixa outra confinada",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/mundo/noticia/incendio-obriga-deslocar-populacoes-varias-localidades-regiao-madrid-deixa-confinada-2182735"
-        },
-        {
-            "title": "A incompetência reformista do Governo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/opiniao/opiniao/incompetencia-reformista-governo-2182638"
         }
     ],
     "finance": [],
-    "last_update": "22/07/2026 23:53"
+    "last_update": "23/07/2026 01:47"
 }
