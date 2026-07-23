@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.9,
-        "manha": 21.3,
-        "tarde": 28.2,
+        "manha": 21.4,
+        "tarde": 28.1,
         "noite": 22.0
     },
     "forecast": {
-        "max": 26.2,
-        "min": 19.9
+        "max": 26.1,
+        "min": 19.8
     },
     "news": [
         {
-            "title": "A arte de dançar em caco de vidro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/publico-brasil/opiniao/arte-dancar-caco-vidro-2182743"
+            "title": "Daniel Siad, caça-talentos ligado a Jeffrey Epstein, encontrado morto em Paris",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/impar/noticia/daniel-siad-cacatalentos-ligado-jeffrey-epstein-encontrado-morto-paris-2182760"
         },
         {
-            "title": "Paulo Portas na posse como comissário-geral dos 900 anos de Portugal: será uma “celebração de todos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/culturaipsilon/noticia/paulo-portas-posse-comissariogeral-900-anos-portugal-sera-celebracao-2182742"
+            "title": "Milton Hatoum: “A liberdade que a extrema-direita quer é a de mentir”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/culturaipsilon/noticia/milton-hatoum-liberdade-extremadireita-quer-mentir-2182102"
         },
         {
-            "title": "UNESCO declara antiga cidade grega na Crimeia como Património Mundial em Perigo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/culturaipsilon/noticia/unesco-declara-antiga-cidade-grega-crimeia-patrimonio-mundial-perigo-2182741"
+            "title": "Depois do assalto, galeria de Apolo no Louvre reabre sem jóias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/fotogaleria/galeria-apolo-louvre-reabre-joias-apos-assalto-415789"
         },
         {
-            "title": "Burnham “tem uma visão da economia e da sociedade que é relevante neste momento de mudança”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/mundo/noticia/burnham-visao-economia-sociedade-relevante-neste-momento-mudanca-2182685"
+            "title": "Governo incentiva japoneses a usar calções. Mulheres queixam-se de “assédio dos pêlos”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/impar/noticia/governo-incentiva-japoneses-usar-calcoes-mulheres-queixamse-assedio-2182756"
         },
         {
-            "title": "Irlanda inicia exames forenses a restos mortais de 100 bebés encontrados em vala comum",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/mundo/noticia/irlanda-inicia-exames-forenses-restos-mortais-100-bebes-encontrados-vala-comum-2182740"
+            "title": "<em>Pantanal</em>, novela de Benedito Ruy Barbosa, volta a ser exibida em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/publico-brasil/noticia/novela-benedito-ruy-barbosa-volta-exibida-portugal-2182731"
         }
     ],
     "finance": [],
-    "last_update": "23/07/2026 08:09"
+    "last_update": "23/07/2026 10:58"
 }
