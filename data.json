@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.9,
         "manha": 21.4,
-        "tarde": 28.1,
+        "tarde": 27.9,
         "noite": 22.0
     },
     "forecast": {
-        "max": 26.1,
-        "min": 19.8
+        "max": 25.5,
+        "min": 19.5
     },
     "news": [
         {
-            "title": "Daniel Siad, caça-talentos ligado a Jeffrey Epstein, encontrado morto em Paris",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/impar/noticia/daniel-siad-cacatalentos-ligado-jeffrey-epstein-encontrado-morto-paris-2182760"
+            "title": "Consegue distinguir a variedade da azeitona num gelado de azeite?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/fugas/noticia/consegue-distinguir-variedade-azeitona-gelado-azeite-2182478"
         },
         {
-            "title": "Milton Hatoum: “A liberdade que a extrema-direita quer é a de mentir”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/culturaipsilon/noticia/milton-hatoum-liberdade-extremadireita-quer-mentir-2182102"
+            "title": "Houthis reivindicam ataques contra navios no mar Vermelho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/mundo/noticia/houthis-reivindicam-ataques-navios-mar-vermelho-2182766"
         },
         {
-            "title": "Depois do assalto, galeria de Apolo no Louvre reabre sem jóias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/fotogaleria/galeria-apolo-louvre-reabre-joias-apos-assalto-415789"
+            "title": "Novo aeroporto de Lisboa afinal só vem em 2037 e precisa de mais ligações por comboio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/economia/noticia/novo-aeroporto-lisboa-afinal-so-vem-2037-precisa-ligacoes-comboio-2182764"
         },
         {
-            "title": "Governo incentiva japoneses a usar calções. Mulheres queixam-se de “assédio dos pêlos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/impar/noticia/governo-incentiva-japoneses-usar-calcoes-mulheres-queixamse-assedio-2182756"
+            "title": "Nanni Moretti faz as pazes com o Festival de Veneza, 30 anos depois",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/culturaipsilon/noticia/nanni-moretti-faz-pazes-festival-veneza-30-anos-2182748"
         },
         {
-            "title": "<em>Pantanal</em>, novela de Benedito Ruy Barbosa, volta a ser exibida em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/publico-brasil/noticia/novela-benedito-ruy-barbosa-volta-exibida-portugal-2182731"
+            "title": "Google terá de mudar pesquisa e loja de aplicações após multa de 890 milhões",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/enter/noticia/google-tera-mudar-pesquisa-loja-aplicacoes-apos-multa-890-milhoes-2182769"
         }
     ],
     "finance": [],
-    "last_update": "23/07/2026 10:58"
+    "last_update": "23/07/2026 12:22"
 }
