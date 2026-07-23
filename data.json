@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.9,
-        "manha": 21.4,
+        "manha": 21.3,
         "tarde": 28.2,
         "noite": 22.0
     },
     "forecast": {
         "max": 26.2,
-        "min": 20.0
+        "min": 19.9
     },
     "news": [
         {
-            "title": "Líder do PS recusa frente eleitoral de esquerda: “Nem coligações, nem uniões.”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/politica/entrevista/carneiro-recusa-frente-eleitoral-esquerda-coligacoes-unioes-2182715"
+            "title": "A arte de dançar em caco de vidro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/publico-brasil/opiniao/arte-dancar-caco-vidro-2182743"
         },
         {
-            "title": "Carneiro impõe “prioridades” na negociação do orçamento: “Valores constitucionais e segurança das pensões”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/politica/entrevista/carneiro-impoe-prioridades-negociacao-orcamento-valores-constitucionais-seguranca-pensoes-2182724"
+            "title": "Paulo Portas na posse como comissário-geral dos 900 anos de Portugal: será uma “celebração de todos”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/culturaipsilon/noticia/paulo-portas-posse-comissariogeral-900-anos-portugal-sera-celebracao-2182742"
         },
         {
-            "title": "Hora da Verdade com José Luís Carneiro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/video/hora-verdade-jose-luis-carneiro-20260722-224340"
+            "title": "UNESCO declara antiga cidade grega na Crimeia como Património Mundial em Perigo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/culturaipsilon/noticia/unesco-declara-antiga-cidade-grega-crimeia-patrimonio-mundial-perigo-2182741"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/opiniao/opiniao/cartas-director-2182664"
+            "title": "Burnham “tem uma visão da economia e da sociedade que é relevante neste momento de mudança”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/mundo/noticia/burnham-visao-economia-sociedade-relevante-neste-momento-mudanca-2182685"
         },
         {
-            "title": "Arábia Saudita assina acordo com EUA para lançar programa nuclear civil e enriquecer urânio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/mundo/noticia/arabia-saudita-assina-acordo-eua-lancar-programa-nuclear-civil-enriquecer-uranio-2182736"
+            "title": "Irlanda inicia exames forenses a restos mortais de 100 bebés encontrados em vala comum",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/23/mundo/noticia/irlanda-inicia-exames-forenses-restos-mortais-100-bebes-encontrados-vala-comum-2182740"
         }
     ],
     "finance": [],
-    "last_update": "23/07/2026 05:14"
+    "last_update": "23/07/2026 08:09"
 }
