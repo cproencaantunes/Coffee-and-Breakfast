@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.9,
+        "atual": 20.3,
         "manha": 21.8,
-        "tarde": 25.5,
-        "noite": 21.5
+        "tarde": 26.1,
+        "noite": 21.6
     },
     "forecast": {
-        "max": 26.2,
-        "min": 19.9
+        "max": 29.7,
+        "min": 19.7
     },
     "news": [
         {
-            "title": "Inácio Rozeira: As expedições são a sua vida, até ao Kilimanjaro com executivos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/fugas/perfil/inacio-rozeira-expedicoes-sao-vida-ate-kilimanjaro-executivos-2182220"
+            "title": "E agora, Guiné-Bissau?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/opiniao/opiniao/guinebissau-2182956"
         },
         {
-            "title": "Karim Khan destituído do cargo de procurador do Tribunal Penal Internacional",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/mundo/noticia/karim-khan-destituido-cargo-procurador-tribunal-penal-internacional-2182983"
+            "title": "Punir quem recorre às autoridades?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/opiniao/opiniao/punir-recorre-autoridades-2182916"
         },
         {
-            "title": "Advogados ganham sala especial para atendimento em posto da AIMA em Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/publico-brasil/noticia/advogados-ganham-sala-especial-atendimento-posto-aima-lisboa-2182989"
+            "title": "A oportunidade perdida…",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/opiniao/opiniao/oportunidade-perdida-2182948"
         },
         {
-            "title": "Jaime Faria eliminado nos quartos-de-final do Estoril Open",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/desporto/noticia/jaime-faria-eliminado-quartosdefinal-estoril-open-2182988"
+            "title": "A absoluta precisão da ambiguidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/opiniao/opiniao/absoluta-precisao-ambiguidade-2182687"
         },
         {
-            "title": "Estudantes exigem demissão do ministro da Educação e queixam-se de não serem ouvidos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/sociedade/noticia/estudantes-exigem-demissao-ministro-educacao-queixamse-nao-serem-ouvidos-2182981"
+            "title": "Somos todos Nações Unidas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/opiniao/opiniao/nacoes-unidas-2182853"
         }
     ],
     "finance": [],
-    "last_update": "24/07/2026 22:51"
+    "last_update": "24/07/2026 23:54"
 }
