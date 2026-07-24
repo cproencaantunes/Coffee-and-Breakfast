@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 20.9,
-        "manha": 21.8,
-        "tarde": 25.6,
-        "noite": 21.1
+        "manha": 21.9,
+        "tarde": 25.9,
+        "noite": 21.0
     },
     "forecast": {
-        "max": 26.1,
-        "min": 19.6
+        "max": 26.6,
+        "min": 19.8
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/opiniao/opiniao/cartas-director-2182817"
+        },
         {
             "title": "Triste país",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/opiniao/opiniao/triste-pais-2182847"
@@ -25,12 +29,8 @@
         {
             "title": "Campeão e vice-campeão mundial, Otamendi despede-se da selecção argentina",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/desporto/noticia/campeao-vicecampeao-mundial-otamendi-despedese-seleccao-argentina-2182859"
-        },
-        {
-            "title": "O rei vai nu! A ação do Governo não serve para baixar, mas para aumentar, os preços na habitação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/opiniao/opiniao/rei-vai-nu-acao-governo-nao-serve-baixar-aumentar-precos-habitacao-2182678"
         }
     ],
     "finance": [],
-    "last_update": "24/07/2026 01:43"
+    "last_update": "24/07/2026 04:59"
 }
