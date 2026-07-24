@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.9,
-        "manha": 21.8,
-        "tarde": 25.7,
-        "noite": 21.2
+        "atual": 0,
+        "manha": 0,
+        "tarde": 0,
+        "noite": 0
     },
     "forecast": {
-        "max": 26.4,
-        "min": 19.7
+        "max": 0,
+        "min": 0
     },
     "news": [
         {
-            "title": "Linha SNS 24 a caminho do segundo maior ano de sempre com sete milhões de chamadas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/sociedade/noticia/linha-sns-24-caminho-segundo-maior-ano-sete-milhoes-chamadas-2182927"
+            "title": "Livre, PCP, BE, PAN e JPP chamam ao Parlamento diploma que criou Universidade de Leiria",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/politica/noticia/livre-pcp-be-pan-jpp-chamam-parlamento-diploma-criou-universidade-leiria-2182959"
         },
         {
-            "title": "Conselho de Justiça da FPF arquiva processo a Luciano Gonçalves por falta de provas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/desporto/noticia/conselho-justica-fpf-arquiva-processo-luciano-goncalves-falta-provas-2182931"
+            "title": "Estado português nega junto da Europa violação de direitos de José Sócrates",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/sociedade/noticia/estado-portugues-nega-junto-europa-violacao-direitos-jose-socrates-2182967"
         },
         {
-            "title": "Trump ameaça “punir” Irão e houthis, e avança com 13.ª noite consecutiva de ataques",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/mundo/noticia/trump-ameaca-punir-irao-houthis-avanca-13-noite-consecutiva-ataques-2182926"
+            "title": "Recluso da prisão de Faro foi encontrado morto na cela",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/sociedade/noticia/recluso-prisao-faro-encontrado-morto-cela-2182968"
         },
         {
-            "title": "Tiago Torres viu o sonho terminar no Estoril Open",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/desporto/noticia/tiago-torres-viu-sonho-terminar-estoril-open-2182929"
+            "title": "Fóssil de dinossauro com 148 milhões de anos descoberto em Torres Vedras",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/ciencia/noticia/fossil-dinossauro-148-milhoes-anos-descoberto-torres-vedras-2182884"
         },
         {
-            "title": "Eclipse solar: Vinhais com lotação esgotada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/fugas/noticia/eclipse-solar-vinhais-lotacao-esgotada-2182925"
+            "title": "Cultas e Vinho Verde com Sofia Hoffmann",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/impar/noticia/cultas-vinho-verde-sofia-hoffmann-2182962"
         }
     ],
     "finance": [],
-    "last_update": "24/07/2026 14:43"
+    "last_update": "24/07/2026 18:10"
 }
