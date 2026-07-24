@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.9,
         "manha": 21.8,
-        "tarde": 25.5,
+        "tarde": 25.7,
         "noite": 21.2
     },
     "forecast": {
-        "max": 26.1,
-        "min": 19.8
+        "max": 26.4,
+        "min": 19.7
     },
     "news": [
         {
-            "title": "PS continua à frente nas sondagens, Chega volta a ultrapassar AD",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/politica/noticia/ps-continua-frente-sondagens-chega-volta-ultrapassar-ad-2182871"
+            "title": "Lontra volta a ser avistada na Serra de Sintra, de onde há muito tinha desaparecido",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/local/noticia/lontra-volta-avistada-serra-sintra-onde-ha-desaparecido-2182897"
         },
         {
-            "title": "Não consegues escolher entre dois cursos? Já é possível tirar duas licenciaturas em simultâneo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/video/nao-consegues-escolher-dois-cursos-ja-possivel-tirar-duas-licenciaturas-simultaneo-20260723-152423"
+            "title": "Entre o sonho e a bola de Berlim, Guilherme Santana faz ponte entre Brasil e Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/publico-brasil/noticia/sonho-bola-berlim-guilherme-santana-faz-ponte-brasil-portugal-2182744"
         },
         {
-            "title": "Adam Phillips e a vida que queremos. Jenny Holzer e o que valem as palavras em 2026",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/newsletter/ipsilon"
+            "title": "Quercus alerta que novo aeroporto pode ameaçar maior aquífero da Península Ibérica",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/azul/noticia/quercus-alerta-novo-aeroporto-ameacar-maior-aquifero-peninsula-iberica-2182900"
         },
         {
-            "title": "Jürgen Klopp assume comando da selecção da Alemanha até 2030",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/desporto/noticia/jurgen-klopp-assume-comando-seleccao-alemanha-ate-2030-2182873"
+            "title": "Espectáculos de Odete e Joana Levi na nova temporada do Teatro do Bairro Alto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/culturaipsilon/noticia/espetaculos-odete-joana-levi-nova-temporada-teatro-bairro-alto-2182881"
         },
         {
-            "title": "Centros de investigação exigem que oceano seja prioridade estratégica da ciência portuguesa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/azul/noticia/centros-investigacao-exigem-oceano-prioridade-estrategica-ciencia-portuguesa-2182870"
+            "title": "&#127920; Cinco séries para (ar)riscar este Verão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/24/newsletter/proximo_episodio"
         }
     ],
     "finance": [],
-    "last_update": "24/07/2026 10:06"
+    "last_update": "24/07/2026 12:11"
 }
