@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.3,
-        "manha": 22.1,
-        "tarde": 26.4,
-        "noite": 21.7
+        "manha": 22.2,
+        "tarde": 26.6,
+        "noite": 21.8
     },
     "forecast": {
         "max": 29.6,
-        "min": 19.9
+        "min": 19.8
     },
     "news": [
         {
-            "title": "O inamovível homem das Neves",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/opiniao/editorial/inamovivel-homem-neves-2182943"
+            "title": "A descentralização dos processos contra a AIMA pelos tribunais de Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/publico-brasil/opiniao/descentralizacao-processos-aima-tribunais-portugal-2182985"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/opiniao/opiniao/cartas-director-2182955"
+            "title": "Uma michelada não é só uma bebida: é uma lição de inteligência, de talento e de vida",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/fugas/cronica/michelada-nao-so-bebida-licao-inteligencia-talento-vida-2182347"
         },
         {
-            "title": "Trump diz que acordo com sauditas só avança após normalização de relações com Israel",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/mundo/noticia/trump-acordo-sauditas-so-avanca-apos-normalizacao-relacoes-israel-2182991"
+            "title": "Gosto de redes sociais. Será que posso fazer disso a minha profissão?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/sociedade/noticia/gosto-redes-sociais-sera-profissao-2182637"
         },
         {
-            "title": "E agora, Guiné-Bissau?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/opiniao/opiniao/guinebissau-2182956"
+            "title": "Os benefícios e as dificuldades de uma remodelação governamental",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/politica/opiniao/beneficios-dificuldades-remodelacao-governamental-2182910"
         },
         {
-            "title": "Punir quem recorre às autoridades?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/opiniao/opiniao/punir-recorre-autoridades-2182916"
+            "title": "Passa a ser obrigatória uma auditoria regular à plataforma de colocação de professores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/sociedade/noticia/passa-obrigatoria-auditoria-regular-plataforma-colocacao-professores-2182933"
         }
     ],
     "finance": [],
-    "last_update": "25/07/2026 04:56"
+    "last_update": "25/07/2026 07:08"
 }
