@@ -2,14 +2,22 @@
     "weather": {
         "atual": 20.3,
         "manha": 21.8,
-        "tarde": 26.3,
-        "noite": 21.9
+        "tarde": 25.6,
+        "noite": 21.8
     },
     "forecast": {
-        "max": 29.6,
-        "min": 19.8
+        "max": 29.2,
+        "min": 19.7
     },
     "news": [
+        {
+            "title": "Ordem dos Engenheiros nega que reforço anti-sísmico das escolas esteja em causa: “Longe disso”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/politica/noticia/ordem-engenheiros-nega-reforco-antisismico-escolas-causa-longe-2183024"
+        },
+        {
+            "title": "Com o Tour no bolso, Pogacar mudou de emprego durante cinco horas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/desporto/noticia/tadej-pogacar-mudou-emprego-durante-cinco-horas-2183021"
+        },
         {
             "title": "Guterres visita a Síria no primeiro regresso de um líder da ONU ao país em 17 anos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/mundo/noticia/guterres-visita-siria-regresso-lider-onu-pais-17-anos-2183016"
@@ -21,16 +29,8 @@
         {
             "title": "Caminhada na serra da Estrela vai evocar expedição científica de 1881",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/ciencia/noticia/caminhada-serra-estrela-vai-evocar-expedicao-cientifica-1881-2182987"
-        },
-        {
-            "title": "Ministra da Justiça: Luís Neves está “a gerir processo da melhor forma que sabe”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/politica/noticia/ministra-justica-luis-neves-gerir-processo-melhor-forma-sabe-2183018"
-        },
-        {
-            "title": "Depois de Cascais e Porto, o Bossa Market quer decolar para o Rio de Janeiro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/publico-brasil/noticia/cascais-porto-bossa-market-quer-decolar-rio-janeiro-2182763"
         }
     ],
     "finance": [],
-    "last_update": "25/07/2026 14:36"
+    "last_update": "25/07/2026 15:55"
 }
