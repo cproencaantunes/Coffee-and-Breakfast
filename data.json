@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.3,
         "manha": 21.8,
-        "tarde": 26.4,
-        "noite": 21.8
+        "tarde": 26.3,
+        "noite": 21.9
     },
     "forecast": {
-        "max": 29.8,
-        "min": 19.9
+        "max": 29.6,
+        "min": 19.8
     },
     "news": [
         {
+            "title": "Rui Rio diz que caso Luís Neves “abala profundamente” credibilidade do Governo e do PS",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/politica/noticia/rui-rio-caso-luis-neves-abala-profundamente-credibilidade-governo-ps-2183013"
+        },
+        {
+            "title": "“O medo matou-a.” Como um escândalo de exames na Índia desencadeou a revolta estudantil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/p3/noticia/medo-matoua-escandalo-exames-india-desencadeou-revolta-estudantil-2183006"
+        },
+        {
+            "title": "Estagiária canadiana no quartel-general da NATO detida por suspeitas de espionagem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/mundo/noticia/estagiaria-canadiana-quartelgeneral-nato-detida-suspeitas-espionagem-2183008"
+        },
+        {
+            "title": "Sem xenofobia! Espetáculo em Arouca mostra os portugueses que partiram do país",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/publico-brasil/noticia/xenofobia-espetaculo-arouca-mostra-portugueses-partiram-pais-2182975"
+        },
+        {
             "title": "“Partido da Barata” consegue demissão do ministro da Educação da Índia após polémica com exames",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/mundo/noticia/partido-barata-consegue-demissao-ministro-educacao-india-apos-polemica-exames-2183004"
-        },
-        {
-            "title": "Do escabeche ao pão-de-ló, passando pelas sardinhas, Natalie e Yuko cruzam Portugal e Japão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/fugas/reportagem/escabeche-paodelo-passando-sardinhas-natalie-yuko-cruzam-portugal-japao-2182834"
-        },
-        {
-            "title": "Morreu Lou Koller, dos Sick of It All, voz indomável do hardcore de Nova Iorque",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/culturaipsilon/noticia/morreu-lou-koller-voz-indomavel-hardcore-nova-iorque-2183003"
-        },
-        {
-            "title": "Exército de Israel confirma barreira de areia em Gaza",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/mundo/noticia/exercito-israel-confirma-barreira-areia-gaza-2182965"
-        },
-        {
-            "title": "Morreu ex-reitor da antiga Universidade Técnica de Lisboa Eduardo Arantes e Oliveira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/sociedade/noticia/morreu-exreitor-antiga-universidade-tecnica-lisboa-eduardo-arantes-oliveira-2183002"
         }
     ],
     "finance": [],
-    "last_update": "25/07/2026 11:02"
+    "last_update": "25/07/2026 12:58"
 }
