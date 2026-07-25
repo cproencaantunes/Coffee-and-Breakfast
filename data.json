@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 20.3,
-        "manha": 21.9,
-        "tarde": 26.8,
-        "noite": 21.6
+        "manha": 22.1,
+        "tarde": 26.4,
+        "noite": 21.7
     },
     "forecast": {
-        "max": 29.7,
-        "min": 19.7
+        "max": 29.6,
+        "min": 19.9
     },
     "news": [
+        {
+            "title": "O inamovível homem das Neves",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/opiniao/editorial/inamovivel-homem-neves-2182943"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/opiniao/opiniao/cartas-director-2182955"
+        },
         {
             "title": "Trump diz que acordo com sauditas só avança após normalização de relações com Israel",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/mundo/noticia/trump-acordo-sauditas-so-avanca-apos-normalizacao-relacoes-israel-2182991"
@@ -21,16 +29,8 @@
         {
             "title": "Punir quem recorre às autoridades?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/opiniao/opiniao/punir-recorre-autoridades-2182916"
-        },
-        {
-            "title": "A oportunidade perdida…",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/opiniao/opiniao/oportunidade-perdida-2182948"
-        },
-        {
-            "title": "A absoluta precisão da ambiguidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/opiniao/opiniao/absoluta-precisao-ambiguidade-2182687"
         }
     ],
     "finance": [],
-    "last_update": "25/07/2026 01:43"
+    "last_update": "25/07/2026 04:56"
 }
