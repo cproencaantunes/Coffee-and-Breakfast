@@ -3,15 +3,15 @@
         "atual": 20.3,
         "manha": 21.8,
         "tarde": 25.6,
-        "noite": 21.7
+        "noite": 21.8
     },
     "forecast": {
         "max": 29.2,
-        "min": 19.6
+        "min": 19.7
     },
     "news": [
         {
-            "title": "Vários feridos após atropelamento em marcha LGBTI+ de Berlim",
+            "title": "Um morto e vários feridos após atropelamento em marcha LGBTI+ de Berlim",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/mundo/noticia/varios-feridos-apos-atropelamento-marcha-lgbti-berlim-2183037"
         },
         {
@@ -32,5 +32,5 @@
         }
     ],
     "finance": [],
-    "last_update": "25/07/2026 21:42"
+    "last_update": "25/07/2026 22:42"
 }
