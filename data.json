@@ -1,8 +1,8 @@
 {
     "weather": {
         "atual": 20.3,
-        "manha": 21.8,
-        "tarde": 26.1,
+        "manha": 21.9,
+        "tarde": 26.8,
         "noite": 21.6
     },
     "forecast": {
@@ -10,6 +10,10 @@
         "min": 19.7
     },
     "news": [
+        {
+            "title": "Trump diz que acordo com sauditas só avança após normalização de relações com Israel",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/mundo/noticia/trump-acordo-sauditas-so-avanca-apos-normalizacao-relacoes-israel-2182991"
+        },
         {
             "title": "E agora, Guiné-Bissau?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/opiniao/opiniao/guinebissau-2182956"
@@ -25,12 +29,8 @@
         {
             "title": "A absoluta precisão da ambiguidade",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/opiniao/opiniao/absoluta-precisao-ambiguidade-2182687"
-        },
-        {
-            "title": "Somos todos Nações Unidas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/opiniao/opiniao/nacoes-unidas-2182853"
         }
     ],
     "finance": [],
-    "last_update": "24/07/2026 23:54"
+    "last_update": "25/07/2026 01:43"
 }
