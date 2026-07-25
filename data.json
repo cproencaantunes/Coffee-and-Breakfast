@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.3,
-        "manha": 22.2,
-        "tarde": 26.6,
+        "manha": 21.8,
+        "tarde": 26.4,
         "noite": 21.8
     },
     "forecast": {
-        "max": 29.6,
-        "min": 19.8
+        "max": 29.8,
+        "min": 19.9
     },
     "news": [
         {
-            "title": "Santa Maria da Feira: A Viagem que se repete há 30 anos e fez a terra toda una",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/fugas/reportagem/santa-maria-feira-viagem-repete-ha-30-anos-fez-terra-una-2182352"
+            "title": "“Partido da Barata” consegue demissão do ministro da Educação da Índia após polémica com exames",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/mundo/noticia/partido-barata-consegue-demissao-ministro-educacao-india-apos-polemica-exames-2183004"
         },
         {
-            "title": "Benfica encostado à parede",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/newsletter/aquecimento"
+            "title": "Do escabeche ao pão-de-ló, passando pelas sardinhas, Natalie e Yuko cruzam Portugal e Japão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/fugas/reportagem/escabeche-paodelo-passando-sardinhas-natalie-yuko-cruzam-portugal-japao-2182834"
         },
         {
-            "title": "Os dias felizes que queremos guardar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/impar/noticia/dias-felizes-queremos-guardar-2182577"
+            "title": "Morreu Lou Koller, dos Sick of It All, voz indomável do hardcore de Nova Iorque",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/culturaipsilon/noticia/morreu-lou-koller-voz-indomavel-hardcore-nova-iorque-2183003"
         },
         {
-            "title": "Calor aumenta procura de praias ou rios, agravando risco de afogamento, alerta OMS",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/azul/noticia/calor-aumenta-procura-praias-rios-agravando-risco-afogamento-alerta-oms-2182936"
+            "title": "Exército de Israel confirma barreira de areia em Gaza",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/mundo/noticia/exercito-israel-confirma-barreira-areia-gaza-2182965"
         },
         {
-            "title": "Eco Rally do Mondego estreia Coimbra na rota nacional dos eléctricos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/enter/noticia/eco-rally-mondego-estreia-coimbra-rota-nacional-electricos-2182996"
+            "title": "Morreu ex-reitor da antiga Universidade Técnica de Lisboa Eduardo Arantes e Oliveira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/sociedade/noticia/morreu-exreitor-antiga-universidade-tecnica-lisboa-eduardo-arantes-oliveira-2183002"
         }
     ],
     "finance": [],
-    "last_update": "25/07/2026 09:26"
+    "last_update": "25/07/2026 11:02"
 }
