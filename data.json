@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.3,
-        "manha": 21.8,
-        "tarde": 25.6,
-        "noite": 21.8
+        "atual": 20.6,
+        "manha": 21.2,
+        "tarde": 29.2,
+        "noite": 22.4
     },
     "forecast": {
-        "max": 29.2,
+        "max": 33.0,
         "min": 19.7
     },
     "news": [
         {
-            "title": "Um morto e vários feridos após atropelamento em marcha LGBTI+ de Berlim",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/mundo/noticia/varios-feridos-apos-atropelamento-marcha-lgbti-berlim-2183037"
+            "title": "O risco de escalada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/opiniao/analise/risco-escalada-2183022"
         },
         {
-            "title": "FC Porto apresentou-se aos sócios com um triunfo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/desporto/cronica_de_jogo/fc-porto-apresentouse-socios-triunfo-2183035"
+            "title": "A sabedoria e a loucura",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/opiniao/opiniao/sabedoria-loucura-2182912"
         },
         {
-            "title": "Vitória sobre o Mónaco e já com boas pistas sobre um Sporting em mutação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/desporto/cronica_de_jogo/ja-ha-boas-pistas-sporting-construcao-2183032"
+            "title": "Violência obstétrica: quando a política nega o que a ciência reconhece",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/opiniao/opiniao/violencia-obstetrica-politica-nega-ciencia-reconhece-2182487"
         },
         {
-            "title": "Luís Neves remete explicações para “o tempo próprio” sem dizer quando. PS também pressiona",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/politica/noticia/luis-neves-remete-explicacoes-tempo-proprio-dizer-ps-tambem-pressiona-2183030"
+            "title": "O alerta das forcas feito pelo bilionário estadunidense Nick Hanauer",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/opiniao/opiniao/alerta-forcas-bilionario-estadunidense-nick-hanauer-2182640"
         },
         {
-            "title": "Bestialidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/25/p3/cronica/bestialidade-2182775"
+            "title": "O PSD, o Chega e a Faculdade de Letras de Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/opiniao/opiniao/psd-chega-faculdade-letras-lisboa-2182692"
         }
     ],
     "finance": [],
-    "last_update": "25/07/2026 22:42"
+    "last_update": "25/07/2026 23:50"
 }
