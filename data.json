@@ -2,14 +2,22 @@
     "weather": {
         "atual": 20.5,
         "manha": 21.1,
-        "tarde": 28.7,
-        "noite": 22.1
+        "tarde": 28.9,
+        "noite": 22.3
     },
     "forecast": {
-        "max": 32.9,
-        "min": 19.6
+        "max": 32.8,
+        "min": 19.7
     },
     "news": [
+        {
+            "title": "A Marvel foi à Comic Con piscar o olho aos fãs: vêm aí <em>Ghost Rider</em> e <em>Pantera Negra 3</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/culturaipsilon/noticia/marvel-comic-con-piscar-olho-fas-vem-ai-ghost-rider-pantera-negra-3-2183060"
+        },
+        {
+            "title": "Colonos israelitas voltam a atacar aldeias palestinianas na Cisjordânia e incendeiam mesquitas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/mundo/noticia/colonos-israelitas-voltam-atacar-aldeias-palestinianas-cisjordania-incendeiam-mesquitas-2183056"
+        },
         {
             "title": "Descida de IRS em 2027 ainda não é garantida, IRS Jovem mantém-se no ano que vem",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/economia/noticia/descida-irs-2027-nao-garantida-irs-jovem-mantemse-ano-vem-2183053"
@@ -21,16 +29,8 @@
         {
             "title": "A arquitectura social levou este prédio das Fontainhas da ruína à habitação colectiva",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/fotogaleria/fontainhas-415770"
-        },
-        {
-            "title": "As maravilhas de ser avó",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/newsletter/impar"
-        },
-        {
-            "title": "Metro Mondego sofre ataque <em>ransomware</em> e dados pessoais dos titulares de passe podem ter sido copiados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/enter/noticia/metro-mondego-sofre-ataque-ransomware-dados-pessoais-titulares-passe-podem-copiados-2183051"
         }
     ],
     "finance": [],
-    "last_update": "26/07/2026 11:53"
+    "last_update": "26/07/2026 12:55"
 }
