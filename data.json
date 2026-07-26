@@ -2,7 +2,7 @@
     "weather": {
         "atual": 20.5,
         "manha": 21.6,
-        "tarde": 29.3,
+        "tarde": 29.0,
         "noite": 22.3
     },
     "forecast": {
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Trump num “<em>quagmire</em>” contra a “ameaça comunista”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/opiniao/editorial/trump-quagmire-ameaca-comunista-2183033"
+            "title": "Perdão para uma cultura chamada brasileira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/publico-brasil/opiniao/perdao-cultura-chamada-brasileira-2183043"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/opiniao/opiniao/cartas-director-2182957"
+            "title": "UNESCO reconhece seis roças de São Tomé como Património Mundial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/culturaipsilon/noticia/unesco-reconhece-seis-rocas-sao-tome-patrimonio-mundial-2183042"
         },
         {
-            "title": "O risco de escalada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/opiniao/analise/risco-escalada-2183022"
+            "title": "Incêndios na Europa: mais de 300 mil deslocados em Espanha e França",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/mundo/noticia/incendios-europa-300-mil-deslocados-espanha-franca-2183041"
         },
         {
-            "title": "A sabedoria e a loucura",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/opiniao/opiniao/sabedoria-loucura-2182912"
+            "title": "Palcos da semana: meu querido Toupeiro de Agosto (e tanta música no ar)",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/culturaipsilon/noticia/palcos-semana-querido-toupeiro-agosto-tanta-musica-ar-2182895"
         },
         {
-            "title": "Violência obstétrica: quando a política nega o que a ciência reconhece",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/opiniao/opiniao/violencia-obstetrica-politica-nega-ciencia-reconhece-2182487"
+            "title": "Kevin Keegan (1951-2026): o homem que fez Inglaterra sonhar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/desporto/noticia/kevin-keegan-19512026-homem-fez-inglaterra-sonhar-2182456"
         }
     ],
     "finance": [],
-    "last_update": "26/07/2026 05:20"
+    "last_update": "26/07/2026 08:05"
 }
