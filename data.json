@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 20.5,
-        "manha": 21.3,
-        "tarde": 29.2,
-        "noite": 22.4
+        "manha": 21.6,
+        "tarde": 29.3,
+        "noite": 22.3
     },
     "forecast": {
-        "max": 33.0,
-        "min": 19.7
+        "max": 33.4,
+        "min": 19.8
     },
     "news": [
+        {
+            "title": "Trump num “<em>quagmire</em>” contra a “ameaça comunista”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/opiniao/editorial/trump-quagmire-ameaca-comunista-2183033"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/opiniao/opiniao/cartas-director-2182957"
+        },
         {
             "title": "O risco de escalada",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/opiniao/analise/risco-escalada-2183022"
@@ -21,16 +29,8 @@
         {
             "title": "Violência obstétrica: quando a política nega o que a ciência reconhece",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/opiniao/opiniao/violencia-obstetrica-politica-nega-ciencia-reconhece-2182487"
-        },
-        {
-            "title": "O alerta das forcas feito pelo bilionário estadunidense Nick Hanauer",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/opiniao/opiniao/alerta-forcas-bilionario-estadunidense-nick-hanauer-2182640"
-        },
-        {
-            "title": "O PSD, o Chega e a Faculdade de Letras de Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/opiniao/opiniao/psd-chega-faculdade-letras-lisboa-2182692"
         }
     ],
     "finance": [],
-    "last_update": "26/07/2026 01:45"
+    "last_update": "26/07/2026 05:20"
 }
