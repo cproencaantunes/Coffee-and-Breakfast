@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.5,
-        "manha": 21.1,
-        "tarde": 28.7,
-        "noite": 22.3
+        "atual": 21.3,
+        "manha": 22.5,
+        "tarde": 33.4,
+        "noite": 27.1
     },
     "forecast": {
-        "max": 33.5,
-        "min": 19.8
+        "max": 33.0,
+        "min": 20.4
     },
     "news": [
         {
-            "title": "Rita Magano, a portuguesa na linha da frente do ébola no Congo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/ciencia/noticia/rita-magano-portuguesa-linha-frente-ebola-congo-2182915"
+            "title": "Chipre: a “cartada diplomática” de Guterres?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/opiniao/opiniao/chipre-cartada-diplomatica-guterres-2183058"
         },
         {
-            "title": "Extracção de minerais do fundo do mar não tem viabilidade financeira, dizem peritos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/azul/noticia/extraccao-minerais-fundo-mar-nao-viabilidade-financeira-peritos-2183077"
+            "title": "A legitimidade dos próximos reitores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/opiniao/opiniao/legitimidade-proximos-reitores-2182296"
         },
         {
-            "title": "Troco um rim por um dente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/p3/cronica/troco-rim-dente-2182776"
+            "title": "O erro dos leilões de património: porque não fazer como no Martim Moniz?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/opiniao/opiniao/erro-leiloes-patrimonio-nao-martim-moniz-2182122"
         },
         {
-            "title": "Van Assche conquista Estoril Open e sucede a Hurkacz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/desporto/noticia/van-assche-conquista-estoril-open-sucede-hurkacz-2183083"
+            "title": "O Mondego precisa de uma barragem ou de uma estratégia de resiliência?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/opiniao/opiniao/mondego-precisa-barragem-estrategia-resiliencia-2183011"
         },
         {
-            "title": "A primeira fábrica de carros voadores e como nunca mais ter de memorizar <em>passwords</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/26/video/primeira-fabrica-carros-voadores-memorizar-passwords-20260726-200713"
+            "title": "O neo-institucionalismo algorítmico e os modelos de linguagem da IA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/opiniao/opiniao/neoinstitucionalismo-algoritmico-modelos-linguagem-ia-2182772"
         }
     ],
     "finance": [],
-    "last_update": "26/07/2026 22:49"
+    "last_update": "26/07/2026 23:51"
 }
