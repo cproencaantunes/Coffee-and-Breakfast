@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 21.3,
-        "manha": 22.3,
-        "tarde": 33.5,
-        "noite": 27.3
+        "manha": 22.0,
+        "tarde": 33.4,
+        "noite": 27.8
     },
     "forecast": {
-        "max": 33.0,
-        "min": 20.4
+        "max": 33.4,
+        "min": 20.0
     },
     "news": [
         {
-            "title": "Chipre: a “cartada diplomática” de Guterres?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/opiniao/opiniao/chipre-cartada-diplomatica-guterres-2183058"
+            "title": "Como a demissão de Duarte Gomes desencadeou uma grave crise na arbitragem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/desporto/noticia/demissao-duarte-gomes-desencadeou-grave-crise-arbitragem-2183066"
         },
         {
-            "title": "A legitimidade dos próximos reitores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/opiniao/opiniao/legitimidade-proximos-reitores-2182296"
+            "title": "Se Luís Neves não der “explicações claras e fundamentadas”, PS vai falar com Montenegro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/politica/noticia/luis-neves-nao-der-explicacoes-claras-fundamentadas-ps-vai-falar-montenegro-2183070"
         },
         {
-            "title": "O erro dos leilões de património: porque não fazer como no Martim Moniz?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/opiniao/opiniao/erro-leiloes-patrimonio-nao-martim-moniz-2182122"
+            "title": "Suspeitas sobre nomeações de árbitros de futebol chegaram à PJ",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/desporto/noticia/suspeitas-nomeacoes-arbitros-futebol-chegaram-pj-2183065"
         },
         {
-            "title": "O Mondego precisa de uma barragem ou de uma estratégia de resiliência?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/opiniao/opiniao/mondego-precisa-barragem-estrategia-resiliencia-2183011"
+            "title": "“Só quero ir embora daqui”: Daniela, uma marinheira portuguesa retida em Ormuz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/mundo/noticia/so-quero-ir-embora-daqui-daniela-marinheira-portuguesa-retida-ormuz-2183085"
         },
         {
-            "title": "O neo-institucionalismo algorítmico e os modelos de linguagem da IA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/opiniao/opiniao/neoinstitucionalismo-algoritmico-modelos-linguagem-ia-2182772"
+            "title": "O acesso ao médico de família",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/opiniao/editorial/acesso-medico-familia-2183038"
         }
     ],
     "finance": [],
-    "last_update": "27/07/2026 01:52"
+    "last_update": "27/07/2026 05:38"
 }
