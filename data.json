@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.3,
         "manha": 22.2,
-        "tarde": 33.5,
-        "noite": 27.1
+        "tarde": 32.9,
+        "noite": 26.8
     },
     "forecast": {
-        "max": 32.4,
-        "min": 20.0
+        "max": 32.6,
+        "min": 19.9
     },
     "news": [
         {
-            "title": "Merz promete resposta ao ataque na marcha LGBT de Berlim",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/mundo/noticia/merz-promete-resposta-ataque-marcha-lgbt-berlim-2183163"
+            "title": "Seguro encontrou-se com Cavaco Silva no Palácio de Belém",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/politica/noticia/seguro-encontrouse-cavaco-silva-palacio-belem-2183181"
         },
         {
-            "title": "O que fazer? Terça é dia de passear com <em>O Rei da Farândola</em> e Almeida Garrett",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/fugas/noticia/terca-dia-passear-rei-farandola-almeida-garrett-2183159"
+            "title": "Polícia francesa detém homem que esfaqueou três mulheres em Paris",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/mundo/noticia/policia-francesa-detem-homem-esfaqueou-tres-mulheres-paris-2183141"
         },
         {
-            "title": "Aos 41 anos, Lebron James não descansa nem deixa descansar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/desporto/noticia/41-anos-lebron-james-nao-descansa-deixa-descansar-2183165"
+            "title": "Brasileira lança festival<em> Sara Vai</em> com artistas conterrâneos em Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/publico-brasil/noticia/brasileira-lanca-festival-sara-vai-artistas-conterraneos-lisboa-2183148"
         },
         {
-            "title": "Eleições, investimento e TikTok: os factos sobre três frases enganadoras de Trump no jantar de correspondentes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/mundo/noticia/eleicoes-investimento-tiktok-factos-tres-frases-enganadoras-trump-jantar-correspondentes-2183156"
+            "title": "Vanuatu quer pôr a ciência no centro da discussão sobre mineração no fundo do mar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/azul/noticia/vanuatu-quer-ciencia-centro-discussao-mineracao-fundo-mar-2183173"
         },
         {
-            "title": "Nova onda de calor põe França e Espanha a correr contra o tempo para conter incêndios",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/azul/noticia/nova-onda-calor-poe-franca-espanha-correr-tempo-conter-incendios-2183149"
+            "title": "“Tenho uma mala feita na bagageira do carro”: portugueses vivem dias de cinza e incerteza em Bordéus",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/mundo/noticia/mala-bagageira-carro-portugueses-vivem-dias-cinza-incerteza-bordeus-2183155"
         }
     ],
     "finance": [],
-    "last_update": "27/07/2026 15:35"
+    "last_update": "27/07/2026 17:28"
 }
