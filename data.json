@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 21.3,
-        "manha": 22.2,
-        "tarde": 32.9,
-        "noite": 27.0
+        "atual": 22.7,
+        "manha": 22.7,
+        "tarde": 32.5,
+        "noite": 23.9
     },
     "forecast": {
-        "max": 33.1,
-        "min": 19.7
+        "max": 29.7,
+        "min": 19.4
     },
     "news": [
         {
-            "title": "Interrompidas buscas por jovem que desapareceu no mar em praia de Aljezur",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/local/noticia/interrompidas-buscas-jovem-desapareceu-mar-praia-aljezur-2183210"
+            "title": "Fernando Alexandre e Luís Neves devem ser postos no mesmo saco?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/opiniao/opiniao/fernando-alexandre-luis-neves-postos-saco-2183061"
         },
         {
-            "title": "Zelensky foi o primeiro visitante internacional de Andy Burnham",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/mundo/noticia/zelensky-visitante-internacional-andy-burnham-2183209"
+            "title": "A “ameaça” comunista",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/opiniao/opiniao/ameaca-comunista-2183201"
         },
         {
-            "title": "Golo marcado pelo cabo-verdiano Sidny considerado o melhor do Mundial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/desporto/noticia/golo-marcado-caboverdiano-sidny-considerado-melhor-mundial-2183207"
+            "title": "As crianças de Gaza valem menos do que as outras",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/opiniao/opiniao/criancas-gaza-valem-menos-2183197"
         },
         {
-            "title": "<em>Kristin</em>: sem empreiteiros e construtores à mão, foi uma fundação a salvar lares, centros de dias e creches",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/local/reportagem/kristin-empreiteiros-construtores-mao-fundacao-salvar-lares-centros-dias-creches-2183182"
+            "title": "Quando tudo é ato médico, nada é ato médico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/opiniao/opiniao/ato-medico-nada-ato-medico-2181821"
         },
         {
-            "title": "Professores vão receber um euro por cada resposta classificada e 12 euros por cada exame reapreciado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/sociedade/noticia/professores-vao-receber-euro-resposta-exame-corrigida-12-euros-prova-reapreciada-2183206"
+            "title": "De costas para a vista?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/opiniao/opiniao/costas-vista-2182050"
         }
     ],
     "finance": [],
-    "last_update": "27/07/2026 22:50"
+    "last_update": "27/07/2026 23:53"
 }
