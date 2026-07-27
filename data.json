@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 21.3,
-        "manha": 22.0,
+        "manha": 22.2,
         "tarde": 33.5,
-        "noite": 27.4
+        "noite": 27.1
     },
     "forecast": {
-        "max": 33.4,
-        "min": 20.1
+        "max": 32.4,
+        "min": 20.0
     },
     "news": [
         {
-            "title": "Há “menos pessimismo” na maior economia da Europa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/economia/noticia/ha-menos-pessimismo-maior-economia-europa-2183106"
+            "title": "Fisco nega isenção sobre mais-valias em IRS a quem trabalha a partir de casa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/economia/noticia/fisco-nega-isencao-maisvalias-irs-trabalha-partir-casa-2183135"
         },
         {
-            "title": "Renato Duarte: o elogio de que menos gosto é que “não pareço <em>gay</em>. Não o façam”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/impar/noticia/renato-duarte-elogio-menos-gosto-nao-pareco-gay-nao-facam-2180884"
+            "title": "Quase um quarto das crianças entre os cinco e os 14 anos têm excesso de peso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/sociedade/noticia/quase-quarto-criancas-cinco-14-anos-excesso-peso-2183127"
         },
         {
-            "title": "Trump prossegue esforços para reescrever a História, agora com ataque à Smithsonian",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/culturaipsilon/noticia/trump-prossegue-esforcos-reescrever-historia-ataque-smithsonian-2183099"
+            "title": "Carteira de crédito à habitação cresceu em Junho ao maior ritmo em 23 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/economia/noticia/carteira-credito-habitacao-cresceu-junho-maior-ritmo-23-anos-2183123"
         },
         {
-            "title": "Galp lucra mais 44%, melhora estimativas anuais e dá mais resultados aos accionistas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/economia/noticia/galp-lucra-44-melhora-estimativas-anuais-resultados-accionistas-2183095"
+            "title": "Exames nacionais: inscrições na época especial decorrem até sexta-feira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/sociedade/noticia/exames-nacionais-inscricoes-epoca-especial-decorrem-ate-sextafeira-2183117"
         },
         {
-            "title": "PÚBLICO lança Hoje, um novo podcast diário de informação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/sociedade/noticia/publico-lanca-hoje-novo-podcast-diario-informacao-2183084"
+            "title": "Calendário Pirelli vai à Índia em 2027 para mostrar a “diversidade” da beleza",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/impar/noticia/calendario-pirelli-vai-india-2027-mostrar-diversidade-beleza-2183112"
         }
     ],
     "finance": [],
-    "last_update": "27/07/2026 09:27"
+    "last_update": "27/07/2026 12:48"
 }
