@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.3,
         "manha": 22.0,
-        "tarde": 33.4,
-        "noite": 27.8
+        "tarde": 33.5,
+        "noite": 27.4
     },
     "forecast": {
         "max": 33.4,
-        "min": 20.0
+        "min": 20.1
     },
     "news": [
         {
-            "title": "Como a demissão de Duarte Gomes desencadeou uma grave crise na arbitragem",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/desporto/noticia/demissao-duarte-gomes-desencadeou-grave-crise-arbitragem-2183066"
+            "title": "Há “menos pessimismo” na maior economia da Europa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/economia/noticia/ha-menos-pessimismo-maior-economia-europa-2183106"
         },
         {
-            "title": "Se Luís Neves não der “explicações claras e fundamentadas”, PS vai falar com Montenegro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/politica/noticia/luis-neves-nao-der-explicacoes-claras-fundamentadas-ps-vai-falar-montenegro-2183070"
+            "title": "Renato Duarte: o elogio de que menos gosto é que “não pareço <em>gay</em>. Não o façam”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/impar/noticia/renato-duarte-elogio-menos-gosto-nao-pareco-gay-nao-facam-2180884"
         },
         {
-            "title": "Suspeitas sobre nomeações de árbitros de futebol chegaram à PJ",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/desporto/noticia/suspeitas-nomeacoes-arbitros-futebol-chegaram-pj-2183065"
+            "title": "Trump prossegue esforços para reescrever a História, agora com ataque à Smithsonian",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/culturaipsilon/noticia/trump-prossegue-esforcos-reescrever-historia-ataque-smithsonian-2183099"
         },
         {
-            "title": "“Só quero ir embora daqui”: Daniela, uma marinheira portuguesa retida em Ormuz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/mundo/noticia/so-quero-ir-embora-daqui-daniela-marinheira-portuguesa-retida-ormuz-2183085"
+            "title": "Galp lucra mais 44%, melhora estimativas anuais e dá mais resultados aos accionistas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/economia/noticia/galp-lucra-44-melhora-estimativas-anuais-resultados-accionistas-2183095"
         },
         {
-            "title": "O acesso ao médico de família",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/opiniao/editorial/acesso-medico-familia-2183038"
+            "title": "PÚBLICO lança Hoje, um novo podcast diário de informação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/27/sociedade/noticia/publico-lanca-hoje-novo-podcast-diario-informacao-2183084"
         }
     ],
     "finance": [],
-    "last_update": "27/07/2026 05:38"
+    "last_update": "27/07/2026 09:27"
 }
