@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 22.9,
-        "manha": 23.0,
-        "tarde": 32.7,
-        "noite": 23.6
+        "atual": 21.6,
+        "manha": 20.7,
+        "tarde": 29.4,
+        "noite": 21.9
     },
     "forecast": {
-        "max": 29.4,
-        "min": 19.6
+        "max": 28.1,
+        "min": 19.4
     },
     "news": [
         {
-            "title": "Homem deportado dos EUA e mulher encontrados mortos com bebé junto aos corpos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/mundo/noticia/homem-deportado-eua-mulher-encontrados-mortos-bebe-junto-corpos-2183330"
+            "title": "Amanhã chega a Lisboa um economista que sabe porque falha Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/opiniao/opiniao/amanha-chega-lisboa-economista-sabe-falha-portugal-2183247"
         },
         {
-            "title": "Serpa: Entre o cante e o calor",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/impar/cronica/serpa-cante-calor-2183246"
+            "title": "Barragem de Girabolhos: que estudos fundamentaram a decisão?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/opiniao/opiniao/barragem-girabolhos-estudos-fundamentaram-decisao-2182662"
         },
         {
-            "title": "Ordem dos Advogados pede fiscalização constitucional das alterações ao Código Penal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/sociedade/noticia/ordem-advogados-pede-fiscalizacao-constitucional-alteracoes-codigo-penal-2183327"
+            "title": "Os exames, o digital… e a formação integral",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/opiniao/opiniao/exames-digital-formacao-integral-2183230"
         },
         {
-            "title": "A grávida de Taubaté",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/p3/cronica/gravida-taubate-2183154"
+            "title": "Longevidade – Como vai a nossa saúde?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/opiniao/opiniao/longevidade-vai-saude-2182779"
         },
         {
-            "title": "Generalização dos cuidados de longa duração permitiria poupar 3,6 milhões de euros ao ano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/sociedade/noticia/generalizacao-cuidados-longa-duracao-permitiria-poupar-36-milhoes-euros-ano-2183270"
+            "title": "Aparências de institutos públicos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/opiniao/opiniao/aparencias-institutos-publicos-2182643"
         }
     ],
     "finance": [],
-    "last_update": "28/07/2026 22:57"
+    "last_update": "28/07/2026 23:54"
 }
