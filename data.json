@@ -1,8 +1,8 @@
 {
     "weather": {
         "atual": 22.9,
-        "manha": 23.0,
-        "tarde": 32.5,
+        "manha": 23.1,
+        "tarde": 33.2,
         "noite": 24.0
     },
     "forecast": {
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "“Nunca passei por nada assim na minha vida”. O que está a acontecer nos incêndios em França?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/mundo/noticia/passei-nada-assim-vida-acontecer-incendios-franca-2183204"
+            "title": "Mar profundo: adiada a participação das empresas mineiras na tomada de decisões",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/azul/noticia/mar-profundo-adiada-participacao-empresas-mineiras-tomada-decisoes-2183196"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/opiniao/opiniao/cartas-director-2183152"
+            "title": "Despertador: Gastos na defesa sem fiscalização garantida, balanço de seis meses após Kristin",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/newsletter/despertador"
         },
         {
-            "title": "Fernando Alexandre e Luís Neves devem ser postos no mesmo saco?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/opiniao/opiniao/fernando-alexandre-luis-neves-postos-saco-2183061"
+            "title": "Vamos aprender o verbo restaurar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/azul/opiniao/portugal-quer-medir-sustentabilidade-falta-medir-funcao-ecologica-2183102"
         },
         {
-            "title": "A “ameaça” comunista",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/opiniao/opiniao/ameaca-comunista-2183201"
+            "title": "Mais de mil operacionais combatem 34 incêndios no país, fogo na Guarda por dominar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/sociedade/noticia/mil-operacionais-combatem-34-incendios-pais-fogo-guarda-dominar-2183213"
         },
         {
-            "title": "As crianças de Gaza valem menos do que as outras",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/opiniao/opiniao/criancas-gaza-valem-menos-2183197"
+            "title": "No Porto, há uma “estufia” onde germina a cultura",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/local/reportagem/porto-ha-estufia-onde-germina-cultura-2172743"
         }
     ],
     "finance": [],
-    "last_update": "28/07/2026 04:53"
+    "last_update": "28/07/2026 07:31"
 }
