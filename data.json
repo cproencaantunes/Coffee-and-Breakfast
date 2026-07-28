@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 22.9,
-        "manha": 22.9,
+        "manha": 23.0,
         "tarde": 32.5,
-        "noite": 23.6
+        "noite": 24.0
     },
     "forecast": {
-        "max": 29.7,
-        "min": 19.4
+        "max": 29.6,
+        "min": 19.6
     },
     "news": [
+        {
+            "title": "“Nunca passei por nada assim na minha vida”. O que está a acontecer nos incêndios em França?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/mundo/noticia/passei-nada-assim-vida-acontecer-incendios-franca-2183204"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/opiniao/opiniao/cartas-director-2183152"
+        },
         {
             "title": "Fernando Alexandre e Luís Neves devem ser postos no mesmo saco?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/opiniao/opiniao/fernando-alexandre-luis-neves-postos-saco-2183061"
@@ -21,16 +29,8 @@
         {
             "title": "As crianças de Gaza valem menos do que as outras",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/opiniao/opiniao/criancas-gaza-valem-menos-2183197"
-        },
-        {
-            "title": "Quando tudo é ato médico, nada é ato médico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/opiniao/opiniao/ato-medico-nada-ato-medico-2181821"
-        },
-        {
-            "title": "De costas para a vista?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/opiniao/opiniao/costas-vista-2182050"
         }
     ],
     "finance": [],
-    "last_update": "28/07/2026 01:27"
+    "last_update": "28/07/2026 04:53"
 }
