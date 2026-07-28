@@ -2,35 +2,35 @@
     "weather": {
         "atual": 22.9,
         "manha": 23.0,
-        "tarde": 33.3,
-        "noite": 23.7
+        "tarde": 32.7,
+        "noite": 23.9
     },
     "forecast": {
-        "max": 29.3,
+        "max": 28.8,
         "min": 19.6
     },
     "news": [
         {
-            "title": "A adjunta de Neves que geria os bens apreendidos pela PJ não foi informada sobre atrelado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/politica/noticia/adjunta-neves-geria-bens-apreendidos-pj-nao-informada-atrelado-2183267"
+            "title": "“Erro político grave”: PS e IL atiram a PSD e CDS por travarem audição a Luís Neves",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/politica/noticia/erro-politico-grave-ps-il-atiram-psd-cds-travarem-audicao-luis-neves-2183299"
         },
         {
-            "title": "Roberto Mancini volta a ser seleccionador italiano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/desporto/noticia/roberto-mancini-volta-seleccionador-italiano-2183281"
+            "title": "D4vd, cantor de <em>Romantic Homicide</em>, vai ser julgado por morte de adolescente de 14 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/impar/noticia/d4vd-cantor-romantic-homicide-vai-julgado-morte-adolescente-14-anos-2183294"
         },
         {
-            "title": "Ataque ucraniano a navio iraniano no Mar Cáspio aproxima guerras da Ucrânia e do Médio Oriente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/mundo/noticia/ataque-ucraniano-navio-iraniano-mar-caspio-aproxima-guerras-ucrania-medio-oriente-2183251"
+            "title": "Gaia vai a banhos na nova piscina aquecida da praia do Areinho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/fugas/noticia/gaia-vai-banhos-nova-piscina-aquecida-praia-areinho-2183255"
         },
         {
-            "title": "Jason Stanley: Israel usa propaganda para “impedir que a realidade venha à tona”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/culturaipsilon/entrevista/jason-stanley-israel-usa-propaganda-impedir-realidade-venha-tona-2182034"
+            "title": "Documento válido, apostilamento negado: falha em Portugal prejudica aluno no Brasil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/publico-brasil/noticia/documento-valido-apostilamento-negado-falha-portugal-prejudica-aluno-brasil-2183289"
         },
         {
-            "title": "Alentejo e Dão prevêem produzir mais vinho e de melhor qualidade este ano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/terroir/noticia/alentejo-dao-preveem-produzir-vinho-melhor-qualidade-ano-2183266"
+            "title": "Entre Trump e Infantino, favor com favor se paga",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/desporto/noticia/trump-infantino-favor-favor-paga-2183303"
         }
     ],
     "finance": [],
-    "last_update": "28/07/2026 15:10"
+    "last_update": "28/07/2026 17:17"
 }
