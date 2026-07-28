@@ -1,9 +1,9 @@
 {
     "weather": {
         "atual": 22.9,
-        "manha": 23.1,
-        "tarde": 33.2,
-        "noite": 24.0
+        "manha": 23.0,
+        "tarde": 33.3,
+        "noite": 23.9
     },
     "forecast": {
         "max": 29.6,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Mar profundo: adiada a participação das empresas mineiras na tomada de decisões",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/azul/noticia/mar-profundo-adiada-participacao-empresas-mineiras-tomada-decisoes-2183196"
+            "title": "PJ chamada ao Parlamento depois de Ventura se queixar de gabinete vandalizado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/politica/noticia/pj-chamada-parlamento-ventura-queixar-gabinete-vandalizado-2183231"
         },
         {
-            "title": "Despertador: Gastos na defesa sem fiscalização garantida, balanço de seis meses após Kristin",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/newsletter/despertador"
+            "title": "Espanha e França: noite positiva de combate aos incêndios, mas vem aí onda de calor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/sociedade/noticia/espanha-franca-noite-positiva-combate-incendios-vem-ai-onda-calor-2183232"
         },
         {
-            "title": "Vamos aprender o verbo restaurar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/azul/opiniao/portugal-quer-medir-sustentabilidade-falta-medir-funcao-ecologica-2183102"
+            "title": "Zidane está de volta, agora no papel de “maestro” da selecção francesa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/desporto/noticia/zidane-volta-papel-maestro-seleccao-francesa-2183234"
         },
         {
-            "title": "Mais de mil operacionais combatem 34 incêndios no país, fogo na Guarda por dominar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/sociedade/noticia/mil-operacionais-combatem-34-incendios-pais-fogo-guarda-dominar-2183213"
+            "title": "Amnistiado primeiro membro de governo catalão de Puigdemont",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/mundo/noticia/amnistiado-membro-governo-catalao-puigdemont-2183228"
         },
         {
-            "title": "No Porto, há uma “estufia” onde germina a cultura",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/local/reportagem/porto-ha-estufia-onde-germina-cultura-2172743"
+            "title": "Tiago Mota Saraiva: “Pedi ajuda à IA para arranjar a fivela de uma sandália da minha filha”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/28/impar/noticia/tiago-mota-saraiva-pedi-ajuda-ia-arranjar-fivela-sandalia-filha-2180962"
         }
     ],
     "finance": [],
-    "last_update": "28/07/2026 07:31"
+    "last_update": "28/07/2026 10:22"
 }
