@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.5,
         "manha": 20.9,
-        "tarde": 29.8,
+        "tarde": 29.7,
         "noite": 22.0
     },
     "forecast": {
-        "max": 27.8,
-        "min": 19.0
+        "max": 27.5,
+        "min": 19.1
     },
     "news": [
         {
-            "title": "<em>Nova ’78</em>: fascinante retrato da contracultura de Nova Iorque",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/culturaipsilon/critica/nova-78-fascinante-retrato-contracultura-nova-iorque-2183126"
+            "title": "Rússia acusa fundador do Telegram, um “campo de batalha virtual”, de auxílio ao terrorismo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/mundo/noticia/russia-acusa-fundador-telegram-campo-batalha-virtual-auxilio-terrorismo-2183358"
         },
         {
-            "title": "“Mapa verde”: aceleração de renováveis deve excluir Reserva Ecológica Nacional, alerta Conselho do Ambiente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/azul/noticia/mapa-verde-aceleracao-renovaveis-excluir-reserva-ecologica-nacional-alerta-conselho-ambiente-2183353"
+            "title": "Aridge, a primeira fábrica de carros voadores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/video/aridge-primeira-fabrica-carros-voadores-20260729-101815"
         },
         {
-            "title": "Exportações aumentaram 10% no segundo trimestre, importações também aceleraram",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/economia/noticia/exportacoes-aumentaram-10-segundo-trimestre-importacoes-tambem-aceleraram-2183356"
+            "title": "PCP, Livre e BE unem-se e pedem apreciação do decreto que cria Universidade Técnica do Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/politica/noticia/pcp-livre-be-unemse-pedem-apreciacao-decreto-cria-universidade-tecnica-porto-2183364"
         },
         {
-            "title": "Agente da OpenAI que atacou a Hugging Face comprometeu fornecedor de outra empresa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/enter/noticia/agente-openai-atacou-hugging-face-comprometeu-fornecedor-empresa-2183344"
+            "title": "Mesmo após reforços, jovens já usaram mais de metade da garantia do Estado para a compra de casa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/economia/noticia/apos-reforcos-jovens-ja-usaram-metade-garantia-estado-compra-casa-2183368"
         },
         {
-            "title": "DJ francês Kavinsky encontrado morto em casa, em Paris",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/culturaipsilon/noticia/dj-frances-kavinsky-encontrado-morto-casa-paris-2183351"
+            "title": "O novo romance de Leonardo Padura, os hereges de Durango e a vida sexual dos animais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/culturaipsilon/noticia/novo-romance-leonardo-padura-hereges-durango-vida-sexual-animais-2183054"
         }
     ],
     "finance": [],
-    "last_update": "29/07/2026 10:28"
+    "last_update": "29/07/2026 12:54"
 }
