@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 21.5,
-        "manha": 20.9,
-        "tarde": 29.6,
-        "noite": 22.4
+        "atual": 20.6,
+        "manha": 20.7,
+        "tarde": 28.0,
+        "noite": 21.6
     },
     "forecast": {
-        "max": 28.0,
+        "max": 28.9,
         "min": 19.4
     },
     "news": [
         {
-            "title": "Rajadas de ventos de até 125 km/h deixam três mortos e causam destruição em São Paulo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/publico-brasil/noticia/rajadas-ventos-ate-125-kmh-deixam-tres-mortos-causam-destruicao-sao-paulo-2183475"
+            "title": "Rússia estará a recorrer à IA para alegar ganhos territoriais na Ucrânia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/mundo/noticia/russia-estara-recorrer-ia-alegar-ganhos-territoriais-ucrania-2183476"
         },
         {
-            "title": "<em>Drone</em> atinge navio-cisterna de gás num porto egípcio do Mediterrâneo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/mundo/noticia/drone-atinge-naviocisterna-gas-porto-egipcio-mediterraneo-2183473"
+            "title": "O caso Luís Neves: a montanha não pariu um rato",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/opiniao/opiniao/caso-luis-neves-montanha-nao-pariu-rato-2183466"
         },
         {
-            "title": "O atrelado, as obras no monte e as declarações de rendimentos: o que Neves esclareceu e o que ficou por explicar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/sociedade/noticia/atrelado-obras-monte-declaracoes-rendimentos-neves-esclareceu-ficou-explicar-2183471"
+            "title": "A música em tempo de despedidas, a compassos desiguais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/culturaipsilon/opiniao/musica-tempo-despedidas-compassos-desiguais-2183128"
         },
         {
-            "title": "Do Nordeste para a Europa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/publico-brasil/opiniao/nordeste-europa-2183474"
+            "title": "“Todos os livros do mundo”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/opiniao/opiniao/livros-mundo-2183410"
         },
         {
-            "title": "Eduardo Quaresma renova com Sporting até 2031",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/desporto/noticia/eduardo-quaresma-renova-sporting-ate-2031-2183464"
+            "title": "Um insulto por um euro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/opiniao/opiniao/insulto-euro-2183419"
         }
     ],
     "finance": [],
-    "last_update": "29/07/2026 22:47"
+    "last_update": "29/07/2026 23:52"
 }
