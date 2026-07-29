@@ -3,34 +3,34 @@
         "atual": 21.5,
         "manha": 20.9,
         "tarde": 29.6,
-        "noite": 22.0
+        "noite": 22.4
     },
     "forecast": {
-        "max": 27.8,
-        "min": 19.3
+        "max": 28.0,
+        "min": 19.4
     },
     "news": [
         {
-            "title": "AIMA passa a aceitar certidão da Autoridade Tributária como comprovante de moradia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/publico-brasil/noticia/aima-passa-aceitar-certidao-autoridade-tributaria-comprovante-moradia-2183470"
+            "title": "O atrelado, as obras no monte e as declarações de rendimentos: o que Neves esclareceu e o que ficou por explicar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/sociedade/noticia/atrelado-obras-monte-declaracoes-rendimentos-neves-esclareceu-ficou-explicar-2183471"
         },
         {
-            "title": "ULS do Algarve incapaz de cobrar 1,2 milhões de euros por cuidados prestados a estrangeiros em dois anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/sociedade/noticia/uls-algarve-incapaz-cobrar-12-milhoes-euros-cuidados-prestados-estrangeiros-dois-anos-2183459"
+            "title": "Do Nordeste para a Europa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/publico-brasil/opiniao/nordeste-europa-2183474"
         },
         {
-            "title": "A Terra não é uma esfera perfeita: NASA revela novo modelo 3D do planeta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/ciencia/noticia/terra-nao-esfera-perfeita-nasa-revela-novo-modelo-3d-planeta-2183388"
+            "title": "Eduardo Quaresma renova com Sporting até 2031",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/desporto/noticia/eduardo-quaresma-renova-sporting-ate-2031-2183464"
         },
         {
-            "title": "<em>Her Private Hell — Viagem ao Inferno</em>: muito barulho por nada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/culturaipsilon/critica/her-private-hell-viagem-inferno-barulho-nada-2183427"
+            "title": "Pedro Proença fala em excertos de conversas distorcidas e descontextualizadas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/desporto/noticia/pedro-proenca-fala-excertos-conversas-distorcidas-descontextualizadas-2183472"
         },
         {
-            "title": "Ministério Público da Bolívia manda prender ex-presidente Evo Morales por “terrorismo”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/mundo/noticia/ministerio-publico-bolivia-manda-prender-expresidente-evo-morales-terrorismo-2183469"
+            "title": "Bolsa de Incentivo avança. Mas quanto custa estudar? E o que mais muda nos apoios?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/sociedade/noticia/bolsa-incentivo-avanca-custa-estudar-muda-apoios-2180973"
         }
     ],
     "finance": [],
-    "last_update": "29/07/2026 20:07"
+    "last_update": "29/07/2026 21:46"
 }
