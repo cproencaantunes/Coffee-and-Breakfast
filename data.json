@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.5,
         "manha": 20.9,
-        "tarde": 29.7,
+        "tarde": 29.8,
         "noite": 22.0
     },
     "forecast": {
-        "max": 28.0,
-        "min": 19.1
+        "max": 27.8,
+        "min": 19.0
     },
     "news": [
         {
-            "title": "O canto e a covardia — a música que uma sociedade escolhe cantar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/publico-brasil/opiniao/canto-covardia-musica-sociedade-escolhe-cantar-2183336"
+            "title": "<em>Nova ’78</em>: fascinante retrato da contracultura de Nova Iorque",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/culturaipsilon/critica/nova-78-fascinante-retrato-contracultura-nova-iorque-2183126"
         },
         {
-            "title": "O aquecimento global não chegou aos Açores?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/azul/opiniao/aquecimento-global-nao-chegou-acores-2183254"
+            "title": "“Mapa verde”: aceleração de renováveis deve excluir Reserva Ecológica Nacional, alerta Conselho do Ambiente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/azul/noticia/mapa-verde-aceleracao-renovaveis-excluir-reserva-ecologica-nacional-alerta-conselho-ambiente-2183353"
         },
         {
-            "title": "Senhores do Algoritmo. Há vida em Marte?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/sociedade/podcast/senhores-algoritmo-ha-vida-marte-2183323"
+            "title": "Exportações aumentaram 10% no segundo trimestre, importações também aceleraram",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/economia/noticia/exportacoes-aumentaram-10-segundo-trimestre-importacoes-tambem-aceleraram-2183356"
         },
         {
-            "title": "Director de Recursos Humanos que prendeu funcionária com fita cola à cadeira já não trabalha no hospital",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/sociedade/noticia/director-recursos-humanos-prendeu-funcionaria-fita-cola-cadeira-ja-nao-trabalha-hospital-2183314"
+            "title": "Agente da OpenAI que atacou a Hugging Face comprometeu fornecedor de outra empresa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/enter/noticia/agente-openai-atacou-hugging-face-comprometeu-fornecedor-empresa-2183344"
         },
         {
-            "title": "Incêndio na Guarda dominado e em fase de resolução, Valpaços é o único fogo activo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/sociedade/noticia/incendio-guarda-dominado-fase-resolucao-valpacos-unico-fogo-activo-2183334"
+            "title": "DJ francês Kavinsky encontrado morto em casa, em Paris",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/culturaipsilon/noticia/dj-frances-kavinsky-encontrado-morto-casa-paris-2183351"
         }
     ],
     "finance": [],
-    "last_update": "29/07/2026 07:40"
+    "last_update": "29/07/2026 10:28"
 }
