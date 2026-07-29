@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 21.5,
-        "manha": 20.6,
+        "manha": 20.7,
         "tarde": 29.4,
         "noite": 22.0
     },
     "forecast": {
-        "max": 28.1,
-        "min": 19.4
+        "max": 28.0,
+        "min": 19.0
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/opiniao/opiniao/cartas-director-2183295"
+        },
+        {
+            "title": "O que se passa na Ucrânia? O embate entre a velha guarda soviética e a nova geração",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/mundo/noticia/passa-ucrania-embate-velha-guarda-sovietica-nova-geracao-2183296"
+        },
         {
             "title": "Amanhã chega a Lisboa um economista que sabe porque falha Portugal",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/opiniao/opiniao/amanha-chega-lisboa-economista-sabe-falha-portugal-2183247"
@@ -21,16 +29,8 @@
         {
             "title": "Os exames, o digital… e a formação integral",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/opiniao/opiniao/exames-digital-formacao-integral-2183230"
-        },
-        {
-            "title": "Longevidade – Como vai a nossa saúde?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/opiniao/opiniao/longevidade-vai-saude-2182779"
-        },
-        {
-            "title": "Aparências de institutos públicos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/opiniao/opiniao/aparencias-institutos-publicos-2182643"
         }
     ],
     "finance": [],
-    "last_update": "29/07/2026 01:27"
+    "last_update": "29/07/2026 04:58"
 }
