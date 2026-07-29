@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.5,
         "manha": 20.9,
-        "tarde": 29.7,
-        "noite": 22.0
+        "tarde": 29.6,
+        "noite": 21.9
     },
     "forecast": {
-        "max": 27.5,
-        "min": 19.1
+        "max": 27.8,
+        "min": 19.0
     },
     "news": [
         {
-            "title": "Enquanto prepara estreia em Lisboa, grupo hoteleiro de Robert De Niro avança no Algarve",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/fugas/noticia/prepara-estreia-lisboa-grupo-hoteleiro-robert-niro-avanca-algarve-2183377"
+            "title": "Câmara de Oeiras alerta para burlões que tentam vender casas municipais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/local/noticia/camara-oeiras-alerta-burloes-tentam-vender-casas-municipais-2183437"
         },
         {
-            "title": "Temperaturas voltam a disparar em França e Espanha. Incêndios ameaçam Itália e Grécia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/mundo/noticia/temperaturas-voltam-disparar-franca-espanha-incendios-ameacam-italia-grecia-2183393"
+            "title": "Trump pede ao Supremo que anule sentença de 83 milhões no caso de E. Jean Carroll",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/mundo/noticia/trump-pede-supremo-anule-sentenca-83-milhoes-caso-jean-carroll-2183439"
         },
         {
-            "title": "Obras da Linha Circular deixam Cais do Sodré sem metro entre 8 e 26 de Agosto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/local/noticia/obras-linha-circular-deixam-cais-sodre-metro-8-26-agosto-2183401"
+            "title": "Documentário sobre a Amazônia faz parte de festival em Portugal e Espanha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/publico-brasil/noticia/documentario-amazonia-faz-parte-festival-portugal-espanha-2183406"
         },
         {
-            "title": "Neymar anuncia que não joga mais pela selecção: “Acho que não quero mais”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/desporto/noticia/neymar-anuncia-nao-joga-seleccao-acho-nao-quero-2183399"
+            "title": "Universidade de Aveiro alvo de ataque informático",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/sociedade/noticia/universidade-aveiro-alvo-ataque-informatico-2183428"
         },
         {
-            "title": "Portugal identificou 132 conteúdos violentos e extremistas no Telegram",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/sociedade/noticia/portugal-identificou-132-conteudos-violentos-extremistas-telegram-2183397"
+            "title": "Privatização da TAP avança com propostas vinculativas da Lufthansa e Air France-KLM",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/economia/noticia/privatizacao-tap-avanca-propostas-vinculativas-lufthansa-air-franceklm-2183429"
         }
     ],
     "finance": [],
-    "last_update": "29/07/2026 15:03"
+    "last_update": "29/07/2026 17:02"
 }
