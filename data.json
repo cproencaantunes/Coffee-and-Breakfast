@@ -3,34 +3,34 @@
         "atual": 21.5,
         "manha": 20.9,
         "tarde": 29.6,
-        "noite": 21.9
+        "noite": 22.0
     },
     "forecast": {
         "max": 27.8,
-        "min": 19.0
+        "min": 19.3
     },
     "news": [
         {
-            "title": "Câmara de Oeiras alerta para burlões que tentam vender casas municipais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/local/noticia/camara-oeiras-alerta-burloes-tentam-vender-casas-municipais-2183437"
+            "title": "“As memórias são… como livros escondidos no pó…”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/impar/cronica/memorias-sao-livros-escondidos-po-2183455"
         },
         {
-            "title": "Trump pede ao Supremo que anule sentença de 83 milhões no caso de E. Jean Carroll",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/mundo/noticia/trump-pede-supremo-anule-sentenca-83-milhoes-caso-jean-carroll-2183439"
+            "title": "Fed decide manter as taxas de juro, mas subida pode estar a caminho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/economia/noticia/fed-decide-manter-taxas-juro-subida-estar-caminho-2183460"
         },
         {
-            "title": "Documentário sobre a Amazônia faz parte de festival em Portugal e Espanha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/publico-brasil/noticia/documentario-amazonia-faz-parte-festival-portugal-espanha-2183406"
+            "title": "Anthony Fauci: o rosto dos EUA no combate à covid-19 diz-se vítima de perseguição política",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/mundo/noticia/rosto-eua-combate-covid-dizse-vitima-perseguicao-politica-2183423"
         },
         {
-            "title": "Universidade de Aveiro alvo de ataque informático",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/sociedade/noticia/universidade-aveiro-alvo-ataque-informatico-2183428"
+            "title": "UEFA vê oposição significativa e crescente ao plano de comercialização da FIFA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/desporto/noticia/uefa-ve-oposicao-significativa-crescente-plano-comercializacao-fifa-2183452"
         },
         {
-            "title": "Privatização da TAP avança com propostas vinculativas da Lufthansa e Air France-KLM",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/economia/noticia/privatizacao-tap-avanca-propostas-vinculativas-lufthansa-air-franceklm-2183429"
+            "title": "BCP tem novo lucro recorde e pede novo modelo para financiar Fundo de Resolução",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/economia/noticia/bcp-novo-lucro-recorde-pede-novo-modelo-financiar-fundo-resolucao-2183442"
         }
     ],
     "finance": [],
-    "last_update": "29/07/2026 17:02"
+    "last_update": "29/07/2026 18:54"
 }
