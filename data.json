@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 21.5,
-        "manha": 20.7,
-        "tarde": 29.4,
+        "manha": 20.9,
+        "tarde": 29.7,
         "noite": 22.0
     },
     "forecast": {
         "max": 28.0,
-        "min": 19.0
+        "min": 19.1
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/opiniao/opiniao/cartas-director-2183295"
+            "title": "O canto e a covardia — a música que uma sociedade escolhe cantar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/publico-brasil/opiniao/canto-covardia-musica-sociedade-escolhe-cantar-2183336"
         },
         {
-            "title": "O que se passa na Ucrânia? O embate entre a velha guarda soviética e a nova geração",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/mundo/noticia/passa-ucrania-embate-velha-guarda-sovietica-nova-geracao-2183296"
+            "title": "O aquecimento global não chegou aos Açores?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/azul/opiniao/aquecimento-global-nao-chegou-acores-2183254"
         },
         {
-            "title": "Amanhã chega a Lisboa um economista que sabe porque falha Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/opiniao/opiniao/amanha-chega-lisboa-economista-sabe-falha-portugal-2183247"
+            "title": "Senhores do Algoritmo. Há vida em Marte?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/sociedade/podcast/senhores-algoritmo-ha-vida-marte-2183323"
         },
         {
-            "title": "Barragem de Girabolhos: que estudos fundamentaram a decisão?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/opiniao/opiniao/barragem-girabolhos-estudos-fundamentaram-decisao-2182662"
+            "title": "Director de Recursos Humanos que prendeu funcionária com fita cola à cadeira já não trabalha no hospital",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/sociedade/noticia/director-recursos-humanos-prendeu-funcionaria-fita-cola-cadeira-ja-nao-trabalha-hospital-2183314"
         },
         {
-            "title": "Os exames, o digital… e a formação integral",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/opiniao/opiniao/exames-digital-formacao-integral-2183230"
+            "title": "Incêndio na Guarda dominado e em fase de resolução, Valpaços é o único fogo activo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/29/sociedade/noticia/incendio-guarda-dominado-fase-resolucao-valpacos-unico-fogo-activo-2183334"
         }
     ],
     "finance": [],
-    "last_update": "29/07/2026 04:58"
+    "last_update": "29/07/2026 07:40"
 }
