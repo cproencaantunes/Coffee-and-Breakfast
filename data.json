@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 20.7,
-        "manha": 20.8,
-        "tarde": 28.1,
-        "noite": 21.8
+        "manha": 21.2,
+        "tarde": 28.2,
+        "noite": 22.0
     },
     "forecast": {
-        "max": 28.9,
-        "min": 19.4
+        "max": 29.3,
+        "min": 19.8
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/opiniao/opiniao/cartas-director-2183432"
+        },
+        {
+            "title": "Luís Neves falou. Chega para travar a crise?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/politica/noticia/luis-neves-falou-chega-travar-crise-2183405"
+        },
         {
             "title": "Trabalhadores do sector da IA pedem esforços para controlar riscos da tecnologia",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/enter/noticia/trabalhadores-sector-ia-pedem-esforcos-controlar-riscos-tecnologia-2183421"
@@ -21,16 +29,8 @@
         {
             "title": "O caso Luís Neves: a montanha não pariu um rato",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/opiniao/opiniao/caso-luis-neves-montanha-nao-pariu-rato-2183466"
-        },
-        {
-            "title": "A música em tempo de despedidas, a compassos desiguais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/culturaipsilon/opiniao/musica-tempo-despedidas-compassos-desiguais-2183128"
-        },
-        {
-            "title": "“Todos os livros do mundo”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/opiniao/opiniao/livros-mundo-2183410"
         }
     ],
     "finance": [],
-    "last_update": "30/07/2026 01:20"
+    "last_update": "30/07/2026 04:46"
 }
