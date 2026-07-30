@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 20.6,
-        "manha": 20.7,
-        "tarde": 28.0,
-        "noite": 21.6
+        "atual": 20.7,
+        "manha": 20.8,
+        "tarde": 28.1,
+        "noite": 21.8
     },
     "forecast": {
         "max": 28.9,
         "min": 19.4
     },
     "news": [
+        {
+            "title": "Trabalhadores do sector da IA pedem esforços para controlar riscos da tecnologia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/enter/noticia/trabalhadores-sector-ia-pedem-esforcos-controlar-riscos-tecnologia-2183421"
+        },
         {
             "title": "Rússia estará a recorrer à IA para alegar ganhos territoriais na Ucrânia",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/mundo/noticia/russia-estara-recorrer-ia-alegar-ganhos-territoriais-ucrania-2183476"
@@ -25,12 +29,8 @@
         {
             "title": "“Todos os livros do mundo”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/opiniao/opiniao/livros-mundo-2183410"
-        },
-        {
-            "title": "Um insulto por um euro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/opiniao/opiniao/insulto-euro-2183419"
         }
     ],
     "finance": [],
-    "last_update": "29/07/2026 23:52"
+    "last_update": "30/07/2026 01:20"
 }
