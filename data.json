@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.7,
         "manha": 21.0,
-        "tarde": 27.9,
+        "tarde": 27.8,
         "noite": 21.8
     },
     "forecast": {
-        "max": 29.5,
-        "min": 19.6
+        "max": 29.6,
+        "min": 19.5
     },
     "news": [
         {
-            "title": "Ser amado e sentir-se amado não é a mesma coisa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/impar/noticia/amado-sentirse-amado-nao-2183544"
+            "title": "Oprah vai fechar escola para raparigas que fundou na África do Sul há 20 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/impar/noticia/oprah-vai-fechar-escola-raparigas-fundou-africa-sul-ha-20-anos-2183587"
         },
         {
-            "title": "Calor extremo duplica dias propícios a incêndios em Portugal e no Sul da Europa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/azul/noticia/calor-extremo-duplica-dias-propicios-incendios-portugal-sul-europa-2183357"
+            "title": "Letão Ainars Bagatskis é o novo treinador de basquetebol do Benfica",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/desporto/noticia/letao-ainars-bagatskis-novo-treinador-basquetebol-benfica-2183556"
         },
         {
-            "title": "O que fazer? Sexta é dia de música e Cinema Fora do Sítio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/fugas/noticia/sexta-dia-musica-cinema-sitio-2183501"
+            "title": "Boavista SAD abdica de inscrição no 2.º escalão da AF Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/desporto/noticia/boavista-sad-abdica-inscricao-2-escalao-af-porto-2183562"
         },
         {
-            "title": "Prova dos Factos passa a ter dois novos veredictos: “meia verdade” e “enganador”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/sociedade/noticia/prova-factos-passa-dois-novos-veredictos-meia-verdade-enganador-2183548"
+            "title": "Depois dos maus tratos a funcionários, Noma reabre sem o arrependido <em>chef</em> Redzepi",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/fugas/noticia/maus-tratos-funcionarios-noma-reabre-arrependido-chef-redzepi-2183495"
         },
         {
-            "title": "Protector solar aumenta risco de cancro? Narrativa falsa deturpa conclusões de estudo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/ciencia/noticia/protector-solar-aumenta-risco-cancro-narrativa-falsa-deturpa-conclusoes-estudo-2183414"
+            "title": "Euskaltel e Burgos regressam em Volta a Portugal com 17 equipas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/desporto/noticia/euskaltel-burgos-regressam-volta-portugal-17-equipas-2183553"
         }
     ],
     "finance": [],
-    "last_update": "30/07/2026 15:00"
+    "last_update": "30/07/2026 17:13"
 }
