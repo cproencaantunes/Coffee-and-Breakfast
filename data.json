@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.7,
-        "manha": 21.2,
-        "tarde": 28.2,
-        "noite": 22.0
+        "manha": 21.1,
+        "tarde": 28.1,
+        "noite": 21.7
     },
     "forecast": {
         "max": 29.3,
-        "min": 19.8
+        "min": 19.7
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/opiniao/opiniao/cartas-director-2183432"
+            "title": "EUA lançam novos ataques contra o Irão após ofensiva iraniana na Jordânia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/mundo/noticia/eua-lancam-novos-ataques-irao-apos-ofensiva-iraniana-jordania-2183479"
         },
         {
-            "title": "Luís Neves falou. Chega para travar a crise?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/politica/noticia/luis-neves-falou-chega-travar-crise-2183405"
+            "title": "Sp. Braga quer voltar a ser o que foi no último ano, agora na Liga Conferência",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/desporto/noticia/sp-braga-quer-voltar-ultimo-ano-liga-conferencia-2183417"
         },
         {
-            "title": "Trabalhadores do sector da IA pedem esforços para controlar riscos da tecnologia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/enter/noticia/trabalhadores-sector-ia-pedem-esforcos-controlar-riscos-tecnologia-2183421"
+            "title": "Despertador: Nobel defende que chave para desbloquear economia é ter decisões judiciais em 90 dias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/newsletter/despertador"
         },
         {
-            "title": "Rússia estará a recorrer à IA para alegar ganhos territoriais na Ucrânia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/mundo/noticia/russia-estara-recorrer-ia-alegar-ganhos-territoriais-ucrania-2183476"
+            "title": "Economistas descrevem “catástrofe silenciosa” no crescimento português",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/politica/noticia/economistas-descrevem-catastrofe-silenciosa-crescimento-portugues-2183431"
         },
         {
-            "title": "O caso Luís Neves: a montanha não pariu um rato",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/opiniao/opiniao/caso-luis-neves-montanha-nao-pariu-rato-2183466"
+            "title": "Podemos recolher areia e conchas da praia? Ou é prejudical ao ambiente?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/azul/noticia/podemos-recolher-areia-conchas-praia-prejudical-ambiente-2182679"
         }
     ],
     "finance": [],
-    "last_update": "30/07/2026 04:46"
+    "last_update": "30/07/2026 07:26"
 }
