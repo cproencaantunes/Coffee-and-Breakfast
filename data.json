@@ -6,10 +6,22 @@
         "noite": 21.7
     },
     "forecast": {
-        "max": 29.7,
-        "min": 19.5
+        "max": 29.6,
+        "min": 19.4
     },
     "news": [
+        {
+            "title": "Raoul Vaneigem (1934-2026), um herege do nosso tempo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/culturaipsilon/noticia/raoul-vaneigem-19342026-herege-tempo-2183597"
+        },
+        {
+            "title": "Preocupado com casos no Governo, Passos junta-se a Nobel e pede escolha de prioridades",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/politica/noticia/preocupado-casos-governo-passos-juntase-nobel-pede-escolha-prioridades-2183604"
+        },
+        {
+            "title": "Sp. Braga goleia Zeleznicar e confirma apuramento na Liga Conferência",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/desporto/noticia/sp-braga-goleia-zeleznicar-confirma-apuramento-liga-conferencia-2183594"
+        },
         {
             "title": "Benfica salva-se da vergonha com goleada",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/desporto/cronica_de_jogo/benfica-salvase-vergonha-goleada-2183605"
@@ -17,20 +29,8 @@
         {
             "title": "Filhos preferidos, filhos preteridos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/p3/cronica/filhos-preferidos-filhos-preteridos-2183392"
-        },
-        {
-            "title": "O conflito de “nem guerra, nem paz” entre EUA e Irão “pode durar muito mais do que se poderá pensar”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/mundo/entrevista/conflito-guerra-paz-eua-irao-durar-podera-pensar-2183575"
-        },
-        {
-            "title": "Maria Oliveira, uma fotógrafa a seguir de perto: “Temos de estar abertos àquilo que não conseguimos explicar”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/culturaipsilon/entrevista/maria-oliveira-fotografa-seguir-perto-estar-abertos-nao-conseguimos-explicar-2183121"
-        },
-        {
-            "title": "Acordo com a AIMA vai beneficiar 30% dos alunos estrangeiros da Faculdade de Direito",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/publico-brasil/noticia/acordo-aima-vai-beneficiar-30-alunos-estrangeiros-faculdade-direito-2183598"
         }
     ],
     "finance": [],
-    "last_update": "30/07/2026 20:54"
+    "last_update": "30/07/2026 21:58"
 }
