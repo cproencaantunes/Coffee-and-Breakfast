@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.7,
-        "manha": 21.1,
-        "tarde": 28.1,
-        "noite": 21.7
+        "manha": 21.0,
+        "tarde": 28.0,
+        "noite": 21.8
     },
     "forecast": {
-        "max": 29.3,
-        "min": 19.7
+        "max": 29.7,
+        "min": 19.5
     },
     "news": [
         {
-            "title": "EUA lançam novos ataques contra o Irão após ofensiva iraniana na Jordânia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/mundo/noticia/eua-lancam-novos-ataques-irao-apos-ofensiva-iraniana-jordania-2183479"
+            "title": "Midori, um dos mais antigos restaurantes japoneses em Portugal, de menu renovado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/fugas/noticia/midori-antigos-restaurantes-japoneses-portugal-menu-renovado-2171359"
         },
         {
-            "title": "Sp. Braga quer voltar a ser o que foi no último ano, agora na Liga Conferência",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/desporto/noticia/sp-braga-quer-voltar-ultimo-ano-liga-conferencia-2183417"
+            "title": "Rolieiro: uma das mais coloridas aves do país está cada vez menos presente ao longo do território",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/azul/noticia/rolieiro-coloridas-aves-pais-menos-presente-longo-territorio-2180867"
         },
         {
-            "title": "Despertador: Nobel defende que chave para desbloquear economia é ter decisões judiciais em 90 dias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/newsletter/despertador"
+            "title": "Estará a inteligência artificial a substituir as relações familiares?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/impar/opiniao/estara-inteligencia-artificial-substituir-relacoes-familiares-2183350"
         },
         {
-            "title": "Economistas descrevem “catástrofe silenciosa” no crescimento português",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/politica/noticia/economistas-descrevem-catastrofe-silenciosa-crescimento-portugues-2183431"
+            "title": "Economia voltou a acelerar: crescimento de 0,8% no segundo trimestre",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/economia/noticia/economia-voltou-acelerar-crescimento-08-segundo-trimestre-2183489"
         },
         {
-            "title": "Podemos recolher areia e conchas da praia? Ou é prejudical ao ambiente?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/azul/noticia/podemos-recolher-areia-conchas-praia-prejudical-ambiente-2182679"
+            "title": "“Sei que é um <em>cliché</em>, mas gostava de repetir o dia do meu casamento”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/impar/noticia/sei-cliche-gostava-repetir-dia-casamento-2181440"
         }
     ],
     "finance": [],
-    "last_update": "30/07/2026 07:26"
+    "last_update": "30/07/2026 10:10"
 }
