@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.4,
         "manha": 21.1,
-        "tarde": 29.1,
-        "noite": 22.9
+        "tarde": 29.3,
+        "noite": 23.0
     },
     "forecast": {
-        "max": 30.5,
-        "min": 19.5
+        "max": 30.3,
+        "min": 19.6
     },
     "news": [
         {
-            "title": "A busca pela terra fértil da AIMA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/publico-brasil/opiniao/busca-terra-fertil-aima-2183647"
+            "title": "Esta sexta, Portugal celebra o seu primeiro Dia Nacional da Vinha e do Vinho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/fugas/noticia/sexta-portugal-celebra-dia-nacional-vinha-vinho-2183664"
         },
         {
-            "title": "Terminam hoje as inscrições para a época especial de exames",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/sociedade/noticia/terminam-hoje-inscricoes-epoca-especial-exames-2183649"
+            "title": "O que fazer neste fim-de-semana? Passeios com luz, marisco e tasquinhas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/fugas/noticia/neste-fimdesemana-passeios-jazz-luzes-marisco-2183527"
         },
         {
-            "title": "O <em>boom</em> dos produtos controversos que alegam ajudar a tratar insónias e enxaquecas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/ciencia/noticia/boom-produtos-controversos-alegam-ajudar-tratar-insonias-enxaquecas-2183625"
+            "title": "“Seca-relâmpago” alastra em Inglaterra e restrições à água afectam mais de 20 milhões",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/azul/noticia/secarelampago-alastra-inglaterra-restricoes-agua-afectam-20-milhoes-2183656"
         },
         {
-            "title": "Gasóleo deverá subir dois cêntimos e gasolina baixar um cêntimo na próxima semana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/economia/noticia/gasoleo-devera-subir-dois-centimos-gasolina-baixar-centimo-proxima-semana-2183644"
+            "title": "Exames nacionais: Provedoria de Justiça entende como adequadas medidas para minimizar falhas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/sociedade/noticia/exames-nacionais-provedoria-justica-entende-adequadas-medidas-minimizar-falhas-2183663"
         },
         {
-            "title": "Espanha estima que chegaram a Ceuta cerca de 49 mil migrantes, Sánchez está no local",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/mundo/noticia/espanha-estima-chegaram-ceuta-cerca-49-mil-migrantes-sanchez-local-2183641"
+            "title": "Parlamento marca debate sobre exames para dia 3, audição a Luís Neves rejeitada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/politica/noticia/parlamento-marca-debate-exames-dia-3-audicao-luis-neves-rejeitada-2183662"
         }
     ],
     "finance": [],
-    "last_update": "31/07/2026 11:18"
+    "last_update": "31/07/2026 13:29"
 }
