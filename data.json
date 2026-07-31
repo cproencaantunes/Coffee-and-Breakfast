@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.4,
-        "manha": 21.4,
-        "tarde": 29.7,
-        "noite": 23.5
+        "manha": 21.1,
+        "tarde": 29.2,
+        "noite": 22.7
     },
     "forecast": {
-        "max": 30.6,
-        "min": 19.6
+        "max": 30.1,
+        "min": 19.5
     },
     "news": [
         {
-            "title": "Crise migratória em Ceuta: Itália quer Espanha suspensa da zona Schengen",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/mundo/noticia/milhares-migrantes-entram-ceuta-italia-pede-suspensao-espanhola-schengen-2183619"
+            "title": "Do piano de Joachim Kühn aos vibrantes SML, assim se fará este Jazz em Agosto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/culturaipsilon/noticia/piano-joachim-kuhn-vibrantes-sml-assim-fara-jazz-agosto-2183554"
         },
         {
-            "title": "O \"assalto\" ao Chega é um assalto à democracia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/newsletter/diarios-republica"
+            "title": "Economia europeia surpreende e torna subida de juros mais provável",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/economia/noticia/economia-europeia-surpreende-torna-subida-juros-provavel-2183586"
         },
         {
-            "title": "Trump anuncia acordo de desarmamento do Hamas, Israel sinaliza reservas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/mundo/noticia/trump-anuncia-acordo-desarmamento-hamas-israel-sinaliza-reservas-2183615"
+            "title": "Segundo semestre de crescimento ligeiro já garante variação do PIB de 2% neste ano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/economia/noticia/segundo-semestre-crescimento-ligeiro-ja-garante-variacao-pib-2-neste-ano-2183574"
         },
         {
-            "title": "O lado do mal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/opiniao/opiniao/lado-mal-2183593"
+            "title": "Crédito à habitação: regras apertam mas há boas notícias para quem tem 30-35 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/economia/noticia/credito-habitacao-regras-apertam-ha-boas-noticias-3035-anos-2183583"
         },
         {
-            "title": "<em>Deepfakes</em>: a partir de agosto, a inteligência artificial terá de se identificar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/opiniao/opiniao/deepfakes-partir-agosto-inteligencia-artificial-tera-identificar-2183509"
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/opiniao/opiniao/cartas-director-2183589"
         }
     ],
     "finance": [],
-    "last_update": "31/07/2026 01:47"
+    "last_update": "31/07/2026 05:23"
 }
