@@ -1,8 +1,8 @@
 {
     "weather": {
         "atual": 20.4,
-        "manha": 21.1,
-        "tarde": 29.2,
+        "manha": 21.0,
+        "tarde": 29.1,
         "noite": 22.7
     },
     "forecast": {
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Do piano de Joachim Kühn aos vibrantes SML, assim se fará este Jazz em Agosto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/culturaipsilon/noticia/piano-joachim-kuhn-vibrantes-sml-assim-fara-jazz-agosto-2183554"
+            "title": "“As mulheres nunca são vistas como agricultoras. Parece que nem existimos”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/economia/noticia/mulheres-sao-vistas-agricultoras-parece-existimos-2183531"
         },
         {
-            "title": "Economia europeia surpreende e torna subida de juros mais provável",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/economia/noticia/economia-europeia-surpreende-torna-subida-juros-provavel-2183586"
+            "title": "Franco Baresi, lenda do AC Milan e do futebol italiano, morre aos 66 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/desporto/noticia/franco-baresi-lenda-ac-milan-futebol-italiano-morre-66-anos-2183624"
         },
         {
-            "title": "Segundo semestre de crescimento ligeiro já garante variação do PIB de 2% neste ano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/economia/noticia/segundo-semestre-crescimento-ligeiro-ja-garante-variacao-pib-2-neste-ano-2183574"
+            "title": "Quase mil operacionais combatem fogo em Valpaços, Mirandela e Vinhais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/azul/noticia/quase-mil-operacionais-combatem-fogo-valpacos-mirandela-vinhais-2183620"
         },
         {
-            "title": "Crédito à habitação: regras apertam mas há boas notícias para quem tem 30-35 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/economia/noticia/credito-habitacao-regras-apertam-ha-boas-noticias-3035-anos-2183583"
+            "title": "Ex-diretor da PJ Almeida Rodrigues refuta críticas do ministro da Administração Interna",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/sociedade/noticia/exdiretor-pj-almeida-rodrigues-refuta-criticas-ministro-administracao-interna-2183623"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/opiniao/opiniao/cartas-director-2183589"
+            "title": "Cientistas criam primeira lista dos líquenes de Portugal. Há mais de 2000 espécies",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/azul/noticia/cientistas-criam-primeira-lista-liquenes-portugal-ha-2000-especies-2183415"
         }
     ],
     "finance": [],
-    "last_update": "31/07/2026 05:23"
+    "last_update": "31/07/2026 08:31"
 }
