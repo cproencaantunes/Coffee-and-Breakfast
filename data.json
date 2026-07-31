@@ -3,13 +3,21 @@
         "atual": 20.4,
         "manha": 21.1,
         "tarde": 29.6,
-        "noite": 22.8
+        "noite": 23.3
     },
     "forecast": {
         "max": 30.5,
-        "min": 19.4
+        "min": 19.5
     },
     "news": [
+        {
+            "title": "Comissão independente conclui que reformas pós-2017 falharam e país continua vulnerável a megaincêndios",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/azul/noticia/comissao-independente-conclui-reformas-pos2017-falharam-pais-continua-vulneravel-megaincendios-2183727"
+        },
+        {
+            "title": "Fundo para indemnizar aliados políticos de Trump já não vai avançar, admite Presidente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/mundo/noticia/fundo-indemnizar-aliados-politicos-trump-ja-nao-vai-avancar-admite-presidente-2183728"
+        },
         {
             "title": "Novos estatutos do INEM prevêem quatro CODU em vez de delegações regionais",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/sociedade/noticia/novos-estatutos-inem-preveem-quatro-codu-delegacoes-regionais-2183717"
@@ -21,16 +29,8 @@
         {
             "title": "Letícia Carvalho: “O pior seria não haver regulação e cada um extrair minérios do fundo do mar”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/azul/entrevista/leticia-carvalho-pior-nao-haver-regulacao-extrair-minerios-fundo-mar-2183581"
-        },
-        {
-            "title": "O amor é cego, a amizade fecha os olhos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/p3/cronica/amor-cego-amizade-fecha-olhos-2183557"
-        },
-        {
-            "title": "A empresa que está a transformar a guerra de longo alcance da Ucrânia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/mundo/noticia/empresa-transformar-guerra-longo-alcance-ucrania-2183164"
         }
     ],
     "finance": [],
-    "last_update": "31/07/2026 20:52"
+    "last_update": "31/07/2026 21:55"
 }
