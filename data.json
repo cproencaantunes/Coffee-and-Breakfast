@@ -1,8 +1,8 @@
 {
     "weather": {
-        "atual": 20.5,
-        "manha": 21.5,
-        "tarde": 29.6,
+        "atual": 20.4,
+        "manha": 21.4,
+        "tarde": 29.7,
         "noite": 23.5
     },
     "forecast": {
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Bruxelas abre concurso para sete “gigafábricas” de IA na Europa, com Portugal na corrida",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/enter/noticia/bruxelas-abre-concurso-sete-gigafabricas-ia-europa-portugal-corrida-2183584"
+            "title": "Crise migratória em Ceuta: Itália quer Espanha suspensa da zona Schengen",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/mundo/noticia/milhares-migrantes-entram-ceuta-italia-pede-suspensao-espanhola-schengen-2183619"
         },
         {
-            "title": "Não há atrelados grátis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/opiniao/opiniao/nao-ha-atrelados-gratis-2183547"
+            "title": "O \"assalto\" ao Chega é um assalto à democracia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/newsletter/diarios-republica"
         },
         {
-            "title": "Arranque das aulas adiado e outras datas que não dão descanso a muitos professores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/newsletter/educacao"
+            "title": "Trump anuncia acordo de desarmamento do Hamas, Israel sinaliza reservas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/mundo/noticia/trump-anuncia-acordo-desarmamento-hamas-israel-sinaliza-reservas-2183615"
         },
         {
-            "title": "Míssil balístico russo destrói fábrica norte-americana de <em>drones</em> em Kiev",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/mundo/noticia/missil-balistico-russo-destroi-fabrica-norteamericana-drones-kiev-2183602"
+            "title": "O lado do mal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/opiniao/opiniao/lado-mal-2183593"
         },
         {
-            "title": "Crise climática tornou incêndios em Espanha 20 vezes mais prováveis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/30/azul/noticia/crise-climatica-tornou-incendios-espanha-20-vezes-provaveis-2183549"
+            "title": "<em>Deepfakes</em>: a partir de agosto, a inteligência artificial terá de se identificar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/opiniao/opiniao/deepfakes-partir-agosto-inteligencia-artificial-tera-identificar-2183509"
         }
     ],
     "finance": [],
-    "last_update": "30/07/2026 23:03"
+    "last_update": "31/07/2026 01:47"
 }
