@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.4,
-        "manha": 21.0,
+        "manha": 21.1,
         "tarde": 29.1,
-        "noite": 22.7
+        "noite": 22.9
     },
     "forecast": {
-        "max": 30.1,
+        "max": 30.5,
         "min": 19.5
     },
     "news": [
         {
-            "title": "“As mulheres nunca são vistas como agricultoras. Parece que nem existimos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/economia/noticia/mulheres-sao-vistas-agricultoras-parece-existimos-2183531"
+            "title": "A busca pela terra fértil da AIMA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/publico-brasil/opiniao/busca-terra-fertil-aima-2183647"
         },
         {
-            "title": "Franco Baresi, lenda do AC Milan e do futebol italiano, morre aos 66 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/desporto/noticia/franco-baresi-lenda-ac-milan-futebol-italiano-morre-66-anos-2183624"
+            "title": "Terminam hoje as inscrições para a época especial de exames",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/sociedade/noticia/terminam-hoje-inscricoes-epoca-especial-exames-2183649"
         },
         {
-            "title": "Quase mil operacionais combatem fogo em Valpaços, Mirandela e Vinhais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/azul/noticia/quase-mil-operacionais-combatem-fogo-valpacos-mirandela-vinhais-2183620"
+            "title": "O <em>boom</em> dos produtos controversos que alegam ajudar a tratar insónias e enxaquecas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/ciencia/noticia/boom-produtos-controversos-alegam-ajudar-tratar-insonias-enxaquecas-2183625"
         },
         {
-            "title": "Ex-diretor da PJ Almeida Rodrigues refuta críticas do ministro da Administração Interna",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/sociedade/noticia/exdiretor-pj-almeida-rodrigues-refuta-criticas-ministro-administracao-interna-2183623"
+            "title": "Gasóleo deverá subir dois cêntimos e gasolina baixar um cêntimo na próxima semana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/economia/noticia/gasoleo-devera-subir-dois-centimos-gasolina-baixar-centimo-proxima-semana-2183644"
         },
         {
-            "title": "Cientistas criam primeira lista dos líquenes de Portugal. Há mais de 2000 espécies",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/azul/noticia/cientistas-criam-primeira-lista-liquenes-portugal-ha-2000-especies-2183415"
+            "title": "Espanha estima que chegaram a Ceuta cerca de 49 mil migrantes, Sánchez está no local",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/07/31/mundo/noticia/espanha-estima-chegaram-ceuta-cerca-49-mil-migrantes-sanchez-local-2183641"
         }
     ],
     "finance": [],
-    "last_update": "31/07/2026 08:31"
+    "last_update": "31/07/2026 11:18"
 }
