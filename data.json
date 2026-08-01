@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.5,
         "manha": 21.2,
-        "tarde": 30.3,
-        "noite": 21.4
+        "tarde": 31.0,
+        "noite": 21.8
     },
     "forecast": {
-        "max": 28.4,
-        "min": 19.5
+        "max": 28.9,
+        "min": 19.4
     },
     "news": [
         {
-            "title": "Aeroporto: ANA entrega Estudo de Impacte Ambiental à APA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/economia/noticia/aeroporto-ana-entrega-estudo-impacte-ambiental-apa-2183762"
+            "title": "BE pede acesso a relatório de reforma das pensões e eventuais conflitos de interesse",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/politica/noticia/be-pede-acesso-relatorio-reforma-pensoes-eventuais-conflitos-interesse-2183764"
         },
         {
-            "title": "<em>Petal</em>, de Ariana Grande, é música para enterrar a princesa da criançada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/culturaipsilon/critica/petal-ariana-musica-enterrar-princesa-criancada-2183761"
+            "title": "Incêndios florestais e fumo: que riscos precisa de conhecer",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/azul/noticia/incendios-florestais-fumo-riscos-precisa-conhecer-2181945"
         },
         {
-            "title": "Ceuta não é o continente, e o Espaço Schengen não é um clube",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/publico-brasil/opiniao/ceuta-nao-continente-espaco-schengen-nao-clube-2183745"
+            "title": "Atriz brasileira grava novelas em Portugal, onde também é guia de turismo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/publico-brasil/noticia/atriz-brasileira-grava-novelas-portugal-onde-tambem-guia-turismo-2183697"
         },
         {
-            "title": "Embraer, dona da portuguesa OGMA, pode enfrentar Airbus e Boeing no futuro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/publico-brasil/noticia/embraer-dona-portuguesa-ogma-enfrentar-airbus-boeing-futuro-2183759"
+            "title": "Benfica oficializa saída de António Silva para o Bournemouth",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/desporto/noticia/benfica-oficializa-saida-antonio-silva-bournemouth-2183767"
         },
         {
-            "title": "Mau tempo: Autarquias descontentes com falta de verbas. Fundo de Emergência Municipal arranca este sábado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/politica/noticia/mau-tempo-autarquias-descontentes-falta-verbas-fundo-emergencia-municipal-arranca-sabado-2183751"
+            "title": "Na Roménia, matam-se cada vez mais ursos, mas a lei não é bem aplicada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/azul/noticia/romenia-matamse-ursos-lei-nao-bem-aplicada-2183763"
         }
     ],
     "finance": [],
-    "last_update": "01/08/2026 14:21"
+    "last_update": "01/08/2026 15:51"
 }
