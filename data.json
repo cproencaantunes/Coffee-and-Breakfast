@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.5,
-        "manha": 21.2,
-        "tarde": 31.0,
-        "noite": 22.1
+        "atual": 20.2,
+        "manha": 21.4,
+        "tarde": 28.4,
+        "noite": 22.0
     },
     "forecast": {
-        "max": 28.5,
+        "max": 25.6,
         "min": 19.7
     },
     "news": [
         {
-            "title": "Três mortos e 21 feridos em explosão de bomba artesanal nos arredores de Moscovo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/mundo/noticia/tres-mortos-21-feridos-explosao-bomba-artesanal-arredores-moscovo-2183787"
+            "title": "“A essência da infância foi destruída.” Israel, um Estado infanticida",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/opiniao/opiniao/essencia-infancia-destruida-israel-estado-infanticida-2183494"
         },
         {
-            "title": "Problemas técnicos fazem avião da TAP com destino a Curitiba regressar a Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/publico-brasil/noticia/problemas-tecnicos-fazem-aviao-tap-destino-curitiba-regressar-lisboa-2183785"
+            "title": "Universidade com futuro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/opiniao/opiniao/universidade-futuro-2183375"
         },
         {
-            "title": "O FC Porto não deu espaço para surpresas e venceu a Supertaça",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/desporto/cronica_de_jogo/fc-porto-nao-deu-espaco-surpresas-venceu-supertaca-2183786"
+            "title": "O sucesso gosta de companhia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/opiniao/opiniao/sucesso-gosta-companhia-2183403"
         },
         {
-            "title": "Peru: treze pessoas morrem em queda de avião sobre as Linhas de Nazca",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/mundo/noticia/peru-treze-pessoas-morrem-queda-aviao-linhas-nazca-2183784"
+            "title": "O futebol é do povo, não é da FIFA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/opiniao/opiniao/futebol-povo-nao-fifa-2183753"
         },
         {
-            "title": "Encontrados corpos de nove dos dez alpinistas desaparecidos no Paquistão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/mundo/noticia/encontrados-corpos-nove-dez-alpinistas-desaparecidos-paquistao-2183783"
+            "title": "As reformas estruturais de Fernando Alexandre",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/opiniao/opiniao/reformas-estruturais-fernando-alexandre-2183362"
         }
     ],
     "finance": [],
-    "last_update": "01/08/2026 22:43"
+    "last_update": "01/08/2026 23:46"
 }
