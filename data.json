@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.5,
-        "manha": 21.2,
+        "manha": 21.3,
         "tarde": 30.6,
-        "noite": 21.4
+        "noite": 21.6
     },
     "forecast": {
-        "max": 28.1,
-        "min": 19.6
+        "max": 28.2,
+        "min": 19.7
     },
     "news": [
         {
+            "title": "Travão nas cirurgias: hospitais de Santa Maria e de Braga registam quebras de 30%",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/sociedade/noticia/travao-cirurgias-hospitais-santa-maria-braga-registam-quebras-30-2183701"
+        },
+        {
+            "title": "Novas regras vão abrandar novo crédito para a casa, mas não são “impedimento radical”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/economia/noticia/novas-regras-vao-abrandar-novo-credito-casa-nao-sao-impedimento-radical-2183677"
+        },
+        {
+            "title": "Baresi, Infantino e o fim do futebol",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/opiniao/editorial/baresi-infantino-fim-futebol-2183660"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/opiniao/opiniao/cartas-director-2183704"
+        },
+        {
             "title": "FIFA abandona plano de vender Mundial de futebol após resistência dos membros",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/desporto/noticia/fifa-abandona-plano-vender-mundial-futebol-apos-resistencia-membros-2183735"
-        },
-        {
-            "title": "Wim Wenders cede a Nastassja Kinski e oficializa corte em <em>Movimento em Falso</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/culturaipsilon/noticia/wim-wenders-cede-nastassja-kinski-oficializa-corte-movimento-falso-2183732"
-        },
-        {
-            "title": "O aeroporto que serve Lisboa, mas pode falhar ao país",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/opiniao/opiniao/aeroporto-serve-lisboa-falhar-pais-2183667"
-        },
-        {
-            "title": "Proibir não é educar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/opiniao/opiniao/proibir-nao-educar-2183719"
-        },
-        {
-            "title": "Os “teóricos” da educação também são a favor da inovação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/opiniao/opiniao/teoricos-educacao-tambem-sao-favor-inovacao-2183012"
         }
     ],
     "finance": [],
-    "last_update": "01/08/2026 01:48"
+    "last_update": "01/08/2026 05:16"
 }
