@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.5,
-        "manha": 21.3,
-        "tarde": 30.6,
-        "noite": 21.6
+        "manha": 21.4,
+        "tarde": 30.5,
+        "noite": 21.7
     },
     "forecast": {
         "max": 28.2,
-        "min": 19.7
+        "min": 19.6
     },
     "news": [
         {
-            "title": "Travão nas cirurgias: hospitais de Santa Maria e de Braga registam quebras de 30%",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/sociedade/noticia/travao-cirurgias-hospitais-santa-maria-braga-registam-quebras-30-2183701"
+            "title": "Massive Attack banidos de Singapura após exibição de bandeira da Palestina",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/culturaipsilon/noticia/massive-attack-banidos-singapura-apos-exibicao-bandeira-palestina-2183739"
         },
         {
-            "title": "Novas regras vão abrandar novo crédito para a casa, mas não são “impedimento radical”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/economia/noticia/novas-regras-vao-abrandar-novo-credito-casa-nao-sao-impedimento-radical-2183677"
+            "title": "Do livro ao território: diáspora, corpo e pertencimento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/publico-brasil/opiniao/livro-territorio-diaspora-corpo-pertencimento-2183740"
         },
         {
-            "title": "Baresi, Infantino e o fim do futebol",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/opiniao/editorial/baresi-infantino-fim-futebol-2183660"
+            "title": "Incêndio de Valpaços dado como dominado pela Protecção Civil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/azul/noticia/incendio-valpacos-dado-dominado-proteccao-civil-2183737"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/opiniao/opiniao/cartas-director-2183704"
+            "title": "Mísseis balísticos russos matam pelo menos nove pessoas em Kiev",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/mundo/noticia/misseis-balisticos-russos-matam-menos-nove-pessoas-kiev-2183736"
         },
         {
-            "title": "FIFA abandona plano de vender Mundial de futebol após resistência dos membros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/desporto/noticia/fifa-abandona-plano-vender-mundial-futebol-apos-resistencia-membros-2183735"
+            "title": "O conflito também faz parte da adaptação do litoral",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/azul/opiniao/conflito-tambem-faz-parte-adaptacao-litoral-2183700"
         }
     ],
     "finance": [],
-    "last_update": "01/08/2026 05:16"
+    "last_update": "01/08/2026 08:01"
 }
