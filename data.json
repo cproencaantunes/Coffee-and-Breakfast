@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.5,
-        "manha": 21.4,
-        "tarde": 30.5,
-        "noite": 21.7
+        "manha": 21.2,
+        "tarde": 30.3,
+        "noite": 21.6
     },
     "forecast": {
-        "max": 28.2,
+        "max": 28.5,
         "min": 19.6
     },
     "news": [
         {
-            "title": "Massive Attack banidos de Singapura após exibição de bandeira da Palestina",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/culturaipsilon/noticia/massive-attack-banidos-singapura-apos-exibicao-bandeira-palestina-2183739"
+            "title": "Ana Galvão: “Surpreendo-me sempre que me reconhecem por causa das <em>Três da Manhã</em>”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/impar/noticia/ana-galvao-surpreendome-reconhecem-causa-tres-manha-2181472"
         },
         {
-            "title": "Do livro ao território: diáspora, corpo e pertencimento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/publico-brasil/opiniao/livro-territorio-diaspora-corpo-pertencimento-2183740"
+            "title": "Lago Sevan, o pequeno mar da Arménia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/fugas/reportagem/lago-sevan-mar-armenia-2183108"
         },
         {
-            "title": "Incêndio de Valpaços dado como dominado pela Protecção Civil",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/azul/noticia/incendio-valpacos-dado-dominado-proteccao-civil-2183737"
+            "title": "Agostinho Neto: traficante de poemas e lutador de palavras tornado mito",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/mundo/noticia/agostinho-neto-traficante-poemas-lutador-palavras-tornado-mito-2183359"
         },
         {
-            "title": "Mísseis balísticos russos matam pelo menos nove pessoas em Kiev",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/mundo/noticia/misseis-balisticos-russos-matam-menos-nove-pessoas-kiev-2183736"
+            "title": "Jovens voluntários recuperam casas afectadas pela tempestade <em>Kristin</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/local/noticia/jovens-voluntarios-recuperam-casas-afectadas-tempestade-kristin-2183679"
         },
         {
-            "title": "O conflito também faz parte da adaptação do litoral",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/azul/opiniao/conflito-tambem-faz-parte-adaptacao-litoral-2183700"
+            "title": "Pára!Bento, a mercearia de Vila do Conde que é um ponto de encontro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/fugas/noticia/parabento-mercearia-vila-conde-ponto-encontro-2183690"
         }
     ],
     "finance": [],
-    "last_update": "01/08/2026 08:01"
+    "last_update": "01/08/2026 10:25"
 }
