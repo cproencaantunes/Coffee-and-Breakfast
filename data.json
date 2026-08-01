@@ -6,10 +6,18 @@
         "noite": 21.8
     },
     "forecast": {
-        "max": 28.9,
-        "min": 19.4
+        "max": 28.7,
+        "min": 19.6
     },
     "news": [
+        {
+            "title": "Empresários buscam aprendizado para tirar proveito do acordo entre Mercosul e UE",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/publico-brasil/noticia/empresarios-buscam-aprendizado-tirar-proveito-acordo-mercosul-ue-2183755"
+        },
+        {
+            "title": "Incêndio em Mesão Frio combatido por 140 bombeiros e 11 aeronaves",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/azul/noticia/incendio-mesao-frio-combatido-140-bombeiros-11-aeronaves-2183778"
+        },
         {
             "title": "Perderam-lhe folhas do exame. Tribunal dá 48 horas ao Ministério da Educação para resolver a questão",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/sociedade/noticia/perderamlhe-folhas-exame-tribunal-48-horas-ministerio-resolver-questao-2183776"
@@ -21,16 +29,8 @@
         {
             "title": "<em>Herói</em>, <em>Cayë</em> e <em>Goofy</em> atenuam a solidão dos idosos de Penacova. “A gente distrai-se um bocadinho com o cão”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/local/reportagem/heroi-caye-goofy-atenuam-solidao-idosos-penacova-gente-distraise-bocadinho-cao-2183595"
-        },
-        {
-            "title": "As roças de São Tomé e Príncipe são património mundial: e agora?!",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/culturaipsilon/opiniao/rocas-sao-tome-principe-sao-patrimonio-mundial-2183292"
-        },
-        {
-            "title": "Sismo de magnitude 4,7 atinge zona de Nápoles e faz pelo menos 21 feridos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/mundo/noticia/sismo-magnitude-47-atinge-zona-napoles-faz-menos-21-feridos-2183765"
         }
     ],
     "finance": [],
-    "last_update": "01/08/2026 17:51"
+    "last_update": "01/08/2026 18:52"
 }
