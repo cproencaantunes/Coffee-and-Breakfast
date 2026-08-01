@@ -3,13 +3,17 @@
         "atual": 20.5,
         "manha": 21.2,
         "tarde": 31.0,
-        "noite": 21.8
+        "noite": 22.1
     },
     "forecast": {
-        "max": 28.7,
-        "min": 19.6
+        "max": 28.5,
+        "min": 19.7
     },
     "news": [
+        {
+            "title": "Três mortos e 21 feridos em explosão de bomba artesanal nos arredores de Moscovo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/mundo/noticia/tres-mortos-21-feridos-explosao-bomba-artesanal-arredores-moscovo-2183787"
+        },
         {
             "title": "Problemas técnicos fazem avião da TAP com destino a Curitiba regressar a Lisboa",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/publico-brasil/noticia/problemas-tecnicos-fazem-aviao-tap-destino-curitiba-regressar-lisboa-2183785"
@@ -25,12 +29,8 @@
         {
             "title": "Encontrados corpos de nove dos dez alpinistas desaparecidos no Paquistão",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/mundo/noticia/encontrados-corpos-nove-dez-alpinistas-desaparecidos-paquistao-2183783"
-        },
-        {
-            "title": "Uma piada é uma piada é uma piada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/p3/cronica/piada-piada-piada-2183573"
         }
     ],
     "finance": [],
-    "last_update": "01/08/2026 21:43"
+    "last_update": "01/08/2026 22:43"
 }
