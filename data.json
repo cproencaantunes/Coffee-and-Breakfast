@@ -1,8 +1,8 @@
 {
     "weather": {
-        "atual": 20.6,
-        "manha": 21.3,
-        "tarde": 30.5,
+        "atual": 20.5,
+        "manha": 21.2,
+        "tarde": 30.6,
         "noite": 21.4
     },
     "forecast": {
@@ -10,6 +10,10 @@
         "min": 19.6
     },
     "news": [
+        {
+            "title": "FIFA abandona plano de vender Mundial de futebol após resistência dos membros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/desporto/noticia/fifa-abandona-plano-vender-mundial-futebol-apos-resistencia-membros-2183735"
+        },
         {
             "title": "Wim Wenders cede a Nastassja Kinski e oficializa corte em <em>Movimento em Falso</em>",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/culturaipsilon/noticia/wim-wenders-cede-nastassja-kinski-oficializa-corte-movimento-falso-2183732"
@@ -25,12 +29,8 @@
         {
             "title": "Os “teóricos” da educação também são a favor da inovação",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/opiniao/opiniao/teoricos-educacao-tambem-sao-favor-inovacao-2183012"
-        },
-        {
-            "title": "Reformar sem rumo não é reformar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/01/opiniao/opiniao/reformar-rumo-nao-reformar-2183378"
         }
     ],
     "finance": [],
-    "last_update": "31/07/2026 23:52"
+    "last_update": "01/08/2026 01:48"
 }
