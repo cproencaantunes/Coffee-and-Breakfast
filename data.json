@@ -6,10 +6,14 @@
         "noite": 22.0
     },
     "forecast": {
-        "max": 25.7,
+        "max": 25.8,
         "min": 19.5
     },
     "news": [
+        {
+            "title": "Incêndios: linha do Norte cortada nos dois sentidos em Vila Franca de Xira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/sociedade/noticia/incendios-linha-norte-cortada-dois-sentidos-vila-franca-xira-2183833"
+        },
         {
             "title": "Tribunal de Contas recebido em Belém, após pedido de audiência a Seguro",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/politica/noticia/tribunal-contas-recebido-belem-apos-pedido-audiencia-seguro-2183829"
@@ -24,13 +28,9 @@
         },
         {
             "title": "Ao terceiro dia, Ceuta recusou uma segunda invasão: a da extrema-direita",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/mundo/noticia/terceiro-dia-ceuta-recusou-segunda-invasao-extremadireita-2183826"
-        },
-        {
-            "title": "Fracassar no sucesso, triunfar no fracasso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/p3/cronica/fracassar-sucesso-triunfar-fracasso-2183568"
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/mundo/reportagem/terceiro-dia-ceuta-recusou-segunda-invasao-extremadireita-2183826"
         }
     ],
     "finance": [],
-    "last_update": "02/08/2026 21:43"
+    "last_update": "02/08/2026 22:43"
 }
