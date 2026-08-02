@@ -2,14 +2,26 @@
     "weather": {
         "atual": 20.2,
         "manha": 21.5,
-        "tarde": 28.6,
-        "noite": 22.2
+        "tarde": 28.4,
+        "noite": 22.0
     },
     "forecast": {
         "max": 25.8,
-        "min": 19.7
+        "min": 19.6
     },
     "news": [
+        {
+            "title": "Morreu Vincent Pastore (1946-2026), o braço-direito traidor d’<em>Os Sopranos</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/culturaipsilon/noticia/morreu-vincent-pastore-19462026-bracodireito-traidor-sopranos-2183798"
+        },
+        {
+            "title": "Zeinal Bava doou apartamentos no Chiado aos filhos antes do arresto da Pharol",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/economia/noticia/zeinal-bava-doou-apartamentos-chiado-filhos-arresto-pharol-2183794"
+        },
+        {
+            "title": "Governo lança primeiros avisos de financiamento do Fundo para a Mobilidade e Transportes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/economia/noticia/governo-lanca-avisos-financiamento-fundo-mobilidade-transportes-2183797"
+        },
         {
             "title": "Omakase Wa em Lisboa: a beleza da imperfeição e a alegria de sermos humanos num balcão japonês",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/fugas/reportagem/omakase-wa-lisboa-beleza-imperfeicao-alegria-sermos-humanos-balcao-japones-2183178"
@@ -17,20 +29,8 @@
         {
             "title": "Alcione é madrinha da Festa de Santa Bárbara, que acontece em setembro em Lisboa",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/publico-brasil/noticia/alcione-madrinha-festa-santa-barbara-acontece-setembro-lisboa-2183750"
-        },
-        {
-            "title": "Alfa Romeo Junior Q4 Intensa em teste: o SUV citadino que também gosta de aventura",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/fugas/noticia/alfa-romeo-junior-q4-intensa-teste-suv-citadino-tambem-gosta-aventura-2183036"
-        },
-        {
-            "title": "Ucrânia e Irão: guerras entrecruzadas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/mundo/opiniao/ucrania-irao-guerras-entrecruzadas-2183643"
-        },
-        {
-            "title": "Ponderação, fechar a boca",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/newsletter/impar"
         }
     ],
     "finance": [],
-    "last_update": "02/08/2026 11:52"
+    "last_update": "02/08/2026 12:56"
 }
