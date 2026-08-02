@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.2,
         "manha": 21.5,
-        "tarde": 28.5,
-        "noite": 22.4
+        "tarde": 28.4,
+        "noite": 22.2
     },
     "forecast": {
         "max": 26.1,
-        "min": 19.5
+        "min": 19.6
     },
     "news": [
         {
-            "title": "Zelensky, o nosso “herói-poeta”, foi a Washington",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/opiniao/opiniao/zelensky-heroipoeta-washington-2183760"
+            "title": "Microviagem: a arte de viajar a dois passos de casa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/impar/cronica/microviagem-arte-viajar-dois-passos-casa-2183610"
         },
         {
-            "title": "No partido das comissões de inquérito",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/opiniao/editorial/partido-comissoes-inquerito-2183772"
+            "title": "Falta mão de obra em Portugal, mas brasileiros qualificados ficam de fora",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/publico-brasil/noticia/falta-mao-obra-portugal-brasileiros-qualificados-ficam-2183769"
         },
         {
-            "title": "PS tem reservas sobre decreto da PSU e admite forçar debate no Parlamento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/politica/noticia/ps-reservas-decreto-psu-admite-forcar-debate-parlamento-2183775"
+            "title": "Criança de 14 meses atropelada no Bombarral fica em estado grave",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/sociedade/noticia/crianca-14-meses-atropelada-bombarral-fica-estado-grave-2183791"
         },
         {
-            "title": "Os cruzados portugueses que lutaram pela “libertação de Espanha”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/mundo/investigacao/cruzados-portugueses-lutaram-libertacao-espanha-2183114"
+            "title": "Kozo Okamoto (1947-2026), uma vida sem sentido",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/opiniao/cronica/kozo-okamoto-19472026-vida-sentido-2183613"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/opiniao/opiniao/cartas-director-2183729"
+            "title": "Obtida primeira prova genética da exportação de varíola da Europa para a América",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/ciencia/noticia/obtida-primeira-prova-genetica-exportacao-variola-europa-america-2183507"
         }
     ],
     "finance": [],
-    "last_update": "02/08/2026 05:15"
+    "last_update": "02/08/2026 08:03"
 }
