@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.2,
         "manha": 21.5,
-        "tarde": 28.4,
+        "tarde": 28.6,
         "noite": 22.2
     },
     "forecast": {
-        "max": 26.1,
-        "min": 19.6
+        "max": 25.8,
+        "min": 19.7
     },
     "news": [
         {
+            "title": "Alfa Romeo Junior Q4 Intensa em teste: o SUV citadino que também gosta de aventura",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/fugas/noticia/alfa-romeo-junior-q4-intensa-teste-suv-citadino-tambem-gosta-aventura-2183036"
+        },
+        {
+            "title": "Ucrânia e Irão: guerras entrecruzadas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/mundo/opiniao/ucrania-irao-guerras-entrecruzadas-2183643"
+        },
+        {
+            "title": "Ponderação, fechar a boca",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/newsletter/impar"
+        },
+        {
+            "title": "Trabalhos na área da sustentabilidade ainda são “invisíveis” para os jovens",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/p3/noticia/trabalhos-area-sustentabilidade-sao-invisiveis-jovens-2183308"
+        },
+        {
             "title": "Microviagem: a arte de viajar a dois passos de casa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/impar/cronica/microviagem-arte-viajar-dois-passos-casa-2183610"
-        },
-        {
-            "title": "Falta mão de obra em Portugal, mas brasileiros qualificados ficam de fora",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/publico-brasil/noticia/falta-mao-obra-portugal-brasileiros-qualificados-ficam-2183769"
-        },
-        {
-            "title": "Criança de 14 meses atropelada no Bombarral fica em estado grave",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/sociedade/noticia/crianca-14-meses-atropelada-bombarral-fica-estado-grave-2183791"
-        },
-        {
-            "title": "Kozo Okamoto (1947-2026), uma vida sem sentido",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/opiniao/cronica/kozo-okamoto-19472026-vida-sentido-2183613"
-        },
-        {
-            "title": "Obtida primeira prova genética da exportação de varíola da Europa para a América",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/ciencia/noticia/obtida-primeira-prova-genetica-exportacao-variola-europa-america-2183507"
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/impar/opiniao/microviagem-arte-viajar-dois-passos-casa-2183610"
         }
     ],
     "finance": [],
-    "last_update": "02/08/2026 08:03"
+    "last_update": "02/08/2026 10:24"
 }
