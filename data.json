@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.2,
-        "manha": 21.3,
-        "tarde": 28.3,
-        "noite": 22.1
+        "manha": 21.5,
+        "tarde": 28.5,
+        "noite": 22.4
     },
     "forecast": {
-        "max": 25.6,
-        "min": 19.7
+        "max": 26.1,
+        "min": 19.5
     },
     "news": [
         {
-            "title": "“A essência da infância foi destruída.” Israel, um Estado infanticida",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/opiniao/opiniao/essencia-infancia-destruida-israel-estado-infanticida-2183494"
+            "title": "Zelensky, o nosso “herói-poeta”, foi a Washington",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/opiniao/opiniao/zelensky-heroipoeta-washington-2183760"
         },
         {
-            "title": "Universidade com futuro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/opiniao/opiniao/universidade-futuro-2183375"
+            "title": "No partido das comissões de inquérito",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/opiniao/editorial/partido-comissoes-inquerito-2183772"
         },
         {
-            "title": "O sucesso gosta de companhia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/opiniao/opiniao/sucesso-gosta-companhia-2183403"
+            "title": "PS tem reservas sobre decreto da PSU e admite forçar debate no Parlamento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/politica/noticia/ps-reservas-decreto-psu-admite-forcar-debate-parlamento-2183775"
         },
         {
-            "title": "O futebol é do povo, não é da FIFA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/opiniao/opiniao/futebol-povo-nao-fifa-2183753"
+            "title": "Os cruzados portugueses que lutaram pela “libertação de Espanha”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/mundo/investigacao/cruzados-portugueses-lutaram-libertacao-espanha-2183114"
         },
         {
-            "title": "As reformas estruturais de Fernando Alexandre",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/opiniao/opiniao/reformas-estruturais-fernando-alexandre-2183362"
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/opiniao/opiniao/cartas-director-2183729"
         }
     ],
     "finance": [],
-    "last_update": "02/08/2026 01:45"
+    "last_update": "02/08/2026 05:15"
 }
