@@ -6,10 +6,22 @@
         "noite": 22.0
     },
     "forecast": {
-        "max": 25.6,
-        "min": 19.3
+        "max": 25.7,
+        "min": 19.5
     },
     "news": [
+        {
+            "title": "Trump já pode invadir a Gronelândia à vontade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/opiniao/cronica/trump-ja-invadir-gronelandia-vontade-2183823"
+        },
+        {
+            "title": "AIMA diz que restam 30 mil de quase 1 milhão de processos: casos complexos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/publico-brasil/noticia/aima-restam-30-mil-quase-1-milhao-processos-casos-complexos-2183822"
+        },
+        {
+            "title": "Luís Neves juntou-se à lista de governantes investigados nos últimos 15 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/politica/noticia/luis-neves-juntouse-lista-governantes-investigados-ultimos-15-anos-2183413"
+        },
         {
             "title": "Ceuta e o europeísmo de conveniência",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/opiniao/opiniao/ceuta-europeismo-conveniencia-2183824"
@@ -17,20 +29,8 @@
         {
             "title": "Aluna de Penafiel ainda não tem nota do exame de Português: prova foi enviada sem classificação",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/sociedade/noticia/aluna-penafiel-nao-nota-exame-portugues-prova-enviada-classificacao-2183820"
-        },
-        {
-            "title": "Duas alunas com nota 20 no exame de Português explicam como o fizeram: equilíbrio e disciplina",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/sociedade/noticia/duas-alunas-nota-20-exame-portugues-explicam-fizeram-equilibrio-disciplina-2183758"
-        },
-        {
-            "title": "Afinal, havia outros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/publico-brasil/opiniao/afinal-2183816"
-        },
-        {
-            "title": "Ceuta: morreram pelo menos 72 pessoas nos últimos dias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/02/mundo/noticia/ceuta-morreram-menos-72-pessoas-ultimos-dias-2183817"
         }
     ],
     "finance": [],
-    "last_update": "02/08/2026 17:52"
+    "last_update": "02/08/2026 18:52"
 }
