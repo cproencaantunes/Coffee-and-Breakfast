@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.5,
-        "manha": 21.7,
-        "tarde": 24.4,
-        "noite": 22.4
+        "atual": 21.2,
+        "manha": 22.1,
+        "tarde": 27.7,
+        "noite": 22.9
     },
     "forecast": {
-        "max": 27.6,
-        "min": 20.1
+        "max": 27.5,
+        "min": 20.5
     },
     "news": [
         {
-            "title": "Filme polaco <em>Permit</em> foi o grande vencedor do Festival de Cinema Avanca",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/culturaipsilon/noticia/filme-polaco-permit-vencedor-festival-cinema-avanca-2183948"
+            "title": "As razões erradas para defender Luís Neves",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/opiniao/opiniao/razoes-erradas-defender-luis-neves-2183877"
         },
         {
-            "title": "De granadas a espadas, sete apreensões insólitas nos aeroportos dos EUA neste Verão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/fugas/noticia/granadas-espadas-sete-apreensoes-insolitas-aeroportos-eua-neste-verao-2183946"
+            "title": "Decreto-Lei n.º 54/2018: quando a inclusão exige mais do que boas intenções",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/opiniao/opiniao/decretolei-n-542018-inclusao-exige-boas-intencoes-2183555"
         },
         {
-            "title": "Procuradoria Europeia investiga contratos feitos pela PJ sob direcção de Luís Neves",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/sociedade/noticia/procuradoria-europeia-investiga-contratos-pj-direccao-luis-neves-2183947"
+            "title": "O digital está a matar a essência dos exames",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/opiniao/opiniao/digital-matar-essencia-exames-2183880"
         },
         {
-            "title": "Testámos um ultraportátil cheio de estilo explicamos como ligar o telemóvel ao PC",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/video/testamos-ultraportatil-cheio-estilo-explicamos-ligar-telemovel-pc-20260803-221438"
+            "title": "Acabar com as trotinetas partilhadas é defender a mobilidade suave",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/opiniao/opiniao/acabar-trotinetas-partilhadas-defender-mobilidade-suave-2183896"
         },
         {
-            "title": "GNR procura idosa desaparecida em Carrazeda de Ansiães",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/local/noticia/gnr-procura-idosa-desaparecida-carrazeda-ansiaes-2183945"
+            "title": "Crise de imigração ou guerra híbrida?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/opiniao/opiniao/crise-imigracao-guerra-hibrida-2183909"
         }
     ],
     "finance": [],
-    "last_update": "03/08/2026 22:55"
+    "last_update": "03/08/2026 23:59"
 }
