@@ -3,13 +3,21 @@
         "atual": 20.5,
         "manha": 21.7,
         "tarde": 24.4,
-        "noite": 22.3
+        "noite": 22.4
     },
     "forecast": {
-        "max": 27.5,
-        "min": 20.2
+        "max": 27.6,
+        "min": 20.1
     },
     "news": [
+        {
+            "title": "Testámos um ultraportátil cheio de estilo explicamos como ligar o telemóvel ao PC",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/video/testamos-ultraportatil-cheio-estilo-explicamos-ligar-telemovel-pc-20260803-221438"
+        },
+        {
+            "title": "GNR procura idosa desaparecida em Carrazeda de Ansiães",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/local/noticia/gnr-procura-idosa-desaparecida-carrazeda-ansiaes-2183945"
+        },
         {
             "title": "Nadar contra a maré do velho continente",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/p3/noticia/nadar-mare-velho-continente-2183943"
@@ -21,16 +29,8 @@
         {
             "title": "EUA e China disputam a ordem global da inteligência artificial",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/enter/noticia/eua-china-disputam-ordem-global-inteligencia-artificial-2183756"
-        },
-        {
-            "title": "Época balnear com 17 mortos, 12 por afogamento, nos primeiros três meses",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/sociedade/noticia/epoca-balnear-17-mortos-12-afogamento-tres-meses-2183942"
-        },
-        {
-            "title": "Coscuvilheiras, <em>big data</em> e inteligência artificial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/impar/cronica/coscuvilheiras-big-data-inteligencia-artificial-2183850"
         }
     ],
     "finance": [],
-    "last_update": "03/08/2026 20:53"
+    "last_update": "03/08/2026 21:57"
 }
