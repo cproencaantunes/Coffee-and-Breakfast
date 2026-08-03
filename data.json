@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.5,
         "manha": 21.7,
-        "tarde": 25.6,
-        "noite": 23.0
+        "tarde": 25.4,
+        "noite": 22.9
     },
     "forecast": {
-        "max": 28.1,
-        "min": 20.2
+        "max": 27.7,
+        "min": 20.4
     },
     "news": [
         {
-            "title": "Chuva está de regresso a Portugal, mas risco de incêndio continua elevado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/azul/noticia/chuva-regresso-portugal-risco-incendio-continua-elevado-2183843"
+            "title": "Joana Marques: “Eu mostro as coisas que as pessoas efectivamente disseram”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/sociedade/noticia/joana-marques-mostro-pessoas-efectivamente-disseram-2183848"
         },
         {
-            "title": "Restos de foguetão da SpaceX vão colidir com a Lua e gerar nova cratera",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/ciencia/noticia/restos-foguetao-spacex-vao-colidir-lua-gerar-nova-cratera-2183839"
+            "title": "Estrela da Amadora homenageia a comunidade com os novos equipamentos Adidas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/impar/noticia/estrela-amadora-homenageia-comunidade-novos-equipamentos-adidas-2183871"
         },
         {
-            "title": "Tozé Brito. Maior arrependimento? “Não ter passado mais tempo com as minhas filhas enquanto cresciam”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/impar/noticia/toze-brito-maior-arrependimento-nao-passado-tempo-filhas-cresciam-2181643"
+            "title": "Ministério das Finanças ainda não sabe como serão indemnizadas famílias lesadas nos exames",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/politica/noticia/ministerio-financas-nao-sabe-serao-indemnizadas-familias-lesadas-exames-2183873"
         },
         {
-            "title": "Sabemos o desporto que estamos a financiar? I",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/desporto/opiniao/sabemos-desporto-financiar-i-2183803"
+            "title": "Candidaturas ao ensino superior aproximam-se do total de 2025 a quatro dias do fim do prazo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/sociedade/noticia/candidaturas-ensino-superior-aproximamse-total-2025-quatro-dias-fim-prazo-2183866"
         },
         {
-            "title": "A receita de Cork para ser mais saudável: “as cidades não devem importar soluções, mas adaptá-las”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/azul/entrevista/receita-cork-saudavel-cidades-nao-importar-solucoes-adaptalas-2178823"
+            "title": "Consumo no turismo cresceu abaixo da economia nacional em 2025",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/economia/noticia/consumo-turismo-cresceu-abaixo-economia-nacional-2025-2183867"
         }
     ],
     "finance": [],
-    "last_update": "03/08/2026 09:00"
+    "last_update": "03/08/2026 12:26"
 }
