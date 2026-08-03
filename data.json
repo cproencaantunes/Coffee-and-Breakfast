@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.5,
-        "manha": 21.5,
-        "tarde": 25.5,
-        "noite": 22.9
+        "manha": 21.7,
+        "tarde": 25.6,
+        "noite": 23.0
     },
     "forecast": {
         "max": 28.1,
-        "min": 20.1
+        "min": 20.2
     },
     "news": [
         {
-            "title": "Arrojados na substância, conservadores no processo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/opiniao/opiniao/arrojados-substancia-conservadores-processo-2183670"
+            "title": "Chuva está de regresso a Portugal, mas risco de incêndio continua elevado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/azul/noticia/chuva-regresso-portugal-risco-incendio-continua-elevado-2183843"
         },
         {
-            "title": "Directora de Assuntos Europeus e embaixador fizeram ajustes directos ilegais no Instituto Camões",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/sociedade/noticia/directora-assuntos-europeus-embaixador-fizeram-ajustes-directos-ilegais-instituto-camoes-2183828"
+            "title": "Restos de foguetão da SpaceX vão colidir com a Lua e gerar nova cratera",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/ciencia/noticia/restos-foguetao-spacex-vao-colidir-lua-gerar-nova-cratera-2183839"
         },
         {
-            "title": "Inspecção pode anular matrículas de 52 alunos na Universidade Fernando Pessoa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/ciencia/noticia/inspeccao-anular-matriculas-52-alunos-universidade-fernando-pessoa-2183221"
+            "title": "Tozé Brito. Maior arrependimento? “Não ter passado mais tempo com as minhas filhas enquanto cresciam”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/impar/noticia/toze-brito-maior-arrependimento-nao-passado-tempo-filhas-cresciam-2181643"
         },
         {
-            "title": "“Dupla graduação” da Universidade Fernando Pessoa está em xeque, mas mantém-se activa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/ciencia/noticia/dupla-graduacao-universidade-fernando-pessoa-xeque-mantemse-activa-2183222"
+            "title": "Sabemos o desporto que estamos a financiar? I",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/desporto/opiniao/sabemos-desporto-financiar-i-2183803"
         },
         {
-            "title": "Primeira USF de gestão privada começa a funcionar, quase dois anos depois de Governo ter prometido 20",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/sociedade/noticia/primeira-usf-gestao-privada-comeca-funcionar-quase-dois-anos-governo-prometido-20-2183699"
+            "title": "A receita de Cork para ser mais saudável: “as cidades não devem importar soluções, mas adaptá-las”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/azul/entrevista/receita-cork-saudavel-cidades-nao-importar-solucoes-adaptalas-2178823"
         }
     ],
     "finance": [],
-    "last_update": "03/08/2026 05:30"
+    "last_update": "03/08/2026 09:00"
 }
