@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.5,
         "manha": 21.5,
-        "tarde": 25.9,
-        "noite": 23.0
+        "tarde": 25.5,
+        "noite": 22.9
     },
     "forecast": {
         "max": 28.1,
-        "min": 20.3
+        "min": 20.1
     },
     "news": [
         {
-            "title": "A batalha de Ceuta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/opiniao/opiniao/batalha-ceuta-2183825"
+            "title": "Arrojados na substância, conservadores no processo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/opiniao/opiniao/arrojados-substancia-conservadores-processo-2183670"
         },
         {
-            "title": "O perigo começa antes da droga… na química do narcotráfico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/opiniao/opiniao/perigo-comeca-droga-quimica-narcotrafico-2183511"
+            "title": "Directora de Assuntos Europeus e embaixador fizeram ajustes directos ilegais no Instituto Camões",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/sociedade/noticia/directora-assuntos-europeus-embaixador-fizeram-ajustes-directos-ilegais-instituto-camoes-2183828"
         },
         {
-            "title": "Os vampiros de Agosto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/opiniao/cronica/vampiros-agosto-2183796"
+            "title": "Inspecção pode anular matrículas de 52 alunos na Universidade Fernando Pessoa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/ciencia/noticia/inspeccao-anular-matriculas-52-alunos-universidade-fernando-pessoa-2183221"
         },
         {
-            "title": "Andy Burnham, o “anti-Thatcher”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/mundo/analise/andy-burnham-antithatcher-2183650"
+            "title": "“Dupla graduação” da Universidade Fernando Pessoa está em xeque, mas mantém-se activa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/ciencia/noticia/dupla-graduacao-universidade-fernando-pessoa-xeque-mantemse-activa-2183222"
         },
         {
-            "title": "378 dias sem uma entrevista",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/opiniao/opiniao/378-dias-entrevista-2183716"
+            "title": "Primeira USF de gestão privada começa a funcionar, quase dois anos depois de Governo ter prometido 20",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/03/sociedade/noticia/primeira-usf-gestao-privada-comeca-funcionar-quase-dois-anos-governo-prometido-20-2183699"
         }
     ],
     "finance": [],
-    "last_update": "03/08/2026 01:47"
+    "last_update": "03/08/2026 05:30"
 }
