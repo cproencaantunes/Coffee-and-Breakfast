@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 21.2,
-        "manha": 21.9,
-        "tarde": 27.8,
-        "noite": 23.0
+        "atual": 21.7,
+        "manha": 22.4,
+        "tarde": 27.9,
+        "noite": 21.7
     },
     "forecast": {
-        "max": 27.9,
-        "min": 20.7
+        "max": 29.4,
+        "min": 19.5
     },
     "news": [
         {
-            "title": "Receita trimestral da SpaceX dispara, impulsionada pelo crescimento do Starlink",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/economia/noticia/receita-trimestral-spacex-dispara-impulsionada-crescimento-starlink-2184064"
+            "title": "As redes sociais são mais fortes do que a União?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/opiniao/opiniao/redes-sociais-sao-fortes-uniao-2183969"
         },
         {
-            "title": "Ela tem 28 anos. Ele tem 71. Eis como se tornaram colegas de casa (e amigos)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/impar/noticia/28-anos-71-eis-tornaram-colegas-casa-amigos-2183627"
+            "title": "A verdade dos factos e o que ninguém quer debater: a educação para os pobres (de espírito)",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/opiniao/opiniao/verdade-factos-ninguem-quer-debater-educacao-pobres-espirito-2183983"
         },
         {
-            "title": "Vinte anos depois do último ingresso, IRN recebe 47 novos conservadores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/sociedade/noticia/vinte-anos-ultimo-ingresso-irn-recebe-47-novos-conservadores-2184063"
+            "title": "Os idiotas inúteis da <em>Hasbara</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/opiniao/opiniao/idiotas-inuteis-hasbara-2183806"
         },
         {
-            "title": "Efeito Haaland: turismo norueguês cresce embalado pelo Mundial de futebol",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/fugas/noticia/efeito-haaland-turismo-noruegues-cresce-embalado-mundial-futebol-2184053"
+            "title": "A escola que ainda não decidiu o que quer ser",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/opiniao/opiniao/escola-nao-decidiu-quer-2183887"
         },
         {
-            "title": "“Conto minha vida, que não entendi”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/p3/noticia/conto-vida-nao-entendi-2184037"
+            "title": "Administração Trump revoga visto da embaixadora do Brasil em Washington",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/mundo/noticia/administracao-trump-revoga-visto-embaixadora-brasil-washington-2184068"
         }
     ],
     "finance": [],
-    "last_update": "04/08/2026 22:02"
+    "last_update": "04/08/2026 23:53"
 }
