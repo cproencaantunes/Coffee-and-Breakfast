@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.2,
         "manha": 21.9,
-        "tarde": 27.6,
-        "noite": 22.6
+        "tarde": 27.8,
+        "noite": 22.8
     },
     "forecast": {
-        "max": 27.7,
-        "min": 20.5
+        "max": 27.6,
+        "min": 20.6
     },
     "news": [
         {
-            "title": "Princesa da Dinamarca entra no serviço militar obrigatório, que agora inclui mulheres",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/impar/noticia/princesa-dinamarca-entra-servico-militar-obrigatorio-inclui-mulheres-2184006"
+            "title": "<em>Fora do Mapa</em> mostra um Portugal que até portugueses desconhecem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/publico-brasil/noticia/mapa-mostra-portugal-ate-portugueses-desconhecem-2184023"
         },
         {
-            "title": "Ministros da UE querem “reforçar fronteiras” e elogiam resposta de Espanha à crise em Ceuta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/mundo/noticia/ministros-ue-querem-reforcar-fronteiras-elogiam-resposta-espanha-crise-ceuta-2184001"
+            "title": "Telegram temporariamente suspenso pela Apple devido a imagens de abuso de menores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/enter/noticia/telegram-temporariamente-suspenso-apple-devido-imagens-abuso-menores-2183997"
         },
         {
-            "title": "Pais de aluno de Viseu apontam para “um equívoco” do ministro da Educação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/sociedade/noticia/pais-aluno-viseu-apontam-equivoco-ministro-educacao-2184000"
+            "title": "Volta a Portugal passa no coração do Gerês, mas parecer do ICNF não agrada a todos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/azul/noticia/volta-portugal-passa-coracao-geres-parecer-icnf-nao-agrada-2184020"
         },
         {
-            "title": "Primeiro-ministro diz-se contra “falta de regulação do fluxo migratório”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/politica/noticia/primeiroministro-dizse-falta-regulacao-fluxo-migratorio-2184003"
+            "title": "Ministério da Saúde rectifica despacho sobre resposta a situações clínicas urgentes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/sociedade/noticia/ministerio-saude-rectifica-despacho-resposta-situacoes-clinicas-urgentes-2184022"
         },
         {
-            "title": "Exames e incerteza: um compromisso coletivo com o desenvolvimento de carreira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/impar/opiniao/exames-incerteza-compromisso-coletivo-desenvolvimento-carreira-2183970"
+            "title": "Petróleo cai mais de 4% perante expectativas de acordo para Ormuz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/economia/noticia/petroleo-cai-4-expectativas-acordo-ormuz-2184017"
         }
     ],
     "finance": [],
-    "last_update": "04/08/2026 13:44"
+    "last_update": "04/08/2026 16:05"
 }
