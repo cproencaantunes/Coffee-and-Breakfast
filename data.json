@@ -2,7 +2,7 @@
     "weather": {
         "atual": 21.2,
         "manha": 22.0,
-        "tarde": 27.6,
+        "tarde": 27.8,
         "noite": 22.8
     },
     "forecast": {
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "O país do turismo ainda existe",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/opiniao/editorial/pais-turismo-existe-2183905"
+            "title": "Golfinhos no Sado, festas de empresa e despedidas de solteiro ajudam Inverno em terra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/economia/noticia/golfinhos-sado-festas-empresa-despedidas-solteiro-ajudam-inverno-terra-2181497"
         },
         {
-            "title": "TVDE, heranças indivisas ou apátridas: decretos do Parlamento que aguardam em Belém",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/politica/noticia/tvde-herancas-indivisas-apatridas-decretos-parlamento-aguardam-belem-2183144"
+            "title": "Jaime Freire e a nostalgia de um mundo perdido e um romance de Toni Morrison",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/culturaipsilon/noticia/jaime-freire-nostalgia-mundo-perdido-romance-toni-morrison-2183811"
         },
         {
-            "title": "INEM quer abrir novo concurso para mais 150 técnicos. Anterior já só tem 30 formandos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/sociedade/noticia/inem-quer-abrir-novo-concurso-150-tecnicos-anterior-ja-so-30-formandos-2183929"
+            "title": "Incêndio no estado de Washington obriga à retirada de 64 mil pessoas e destrói 700 casas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/mundo/noticia/incendio-estado-washington-obriga-retirada-64-mil-pessoas-destroi-700-casas-2183956"
         },
         {
-            "title": "Governo admite erro em guia sobre subsídio de desemprego, mas garante que ninguém foi prejudicado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/economia/noticia/governo-admite-erro-guia-subsidio-desemprego-garante-ninguem-prejudicado-2183558"
+            "title": "A inteligência artificial está comprando livros. Mas não para ler",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/publico-brasil/opiniao/inteligencia-artificial-comprando-livros-nao-ler-2183957"
         },
         {
-            "title": "O Colosso de Prora e os prisioneiros que se recusaram a sair",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/mundo/reportagem/colosso-prora-prisioneiros-recusaram-sair-2182070"
+            "title": "Do ambiente à privacidade, teleférico de Gaia contestado em várias frentes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/local/noticia/ambiente-privacidade-teleferico-gaia-contestado-varias-frentes-2183934"
         }
     ],
     "finance": [],
-    "last_update": "04/08/2026 05:37"
+    "last_update": "04/08/2026 08:17"
 }
