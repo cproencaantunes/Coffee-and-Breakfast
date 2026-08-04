@@ -2,8 +2,8 @@
     "weather": {
         "atual": 21.2,
         "manha": 21.9,
-        "tarde": 27.5,
-        "noite": 22.8
+        "tarde": 27.6,
+        "noite": 22.6
     },
     "forecast": {
         "max": 27.7,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Livre questiona critérios para limitar partidos no acompanhamento de investimentos na Defesa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/politica/noticia/livre-questiona-criterios-limitar-partidos-acompanhamento-investimentos-defesa-2183982"
+            "title": "Princesa da Dinamarca entra no serviço militar obrigatório, que agora inclui mulheres",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/impar/noticia/princesa-dinamarca-entra-servico-militar-obrigatorio-inclui-mulheres-2184006"
         },
         {
-            "title": "Lucro da maior petrolífera mundial subiu 44% no segundo trimestre",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/economia/noticia/lucro-maior-petrolifera-mundial-subiu-44-segundo-trimestre-2183975"
+            "title": "Ministros da UE querem “reforçar fronteiras” e elogiam resposta de Espanha à crise em Ceuta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/mundo/noticia/ministros-ue-querem-reforcar-fronteiras-elogiam-resposta-espanha-crise-ceuta-2184001"
         },
         {
-            "title": "Procura ajuda Lufthansa a resistir à subida do <em>jet fuel</em> e manter-se nos lucros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/economia/noticia/procura-ajuda-lufthansa-resistir-subida-jet-fuel-manterse-lucros-2183978"
+            "title": "Pais de aluno de Viseu apontam para “um equívoco” do ministro da Educação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/sociedade/noticia/pais-aluno-viseu-apontam-equivoco-ministro-educacao-2184000"
         },
         {
-            "title": "Eduqa aceita duas respostas certas em questão do exame de Física e Química na qual foi identificado um erro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/sociedade/noticia/eduqa-aceita-duas-respostas-certas-questao-exame-fisica-quimica-identificado-erro-2183974"
+            "title": "Primeiro-ministro diz-se contra “falta de regulação do fluxo migratório”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/politica/noticia/primeiroministro-dizse-falta-regulacao-fluxo-migratorio-2184003"
         },
         {
-            "title": "Um em cada três portugueses não consegue pagar uma semana de férias fora de casa? Verdadeiro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/politica/noticia/tres-portugueses-nao-consegue-pagar-semana-ferias-casa-verdadeiro-2183966"
+            "title": "Exames e incerteza: um compromisso coletivo com o desenvolvimento de carreira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/impar/opiniao/exames-incerteza-compromisso-coletivo-desenvolvimento-carreira-2183970"
         }
     ],
     "finance": [],
-    "last_update": "04/08/2026 11:14"
+    "last_update": "04/08/2026 13:44"
 }
