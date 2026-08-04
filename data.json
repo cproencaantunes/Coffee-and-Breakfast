@@ -3,13 +3,21 @@
         "atual": 21.2,
         "manha": 21.9,
         "tarde": 27.8,
-        "noite": 22.8
+        "noite": 23.0
     },
     "forecast": {
-        "max": 27.7,
-        "min": 20.6
+        "max": 27.9,
+        "min": 20.7
     },
     "news": [
+        {
+            "title": "Receita trimestral da SpaceX dispara, impulsionada pelo crescimento do Starlink",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/economia/noticia/receita-trimestral-spacex-dispara-impulsionada-crescimento-starlink-2184064"
+        },
+        {
+            "title": "Ela tem 28 anos. Ele tem 71. Eis como se tornaram colegas de casa (e amigos)",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/impar/noticia/28-anos-71-eis-tornaram-colegas-casa-amigos-2183627"
+        },
         {
             "title": "Vinte anos depois do último ingresso, IRN recebe 47 novos conservadores",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/sociedade/noticia/vinte-anos-ultimo-ingresso-irn-recebe-47-novos-conservadores-2184063"
@@ -21,16 +29,8 @@
         {
             "title": "“Conto minha vida, que não entendi”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/p3/noticia/conto-vida-nao-entendi-2184037"
-        },
-        {
-            "title": "Puccini, a criada dedicada e os príncipes do costume na <em>Turandot </em>que abre o Operafest",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/culturaipsilon/noticia/puccini-criada-dedicada-principes-costume-turandot-abre-operafest-2184024"
-        },
-        {
-            "title": "“Tinha os meus dados todos”: cliente da Via Verde quase cai em burla de <em>spoofing</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/04/sociedade/noticia/dados-cliente-via-verde-quase-cai-burla-spoofing-2183705"
         }
     ],
     "finance": [],
-    "last_update": "04/08/2026 20:17"
+    "last_update": "04/08/2026 22:02"
 }
