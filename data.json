@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.7,
         "manha": 22.7,
-        "tarde": 28.3,
-        "noite": 22.0
+        "tarde": 28.1,
+        "noite": 21.9
     },
     "forecast": {
         "max": 29.0,
-        "min": 19.8
+        "min": 19.7
     },
     "news": [
         {
-            "title": "Como um drone português ajuda a explicar a guerra moderna",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/mundo/noticia/drone-portugues-ucrania-ensina-guerra-moderna-2184060"
+            "title": "Carteira de crédito dos grandes bancos cresce 9% num ano e Estado deu uma ajuda",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/economia/noticia/carteira-credito-bancos-cresce-9-ano-estado-deu-ajuda-2184058"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/opiniao/opiniao/cartas-director-2184032"
+            "title": "Diplomacia climática entre as COP",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/azul/opiniao/diplomacia-climatica-cop-2183973"
         },
         {
-            "title": "As redes sociais são mais fortes do que a União?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/opiniao/opiniao/redes-sociais-sao-fortes-uniao-2183969"
+            "title": "Escavações regressaram ao Fórum Romano de Beja após interregno de nove anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/local/noticia/escavacoes-regressaram-forum-romano-beja-apos-interregno-nove-anos-2183317"
         },
         {
-            "title": "A verdade dos factos e o que ninguém quer debater: a educação para os pobres (de espírito)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/opiniao/opiniao/verdade-factos-ninguem-quer-debater-educacao-pobres-espirito-2183983"
+            "title": "Detenção de migrantes durante Governo Trump nos EUA atinge nível mais alto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/mundo/noticia/detencao-migrantes-durante-governo-trump-eua-atinge-nivel-alto-2184077"
         },
         {
-            "title": "Os idiotas inúteis da <em>Hasbara</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/opiniao/opiniao/idiotas-inuteis-hasbara-2183806"
+            "title": "Trump diz que estreito de Ormuz vai reabrir “muito em breve”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/mundo/noticia/trump-estreito-ormuz-vai-reabrir-breve-2184076"
         }
     ],
     "finance": [],
-    "last_update": "05/08/2026 04:53"
+    "last_update": "05/08/2026 07:31"
 }
