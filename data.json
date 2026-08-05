@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.7,
         "manha": 22.7,
-        "tarde": 28.4,
-        "noite": 22.2
+        "tarde": 28.2,
+        "noite": 22.1
     },
     "forecast": {
-        "max": 29.6,
+        "max": 29.5,
         "min": 19.6
     },
     "news": [
         {
-            "title": "Brasileira investe € 1,6 milhão e transforma ruínas em hotel no Norte de Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/publico-brasil/noticia/brasileira-investe-16-milhao-transforma-ruinas-hotel-norte-portugal-2184130"
+            "title": "Detido na operação da PJ no porto de Sines encontrado morto no estabelecimento prisional",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/sociedade/noticia/detido-operacao-pj-porto-sines-encontrado-morto-estabelecimento-prisional-2184180"
         },
         {
-            "title": "<em>El Niño</em> pode agravar fome aguda de mais 49 milhões de pessoas até 2027",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/azul/noticia/el-nino-agravar-fome-aguda-49-milhoes-pessoas-ate-2027-2184125"
+            "title": "Nova linha do metro até Gondomar prevê remoção de centenas de árvores e 24 demolições",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/local/noticia/nova-linha-metro-ate-gondomar-preve-remocao-centenas-arvores-24-demolicoes-2184165"
         },
         {
-            "title": "Hoje em dia nos dias de hoje",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/opiniao/cronica/hoje-dia-dias-hoje-2184119"
+            "title": "Da “trumpificação” à desilusão com a esquerda, as direitas estão mais radicais na América Latina",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/mundo/noticia/trumpificacao-desilusao-esquerda-direitas-estao-radicais-america-latina-2183029"
         },
         {
-            "title": "<em>Ice Cream Man</em>: deixai vir a mim as criancinhas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/culturaipsilon/critica/ice-cream-man-deixai-mim-criancinhas-2183800"
+            "title": "Volta a Portugal falhou o protocolo: Rafael Reis não vai vestir a amarela",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/desporto/noticia/volta-portugal-falhou-protocolo-rafael-reis-nao-vai-vestir-amarela-2184175"
         },
         {
-            "title": "Disney e TikTok assinaram um acordo para partilha de vídeos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/culturaipsilon/noticia/disney-tiktok-assinaram-acordo-partilha-videos-2184131"
+            "title": "Açores publicam planos de gestão dos parques naturais de seis ilhas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/azul/noticia/acores-publicam-planos-gestao-parques-naturais-seis-ilhas-2184162"
         }
     ],
     "finance": [],
-    "last_update": "05/08/2026 15:07"
+    "last_update": "05/08/2026 17:18"
 }
