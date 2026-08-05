@@ -3,15 +3,19 @@
         "atual": 21.7,
         "manha": 22.7,
         "tarde": 28.2,
-        "noite": 22.4
+        "noite": 22.8
     },
     "forecast": {
-        "max": 29.4,
+        "max": 29.8,
         "min": 19.8
     },
     "news": [
         {
-            "title": "Ponte 25 de Abril: um gigante de aço que celebra 60 anos com drones",
+            "title": "FIFA desmente acordo entre Infantino e Marrocos pela final do Mundial 2030",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/desporto/noticia/fifa-desmente-acordo-infantino-marrocos-final-mundial-2030-2184199"
+        },
+        {
+            "title": "Ponte 25 de Abril: um gigante de aço que celebra 60 anos com <em>drones</em>",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/local/noticia/ponte-25-abril-gigante-aco-celebra-60-anos-drones-2184190"
         },
         {
@@ -25,12 +29,8 @@
         {
             "title": "Professores chamados à última para reapreciar exames: “Estou numa corrida contra o tempo”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/sociedade/noticia/professores-chamados-ultima-reapreciar-exames-corrida-tempo-2184196"
-        },
-        {
-            "title": "“Super Guardiões do Planeta” vencem concurso do Pacto Climático Europeu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/azul/noticia/super-guardioes-planeta-vencem-concurso-pacto-climatico-europeu-2184096"
         }
     ],
     "finance": [],
-    "last_update": "05/08/2026 20:55"
+    "last_update": "05/08/2026 22:05"
 }
