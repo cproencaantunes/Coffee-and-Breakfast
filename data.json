@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 21.7,
-        "manha": 22.4,
-        "tarde": 28.0,
-        "noite": 21.6
+        "manha": 22.7,
+        "tarde": 28.3,
+        "noite": 22.0
     },
     "forecast": {
-        "max": 29.4,
-        "min": 19.5
+        "max": 29.0,
+        "min": 19.8
     },
     "news": [
+        {
+            "title": "Como um drone português ajuda a explicar a guerra moderna",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/mundo/noticia/drone-portugues-ucrania-ensina-guerra-moderna-2184060"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/opiniao/opiniao/cartas-director-2184032"
+        },
         {
             "title": "As redes sociais são mais fortes do que a União?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/opiniao/opiniao/redes-sociais-sao-fortes-uniao-2183969"
@@ -21,16 +29,8 @@
         {
             "title": "Os idiotas inúteis da <em>Hasbara</em>",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/opiniao/opiniao/idiotas-inuteis-hasbara-2183806"
-        },
-        {
-            "title": "A escola que ainda não decidiu o que quer ser",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/opiniao/opiniao/escola-nao-decidiu-quer-2183887"
-        },
-        {
-            "title": "Administração Trump revoga visto da embaixadora do Brasil em Washington",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/mundo/noticia/administracao-trump-revoga-visto-embaixadora-brasil-washington-2184068"
         }
     ],
     "finance": [],
-    "last_update": "05/08/2026 01:28"
+    "last_update": "05/08/2026 04:53"
 }
