@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.7,
         "manha": 22.7,
-        "tarde": 28.3,
-        "noite": 22.1
+        "tarde": 28.4,
+        "noite": 22.2
     },
     "forecast": {
-        "max": 29.2,
-        "min": 19.7
+        "max": 29.6,
+        "min": 19.6
     },
     "news": [
         {
-            "title": "O monstro sobe na cama",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/publico-brasil/opiniao/monstro-sobe-cama-2184090"
+            "title": "Atlas Lusitano: um tinto que carrega arte, tecnologia e portugalidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/fugas/noticia/atlas-lusitano-tinto-carrega-arte-tecnologia-portugalidade-2183440"
         },
         {
-            "title": "Brasil pede saída do embaixador argentino do país após insultos de Milei a Lula",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/mundo/noticia/brasil-pede-saida-embaixador-argentino-pais-apos-insultos-milei-lula-2184089"
+            "title": "Políticos descansam em Portugal entre Agustina, Beatles e a rádio Zig Zag",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/fugas/noticia/politicos-descansam-portugal-agustina-beatles-radio-zig-zag-2184101"
         },
         {
-            "title": "Plantação intensiva de citrinos em Alcácer do Sal ou vai ou racha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/azul/noticia/plantacao-intensiva-citrinos-alcacer-sal-vai-racha-2183992"
+            "title": "Marrocos fora do Mundial 2030? Até agora não há “qualquer preocupação com esta matéria”, diz FPF ",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/politica/noticia/marrocos-mundial-2030-ate-nao-ha-qualquer-preocupacao-materia-fpf-2184079"
         },
         {
-            "title": "Primárias democratas do Michigan para o Senado ainda sem vencedor claro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/mundo/noticia/primarias-democratas-michigan-senado-vencedor-claro-2184085"
+            "title": "A cozinha vegetariana antes de ser tendência",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/edicoes-publico/noticia/cozinha-vegetariana-tendencia-2184110"
         },
         {
-            "title": "O velhinho Bilhete de Identidade deixou de ser válido para viajar no espaço Schengen",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/sociedade/noticia/velhinho-bilhete-identidade-deixou-valido-viajar-espaco-schengen-2184084"
+            "title": "“Não concordámos” com acordo de Trump para Gaza, diz Netanyahu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/mundo/noticia/nao-concordamos-acordo-trump-gaza-netanyahu-2184111"
         }
     ],
     "finance": [],
-    "last_update": "05/08/2026 10:23"
+    "last_update": "05/08/2026 12:46"
 }
