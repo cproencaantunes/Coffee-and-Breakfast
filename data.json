@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.7,
         "manha": 22.7,
-        "tarde": 28.1,
-        "noite": 21.9
+        "tarde": 28.3,
+        "noite": 22.1
     },
     "forecast": {
-        "max": 29.0,
+        "max": 29.2,
         "min": 19.7
     },
     "news": [
         {
-            "title": "Carteira de crédito dos grandes bancos cresce 9% num ano e Estado deu uma ajuda",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/economia/noticia/carteira-credito-bancos-cresce-9-ano-estado-deu-ajuda-2184058"
+            "title": "O monstro sobe na cama",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/publico-brasil/opiniao/monstro-sobe-cama-2184090"
         },
         {
-            "title": "Diplomacia climática entre as COP",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/azul/opiniao/diplomacia-climatica-cop-2183973"
+            "title": "Brasil pede saída do embaixador argentino do país após insultos de Milei a Lula",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/mundo/noticia/brasil-pede-saida-embaixador-argentino-pais-apos-insultos-milei-lula-2184089"
         },
         {
-            "title": "Escavações regressaram ao Fórum Romano de Beja após interregno de nove anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/local/noticia/escavacoes-regressaram-forum-romano-beja-apos-interregno-nove-anos-2183317"
+            "title": "Plantação intensiva de citrinos em Alcácer do Sal ou vai ou racha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/azul/noticia/plantacao-intensiva-citrinos-alcacer-sal-vai-racha-2183992"
         },
         {
-            "title": "Detenção de migrantes durante Governo Trump nos EUA atinge nível mais alto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/mundo/noticia/detencao-migrantes-durante-governo-trump-eua-atinge-nivel-alto-2184077"
+            "title": "Primárias democratas do Michigan para o Senado ainda sem vencedor claro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/mundo/noticia/primarias-democratas-michigan-senado-vencedor-claro-2184085"
         },
         {
-            "title": "Trump diz que estreito de Ormuz vai reabrir “muito em breve”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/mundo/noticia/trump-estreito-ormuz-vai-reabrir-breve-2184076"
+            "title": "O velhinho Bilhete de Identidade deixou de ser válido para viajar no espaço Schengen",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/05/sociedade/noticia/velhinho-bilhete-identidade-deixou-valido-viajar-espaco-schengen-2184084"
         }
     ],
     "finance": [],
-    "last_update": "05/08/2026 07:31"
+    "last_update": "05/08/2026 10:23"
 }
