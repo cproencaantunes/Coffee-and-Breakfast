@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 21.0,
-        "manha": 21.8,
+        "atual": 21.1,
+        "manha": 21.7,
         "tarde": 29.8,
-        "noite": 23.4
+        "noite": 23.5
     },
     "forecast": {
         "max": 31.3,
         "min": 20.8
     },
     "news": [
+        {
+            "title": "<em>Drone</em> com explosivos encerra aeroporto de Leipzig",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/mundo/noticia/drone-explosivos-encerra-aeroporto-leipzig-2184204"
+        },
         {
             "title": "O que Ceuta nos mostrou sobre o espírito do Governo",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/opiniao/opiniao/ceuta-mostrou-espirito-governo-2184157"
@@ -25,12 +29,8 @@
         {
             "title": "Uma viagem para escutar as cores das palavras na poesia",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/culturaipsilon/opiniao/viagem-escutar-cores-palavras-poesia-2183186"
-        },
-        {
-            "title": "Maria do Carmo Vieira – a inteligência insubmissa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/opiniao/opiniao/maria-carmo-vieira-inteligencia-insubmissa-2184185"
         }
     ],
     "finance": [],
-    "last_update": "05/08/2026 23:46"
+    "last_update": "06/08/2026 01:25"
 }
