@@ -2,8 +2,8 @@
     "weather": {
         "atual": 21.1,
         "manha": 21.7,
-        "tarde": 30.0,
-        "noite": 23.3
+        "tarde": 30.2,
+        "noite": 23.4
     },
     "forecast": {
         "max": 31.3,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Transparência salarial: quando será possível saber os salários dos colegas?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/economia/noticia/transparencia-salarial-sera-possivel-saber-salarios-colegas-2184148"
+            "title": "Acampamento contra mina no Barroso espera mais de 800 participantes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/azul/noticia/acampamento-mina-barroso-espera-800-participantes-2184159"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/opiniao/opiniao/cartas-director-2184179"
+            "title": "Trump oferece recompensa de 22 milhões por líder do mais poderoso cartel do México",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/mundo/noticia/trump-oferece-recompensa-22-milhoes-lider-poderoso-cartel-mexico-2184209"
         },
         {
-            "title": "<em>Drone</em> com explosivos encerra aeroporto de Leipzig",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/mundo/noticia/drone-explosivos-encerra-aeroporto-leipzig-2184204"
+            "title": "Líbano e Israel interrompem conversações devido a ataque do Exército israelita",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/mundo/noticia/libano-israel-interrompem-conversacoes-devido-ataque-exercito-israelita-2184208"
         },
         {
-            "title": "O que Ceuta nos mostrou sobre o espírito do Governo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/opiniao/opiniao/ceuta-mostrou-espirito-governo-2184157"
+            "title": "Sp. Braga aposta na identidade para travar maior ritmo do Dínamo Minsk",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/desporto/noticia/sp-braga-aposta-identidade-travar-maior-ritmo-dinamo-minsk-2184174"
         },
         {
-            "title": "Foguetão da SpaceX colidiu com a Lua, mas NASA descarta risco para a Terra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/ciencia/noticia/foguetao-spacex-colidiu-lua-nasa-descarta-risco-terra-2184203"
+            "title": "“Brasileiros que estão em Portugal são uma benção. Que venham mais”, diz empresária",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/publico-brasil/noticia/brasileiros-estao-portugal-sao-abencoados-venham-empresaria-2184201"
         }
     ],
     "finance": [],
-    "last_update": "06/08/2026 04:54"
+    "last_update": "06/08/2026 07:31"
 }
