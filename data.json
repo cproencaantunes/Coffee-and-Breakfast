@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 21.1,
-        "manha": 21.7,
-        "tarde": 30.2,
-        "noite": 23.4
+        "manha": 21.6,
+        "tarde": 30.1,
+        "noite": 23.3
     },
     "forecast": {
-        "max": 31.3,
-        "min": 20.8
+        "max": 31.5,
+        "min": 20.7
     },
     "news": [
         {
-            "title": "Acampamento contra mina no Barroso espera mais de 800 participantes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/azul/noticia/acampamento-mina-barroso-espera-800-participantes-2184159"
+            "title": "Mau tempo obriga a retirar 67 pessoas de parque de campismo na ilha Terceira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/sociedade/noticia/mau-tempo-obriga-retirar-67-pessoas-parque-campismo-ilha-terceira-2184217"
         },
         {
-            "title": "Trump oferece recompensa de 22 milhões por líder do mais poderoso cartel do México",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/mundo/noticia/trump-oferece-recompensa-22-milhoes-lider-poderoso-cartel-mexico-2184209"
+            "title": "Escassez de mísseis na guerra com o Irão provoca tensão entre Trump e Hegseth em Camp David",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/mundo/noticia/escassez-misseis-guerra-irao-provoca-tensao-trump-hegseth-camp-david-2184215"
         },
         {
-            "title": "Líbano e Israel interrompem conversações devido a ataque do Exército israelita",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/mundo/noticia/libano-israel-interrompem-conversacoes-devido-ataque-exercito-israelita-2184208"
+            "title": "EUA já reembolsaram 86,8 mil milhões por tarifas ilegalmente cobradas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/economia/noticia/eua-ja-reembolsaram-86816-mil-milhoes-tarifas-ilegalmente-cobradas-2184216"
         },
         {
-            "title": "Sp. Braga aposta na identidade para travar maior ritmo do Dínamo Minsk",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/desporto/noticia/sp-braga-aposta-identidade-travar-maior-ritmo-dinamo-minsk-2184174"
+            "title": "Ambientalistas alertam que expansão da rede de gás contraria transição energética e metas de electrificação de Portugal e da UE",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/azul/noticia/ambientalistas-alertam-expansao-rede-gas-contraria-transicao-energetica-metas-electrificacao-portugal-ue-2183911"
         },
         {
-            "title": "“Brasileiros que estão em Portugal são uma benção. Que venham mais”, diz empresária",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/publico-brasil/noticia/brasileiros-estao-portugal-sao-abencoados-venham-empresaria-2184201"
+            "title": "Novo Banco tentou livrar-se de empresas de Luís Filipe Vieira, mas até agora falhou",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/06/economia/noticia/novo-banco-tentou-livrarse-empresas-luis-filipe-vieira-ate-falhou-2184212"
         }
     ],
     "finance": [],
-    "last_update": "06/08/2026 07:31"
+    "last_update": "06/08/2026 10:26"
 }
