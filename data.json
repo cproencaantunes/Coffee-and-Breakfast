@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.8,
         "manha": 22.6,
-        "tarde": 30.6,
+        "tarde": 31.0,
         "noite": 24.7
     },
     "forecast": {
-        "max": 30.4,
-        "min": 20.9
+        "max": 30.3,
+        "min": 20.7
     },
     "news": [
         {
-            "title": "&#127921; Quem é você, espectador de streaming?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/newsletter/proximo_episodio"
+            "title": "Condenados entre seis e nove anos de prisão por burla com falsos arrendamentos de alojamentos locais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/sociedade/noticia/condenados-seis-nove-anos-prisao-burla-falsos-arrendamentos-alojamentos-locais-2184375"
         },
         {
-            "title": "Praias sofreram “impactos significativos” no Inverno e 59% continuam abaixo da largura média",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/azul/noticia/praias-sofreram-impactos-significativos-inverno-59-continuam-abaixo-largura-media-2184315"
+            "title": "PRR: Bruxelas já pagou o nono e penúltimo cheque a Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/economia/noticia/prr-bruxelas-ja-pagou-nono-penultimo-cheque-portugal-2184377"
         },
         {
-            "title": "Carlos Paião, um familiar que não conhecemos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/newsletter/ipsilon"
+            "title": "Casal encontrado morto em casa em Sintra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/sociedade/noticia/casal-encontrado-morto-casa-sintra-2184376"
         },
         {
-            "title": "Eclipse, estátuas vivas e diversões aquáticas: nove ideias em família",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/impar/noticia/eclipse-estatuas-vivas-diversoes-aquaticas-nove-ideias-familia-2184349"
+            "title": "Em Itália, empresários de esqui terão de devolver 30 milhões de euros aos esquiadores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/fugas/noticia/italia-empresarios-esqui-terao-devolver-30-milhoes-euros-esquiadores-2184373"
         },
         {
-            "title": "Livre propõe sorteio para desbloquear Conselho para a Acção Climática",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/azul/noticia/livre-propoe-sorteio-desbloquear-conselho-accao-climatica-2184241"
+            "title": "Truques para fazer uma boa caracolada por António Nobre",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/impar/noticia/truques-boa-caracolada-antonio-nobre-2183380"
         }
     ],
     "finance": [],
-    "last_update": "07/08/2026 11:36"
+    "last_update": "07/08/2026 12:37"
 }
