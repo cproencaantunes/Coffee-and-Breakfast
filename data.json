@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 21.8,
-        "manha": 22.5,
-        "tarde": 30.8,
-        "noite": 24.6
+        "manha": 22.6,
+        "tarde": 30.6,
+        "noite": 24.7
     },
     "forecast": {
-        "max": 29.6,
-        "min": 21.1
+        "max": 30.4,
+        "min": 20.9
     },
     "news": [
         {
-            "title": "Loulé quer ser Capital Portuguesa da Cultura e terá Lídia Jorge e Dino D’Santiago como embaixadores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/culturaipsilon/noticia/loule-quer-capital-portuguesa-cultura-tera-lidia-jorge-dino-dsantiago-embaixadores-2184333"
+            "title": "Energia, calor e risco geopolítico pressionam preços dos alimentos em Julho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/economia/noticia/energia-calor-risco-geopolitico-pressionam-precos-alimentos-julho-2184347"
         },
         {
-            "title": "Ataque em escola secundária perto de Banguecoque deixa sete mortos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/mundo/noticia/ataque-escola-secundaria-perto-banguecoque-deixa-sete-mortos-2184331"
+            "title": "Em modo telegráfico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/culturaipsilon/cronica/modo-telegrafico-2183962"
         },
         {
-            "title": "Trabalhar enquanto a casa arde: o paradoxo de uma geração que conhece a crise climática mas continua a alimentar o fogo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/azul/opiniao/trabalhar-casa-arde-paradoxo-geracao-conhece-crise-climatica-continua-alimentar-fogo-2184292"
+            "title": "Ambrose Akinmusire e Mary Halvorson num duo de ecos e espelhos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/culturaipsilon/critica/ambrose-akinmusire-mary-halvorson-duo-ecos-espelhos-2183903"
         },
         {
-            "title": "Despertador: Combate à sinistralidade estagnou: mortes na estrada são tantas como há dez anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/newsletter/despertador"
+            "title": "Bienal de Veneza: a utopia de Alexandre Estrela, a via sacra de Pedro Cabrita Reis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/culturaipsilon/noticia/bienal-veneza-utopia-alexandre-estrela-via-sacra-pedro-cabrita-reis-2183979"
         },
         {
-            "title": "Ordem dos Médicos pede avisos públicos para evitar danos na visão no eclipse solar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/sociedade/noticia/ordem-medicos-pede-avisos-publicos-evitar-danos-visao-eclipse-solar-2184328"
+            "title": "Giacomo Scalisi: na costa vicentina, “esta relação com a natureza entra dentro de nós”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/fugas/noticia/giacomo-scalisi-costa-vicentina-relacao-natureza-entra-dentro-2184218"
         }
     ],
     "finance": [],
-    "last_update": "07/08/2026 08:05"
+    "last_update": "07/08/2026 09:49"
 }
