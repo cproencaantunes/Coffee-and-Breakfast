@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 21.8,
-        "manha": 22.6,
-        "tarde": 31.9,
-        "noite": 25.6
+        "atual": 23.3,
+        "manha": 23.5,
+        "tarde": 30.9,
+        "noite": 23.1
     },
     "forecast": {
-        "max": 31.2,
-        "min": 21.3
+        "max": 29.0,
+        "min": 20.6
     },
     "news": [
         {
-            "title": "“Muito abalado”, jovem brasileiro deportado terá de esperar sete dias pela AIMA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/publico-brasil/noticia/abalado-jovem-brasileiro-deportado-tera-esperar-sete-dias-aima-2184461"
+            "title": "Banca: comissões a mais, juros a menos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/opiniao/opiniao/banca-comissoes-juros-menos-2184312"
         },
         {
-            "title": "Trump recorre ao Supremo após tribunal travar construção do salão de baile na Casa Branca",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/mundo/noticia/trump-recorre-supremo-apos-tribunal-travar-construcao-salao-baile-casa-branca-2184457"
+            "title": "A cidade histórica também precisa de respirar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/opiniao/opiniao/cidade-historica-tambem-precisa-respirar-2184251"
         },
         {
-            "title": "Seguro promulga pagamento de incentivo aos médicos do SNS",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/sociedade/noticia/seguro-promulga-pagamento-incentivo-medicos-sns-2184458"
+            "title": "Ceuta, e mais uma vez as fronteiras da União Europeia: a solidariedade que falta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/opiniao/opiniao/ceuta-fronteiras-uniao-europeia-solidariedade-falta-2184127"
         },
         {
-            "title": "Fenprof pede que PR devolva ao Governo novas regras para a educação inclusiva",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/sociedade/noticia/fenprof-pede-pr-devolva-governo-novas-regras-educacao-inclusiva-2184405"
+            "title": "Os jornais de família",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/opiniao/cronica/jornais-familia-2184395"
         },
         {
-            "title": "Elogio da mentira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/p3/noticia/elogio-mentira-2184091"
+            "title": "Isto já não é só sobre Luís Neves. É sobre a confiança na PJ",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/opiniao/opiniao/ja-nao-so-luis-neves-confianca-pj-2184396"
         }
     ],
     "finance": [],
-    "last_update": "07/08/2026 22:23"
+    "last_update": "07/08/2026 23:23"
 }
