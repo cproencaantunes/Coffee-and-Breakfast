@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.8,
         "manha": 22.6,
-        "tarde": 31.0,
-        "noite": 24.7
+        "tarde": 31.9,
+        "noite": 25.3
     },
     "forecast": {
-        "max": 30.3,
-        "min": 20.7
+        "max": 30.7,
+        "min": 21.0
     },
     "news": [
         {
-            "title": "O que fazer neste fim-de-semana? Andar entre sardinhas e flores de papel",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/fugas/noticia/neste-fimdesemana-andar-sardinhas-flores-papel-2184419"
+            "title": "“O objectivo é que muitas pessoas regressem a Bragança depois do eclipse”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/fugas/entrevista/objectivo-pessoas-regressem-braganca-eclipse-2184365"
         },
         {
-            "title": "AIMA diz quando titular do Startup Visa deve se inscrever na Segurança Social e na AT",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/publico-brasil/noticia/aima-titular-startup-visa-inscrever-seguranca-social-at-2184413"
+            "title": "A vindima, o novo direito do jurista Luís Neves e as promessas liberais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/fugas/cronica/vindima-novo-direito-jurista-luis-neves-promessas-liberais-2183878"
         },
         {
-            "title": "Alunos à espera, reapreciações das notas dos exames estão a chegar às escolas a conta-gotas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/sociedade/noticia/alunos-espera-reapreciacoes-notas-exames-estao-chegar-escolas-contagotas-2184412"
+            "title": "O preço da estupidez migratória",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/publico-brasil/opiniao/preco-estupidez-migratoria-2184423"
         },
         {
-            "title": "Anita LeBrun já celebrou a sua primeira <em>happy hour</em> no lar de idosos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/impar/noticia/anita-lebrun-ja-celebrou-primeira-happy-hour-lar-idosos-2184409"
+            "title": "“Com força em toda a parte”: 15 sinais e um alerta de um Verão extremo na Terra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/azul/noticia/forca-parte-15-sinais-alerta-verao-extremo-terra-2184354"
         },
         {
-            "title": "Arábia Saudita, Turquia e Paquistão assinam acordo de defesa perante o conflito no Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/mundo/noticia/arabia-saudita-turquia-paquistao-assinam-acordo-defesa-conflito-irao-2184407"
+            "title": "Neopop: o sismo Nina Kraviz e o culto a Goldie no festival que é “um <em>dancefloor</em>”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/culturaipsilon/noticia/neopop-sismo-nina-kraviz-culto-goldie-festival-dancefloor-2184402"
         }
     ],
     "finance": [],
-    "last_update": "07/08/2026 15:42"
+    "last_update": "07/08/2026 16:40"
 }
