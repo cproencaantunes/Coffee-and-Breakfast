@@ -6,10 +6,18 @@
         "noite": 25.6
     },
     "forecast": {
-        "max": 31.1,
+        "max": 31.2,
         "min": 21.3
     },
     "news": [
+        {
+            "title": "“Muito abalado”, jovem brasileiro deportado terá de esperar sete dias pela AIMA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/publico-brasil/noticia/abalado-jovem-brasileiro-deportado-tera-esperar-sete-dias-aima-2184461"
+        },
+        {
+            "title": "Trump recorre ao Supremo após tribunal travar construção do salão de baile na Casa Branca",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/mundo/noticia/trump-recorre-supremo-apos-tribunal-travar-construcao-salao-baile-casa-branca-2184457"
+        },
         {
             "title": "Seguro promulga pagamento de incentivo aos médicos do SNS",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/sociedade/noticia/seguro-promulga-pagamento-incentivo-medicos-sns-2184458"
@@ -21,16 +29,8 @@
         {
             "title": "Elogio da mentira",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/p3/noticia/elogio-mentira-2184091"
-        },
-        {
-            "title": "Marita Setas Ferro: Esculturas têxteis para tocar (e defender os oceanos)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/impar/perfil/marita-setas-ferro-esculturas-texteis-tocar-defender-oceanos-2184007"
-        },
-        {
-            "title": "Ondas de calor revelam crise de sobrelotação nas prisões europeias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/07/azul/noticia/ondas-calor-revelam-crise-sobrelotacao-prisoes-europeias-2184352"
         }
     ],
     "finance": [],
-    "last_update": "07/08/2026 21:27"
+    "last_update": "07/08/2026 22:23"
 }
