@@ -2,35 +2,35 @@
     "weather": {
         "atual": 23.6,
         "manha": 24.3,
-        "tarde": 31.7,
-        "noite": 23.5
+        "tarde": 31.1,
+        "noite": 23.3
     },
     "forecast": {
         "max": 28.6,
-        "min": 21.0
+        "min": 20.9
     },
     "news": [
         {
-            "title": "Suspeita de vandalizar Padrão dos Descobrimentos foi acusada quatro anos depois",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/sociedade/noticia/suspeita-vandalizar-padrao-descobrimentos-acusada-quatro-anos-2184108"
+            "title": "A autoconfiança de Fernando Alexandre e a expectativa sobre um processo falhado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/politica/opiniao/autoconfianca-fernando-alexandre-expectativa-processo-falhado-2184397"
         },
         {
-            "title": "Fim da explosão da receita dificulta desafio orçamental do Governo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/economia/noticia/fim-explosao-receita-dificulta-desafio-orcamental-governo-2184358"
+            "title": "Após o eclipse do Sol, as Perseidas terminam a festa com “fogo-de-artifício natural”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/ciencia/noticia/apos-eclipse-sol-perseidas-terminam-festa-fogodeartificio-natural-2183504"
         },
         {
-            "title": "Mais candidatos ao superior são um “sinal positivo”, mas universidades temem aumento do abandono no 1.º ano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/sociedade/noticia/candidatos-superior-sao-sinal-positivo-universidades-temem-aumento-abandono-1-ano-2184417"
+            "title": "AIMA nega renovação de residência e manda empresárias brasileiras embora de Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/publico-brasil/noticia/aima-nega-renovacao-residencia-manda-empresarias-brasileiras-embora-portugal-2184385"
         },
         {
-            "title": "Luís Neves soube previamente da auditoria à PJ e não contempla cenário de demissão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/politica/noticia/luis-neves-soube-previamente-auditoria-pj-nao-contempla-cenario-demissao-2184456"
+            "title": "Amor não se compra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/publico-brasil/opiniao/amor-nao-compra-2184467"
         },
         {
-            "title": "Juízes recusam julgar suspeitos de burla: Estado demorou demasiado a incriminá-los",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/sociedade/noticia/juizes-recusam-julgar-suspeitos-burla-estado-demorou-demasiado-incriminalos-2183757"
+            "title": "Moedas pede “consenso alargado” sobre <em>outdoors</em> mas partidos estão desconfiados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/local/noticia/moedas-pede-consenso-alargado-outdoors-partidos-estao-desconfiados-2183936"
         }
     ],
     "finance": [],
-    "last_update": "08/08/2026 05:34"
+    "last_update": "08/08/2026 06:32"
 }
