@@ -3,13 +3,17 @@
         "atual": 23.6,
         "manha": 24.3,
         "tarde": 31.1,
-        "noite": 23.5
+        "noite": 23.7
     },
     "forecast": {
-        "max": 28.7,
-        "min": 20.9
+        "max": 28.6,
+        "min": 21.0
     },
     "news": [
+        {
+            "title": "Em fase de mudança de pele, Sporting acaba desidratado na Amadora (2-2)",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/desporto/cronica_de_jogo/fase-mudanca-pele-sporting-acaba-desidratado-amadora-22-2184519"
+        },
         {
             "title": "Um <em>burrito</em> viral está a dividir os conservadores norte-americanos na Internet",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/p3/noticia/burrito-viral-dividir-conservadores-norteamericanos-internet-2184514"
@@ -25,12 +29,8 @@
         {
             "title": "Sporting perde com St. Polten e é eliminado da Champions feminina",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/desporto/noticia/sporting-perde-st-polten-eliminado-champions-feminina-2184516"
-        },
-        {
-            "title": "Foi por isso que eu fiz o que fiz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/p3/noticia/fiz-fiz-2184097"
         }
     ],
     "finance": [],
-    "last_update": "08/08/2026 21:19"
+    "last_update": "08/08/2026 22:16"
 }
