@@ -1,9 +1,9 @@
 {
     "weather": {
-        "atual": 23.3,
-        "manha": 23.5,
-        "tarde": 30.9,
-        "noite": 23.1
+        "atual": 23.6,
+        "manha": 23.6,
+        "tarde": 31.4,
+        "noite": 23.3
     },
     "forecast": {
         "max": 29.0,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
+            "title": "Gabinete de Segurança israelita pede que se retomem ataques em Gaza",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/mundo/noticia/gabinete-seguranca-israelita-pede-retomem-ataques-gaza-2184464"
+        },
+        {
+            "title": "Ceuta identifica seis dos 82 corpos recuperados e médicos pedem ajuda urgente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/mundo/noticia/ceuta-identifica-seis-82-corpos-recuperados-medicos-pedem-ajuda-urgente-2184463"
+        },
+        {
+            "title": "Coeso e empoderado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/opiniao/opiniao/coeso-empoderado-2184453"
+        },
+        {
+            "title": "Carvalho Guerra: o alquimista da fé e da ciência",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/opiniao/opiniao/carvalho-guerra-alquimista-fe-ciencia-2184381"
+        },
+        {
             "title": "Banca: comissões a mais, juros a menos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/opiniao/opiniao/banca-comissoes-juros-menos-2184312"
-        },
-        {
-            "title": "A cidade histórica também precisa de respirar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/opiniao/opiniao/cidade-historica-tambem-precisa-respirar-2184251"
-        },
-        {
-            "title": "Ceuta, e mais uma vez as fronteiras da União Europeia: a solidariedade que falta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/opiniao/opiniao/ceuta-fronteiras-uniao-europeia-solidariedade-falta-2184127"
-        },
-        {
-            "title": "Os jornais de família",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/opiniao/cronica/jornais-familia-2184395"
-        },
-        {
-            "title": "Isto já não é só sobre Luís Neves. É sobre a confiança na PJ",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/08/opiniao/opiniao/ja-nao-so-luis-neves-confianca-pj-2184396"
         }
     ],
     "finance": [],
-    "last_update": "07/08/2026 23:23"
+    "last_update": "08/08/2026 00:48"
 }
