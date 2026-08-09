@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 22.3,
-        "manha": 22.9,
+        "manha": 22.8,
         "tarde": 28.9,
-        "noite": 22.8
+        "noite": 22.7
     },
     "forecast": {
         "max": 28.7,
-        "min": 20.5
+        "min": 20.6
     },
     "news": [
         {
-            "title": "O orvalho da manhã",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/09/opiniao/opiniao/orvalho-manha-2184277"
+            "title": "A violência herdada na língua",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/09/publico-brasil/opiniao/violencia-herdada-lingua-2184510"
         },
         {
-            "title": "Numa “era de vidas longas”, está a aumentar o número de reformados que continuam a trabalhar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/09/sociedade/reportagem/vidas-longas-aumentar-numero-reformados-continuam-trabalhar-2183939"
+            "title": "Segundo troço da linha de alta velocidade em risco de ficar deserto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/09/economia/noticia/segundo-troco-linha-alta-velocidade-risco-ficar-deserto-2184367"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/09/opiniao/opiniao/cartas-director-2184501"
+            "title": "Joana Marques: “As pessoas desabituaram-se da crítica, vivem numa bolha”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/09/culturaipsilon/entrevista/joana-marques-pessoas-desabituaramse-critica-vivem-bolha-2184403"
         },
         {
-            "title": "O aeroporto para lá dos ciclos políticos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/09/opiniao/opiniao/aeroporto-ciclos-politicos-2183819"
+            "title": "Imigrantes têm direito ao cartão de saúde europeu. Saiba como pedir",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/09/publico-brasil/noticia/imigrantes-direito-cartao-saude-europeu-saiba-pedir-2184339"
         },
         {
-            "title": "Sustentabilidade do SNS: o papel dos centros de responsabilidade integrados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/09/opiniao/opiniao/sustentabilidade-sns-papel-centros-responsabilidade-integrados-2184237"
+            "title": "O Protocolo Fauci",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/09/opiniao/cronica/protocolo-fauci-2184426"
         }
     ],
     "finance": [],
-    "last_update": "09/08/2026 05:39"
+    "last_update": "09/08/2026 06:36"
 }
