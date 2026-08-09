@@ -2,35 +2,35 @@
     "weather": {
         "atual": 22.3,
         "manha": 22.6,
-        "tarde": 28.5,
-        "noite": 22.6
+        "tarde": 28.4,
+        "noite": 22.8
     },
     "forecast": {
-        "max": 29.0,
-        "min": 20.7
+        "max": 28.8,
+        "min": 20.4
     },
     "news": [
         {
-            "title": "Samu Costa oficializado no Al-Nassr por 22 milhões de euros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/09/desporto/noticia/samu-costa-oficializado-alnassr-22-milhoes-euros-2184546"
+            "title": "O que fazer? Segunda é dia de World Press Photo, Marilyn e <em>Piano Garden</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/09/fugas/noticia/segunda-dia-world-press-photo-marilyn-piano-garden-2184444"
         },
         {
-            "title": "O que descobri sobre a minha família nas fichas do partido nazi",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/09/mundo/noticia/descobri-familia-fichas-partido-nazi-2184540"
+            "title": "UNITA vai deixar de apelar à serenidade dos angolanos depois de um ataque contra o partido no Uíge",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/09/mundo/noticia/unita-vai-deixar-apelar-serenidade-angolanos-ataque-partido-uige-2184552"
         },
         {
-            "title": "Divulgação de arquivo do partido nazi abala muitas histórias familiares na Alemanha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/09/mundo/noticia/divulgacao-arquivo-partido-nazi-abala-historias-familiares-alemanha-2184542"
+            "title": "Campos de sal da Indonésia florescem sob a seca provocada pelo calor escaldante do <em>El Niño</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/09/azul/noticia/campos-sal-indonesia-florescem-seca-provocada-calor-escaldante-el-nino-2184219"
         },
         {
-            "title": "Netanyahu rejeita plano de 15 pontos de Trump para Gaza",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/09/mundo/noticia/netanyahu-rejeita-plano-15-pontos-trump-gaza-2184543"
+            "title": "Franceses e espanhóis disputam venda de comboios de alta velocidade à CP",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/09/economia/noticia/franceses-espanhois-disputam-venda-comboios-alta-velocidade-cp-2184550"
         },
         {
-            "title": "Estudar a coroa solar pode ser uma das partes mais interessantes de um eclipse total",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/09/ciencia/noticia/estudar-coroa-solar-partes-interessantes-eclipse-total-2184539"
+            "title": "Pontes romanas, navios nazis e ossos de mamute emergem com a descida do Danúbio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/09/culturaipsilon/noticia/pontes-romanas-navios-nazis-ossos-mamute-emergem-descida-danubio-2184531"
         }
     ],
     "finance": [],
-    "last_update": "09/08/2026 15:20"
+    "last_update": "09/08/2026 16:20"
 }
