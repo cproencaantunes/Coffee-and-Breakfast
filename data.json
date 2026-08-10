@@ -1,8 +1,8 @@
 {
     "weather": {
         "atual": 21.5,
-        "manha": 22.7,
-        "tarde": 28.2,
+        "manha": 22.6,
+        "tarde": 28.3,
         "noite": 22.8
     },
     "forecast": {
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Como é que um motor de um helicóptero liga Portugal a uma investigação do FBI?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/mundo/noticia/motor-helicoptero-liga-portugal-investigacao-fbi-2184566"
+            "title": "Um descapotável ao luar, <em>Pink moon</em> no auto-rádio: chegava o dia de Nick Drake",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/culturaipsilon/noticia/descapotavel-luar-pink-moon-autoradio-chegava-dia-nick-drake-2183191"
         },
         {
-            "title": "PRR: quantos projetos sacrificados e quantos euros devolvidos?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/opiniao/opiniao/prr-projetos-sacrificados-euros-devolvidos-2184432"
+            "title": "Sismo sentido de madrugada em Odemira, Almodóvar e Santiago Cacém",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/local/noticia/sismo-sentido-madrugada-odemira-almodovar-santiago-cacem-2184579"
         },
         {
-            "title": "Estar à altura de 900 anos de história",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/opiniao/opiniao/estar-altura-900-anos-historia-2184264"
+            "title": "Atletismo: Portugal nos Europeus com comitiva alargada e vários campeões do mundo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/desporto/noticia/atletismo-portugal-europeus-comitiva-alargada-varios-campeoes-mundo-2184553"
         },
         {
-            "title": "A sinistra distopia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/opiniao/opiniao/sinistra-distopia-2183915"
+            "title": "Eurodefense traça sete mudanças que Portugal precisa de fazer na Defesa até 2035",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/politica/noticia/eurodefense-traca-sete-mudancas-portugal-precisa-defesa-ate-2035-2184345"
         },
         {
-            "title": "Água: a escassez começa em quem gere",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/opiniao/opiniao/portugal-gastar-agua-ate-onde-aguentamos-2183434"
+            "title": "Quem tem direito a uma comunidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/publico-brasil/opiniao/direito-comunidade-2184547"
         }
     ],
     "finance": [],
-    "last_update": "10/08/2026 05:15"
+    "last_update": "10/08/2026 07:07"
 }
