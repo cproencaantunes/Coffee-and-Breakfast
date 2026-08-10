@@ -2,14 +2,18 @@
     "weather": {
         "atual": 21.5,
         "manha": 22.7,
-        "tarde": 28.6,
-        "noite": 23.0
+        "tarde": 28.2,
+        "noite": 22.8
     },
     "forecast": {
         "max": 29.4,
-        "min": 20.5
+        "min": 20.6
     },
     "news": [
+        {
+            "title": "Como é que um motor de um helicóptero liga Portugal a uma investigação do FBI?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/mundo/noticia/motor-helicoptero-liga-portugal-investigacao-fbi-2184566"
+        },
         {
             "title": "PRR: quantos projetos sacrificados e quantos euros devolvidos?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/opiniao/opiniao/prr-projetos-sacrificados-euros-devolvidos-2184432"
@@ -25,12 +29,8 @@
         {
             "title": "Água: a escassez começa em quem gere",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/opiniao/opiniao/portugal-gastar-agua-ate-onde-aguentamos-2183434"
-        },
-        {
-            "title": "Pagar quatro e beber dois",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/opiniao/opiniao/pagar-quatro-beber-dois-2184545"
         }
     ],
     "finance": [],
-    "last_update": "10/08/2026 03:05"
+    "last_update": "10/08/2026 05:15"
 }
