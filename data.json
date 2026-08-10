@@ -1,15 +1,27 @@
 {
     "weather": {
-        "atual": 21.5,
-        "manha": 22.3,
-        "tarde": 28.1,
-        "noite": 23.2
+        "atual": 21.6,
+        "manha": 22.5,
+        "tarde": 29.6,
+        "noite": 22.7
     },
     "forecast": {
-        "max": 29.6,
-        "min": 20.6
+        "max": 31.0,
+        "min": 20.3
     },
     "news": [
+        {
+            "title": "Os velhos: a desgraça presente e o nosso futuro colectivo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/11/opiniao/opiniao/velhos-desgraca-presente-futuro-colectivo-2183808"
+        },
+        {
+            "title": "Rússia lança nova vaga de mísseis balísticos contra cidades ucranianas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/11/mundo/noticia/russia-lanca-nova-vaga-misseis-balisticos-cidades-ucranianas-2184687"
+        },
+        {
+            "title": "Serão assim tantos?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/11/opiniao/cronica/serao-assim-tantos-2184601"
+        },
         {
             "title": "Desclassificação do Parque Natural de Sintra-Cascais? Ministra do Ambiente afasta risco",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/azul/noticia/desclassificacao-parque-natural-sintracascais-ministra-ambiente-afasta-risco-2184570"
@@ -17,20 +29,8 @@
         {
             "title": "O que fazer quando uma mulher arde?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/impar/cronica/mulher-arde-2184615"
-        },
-        {
-            "title": "O homem sem olhos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/p3/cronica/homem-olhos-2184421"
-        },
-        {
-            "title": "Mulher baleada na baixa de Lisboa e dois suspeitos em fuga",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/sociedade/noticia/mulher-baleada-baixa-lisboa-dois-suspeitos-fuga-2184679"
-        },
-        {
-            "title": "Livros que cruzam o Atlântico 29",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/newsletter/leituras"
         }
     ],
     "finance": [],
-    "last_update": "10/08/2026 22:25"
+    "last_update": "10/08/2026 23:24"
 }
