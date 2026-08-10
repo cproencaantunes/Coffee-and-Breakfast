@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 21.5,
-        "manha": 22.6,
+        "manha": 22.3,
         "tarde": 28.3,
         "noite": 22.8
     },
     "forecast": {
-        "max": 29.4,
+        "max": 29.6,
         "min": 20.6
     },
     "news": [
         {
-            "title": "“O que fizeram com meu Kauê foi desumano”, desabafa pai de jovem deportado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/publico-brasil/noticia/fizeram-kaue-desumano-desabafa-pai-jovem-deportado-2184517"
+            "title": "Dono de bar em Banguecoque, onde morreram 37 pessoas em incêndio, acusado de negligência",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/mundo/noticia/dono-bar-banguecoque-onde-morreram-37-pessoas-incendio-acusado-negligencia-2184592"
         },
         {
-            "title": "Suspeito do assassínio do <em>rapper</em> Tupac Shakur vai a julgamento 30 anos após crime",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/impar/noticia/suspeito-assassinio-rapper-tupac-shakur-vai-julgamento-30-anos-apos-crime-2184582"
+            "title": "Incêndios florestais levam Canadá a declarar estado de emergência, confirmada uma morte",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/mundo/noticia/incendios-florestais-levam-canada-declarar-estado-emergencia-confirmada-morte-2184604"
         },
         {
-            "title": "Embalagens de alimentos vão ter limites apertados para “químicos eternos” a partir de Agosto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/azul/noticia/embalagens-alimentos-vao-limites-apertados-quimicos-eternos-partir-agosto-2184156"
+            "title": "Compostar o bagaço da uva melhora a saúde dos solos e é mais barato",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/edicoes-publico/noticia/compostar-bagaco-uva-melhora-saude-solos-barato-2184172"
         },
         {
-            "title": "Tufão <em>Dolphin</em> atinge leste da China e obriga a cancelar voos em Xangai",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/mundo/noticia/tufao-dolphin-atinge-leste-china-obriga-cancelar-voos-xangai-2184583"
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/opiniao/opiniao/cartas-director-2184551"
         },
         {
-            "title": "Nuno Banza: “Arrependo-me de ter-me permitido ganhar 20 quilos. Tem sido muito difícil perdê-los”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/impar/noticia/nuno-banza-arrependome-terme-permitido-ganhar-20-quilos-dificil-perdelos-2184242"
+            "title": "Homem baleado nas pernas durante assalto a banco em Alfragide",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/10/sociedade/noticia/homem-baleado-pernas-durante-assalto-banco-alfragide-2184596"
         }
     ],
     "finance": [],
-    "last_update": "10/08/2026 09:05"
+    "last_update": "10/08/2026 10:56"
 }
