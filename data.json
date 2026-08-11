@@ -3,13 +3,17 @@
         "atual": 21.6,
         "manha": 22.3,
         "tarde": 29.8,
-        "noite": 22.8
+        "noite": 22.9
     },
     "forecast": {
         "max": 31.7,
-        "min": 20.1
+        "min": 20.3
     },
     "news": [
+        {
+            "title": "Farmácias vão receber na quarta-feira mais óculos para observar eclipse",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/11/ciencia/noticia/farmacias-vao-receber-quartafeira-oculos-observar-eclipse-2184785"
+        },
         {
             "title": "Gerson Baldé obrigado a “saltar” para fora das medalhas",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/11/desporto/noticia/gerson-balde-obrigado-saltar-medalhas-2184777"
@@ -25,12 +29,8 @@
         {
             "title": "Cristiano Ronaldo e Georgina Rodríguez casaram-se em Cascais",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/11/impar/noticia/cristiano-ronaldo-georgina-rodriguez-casaramse-cascais-2184782"
-        },
-        {
-            "title": "Novo regime do autoconsumo de energia: o que é que mudou?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/11/azul/perguntaserespostas/novo-regime-autoconsumo-energia-mudou-2183252"
         }
     ],
     "finance": [],
-    "last_update": "11/08/2026 21:34"
+    "last_update": "11/08/2026 22:30"
 }
