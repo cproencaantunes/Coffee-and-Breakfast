@@ -2,14 +2,18 @@
     "weather": {
         "atual": 21.5,
         "manha": 22.0,
-        "tarde": 32.2,
-        "noite": 23.4
+        "tarde": 32.1,
+        "noite": 23.3
     },
     "forecast": {
-        "max": 31.0,
-        "min": 20.4
+        "max": 30.9,
+        "min": 20.3
     },
     "news": [
+        {
+            "title": "Todo o Faial é um palco: <em>Ariel</em>, de Lois Patiño",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/culturaipsilon/critica/faial-palco-ariel-lois-patino-2184668"
+        },
         {
             "title": "Moscovo liberta antigo fuzileiro norte-americano por razões humanitárias",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/mundo/noticia/moscovo-liberta-antigo-fuzileiro-norteamericano-razoes-humanitarias-2184795"
@@ -25,12 +29,8 @@
         {
             "title": "APA valida projecto de execução da linha de alta velocidade entre Porto e Gaia",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/azul/noticia/apa-valida-projecto-execucao-linha-alta-velocidade-porto-gaia-2184793"
-        },
-        {
-            "title": "Mais de 110 pessoas resgatadas após incêndio em barco na Indonésia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/mundo/noticia/110-pessoas-resgatadas-apos-incendio-barco-indonesia-2184790"
         }
     ],
     "finance": [],
-    "last_update": "12/08/2026 08:59"
+    "last_update": "12/08/2026 10:07"
 }
