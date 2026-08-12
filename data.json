@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 21.5,
-        "manha": 22.0,
-        "tarde": 31.9,
-        "noite": 23.2
+        "manha": 22.1,
+        "tarde": 32.2,
+        "noite": 23.5
     },
     "forecast": {
-        "max": 30.9,
-        "min": 20.7
+        "max": 31.0,
+        "min": 20.4
     },
     "news": [
         {
+            "title": "Governo quer Ministério Público fora das acções administrativas até 15 mil euros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/sociedade/noticia/governo-quer-ministerio-publico-accoes-administrativas-ate-15-mil-euros-2184784"
+        },
+        {
+            "title": "Meo recebe 250 milhões de euros extras no ano em que corta com 30% dos trabalhadores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/economia/noticia/meo-recebe-250-milhoes-euros-extras-ano-corta-30-trabalhadores-2184765"
+        },
+        {
+            "title": "Tudo sobre o eclipse, incluindo onde procurar óculos certificados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/ciencia/noticia/eclipse-incluindo-onde-procurar-oculos-certificados-2184761"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/opiniao/opiniao/cartas-director-2184767"
+        },
+        {
             "title": "Portugal não está vacinado contra a desconfiança",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/opiniao/opiniao/portugal-nao-vacinado-desconfianca-2184128"
-        },
-        {
-            "title": "O que é a minha terra?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/opiniao/opiniao/terra-2183976"
-        },
-        {
-            "title": "Relações transatlânticas em xeque – o valor da racionalidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/opiniao/opiniao/relacoes-transatlanticas-xeque-valor-racionalidade-2183383"
-        },
-        {
-            "title": "A lição esquecida de Nelson Mandela",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/opiniao/opiniao/licao-esquecida-nelson-mandela-2182140"
-        },
-        {
-            "title": "David Fonseca: “Não gosto de nenhum elogio. Sou o português mais sueco de sempre”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/impar/noticia/david-fonseca-nao-gosto-elogio-portugues-sueco-2182090"
         }
     ],
     "finance": [],
-    "last_update": "12/08/2026 03:23"
+    "last_update": "12/08/2026 05:22"
 }
