@@ -2,14 +2,18 @@
     "weather": {
         "atual": 21.5,
         "manha": 22.0,
-        "tarde": 32.1,
-        "noite": 23.3
+        "tarde": 31.9,
+        "noite": 23.1
     },
     "forecast": {
         "max": 30.9,
         "min": 20.3
     },
     "news": [
+        {
+            "title": "Cristiano Ronaldo e Georgina Rodríguez: cinco momentos-chave de uma década de amor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/impar/noticia/cristiano-ronaldo-georgina-rodriguez-cinco-momentoschave-decada-amor-2184809"
+        },
         {
             "title": "Algas tóxicas invadem o Báltico: cianobactérias afastam banhistas da costa alemã",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/azul/noticia/algas-toxicas-invadem-baltico-cianobacterias-afastam-banhistas-costa-alema-2184797"
@@ -25,12 +29,8 @@
         {
             "title": "Na praia, mas sem fazer ondas: sete piscinas que dão à costa",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/fugas/noticia/praia-ondas-sete-piscinas-dao-costa-2184754"
-        },
-        {
-            "title": "INE confirma desaceleração da inflação para 3% em Julho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/economia/noticia/ine-confirma-desaceleracao-inflacao-3-julho-2184813"
         }
     ],
     "finance": [],
-    "last_update": "12/08/2026 11:37"
+    "last_update": "12/08/2026 12:42"
 }
