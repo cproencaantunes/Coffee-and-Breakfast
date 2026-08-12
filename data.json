@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.5,
         "manha": 22.0,
-        "tarde": 31.9,
+        "tarde": 32.0,
         "noite": 23.1
     },
     "forecast": {
-        "max": 30.9,
-        "min": 20.3
+        "max": 30.8,
+        "min": 20.2
     },
     "news": [
         {
-            "title": "Relatório de operador diz que acidente com autocarro em Agualva-Cacém deveu-se a falha humana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/sociedade/noticia/relatorio-operador-acidente-autocarro-agualvacacem-deveuse-falha-humana-2184831"
+            "title": "Quando o medo marca o coração de Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/opiniao/opiniao/medo-marca-coracao-lisboa-2184820"
         },
         {
-            "title": "Não é “se”, é “quando”: Ordem dos Médicos exige um plano e testes para hospitais resistirem a sismos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/sociedade/noticia/nao-ordem-medicos-exige-plano-testes-hospitais-resistirem-sismos-2184823"
+            "title": "Fenprof acusa ministro de fugir às responsabilidades depois de anúncio de inquérito às escolas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/sociedade/noticia/fenprof-acusa-ministro-fugir-responsabilidades-anuncio-inquerito-escolas-2184855"
         },
         {
-            "title": "Ratos, pragas e contentores a transbordar: queixas sobre lixo urbano aumentam 10,5%",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/azul/noticia/ratos-pragas-contentores-transbordar-queixas-lixo-urbano-aumentam-105-2184838"
+            "title": "Nych larga o colega e a amarela “treme” na Volta a Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/desporto/noticia/nych-largou-colega-amarela-treme-volta-portugal-2184841"
         },
         {
-            "title": "Inflação abranda ligeiramente nos EUA, mas ainda está longe da meta de 2%",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/economia/noticia/inflacao-abranda-ligeiramente-eua-longe-meta-2-2184850"
+            "title": "As roças de São Tomé e Príncipe são património mundial: e agora as pessoas?!",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/culturaipsilon/opiniao/rocas-sao-tome-principe-sao-patrimonio-mundial-pessoas-2184731"
         },
         {
-            "title": "Vídeo de edifícios destruídos numa cidade foi filmado na Colômbia ou Israel? Não, foi na Turquia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/mundo/noticia/video-edificios-destruidos-cidade-filmado-colombia-israel-nao-turquia-2184844"
+            "title": "Uma aldeia de 43 habitantes tornou-se abrigo para 1500 pessoas à procura do eclipse",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/ciencia/noticia/aldeia-43-habitantes-tornouse-abrigo-1500-pessoas-procura-eclipse-2184849"
         }
     ],
     "finance": [],
-    "last_update": "12/08/2026 15:49"
+    "last_update": "12/08/2026 16:44"
 }
