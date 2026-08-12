@@ -3,13 +3,17 @@
         "atual": 21.5,
         "manha": 22.0,
         "tarde": 32.0,
-        "noite": 23.4
+        "noite": 23.2
     },
     "forecast": {
         "max": 30.4,
         "min": 20.4
     },
     "news": [
+        {
+            "title": "Rio de Onor ficou às escuras: “É a primeira vez que vejo o eclipse”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/video/rio-onor-ficou-escuras-primeira-vejo-eclipse-20260812-221844"
+        },
         {
             "title": "À caça do eclipse pelo país",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/ciencia/reportagem/caca-eclipse-pais-2184884"
@@ -25,12 +29,8 @@
         {
             "title": "Coisas que talvez só as mulheres entendam",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/p3/cronica/so-mulheres-entendam-2184431"
-        },
-        {
-            "title": "Ainda não consigo descascar uma laranja",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/impar/opiniao/nao-consigo-descascar-laranja-2184808"
         }
     ],
     "finance": [],
-    "last_update": "12/08/2026 21:33"
+    "last_update": "12/08/2026 22:28"
 }
