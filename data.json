@@ -1,9 +1,9 @@
 {
     "weather": {
         "atual": 21.5,
-        "manha": 22.1,
+        "manha": 22.0,
         "tarde": 32.2,
-        "noite": 23.5
+        "noite": 23.4
     },
     "forecast": {
         "max": 31.0,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Governo quer Ministério Público fora das acções administrativas até 15 mil euros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/sociedade/noticia/governo-quer-ministerio-publico-accoes-administrativas-ate-15-mil-euros-2184784"
+            "title": "O Mapa Verde e a falsa escolha entre ambiente e renováveis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/azul/opiniao/mapa-verde-falsa-escolha-ambiente-renovaveis-2184740"
         },
         {
-            "title": "Meo recebe 250 milhões de euros extras no ano em que corta com 30% dos trabalhadores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/economia/noticia/meo-recebe-250-milhoes-euros-extras-ano-corta-30-trabalhadores-2184765"
+            "title": "Senhores do Algoritmo. As muitas caras de Mark Zuckerberg",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/sociedade/noticia/senhores-algoritmo-caras-mark-zuckerberg-2184146"
         },
         {
-            "title": "Tudo sobre o eclipse, incluindo onde procurar óculos certificados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/ciencia/noticia/eclipse-incluindo-onde-procurar-oculos-certificados-2184761"
+            "title": "Penha Longa, a casa de verão do BCE e ponto de encontro dos bispos de que Trump gosta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/sociedade/noticia/penha-longa-casa-verao-bce-ponto-encontro-bispos-trump-gosta-2184043"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/opiniao/opiniao/cartas-director-2184767"
+            "title": "Alerta de incêndio e calor intenso em várias regiões de Portugal nesta quarta-feira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/sociedade/noticia/alerta-incendio-calor-intenso-varias-regioes-portugal-quartafeira-2184789"
         },
         {
-            "title": "Portugal não está vacinado contra a desconfiança",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/opiniao/opiniao/portugal-nao-vacinado-desconfianca-2184128"
+            "title": "Número de mortos no terramoto na Colômbia em 250, UE anuncia dois milhões de euros em ajuda",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/mundo/noticia/numero-mortos-terramoto-colombia-250-ue-anuncia-dois-milhoes-euros-ajuda-2184791"
         }
     ],
     "finance": [],
-    "last_update": "12/08/2026 05:22"
+    "last_update": "12/08/2026 07:06"
 }
