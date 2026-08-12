@@ -1,8 +1,8 @@
 {
     "weather": {
-        "atual": 21.6,
-        "manha": 22.2,
-        "tarde": 31.7,
+        "atual": 21.5,
+        "manha": 22.0,
+        "tarde": 31.9,
         "noite": 23.2
     },
     "forecast": {
@@ -10,6 +10,10 @@
         "min": 20.7
     },
     "news": [
+        {
+            "title": "Portugal não está vacinado contra a desconfiança",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/opiniao/opiniao/portugal-nao-vacinado-desconfianca-2184128"
+        },
         {
             "title": "O que é a minha terra?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/opiniao/opiniao/terra-2183976"
@@ -25,12 +29,8 @@
         {
             "title": "David Fonseca: “Não gosto de nenhum elogio. Sou o português mais sueco de sempre”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/impar/noticia/david-fonseca-nao-gosto-elogio-portugues-sueco-2182090"
-        },
-        {
-            "title": "O poema do eclipse",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/opiniao/cronica/poema-eclipse-2184729"
         }
     ],
     "finance": [],
-    "last_update": "11/08/2026 23:28"
+    "last_update": "12/08/2026 00:59"
 }
