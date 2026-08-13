@@ -7,9 +7,13 @@
     },
     "forecast": {
         "max": 29.3,
-        "min": 21.1
+        "min": 21.0
     },
     "news": [
+        {
+            "title": "Sismo na Colômbia: centenas continuam desaparecidos, esperança de encontrar sobreviventes diminui",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/13/mundo/noticia/sismo-colombia-centenas-continuam-desaparecidos-esperanca-encontrar-sobreviventes-diminui-2184985"
+        },
         {
             "title": "Europeus de atletismo: Delvis Santos esteve doente, recuperou e brilhou nos 200m",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/13/desporto/noticia/europeus-atletismo-delvis-santos-doente-recuperou-brilhou-200m-2184987"
@@ -25,12 +29,8 @@
         {
             "title": "Outros mares",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/13/p3/cronica/mares-2184683"
-        },
-        {
-            "title": "Governo regulamenta lei do <em>lobby</em>: serão registados todos os contactos com governantes e gabinetes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/13/politica/noticia/governo-regulamenta-lei-lobby-serao-registados-contactos-governantes-gabinetes-2184935"
         }
     ],
     "finance": [],
-    "last_update": "13/08/2026 21:33"
+    "last_update": "13/08/2026 22:29"
 }
