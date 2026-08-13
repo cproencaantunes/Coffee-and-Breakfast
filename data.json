@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 21.5,
+        "atual": 21.7,
         "manha": 22.0,
-        "tarde": 30.3,
-        "noite": 22.7
+        "tarde": 30.6,
+        "noite": 22.8
     },
     "forecast": {
         "max": 29.1,
         "min": 21.1
     },
     "news": [
+        {
+            "title": "As imagens do eclipse que maravilhou Portugal — e não só",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/13/fotogaleria/imagens-eclipse-passou-portugal-415874"
+        },
         {
             "title": "O mundo a ficar mais escuro",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/13/opiniao/editorial/mundo-ficar-escuro-2184857"
@@ -25,12 +29,8 @@
         {
             "title": "Direcção da PJ quer mesmo apurar a verdade? Tenho dúvidas",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/13/opiniao/opiniao/direccao-pj-quer-apurar-verdade-duvidas-2184807"
-        },
-        {
-            "title": "Rio de Onor ficou às escuras: “É a primeira vez que vejo o eclipse”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/12/video/rio-onor-ficou-escuras-primeira-vejo-eclipse-20260812-221844"
         }
     ],
     "finance": [],
-    "last_update": "12/08/2026 23:28"
+    "last_update": "13/08/2026 01:01"
 }
