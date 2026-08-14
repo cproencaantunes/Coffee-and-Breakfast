@@ -1,8 +1,8 @@
 {
     "weather": {
         "atual": 21.7,
-        "manha": 22.6,
-        "tarde": 28.9,
+        "manha": 22.5,
+        "tarde": 29.0,
         "noite": 22.4
     },
     "forecast": {
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "INEM: mais de um quarto das novas viaturas de emergência só serão entregues em 2027",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/sociedade/noticia/inem-quarto-novas-viaturas-emergencia-so-serao-entregues-2027-2183707"
+            "title": "O que ainda falha no processo de descarbonização das empresas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/azul/opiniao/falha-processo-descarbonizacao-empresas-2184921"
         },
         {
-            "title": "De Checkpoint Alpha à “Ponte dos Espiões”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/mundo/reportagem/checkpoint-alpha-ponte-espioes-2182079"
+            "title": "Empreender em Portugal: o problema não é falta de apoio, mas de acesso à informação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/publico-brasil/opiniao/empreender-portugal-problema-nao-falta-apoio-acesso-informacao-2184996"
         },
         {
-            "title": "Ministério prolonga contratos com técnicos especializados para garantir apoios aos alunos no arranque do ano lectivo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/sociedade/noticia/ministerio-prolonga-contratos-tecnicos-especializados-garantir-apoios-alunos-arranque-ano-lectivo-2184967"
+            "title": "Álvaro Beleza: “O PS não deve negociar nada no Orçamento do Estado”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/politica/entrevista/alvaro-beleza-ps-nao-negociar-nada-orcamento-estado-2184908"
         },
         {
-            "title": "Que Montenegro chega à rentrée do PSD no Pontal?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/politica/noticia/montenegro-chega-rentree-psd-pontal-2184961"
+            "title": "Despertador: INEM: mais de um quarto das novas viaturas de emergência só serão entregues em 2027",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/newsletter/despertador"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/opiniao/opiniao/cartas-director-2184964"
+            "title": "Novo balanço aponta para 281 mortes e 379 desaparecidos após sismo na Colômbia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/mundo/noticia/novo-balanco-aponta-281-mortes-379-desaparecidos-apos-sismo-colombia-2184993"
         }
     ],
     "finance": [],
-    "last_update": "14/08/2026 05:23"
+    "last_update": "14/08/2026 07:06"
 }
