@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 21.7,
-        "manha": 22.3,
-        "tarde": 27.6,
-        "noite": 22.2
+        "manha": 22.7,
+        "tarde": 28.0,
+        "noite": 22.9
     },
     "forecast": {
-        "max": 28.0,
-        "min": 21.3
+        "max": 32.5,
+        "min": 21.0
     },
     "news": [
         {
-            "title": "Mais de 20 mil professores colocados nas escolas a um mês do início do ano lectivo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/sociedade/noticia/20-mil-professores-colocados-escolas-mes-inicio-ano-lectivo-2185105"
+            "title": "Quando os governantes começam a processar jornalistas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/opiniao/opiniao/governantes-comecam-processar-jornalistas-2185050"
         },
         {
-            "title": "Vitória SC corajoso deixa em pânico um Sporting eficaz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/desporto/cronica_de_jogo/vitoria-sc-corajoso-deixa-panico-sporting-eficaz-2185094"
+            "title": "O maior inimigo da IA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/opiniao/cronica/maior-inimigo-ia-2185038"
         },
         {
-            "title": "Emprego público renova máximos e ultrapassa 768 mil trabalhadores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/economia/noticia/emprego-publico-renova-maximos-ultrapassa-768-mil-trabalhadores-2185095"
+            "title": "Terramoto de magnitude 7,7 atinge a região de Flores, na Indonésia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/mundo/noticia/terramoto-magnitude-69-atinge-regiao-flores-indonesia-2185107"
         },
         {
-            "title": "Vítima de ciberataque, Liechtenstein descarta pagamento de eventual resgate a <em>hackers</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/enter/noticia/vitima-ciberataque-liechtenstein-descarta-pagamento-eventual-resgate-hackers-2185078"
+            "title": "NSN Development Team abandona Volta após morte de ciclista",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/desporto/noticia/nsn-development-team-abandona-volta-apos-morte-ciclista-2185106"
         },
         {
-            "title": "Estamos a falhar com a Palestina",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/opiniao/editorial/falhar-palestina-2185096"
+            "title": "Montenegro critica “censura moderna” e quer década de desenvolvimento à Cavaco",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/politica/noticia/montenegro-critica-censura-moderna-quer-decada-desenvolvimento-cavaco-2185101"
         }
     ],
     "finance": [],
-    "last_update": "14/08/2026 22:11"
+    "last_update": "14/08/2026 23:10"
 }
