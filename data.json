@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.7,
         "manha": 22.3,
-        "tarde": 28.5,
-        "noite": 22.3
+        "tarde": 27.6,
+        "noite": 22.0
     },
     "forecast": {
-        "max": 28.2,
-        "min": 21.4
+        "max": 27.9,
+        "min": 21.3
     },
     "news": [
         {
-            "title": "Na Malhadinha Nova há música sobre as águas da Ribeira de Terges",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/fugas/noticia/malhadinha-nova-ha-musica-aguas-ribeira-terges-2184960"
+            "title": "Sala de auto-regulação, “<em>kit</em>” e mapa sensorial disponíveis na Feira de São Mateus",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/local/noticia/sala-autoregulacao-kit-mapa-sensorial-disponiveis-feira-sao-mateus-2185028"
         },
         {
-            "title": "Fragatas: Chega chama Melo e empresa NTG ao Parlamento e pede inquérito ao Ministério Público",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/politica/noticia/fragatas-chega-chama-melo-empresa-ntg-parlamento-pede-inquerito-ministerio-publico-2185047"
+            "title": "Trump pede ao Supremo dos EUA que permita construção do salão de baile na Casa Branca",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/mundo/noticia/trump-pede-supremo-eua-permita-construcao-salao-baile-casa-branca-2185063"
         },
         {
-            "title": "Netanyahu descreve Reino Unido como “república islâmica”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/mundo/noticia/netanyahu-descreve-reino-unido-republica-islamica-2185049"
+            "title": "Luigi Mangione pretende declarar-se culpado no processo federal de homicídio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/mundo/noticia/luigi-mangione-pretende-declararse-culpado-processo-federal-homicidio-2185057"
         },
         {
-            "title": "Nove em cada dez provas de Matemática do 9.º ano realizadas na 2.ª fase têm nota negativa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/sociedade/noticia/nove-dez-provas-matematica-9-ano-realizadas-2-fase-nota-negativa-2185042"
+            "title": "Como é bom tapear à galega na Taberna da Casa Solla",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/fugas/cronica/bom-tapear-galega-taberna-casa-solla-2183268"
         },
         {
-            "title": "Preço dos combustíveis deve subir entre oito e dez cêntimos na próxima semana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/economia/noticia/preco-combustiveis-subir-oito-dez-centimos-proxima-semana-2185046"
+            "title": "Morte de ciclista britânico na Volta a Portugal força suspensão da etapa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/desporto/noticia/morte-ciclista-plena-etapa-forca-suspensao-volta-portugal-2185059"
         }
     ],
     "finance": [],
-    "last_update": "14/08/2026 15:40"
+    "last_update": "14/08/2026 16:38"
 }
