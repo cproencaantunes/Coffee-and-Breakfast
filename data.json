@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.7,
         "manha": 22.3,
-        "tarde": 28.9,
-        "noite": 22.4
+        "tarde": 28.5,
+        "noite": 22.3
     },
     "forecast": {
         "max": 28.2,
-        "min": 21.5
+        "min": 21.4
     },
     "news": [
         {
-            "title": "Crescimento real dos salários abranda para 1,8% por causa da inflação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/economia/noticia/crescimento-real-salarios-abranda-18-causa-inflacao-2185026"
+            "title": "O que fazer neste fim-de-semana? Soprar, Fazunchar e andar em romaria",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/fugas/noticia/neste-fimdesemana-soprar-fazunchar-andar-romaria-2185034"
         },
         {
-            "title": "Moelas, como se faz um dos petiscos mais tradicionais de Portugal?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/impar/noticia/moelas-faz-petiscos-tradicionais-portugal-2183370"
+            "title": "&#128139; Sim, Sterling Point é a série ",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/newsletter/proximo_episodio"
         },
         {
-            "title": "Mulher de 92 anos morre após queda no rio Tejo na zona de Cacilhas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/sociedade/noticia/mulher-92-anos-morre-apos-queda-rio-tejo-zona-cacilhas-2185022"
+            "title": "Homicídio em Algés: Rapaz de 15 anos que terá matado a mãe seria vítima de maus tratos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/sociedade/noticia/homicidio-alges-rapaz-15-anos-tera-matado-mae-contexto-maus-tratos-2185030"
         },
         {
-            "title": "Governo vai pagar 2,7 milhões de euros a professores classificadores. Escolas já podem pedir verbas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/sociedade/noticia/governo-vai-pagar-27-milhoes-euros-professores-classificadores-escolas-ja-podem-pedir-verbas-2185017"
+            "title": "Há 100 novos títulos na Filmin. Excepção! Sem levantar o rabo, grande cinema",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/culturaipsilon/podcast/ha-100-novos-titulos-filmin-excepcao-levantar-rabo-cinema-2184940"
         },
         {
-            "title": "Trump pede alterações profundas às recomendações de vacinação infantil nos Estados Unidos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/ciencia/noticia/trump-pede-alteracoes-profundas-recomendacoes-vacinacao-infantil-estados-unidos-2185014"
+            "title": "Com termómetros a chegar aos 35ºC, incêndios atingem Reino Unido, França e Alemanha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/14/azul/noticia/termometros-chegar-35c-incendios-atingem-reino-unido-franca-alemanha-2185016"
         }
     ],
     "finance": [],
-    "last_update": "14/08/2026 11:35"
+    "last_update": "14/08/2026 12:39"
 }
