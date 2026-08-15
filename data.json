@@ -3,13 +3,17 @@
         "atual": 21.6,
         "manha": 22.5,
         "tarde": 26.6,
-        "noite": 22.5
+        "noite": 22.2
     },
     "forecast": {
-        "max": 32.5,
-        "min": 20.9
+        "max": 32.8,
+        "min": 20.5
     },
     "news": [
+        {
+            "title": "FC Porto chutou para canto um problema chamado Rio Ave",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/desporto/cronica_de_jogo/fc-porto-chutou-canto-problema-chamado-rio-ave-2185163"
+        },
         {
             "title": "Pichardo volta a ficar com a prata nos Europeus",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/desporto/noticia/pichardo-volta-ficar-prata-europeus-2185165"
@@ -25,12 +29,8 @@
         {
             "title": "Isaac Nader longe das medalhas na final dos 1500m",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/desporto/noticia/isaac-nader-longe-medalhas-final-1500m-2185162"
-        },
-        {
-            "title": "O Verão de quem não vai a lado nenhum: as famílias de Aurélio e Bruno não têm como ir de férias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/sociedade/reportagem/verao-nao-vai-lado-familias-aurelio-bruno-nao-ir-ferias-2185100"
         }
     ],
     "finance": [],
-    "last_update": "15/08/2026 21:10"
+    "last_update": "15/08/2026 22:09"
 }
