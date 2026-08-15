@@ -1,15 +1,27 @@
 {
     "weather": {
         "atual": 21.6,
-        "manha": 22.7,
-        "tarde": 27.4,
-        "noite": 22.7
+        "manha": 22.5,
+        "tarde": 27.8,
+        "noite": 22.9
     },
     "forecast": {
-        "max": 32.4,
-        "min": 20.7
+        "max": 32.8,
+        "min": 20.9
     },
     "news": [
+        {
+            "title": "Lula enfrenta a extrema-direita e o antipetismo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/publico-brasil/opiniao/lula-enfrenta-extremadireita-antipetismo-2185121"
+        },
+        {
+            "title": "Autoridades marroquinas dizem ter travado a entrada de centenas de migrantes em Ceuta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/mundo/noticia/autoridades-marroquinas-travado-entrada-centenas-migrantes-ceuta-2185120"
+        },
+        {
+            "title": "10 piscinas para mergulhar sem sair da cidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/fugas/noticia/10-piscinas-mergulhar-sair-cidade-2184279"
+        },
         {
             "title": "Alguém assaltou a escola da Rute",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/impar/noticia/alguem-assaltou-escola-rute-2184561"
@@ -17,20 +29,8 @@
         {
             "title": "É preciso proibir a pesca de fundo (não apenas arrasto) na Reserva Marinha D. Carlos, alertam associações de ambiente",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/azul/noticia/preciso-proibir-pesca-fundo-nao-apenas-arrasto-reserva-marinha-d-carlos-alertam-associacoes-ambiente-2185037"
-        },
-        {
-            "title": "DGArtes: Concursos ao Apoio Sustentado abrem em dez dias com 72,8 milhões",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/culturaipsilon/noticia/dgartes-concursos-apoio-sustentado-abrem-dez-dias-728-milhoes-2185119"
-        },
-        {
-            "title": "Campeonato, UEFA e uma Volta que termina de luto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/newsletter/aquecimento"
-        },
-        {
-            "title": "Cinemateca 2026-2027: Paulo Branco, Scorsese, Lino Brocka, Hiroshi Shimizu ou B.B.",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/culturaipsilon/noticia/cinemateca-20262027-paulo-branco-scorsese-lino-brocka-hiroshi-shimizu-bb-2185118"
         }
     ],
     "finance": [],
-    "last_update": "15/08/2026 09:15"
+    "last_update": "15/08/2026 10:11"
 }
