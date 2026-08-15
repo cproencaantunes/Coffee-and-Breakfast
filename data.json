@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.6,
         "manha": 22.5,
-        "tarde": 27.6,
-        "noite": 22.8
+        "tarde": 26.6,
+        "noite": 22.5
     },
     "forecast": {
-        "max": 32.7,
-        "min": 21.0
+        "max": 32.4,
+        "min": 20.9
     },
     "news": [
         {
-            "title": "Fogos atingem França, Bélgica e Balcãs e queimam milhares de hectares",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/mundo/noticia/fogos-atingem-franca-belgica-balcas-queimam-milhares-hectares-2185140"
+            "title": "“Nunca se falou tanto de paisagem e nunca se ignorou tanto a paisagem”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/local/noticia/falou-tanto-paisagem-ignorou-tanto-paisagem-2185114"
         },
         {
-            "title": "Entre o tempo da ciência e o tempo da política: falta de metas, dados dispersos e um “desamor” entre cientistas e políticos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/azul/noticia/tempo-ciencia-tempo-politica-falta-metas-dados-dispersos-desamor-cientistas-politicos-2185139"
+            "title": "Usa champô duas vezes? A rotina também pesa na factura e na poupança de água",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/azul/noticia/usa-champo-duas-vezes-rotina-tambem-pesa-factura-poupanca-agua-2184753"
         },
         {
-            "title": "Pianista brasileiro Cristóvão Bastos comemora 80 anos com shows em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/publico-brasil/noticia/pianista-brasileiro-cristovao-bastos-comemora-80-anos-shows-portugal-2184958"
+            "title": "Extremo australiano Irankunda oficializado como reforço do Sporting",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/desporto/noticia/extremo-australiano-irankunda-oficializado-reforco-sporting-2185145"
         },
         {
-            "title": "Morte na Volta: condutor questionou habitantes e ia na faixa certa em zona sem militares da GNR",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/desporto/noticia/morte-volta-condutor-questionou-habitantes-ia-faixa-certa-zona-militares-2185138"
+            "title": "Ataques israelitas matam 11 pessoas no Sul do Líbano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/mundo/noticia/ataques-israelitas-matam-11-pessoas-sul-libano-2185141"
         },
         {
-            "title": "EUA: cinco feridos em ataque com arma de fogo na Universidade Estadual da Virgínia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/mundo/noticia/eua-cinco-feridos-ataque-arma-fogo-universidade-estadual-virginia-2185137"
+            "title": "O que o Brasil pode aprender com a aposta de Angola no turismo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/publico-brasil/opiniao/brasil-aprender-aposta-angola-turismo-2185142"
         }
     ],
     "finance": [],
-    "last_update": "15/08/2026 15:09"
+    "last_update": "15/08/2026 16:11"
 }
