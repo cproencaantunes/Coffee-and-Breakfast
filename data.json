@@ -6,31 +6,31 @@
         "noite": 22.5
     },
     "forecast": {
-        "max": 32.4,
+        "max": 32.5,
         "min": 20.9
     },
     "news": [
         {
+            "title": "Num ano de <em>El Niño</em>, cientistas correm contra o tempo para salvar recife de coral da Florida",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/azul/noticia/ano-el-nino-cientistas-correm-tempo-salvar-recife-coral-florida-2184656"
+        },
+        {
+            "title": "Grávidas de baixo risco: enfermeiros garantem que não querem assumir funções dos médicos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/sociedade/noticia/gravidas-baixo-risco-enfermeiros-garantem-nao-querem-assumir-funcoes-medicos-2185136"
+        },
+        {
+            "title": "Locarno entre o centro e a margem, com Leopardos para todos os gostos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/culturaipsilon/noticia/locarno-centro-margem-leopardos-gostos-2185149"
+        },
+        {
+            "title": "Mais uma final para Diogo Ribeiro nos Europeus de Paris",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/desporto/noticia/final-diogo-ribeiro-europeus-paris-2185150"
+        },
+        {
             "title": "Volta: Alexis Guérin vence na Senhora da Graça e espreita triunfo final",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/desporto/noticia/volta-alexis-guerin-vence-senhora-graca-espreita-triunfo-final-2185148"
-        },
-        {
-            "title": "Na Amazónia peruana, os derrames de petróleo expõem o abandono dos indígenas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/mundo/reportagem/amazonia-peruana-derrames-petroleo-expoem-abandono-indigenas-2184815"
-        },
-        {
-            "title": "Estado na REN: a venda de Passos, as críticas de Seguro e o papel do fundo soberano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/politica/noticia/estado-ren-venda-passos-criticas-seguro-papel-fundo-soberano-2185143"
-        },
-        {
-            "title": "Lúcia Encarnação: a paixão faz o cocktail",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/fugas/perfil/lucia-encarnacao-paixao-faz-cocktail-2183087"
-        },
-        {
-            "title": "“Nunca se falou tanto de paisagem e nunca se ignorou tanto a paisagem”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/local/noticia/falou-tanto-paisagem-ignorou-tanto-paisagem-2185114"
         }
     ],
     "finance": [],
-    "last_update": "15/08/2026 17:11"
+    "last_update": "15/08/2026 18:12"
 }
