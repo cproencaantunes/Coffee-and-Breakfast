@@ -1,9 +1,9 @@
 {
     "weather": {
         "atual": 21.6,
-        "manha": 22.6,
-        "tarde": 27.5,
-        "noite": 22.9
+        "manha": 22.7,
+        "tarde": 27.4,
+        "noite": 22.7
     },
     "forecast": {
         "max": 32.4,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Salários do Estado crescem menos do que os do privado pelo décimo mês consecutivo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/economia/noticia/salarios-estado-crescem-menos-privado-decimo-mes-consecutivo-2185086"
+            "title": "Nesta cafeteria, o “bolo mole” acompanha o café de especialidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/publico-brasil/noticia/cafeteria-bolo-mole-acompanha-cafe-especialidade-2185052"
         },
         {
-            "title": "“Livreiro excluído da Feira do Livro por condenação por abuso sexual de menor”, publicado a 30 de Julho de 2026",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/local/direito-de-resposta/livreiro-excluido-feira-livro-condenacao-abuso-sexual-menor-publicado-30-julho-2026-2185023"
+            "title": "Moradores de Cascais e Oeiras exigem mais segurança rodoviária na Marginal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/local/noticia/moradores-cascais-oeiras-exigem-seguranca-rodoviaria-marginal-2184306"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/opiniao/opiniao/cartas-director-2184988"
+            "title": "Lições de Ceuta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/opiniao/opiniao/licoes-ceuta-2185092"
         },
         {
-            "title": "Jason Arday, ex-professor de Cambridge acusado de plágio, encontrado morto em casa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/mundo/noticia/jason-arday-exprofessor-cambridge-acusado-plagio-encontrado-morto-casa-2185104"
+            "title": "Rapaz que terá matado a mãe: “Havia muitos sinais de que a situação era gravíssima”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/sociedade/noticia/rapaz-tera-matado-mae-sinais-situacao-gravissima-2185103"
         },
         {
-            "title": "Quando os governantes começam a processar jornalistas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/opiniao/opiniao/governantes-comecam-processar-jornalistas-2185050"
+            "title": "Afinal, quem tem tempo para viver?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/opiniao/opiniao/afinal-tempo-viver-2184250"
         }
     ],
     "finance": [],
-    "last_update": "15/08/2026 05:15"
+    "last_update": "15/08/2026 06:18"
 }
