@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 21.6,
-        "manha": 22.5,
-        "tarde": 26.6,
-        "noite": 22.2
+        "atual": 21.5,
+        "manha": 22.0,
+        "tarde": 31.2,
+        "noite": 28.8
     },
     "forecast": {
-        "max": 32.8,
-        "min": 20.5
+        "max": 32.0,
+        "min": 23.9
     },
     "news": [
+        {
+            "title": "Homem morre em acidente com viatura dos bombeiros em Amarante",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/sociedade/noticia/homem-morre-acidente-viatura-bombeiros-amarante-2185166"
+        },
         {
             "title": "FC Porto chutou para canto um problema chamado Rio Ave",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/desporto/cronica_de_jogo/fc-porto-chutou-canto-problema-chamado-rio-ave-2185163"
@@ -25,12 +29,8 @@
         {
             "title": "O auto-proclamado “dono de Ormuz”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/opiniao/editorial/autoproclamado-dono-ormuz-2185147"
-        },
-        {
-            "title": "Isaac Nader longe das medalhas na final dos 1500m",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/desporto/noticia/isaac-nader-longe-medalhas-final-1500m-2185162"
         }
     ],
     "finance": [],
-    "last_update": "15/08/2026 22:09"
+    "last_update": "15/08/2026 23:10"
 }
