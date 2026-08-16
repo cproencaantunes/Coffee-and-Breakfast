@@ -3,34 +3,34 @@
         "atual": 21.5,
         "manha": 22.2,
         "tarde": 31.3,
-        "noite": 28.4
+        "noite": 28.3
     },
     "forecast": {
-        "max": 31.7,
-        "min": 23.5
+        "max": 32.0,
+        "min": 23.2
     },
     "news": [
         {
-            "title": "Ministério da Saúde chama médicos e vai rever definição de pequena cirurgia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/sociedade/noticia/ministerio-saude-chama-medicos-vai-rever-definicao-cirurgia-2185180"
+            "title": "Mulheres conservadoras, podem ir para dentro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/newsletter/impar"
         },
         {
-            "title": "O que têm em comum o super-herói Green Lantern e Cavaco Silva?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/culturaipsilon/noticia/comum-superheroi-green-lantern-cavaco-silva-2185177"
+            "title": "Cerca de mil bombeiros no combate aos incêndios, zona Norte concentra maioria dos meios",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/sociedade/noticia/cerca-mil-bombeiros-combate-incendios-zona-norte-concentra-maioria-meios-2185182"
         },
         {
-            "title": "Estamos a confundir saúde com controlo?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/ciencia/opiniao/confundir-saude-controlo-2184608"
+            "title": "Pelo menos seis mortos num dos maiores ataques de Kiev desde início da guerra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/mundo/noticia/menos-seis-mortos-maiores-ataques-kiev-desde-inicio-guerra-2185183"
         },
         {
-            "title": "Lucas, cantor sertanejo, morre em Portugal. Ele será enterrado em Presidente Prudente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/publico-brasil/noticia/lucas-cantor-sertanejo-morre-portugal-sera-enterrado-presidente-prudente-2185178"
+            "title": "Nas igrejas do Alentejo, estamos ao fresco entre frescos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/fugas/reportagem/igrejas-alentejo-fresco-frescos-2184704"
         },
         {
-            "title": "Duas pessoas morreram devido a deslizamento de terras em Espanha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/mundo/noticia/duas-pessoas-morreram-devido-deslizamento-terras-espanha-2185176"
+            "title": "O maior incêndio de sempre na Bélgica está agora perto da Alemanha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/mundo/noticia/maior-incendio-belgica-perto-alemanha-2185181"
         }
     ],
     "finance": [],
-    "last_update": "16/08/2026 11:09"
+    "last_update": "16/08/2026 12:16"
 }
