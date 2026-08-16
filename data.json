@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 21.5,
-        "manha": 22.1,
-        "tarde": 31.1,
-        "noite": 28.6
+        "manha": 22.2,
+        "tarde": 31.3,
+        "noite": 28.4
     },
     "forecast": {
-        "max": 32.0,
+        "max": 31.7,
         "min": 23.5
     },
     "news": [
+        {
+            "title": "Lucas, cantor sertanejo, morre em Portugal. Ele será enterrado em Presidente Prudente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/publico-brasil/noticia/lucas-cantor-sertanejo-morre-portugal-sera-enterrado-presidente-prudente-2185178"
+        },
+        {
+            "title": "Duas pessoas morreram devido a deslizamento de terras em Espanha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/mundo/noticia/duas-pessoas-morreram-devido-deslizamento-terras-espanha-2185176"
+        },
         {
             "title": "Quer reduzir a exposição da família a microplásticos na alimentação? Eis seis medidas",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/azul/noticia/quer-reduzir-exposicao-familia-microplasticos-alimentacao-eis-seis-medidas-2183990"
@@ -21,16 +29,8 @@
         {
             "title": "Amyl and the Sniffers, punk aceso num dia morno de Paredes de Coura",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/culturaipsilon/noticia/amyl-and-the-sniffers-punk-aceso-dia-morno-paredes-coura-2185170"
-        },
-        {
-            "title": "Mary de Rachewiltz (1925-2026), amor de filha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/mundo/cronica/mary-rachewiltz-19252026-amor-filha-2184931"
-        },
-        {
-            "title": "Stewart Home: “Quem pratica ioga acredita em tudo o que os professores dizem”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/impar/entrevista/stewart-home-pratica-ioga-acredita-professores-2182301"
         }
     ],
     "finance": [],
-    "last_update": "16/08/2026 09:16"
+    "last_update": "16/08/2026 10:12"
 }
