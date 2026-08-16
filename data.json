@@ -3,34 +3,34 @@
         "atual": 21.5,
         "manha": 22.1,
         "tarde": 31.1,
-        "noite": 28.3
+        "noite": 28.6
     },
     "forecast": {
         "max": 32.0,
-        "min": 23.8
+        "min": 23.5
     },
     "news": [
         {
-            "title": "Governo diz que modelo de transportes para o novo aeroporto não está fechado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/economia/noticia/governo-modelo-transportes-novo-aeroporto-nao-fechado-2184451"
+            "title": "Hibernação induzida em ratinhos revela segredos da memória de longo prazo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/ciencia/noticia/hibernacao-induzida-ratinhos-revela-segredos-memoria-longo-prazo-2184800"
         },
         {
-            "title": "Os crimes da inglesa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/opiniao/opiniao/crimes-inglesa-2185133"
+            "title": "PSP: polícia para imigração pode andar sem farda e multar patrão de imigrante indocumentado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/publico-brasil/noticia/psp-policiais-podem-andar-farda-multar-patrao-imigrante-indocumentado-2185161"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/opiniao/opiniao/cartas-director-2185146"
+            "title": "Criar um tecto máximo de gastos com medicamentos seria uma forma de proteger famílias com menos dinheiro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/sociedade/noticia/criar-tecto-maximo-gastos-medicamentos-forma-proteger-familias-menos-dinheiro-2184859"
         },
         {
-            "title": "Homem morre em acidente com viatura dos bombeiros em Amarante",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/sociedade/noticia/homem-morre-acidente-viatura-bombeiros-amarante-2185166"
+            "title": "Açores avisam que República terá de se “chegar à frente” caso EUA parem descontaminação nas Lajes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/politica/noticia/acores-avisam-republica-tera-chegar-frente-caso-eua-parem-descontaminacao-lajes-2185122"
         },
         {
-            "title": "FC Porto chutou para canto um problema chamado Rio Ave",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/desporto/cronica_de_jogo/fc-porto-chutou-canto-problema-chamado-rio-ave-2185163"
+            "title": "A IA e o desafio da aprendizagem real",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/opiniao/opiniao/ia-desafio-aprendizagem-real-2180481"
         }
     ],
     "finance": [],
-    "last_update": "16/08/2026 05:17"
+    "last_update": "16/08/2026 06:20"
 }
