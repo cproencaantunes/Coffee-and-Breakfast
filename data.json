@@ -3,13 +3,25 @@
         "atual": 21.5,
         "manha": 22.2,
         "tarde": 31.3,
-        "noite": 28.3
+        "noite": 28.1
     },
     "forecast": {
-        "max": 32.0,
-        "min": 23.2
+        "max": 32.4,
+        "min": 22.9
     },
     "news": [
+        {
+            "title": "Quatro pinturas com 550 anos roubadas em Itália, talvez por encomenda",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/culturaipsilon/noticia/quatro-pinturas-550-anos-roubadas-italia-encomenda-2185200"
+        },
+        {
+            "title": "A desertificação em Portugal não mora só no Alentejo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/azul/noticia/desertificacao-portugal-nao-mora-so-alentejo-2185071"
+        },
+        {
+            "title": "Francisca Martins à beira do pódio nos Europeus de natação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/desporto/noticia/francisca-martins-beira-podio-europeus-natacao-2185203"
+        },
         {
             "title": "Diogo Ribeiro fecha Europeus de natação com recorde nacional",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/desporto/noticia/diogo-ribeiro-fecha-europeus-natacao-recorde-nacional-2185199"
@@ -17,20 +29,8 @@
         {
             "title": "Alexis Guérin venceu a Volta a Portugal, Rui Oliveira concretizou um sonho",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/desporto/noticia/alexis-guerin-venceu-volta-portugal-rui-oliveira-concretizou-sonho-2185197"
-        },
-        {
-            "title": "Israel volta a aliviar restrições a orações judaicas no Pátio das Mesquitas e desafia o acordo histórico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/mundo/noticia/israel-volta-aliviar-restricoes-oracoes-judaicas-patio-mesquitas-desafia-acordo-historico-2185196"
-        },
-        {
-            "title": "O Arsenal ganhou a Community Shield e foi muito fácil",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/desporto/noticia/arsenal-ganhou-community-shield-facil-2185195"
-        },
-        {
-            "title": "Ranking de Xangai: universidades do Minho, Lisboa e Porto descem, Coimbra sobe",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/sociedade/noticia/ranking-xangai-universidades-minho-lisboa-porto-descem-coimbra-sobe-2185193"
         }
     ],
     "finance": [],
-    "last_update": "16/08/2026 17:10"
+    "last_update": "16/08/2026 18:12"
 }
