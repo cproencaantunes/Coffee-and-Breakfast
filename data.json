@@ -11,6 +11,10 @@
     },
     "news": [
         {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/opiniao/opiniao/cartas-director-2185146"
+        },
+        {
             "title": "Homem morre em acidente com viatura dos bombeiros em Amarante",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/sociedade/noticia/homem-morre-acidente-viatura-bombeiros-amarante-2185166"
         },
@@ -25,12 +29,8 @@
         {
             "title": "Trinta centímetros de fé",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/p3/cronica/trinta-centimetros-fe-2184685"
-        },
-        {
-            "title": "O auto-proclamado “dono de Ormuz”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/15/opiniao/editorial/autoproclamado-dono-ormuz-2185147"
         }
     ],
     "finance": [],
-    "last_update": "16/08/2026 02:14"
+    "last_update": "16/08/2026 03:38"
 }
