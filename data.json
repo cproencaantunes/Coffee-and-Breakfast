@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 26.1,
-        "manha": 24.3,
-        "tarde": 33.0,
-        "noite": 26.8
+        "manha": 24.4,
+        "tarde": 31.0,
+        "noite": 26.2
     },
     "forecast": {
-        "max": 27.3,
-        "min": 21.5
+        "max": 26.8,
+        "min": 21.4
     },
     "news": [
+        {
+            "title": "Carneiro ou Montenegro, quem leva a melhor na <em>rentrée</em> política?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/17/politica/noticia/carneiro-montenegro-leva-melhor-rentree-politica-2185217"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/17/opiniao/opiniao/cartas-director-2185159"
+        },
         {
             "title": "Socialistas com um “cheirinho” a 1995: “O barco vai chegar a bom porto”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/politica/reportagem/socialistas-cheirinho-1995-barco-vai-chegar-bom-porto-2185207"
@@ -21,16 +29,8 @@
         {
             "title": "Lens reduzido a 10 surpreende PSG e conquista Supertaça francesa",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/desporto/noticia/lens-reduzido-10-surpreende-psg-conquista-supertaca-francesa-2185211"
-        },
-        {
-            "title": "Utentes dizem que IVG foram “descontinuadas” no Garcia de Orta, hospital fala em suspensão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/sociedade/noticia/utentes-ivg-descontinuadas-garcia-orta-hospital-fala-suspensao-2185210"
-        },
-        {
-            "title": "Prédios sem o abcesso das marquises",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/16/p3/cronica/predios-abcesso-marquises-2184686"
         }
     ],
     "finance": [],
-    "last_update": "17/08/2026 03:39"
+    "last_update": "17/08/2026 04:30"
 }
