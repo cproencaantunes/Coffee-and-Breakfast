@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 26.1,
-        "manha": 24.4,
-        "tarde": 31.0,
-        "noite": 26.2
+        "manha": 24.7,
+        "tarde": 31.9,
+        "noite": 26.6
     },
     "forecast": {
         "max": 26.8,
-        "min": 21.4
+        "min": 21.6
     },
     "news": [
         {
+            "title": "ARTV emitiu mais de 12 mil horas e Parlamento bateu recordes de participação jovem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/17/politica/noticia/artv-emitiu-12-mil-horas-parlamento-bateu-recordes-participacao-jovem-2184340"
+        },
+        {
+            "title": "Cem dias de Magyar na Hungria: “Já não se ouvem conversas sobre o Fidesz”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/17/mundo/noticia/cem-dias-magyar-hungria-ja-nao-ouvem-conversas-fidesz-2185024"
+        },
+        {
+            "title": "Patrícia Matos: “Gostaria de não comer Mentos de mentol compulsivamente”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/17/impar/noticia/patricia-matos-gostaria-nao-comer-mentos-mentol-compulsivamente-2184247"
+        },
+        {
+            "title": "João Almeida sobre Luís Neves: “O CDS não tem que ter confiança política em ministros”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/17/politica/entrevista/joao-almeida-luis-neves-cds-nao-confianca-politica-ministros-2185154"
+        },
+        {
             "title": "“Colocar mais pessoas na prisão não está a tornar as sociedades mais seguras”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/17/sociedade/entrevista/colocar-pessoas-prisao-nao-tornar-sociedades-seguras-2176906"
-        },
-        {
-            "title": "Não há territórios dispensáveis: a Linha do Douro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/17/opiniao/opiniao/nao-ha-territorios-dispensaveis-linha-douro-2184870"
-        },
-        {
-            "title": "Tu é que não estás bom",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/17/opiniao/opiniao/nao-bom-2185179"
-        },
-        {
-            "title": "Ondas de calor aceleram subida do risco económico das alterações climáticas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/17/economia/noticia/ondas-calor-antecipam-risco-economico-alteracoes-climaticas-2185124"
-        },
-        {
-            "title": "Carta Aberta à Bastonária da Ordem dos Nutricionistas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/17/opiniao/opiniao/carta-aberta-bastonaria-ordem-nutricionistas-2185158"
         }
     ],
     "finance": [],
-    "last_update": "17/08/2026 05:25"
+    "last_update": "17/08/2026 06:31"
 }
