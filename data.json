@@ -2,14 +2,26 @@
     "weather": {
         "atual": 24.4,
         "manha": 21.8,
-        "tarde": 27.6,
+        "tarde": 27.3,
         "noite": 23.7
     },
     "forecast": {
-        "max": 26.7,
-        "min": 20.8
+        "max": 27.0,
+        "min": 20.5
     },
     "news": [
+        {
+            "title": "“Processo fechado”: Governo volta a afastar “reforma estrutural” da Segurança Social nesta legislatura",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/politica/noticia/processo-fechado-governo-volta-afastar-reforma-estrutural-seguranca-social-legislatura-2185412"
+        },
+        {
+            "title": "“Quero falar em nome de Diana”: Charles Spencer anuncia livro sobre a princesa do povo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/impar/noticia/quero-falar-nome-diana-charles-spencer-anuncia-livro-princesa-povo-2185399"
+        },
+        {
+            "title": "Espanha vai criar mais lugares de acolhimento para migrantes após ultimato de Ceuta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/mundo/noticia/espanha-vai-criar-lugares-acolhimento-migrantes-apos-ultimato-ceuta-2185404"
+        },
         {
             "title": "“O racismo no Brasil é criminoso”, diz cineasta que apresenta Clóvis Moura a Lisboa",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/publico-brasil/noticia/racismo-brasil-criminoso-cineasta-apresenta-clovis-moura-lisboa-2185328"
@@ -17,20 +29,8 @@
         {
             "title": "Poupança “grão-a-grão” para a reforma inclui conta-jovem, Certificados de Aforro especiais e hipotecas inversas",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/economia/noticia/poupanca-graoagrao-reforma-inclui-contajovem-certificados-aforro-especiais-hipotecas-inversas-2185380"
-        },
-        {
-            "title": "Paramount pede caução de 1,62 mil milhões de dólares pelo impasse na compra da Warner",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/culturaipsilon/noticia/paramount-pede-caucao-162-mil-milhoes-dolares-impasse-compra-warner-2185396"
-        },
-        {
-            "title": "Análise de arbitragem: actuações positivas em jornada sem casos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/desporto/analise/analise-arbitragem-actuacoes-positivas-jornada-casos-2185394"
-        },
-        {
-            "title": "UE pede a Israel que proteja civis após ministro sugerir que se matem palestinianos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/mundo/noticia/ue-pede-israel-proteja-civis-apos-ministro-sugerir-matem-palestinianos-2185391"
         }
     ],
     "finance": [],
-    "last_update": "18/08/2026 15:20"
+    "last_update": "18/08/2026 16:18"
 }
