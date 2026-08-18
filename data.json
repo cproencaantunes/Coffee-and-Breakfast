@@ -1,15 +1,23 @@
 {
     "weather": {
-        "atual": 24.4,
-        "manha": 21.8,
-        "tarde": 27.3,
-        "noite": 24.4
+        "atual": 22.4,
+        "manha": 21.6,
+        "tarde": 27.2,
+        "noite": 23.7
     },
     "forecast": {
-        "max": 27.3,
-        "min": 20.7
+        "max": 26.4,
+        "min": 20.1
     },
     "news": [
+        {
+            "title": "Alinhas?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/19/opiniao/cronica/alinhas-2185364"
+        },
+        {
+            "title": "Temperatura da água do mar na Península Ibérica esteve cinco graus acima do normal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/19/azul/noticia/temperatura-agua-mar-peninsula-iberica-cinco-graus-acima-normal-2185398"
+        },
         {
             "title": "Ben Gvir anuncia construção de unidade para executar palestinianos condenados à morte",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/mundo/noticia/ben-gvir-anuncia-construcao-unidade-executar-palestinianos-condenados-morte-2185444"
@@ -21,16 +29,8 @@
         {
             "title": "<em>Lost Weekend</em> é muita gente, mas ainda é Phoebe Bridgers",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/culturaipsilon/critica/lost-weekend-gente-phoebe-bridgers-2185415"
-        },
-        {
-            "title": "O mundo inteiro na bola Nívea",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/p3/cronica/mundo-inteiro-bola-nivea-2185423"
-        },
-        {
-            "title": "Rui Chafes dialoga com Alberto Giacometti nas margens do Mar do Norte",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/culturaipsilon/noticia/rui-chafes-dialoga-alberto-giacometti-margens-mar-norte-2184938"
         }
     ],
     "finance": [],
-    "last_update": "18/08/2026 22:10"
+    "last_update": "18/08/2026 23:11"
 }
