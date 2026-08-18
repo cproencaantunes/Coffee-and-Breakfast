@@ -3,13 +3,17 @@
         "atual": 24.4,
         "manha": 21.8,
         "tarde": 27.3,
-        "noite": 23.9
+        "noite": 24.4
     },
     "forecast": {
-        "max": 27.0,
+        "max": 27.3,
         "min": 20.7
     },
     "news": [
+        {
+            "title": "Ben Gvir anuncia construção de unidade para executar palestinianos condenados à morte",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/mundo/noticia/ben-gvir-anuncia-construcao-unidade-executar-palestinianos-condenados-morte-2185444"
+        },
         {
             "title": "Morre Glória Menezes, uma das grandes atrizes do teatro e da TV, aos 91 anos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/publico-brasil/noticia/morre-gloria-menezes-atrizes-teatro-tv-91-anos-2185443"
@@ -25,12 +29,8 @@
         {
             "title": "Rui Chafes dialoga com Alberto Giacometti nas margens do Mar do Norte",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/culturaipsilon/noticia/rui-chafes-dialoga-alberto-giacometti-margens-mar-norte-2184938"
-        },
-        {
-            "title": "Governo avisa que hospitais têm de garantir IVG a tempo e assumir custos, PCP, PS e BE querem explicações",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/sociedade/noticia/governo-avisa-hospitais-garantir-ivg-tempo-assumir-custos-pcp-ps-be-querem-explicacoes-2185440"
         }
     ],
     "finance": [],
-    "last_update": "18/08/2026 21:12"
+    "last_update": "18/08/2026 22:10"
 }
