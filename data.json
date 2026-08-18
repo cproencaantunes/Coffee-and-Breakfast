@@ -1,15 +1,27 @@
 {
     "weather": {
         "atual": 24.4,
-        "manha": 22.3,
-        "tarde": 26.6,
-        "noite": 22.5
+        "manha": 21.8,
+        "tarde": 27.6,
+        "noite": 23.7
     },
     "forecast": {
         "max": 26.7,
-        "min": 20.6
+        "min": 20.8
     },
     "news": [
+        {
+            "title": "Pai da filha de Hayden Panettiere reage: “Falarei sempre da mãe dela com respeito”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/impar/noticia/pai-filha-hayden-panettiere-reage-falarei-mae-respeito-2185367"
+        },
+        {
+            "title": "IL quer ouvir ministro das Finanças no Parlamento sobre reentrada do Estado no capital da REN",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/politica/noticia/il-quer-ouvir-ministro-financas-parlamento-reentrada-estado-capital-ren-2185365"
+        },
+        {
+            "title": "Montepio ia vender um banco por 35 milhões de euros, mas BCE pôs travão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/economia/noticia/montepio-ia-vender-banco-35-milhoes-euros-bce-pos-travao-2185363"
+        },
         {
             "title": "Grupo de trabalho fala em “ilusão”, Segurança Social tem défice de 1,944 mil milhões",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/economia/noticia/grupo-trabalho-fala-ilusao-seguranca-social-defice-1944-mil-milhoes-2185360"
@@ -17,20 +29,8 @@
         {
             "title": "“Tenho uma chance agora?”: apátridas podem pedir estatuto a partir de 1 de Setembro e Jasmin “é o primeiro da fila”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/sociedade/noticia/apatridas-podem-pedir-estatuto-partir-1-setembro-2184603"
-        },
-        {
-            "title": "Governo fixa em 90 mil euros valor para contratos de associação com colégios privados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/sociedade/noticia/governo-fixa-90-mil-euros-valor-contratos-associacao-colegios-privados-2185357"
-        },
-        {
-            "title": "Rei da Noruega, Haroldo V, está hospitalizado com anemia hemolítica",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/impar/noticia/rei-noruega-haroldo-v-hospitalizado-anemia-hemolitica-2185355"
-        },
-        {
-            "title": "Kiev ataca Moscovo com 620 <em>drones</em> em mais uma noite de guerra aérea",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/mundo/noticia/kiev-ataca-moscovo-620-drones-noite-guerra-aerea-2185353"
         }
     ],
     "finance": [],
-    "last_update": "18/08/2026 11:14"
+    "last_update": "18/08/2026 12:22"
 }
