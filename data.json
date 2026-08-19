@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 22.3,
-        "manha": 21.6,
+        "manha": 21.5,
         "tarde": 27.0,
         "noite": 23.7
     },
     "forecast": {
-        "max": 26.4,
+        "max": 27.4,
         "min": 20.1
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/19/opiniao/opiniao/cartas-director-2185417"
+        },
         {
             "title": "Alinhas?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/19/opiniao/cronica/alinhas-2185364"
@@ -25,12 +29,8 @@
         {
             "title": "Morre Glória Menezes, uma das grandes atrizes do teatro e da TV, aos 91 anos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/publico-brasil/noticia/morre-gloria-menezes-atrizes-teatro-tv-91-anos-2185443"
-        },
-        {
-            "title": "<em>Lost Weekend</em> é muita gente, mas ainda é Phoebe Bridgers",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/18/culturaipsilon/critica/lost-weekend-gente-phoebe-bridgers-2185415"
         }
     ],
     "finance": [],
-    "last_update": "19/08/2026 03:36"
+    "last_update": "19/08/2026 04:25"
 }
