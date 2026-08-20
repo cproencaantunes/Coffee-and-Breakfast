@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 21.7,
-        "manha": 21.7,
-        "tarde": 24.9,
+        "manha": 21.6,
+        "tarde": 25.4,
         "noite": 21.1
     },
     "forecast": {
-        "max": 25.3,
+        "max": 25.7,
         "min": 18.9
     },
     "news": [
         {
-            "title": "Área ardida na Europa pode triplicar até ao fim do século",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/azul/noticia/area-ardida-europa-triplicar-ate-fim-seculo-2185536"
+            "title": "<em>Sounds of Architecture</em>: ouvir as cidades e quem as constrói e habita",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/culturaipsilon/noticia/ouvir-cidades-constroi-habita-2184824"
         },
         {
-            "title": "Trump anuncia “guerra económica” inédita contra Teerão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/mundo/noticia/trump-anuncia-guerra-economica-inedita-teerao-2185548"
+            "title": "Dominique Perrault: “O subsolo é um mundo que tem a sua própria paisagem”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/culturaipsilon/entrevista/dominique-perrault-subsolo-mundo-propria-paisagem-2184818"
         },
         {
-            "title": "Porta-contentores sul-coreano vai testar rota do Árctico para a Europa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/azul/noticia/portacontentores-sulcoreano-vai-testar-rota-arctico-europa-2185545"
+            "title": "Detenções por uso negligente do fogo quase triplicam e coimas por falta de limpeza chegam aos 94.900 euros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/sociedade/noticia/detencoes-uso-negligente-fogo-quase-triplicam-coimas-falta-limpeza-chegam-94900-euros-2185480"
         },
         {
-            "title": "Protectores solares: um escudo para a saúde humana e um desafio para o oceano?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/azul/noticia/protectores-solares-escudo-saude-humana-desafio-oceano-2185018"
+            "title": "Migrantes começaram a ser realojados em estruturas temporárias em Ceuta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/mundo/noticia/migrantes-comecaram-realojados-estruturas-temporarias-ceuta-2185554"
         },
         {
-            "title": "É tempo de começarmos a (re)descobrir Sei Miguel",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/culturaipsilon/noticia/tempo-comecarmos-redescobrir-sei-miguel-2185511"
+            "title": "Gaivina-dos-pauis: um bicho muito “imprevisível” e “peculiar”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/azul/noticia/gaivinadospauis-bicho-imprevisivel-peculiar-2185381"
         }
     ],
     "finance": [],
-    "last_update": "20/08/2026 09:22"
+    "last_update": "20/08/2026 10:18"
 }
