@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.7,
         "manha": 21.6,
-        "tarde": 25.4,
-        "noite": 21.1
+        "tarde": 24.9,
+        "noite": 20.9
     },
     "forecast": {
-        "max": 25.7,
-        "min": 18.9
+        "max": 25.3,
+        "min": 18.8
     },
     "news": [
         {
-            "title": "Marcos Rodríguez, o “menino lobo da Serra Morena”, morre aos 80 anos na Galiza",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/mundo/noticia/marcos-rodriguez-menino-lobo-serra-morena-morre-80-anos-galiza-2185559"
+            "title": "Homem filmado a andar de trotineta em contramão na Ponte 25 de Abril",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/video/homem-filmado-trotineta-contramao-ponte-25-abril-20260820-130035"
         },
         {
-            "title": "Avanço contra o melanoma pode dar início a onda de vacinas para o cancro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/ciencia/noticia/avanco-melanoma-dar-inicio-onda-vacinas-cancro-2185547"
+            "title": "Nova tecnologia promete televisores melhores e mais acessíveis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/enter/noticia/nova-tecnologia-promete-televisores-melhores-acessiveis-2185581"
         },
         {
-            "title": "Homem que ia de trotineta em contramão na Ponte 25 de Abril tinha 2,25g/l de álcool",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/local/noticia/homem-ia-trotineta-contramao-ponte-25-abril-225gl-alcool-2185566"
+            "title": "“Manda mensagem à tua mãe mal aterrares”: Lufthansa ensina etiqueta de viagem numa edição limitada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/fugas/noticia/lufthansa-ensina-etiqueta-viagem-tshirts-bones-edicao-limitada-2185571"
         },
         {
-            "title": "O segredo espanhol não está nos campeões. Está no sistema",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/p3/cronica/segredo-espanhol-nao-campeoes-sistema-2185431"
+            "title": "Brasil pede reforço de policiamento e transportes para eleições em Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/publico-brasil/noticia/brasil-pede-reforco-policiamento-transportes-eleicoes-lisboa-2185573"
         },
         {
-            "title": "<em>Sounds of Architecture</em>: ouvir as cidades e quem as constrói e habita",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/culturaipsilon/noticia/ouvir-cidades-constroi-habita-2184824"
+            "title": "Os incêndios nas serras “favorecem a expansão” da desertificação no Algarve",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/azul/reportagem/incendios-serras-favorecem-expansao-desertificacao-algarve-2185156"
         }
     ],
     "finance": [],
-    "last_update": "20/08/2026 11:16"
+    "last_update": "20/08/2026 12:23"
 }
