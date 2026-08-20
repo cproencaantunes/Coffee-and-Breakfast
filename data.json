@@ -1,9 +1,9 @@
 {
     "weather": {
         "atual": 21.7,
-        "manha": 21.8,
-        "tarde": 26.6,
-        "noite": 21.3
+        "manha": 21.7,
+        "tarde": 24.9,
+        "noite": 21.1
     },
     "forecast": {
         "max": 25.3,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "O Presidente a assobiar para as árvores na lei das <em>burqas</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/opiniao/opiniao/presidente-assobiar-arvores-lei-burqas-2185504"
+            "title": "Comprovada hipótese de Charles Darwin sobre plantas carnívoras",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/ciencia/noticia/comprovada-hipotese-charles-darwin-plantas-carnivoras-2184086"
         },
         {
-            "title": "Grupo de trabalho defende aumentos iguais para todos os pensionistas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/economia/noticia/grupo-trabalho-defende-aumentos-iguais-pensionistas-2185518"
+            "title": "“Estou que nem a Xuxa. Só não mostro a virilha”, brinca a atriz Nany People",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/publico-brasil/noticia/xuxa-so-nao-mostro-virilha-brinca-atriz-nany-people-2185335"
         },
         {
-            "title": "EUA saúdam entrada do Estado português na REN",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/economia/noticia/eua-saudam-entrada-estado-portugues-ren-2185492"
+            "title": "Benfica e Sp. Braga prontos para saltar a terceira barreira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/desporto/noticia/benfica-sp-braga-prontos-saltar-terceira-barreira-2185513"
         },
         {
-            "title": "Fisco já iniciou liquidação de impostos sobre negócio das barragens",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/economia/noticia/fisco-ja-iniciou-liquidacao-impostos-negocio-barragens-2185422"
+            "title": "Férias sem sobressaltos: proteja o telemóvel e evite contas-surpresa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/enter/noticia/ferias-sobressaltos-proteja-telemovel-evite-contassurpresa-2185476"
         },
         {
-            "title": "Quem é Natalie Harp, a “impressora humana” que está sempre com Trump?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/mundo/noticia/natalie-harp-impressora-humana-trump-2185524"
+            "title": "INEM: mais de 26 mil doentes em estado crítico não tiveram o nível de socorro adequado em 2025",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/sociedade/noticia/inem-26-mil-doentes-estado-critico-nao-nivel-socorro-adequado-2025-2185509"
         }
     ],
     "finance": [],
-    "last_update": "20/08/2026 05:20"
+    "last_update": "20/08/2026 06:25"
 }
