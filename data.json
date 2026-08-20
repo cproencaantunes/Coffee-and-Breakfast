@@ -1,15 +1,23 @@
 {
     "weather": {
-        "atual": 21.6,
+        "atual": 21.7,
         "manha": 21.5,
-        "tarde": 26.4,
-        "noite": 21.0
+        "tarde": 24.7,
+        "noite": 20.8
     },
     "forecast": {
         "max": 25.7,
         "min": 18.6
     },
     "news": [
+        {
+            "title": "Acidente com helicóptero turístico no Quénia mata sete pessoas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/mundo/noticia/acidente-helicoptero-turistico-quenia-mata-sete-pessoas-2185537"
+        },
+        {
+            "title": "Evangelhos e imigração segundo Graça Castanheira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/opiniao/opiniao/evangelhos-imigracao-segundo-graca-castanheira-2185487"
+        },
         {
             "title": "A imperdoável heresia",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/opiniao/cronica/imperdoavel-heresia-2185479"
@@ -21,16 +29,8 @@
         {
             "title": "Benfica contrata central Alessandro Circati: “Gosto de jogar ao ataque”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/19/desporto/noticia/benfica-contrata-central-alessandro-circati-gosto-jogar-ataque-2185534"
-        },
-        {
-            "title": "Ventura volta à perda da nacionalidade e acusa Governo de preparar corte nas pensões",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/19/politica/noticia/ventura-volta-perda-nacionalidade-acusa-governo-preparar-corte-pensoes-2185529"
-        },
-        {
-            "title": "O relógio que ajudou a dar a hora certa a meio do Atlântico há mais de 100 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/19/culturaipsilon/noticia/relogio-ajudou-dar-hora-certa-meio-atlantico-ha-100-anos-2185421"
         }
     ],
     "finance": [],
-    "last_update": "19/08/2026 23:13"
+    "last_update": "20/08/2026 00:35"
 }
