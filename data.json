@@ -1,15 +1,23 @@
 {
     "weather": {
-        "atual": 21.7,
-        "manha": 21.6,
-        "tarde": 24.5,
-        "noite": 20.8
+        "atual": 19.7,
+        "manha": 20.3,
+        "tarde": 25.7,
+        "noite": 20.0
     },
     "forecast": {
-        "max": 25.7,
-        "min": 18.7
+        "max": 25.4,
+        "min": 18.2
     },
     "news": [
+        {
+            "title": "Luís Neves desafia protocolo de segurança ao conduzir viatura apreendida pela PJ",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/politica/noticia/luis-neves-desafia-protocolo-seguranca-conduzir-viatura-apreendida-pj-2185662"
+        },
+        {
+            "title": "Qual é o melhor último mês?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/opiniao/cronica/melhor-ultimo-mes-2185558"
+        },
         {
             "title": "Menina de quatro anos morre afogada em piscina em Vila Real",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/sociedade/noticia/menina-quatro-anos-morre-afogada-piscina-vila-real-2185661"
@@ -21,16 +29,8 @@
         {
             "title": "O Benfica falhou a goleada e deixou a Liga Europa em aberto",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/desporto/cronica_de_jogo/benfica-falhou-goleada-deixou-liga-europa-aberto-2185658"
-        },
-        {
-            "title": "O PRR não renovou o Museu Nacional de Arqueologia, mas tornou-o mais resistente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/culturaipsilon/reportagem/prr-nao-renovou-museu-nacional-arqueologia-tornouo-resistente-2185623"
-        },
-        {
-            "title": "Sp. Braga volta a impor a lei do penálti na Europa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/desporto/cronica_de_jogo/sp-braga-volta-impor-lei-penalti-europa-2185656"
         }
     ],
     "finance": [],
-    "last_update": "20/08/2026 22:15"
+    "last_update": "20/08/2026 23:15"
 }
