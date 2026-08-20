@@ -3,13 +3,21 @@
         "atual": 21.7,
         "manha": 21.6,
         "tarde": 24.5,
-        "noite": 20.9
+        "noite": 20.8
     },
     "forecast": {
         "max": 25.7,
         "min": 18.7
     },
     "news": [
+        {
+            "title": "Menina de quatro anos morre afogada em piscina em Vila Real",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/sociedade/noticia/menina-quatro-anos-morre-afogada-piscina-vila-real-2185661"
+        },
+        {
+            "title": "Três bombeiros feridos em Arouca estão em estado crítico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/sociedade/noticia/tres-bombeiros-feridos-arouca-estao-estado-critico-2185660"
+        },
         {
             "title": "O Benfica falhou a goleada e deixou a Liga Europa em aberto",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/desporto/cronica_de_jogo/benfica-falhou-goleada-deixou-liga-europa-aberto-2185658"
@@ -21,16 +29,8 @@
         {
             "title": "Sp. Braga volta a impor a lei do penálti na Europa",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/desporto/cronica_de_jogo/sp-braga-volta-impor-lei-penalti-europa-2185656"
-        },
-        {
-            "title": "Foram retirados 20 mil camiões de madeira de terrenos afectados pela <em>Kristin</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/politica/noticia/retirados-20-mil-camioes-madeira-terrenos-afectados-kristin-2185657"
-        },
-        {
-            "title": "A mãe ficou nas paredes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/p3/cronica/mae-ficou-paredes-2185516"
         }
     ],
     "finance": [],
-    "last_update": "20/08/2026 21:17"
+    "last_update": "20/08/2026 22:15"
 }
