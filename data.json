@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 19.8,
-        "manha": 20.3,
-        "tarde": 25.7,
-        "noite": 20.0
+        "manha": 20.2,
+        "tarde": 25.5,
+        "noite": 19.8
     },
     "forecast": {
-        "max": 25.4,
-        "min": 18.2
+        "max": 25.0,
+        "min": 17.9
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/opiniao/opiniao/cartas-director-2185628"
+        },
         {
             "title": "Governo condena ataque a viaturas da PSP durante operação em Rabo de Peixe",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/sociedade/noticia/governo-condena-ataque-viaturas-psp-durante-operacao-rabo-peixe-2185665"
@@ -25,12 +29,8 @@
         {
             "title": "Menina de quatro anos morre afogada em piscina em Vila Real",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/sociedade/noticia/menina-quatro-anos-morre-afogada-piscina-vila-real-2185661"
-        },
-        {
-            "title": "Três bombeiros feridos em Arouca estão em estado crítico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/sociedade/noticia/tres-bombeiros-feridos-arouca-estao-estado-critico-2185660"
         }
     ],
     "finance": [],
-    "last_update": "21/08/2026 03:40"
+    "last_update": "21/08/2026 04:27"
 }
