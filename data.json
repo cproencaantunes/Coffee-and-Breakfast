@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 19.8,
-        "manha": 20.0,
+        "manha": 19.9,
         "tarde": 25.2,
         "noite": 19.6
     },
     "forecast": {
-        "max": 25.0,
-        "min": 17.2
+        "max": 24.5,
+        "min": 17.1
     },
     "news": [
         {
+            "title": "Portugal e Espanha decidem: na bitola ibérica não se mexe",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/economia/noticia/portugal-espanha-decidem-bitola-iberica-nao-mexe-2185681"
+        },
+        {
+            "title": "Sobrar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/culturaipsilon/opiniao/sobrar-2185314"
+        },
+        {
+            "title": "As perguntas sem resposta de Inês Lourenço. As cidades inventadas por Dominique Perrault",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/newsletter/ipsilon"
+        },
+        {
+            "title": "O fim trágico de um herói feito à medida",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/culturaipsilon/cronica/fim-tragico-heroi-medida-2185350"
+        },
+        {
             "title": "Mais de 50 municípios saíram do “mapa verde” das renováveis depois da consulta pública",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/azul/noticia/50-municipios-sairam-mapa-verde-renovaveis-consulta-publica-2185631"
-        },
-        {
-            "title": "Reto Jörg: Uma carta de amor à Vidigueira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/fugas/noticia/reto-jorg-carta-amor-vidigueira-2185527"
-        },
-        {
-            "title": "Primeiro ano da unidade de estrangeiros e fronteiras da PSP marcado por constrangimentos nos aeroportos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/sociedade/noticia/ano-unidade-estrangeiros-fronteiras-psp-marcado-constrangimentos-aeroportos-2185676"
-        },
-        {
-            "title": "A minha vida — leia um conto do novo livro de Joana Bértholo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/culturaipsilon/prepublicacao/vida-2185276"
-        },
-        {
-            "title": "Enfermeiro contra ninguém",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/opiniao/opiniao/enfermeiro-ninguem-2185551"
         }
     ],
     "finance": [],
-    "last_update": "21/08/2026 09:24"
+    "last_update": "21/08/2026 10:18"
 }
