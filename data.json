@@ -11,6 +11,10 @@
     },
     "news": [
         {
+            "title": "Governo condena ataque a viaturas da PSP durante operação em Rabo de Peixe",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/sociedade/noticia/governo-condena-ataque-viaturas-psp-durante-operacao-rabo-peixe-2185665"
+        },
+        {
             "title": "Luís Neves desafia protocolo de segurança ao conduzir viatura apreendida pela PJ",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/politica/noticia/luis-neves-desafia-protocolo-seguranca-conduzir-viatura-apreendida-pj-2185662"
         },
@@ -25,12 +29,8 @@
         {
             "title": "Três bombeiros feridos em Arouca estão em estado crítico",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/sociedade/noticia/tres-bombeiros-feridos-arouca-estao-estado-critico-2185660"
-        },
-        {
-            "title": "O Benfica falhou a goleada e deixou a Liga Europa em aberto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/20/desporto/cronica_de_jogo/benfica-falhou-goleada-deixou-liga-europa-aberto-2185658"
         }
     ],
     "finance": [],
-    "last_update": "21/08/2026 00:38"
+    "last_update": "21/08/2026 02:16"
 }
