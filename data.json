@@ -3,13 +3,21 @@
         "atual": 19.8,
         "manha": 19.9,
         "tarde": 25.7,
-        "noite": 19.8
+        "noite": 20.0
     },
     "forecast": {
-        "max": 24.9,
+        "max": 25.1,
         "min": 17.2
     },
     "news": [
+        {
+            "title": "Decisões na UEFA, Portugal no EuroVolley e o arranque da Vuelta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/newsletter/aquecimento"
+        },
+        {
+            "title": "Há bicampeão no concurso que elege o melhor Tomate Coração de Boi do Douro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/fugas/noticia/ha-bicampeao-concurso-elege-melhor-tomate-coracao-boi-douro-2185774"
+        },
         {
             "title": "US Open, sem Jannik Sinner, ultrapassa os 100 milhões",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/desporto/noticia/us-open-jannik-sinner-ultrapassa-100-milhoes-2185773"
@@ -21,16 +29,8 @@
         {
             "title": "Extremismo e candidato simpático: AfD destacada na Saxónia-Anhalt",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/mundo/noticia/extremismo-candidato-simpatico-afd-destacada-saxoniaanhnalt-2185732"
-        },
-        {
-            "title": "Um fim-de-semana de Outono em Agosto: vem aí chuva e trovoada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/azul/noticia/fimdesemana-outono-agosto-vem-ai-chuva-trovoada-2185770"
-        },
-        {
-            "title": "Salah no Trabzonspor é uma boa ideia? Só o tempo o dirá",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/desporto/noticia/salah-trabzonspor-boa-ideia-so-tempo-dira-2185769"
         }
     ],
     "finance": [],
-    "last_update": "21/08/2026 21:12"
+    "last_update": "21/08/2026 22:12"
 }
