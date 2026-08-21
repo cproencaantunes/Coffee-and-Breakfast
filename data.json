@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.8,
         "manha": 19.9,
-        "tarde": 25.2,
-        "noite": 19.6
+        "tarde": 25.4,
+        "noite": 19.9
     },
     "forecast": {
-        "max": 24.5,
-        "min": 17.1
+        "max": 24.6,
+        "min": 17.4
     },
     "news": [
         {
-            "title": "Vídeo que mostra um hotel durante sismo foi gravado no Peru? Não, imagens são da Colômbia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/mundo/noticia/video-mostra-hotel-durante-sismo-gravado-peru-nao-imagens-sao-colombia-2185687"
+            "title": "Met Office prevê o <em>El Niño</em> mais forte de que há memória",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/azul/noticia/met-office-preve-el-nino-forte-ha-memoria-2185679"
         },
         {
-            "title": "Canal do Panamá vai limitar trânsito diário de navios devido a seca provocada por <em>El Niño</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/azul/noticia/canal-panama-vai-limitar-transito-diario-navios-devido-seca-provocada-el-nino-2185685"
+            "title": "Para evitar ser retalhado, o banco mais velho do mundo quer comprar outros dois bancos italianos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/economia/noticia/evitar-retalhado-banco-velho-mundo-quer-comprar-dois-bancos-italianos-2185698"
         },
         {
-            "title": "Google Pixel 11 em teste: Mais refinado, mas mais caro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/enter/critica/google-pixel-11-teste-refinado-caro-2185682"
+            "title": "Exportação de <em>cannabis</em> para fins medicinais já ultrapassou 66 toneladas este ano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/sociedade/noticia/exportacao-cannabis-fins-medicinais-ja-ultrapassou-66-toneladas-ano-2185704"
         },
         {
-            "title": "Barrinhas de peixe e <em>nuggets</em> de frango com sal acima do valor recomendado pela DGS",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/sociedade/noticia/barrinhas-peixe-nuggets-frango-sal-acima-valor-recomendado-dgs-2185493"
+            "title": "É assim o fresco gaspacho alentejano do Chana do Bernardino",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/impar/noticia/assim-fresco-gaspacho-alentejano-chana-bernardino-2183257"
         },
         {
-            "title": "Sete em cada dez autarquias disseram “não” à primeira versão do “mapa verde” das renováveis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/azul/noticia/sete-dez-autarquias-disseram-nao-primeira-versao-mapa-verde-renovaveis-2185649"
+            "title": "Suspeito de atentado ao gasoduto Nord Stream detido na Croácia enquanto ajudaria em filme",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/mundo/noticia/suspeito-atentado-gasoduto-nord-stream-detido-croacia-ajudaria-filme-2185697"
         }
     ],
     "finance": [],
-    "last_update": "21/08/2026 11:16"
+    "last_update": "21/08/2026 12:23"
 }
