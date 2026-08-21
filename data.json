@@ -1,15 +1,27 @@
 {
     "weather": {
-        "atual": 19.8,
-        "manha": 19.9,
-        "tarde": 25.7,
-        "noite": 20.0
+        "atual": 18.8,
+        "manha": 18.9,
+        "tarde": 25.1,
+        "noite": 21.0
     },
     "forecast": {
-        "max": 25.1,
-        "min": 17.2
+        "max": 23.3,
+        "min": 19.5
     },
     "news": [
+        {
+            "title": "A letra e a identidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/opiniao/cronica/letra-identidade-2185686"
+        },
+        {
+            "title": "Que mais precisamos de saber para Luís Neves sair do Governo?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/opiniao/opiniao/precisamos-saber-luis-neves-sair-governo-2185753"
+        },
+        {
+            "title": "Relatório final sobre o acidente do elevador da Glória derrapa para o primeiro trimestre de 2027",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/economia/noticia/relatorio-final-acidente-elevador-gloria-derrapa-trimestre-2027-2185762"
+        },
         {
             "title": "Decisões na UEFA, Portugal no EuroVolley e o arranque da Vuelta",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/newsletter/aquecimento"
@@ -17,20 +29,8 @@
         {
             "title": "Há bicampeão no concurso que elege o melhor Tomate Coração de Boi do Douro",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/fugas/noticia/ha-bicampeao-concurso-elege-melhor-tomate-coracao-boi-douro-2185774"
-        },
-        {
-            "title": "US Open, sem Jannik Sinner, ultrapassa os 100 milhões",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/desporto/noticia/us-open-jannik-sinner-ultrapassa-100-milhoes-2185773"
-        },
-        {
-            "title": "O fim da campeã",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/p3/noticia/fim-campea-2185517"
-        },
-        {
-            "title": "Extremismo e candidato simpático: AfD destacada na Saxónia-Anhalt",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/mundo/noticia/extremismo-candidato-simpatico-afd-destacada-saxoniaanhnalt-2185732"
         }
     ],
     "finance": [],
-    "last_update": "21/08/2026 22:12"
+    "last_update": "21/08/2026 23:13"
 }
