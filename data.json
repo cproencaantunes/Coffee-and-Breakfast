@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 18.5,
-        "manha": 18.4,
-        "tarde": 24.7,
-        "noite": 20.8
+        "manha": 18.1,
+        "tarde": 24.6,
+        "noite": 20.7
     },
     "forecast": {
-        "max": 23.0,
-        "min": 19.6
+        "max": 23.2,
+        "min": 19.4
     },
     "news": [
+        {
+            "title": "Da música de São Vicente para a natureza de Santo Antão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/fugas/reportagem/musica-sao-vicente-natureza-santo-antao-2185392"
+        },
         {
             "title": "Guardar a imaginação num frasco de vidro",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/impar/noticia/guardar-imaginacao-frasco-vidro-2185746"
@@ -25,12 +29,8 @@
         {
             "title": "Catarina Braga: uma paixão que virou casa",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/fugas/noticia/catarina-braga-paixao-virou-casa-2185225"
-        },
-        {
-            "title": "Cabo Verde pelas mãos de Vozinha: três visitas obrigatórias no arquipélago",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/fugas/noticia/cabo-verde-maos-vozinha-tres-visitas-obrigatorias-arquipelago-2184905"
         }
     ],
     "finance": [],
-    "last_update": "22/08/2026 09:16"
+    "last_update": "22/08/2026 10:11"
 }
