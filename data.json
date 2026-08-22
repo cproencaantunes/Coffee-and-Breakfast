@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 18.5,
-        "manha": 18.6,
-        "tarde": 24.9,
+        "manha": 18.8,
+        "tarde": 25.1,
         "noite": 20.9
     },
     "forecast": {
-        "max": 23.3,
-        "min": 19.5
+        "max": 23.0,
+        "min": 19.4
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/opiniao/opiniao/cartas-director-2185743"
+        },
         {
             "title": "A letra e a identidade",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/opiniao/cronica/letra-identidade-2185686"
@@ -25,12 +29,8 @@
         {
             "title": "Decisões na UEFA, Portugal no EuroVolley e o arranque da Vuelta",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/newsletter/aquecimento"
-        },
-        {
-            "title": "Há bicampeão no concurso que elege o melhor Tomate Coração de Boi do Douro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/fugas/noticia/ha-bicampeao-concurso-elege-melhor-tomate-coracao-boi-douro-2185774"
         }
     ],
     "finance": [],
-    "last_update": "22/08/2026 03:32"
+    "last_update": "22/08/2026 04:21"
 }
