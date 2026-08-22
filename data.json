@@ -3,13 +3,17 @@
         "atual": 18.5,
         "manha": 18.1,
         "tarde": 24.9,
-        "noite": 20.7
+        "noite": 20.8
     },
     "forecast": {
-        "max": 23.2,
-        "min": 19.3
+        "max": 23.1,
+        "min": 19.4
     },
     "news": [
+        {
+            "title": "O Sporting aprendeu que a bola é um lugar seguro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/desporto/cronica_de_jogo/sporting-aprendeu-bola-lugar-seguro-2185825"
+        },
         {
             "title": "Robô chinês bate recorde dos 100 metros de Usain Bolt",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/enter/noticia/robo-chines-bate-recorde-100-metros-usain-bolt-2185818"
@@ -25,12 +29,8 @@
         {
             "title": "Não tenha medo do bem-te-vi",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/publico-brasil/cronica/nao-medo-bemtevi-2185824"
-        },
-        {
-            "title": "O futebol já não se vê como antes e a LiveModeTV quer garantir que nunca mais será igual",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/desporto/noticia/futebol-ja-nao-ve-livemodetv-quer-garantir-sera-igual-2185701"
         }
     ],
     "finance": [],
-    "last_update": "22/08/2026 21:11"
+    "last_update": "22/08/2026 22:10"
 }
