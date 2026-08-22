@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 18.5,
-        "manha": 18.8,
-        "tarde": 25.1,
-        "noite": 20.9
+        "atual": 0,
+        "manha": 0,
+        "tarde": 0,
+        "noite": 0
     },
     "forecast": {
-        "max": 23.0,
-        "min": 19.4
+        "max": 0,
+        "min": 0
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/opiniao/opiniao/cartas-director-2185743"
+            "title": "Governo deixou por regulamentar leis aprovadas à sua revelia e até as que propôs",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/politica/noticia/governo-deixou-regulamentar-leis-aprovadas-revelia-ate-propos-2185303"
         },
         {
-            "title": "A letra e a identidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/opiniao/cronica/letra-identidade-2185686"
+            "title": "Trio mineiro quer conquistar Portugal com hambúrguer e “coxinha sem massa”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/publico-brasil/noticia/trio-mineiro-quer-conquistar-portugal-hamburguer-coxinha-massa-2185709"
         },
         {
-            "title": "Que mais precisamos de saber para Luís Neves sair do Governo?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/opiniao/opiniao/precisamos-saber-luis-neves-sair-governo-2185753"
+            "title": "E almoçar na praia? Não pode ser o melhor almoço do ano, porquê?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/fugas/cronica/almocar-praia-nao-melhor-almoco-ano-2185227"
         },
         {
-            "title": "Relatório final sobre o acidente do elevador da Glória derrapa para o primeiro trimestre de 2027",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/economia/noticia/relatorio-final-acidente-elevador-gloria-derrapa-trimestre-2027-2185762"
+            "title": "A “inventona” de Ceuta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/opiniao/opiniao/inventona-ceuta-2185582"
         },
         {
-            "title": "Decisões na UEFA, Portugal no EuroVolley e o arranque da Vuelta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/21/newsletter/aquecimento"
+            "title": "Advogados denunciam falta de condições na AIMA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/sociedade/noticia/advogados-denunciam-falta-condicoes-aima-2185737"
         }
     ],
     "finance": [],
-    "last_update": "22/08/2026 05:16"
+    "last_update": "22/08/2026 06:20"
 }
