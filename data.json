@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 18.5,
-        "manha": 18.1,
-        "tarde": 24.9,
-        "noite": 20.8
+        "atual": 19.8,
+        "manha": 20.4,
+        "tarde": 21.3,
+        "noite": 21.2
     },
     "forecast": {
-        "max": 23.1,
-        "min": 19.4
+        "max": 24.6,
+        "min": 20.7
     },
     "news": [
+        {
+            "title": "Vamos ajudar Cuba!",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/opiniao/opiniao/vamos-ajudar-cuba-2185788"
+        },
         {
             "title": "O Sporting aprendeu que a bola é um lugar seguro",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/desporto/cronica_de_jogo/sporting-aprendeu-bola-lugar-seguro-2185825"
@@ -25,12 +29,8 @@
         {
             "title": "“Estamos em guerra”: Canadá retalia contra as tarifas de Trump",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/mundo/noticia/guerra-canada-retalia-tarifas-trump-2185817"
-        },
-        {
-            "title": "Não tenha medo do bem-te-vi",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/publico-brasil/cronica/nao-medo-bemtevi-2185824"
         }
     ],
     "finance": [],
-    "last_update": "22/08/2026 22:10"
+    "last_update": "22/08/2026 23:10"
 }
