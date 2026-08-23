@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 19.6,
-        "manha": 20.4,
-        "tarde": 21.5,
-        "noite": 21.4
+        "manha": 20.6,
+        "tarde": 21.2,
+        "noite": 21.3
     },
     "forecast": {
-        "max": 24.6,
-        "min": 20.6
+        "max": 24.1,
+        "min": 20.2
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/opiniao/opiniao/cartas-director-2185749"
+        },
         {
             "title": "Justiça dos EUA derruba restrição de visto de residência para Brasil e mais 74 países",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/publico-brasil/noticia/justica-eua-derruba-restricao-visto-residencia-brasil-74-paises-2185828"
@@ -25,12 +29,8 @@
         {
             "title": "Paulo Raimundo: se PS viabilizar Orçamento do Estado “vai libertar o Chega de vir a jogo”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/politica/noticia/paulo-raimundo-ps-viabilizar-orcamento-estado-vai-libertar-chega-jogo-2185826"
-        },
-        {
-            "title": "Vamos ajudar Cuba!",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/opiniao/opiniao/vamos-ajudar-cuba-2185788"
         }
     ],
     "finance": [],
-    "last_update": "23/08/2026 03:40"
+    "last_update": "23/08/2026 04:26"
 }
