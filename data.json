@@ -3,13 +3,25 @@
         "atual": 19.6,
         "manha": 20.7,
         "tarde": 21.2,
-        "noite": 20.9
+        "noite": 21.1
     },
     "forecast": {
-        "max": 24.7,
+        "max": 24.3,
         "min": 20.2
     },
     "news": [
+        {
+            "title": "Estrela da Amadora vende SAD a grupo de investimento que inclui jogadores alemães",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/desporto/noticia/estrela-amadora-vende-sad-grupo-investimento-inclui-jogadores-alemaes-2185877"
+        },
+        {
+            "title": "FC Porto vence Arouca em jogo de sentido único e é líder isolado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/desporto/cronica_de_jogo/fc-porto-vence-arouca-jogo-sentido-unico-lider-isolado-2185875"
+        },
+        {
+            "title": "Criança espanhola morre atropelada em Vila do Bispo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/sociedade/noticia/crianca-espanhola-morre-atropelada-vila-bispo-2185876"
+        },
         {
             "title": "Os humanóides mais rápidos que Bolt são só uma parte dos Jogos Mundiais de Robôs",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/fotogaleria/mundial-robos-415891"
@@ -17,20 +29,8 @@
         {
             "title": "Andebol: Sporting conquista Supertaça masculina, Benfica vence a feminina",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/desporto/noticia/andebol-sporting-conquista-supertaca-masculina-benfica-vence-feminina-2185874"
-        },
-        {
-            "title": "Não leia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/p3/cronica/nao-leia-2185635"
-        },
-        {
-            "title": "<em>Never gonna give you up</em> e Rick Astley, um meme para a eternidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/culturaipsilon/noticia/never-gonna-give-you-up-rick-astley-meme-eternidade-2183780"
-        },
-        {
-            "title": "Se a AIMA trata mal os advogados, imagine os imigrantes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/publico-brasil/opiniao/aima-trata-mal-advogados-imagine-imigrantes-2185873"
         }
     ],
     "finance": [],
-    "last_update": "23/08/2026 21:15"
+    "last_update": "23/08/2026 22:10"
 }
