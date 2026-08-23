@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.6,
         "manha": 20.7,
-        "tarde": 21.2,
-        "noite": 20.9
+        "tarde": 21.5,
+        "noite": 21.1
     },
     "forecast": {
-        "max": 24.1,
-        "min": 20.3
+        "max": 24.2,
+        "min": 20.1
     },
     "news": [
         {
-            "title": "Quatro homens esfaqueados em Sacavém, três em estado grave",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/local/noticia/quatro-homens-esfaqueados-sacavem-tres-estado-grave-2185843"
+            "title": "Seguro pede mais investimento no interior e aponta Bienal de Cerveira como exemplo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/politica/noticia/seguro-pede-investimento-interior-aponta-bienal-cerveira-exemplo-2185844"
         },
         {
-            "title": "No Sal, cinco surpresas para juntar ao sol & praia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/fugas/noticia/sal-cinco-surpresas-juntar-sol-praia-2185387"
+            "title": "Nódoa: livro de Calila das Mercês fala de mulheres que se recusam a desaparecer",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/publico-brasil/noticia/nodoa-livro-calila-merces-fala-mulheres-recusam-desaparecer-2185497"
         },
         {
-            "title": "Jogos do Mediterrâneo: ouro e prata para Portugal na canoagem",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/desporto/noticia/jogos-mediterraneo-ouro-prata-portugal-canoagem-2185839"
+            "title": "PRR deu mais 630 milhões à saúde, mas há metas que tiveram de ser revistas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/sociedade/noticia/prr-deu-630-milhoes-saude-ha-metas-revistas-2185696"
         },
         {
-            "title": "Ana Martins: a arte de bem receber, uma herança da avó Anita",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/fugas/noticia/ana-martins-arte-bem-receber-heranca-avo-anita-2185320"
+            "title": "Apesar dos atrasos, foram aprovadas 598 vagas para desinstitucionalizar pessoas com doença mental",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/sociedade/noticia/apesar-atrasos-aprovadas-598-vagas-desinstitucionalizar-pessoas-doenca-mental-2185690"
         },
         {
-            "title": "O Verão continua e as novidades também",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/newsletter/impar"
+            "title": "Bitcoin valoriza 20% numa semana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/economia/noticia/bitcoin-valoriza-20-semana-2185842"
         }
     ],
     "finance": [],
-    "last_update": "23/08/2026 11:10"
+    "last_update": "23/08/2026 12:16"
 }
