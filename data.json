@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 19.8,
+        "atual": 19.6,
         "manha": 20.4,
-        "tarde": 21.3,
-        "noite": 21.2
+        "tarde": 21.5,
+        "noite": 21.4
     },
     "forecast": {
         "max": 24.6,
-        "min": 20.7
+        "min": 20.6
     },
     "news": [
         {
+            "title": "Justiça dos EUA derruba restrição de visto de residência para Brasil e mais 74 países",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/publico-brasil/noticia/justica-eua-derruba-restricao-visto-residencia-brasil-74-paises-2185828"
+        },
+        {
+            "title": "A dívida de sono não se paga com cafeína: o custo da nossa hiperprodutividade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/p3/cronica/divida-sono-nao-paga-cafeina-custo-hiperprodutividade-2180741"
+        },
+        {
+            "title": "O futebol italiano começa a habituar-se ao apelido Varela",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/desporto/noticia/futebol-italiano-comeca-habituarse-apelido-varela-2185829"
+        },
+        {
+            "title": "Paulo Raimundo: se PS viabilizar Orçamento do Estado “vai libertar o Chega de vir a jogo”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/politica/noticia/paulo-raimundo-ps-viabilizar-orcamento-estado-vai-libertar-chega-jogo-2185826"
+        },
+        {
             "title": "Vamos ajudar Cuba!",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/23/opiniao/opiniao/vamos-ajudar-cuba-2185788"
-        },
-        {
-            "title": "O Sporting aprendeu que a bola é um lugar seguro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/desporto/cronica_de_jogo/sporting-aprendeu-bola-lugar-seguro-2185825"
-        },
-        {
-            "title": "Robô chinês bate recorde dos 100 metros de Usain Bolt",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/enter/noticia/robo-chines-bate-recorde-100-metros-usain-bolt-2185818"
-        },
-        {
-            "title": "Quantos Queres?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/p3/cronica/queres-2185584"
-        },
-        {
-            "title": "“Estamos em guerra”: Canadá retalia contra as tarifas de Trump",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/22/mundo/noticia/guerra-canada-retalia-tarifas-trump-2185817"
         }
     ],
     "finance": [],
-    "last_update": "22/08/2026 23:10"
+    "last_update": "23/08/2026 00:38"
 }
