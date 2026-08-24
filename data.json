@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.7,
         "manha": 21.4,
-        "tarde": 24.5,
-        "noite": 21.9
+        "tarde": 24.4,
+        "noite": 21.7
     },
     "forecast": {
-        "max": 24.2,
+        "max": 24.1,
         "min": 19.7
     },
     "news": [
         {
+            "title": "Selo de qualidade continua residual nos créditos de carbono comprados em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/azul/noticia/selo-qualidade-continua-residual-creditos-carbono-comprados-portugal-2185738"
+        },
+        {
+            "title": "Excerto do conto <em>As Banhistas</em> de<em> Museu dos Esforços Inúteis</em>, de Cristina Peri Rossi",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/culturaipsilon/prepublicacao/excerto-conto-banhistas-museu-esforcos-inuteis-cristina-peri-rossi-2185847"
+        },
+        {
+            "title": "Encontrado corpo de homem desaparecido na albufeira de Alqueva",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/sociedade/noticia/encontrado-corpo-homem-desaparecido-albufeira-alqueva-2185910"
+        },
+        {
+            "title": "Análise de arbitragem: golos bem anulados no FC Porto-Arouca",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/desporto/analise/analise-arbitragem-golos-bem-anulados-fc-portoarouca-2185913"
+        },
+        {
             "title": "Tarifas de Trump ao Canadá fazem subir preços e protestos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/economia/noticia/tarifas-trump-canada-fazem-subir-precos-protestos-2185909"
-        },
-        {
-            "title": "Trabalhar deixou de chegar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/opiniao/opiniao/trabalhar-deixou-chegar-2185436"
-        },
-        {
-            "title": "PS acusa Governo de “criar medo” à volta da sustentabilidade da Segurança Social",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/politica/noticia/ps-acusa-governo-criar-medo-volta-sustentabilidade-seguranca-social-2185908"
-        },
-        {
-            "title": "Lei das <em>burqas </em> em 10 perguntas e respostas: o que passa a ser proibido e quais são as excepções?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/politica/noticia/lei-burqas-10-perguntas-respostas-passa-proibido-sao-excepcoes-2185892"
-        },
-        {
-            "title": "“Tás escuchando música de Puerto Rico”: Bad Bunny termina digressão triunfal em casa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/fotogaleria/tas-escuchando-musica-puerto-rico-bad-bunny-termina-tour-triunfal-casa-415892"
         }
     ],
     "finance": [],
-    "last_update": "24/08/2026 11:17"
+    "last_update": "24/08/2026 12:24"
 }
