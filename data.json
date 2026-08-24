@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.7,
         "manha": 21.4,
-        "tarde": 24.4,
-        "noite": 21.7
+        "tarde": 24.0,
+        "noite": 21.6
     },
     "forecast": {
-        "max": 24.1,
-        "min": 19.7
+        "max": 24.0,
+        "min": 19.5
     },
     "news": [
         {
+            "title": "Ataques aéreos ucranianos causam três mortes na Rússia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/mundo/noticia/ataques-aereos-ucranianos-causam-tres-mortes-russia-2185961"
+        },
+        {
+            "title": "Preços a subir, quartos sem recibo: “Habitação é obstáculo ao ensino superior”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/sociedade/noticia/precos-subir-quartos-recibo-habitacao-obstaculo-ensino-superior-2185938"
+        },
+        {
+            "title": "Granizo força anulação da etapa na Volta a Espanha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/desporto/noticia/granizo-forca-anulacao-etapa-volta-espanha-2185957"
+        },
+        {
+            "title": "L’Aventura, a regata que recoloca Lagos na rota da vela de elite",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/desporto/noticia/laventura-regata-recoloca-lagos-rota-vela-elite-2185914"
+        },
+        {
             "title": "Quem grita mais alto não tem mais razão",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/impar/cronica/grita-alto-nao-razao-2185948"
-        },
-        {
-            "title": "IVG: 28% das mulheres esperaram mais de cinco dias para a consulta prévia nos hospitais públicos? Sim",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/sociedade/noticia/ivg-28-mulheres-esperaram-cinco-dias-consulta-previa-hospitais-publicos-sim-2185932"
-        },
-        {
-            "title": "Sudão: ONU alerta que 1,5 milhões de pessoas ficarão sem ajuda humanitária",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/mundo/noticia/sudao-onu-alerta-15-milhoes-pessoas-ficarao-ajuda-humanitaria-2185947"
-        },
-        {
-            "title": "Nunca viu tantas alforrecas na praia? É verdade, houve uma explosão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/azul/noticia/viu-tantas-alforrecas-praia-verdade-explosao-2185734"
-        },
-        {
-            "title": "Dias de chuva no Rio de Janeiro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/publico-brasil/cronica/dias-chuva-rio-janeiro-2185943"
         }
     ],
     "finance": [],
-    "last_update": "24/08/2026 15:27"
+    "last_update": "24/08/2026 16:22"
 }
