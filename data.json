@@ -1,15 +1,27 @@
 {
     "weather": {
-        "atual": 20.7,
-        "manha": 21.4,
-        "tarde": 24.0,
-        "noite": 21.8
+        "atual": 20.6,
+        "manha": 20.2,
+        "tarde": 23.9,
+        "noite": 20.9
     },
     "forecast": {
-        "max": 24.0,
-        "min": 19.6
+        "max": 23.3,
+        "min": 19.1
     },
     "news": [
+        {
+            "title": "Segurança Social: o <em>lobby</em>  agradece",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/opiniao/opiniao/seguranca-social-lobby-agradece-2185972"
+        },
+        {
+            "title": "Graça Castanheira, Fabian Figueiredo e as distâncias menores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/opiniao/opiniao/graca-castanheira-fabian-figueiredo-distancias-menores-2185934"
+        },
+        {
+            "title": "Fazer com que valha a pena",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/opiniao/cronica/valha-pena-2185899"
+        },
         {
             "title": "Quercus contra renovação de licença das minas da Panasqueira sem nova avaliação ambiental",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/azul/noticia/quercus-renovacao-licenca-minas-panasqueira-nova-avaliacao-ambiental-2185994"
@@ -17,20 +29,8 @@
         {
             "title": "PJ detém suspeitos de burlar mais de 20 vítimas no Minho em cerca de 80 mil euros",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/sociedade/noticia/pj-detem-suspeitos-burlar-20-vitimas-minho-cerca-80-mil-euros-2185991"
-        },
-        {
-            "title": "Todos os castelos de Edimburgo são teatros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/culturaipsilon/noticia/castelos-edimburgo-sao-teatros-2185986"
-        },
-        {
-            "title": "Nem a Ucrânia perde nem a Rússia ganha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/opiniao/editorial/ucrania-perde-russia-ganha-2185981"
-        },
-        {
-            "title": "Um ensaio iconoclasta de Tolstói e a estreia literária de Benjamín G. Rosado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/culturaipsilon/noticia/ensaio-iconoclasta-tolstoi-estreia-literaria-benjamin-g-rosado-2185868"
         }
     ],
     "finance": [],
-    "last_update": "24/08/2026 22:14"
+    "last_update": "24/08/2026 23:13"
 }
