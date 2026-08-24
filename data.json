@@ -3,13 +3,25 @@
         "atual": 20.7,
         "manha": 21.4,
         "tarde": 24.0,
-        "noite": 21.6
+        "noite": 21.7
     },
     "forecast": {
-        "max": 24.0,
-        "min": 19.5
+        "max": 23.9,
+        "min": 19.6
     },
     "news": [
+        {
+            "title": "Recado ao PSD? Talvez não...",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/opiniao/opiniao/recado-psd-nao-2185970"
+        },
+        {
+            "title": "Câmara do Porto abre concursos para direcção artística de Teatro e Galeria Municipal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/culturaipsilon/noticia/camara-porto-abre-concursos-direccao-artistica-teatro-galeria-municipal-2185980"
+        },
+        {
+            "title": "Francisca Martins conquista quarta medalha nos Jogos do Mediterrâneo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/desporto/noticia/francisca-martins-conquista-quarta-medalha-jogos-mediterraneo-2185975"
+        },
         {
             "title": "Comboio de luxo português vai avançar com recurso a 11 carruagens da CP",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/economia/noticia/comboio-luxo-portugues-vai-avancar-recurso-11-carruagens-cp-2185929"
@@ -17,20 +29,8 @@
         {
             "title": "Câmara de Coimbra reconhece deficiência no serviço. “O lixo não desaparece porque o executivo mudou de cor”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/local/noticia/camara-reconhece-deficiencia-servico-lixo-nao-desaparece-executivo-mudou-cor-2185971"
-        },
-        {
-            "title": "O que fazer? Terça é dia de escutar os Hermanos Gutiérrez e ir à Fatacil",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/fugas/noticia/terca-dia-ir-fatacil-escutar-hermanos-gutierrez-2185968"
-        },
-        {
-            "title": "Um sonho, minha querida Quinta dos Ingleses?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/local/opiniao/sonho-querida-quinta-ingleses-2185699"
-        },
-        {
-            "title": "Funcionários do Itamaraty no exterior se unem para formar sindicato e cobrar direitos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/publico-brasil/noticia/funcionarios-itamaraty-exterior-unem-formar-sindicato-cobrar-direitos-2185917"
         }
     ],
     "finance": [],
-    "last_update": "24/08/2026 17:21"
+    "last_update": "24/08/2026 18:22"
 }
