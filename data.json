@@ -1,6 +1,6 @@
 {
     "weather": {
-        "atual": 20.6,
+        "atual": 20.7,
         "manha": 20.2,
         "tarde": 23.9,
         "noite": 20.9
@@ -10,6 +10,10 @@
         "min": 19.1
     },
     "news": [
+        {
+            "title": "EUA poderão revogar até 200 mil vistos de turismo e negócios a estrangeiros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/mundo/noticia/eua-poderao-revogar-ate-200-mil-vistos-turismo-negocios-estrangeiros-2185995"
+        },
         {
             "title": "Segurança Social: o <em>lobby</em>  agradece",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/opiniao/opiniao/seguranca-social-lobby-agradece-2185972"
@@ -25,12 +29,8 @@
         {
             "title": "Quercus contra renovação de licença das minas da Panasqueira sem nova avaliação ambiental",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/azul/noticia/quercus-renovacao-licenca-minas-panasqueira-nova-avaliacao-ambiental-2185994"
-        },
-        {
-            "title": "PJ detém suspeitos de burlar mais de 20 vítimas no Minho em cerca de 80 mil euros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/sociedade/noticia/pj-detem-suspeitos-burlar-20-vitimas-minho-cerca-80-mil-euros-2185991"
         }
     ],
     "finance": [],
-    "last_update": "24/08/2026 23:13"
+    "last_update": "25/08/2026 00:36"
 }
