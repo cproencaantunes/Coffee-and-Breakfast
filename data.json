@@ -6,10 +6,14 @@
         "noite": 20.9
     },
     "forecast": {
-        "max": 23.3,
-        "min": 19.1
+        "max": 22.9,
+        "min": 19.4
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/opiniao/opiniao/cartas-director-2185960"
+        },
         {
             "title": "EUA poderão revogar até 200 mil vistos de turismo e negócios a estrangeiros",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/mundo/noticia/eua-poderao-revogar-ate-200-mil-vistos-turismo-negocios-estrangeiros-2185995"
@@ -25,12 +29,8 @@
         {
             "title": "Fazer com que valha a pena",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/opiniao/cronica/valha-pena-2185899"
-        },
-        {
-            "title": "Quercus contra renovação de licença das minas da Panasqueira sem nova avaliação ambiental",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/24/azul/noticia/quercus-renovacao-licenca-minas-panasqueira-nova-avaliacao-ambiental-2185994"
         }
     ],
     "finance": [],
-    "last_update": "25/08/2026 03:38"
+    "last_update": "25/08/2026 04:28"
 }
