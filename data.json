@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.7,
         "manha": 19.9,
-        "tarde": 23.7,
-        "noite": 20.8
+        "tarde": 23.5,
+        "noite": 20.9
     },
     "forecast": {
-        "max": 23.1,
-        "min": 19.3
+        "max": 23.4,
+        "min": 19.0
     },
     "news": [
         {
-            "title": "Electricidade em Portugal é das mais caras na Europa, ajustando ao poder de compra? Sim",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/video/electricidade-portugal-caras-europa-ajustando-compra-20260825-130526"
+            "title": "Ghislaine Maxwell vê rejeitado o pedido para anular a condenação por tráfico sexual",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/impar/noticia/ghislaine-maxwell-ve-rejeitado-pedido-anular-condenacao-trafico-sexual-2186070"
         },
         {
-            "title": "O que fazer? Quarta é dia de frutos e filigrana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/fugas/noticia/quarta-dia-frutos-filigrana-2186052"
+            "title": "Vuelta: Pogacar e Almeida fugiram dos rivais – mas em sentidos opostos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/desporto/noticia/pogacar-almeida-fugiram-rivais-sentidos-opostos-2186065"
         },
         {
-            "title": "Pais de Gaza aconselhados a impedir que as crianças lancem papagaios, após aviso de Israel ao Hamas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/mundo/noticia/pais-gaza-aconselhados-impedir-criancas-lancem-papagaios-apos-aviso-israel-hamas-2186056"
+            "title": "Novo eléctrico 16E prevê quatro traçados alternativos em Lisboa, três evitam Alameda dos Oceanos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/local/noticia/novo-electrico-16e-preve-quatro-tracados-alternativos-tres-evitam-alameda-oceanos-2185969"
         },
         {
-            "title": "Alcatrão na Ribeira das Naus é provisório e para evitar acidentes, diz Câmara de Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/local/noticia/alcatrao-ribeira-naus-provisorio-evitar-acidentes-camara-lisboa-2186054"
+            "title": "Brasil oferece até €5,1 mil a editoras portuguesas para publicar autores brasileiros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/publico-brasil/noticia/brasil-oferece-ate-51-mil-editoras-portuguesas-publicar-autores-brasileiros-2185996"
         },
         {
-            "title": "Transavia vai ligar Ponta Delgada a Bruxelas no próximo Verão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/fugas/noticia/transavia-vai-ligar-ponta-delgada-bruxelas-proximo-verao-2186049"
+            "title": "Canadá concretiza a resposta de “dólar por dólar” após tarifas de Trump",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/economia/noticia/canada-concretiza-resposta-dolar-dolar-apos-tarifas-trump-2186071"
         }
     ],
     "finance": [],
-    "last_update": "25/08/2026 15:32"
+    "last_update": "25/08/2026 16:23"
 }
