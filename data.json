@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.7,
-        "manha": 19.9,
+        "atual": 20.2,
+        "manha": 19.2,
         "tarde": 23.5,
-        "noite": 20.9
+        "noite": 20.0
     },
     "forecast": {
-        "max": 23.5,
-        "min": 19.2
+        "max": 22.7,
+        "min": 18.1
     },
     "news": [
         {
-            "title": "Director da CIA visita Moscovo para reuniões com responsáveis russos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/mundo/noticia/director-cia-visita-moscovo-reunioes-responsaveis-russos-2186106"
+            "title": "Está ali um senhor de boné",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/opiniao/cronica/ali-senhor-bone-2186029"
         },
         {
-            "title": "Anna Rosa e a desinformação que mata",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/opiniao/editorial/anna-rosa-desinformacao-mata-2186072"
+            "title": "Ala esquerdo marroquino Moncef Zekri é reforço do Sporting",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/desporto/noticia/ala-esquerdo-arroquino-moncef-zekri-reforco-sporting-2186111"
         },
         {
-            "title": "Televisão estatal iraniana difunde ameaça de morte contra filho mais novo de Trump",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/mundo/noticia/televisao-estatal-iraniana-difunde-ameaca-morte-filho-novo-trump-2186105"
+            "title": "Henrique Rocha também vence na estreia no US Open",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/desporto/noticia/henrique-rocha-tambem-vence-estreia-us-open-2186110"
         },
         {
-            "title": "Reid’s, o hotel que acolheu a imperatriz Sissi é parte da história da Madeira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/sociedade/noticia/reids-hotel-acolheu-imperatriz-sissi-parte-historia-madeira-2186033"
+            "title": "Balseiro Lopes: “Continuam é a faltar feministas mais activas”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/politica/noticia/balseiro-lopes-continuam-faltar-feministas-activas-2186109"
         },
         {
-            "title": "Rainha da matemática",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/p3/cronica/rainha-matematica-2186038"
+            "title": "Morreu Sliman Mansour, que fez da terra tinta para pintar a Palestina",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/culturaipsilon/noticia/morreu-sliman-mansour-fez-terra-tinta-pintar-palestina-2186107"
         }
     ],
     "finance": [],
-    "last_update": "25/08/2026 22:14"
+    "last_update": "25/08/2026 23:15"
 }
