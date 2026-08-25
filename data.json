@@ -2,14 +2,18 @@
     "weather": {
         "atual": 20.7,
         "manha": 19.9,
-        "tarde": 23.5,
-        "noite": 21.0
+        "tarde": 23.7,
+        "noite": 20.8
     },
     "forecast": {
         "max": 23.1,
         "min": 19.3
     },
     "news": [
+        {
+            "title": "Táxis vão poder trabalhar como TVDE a partir de 1 de Setembro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/economia/noticia/taxis-vao-trabalhar-tvde-partir-1-setembro-2186036"
+        },
         {
             "title": "Amadora-Sintra reorganiza férias e consultas para ter urgência de obstetrícia sempre aberta",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/sociedade/noticia/amadorasintra-reorganiza-ferias-consultas-urgencia-obstetricia-aberta-2185771"
@@ -23,14 +27,10 @@
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/opiniao/opiniao/douro-nao-so-paisagem-hospitalidade-gerar-valor-competitividade-futuro-2185259"
         },
         {
-            "title": "Francisco Assis diz que é inadmissível comparação entre líderes do PS e Chega",
+            "title": "Carneiro e Assis respondem a Hugo Soares: comparação com Ventura é inadmissível e leviana",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/politica/noticia/francisco-assis-inadmissivel-comparacao-lideres-ps-chega-2186034"
-        },
-        {
-            "title": "Petróleo na foz do Amazonas: o que se sabe sobre a descoberta da Petrobras",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/azul/noticia/petroleo-amazonia-sabe-descoberta-petrobras-2186006"
         }
     ],
     "finance": [],
-    "last_update": "25/08/2026 11:16"
+    "last_update": "25/08/2026 12:24"
 }
