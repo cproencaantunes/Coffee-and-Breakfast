@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.7,
-        "manha": 20.2,
-        "tarde": 23.9,
-        "noite": 20.9
+        "manha": 20.0,
+        "tarde": 23.6,
+        "noite": 21.0
     },
     "forecast": {
         "max": 22.9,
-        "min": 19.4
+        "min": 18.7
     },
     "news": [
         {
-            "title": "Contra “desastre” da liberalização da ferrovia, PCP defende criação de empresa única",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/politica/noticia/desastre-liberalizacao-ferrovia-pcp-defende-criacao-empresa-unica-2185952"
+            "title": "Gianni Infantino está a perder o Norte",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/desporto/noticia/gianni-infantino-perder-norte-2185930"
         },
         {
-            "title": "Ondas de calor vieram alterar os fluxos turísticos em Mértola",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/economia/reportagem/ondas-calor-vieram-alterar-fluxos-turisticos-mertola-2185928"
+            "title": "Atropelamento em Albufeira faz quatro feridos, um com gravidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/sociedade/noticia/atropelamento-albufeira-faz-quatro-feridos-gravidade-2186001"
         },
         {
-            "title": "“O ponto mais quente da Guerra Fria”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/mundo/reportagem/ponto-quente-guerra-fria-2185377"
+            "title": "Eugénio Campos: “Com o tempo aprendi que nem tudo o que sentimos precisa de ficar escrito”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/impar/noticia/eugenio-campos-tempo-aprendi-sentimos-precisa-ficar-escrito-2184228"
         },
         {
-            "title": "Mais de 2000 comboios param em estações curtas e ficam com carruagens de fora",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/economia/noticia/2000-comboios-param-estacoes-curtas-ficam-carruagens-2185461"
+            "title": "Ouvir a Europa, construir o seu futuro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/mundo/opiniao/ouvir-europa-construir-futuro-2185922"
         },
         {
-            "title": "Lula ou Flávio Bolsonaro: quem será menos rejeitado pelos brasileiros?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/mundo/noticia/lula-flavio-bolsonaro-sera-menos-rejeitado-brasileiros-2185966"
+            "title": "Tecnologia e poder: o Nobel da Economia e o Papa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/ciencia/opiniao/tecnologia-nobel-economia-papa-2185958"
         }
     ],
     "finance": [],
-    "last_update": "25/08/2026 05:22"
+    "last_update": "25/08/2026 06:26"
 }
