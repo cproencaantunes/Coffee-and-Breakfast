@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.0,
         "manha": 19.8,
-        "tarde": 22.9,
-        "noite": 20.0
+        "tarde": 22.8,
+        "noite": 20.1
     },
     "forecast": {
-        "max": 22.6,
-        "min": 18.1
+        "max": 22.7,
+        "min": 18.2
     },
     "news": [
         {
-            "title": "Panamá declara estado de emergência nacional devido ao fenómeno <em>El Niño</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/azul/noticia/panama-declara-estado-emergencia-nacional-devido-fenomeno-el-nino-2186127"
+            "title": "Pelo menos 17 mortos e centenas de desaparecidos após cheias repentinas no Nepal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/mundo/noticia/menos-17-mortos-centenas-desaparecidos-apos-cheias-repentinas-nepal-2186156"
         },
         {
-            "title": "Apple reforça aposta na inteligência artificial com os novos <em>chips</em> M6 e M5 Ultra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/enter/noticia/apple-reforca-aposta-inteligencia-artificial-novos-chips-m6-m5-ultra-2186128"
+            "title": "Carneiro quer revitalização da Serra da Estrela no Orçamento do Estado de 2027",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/politica/noticia/carneiro-quer-revitalizacao-serra-estrela-orcamento-estado-2027-2186148"
         },
         {
-            "title": "Farmácias recebem 3,5 euros por cada vacina contra a gripe",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/sociedade/noticia/farmacias-recebem-35-euros-vacina-gripe-2186121"
+            "title": "CIP defende que reforma da Segurança Social não deve cair por “tácticas eleitorais”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/politica/noticia/cip-defende-reforma-seguranca-social-nao-cair-tacticas-eleitorais-2186147"
         },
         {
-            "title": "Rússia confirma visita do director da CIA a Moscovo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/mundo/noticia/russia-confirma-visita-director-cia-moscovo-2186122"
+            "title": "Um dos feridos graves do atropelamento em Albufeira vai ser transferido para o Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/sociedade/noticia/feridos-graves-atropelamento-albufeira-vai-transferido-porto-2186145"
         },
         {
-            "title": "Agente da PSP que matou Odair Moniz regressa ao serviço",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/sociedade/noticia/agente-pp-matou-odair-moniz-regressa-servico-2186073"
+            "title": "Taxa de juro dos Certificados de Aforro atinge tecto máximo de 2,5% em Setembro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/economia/noticia/taxa-juro-certificados-aforro-atinge-tecto-maximo-25-setembro-2186146"
         }
     ],
     "finance": [],
-    "last_update": "26/08/2026 11:18"
+    "last_update": "26/08/2026 12:27"
 }
