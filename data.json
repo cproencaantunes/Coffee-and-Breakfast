@@ -1,21 +1,25 @@
 {
     "weather": {
         "atual": 20.0,
-        "manha": 19.9,
-        "tarde": 23.0,
-        "noite": 20.1
+        "manha": 19.8,
+        "tarde": 22.9,
+        "noite": 20.0
     },
     "forecast": {
-        "max": 22.5,
-        "min": 18.2
+        "max": 22.6,
+        "min": 18.1
     },
     "news": [
         {
-            "title": "Rússia confirma a visita do director da CIA a Moscovo",
+            "title": "Farmácias recebem 3,5 euros por cada vacina contra a gripe",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/sociedade/noticia/farmacias-recebem-35-euros-vacina-gripe-2186121"
+        },
+        {
+            "title": "Rússia confirma visita do director da CIA a Moscovo",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/mundo/noticia/russia-confirma-visita-director-cia-moscovo-2186122"
         },
         {
-            "title": "Agente da PP que matou Odair Moniz regressa ao serviço",
+            "title": "Agente da PSP que matou Odair Moniz regressa ao serviço",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/sociedade/noticia/agente-pp-matou-odair-moniz-regressa-servico-2186073"
         },
         {
@@ -25,12 +29,8 @@
         {
             "title": "Mulheres conservadoras? Uma ova!",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/impar/cronica/mulheres-conservadoras-ova-2186035"
-        },
-        {
-            "title": "Ministério da Saúde, INEM e sindicato reúnem-se nesta quarta-feira com greve de Setembro na agenda",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/sociedade/noticia/ministerio-saude-inem-sindicato-reunemse-quartafeira-greve-setembro-agenda-2186120"
         }
     ],
     "finance": [],
-    "last_update": "26/08/2026 09:29"
+    "last_update": "26/08/2026 10:23"
 }
