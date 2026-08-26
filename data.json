@@ -3,34 +3,34 @@
         "atual": 20.0,
         "manha": 19.8,
         "tarde": 23.1,
-        "noite": 19.7
+        "noite": 19.8
     },
     "forecast": {
-        "max": 22.5,
-        "min": 18.0
+        "max": 22.2,
+        "min": 18.1
     },
     "news": [
         {
-            "title": "Associação Portuguesa de Bancos alerta para chamadas fraudulentas em seu nome",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/economia/noticia/associacao-portuguesa-bancos-alerta-chamadas-fraudulentas-nome-2186176"
+            "title": "De Paredes a Pequim sobre carris: a odisseia ferroviária de José Carlos Barbosa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/fugas/noticia/paredes-pequim-carris-odisseia-ferroviaria-jose-carlos-barbosa-2186193"
         },
         {
-            "title": "Vuelta: britânico Matthew Brennan “bisa” com triunfo na 5.ª etapa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/desporto/noticia/vuelta-britanico-matthew-brennan-bisa-triunfo-5-etapa-2186181"
+            "title": "O fim dos dogmas: porque é que a Ciência da universidade desmente o que aprendemos na escola?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/opiniao/opiniao/fim-dogmas-ciencia-universidade-desmente-aprendemos-escola-2186203"
         },
         {
-            "title": "Quase 1.200 imigrantes recorreram à Justiça neste ano contra expulsão de Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/publico-brasil/noticia/quase-1200-imigrantes-recorreram-justica-neste-ano-expulsao-portugal-2186160"
+            "title": "Sete coisas para fazer no telemóvel que são melhores do que ficar simplesmente a fazer <em>scroll</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/p3/noticia/sete-telemovel-sao-melhores-ficar-simplesmente-scroll-2186153"
         },
         {
-            "title": "Administração Trump suspende pedidos de visto para imigrantes de todo o mundo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/mundo/noticia/administracao-trump-suspende-pedidos-visto-imigrantes-mundo-2186169"
+            "title": "Calor extremo enche as urgências de diagnósticos que vão muito além da insolação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/azul/noticia/calor-extremo-enche-urgencias-diagnosticos-vao-alem-insolacao-2186019"
         },
         {
-            "title": "O que fazer? Quinta é dia de Mock Fest e Palavras Andarilhas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/fugas/noticia/quinta-dia-mock-fest-palavras-andarilhas-2186171"
+            "title": "PSP admite erro e afirma que não pode pedir dados pessoais de advogados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/publico-brasil/noticia/psp-admite-erro-afirma-nao-pedir-dados-pessoais-advogados-2186185"
         }
     ],
     "finance": [],
-    "last_update": "26/08/2026 16:08"
+    "last_update": "26/08/2026 18:48"
 }
