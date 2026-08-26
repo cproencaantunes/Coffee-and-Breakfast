@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.0,
         "manha": 19.8,
-        "tarde": 22.8,
-        "noite": 20.1
+        "tarde": 23.1,
+        "noite": 19.7
     },
     "forecast": {
-        "max": 22.7,
-        "min": 18.2
+        "max": 22.5,
+        "min": 18.0
     },
     "news": [
         {
-            "title": "<em>A Amiga Silenciosa</em>: o sol do <em>Ginkgo biloba</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/culturaipsilon/critica/amiga-silenciosa-sol-ginkgo-biloba-2186042"
+            "title": "Associação Portuguesa de Bancos alerta para chamadas fraudulentas em seu nome",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/economia/noticia/associacao-portuguesa-bancos-alerta-chamadas-fraudulentas-nome-2186176"
         },
         {
-            "title": "Meta paga até 18 mil milhões e aceita restrições reforçadas para contas de menores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/enter/noticia/meta-paga-ate-18-mil-milhoes-aceita-restricoes-reforcadas-contas-menores-2186167"
+            "title": "Vuelta: britânico Matthew Brennan “bisa” com triunfo na 5.ª etapa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/desporto/noticia/vuelta-britanico-matthew-brennan-bisa-triunfo-5-etapa-2186181"
         },
         {
-            "title": "De Beyoncé a Donald Trump, as reacções à morte da “única e insubstituível” Dolly Parton",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/impar/noticia/beyonce-donald-trump-reaccoes-morte-unica-insubstituivel-dolly-parton-2186155"
+            "title": "Quase 1.200 imigrantes recorreram à Justiça neste ano contra expulsão de Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/publico-brasil/noticia/quase-1200-imigrantes-recorreram-justica-neste-ano-expulsao-portugal-2186160"
         },
         {
-            "title": "Mau tempo adia abertura de <em>stands </em>da Feira do Livro do Porto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/local/noticia/mau-tempo-adia-abertura-stands-feira-livro-porto-2186151"
+            "title": "Administração Trump suspende pedidos de visto para imigrantes de todo o mundo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/mundo/noticia/administracao-trump-suspende-pedidos-visto-imigrantes-mundo-2186169"
         },
         {
-            "title": "Vila Franca quer triplicar Plataforma Logística de Lisboa-Norte mas oposição coloca dúvidas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/local/noticia/vila-franca-quer-triplicar-plataforma-logistica-lisboanorte-oposicao-coloca-duvidas-2186059"
+            "title": "O que fazer? Quinta é dia de Mock Fest e Palavras Andarilhas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/fugas/noticia/quinta-dia-mock-fest-palavras-andarilhas-2186171"
         }
     ],
     "finance": [],
-    "last_update": "26/08/2026 14:33"
+    "last_update": "26/08/2026 16:08"
 }
