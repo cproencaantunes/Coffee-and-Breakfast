@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.0,
-        "manha": 19.7,
-        "tarde": 23.1,
-        "noite": 19.9
+        "manha": 19.9,
+        "tarde": 23.0,
+        "noite": 20.1
     },
     "forecast": {
         "max": 22.5,
-        "min": 18.1
+        "min": 18.2
     },
     "news": [
         {
-            "title": "Como é que se estuda longe de casa com quartos a 500 euros?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/sociedade/noticia/estuda-longe-casa-quartos-500-euros-2186092"
+            "title": "Aos 63 anos e sem a certidão que Portugal não encontra, ainda espera ser português",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/publico-brasil/noticia/63-anos-certidao-portugal-nao-encontra-espera-portugues-2185999"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/opiniao/opiniao/cartas-director-2186089"
+            "title": "Os órgãos envelhecem a diferentes velocidades e o sangue pode revelar essa idade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/ciencia/noticia/orgaos-envelhecem-diferentes-velocidades-sangue-revelar-idade-2185031"
         },
         {
-            "title": "Está ali um senhor de boné",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/opiniao/cronica/ali-senhor-bone-2186029"
+            "title": "Sono das crianças nas férias: como manter o equilíbrio e preparar o regresso à rotina",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/impar/noticia/sono-criancas-ferias-manter-equilibrio-preparar-regresso-rotina-2185933"
         },
         {
-            "title": "Ala esquerdo marroquino Moncef Zekri é reforço do Sporting",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/desporto/noticia/ala-esquerdo-arroquino-moncef-zekri-reforco-sporting-2186111"
+            "title": "Ainda o abate do monumental pinheiro-manso em Lisboa: um comboio de ilegalidades",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/opiniao/opiniao/abate-monumental-pinheiromanso-lisboa-comboio-ilegalidades-2185270"
         },
         {
-            "title": "Henrique Rocha também vence na estreia no US Open",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/25/desporto/noticia/henrique-rocha-tambem-vence-estreia-us-open-2186110"
+            "title": "Haja coração: Salvador Sobral é Salvador Sobral num filme de amor e doença",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/culturaipsilon/noticia/coracao-salvador-sobral-salvador-sobral-filme-amor-doenca-2186003"
         }
     ],
     "finance": [],
-    "last_update": "26/08/2026 05:22"
+    "last_update": "26/08/2026 06:27"
 }
