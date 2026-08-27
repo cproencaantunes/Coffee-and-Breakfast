@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.8,
-        "manha": 18.9,
-        "tarde": 21.4,
-        "noite": 19.4
+        "manha": 19.3,
+        "tarde": 25.6,
+        "noite": 20.8
     },
     "forecast": {
-        "max": 25.9,
-        "min": 17.1
+        "max": 27.1,
+        "min": 18.4
     },
     "news": [
         {
-            "title": "Morreu Ratko Mladic, o general bósnio condenado por genocídio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/27/mundo/noticia/morreu-ratko-mladic-general-bosnio-condenado-genocidio-2186270"
+            "title": "Música, dança, comida",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/28/opiniao/cronica/musica-danca-comida-2186255"
         },
         {
-            "title": "Um colapso glaciar que causou um evento sísmico? O que se sabe sobre as cheias no Nepal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/27/azul/noticia/colapso-glaciar-causou-evento-sismico-sabe-cheias-nepal-2186253"
+            "title": "Diana Silva, jogadora do Benfica, está grávida. “É um direito de todas”, mas nem sempre foi assim",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/27/desporto/noticia/diana-silva-jogadora-benfica-gravida-direito-assim-2186319"
         },
         {
-            "title": "De Braga a Paris: jovem artista brasileira expõe no Carrossel do Louvre",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/27/publico-brasil/noticia/braga-paris-jovem-artista-brasileira-expoe-carrossel-louvre-2186206"
+            "title": "João Soares diz na Universidade de Verão do PSD que comparar Carneiro a Ventura “é uma indecência”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/27/politica/noticia/joao-soares-universidade-verao-psd-comparar-carneiro-ventura-indecencia-2186332"
         },
         {
-            "title": "Mais de 100 castanheiros destruídos por veados em aldeia de Bragança",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/27/local/noticia/100-castanheiros-destruidos-veados-aldeia-braganca-2186266"
+            "title": "Sp. Braga chega à Liga Conferência com exibição intermitente em Viena",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/27/desporto/cronica_de_jogo/sp-braga-chega-liga-conferencia-exibicao-intermitente-viena-2186329"
         },
         {
-            "title": "Roubado Tesouro de Vilhena, um dos mais importantes da Idade do Bronze na Europa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/27/culturaipsilon/noticia/roubado-tesouro-vilhena-importantes-idade-bronze-europa-2186265"
+            "title": "O mundo era melhor com Dolly Parton",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/27/opiniao/editorial/mundo-melhor-dolly-parton-2186321"
         }
     ],
     "finance": [],
-    "last_update": "27/08/2026 13:17"
+    "last_update": "27/08/2026 23:20"
 }
