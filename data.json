@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.0,
-        "manha": 19.8,
-        "tarde": 23.1,
-        "noite": 19.8
+        "atual": 18.8,
+        "manha": 19.1,
+        "tarde": 21.9,
+        "noite": 19.5
     },
     "forecast": {
-        "max": 22.2,
-        "min": 18.1
+        "max": 25.4,
+        "min": 16.3
     },
     "news": [
         {
+            "title": "Incêndios florestais causam 12 mortes na Argélia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/27/azul/noticia/incendios-florestais-causam-12-mortes-argelia-2186221"
+        },
+        {
+            "title": "O que se sabe sobre as cheias no Nepal que fizeram pelo menos 160 mortos?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/27/mundo/noticia/sabe-cheias-nepal-fizeram-menos-160-mortos-2186222"
+        },
+        {
+            "title": "Aqui somos todos primos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/27/opiniao/cronica/aqui-primos-2186143"
+        },
+        {
+            "title": "Independência da Ucrânia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/opiniao/opiniao/independencia-ucrania-2186209"
+        },
+        {
             "title": "Ramiro Brito: “Tenho o vício dos carros e orgulho-me porque é parte fundamental da minha história”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/impar/noticia/ramiro-brito-vicio-carros-orgulhome-parte-fundamental-historia-2186157"
-        },
-        {
-            "title": "US Open: segunda ronda do <em>qualifying </em>não começou bem para o ténis português",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/desporto/noticia/us-open-segunda-ronda-qualifying-nao-comecou-bem-tenis-portugues-2186219"
-        },
-        {
-            "title": "Marques Mendes recusa voltar a cargos políticos, mas não ao comentário",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/politica/noticia/marques-mendes-recusa-voltar-cargos-politicos-nao-comentario-2186217"
-        },
-        {
-            "title": "Em festa, no campo, à luz do pirilampo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/newsletter/relaxar"
-        },
-        {
-            "title": "“Não há no relatório nada de catastrofista, é puramente transparência”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/26/economia/noticia/nao-ha-relatorio-nada-catastrofista-puramente-transparencia-2186144"
         }
     ],
     "finance": [],
-    "last_update": "26/08/2026 21:26"
+    "last_update": "27/08/2026 02:22"
 }
