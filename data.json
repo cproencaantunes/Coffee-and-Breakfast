@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 19.0,
-        "manha": 18.9,
-        "tarde": 25.2,
-        "noite": 20.8
+        "manha": 18.8,
+        "tarde": 25.1,
+        "noite": 20.6
     },
     "forecast": {
-        "max": 26.7,
-        "min": 18.2
+        "max": 25.9,
+        "min": 18.1
     },
     "news": [
         {
-            "title": "Haroldo V (1937-2026), o primeiro rei a nascer na Noruega em séculos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/28/impar/noticia/haroldo-v-19372026-rei-nascer-noruega-seculos-2186053"
+            "title": "Sapos reais e imaginários",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/28/p3/cronica/sapos-reais-imaginarios-2186246"
         },
         {
-            "title": "Trotinetas partilhadas em Braga removidas até terça-feira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/28/local/noticia/trotinetas-partilhadas-braga-removidas-ate-tercafeira-2186337"
+            "title": "Obras no IP3: trânsito cortado nas noites de segunda a quarta-feira em Tondela",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/28/local/noticia/obras-ip3-transito-cortado-noites-segunda-quartafeira-tondela-2186424"
         },
         {
-            "title": "Cheias no Nepal fazem 475 mortos, barragem voltou a transbordar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/28/mundo/noticia/cheias-nepal-fazem-475-mortos-barragem-voltou-transbordar-2186336"
+            "title": "Trump duplica apoio a refugiados, 99% dos quais são agora sul-africanos brancos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/28/mundo/noticia/trump-duplica-apoio-refugiados-99-sao-sulafricanos-brancos-2186423"
         },
         {
-            "title": "Família de Odair Moniz recorre: quer prisão efectiva e expulsão de agente da PSP",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/28/sociedade/noticia/familia-odair-moniz-recorre-quer-prisao-efectiva-expulsao-agente-psp-2186287"
+            "title": "Exames nacionais: 69 escolas submeteram reapreciações fora do prazo, conclui inspecção",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/28/sociedade/noticia/exames-nacionais-69-escolas-submeteram-reapreciacoes-prazo-conclui-inspeccao-2186421"
         },
         {
-            "title": "Que revisão da Lei do Tribunal Arbitral do Desporto? (II)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/28/desporto/opiniao/revisao-lei-tribunal-arbitral-desporto-ii-2186280"
+            "title": "Tribunal Constitucional dá luz verde à lei do retorno e asilo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/28/politica/noticia/tribunal-constitucional-luz-verde-lei-retorno-asilo-2186420"
         }
     ],
     "finance": [],
-    "last_update": "28/08/2026 07:46"
+    "last_update": "28/08/2026 19:44"
 }
