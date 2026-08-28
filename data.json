@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 18.8,
-        "manha": 19.3,
-        "tarde": 25.6,
+        "atual": 19.0,
+        "manha": 18.9,
+        "tarde": 25.2,
         "noite": 20.8
     },
     "forecast": {
-        "max": 27.1,
-        "min": 18.4
+        "max": 26.7,
+        "min": 18.2
     },
     "news": [
         {
-            "title": "Música, dança, comida",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/28/opiniao/cronica/musica-danca-comida-2186255"
+            "title": "Haroldo V (1937-2026), o primeiro rei a nascer na Noruega em séculos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/28/impar/noticia/haroldo-v-19372026-rei-nascer-noruega-seculos-2186053"
         },
         {
-            "title": "Diana Silva, jogadora do Benfica, está grávida. “É um direito de todas”, mas nem sempre foi assim",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/27/desporto/noticia/diana-silva-jogadora-benfica-gravida-direito-assim-2186319"
+            "title": "Trotinetas partilhadas em Braga removidas até terça-feira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/28/local/noticia/trotinetas-partilhadas-braga-removidas-ate-tercafeira-2186337"
         },
         {
-            "title": "João Soares diz na Universidade de Verão do PSD que comparar Carneiro a Ventura “é uma indecência”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/27/politica/noticia/joao-soares-universidade-verao-psd-comparar-carneiro-ventura-indecencia-2186332"
+            "title": "Cheias no Nepal fazem 475 mortos, barragem voltou a transbordar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/28/mundo/noticia/cheias-nepal-fazem-475-mortos-barragem-voltou-transbordar-2186336"
         },
         {
-            "title": "Sp. Braga chega à Liga Conferência com exibição intermitente em Viena",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/27/desporto/cronica_de_jogo/sp-braga-chega-liga-conferencia-exibicao-intermitente-viena-2186329"
+            "title": "Família de Odair Moniz recorre: quer prisão efectiva e expulsão de agente da PSP",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/28/sociedade/noticia/familia-odair-moniz-recorre-quer-prisao-efectiva-expulsao-agente-psp-2186287"
         },
         {
-            "title": "O mundo era melhor com Dolly Parton",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/27/opiniao/editorial/mundo-melhor-dolly-parton-2186321"
+            "title": "Que revisão da Lei do Tribunal Arbitral do Desporto? (II)",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/28/desporto/opiniao/revisao-lei-tribunal-arbitral-desporto-ii-2186280"
         }
     ],
     "finance": [],
-    "last_update": "27/08/2026 23:20"
+    "last_update": "28/08/2026 07:46"
 }
