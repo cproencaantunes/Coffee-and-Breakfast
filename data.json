@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 19.5,
-        "manha": 19.6,
-        "tarde": 26.0,
-        "noite": 21.3
+        "manha": 19.4,
+        "tarde": 25.9,
+        "noite": 21.2
     },
     "forecast": {
-        "max": 27.2,
-        "min": 20.3
+        "max": 26.9,
+        "min": 19.9
     },
     "news": [
         {
-            "title": "Bélgica mobiliza militares e polícias em resposta a onda de tiroteios em Bruxelas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/29/mundo/noticia/belgica-mobiliza-militares-policias-resposta-onda-tiroteios-bruxelas-2186440"
+            "title": "Monção: do vinho à história, sem esquecer a natureza",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/29/fugas/reportagem/moncao-vinho-historia-esquecer-natureza-2186008"
         },
         {
-            "title": "Cidade de Berlim vítima de tentativa de extorsão após ciberataque",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/29/mundo/noticia/cidade-berlim-vitima-tentativa-extorsao-apos-ciberataque-2186439"
+            "title": "O maestro Dom Bemol fintou a morte",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/29/impar/noticia/maestro-dom-bemol-fintou-morte-2186328"
         },
         {
-            "title": "O penteador de gatos de Istambul",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/29/opiniao/cronica/penteador-gatos-istambul-2186358"
+            "title": "Trump anuncia acordo para controlar parcialmente reservas de petróleo da Venezuela",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/29/mundo/noticia/trump-anuncia-acordo-controlar-parcialmente-reservas-petroleo-venezuela-2186443"
         },
         {
-            "title": "Basquetebol: Portugal soma triunfo histórico em Espanha na corrida ao Mundial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/28/desporto/noticia/portugal-historica-vitoria-espanha-corrida-mundial-basquetebol-2186437"
+            "title": "Cheias no Nepal: sobe para 633 o número de mortos e três portugueses continuam desaparecidos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/29/mundo/noticia/cheias-nepal-sobe-633-numero-mortos-tres-portugueses-continuam-desaparecidos-2186444"
         },
         {
-            "title": "Israel mata três pessoas em raro ataque aéreo na Cisjordânia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/28/mundo/noticia/israel-mata-tres-pessoas-raro-ataque-aereo-cisjordania-2186428"
+            "title": "Telescópio da NASA vai seguir viagem para estudar os grandes mistérios do Universo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/29/ciencia/noticia/telescopio-nasa-vai-seguir-viagem-estudar-misterios-universo-2186376"
         }
     ],
     "finance": [],
-    "last_update": "29/08/2026 02:34"
+    "last_update": "29/08/2026 09:31"
 }
