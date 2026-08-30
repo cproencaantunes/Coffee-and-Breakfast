@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.5,
-        "manha": 21.7,
-        "tarde": 26.6,
-        "noite": 20.5
+        "manha": 21.5,
+        "tarde": 26.2,
+        "noite": 20.4
     },
     "forecast": {
         "max": 25.8,
-        "min": 18.7
+        "min": 18.6
     },
     "news": [
         {
-            "title": "Engolir em seco",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/30/opiniao/cronica/engolir-seco-2186456"
+            "title": "As especialidades de um <em>Special One</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/30/opiniao/cronica/especialidades-special-one-2186399"
         },
         {
-            "title": "Afinal é a direita radical que promove a cultura de cancelamento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/30/opiniao/opiniao/afinal-direita-radical-promove-cultura-cancelamento-2186449"
+            "title": "A TAP: a notícia do verão 2026",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/30/opiniao/opiniao/tap-noticia-verao-2026-2186390"
         },
         {
-            "title": "US Open 2026 arranca com o guião em branco",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/29/desporto/noticia/us-open-2026-arranca-guiao-branco-2186481"
+            "title": "Que tal ser mais exigente com as universidades, em vez de o ser com os jovens?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/30/opiniao/opiniao/tal-exigente-universidades-jovens-2185911"
         },
         {
-            "title": "IL propõe reforma das pensões com componente de “capitalização” individual",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/29/politica/noticia/il-propoe-reforma-pensoes-componente-capitalizacao-individual-2186480"
+            "title": "Defender os sectores estratégicos sem fundo soberano e participações estatais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/30/opiniao/opiniao/defender-sectores-estrategicos-fundo-soberano-participacoes-estatais-2186091"
         },
         {
-            "title": "700 agentes de IA da OpenAI coordenaram o ciberataque à Hugging Face num fórum secreto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/29/enter/noticia/700-agentes-ia-openai-coordenaram-ciberataque-hugging-face-forum-secreto-2185950"
+            "title": "Tribunais prevêem “aumento exponencial” de processos com mudanças na lei do retorno e asilo e pedem mais juízes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/30/sociedade/noticia/tribunais-preveem-aumento-exponencial-processos-mudancas-lei-retorno-asilo-pedem-juizes-2186466"
         }
     ],
     "finance": [],
-    "last_update": "30/08/2026 00:53"
+    "last_update": "30/08/2026 06:03"
 }
