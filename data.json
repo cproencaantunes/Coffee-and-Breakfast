@@ -3,34 +3,34 @@
         "atual": 20.5,
         "manha": 21.7,
         "tarde": 26.4,
-        "noite": 20.7
+        "noite": 20.9
     },
     "forecast": {
-        "max": 26.0,
-        "min": 18.5
+        "max": 26.1,
+        "min": 18.6
     },
     "news": [
         {
-            "title": "Uma lápide para os desaparecidos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/30/p3/cronica/lapide-desaparecidos-2186248"
+            "title": "Mais de 20 pessoas procuradas no Grand Canyon após cheia repentina",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/30/mundo/noticia/20-pessoas-procuradas-grand-canyon-apos-cheia-repentina-2186530"
         },
         {
-            "title": "Laurie Anderson vai depositar manuscrito inédito na Future Library em 2027",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/30/culturaipsilon/noticia/laurie-anderson-vai-depositar-manuscrito-inedito-future-library-2027-2186518"
+            "title": "Lisa foi obrigada a devolver o cão a um abrigo — mas estranhos ajudaram-na a recuperar <em>Eddie</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/30/p3/noticia/lisa-obrigada-devolver-cao-abrigo-estranhos-ajudaramna-recuperar-eddie-2186527"
         },
         {
-            "title": "O que seria do Manchester United sem Bruno Fernandes?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/30/desporto/noticia/manchester-united-bruno-fernandes-2186522"
+            "title": "Grêmio aceitou proposta do FC Porto pelo extremo Gabriel Mec",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/30/desporto/noticia/gremio-aceitou-proposta-fc-porto-extremo-gabriel-mec-2186529"
         },
         {
-            "title": "Jessica Pegula regressa ao US Open com a ambição renovada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/30/desporto/noticia/jessica-pegula-regressa-us-open-ambicao-renovada-2186521"
+            "title": "Judo: Patrícia Sampaio conquista bronze no Grand Slam de Lausanne",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/30/desporto/noticia/judo-patricia-sampaio-conquista-bronze-grand-slam-lausanne-2186525"
         },
         {
-            "title": "BE avança com propostas de apoio à habitação e à Segurança Social",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/30/politica/noticia/be-avanca-propostas-apoio-habitacao-seguranca-social-2186520"
+            "title": "Castro Guerra: “O drama dos políticos é que precisam da política para viver”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/30/economia/entrevista/drama-politicos-precisam-politica-viver-2186202"
         }
     ],
     "finance": [],
-    "last_update": "30/08/2026 20:14"
+    "last_update": "30/08/2026 22:59"
 }
