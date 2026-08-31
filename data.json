@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.6,
         "manha": 19.3,
-        "tarde": 25.6,
-        "noite": 19.5
+        "tarde": 26.3,
+        "noite": 19.7
     },
     "forecast": {
-        "max": 25.4,
+        "max": 24.4,
         "min": 18.4
     },
     "news": [
         {
-            "title": "Estratégia Nacional de Armazenamento de Energia entra em consulta pública",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/azul/noticia/estrategia-nacional-armazenamento-energia-entra-consulta-publica-2186563"
+            "title": "Benfica ameaça golear Estoril e termina a defender triunfo apertado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/desporto/cronica_de_jogo/benfica-ameaca-golear-estoril-termina-defender-triunfo-apertado-2186637"
         },
         {
-            "title": "Luís Neves está “absolutamente tranquilo” e fala esta terça-feira “sobre os assuntos todos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/politica/noticia/luis-neves-absolutamente-tranquilo-fala-tercafeira-assuntos-2186591"
+            "title": "Basquetebol: Portugal perde com a Geórgia na qualificação para o Mundial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/desporto/noticia/basquetebol-portugal-perde-georgia-qualificacao-mundial-2186633"
         },
         {
-            "title": "Liverpool contrata Barcola por 125 milhões - é o maior negócio do mercado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/desporto/noticia/liverpool-contrata-barcola-125-milhoes-maior-negocio-mercado-2186592"
+            "title": "Sánchez, Ceuta, Putin e a Matriosca",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/opiniao/editorial/sanchez-ceuta-putin-matriosca-2186593"
         },
         {
-            "title": "O que fazer? Terça é dia de alinhar as máscaras com outras tradições",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/fugas/noticia/terca-dia-alinhar-mascaras-tradicoes-2186553"
+            "title": "João Mota: “A última coisa nova que aprendi foi a mudar fraldas. Foi incrível!”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/impar/noticia/joao-mota-ultima-nova-aprendi-mudar-fraldas-incrivel-2186562"
         },
         {
-            "title": "Oposição guineense considera referendo constitucional um “fracasso total”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/mundo/noticia/oposicao-guineense-considera-referendo-constitucional-fracasso-total-2186577"
+            "title": "O carro, os bidões e os sofás: as dúvidas que Luís Neves poderá (ou não) esclarecer",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/politica/noticia/carro-bidoes-sofas-duvidas-luis-neves-podera-nao-esclarecer-2186617"
         }
     ],
     "finance": [],
-    "last_update": "31/08/2026 15:38"
+    "last_update": "31/08/2026 21:11"
 }
