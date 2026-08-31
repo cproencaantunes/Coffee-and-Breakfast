@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 19.6,
-        "manha": 19.7,
-        "tarde": 25.8,
+        "manha": 19.3,
+        "tarde": 25.6,
         "noite": 19.5
     },
     "forecast": {
-        "max": 25.1,
-        "min": 18.2
+        "max": 25.4,
+        "min": 18.4
     },
     "news": [
         {
-            "title": "Exames: dar passos em frente!",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/sociedade/opiniao/exames-dar-passos-frente-2185434"
+            "title": "Estratégia Nacional de Armazenamento de Energia entra em consulta pública",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/azul/noticia/estrategia-nacional-armazenamento-energia-entra-consulta-publica-2186563"
         },
         {
-            "title": "José Lopes: o melhor conselho? “Que ninguém é insubstituível”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/impar/noticia/jose-lopes-melhor-conselho-ninguem-insubstituivel-2184227"
+            "title": "Luís Neves está “absolutamente tranquilo” e fala esta terça-feira “sobre os assuntos todos”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/politica/noticia/luis-neves-absolutamente-tranquilo-fala-tercafeira-assuntos-2186591"
         },
         {
-            "title": "José Pinhal desapareceu cedo demais, mas <em>Tu és a que eu quero</em> tornou-se eterna",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/culturaipsilon/noticia/jose-pinhal-desapareceu-cedo-demais-es-quero-tornouse-eterna-2184326"
+            "title": "Liverpool contrata Barcola por 125 milhões - é o maior negócio do mercado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/desporto/noticia/liverpool-contrata-barcola-125-milhoes-maior-negocio-mercado-2186592"
         },
         {
-            "title": "Depois de ataque dos EUA, Irão responde contra base nos Emirados Árabes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/mundo/noticia/ataque-eua-irao-responde-base-emirados-arabes-2186538"
+            "title": "O que fazer? Terça é dia de alinhar as máscaras com outras tradições",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/fugas/noticia/terca-dia-alinhar-mascaras-tradicoes-2186553"
         },
         {
-            "title": "Como a reunião que podia ter sido um email, <em>O Homem dos Sussurros</em> podia ter ido para o cinema",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/culturaipsilon/noticia/reuniao-email-homem-sussurros-ido-cinema-2186362"
+            "title": "Oposição guineense considera referendo constitucional um “fracasso total”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/mundo/noticia/oposicao-guineense-considera-referendo-constitucional-fracasso-total-2186577"
         }
     ],
     "finance": [],
-    "last_update": "31/08/2026 07:51"
+    "last_update": "31/08/2026 15:38"
 }
