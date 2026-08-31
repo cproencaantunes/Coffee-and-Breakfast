@@ -1,15 +1,23 @@
 {
     "weather": {
-        "atual": 20.5,
-        "manha": 21.7,
-        "tarde": 26.4,
-        "noite": 20.9
+        "atual": 19.6,
+        "manha": 19.9,
+        "tarde": 26.1,
+        "noite": 19.5
     },
     "forecast": {
-        "max": 26.1,
-        "min": 18.6
+        "max": 25.1,
+        "min": 18.3
     },
     "news": [
+        {
+            "title": "Jaime Faria também vence no US Open",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/desporto/noticia/jaime-faria-tambem-vence-us-open-2186531"
+        },
+        {
+            "title": "A barreira inquietante",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/opiniao/cronica/barreira-inquietante-2186494"
+        },
         {
             "title": "Mais de 20 pessoas procuradas no Grand Canyon após cheia repentina",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/30/mundo/noticia/20-pessoas-procuradas-grand-canyon-apos-cheia-repentina-2186530"
@@ -21,16 +29,8 @@
         {
             "title": "Grêmio aceitou proposta do FC Porto pelo extremo Gabriel Mec",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/08/30/desporto/noticia/gremio-aceitou-proposta-fc-porto-extremo-gabriel-mec-2186529"
-        },
-        {
-            "title": "Judo: Patrícia Sampaio conquista bronze no Grand Slam de Lausanne",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/30/desporto/noticia/judo-patricia-sampaio-conquista-bronze-grand-slam-lausanne-2186525"
-        },
-        {
-            "title": "Castro Guerra: “O drama dos políticos é que precisam da política para viver”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/30/economia/entrevista/drama-politicos-precisam-politica-viver-2186202"
         }
     ],
     "finance": [],
-    "last_update": "30/08/2026 22:59"
+    "last_update": "31/08/2026 01:09"
 }
