@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.4,
         "manha": 19.9,
-        "tarde": 25.8,
+        "tarde": 25.4,
         "noite": 19.6
     },
     "forecast": {
         "max": 30.7,
-        "min": 18.7
+        "min": 18.9
     },
     "news": [
         {
-            "title": "Elevador da Glória: Carris não abriu qualquer processo disciplinar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/sociedade/noticia/elevador-gloria-carris-nao-abriu-qualquer-processo-disciplinar-2186635"
+            "title": "Daqui, da Reboleira, toda a gente sai viva!",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/culturaipsilon/comentario/daqui-reboleira-gente-sai-viva-2185833"
         },
         {
-            "title": "Elevador da Glória: MP informa lesados de que podem pedir indemnização no processo-crime",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/sociedade/noticia/elevador-gloria-mp-informa-lesados-podem-pedir-indemnizacao-processocrime-2186438"
+            "title": "Jovem de 16 anos usaria Net para incitar raparigas a automutilarem-se",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/sociedade/noticia/jovem-16-anos-usaria-net-incitar-raparigas-automutilaremse-2186669"
         },
         {
-            "title": "“Quando gostam, não olham ao preço”: os mercados tradicionais lucram no Verão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/economia/noticia/gostam-nao-olham-preco-mercados-tradicionais-lucram-verao-2186546"
+            "title": "Vagas na 2.ª fase sobem para mais de 11 mil e ainda há lugares em Medicina",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/sociedade/noticia/vagas-2-fase-sobem-11-mil-ha-lugares-medicina-2186661"
         },
         {
-            "title": "Onde a “cortina de ferro” dividiu um cemitério",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/mundo/reportagem/onde-cortina-ferro-dividiu-cemiterio-2186599"
+            "title": "Acções da Shein afundam mais de 9% na estreia em bolsa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/economia/noticia/accoes-shein-afundam-9-estreia-bolsa-2186662"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/opiniao/opiniao/cartas-director-2145541"
+            "title": "Ex-membro de gangue condenado por homicídio do <em>rapper</em> Tupac Shakur há 30 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/impar/noticia/exmembro-gangue-condenado-homicidio-rapper-tupac-shakur-ha-30-anos-2186663"
         }
     ],
     "finance": [],
-    "last_update": "01/09/2026 05:50"
+    "last_update": "01/09/2026 10:43"
 }
