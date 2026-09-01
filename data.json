@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.4,
         "manha": 19.9,
-        "tarde": 25.4,
-        "noite": 19.6
+        "tarde": 25.3,
+        "noite": 19.7
     },
     "forecast": {
         "max": 30.7,
-        "min": 18.8
+        "min": 18.7
     },
     "news": [
         {
-            "title": "Sindicatos da função pública convocam greve das carreiras gerais para 2 de Outubro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/economia/noticia/sindicatos-funcao-publica-convocam-greve-carreiras-gerais-2-outubro-2186701"
+            "title": "Governo já tem relatório para avançar com escolha do comprador da TAP",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/economia/noticia/governo-ja-relatorio-avancar-escolha-comprador-tap-2186737"
         },
         {
-            "title": "Dois brasileiros disputam prêmio de música global do Hard Rock Cafe em Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/publico-brasil/noticia/dois-brasileiros-disputam-premio-musica-global-hard-rock-cafe-lisboa-2186677"
+            "title": "Portugal assinala os 130 anos da primeira campanha oceanográfica",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/ciencia/noticia/portugal-assinala-130-anos-primeira-campanha-oceanografica-2186711"
         },
         {
-            "title": "O que fazer? Quarta é dia de <em>Hamlet</em> e Museu da Cortiça",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/fugas/noticia/quarta-dia-hamlet-museu-cortica-2186595"
+            "title": "Bruxelas compreendeu “muito bem” regresso do Estado à REN, garante Graça Carvalho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/economia/noticia/bruxelas-compreendeu-bem-regresso-estado-ren-garante-graca-carvalho-2186734"
         },
         {
-            "title": "IL pede demissão de Luís Neves: “Continuidade não combate o populismo, alimenta-o”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/politica/noticia/il-pede-demissao-luis-neves-continuidade-nao-combate-populismo-alimentao-2186699"
+            "title": "Rasto de lama e morte: as imagens da destruição no Nepal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/fotogaleria/nepal-415912"
         },
         {
-            "title": "Homem do Jogo: João Palhinha na outra margem da Segunda Circular",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/desporto/noticia/homem-jogo-joao-palhinha-margem-segunda-circular-2186698"
+            "title": "Salvador Sobral volta ao Spotify, um “Golias demasiado forte para enfrentar sozinho”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/culturaipsilon/noticia/salvador-sobral-volta-spotify-golias-demasiado-forte-enfrentar-sozinho-2186722"
         }
     ],
     "finance": [],
-    "last_update": "01/09/2026 15:17"
+    "last_update": "01/09/2026 18:58"
 }
