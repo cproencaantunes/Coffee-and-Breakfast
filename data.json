@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 19.4,
-        "manha": 19.9,
-        "tarde": 25.3,
-        "noite": 19.7
+        "atual": 19.1,
+        "manha": 20.0,
+        "tarde": 28.9,
+        "noite": 24.7
     },
     "forecast": {
-        "max": 30.7,
-        "min": 18.7
+        "max": 37.8,
+        "min": 19.9
     },
     "news": [
         {
-            "title": "Mulher britânica morta à facada em hotel de Albufeira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/sociedade/noticia/mulher-britanica-morta-facada-hotel-albufeira-2186745"
+            "title": "Regresso às aulas com inteligência",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/opiniao/opiniao/regresso-aulas-inteligencia-2186707"
         },
         {
-            "title": "Leia um dos capítulos de <em>Missão em Paris – As Aventuras do Capitão Alatriste</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/culturaipsilon/prepublicacao/leia-capitulos-missao-paris-aventuras-capitao-alatriste-2186746"
+            "title": "Resposta à entrevista de Jorge Bravo e ao desafio de Carla Castro divulgados no PÚBLICO",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/opiniao/opiniao/resposta-entrevista-jorge-bravo-desafio-carla-castro-divulgados-publico-2186482"
         },
         {
-            "title": "Miguel Carretas: “Arrependo-me de todas as vezes em que disse ‘sim’ por ser mais fácil do que dizer ‘não’”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/impar/noticia/miguel-carretas-arrependome-vezes-sim-facil-dizer-nao-2186566"
+            "title": "PRR: ainda muito por fazer e avaliar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/opiniao/opiniao/prr-avaliar-2186704"
         },
         {
-            "title": "Valério Romão é o convidado do Encontro de Leituras de Setembro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/culturaipsilon/noticia/valerio-romao-convidado-encontro-leituras-setembro-2186192"
+            "title": "As tatuagens da infâmia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/opiniao/opiniao/tatuagens-infamia-2186717"
         },
         {
-            "title": "Luís Neves desafia Montenegro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/opiniao/editorial/luis-neves-desafia-montenegro-2186742"
+            "title": "Uma chance à diplomacia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/opiniao/opiniao/chance-diplomacia-2185967"
         }
     ],
     "finance": [],
-    "last_update": "01/09/2026 21:34"
+    "last_update": "01/09/2026 23:39"
 }
