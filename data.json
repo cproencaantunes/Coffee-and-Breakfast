@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 19.6,
-        "manha": 19.3,
-        "tarde": 26.3,
-        "noite": 19.7
+        "atual": 19.4,
+        "manha": 19.8,
+        "tarde": 25.7,
+        "noite": 19.5
     },
     "forecast": {
-        "max": 24.4,
-        "min": 18.4
+        "max": 30.2,
+        "min": 18.7
     },
     "news": [
         {
-            "title": "Benfica ameaça golear Estoril e termina a defender triunfo apertado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/desporto/cronica_de_jogo/benfica-ameaca-golear-estoril-termina-defender-triunfo-apertado-2186637"
+            "title": "O Irão será a Ucrânia dos EUA?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/opiniao/opiniao/irao-sera-ucrania-eua-2186594"
         },
         {
-            "title": "Basquetebol: Portugal perde com a Geórgia na qualificação para o Mundial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/desporto/noticia/basquetebol-portugal-perde-georgia-qualificacao-mundial-2186633"
+            "title": "Portugal encontrou o rumo para uma imigração regulada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/opiniao/opiniao/portugal-encontrou-rumo-imigracao-regulada-2186565"
         },
         {
-            "title": "Sánchez, Ceuta, Putin e a Matriosca",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/opiniao/editorial/sanchez-ceuta-putin-matriosca-2186593"
+            "title": "Tottenham empresta lateral esquerdo João Souza ao FC Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/desporto/noticia/tottenham-empresta-lateral-esquerdo-joao-souza-fc-porto-2186645"
         },
         {
-            "title": "João Mota: “A última coisa nova que aprendi foi a mudar fraldas. Foi incrível!”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/impar/noticia/joao-mota-ultima-nova-aprendi-mudar-fraldas-incrivel-2186562"
+            "title": "Na saúde, todos somos poucos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/opiniao/opiniao/saude-2185907"
         },
         {
-            "title": "O carro, os bidões e os sofás: as dúvidas que Luís Neves poderá (ou não) esclarecer",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/08/31/politica/noticia/carro-bidoes-sofas-duvidas-luis-neves-podera-nao-esclarecer-2186617"
+            "title": "Crónica da tomada do petróleo venezuelano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/01/opiniao/opiniao/cronica-tomada-petroleo-venezuelano-2186606"
         }
     ],
     "finance": [],
-    "last_update": "31/08/2026 21:11"
+    "last_update": "01/09/2026 00:53"
 }
