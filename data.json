@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.0,
         "manha": 20.1,
-        "tarde": 28.9,
-        "noite": 24.7
+        "tarde": 29.0,
+        "noite": 25.1
     },
     "forecast": {
         "max": 37.8,
-        "min": 19.9
+        "min": 20.3
     },
     "news": [
         {
-            "title": "Regresso às aulas com inteligência",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/opiniao/opiniao/regresso-aulas-inteligencia-2186707"
+            "title": "Mães invisíveis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/publico-brasil/opiniao/maes-invisiveis-2186744"
         },
         {
-            "title": "Resposta à entrevista de Jorge Bravo e ao desafio de Carla Castro divulgados no PÚBLICO",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/opiniao/opiniao/resposta-entrevista-jorge-bravo-desafio-carla-castro-divulgados-publico-2186482"
+            "title": "Despertador: o resumo da manhã",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/newsletter/despertador"
         },
         {
-            "title": "PRR: ainda muito por fazer e avaliar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/opiniao/opiniao/prr-avaliar-2186704"
+            "title": "Tempero brasileiro invade o <em>Chefs on Fire Cascais</em> às vésperas de desembarque em São Paulo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/publico-brasil/noticia/tempero-brasileiro-invade-chefs-on-fire-cascais-vesperas-desembarque-sao-paulo-2186709"
         },
         {
-            "title": "As tatuagens da infâmia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/opiniao/opiniao/tatuagens-infamia-2186717"
+            "title": "Gaza bate à porta do Festival de Veneza, num ano menos “americano”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/culturaipsilon/noticia/gaza-bate-porta-festival-veneza-ano-menos-americano-2186459"
         },
         {
-            "title": "Uma chance à diplomacia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/opiniao/opiniao/chance-diplomacia-2185967"
+            "title": "Angolanos deslocados pela seca enfrentam violações de direitos humanos na Namíbia, alerta Amnistia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/mundo/noticia/angolanos-deslocados-seca-enfrentam-violacoes-direitos-humanos-namibia-alerta-amnistia-2186730"
         }
     ],
     "finance": [],
-    "last_update": "02/09/2026 01:51"
+    "last_update": "02/09/2026 06:35"
 }
