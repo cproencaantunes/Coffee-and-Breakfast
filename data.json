@@ -2,35 +2,35 @@
     "weather": {
         "atual": 19.0,
         "manha": 19.9,
-        "tarde": 29.3,
-        "noite": 25.0
+        "tarde": 29.2,
+        "noite": 24.6
     },
     "forecast": {
-        "max": 38.3,
+        "max": 37.7,
         "min": 19.9
     },
     "news": [
         {
-            "title": "Vítimas do Elevador da Glória denunciam “ano de silêncio” e pedem celeridade nas indemnizações",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/sociedade/noticia/vitimas-elevador-gloria-denunciam-ano-silencio-pedem-celeridade-indemnizacoes-2186816"
+            "title": "O mercado não acabou para os “grandes”, mas já se sabe o que mudou",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/desporto/noticia/mercado-nao-acabou-ja-sabe-mudou-2186864"
         },
         {
-            "title": "Algarve: nasceu a primeira íbis-preta do Zoomarine e chama-se Vozinha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/fugas/noticia/algarve-primeira-ibispreta-nascer-zoomarine-baptizada-homenagem-vozinha-2186774"
+            "title": "A rotina a chegar e nós a lamber as beiças",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/newsletter/relaxar"
         },
         {
-            "title": "Inquérito criminal ao acidente do Elevador da Glória só vai estar concluído em 2027",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/sociedade/noticia/inquerito-criminal-acidente-elevador-gloria-so-vai-estar-concluido-2027-2186812"
+            "title": "AIMA aumenta em 17% o número de funcionários e promete ser mais eficiente no que faz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/publico-brasil/noticia/aima-aumenta-17-numero-funcionarios-promete-eficiente-faz-2186861"
         },
         {
-            "title": "Crédit Agricole põe acções de 1000 milhões contra Salgado, Morais Pires e Rio Forte",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/economia/noticia/credit-agricole-poe-accoes-1000-milhoes-salgado-morais-pires-rio-forte-2186782"
+            "title": "Tomás Araújo renovou com o Benfica até 2031",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/desporto/noticia/tomas-araujo-renovou-benfica-ate-2031-2186863"
         },
         {
-            "title": "Lixo da pesca da lagosta nos EUA e no Canadá chega às praias do Faial e do Pico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/azul/noticia/lixo-pesca-lagosta-eua-canada-chega-praias-faial-pico-2186795"
+            "title": "O que é “farmar aura”? Porque é que está a dominar as redes sociais?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/video/farmar-aura-dominar-redes-sociais-20260902-150328"
         }
     ],
     "finance": [],
-    "last_update": "02/09/2026 15:33"
+    "last_update": "02/09/2026 19:03"
 }
