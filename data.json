@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 19.0,
-        "manha": 19.9,
-        "tarde": 29.2,
-        "noite": 24.9
+        "atual": 22.2,
+        "manha": 21.7,
+        "tarde": 35.1,
+        "noite": 28.8
     },
     "forecast": {
-        "max": 38.1,
-        "min": 19.8
+        "max": 30.8,
+        "min": 21.6
     },
     "news": [
         {
-            "title": "Especialistas alertam para riscos para a aviação do aquecimento do Mediterrâneo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/azul/noticia/especialistas-alertam-riscos-aviacao-aquecimento-mediterraneo-2186800"
+            "title": "Os despojos devidos a quem combate o crime",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/opiniao/opiniao/despojos-devidos-combate-crime-2186859"
         },
         {
-            "title": "Jogos da próxima jornada na Argentina param ao minuto 10 para homenagear Messi",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/desporto/noticia/jogos-proxima-jornada-argentina-param-minuto-10-homenagear-messi-2186876"
+            "title": "Diário de uma insónia enervada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/opiniao/opiniao/diario-insonia-enervada-2186866"
         },
         {
-            "title": "Echeverri é reforço do Benfica por empréstimo do Manchester City",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/desporto/noticia/echeverri-reforco-benfica-emprestimo-manchester-city-2186875"
+            "title": "É de madrugada que melhor soam vozes como a de Sinatra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/culturaipsilon/opiniao/madrugada-melhor-soam-vozes-sinatra-2183809"
         },
         {
-            "title": "A Rússia e a questão alemã",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/opiniao/opiniao/russia-questao-alema-2186847"
+            "title": "A Polícia Judiciária não pode ter medo do poder",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/opiniao/opiniao/policia-judiciaria-nao-medo-2186792"
         },
         {
-            "title": "Andrea Lima: “Repetia o dia em que beijei o meu marido pela primeira vez”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/02/impar/noticia/andrea-lima-repetia-dia-beijei-marido-primeira-2184223"
+            "title": "Igualdade não é identidade: o que o caso Arday revela sobre a universidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/opiniao/opiniao/igualdade-nao-identidade-caso-arday-revela-universidade-2186796"
         }
     ],
     "finance": [],
-    "last_update": "02/09/2026 22:06"
+    "last_update": "03/09/2026 00:49"
 }
