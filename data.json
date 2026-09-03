@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 22.2,
-        "manha": 22.1,
-        "tarde": 35.5,
-        "noite": 29.5
+        "atual": 25.9,
+        "manha": 23.2,
+        "tarde": 28.7,
+        "noite": 28.1
     },
     "forecast": {
-        "max": 30.2,
-        "min": 23.5
+        "max": 34.1,
+        "min": 22.9
     },
     "news": [
         {
-            "title": "Fotos de férias no telemóvel? Organize-as e guarde-as em segurança",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/enter/noticia/fotos-ferias-telemovel-organizeas-guardeas-seguranca-2186968"
+            "title": "Pensões: muito alarmismo, pouca substância",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/opiniao/opiniao/pensoes-alarmismo-substancia-2186977"
         },
         {
-            "title": "Governo a uma voz na defesa de Luís Neves com críticas em surdina a crescer no PSD",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/politica/noticia/governo-voz-defesa-luis-neves-criticas-surdina-crescer-psd-2186992"
+            "title": "Seguro e a desvalorização do acto presidencial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/opiniao/opiniao/seguro-desvalorizacao-acto-presidencial-2186987"
         },
         {
-            "title": "Sam Baron: “O que está errado na inteligência artificial é o nome, porque inteligente ela não é”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/impar/entrevista/sam-baron-errado-inteligencia-artificial-nome-inteligente-nao-2186496"
+            "title": "A armadilha da IA e as Humanidades",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/opiniao/opiniao/armadilha-ia-humanidades-2186851"
         },
         {
-            "title": "Casa-atelier de Lourdes Castro está à venda e isso causa preocupação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/culturaipsilon/noticia/casaatelier-lourdes-castro-venda-causa-preocupacao-2186991"
+            "title": "O Brasil à beira da rutura institucional",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/opiniao/opiniao/brasil-beira-rutura-institucional-2186905"
         },
         {
-            "title": "Polícia fecha protocolo com associações de imigrantes para “humanizar” aeroportos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/publico-brasil/noticia/policia-fecha-protocolo-associacoes-imigrantes-humanizar-aeroportos-2186990"
+            "title": "Cinco anos sem alunos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/opiniao/opiniao/cinco-anos-alunos-2186964"
         }
     ],
     "finance": [],
-    "last_update": "03/09/2026 21:29"
+    "last_update": "03/09/2026 23:39"
 }
