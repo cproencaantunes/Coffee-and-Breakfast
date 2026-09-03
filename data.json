@@ -2,35 +2,35 @@
     "weather": {
         "atual": 22.2,
         "manha": 22.1,
-        "tarde": 35.1,
-        "noite": 28.3
+        "tarde": 35.5,
+        "noite": 29.5
     },
     "forecast": {
-        "max": 32.3,
-        "min": 22.7
+        "max": 30.2,
+        "min": 23.5
     },
     "news": [
         {
-            "title": "Mais de 20 milhões de crianças foram alvo de abusos sexuais <em>online</em> em 2025",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/sociedade/noticia/20-milhoes-criancas-alvo-abusos-sexuais-online-2025-2186937"
+            "title": "Timor-Leste elimina tracoma, a principal causa infecciosa de cegueira no mundo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/ciencia/noticia/timorleste-elimina-tracoma-principal-causa-infecciosa-cegueira-mundo-2186981"
         },
         {
-            "title": "Volkswagen prepara-se para acabar com a marca Seat",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/economia/noticia/volkswagen-preparase-acabar-marca-seat-2186946"
+            "title": "PGR diz que inquérito à alegada intrusão no gabinete de Ventura tem carácter urgente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/politica/noticia/pgr-inquerito-alegada-intrusao-gabinete-ventura-caracter-urgente-2186980"
         },
         {
-            "title": "Braga devolve Museu da Imagem à cidade, mesmo a tempo da Noite Branca",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/local/noticia/braga-devolve-museu-imagem-cidade-tempo-noite-branca-2186947"
+            "title": "Meloni quebra recorde italiano: lidera o Governo mais longo desde a II Guerra Mundial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/mundo/noticia/meloni-quebra-recorde-italiano-lidera-governo-longo-desde-ii-guerra-mundial-2186904"
         },
         {
-            "title": "Exame de Português da época especial: veja aqui a prova e os critérios de classificação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/sociedade/noticia/exame-portugues-epoca-especial-veja-aqui-prova-criterios-classificacao-2186912"
+            "title": "Favoritismo de Carlos Alcaraz no Open dos EUA é agora uma certeza",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/desporto/noticia/favoritismo-carlos-alcaraz-open-eua-certeza-2186984"
         },
         {
-            "title": "O que fazer? Sexta é dia de festas na rua, pop, Fischer-Z e ecos da tempestade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/fugas/noticia/sexta-dia-festas-rua-pop-fischerz-ecos-tempestade-2186920"
+            "title": "Um dador de órgãos salvou-lhe a vida. Agora, ela vai casar com o irmão dele",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/impar/noticia/dador-orgaos-salvoulhe-vida-vai-casar-irmao-2186957"
         }
     ],
     "finance": [],
-    "last_update": "03/09/2026 14:47"
+    "last_update": "03/09/2026 18:12"
 }
