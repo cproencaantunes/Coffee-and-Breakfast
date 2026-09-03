@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 22.2,
-        "manha": 21.9,
-        "tarde": 35.3,
-        "noite": 28.8
+        "manha": 22.1,
+        "tarde": 35.2,
+        "noite": 28.6
     },
     "forecast": {
-        "max": 31.5,
-        "min": 21.8
+        "max": 32.3,
+        "min": 22.4
     },
     "news": [
         {
-            "title": "Assédio laboral e contratações na AR alvos de denúncia que acabou arquivada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/politica/noticia/assedio-laboral-contratacoes-ar-alvos-denuncia-acabou-arquivada-2186868"
+            "title": "Artes, Psicologia e Humanidades com desemprego 10 pontos percentuais acima das Engenharias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/sociedade/noticia/artes-psicologia-humanidades-desemprego-10-pontos-percentuais-acima-engenharias-2186890"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/opiniao/opiniao/cartas-director-2186838"
+            "title": "Mike El Nite está de volta com “um hino ao ócio” para confraternizar numa <i>Esplanada</i>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/video/mike-el-nite-volta-hino-ocio-confraternizar-esplanada-20260903-105514"
         },
         {
-            "title": "Os despojos devidos a quem combate o crime",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/opiniao/opiniao/despojos-devidos-combate-crime-2186859"
+            "title": "Ilker Çatak: e quando a sorte grande acabar?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/culturaipsilon/entrevista/ilker-catak-sorte-acabar-2186313"
         },
         {
-            "title": "Diário de uma insónia enervada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/opiniao/opiniao/diario-insonia-enervada-2186866"
+            "title": "Comandante da PSP de Lisboa defende “menos discursos alarmistas” sobre segurança",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/sociedade/noticia/comandante-psp-lisboa-defende-menos-discursos-alarmistas-seguranca-2186897"
         },
         {
-            "title": "É de madrugada que melhor soam vozes como a de Sinatra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/culturaipsilon/opiniao/madrugada-melhor-soam-vozes-sinatra-2183809"
+            "title": "Bélgica regista quase 3000 mortes em excesso devido ao calor extremo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/03/azul/noticia/belgica-regista-quase-3000-mortes-excesso-devido-calor-extremo-2186894"
         }
     ],
     "finance": [],
-    "last_update": "03/09/2026 05:18"
+    "last_update": "03/09/2026 10:19"
 }
