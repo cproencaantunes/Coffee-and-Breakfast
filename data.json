@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 26.3,
-        "manha": 24.0,
-        "tarde": 29.3,
-        "noite": 28.5
+        "manha": 23.7,
+        "tarde": 29.8,
+        "noite": 28.3
     },
     "forecast": {
-        "max": 34.6,
-        "min": 23.6
+        "max": 33.9,
+        "min": 23.1
     },
     "news": [
         {
-            "title": "<em>Malihinis</em> corporativos e a pressa por resultados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/publico-brasil/opiniao/malihinis-corporativos-pressa-resultados-2186996"
+            "title": "Enviados de Trump devem ir à Rússia e Ucrânia já no fim-de-semana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/mundo/noticia/enviados-trump-ir-russia-ucrania-ja-fimdesemana-2187030"
         },
         {
-            "title": "Pacto para a Saúde. Maioria das entidades já foi ouvida, Seguro fará primeiro balanço no final do ano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/politica/noticia/pacto-saude-maioria-entidades-ja-ouvida-seguro-fara-balanco-final-ano-2186676"
+            "title": "BPI sai de Angola, dez anos depois da pressão do BCE",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/economia/noticia/bpi-sai-angola-dez-anos-pressao-bce-2187029"
         },
         {
-            "title": "O Portugal doente de Gustavo Santos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/ciencia/ensaio/portugal-doente-gustavo-santos-2186768"
+            "title": "O relato perdido de Hiroxima",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/culturaipsilon/noticia/relato-perdido-hiroxima-2186712"
         },
         {
-            "title": "Lisboa à espera do silêncio: só duas semanas de 2026 cumpriram limite de voos nocturnos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/azul/noticia/lisboa-espera-silencio-so-duas-semanas-2026-cumpriram-limite-voos-nocturnos-2186966"
+            "title": "Preços dos combustíveis: ministra admite reforço dos poderes sancionatórios da ERSE",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/economia/noticia/precos-combustiveis-ministra-admite-reforco-poderes-sancionatorios-erse-2187031"
         },
         {
-            "title": "Em oito anos, 79 viaturas e 29 barcos apreendidos foram atribuídos a uso público",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/sociedade/noticia/oito-anos-79-viaturas-29-barcos-apreendidos-atribuidos-uso-publico-2186993"
+            "title": "Bancos dos EUA não podem funcionar no Canadá, como diz Trump? Falso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/mundo/noticia/bancos-eua-nao-podem-funcionar-canada-trump-falso-2187026"
         }
     ],
     "finance": [],
-    "last_update": "04/09/2026 06:42"
+    "last_update": "04/09/2026 11:51"
 }
