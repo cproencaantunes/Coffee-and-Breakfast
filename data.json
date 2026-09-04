@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 26.3,
-        "manha": 23.4,
-        "tarde": 29.2,
-        "noite": 28.7
+        "manha": 24.0,
+        "tarde": 29.3,
+        "noite": 28.5
     },
     "forecast": {
-        "max": 34.1,
-        "min": 22.9
+        "max": 34.6,
+        "min": 23.6
     },
     "news": [
         {
-            "title": "Pensões: muito alarmismo, pouca substância",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/opiniao/opiniao/pensoes-alarmismo-substancia-2186977"
+            "title": "<em>Malihinis</em> corporativos e a pressa por resultados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/publico-brasil/opiniao/malihinis-corporativos-pressa-resultados-2186996"
         },
         {
-            "title": "Seguro e a desvalorização do acto presidencial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/opiniao/opiniao/seguro-desvalorizacao-acto-presidencial-2186987"
+            "title": "Pacto para a Saúde. Maioria das entidades já foi ouvida, Seguro fará primeiro balanço no final do ano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/politica/noticia/pacto-saude-maioria-entidades-ja-ouvida-seguro-fara-balanco-final-ano-2186676"
         },
         {
-            "title": "A armadilha da IA e as Humanidades",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/opiniao/opiniao/armadilha-ia-humanidades-2186851"
+            "title": "O Portugal doente de Gustavo Santos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/ciencia/ensaio/portugal-doente-gustavo-santos-2186768"
         },
         {
-            "title": "O Brasil à beira da rutura institucional",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/opiniao/opiniao/brasil-beira-rutura-institucional-2186905"
+            "title": "Lisboa à espera do silêncio: só duas semanas de 2026 cumpriram limite de voos nocturnos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/azul/noticia/lisboa-espera-silencio-so-duas-semanas-2026-cumpriram-limite-voos-nocturnos-2186966"
         },
         {
-            "title": "Cinco anos sem alunos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/opiniao/opiniao/cinco-anos-alunos-2186964"
+            "title": "Em oito anos, 79 viaturas e 29 barcos apreendidos foram atribuídos a uso público",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/sociedade/noticia/oito-anos-79-viaturas-29-barcos-apreendidos-atribuidos-uso-publico-2186993"
         }
     ],
     "finance": [],
-    "last_update": "04/09/2026 01:52"
+    "last_update": "04/09/2026 06:42"
 }
