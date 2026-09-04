@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 26.3,
-        "manha": 23.7,
-        "tarde": 28.5,
-        "noite": 27.3
+        "atual": 24.5,
+        "manha": 24.5,
+        "tarde": 33.8,
+        "noite": 27.9
     },
     "forecast": {
-        "max": 34.0,
+        "max": 30.8,
         "min": 22.2
     },
     "news": [
         {
-            "title": "Lamiré, um ponto de encontro à beira-rio em Marvila",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/fugas/noticia/lamire-ponto-encontro-beirario-marvila-2187105"
+            "title": "Os sete quiosques Lisboa, do Camões ao Príncipe Real, da Sé a Campolide",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/fugas/noticia/sete-quiosques-lisboa-camoes-principe-real-campolide-2187107"
         },
         {
-            "title": "Rita Nascimento: “Casas de banho separadas” é o segredo para uma relação amorosa feliz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/impar/noticia/rita-nascimento-casas-banho-separadas-segredo-relacao-amorosa-feliz-2182134"
+            "title": "Confiança é o maior valor do sistema público de pensões",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/opiniao/opiniao/confianca-maior-valor-sistema-publico-pensoes-2186569"
         },
         {
-            "title": "O rapaz antes do homem",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/p3/noticia/rapaz-homem-2186948"
+            "title": "A litoralização do ensino superior prejudica o país",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/opiniao/opiniao/litoralizacao-ensino-superior-prejudica-pais-2186571"
         },
         {
-            "title": "Os ventos trocaram a temperatura da água do mar entre Norte e Sul neste Verão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/azul/noticia/ventos-trocaram-temperatura-agua-mar-norte-sul-neste-verao-2187075"
+            "title": "E a declaração de responsabilidade?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/opiniao/opiniao/declaracao-responsabilidade-2187050"
         },
         {
-            "title": "Quinta-feira foi o quarto dia mais quente de Setembro em 85 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/azul/noticia/quintafeira-quarto-dia-quente-setembro-85-anos-2187104"
+            "title": "A censura de Ventura",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/opiniao/opiniao/censura-ventura-2187101"
         }
     ],
     "finance": [],
-    "last_update": "04/09/2026 21:08"
+    "last_update": "04/09/2026 23:32"
 }
