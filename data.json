@@ -2,35 +2,35 @@
     "weather": {
         "atual": 26.3,
         "manha": 23.7,
-        "tarde": 29.8,
+        "tarde": 29.4,
         "noite": 28.3
     },
     "forecast": {
-        "max": 33.9,
-        "min": 23.1
+        "max": 34.0,
+        "min": 22.8
     },
     "news": [
         {
-            "title": "Enviados de Trump devem ir à Rússia e Ucrânia já no fim-de-semana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/mundo/noticia/enviados-trump-ir-russia-ucrania-ja-fimdesemana-2187030"
+            "title": "Uma vindima de velório e a maldição do carvalho grande de Joseph Wayne",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/fugas/cronica/vindima-velorio-maldicao-carvalho-joseph-wayne-2186688"
         },
         {
-            "title": "BPI sai de Angola, dez anos depois da pressão do BCE",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/economia/noticia/bpi-sai-angola-dez-anos-pressao-bce-2187029"
+            "title": "Moção de censura “é uma coreografia”, mas Governo continua sem parceiro preferencial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/politica/noticia/mocao-censura-coreografia-governo-continua-parceiro-preferencial-2187051"
         },
         {
-            "title": "O relato perdido de Hiroxima",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/culturaipsilon/noticia/relato-perdido-hiroxima-2186712"
+            "title": "Rua das Pretas faz show gratuito para imigrantes africanos lusófonos e brasileiros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/publico-brasil/noticia/rua-pretas-faz-show-gratuito-imigrantes-africanos-lusofonos-brasileiros-2187058"
         },
         {
-            "title": "Preços dos combustíveis: ministra admite reforço dos poderes sancionatórios da ERSE",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/economia/noticia/precos-combustiveis-ministra-admite-reforco-poderes-sancionatorios-erse-2187031"
+            "title": "O que se passa no caso de Lindsay Clancy e qual pode ser o desfecho?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/video/passa-caso-lindsay-clancy-desfecho-20260904-155057"
         },
         {
-            "title": "Bancos dos EUA não podem funcionar no Canadá, como diz Trump? Falso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/mundo/noticia/bancos-eua-nao-podem-funcionar-canada-trump-falso-2187026"
+            "title": "Ex-autarca de Gaia Eduardo Vítor Rodrigues absolvido de prevaricação e peculato",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/04/local/noticia/exautarca-gaia-eduardo-vitor-rodrigues-absolvido-prevaricacao-peculato-2187066"
         }
     ],
     "finance": [],
-    "last_update": "04/09/2026 11:51"
+    "last_update": "04/09/2026 15:22"
 }
