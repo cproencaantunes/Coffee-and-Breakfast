@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 24.9,
-        "manha": 24.3,
-        "tarde": 34.1,
-        "noite": 27.9
+        "manha": 24.7,
+        "tarde": 33.4,
+        "noite": 27.7
     },
     "forecast": {
         "max": 30.8,
-        "min": 22.2
+        "min": 21.8
     },
     "news": [
         {
-            "title": "Os sete quiosques Lisboa, do Camões ao Príncipe Real, da Sé a Campolide",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/fugas/noticia/sete-quiosques-lisboa-camoes-principe-real-campolide-2187107"
+            "title": "A tarefa mais importante do ano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/publico-brasil/opiniao/tarefa-importante-ano-2187089"
         },
         {
-            "title": "Confiança é o maior valor do sistema público de pensões",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/opiniao/opiniao/confianca-maior-valor-sistema-publico-pensoes-2186569"
+            "title": "Apátridas: AIMA só tem 17 registos de pessoas sem nacionalidade atribuída",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/politica/noticia/apatridas-aima-so-17-registos-pessoas-nacionalidade-atribuida-2187096"
         },
         {
-            "title": "A litoralização do ensino superior prejudica o país",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/opiniao/opiniao/litoralizacao-ensino-superior-prejudica-pais-2186571"
+            "title": "Com o Brasil em alta, a portuguesa Vista Alegre aposta, agora, em Oscar Niemeyer",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/publico-brasil/noticia/brasil-alta-portuguesa-vista-alegre-aposta-oscar-niemeyer-2186909"
         },
         {
-            "title": "E a declaração de responsabilidade?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/opiniao/opiniao/declaracao-responsabilidade-2187050"
+            "title": "Num quiosque da Avenida da Liberdade, o JNcQUOI mais perto de quem passa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/fugas/noticia/quiosque-avenida-liberdade-jncquoi-perto-passa-2187110"
         },
         {
-            "title": "A censura de Ventura",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/opiniao/opiniao/censura-ventura-2187101"
+            "title": "Alemanha: percentagens altas da AfD trazem “o Leste” de novo para a ribalta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/mundo/noticia/alemanha-percentagens-altas-afd-trazem-leste-novo-ribalta-2187056"
         }
     ],
     "finance": [],
-    "last_update": "05/09/2026 01:53"
+    "last_update": "05/09/2026 06:28"
 }
