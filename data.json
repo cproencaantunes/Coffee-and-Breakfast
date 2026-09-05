@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 24.9,
-        "manha": 24.6,
-        "tarde": 33.0,
-        "noite": 27.5
+        "atual": 0,
+        "manha": 0,
+        "tarde": 0,
+        "noite": 0
     },
     "forecast": {
-        "max": 30.4,
-        "min": 21.9
+        "max": 0,
+        "min": 0
     },
     "news": [
         {
-            "title": "<em>Pequenas Desgraças sem Importância</em>, de Miriam Toews: uma maneira de rir",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/culturaipsilon/critica/desgracas-importancia-miriam-toews-maneira-rir-2186723"
+            "title": "A biodiversidade na carteira de toda a gente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/azul/opiniao/biodiversidade-carteira-gente-2186971"
         },
         {
-            "title": "Estou me guardando para quando o carnaval chegar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/publico-brasil/cronica/guardando-carnaval-chegar-2187131"
+            "title": "PCP já decidiu como votar moção de censura, mas Raimundo recusa “condicionar”<em> Avante!</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/politica/noticia/pcp-ja-decidiu-votar-mocao-censura-raimundo-recusa-condicionar-avante-2187155"
         },
         {
-            "title": "Cebola Mol cancelam participação no Commedia a La Carte Fest em Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/culturaipsilon/noticia/cebola-mol-cancelam-participacao-commedia-carte-fest-lisboa-2187138"
+            "title": "Humorista Deniz Goktas está preso há dois meses na Turquia: Que piadas são proibidas para Erdogan?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/mundo/noticia/humorista-deniz-goktas-preso-ha-dois-meses-turquia-piadas-sao-proibidas-erdogan-2186945"
         },
         {
-            "title": "Com Witkoff e Kushner já em Moscovo, Rússia anuncia pausa de 72 horas nos ataques a Kiev",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/mundo/noticia/witkoff-kushner-ja-moscovo-russia-anuncia-pausa-72-horas-ataques-kiev-2187136"
+            "title": "Marco Brenner vence 14.ª etapa e Enric Mas reforça liderança na Vuelta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/desporto/noticia/marco-brenner-vence-14-etapa-enric-reforca-lideranca-vuelta-2187146"
         },
         {
-            "title": "Pentágono faz 50 testes de polígrafo a militares numa caça às fugas de informação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/mundo/noticia/pentagono-faz-50-testes-poligrafo-militares-caca-fugas-informacao-2187127"
+            "title": "Governo diz que subida de<em> rating</em> é “mais um passo na credibilidade e confiança” no país",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/politica/noticia/governo-subida-rating-passo-credibilidade-confianca-pais-2187156"
         }
     ],
     "finance": [],
-    "last_update": "05/09/2026 14:10"
+    "last_update": "05/09/2026 17:00"
 }
