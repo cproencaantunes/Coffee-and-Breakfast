@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 24.9,
-        "manha": 24.7,
-        "tarde": 33.4,
-        "noite": 27.7
+        "manha": 24.6,
+        "tarde": 33.6,
+        "noite": 27.8
     },
     "forecast": {
-        "max": 30.8,
-        "min": 21.8
+        "max": 30.4,
+        "min": 21.9
     },
     "news": [
         {
-            "title": "A tarefa mais importante do ano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/publico-brasil/opiniao/tarefa-importante-ano-2187089"
+            "title": "Os amigos do Ernesto do Porto deixaram-lhe a parede em construção…",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/fugas/noticia/amigos-ernesto-porto-deixaramlhe-parede-construcao-2185073"
         },
         {
-            "title": "Apátridas: AIMA só tem 17 registos de pessoas sem nacionalidade atribuída",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/politica/noticia/apatridas-aima-so-17-registos-pessoas-nacionalidade-atribuida-2187096"
+            "title": "Japão: Outono em Kanazawa sem guarda-chuva",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/fugas/reportagem/japao-outono-kanazawa-guardachuva-2186150"
         },
         {
-            "title": "Com o Brasil em alta, a portuguesa Vista Alegre aposta, agora, em Oscar Niemeyer",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/publico-brasil/noticia/brasil-alta-portuguesa-vista-alegre-aposta-oscar-niemeyer-2186909"
+            "title": "Léopold Sédar Senghor: uma história de zebras, tigres e uma gota de sangue português",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/mundo/noticia/leopold-sedar-senghor-historia-zebras-tigres-gota-sangue-portugues-2186100"
         },
         {
-            "title": "Num quiosque da Avenida da Liberdade, o JNcQUOI mais perto de quem passa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/fugas/noticia/quiosque-avenida-liberdade-jncquoi-perto-passa-2187110"
+            "title": "Um morto e 2000 deslocados em ataque a acampamento do treinador Carlos Queiroz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/mundo/noticia/morto-2000-deslocados-ataque-acampamento-treinador-carlos-queiroz-2187126"
         },
         {
-            "title": "Alemanha: percentagens altas da AfD trazem “o Leste” de novo para a ribalta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/mundo/noticia/alemanha-percentagens-altas-afd-trazem-leste-novo-ribalta-2187056"
+            "title": "Arranca a Champions",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/newsletter/aquecimento"
         }
     ],
     "finance": [],
-    "last_update": "05/09/2026 06:28"
+    "last_update": "05/09/2026 11:00"
 }
