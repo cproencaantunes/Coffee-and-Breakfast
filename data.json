@@ -3,13 +3,21 @@
         "atual": 24.9,
         "manha": 24.6,
         "tarde": 33.2,
-        "noite": 26.7
+        "noite": 26.6
     },
     "forecast": {
-        "max": 30.0,
-        "min": 21.5
+        "max": 30.3,
+        "min": 21.3
     },
     "news": [
+        {
+            "title": "Luis Suárez voltou a sorrir no triunfo pacífico do Sporting",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/desporto/cronica_de_jogo/sporting-derrota-nacional-suarez-decidir-2187165"
+        },
+        {
+            "title": "<em>Pant</em>: como a Noruega criou um hábito de milhões que Portugal tenta copiar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/azul/reportagem/pant-noruega-criou-habito-milhoes-portugal-tenta-copiar-2186775"
+        },
         {
             "title": "Cabos submarinos: a nova guerra debaixo de água",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/opiniao/editorial/cabos-submarinos-nova-guerra-debaixo-agua-2187145"
@@ -21,16 +29,8 @@
         {
             "title": "Pela esquerda ou pela comunidade: na Festa do Avante! “quase se respira melhor”",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/politica/reportagem/esquerda-comunidade-festa-avante-quase-respira-melhor-2187157"
-        },
-        {
-            "title": "Nanni Moretti e a sua elegante sofreguidão, ao fim destes anos, para fazer diferente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/culturaipsilon/noticia/nanni-moretti-elegante-sofreguidao-fim-anos-diferente-2187124"
-        },
-        {
-            "title": "Hugo Soares: moção do Chega é deslocada e serve para Ventura aparecer nas televisões",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/politica/noticia/hugo-soares-mocao-chega-deslocada-serve-ventura-aparecer-televisoes-2187164"
         }
     ],
     "finance": [],
-    "last_update": "05/09/2026 20:48"
+    "last_update": "05/09/2026 22:27"
 }
