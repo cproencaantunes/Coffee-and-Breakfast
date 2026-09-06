@@ -2,8 +2,8 @@
     "weather": {
         "atual": 24.6,
         "manha": 22.5,
-        "tarde": 30.2,
-        "noite": 24.1
+        "tarde": 30.1,
+        "noite": 24.0
     },
     "forecast": {
         "max": 30.0,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "\"Quando me derem a nacionalidade faço uma festa\". Pedro nasceu em Portugal e aguarda estatuto de apátrida",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/video/nao-reconhecido-pais-onde-nasceu-pais-origem-pais-novo-estatuto-apatrida-esperanca-pedro-20260904-172809"
+            "title": "No Montimerso, desligar naturalmente sob as estrelas à beira-Alqueva",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/fugas/noticia/montimerso-desligar-naturalmente-estrelas-beiraalqueva-2186382"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/opiniao/opiniao/cartas-director-2187148"
+            "title": "Um som “agressivo gostoso”, uma Maquina. imparável",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/culturaipsilon/noticia/som-agressivo-gostoso-maquina-imparavel-2186502"
         },
         {
-            "title": "Leipzig e a vulnerabilidade europeia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/mundo/analise/leipzig-vulnerabilidade-europeia-2187141"
+            "title": "Aeroporto internacional de Jacarta suspende operações devido a erupção vulcânica",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/mundo/noticia/aeroporto-internacional-jacarta-suspende-operacoes-devido-erupcao-vulcanica-2187177"
         },
         {
-            "title": "A propósito do financiamento público do jornalismo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/opiniao/opiniao/proposito-financiamento-publico-jornalismo-2187043"
+            "title": "Cabo Verde: pelo menos 25 mortos em acidente de autocarro com alunos na ilha do Fogo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/mundo/noticia/cabo-verde-menos-22-mortos-acidente-autocarro-alunos-ilha-fogo-2187175"
         },
         {
-            "title": "A Europa precisa de verdade e reconciliação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/opiniao/opiniao/europa-precisa-verdade-reconciliacao-2186806"
+            "title": "Israel volta a atacar Sul do Líbano após abater <em>drones</em> que diz serem do Hezbollah",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/mundo/noticia/israel-volta-atacar-sul-libano-apos-abater-drones-serem-hezbollah-2187173"
         }
     ],
     "finance": [],
-    "last_update": "06/09/2026 05:16"
+    "last_update": "06/09/2026 09:52"
 }
