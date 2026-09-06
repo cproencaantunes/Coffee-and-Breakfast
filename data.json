@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 24.9,
-        "manha": 24.6,
-        "tarde": 33.2,
-        "noite": 26.6
+        "atual": 24.6,
+        "manha": 22.2,
+        "tarde": 30.1,
+        "noite": 24.0
     },
     "forecast": {
-        "max": 30.3,
-        "min": 21.3
+        "max": 29.8,
+        "min": 20.0
     },
     "news": [
         {
-            "title": "Luis Suárez voltou a sorrir no triunfo pacífico do Sporting",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/desporto/cronica_de_jogo/sporting-derrota-nacional-suarez-decidir-2187165"
+            "title": "Leipzig e a vulnerabilidade europeia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/mundo/analise/leipzig-vulnerabilidade-europeia-2187141"
         },
         {
-            "title": "<em>Pant</em>: como a Noruega criou um hábito de milhões que Portugal tenta copiar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/azul/reportagem/pant-noruega-criou-habito-milhoes-portugal-tenta-copiar-2186775"
+            "title": "A propósito do financiamento público do jornalismo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/opiniao/opiniao/proposito-financiamento-publico-jornalismo-2187043"
         },
         {
-            "title": "Cabos submarinos: a nova guerra debaixo de água",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/opiniao/editorial/cabos-submarinos-nova-guerra-debaixo-agua-2187145"
+            "title": "A Europa precisa de verdade e reconciliação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/opiniao/opiniao/europa-precisa-verdade-reconciliacao-2186806"
         },
         {
-            "title": "Dormir bem é a vingança dos pobres",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/p3/cronica/dormir-bem-vinganca-pobres-2186949"
+            "title": "Identidade de género não é um problema médico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/opiniao/opiniao/identidade-genero-nao-problema-medico-2187129"
         },
         {
-            "title": "Pela esquerda ou pela comunidade: na Festa do Avante! “quase se respira melhor”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/05/politica/reportagem/esquerda-comunidade-festa-avante-quase-respira-melhor-2187157"
+            "title": "A fancaria Garrett",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/opiniao/opiniao/fancaria-garrett-2187134"
         }
     ],
     "finance": [],
-    "last_update": "05/09/2026 22:27"
+    "last_update": "06/09/2026 00:21"
 }
