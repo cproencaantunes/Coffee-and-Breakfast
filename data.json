@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 24.6,
-        "manha": 22.5,
-        "tarde": 30.1,
-        "noite": 24.0
+        "manha": 22.4,
+        "tarde": 30.6,
+        "noite": 23.8
     },
     "forecast": {
-        "max": 30.0,
-        "min": 20.4
+        "max": 30.2,
+        "min": 20.1
     },
     "news": [
         {
-            "title": "No Montimerso, desligar naturalmente sob as estrelas à beira-Alqueva",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/fugas/noticia/montimerso-desligar-naturalmente-estrelas-beiraalqueva-2186382"
+            "title": "Jovem de 24 anos detido por suspeita de matar a avó em Mafra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/sociedade/noticia/jovem-24-anos-detido-suspeita-matar-avo-mafra-2187186"
         },
         {
-            "title": "Um som “agressivo gostoso”, uma Maquina. imparável",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/culturaipsilon/noticia/som-agressivo-gostoso-maquina-imparavel-2186502"
+            "title": "A dignidade precisa ser assegurada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/publico-brasil/opiniao/dignidade-precisa-assegurada-2187185"
         },
         {
-            "title": "Aeroporto internacional de Jacarta suspende operações devido a erupção vulcânica",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/mundo/noticia/aeroporto-internacional-jacarta-suspende-operacoes-devido-erupcao-vulcanica-2187177"
+            "title": "Sabores e ritmos regionais marcam a celebração da independência do Brasil no Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/publico-brasil/noticia/sabores-ritmos-regionais-marcam-celebracao-independencia-brasil-porto-2187174"
         },
         {
-            "title": "Cabo Verde: pelo menos 25 mortos em acidente de autocarro com alunos na ilha do Fogo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/mundo/noticia/cabo-verde-menos-22-mortos-acidente-autocarro-alunos-ilha-fogo-2187175"
+            "title": "Joké Bakare traz a comida das tribos da África Ocidental a Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/fugas/noticia/joke-bakare-traz-comida-tribos-africa-ocidental-lisboa-2186545"
         },
         {
-            "title": "Israel volta a atacar Sul do Líbano após abater <em>drones</em> que diz serem do Hezbollah",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/mundo/noticia/israel-volta-atacar-sul-libano-apos-abater-drones-serem-hezbollah-2187173"
+            "title": "Granizo e vento forte deixam rasto de destruição em Albergaria e Oliveira de Azeméis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/sociedade/noticia/granizo-vento-forte-deixam-rasto-destruicao-albergaria-oliveira-azemeis-2187178"
         }
     ],
     "finance": [],
-    "last_update": "06/09/2026 09:52"
+    "last_update": "06/09/2026 13:16"
 }
