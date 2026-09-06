@@ -1,15 +1,23 @@
 {
     "weather": {
         "atual": 24.6,
-        "manha": 22.2,
-        "tarde": 30.1,
-        "noite": 24.0
+        "manha": 22.5,
+        "tarde": 30.2,
+        "noite": 24.1
     },
     "forecast": {
-        "max": 29.8,
-        "min": 20.0
+        "max": 30.0,
+        "min": 20.4
     },
     "news": [
+        {
+            "title": "\"Quando me derem a nacionalidade faço uma festa\". Pedro nasceu em Portugal e aguarda estatuto de apátrida",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/video/nao-reconhecido-pais-onde-nasceu-pais-origem-pais-novo-estatuto-apatrida-esperanca-pedro-20260904-172809"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/opiniao/opiniao/cartas-director-2187148"
+        },
         {
             "title": "Leipzig e a vulnerabilidade europeia",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/mundo/analise/leipzig-vulnerabilidade-europeia-2187141"
@@ -21,16 +29,8 @@
         {
             "title": "A Europa precisa de verdade e reconciliação",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/opiniao/opiniao/europa-precisa-verdade-reconciliacao-2186806"
-        },
-        {
-            "title": "Identidade de género não é um problema médico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/opiniao/opiniao/identidade-genero-nao-problema-medico-2187129"
-        },
-        {
-            "title": "A fancaria Garrett",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/06/opiniao/opiniao/fancaria-garrett-2187134"
         }
     ],
     "finance": [],
-    "last_update": "06/09/2026 00:21"
+    "last_update": "06/09/2026 05:16"
 }
