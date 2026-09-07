@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 22.3,
-        "manha": 21.8,
-        "tarde": 30.4,
-        "noite": 22.5
+        "atual": 20.7,
+        "manha": 20.5,
+        "tarde": 26.8,
+        "noite": 21.8
     },
     "forecast": {
-        "max": 26.8,
-        "min": 19.1
+        "max": 24.8,
+        "min": 18.4
     },
     "news": [
         {
-            "title": "Primeiro campeão português a <em>farmar</em> aura",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/07/p3/cronica/campeao-portugues-farmar-aura-2187298"
+            "title": "Coreia do Norte e Rússia inauguram primeira ponte rodoviária transfronteiriça",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/mundo/noticia/coreia-norte-russia-inauguram-primeira-ponte-rodoviaria-transfronteirica-2187328"
         },
         {
-            "title": "Seat, é mesmo um adeus?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/07/fugas/cronica/seat-adeus-2187218"
+            "title": "A interoperabilidade que falta: quando o Estado (ou outro ente público) esquece o que já sabe",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/opiniao/opiniao/interoperabilidade-falta-estado-ente-publico-esquece-ja-sabe-2186814"
         },
         {
-            "title": "Paulo Raimundo: “Para crescerem outros, mais vale crescer o Livre”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/07/politica/entrevista/paulo-raimundo-crescerem-vale-crescer-livre-2187047"
+            "title": "Ninguém se sente mais em casa no US Open do que Frances Tiafoe",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/07/desporto/noticia/ninguem-sente-casa-us-open-frances-tiafoe-2187329"
         },
         {
-            "title": "Vale de Judeus. Dois anos depois da fuga, torres vão começar a ser construídas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/07/sociedade/noticia/vale-judeus-dois-anos-fuga-torres-vao-comecar-construidas-2187317"
+            "title": "“Viva a amizade entre Brasil e Portugal”, diz embaixador no 7 de Setembro em Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/07/publico-brasil/noticia/viva-amizade-brasil-portugal-embaixador-7-setembro-lisboa-2187327"
         },
         {
-            "title": "Censura abre tensão mas não belisca diálogo entre Governo e Chega",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/07/politica/noticia/censura-abre-tensao-nao-belisca-dialogo-governo-chega-2187265"
+            "title": "Sofia Correia de Barros sucede a Ana Rita Bessa na presidência executiva da Leya",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/07/culturaipsilon/noticia/sofia-correia-barros-sucede-ana-rita-bessa-presidencia-executiva-leya-2187296"
         }
     ],
     "finance": [],
-    "last_update": "07/09/2026 20:15"
+    "last_update": "07/09/2026 23:08"
 }
