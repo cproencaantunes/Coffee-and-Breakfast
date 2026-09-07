@@ -2,35 +2,35 @@
     "weather": {
         "atual": 22.3,
         "manha": 22.0,
-        "tarde": 30.8,
-        "noite": 23.2
+        "tarde": 30.7,
+        "noite": 23.1
     },
     "forecast": {
-        "max": 26.8,
-        "min": 19.0
+        "max": 26.7,
+        "min": 19.3
     },
     "news": [
         {
+            "title": "Lajes: 75 anos depois, o que ficou do sonho americano?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/07/sociedade/noticia/lajes-75-anos-ficou-sonho-americano-2187188"
+        },
+        {
+            "title": "Jovem, o que te levaria a ser professor?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/07/opiniao/editorial/jovem-levaria-professor-2187114"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/07/opiniao/opiniao/cartas-director-2187207"
+        },
+        {
+            "title": "Cinco escolas portuguesas no ranking de mestrados em gestão do FT. Nova SBE sobe ao 2.º lugar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/07/economia/noticia/cinco-escolas-portuguesas-ranking-mestrados-gestao-ft-nova-sbe-sobe-2-lugar-2187197"
+        },
+        {
             "title": "Mentes artificiais ou artefactos matemáticos?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/09/07/opiniao/opiniao/mentes-artificiais-artefactos-matematicos-2187168"
-        },
-        {
-            "title": "Legislar sem bússola",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/07/opiniao/opiniao/legislar-bussola-2186799"
-        },
-        {
-            "title": "Angola em desassossego",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/07/opiniao/opiniao/angola-desassossego-2186211"
-        },
-        {
-            "title": "(In)sustentabilidade da Segurança Social: cinco razões para duvidar de um estudo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/07/opiniao/opiniao/insustentabilidade-seguranca-social-cinco-razoes-duvidar-estudo-2187048"
-        },
-        {
-            "title": "Porque será que o “elevador social” não funciona?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/07/opiniao/opiniao/sera-elevador-social-nao-funciona-2187182"
         }
     ],
     "finance": [],
-    "last_update": "07/09/2026 00:28"
+    "last_update": "07/09/2026 05:25"
 }
