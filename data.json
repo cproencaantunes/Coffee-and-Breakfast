@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.8,
         "manha": 20.5,
-        "tarde": 27.0,
-        "noite": 21.9
+        "tarde": 27.6,
+        "noite": 21.7
     },
     "forecast": {
-        "max": 25.4,
-        "min": 19.3
+        "max": 25.6,
+        "min": 19.4
     },
     "news": [
         {
-            "title": "Professores pedem melhores condições para ensinar e aprender após resultados do PISA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/sociedade/noticia/professores-pedem-melhores-condicoes-ensinar-aprender-apos-resultados-pisa-2187396"
+            "title": "Granizo e tempestade em Albergaria-a-Velha produzido por <em>downburst</em>, diz IPMA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/azul/noticia/granizo-tempestade-albergariaavelha-produzido-downburst-ipma-2187424"
         },
         {
-            "title": "Reino Unido acusa “terroristas” israelitas de limpeza étnica na Cisjordânia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/mundo/noticia/reino-unido-acusa-terroristas-israelitas-limpeza-etnica-cisjordania-2187399"
+            "title": "Luís Neves faz “mea culpa”, mas mantém confiança em si próprio para continuar no cargo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/politica/noticia/luis-neves-faz-mea-culpa-mantem-confianca-proprio-continuar-cargo-2187401"
         },
         {
-            "title": "O que se passa com Jerry Seinfeld e o festival dos Commedia a La Carte?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/culturaipsilon/noticia/passa-jerry-seinfeld-festival-commedia-carte-2187385"
+            "title": "Ministro da Educação admite regresso dos exames a contar para a nota no 4.º e 6.º anos: “É uma possibilidade, temos de analisar”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/sociedade/noticia/ministro-educacao-admite-regresso-exames-contar-nota-4-6-anos-possibilidade-analisar-2187400"
         },
         {
-            "title": "Exame de Física e Química A da época especial: veja aqui a prova e os critérios de classificação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/sociedade/noticia/exame-fisica-quimica-epoca-especial-veja-aqui-prova-criterios-classificacao-2187392"
+            "title": "Festival Todos: é desta que os políticos se juntam à marcha dos imigrantes?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/culturaipsilon/noticia/festival-politicos-juntam-marcha-imigrantes-2186780"
         },
         {
-            "title": "Ataque russo a Kiev põe fim à trégua de 72 horas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/video/ataque-russo-kiev-poe-fim-tregua-72-horas-20260908-151252"
+            "title": "“Absolutamente assustador”: mortes nas estradas do Porto preocupam PS",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/local/noticia/absolutamente-assustador-mortes-estradas-porto-preocupam-ps-2187427"
         }
     ],
     "finance": [],
-    "last_update": "08/09/2026 15:36"
+    "last_update": "08/09/2026 19:06"
 }
