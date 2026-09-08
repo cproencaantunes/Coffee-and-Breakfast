@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.8,
         "manha": 20.5,
-        "tarde": 27.3,
-        "noite": 22.0
+        "tarde": 27.0,
+        "noite": 21.9
     },
     "forecast": {
-        "max": 24.9,
-        "min": 18.7
+        "max": 25.4,
+        "min": 19.3
     },
     "news": [
         {
-            "title": "Algo irá mudar na Europa depois deste Verão escaldante?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/azul/noticia/algo-ira-mudar-europa-verao-escaldante-2187252"
+            "title": "Professores pedem melhores condições para ensinar e aprender após resultados do PISA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/sociedade/noticia/professores-pedem-melhores-condicoes-ensinar-aprender-apos-resultados-pisa-2187396"
         },
         {
-            "title": "Mulheres fumadoras com risco de infertilidade 40% maior do que as que não fumam",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/sociedade/noticia/mulheres-fumadoras-risco-infertilidade-40-maior-nao-fumam-2187362"
+            "title": "Reino Unido acusa “terroristas” israelitas de limpeza étnica na Cisjordânia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/mundo/noticia/reino-unido-acusa-terroristas-israelitas-limpeza-etnica-cisjordania-2187399"
         },
         {
-            "title": "Outros dados do PISA: alunos estão menos curiosos, desistem mais e sentem menos apoio das famílias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/sociedade/noticia/dados-pisa-alunos-estao-menos-curiosos-desistem-sentem-menos-apoio-familias-2187258"
+            "title": "O que se passa com Jerry Seinfeld e o festival dos Commedia a La Carte?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/culturaipsilon/noticia/passa-jerry-seinfeld-festival-commedia-carte-2187385"
         },
         {
-            "title": "Mais de 1700 grávidas ou pessoas em licença parental sem renovação do contrato em 2025",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/sociedade/noticia/1700-gravidas-pessoas-licenca-parental-renovacao-contrato-2025-2187350"
+            "title": "Exame de Física e Química A da época especial: veja aqui a prova e os critérios de classificação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/sociedade/noticia/exame-fisica-quimica-epoca-especial-veja-aqui-prova-criterios-classificacao-2187392"
         },
         {
-            "title": "Kiev volta a ser atacada após trégua temporária para visita de enviados da Casa Branca",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/mundo/noticia/kiev-volta-atacada-apos-tregua-temporaria-visita-enviados-casa-branca-2187356"
+            "title": "Ataque russo a Kiev põe fim à trégua de 72 horas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/video/ataque-russo-kiev-poe-fim-tregua-72-horas-20260908-151252"
         }
     ],
     "finance": [],
-    "last_update": "08/09/2026 11:52"
+    "last_update": "08/09/2026 15:36"
 }
