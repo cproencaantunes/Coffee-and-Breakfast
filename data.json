@@ -1,9 +1,9 @@
 {
     "weather": {
-        "atual": 20.7,
-        "manha": 20.5,
+        "atual": 20.8,
+        "manha": 20.4,
         "tarde": 26.8,
-        "noite": 21.8
+        "noite": 21.9
     },
     "forecast": {
         "max": 24.8,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
+            "title": "Procurador-geral ucraniano demite-se após acusações de corrupção",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/mundo/noticia/procuradorgeral-ucraniano-demitese-apos-acusacoes-corrupcao-2187331"
+        },
+        {
+            "title": "A doutrina Montenegro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/opiniao/opiniao/doutrina-montenegro-2187203"
+        },
+        {
+            "title": "Nítido nulo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/opiniao/opiniao/nitido-nulo-2187137"
+        },
+        {
+            "title": "A forma perdida da escola: o que a crise do ensino artístico revela sobre a educação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/opiniao/opiniao/forma-perdida-escola-crise-ensino-artistico-revela-educacao-2187187"
+        },
+        {
             "title": "Coreia do Norte e Rússia inauguram primeira ponte rodoviária transfronteiriça",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/mundo/noticia/coreia-norte-russia-inauguram-primeira-ponte-rodoviaria-transfronteirica-2187328"
-        },
-        {
-            "title": "A interoperabilidade que falta: quando o Estado (ou outro ente público) esquece o que já sabe",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/opiniao/opiniao/interoperabilidade-falta-estado-ente-publico-esquece-ja-sabe-2186814"
-        },
-        {
-            "title": "Ninguém se sente mais em casa no US Open do que Frances Tiafoe",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/07/desporto/noticia/ninguem-sente-casa-us-open-frances-tiafoe-2187329"
-        },
-        {
-            "title": "“Viva a amizade entre Brasil e Portugal”, diz embaixador no 7 de Setembro em Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/07/publico-brasil/noticia/viva-amizade-brasil-portugal-embaixador-7-setembro-lisboa-2187327"
-        },
-        {
-            "title": "Sofia Correia de Barros sucede a Ana Rita Bessa na presidência executiva da Leya",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/07/culturaipsilon/noticia/sofia-correia-barros-sucede-ana-rita-bessa-presidencia-executiva-leya-2187296"
         }
     ],
     "finance": [],
-    "last_update": "07/09/2026 23:08"
+    "last_update": "08/09/2026 01:56"
 }
