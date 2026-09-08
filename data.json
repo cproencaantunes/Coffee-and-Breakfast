@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.8,
-        "manha": 20.4,
-        "tarde": 27.1,
-        "noite": 22.1
+        "manha": 20.5,
+        "tarde": 27.3,
+        "noite": 22.0
     },
     "forecast": {
-        "max": 25.0,
+        "max": 24.9,
         "min": 18.7
     },
     "news": [
         {
-            "title": "Primavera entre os dentes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/publico-brasil/cronica/primavera-dentes-2187332"
+            "title": "Algo irá mudar na Europa depois deste Verão escaldante?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/azul/noticia/algo-ira-mudar-europa-verao-escaldante-2187252"
         },
         {
-            "title": "Como os pequenos negócios brasileiros ganham impulso na Europa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/publico-brasil/entrevista/negocios-brasileiros-ganham-impulso-europa-2187080"
+            "title": "Mulheres fumadoras com risco de infertilidade 40% maior do que as que não fumam",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/sociedade/noticia/mulheres-fumadoras-risco-infertilidade-40-maior-nao-fumam-2187362"
         },
         {
-            "title": "Os pecados dos pais tiranos no MOTELX",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/culturaipsilon/noticia/pecados-pais-tiranos-motelx-2187271"
+            "title": "Outros dados do PISA: alunos estão menos curiosos, desistem mais e sentem menos apoio das famílias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/sociedade/noticia/dados-pisa-alunos-estao-menos-curiosos-desistem-sentem-menos-apoio-familias-2187258"
         },
         {
-            "title": "Perigo máximo de incêndio em 30 concelhos de seis distritos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/sociedade/noticia/perigo-maximo-incendio-30-concelhos-seis-distritos-2187335"
+            "title": "Mais de 1700 grávidas ou pessoas em licença parental sem renovação do contrato em 2025",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/sociedade/noticia/1700-gravidas-pessoas-licenca-parental-renovacao-contrato-2025-2187350"
         },
         {
-            "title": "Despertador: o resumo da manhã",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/newsletter/despertador"
+            "title": "Kiev volta a ser atacada após trégua temporária para visita de enviados da Casa Branca",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/mundo/noticia/kiev-volta-atacada-apos-tregua-temporaria-visita-enviados-casa-branca-2187356"
         }
     ],
     "finance": [],
-    "last_update": "08/09/2026 06:47"
+    "last_update": "08/09/2026 11:52"
 }
