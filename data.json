@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 21.7,
-        "manha": 19.7,
+        "manha": 20.3,
         "tarde": 25.5,
         "noite": 19.7
     },
     "forecast": {
-        "max": 30.0,
-        "min": 19.7
+        "max": 30.1,
+        "min": 19.8
     },
     "news": [
         {
-            "title": "SAD do Benfica com lucro de 19,1 milhões de euros em 2025-26",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/desporto/noticia/sad-benfica-lucro-191-milhoes-euros-202526-2187449"
+            "title": "Portugal regride 20 anos a Matemática e Leitura. Alentejo e Setúbal no fim da tabela",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/sociedade/noticia/portugal-regride-20-anos-matematica-leitura-alentejo-setubal-fim-tabela-2187433"
         },
         {
-            "title": "Madalena Costa revalida título europeu em patinagem livre",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/desporto/noticia/madalena-costa-revalida-titulo-europeu-patinagem-livre-2187448"
+            "title": "Meo volta a ser condenada pela Anacom em 187,5 mil euros, mas contesta em tribunal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/economia/noticia/meo-volta-condenada-anacom-1875-mil-euros-contesta-tribunal-2187425"
         },
         {
-            "title": "“É a economia estúpido”, para o Governo e para as oposições",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/opiniao/opiniao/economia-estupido-governo-oposicoes-2187370"
+            "title": "“Presidente do IST arquiva caso de assédio laboral, mas inspecção propôs repreensão escrita”, publicado a 6 de Setembro de 2026",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/ciencia/direito-de-resposta/presidente-ist-arquiva-caso-assedio-laboral-inspeccao-propos-repreensao-escrita-publicado-6-setembro-2026-2187348"
         },
         {
-            "title": "Quem conta como vítima do 11 de Setembro?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/opiniao/opiniao/conta-vitima-11-setembro-2187359"
+            "title": "Pedro Adão e Silva sobre moção: “De certa forma, todos ganharam o dia”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/politica/noticia/pedro-adao-silva-mocao-certa-forma-ganharam-dia-2187410"
         },
         {
-            "title": "Uma casa para quem ficou no meio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/opiniao/opiniao/casa-ficou-meio-2187361"
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/opiniao/opiniao/cartas-director-2187431"
         }
     ],
     "finance": [],
-    "last_update": "09/09/2026 00:49"
+    "last_update": "09/09/2026 05:30"
 }
