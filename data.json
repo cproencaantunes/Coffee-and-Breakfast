@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.8,
-        "manha": 20.5,
-        "tarde": 27.6,
-        "noite": 21.8
+        "atual": 21.7,
+        "manha": 19.7,
+        "tarde": 25.5,
+        "noite": 19.7
     },
     "forecast": {
-        "max": 25.4,
-        "min": 19.4
+        "max": 30.0,
+        "min": 19.7
     },
     "news": [
         {
-            "title": "Ainda há sonhos na Europa, mas o “desfasamento da imaginação” paralisa o futuro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/mundo/noticia/ha-sonhos-europa-desfasamento-imaginacao-afastanos-futuro-2187423"
+            "title": "SAD do Benfica com lucro de 19,1 milhões de euros em 2025-26",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/desporto/noticia/sad-benfica-lucro-191-milhoes-euros-202526-2187449"
         },
         {
-            "title": "Chega perdeu e Montenegro ganhou no debate da moção de censura",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/politica/noticia/chega-perdeu-montenegro-ganhou-debate-mocao-censura-2187444"
+            "title": "Madalena Costa revalida título europeu em patinagem livre",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/desporto/noticia/madalena-costa-revalida-titulo-europeu-patinagem-livre-2187448"
         },
         {
-            "title": "Polícias de Olhão acusados de homicídio: “Concluí que algo doloso e grave se tinha passado”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/sociedade/noticia/policias-olhao-acusados-homicidio-conclui-algo-doloso-grave-passado-2187422"
+            "title": "“É a economia estúpido”, para o Governo e para as oposições",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/opiniao/opiniao/economia-estupido-governo-oposicoes-2187370"
         },
         {
-            "title": "José Mourinho entra a ganhar na Champions",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/desporto/noticia/jose-mourinho-entra-ganhar-champions-2187445"
+            "title": "Quem conta como vítima do 11 de Setembro?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/opiniao/opiniao/conta-vitima-11-setembro-2187359"
         },
         {
-            "title": "Penélope Cruz de olhar bem aberto. Nick Nolte: nós é que arregalamos o olho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/08/culturaipsilon/noticia/penelope-cruz-olhar-bem-aberto-nick-nolte-arregalamos-olho-2187378"
+            "title": "Uma casa para quem ficou no meio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/opiniao/opiniao/casa-ficou-meio-2187361"
         }
     ],
     "finance": [],
-    "last_update": "08/09/2026 22:08"
+    "last_update": "09/09/2026 00:49"
 }
