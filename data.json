@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 21.7,
-        "manha": 20.3,
-        "tarde": 25.5,
-        "noite": 19.7
+        "manha": 20.2,
+        "tarde": 25.4,
+        "noite": 19.5
     },
     "forecast": {
-        "max": 30.1,
-        "min": 19.8
+        "max": 29.5,
+        "min": 19.4
     },
     "news": [
         {
-            "title": "Portugal regride 20 anos a Matemática e Leitura. Alentejo e Setúbal no fim da tabela",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/sociedade/noticia/portugal-regride-20-anos-matematica-leitura-alentejo-setubal-fim-tabela-2187433"
+            "title": "Explosão em central hidroeléctrica na Suíça provoca dois feridos graves",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/mundo/noticia/explosao-central-hidroelectrica-suica-provoca-dois-feridos-graves-2187469"
         },
         {
-            "title": "Meo volta a ser condenada pela Anacom em 187,5 mil euros, mas contesta em tribunal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/economia/noticia/meo-volta-condenada-anacom-1875-mil-euros-contesta-tribunal-2187425"
+            "title": "<em>South Park</em> muda de nome para “<em>South America</em>” na 29.ª temporada — e não foi Trump que mandou",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/culturaipsilon/noticia/south-park-muda-nome-south-america-29-temporada-nao-trump-mandou-2187466"
         },
         {
-            "title": "“Presidente do IST arquiva caso de assédio laboral, mas inspecção propôs repreensão escrita”, publicado a 6 de Setembro de 2026",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/ciencia/direito-de-resposta/presidente-ist-arquiva-caso-assedio-laboral-inspeccao-propos-repreensao-escrita-publicado-6-setembro-2026-2187348"
+            "title": "Síofra O’Leary: “O que aconteceu na Ucrânia é contrário à lei, deve ficar escrito para a História”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/mundo/entrevista/siofra-oleary-aconteceu-ucrania-contrario-lei-ficar-escrito-historia-2187289"
         },
         {
-            "title": "Pedro Adão e Silva sobre moção: “De certa forma, todos ganharam o dia”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/politica/noticia/pedro-adao-silva-mocao-certa-forma-ganharam-dia-2187410"
+            "title": "Falha no controlo aéreo britânico cancela nove voos de Portugal para Londres",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/fugas/noticia/falha-controlo-aereo-britanico-cancela-nove-voos-portugal-londres-2187465"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/opiniao/opiniao/cartas-director-2187431"
+            "title": "EUA atacam petroleiros iranianos e Teerão responde com mísseis contra base jordana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/mundo/noticia/eua-atacam-petroleiros-iranianos-teerao-responde-misseis-base-jordana-2187463"
         }
     ],
     "finance": [],
-    "last_update": "09/09/2026 05:30"
+    "last_update": "09/09/2026 10:19"
 }
