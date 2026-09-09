@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 21.7,
-        "manha": 20.2,
-        "tarde": 25.2,
-        "noite": 19.5
+        "atual": 19.5,
+        "manha": 20.7,
+        "tarde": 28.7,
+        "noite": 21.0
     },
     "forecast": {
-        "max": 29.0,
-        "min": 19.4
+        "max": 31.2,
+        "min": 19.8
     },
     "news": [
         {
-            "title": "Sporting passou do inferno à tranquilidade na primeira noite de Champions",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/desporto/cronica_de_jogo/sporting-passou-inferno-traquilidade-primeira-noite-champions-2187557"
+            "title": "Nem este Evaristo tem “cá disto” nem esta Amália encanta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/culturaipsilon/opiniao/evaristo-ca-amalia-encanta-2187128"
         },
         {
-            "title": "<em>DAU</em>: como eles não pararam de se preocupar e não passaram a amar a bomba",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/culturaipsilon/noticia/dau-nao-pararam-preocupar-nao-passaram-amar-bomba-2187473"
+            "title": "Descida no PISA: não foi por falta de aviso, mas de exigência",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/opiniao/opiniao/descida-pisa-nao-falta-aviso-exigencia-2187534"
         },
         {
-            "title": "ERC aponta desconformidades na reestruturação da agência Lusa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/politica/noticia/erc-aponta-desconformidades-reestruturacao-agencia-lusa-2187553"
+            "title": "França indignada com comentários racistas de polícia próximo de Le Pen",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/mundo/noticia/franca-indignada-comentarios-racistas-policia-proximo-le-pen-2187560"
         },
         {
-            "title": "Falhar outra vez, falhar pior",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/p3/cronica/falhar-falhar-pior-2187489"
+            "title": "O perigo da repetição da História é como os discos de vinil: tem o lado A e o lado B",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/opiniao/opiniao/perigo-repeticao-historia-discos-vinil-lado-lado-b-2187523"
         },
         {
-            "title": "Portugueses sentem mais conforto (e controlo) em casa do que a média global, diz estudo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/09/impar/noticia/portugueses-sentem-conforto-controlo-casa-media-global-estudo-2187551"
+            "title": "O naufrágio da escola: por que retrocedemos duas décadas no conhecimento?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/opiniao/opiniao/naufragio-escola-retrocedemos-duas-decadas-conhecimento-2187488"
         }
     ],
     "finance": [],
-    "last_update": "09/09/2026 21:21"
+    "last_update": "09/09/2026 23:38"
 }
