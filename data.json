@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.8,
-        "manha": 20.3,
-        "tarde": 28.4,
-        "noite": 20.8
+        "manha": 20.1,
+        "tarde": 28.7,
+        "noite": 21.0
     },
     "forecast": {
-        "max": 31.2,
-        "min": 19.6
+        "max": 31.6,
+        "min": 19.2
     },
     "news": [
         {
-            "title": "Nem este Evaristo tem “cá disto” nem esta Amália encanta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/culturaipsilon/opiniao/evaristo-ca-amalia-encanta-2187128"
+            "title": "Portugal entra no Europeu de voleibol a jogar contra os melhores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/desporto/noticia/portugal-entra-europeu-voleibol-jogar-melhores-2187524"
         },
         {
-            "title": "Descida no PISA: não foi por falta de aviso, mas de exigência",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/opiniao/opiniao/descida-pisa-nao-falta-aviso-exigencia-2187534"
+            "title": "Portugal: o labirinto da memória e a recusa da responsabilidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/publico-brasil/opiniao/portugal-labirinto-memoria-recusa-responsabilidade-2187549"
         },
         {
-            "title": "França indignada com comentários racistas de polícia próximo de Le Pen",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/mundo/noticia/franca-indignada-comentarios-racistas-policia-proximo-le-pen-2187560"
+            "title": "Com Fafá de Belém, brasileiros celebram Nossa Senhora da Nazaré em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/publico-brasil/noticia/fafa-belem-brasileiros-celebram-senhora-nazare-portugal-2187541"
         },
         {
-            "title": "O perigo da repetição da História é como os discos de vinil: tem o lado A e o lado B",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/opiniao/opiniao/perigo-repeticao-historia-discos-vinil-lado-lado-b-2187523"
+            "title": "Sem grandiosidade nem heroísmo, assim é o <em>Nacionalismo</em> de Odete",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/culturaipsilon/noticia/grandiosidade-heroismo-assim-nacionalismo-odete-2187505"
         },
         {
-            "title": "O naufrágio da escola: por que retrocedemos duas décadas no conhecimento?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/opiniao/opiniao/naufragio-escola-retrocedemos-duas-decadas-conhecimento-2187488"
+            "title": "Esforço adicional “não é comportável”: Governo lança bónus nas pensões e corte do IRS para cima da mesa do OE",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/politica/noticia/esforco-adicional-nao-comportavel-governo-lanca-bonus-pensoes-corte-irs-cima-mesa-oe-2187503"
         }
     ],
     "finance": [],
-    "last_update": "10/09/2026 01:58"
+    "last_update": "10/09/2026 07:00"
 }
