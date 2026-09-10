@@ -2,35 +2,35 @@
     "weather": {
         "atual": 18.8,
         "manha": 20.0,
-        "tarde": 29.1,
-        "noite": 20.7
+        "tarde": 29.4,
+        "noite": 21.1
     },
     "forecast": {
-        "max": 31.3,
-        "min": 19.7
+        "max": 31.9,
+        "min": 19.4
     },
     "news": [
         {
-            "title": "A <em>chef </em>peruana Pia León nadou com atuns no Algarve e descobriu os jesuítas da Culatra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/fugas/reportagem/chef-peruana-pia-leon-nadou-atuns-algarve-descobriu-jesuitas-culatra-2187285"
+            "title": "João Almeida fica em terceiro no último contra-relógio da Vuelta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/desporto/noticia/joao-almeida-fica-terceiro-ultimo-contrarelogio-vuelta-2187639"
         },
         {
-            "title": "As atletas de elite têm “medo de engravidar” e dizer adeus à alta competição",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/impar/reportagem/atletas-elite-medo-engravidar-dizer-adeus-alta-competicao-2187579"
+            "title": "<em>Rentrée</em> de artes performativas: desde a história do aborto em Portugal a Shakespeare",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/culturaipsilon/noticia/rentree-artes-performativas-desde-historia-aborto-portugal-shakespeare-2187380"
         },
         {
-            "title": "Sócrates garante nada ter a ver com “espectáculo da renúncia” de advogados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/sociedade/noticia/socrates-garante-nada-espectaculo-renuncia-advogados-2187595"
+            "title": "As imagens do incêndio que deflagrou no Café Nicola, em Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/video/imagens-incendio-deflagrou-cafe-nicola-lisboa-20260910-172120"
         },
         {
-            "title": "Ataque russo contra centro comercial em Sumi faz dois mortos e 20 feridos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/mundo/noticia/ataque-russo-centro-comercial-sumi-faz-dois-mortos-20-feridos-2187596"
+            "title": "Um pai na Terra, uma filha em Marte: o futuro segundo Tiago Rodrigues",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/culturaipsilon/noticia/pai-terra-filha-marte-futuro-segundo-tiago-rodrigues-2187176"
         },
         {
-            "title": "Ataque israelita mata pais e duas crianças em Gaza, avançam médicos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/mundo/noticia/ataque-israelita-mata-pais-duas-criancas-gaza-avancam-medicos-2187570"
+            "title": "Trump promete cinco mil dólares a cada cidadão americano se os republicanos vencerem as intercalares",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/video/trump-promete-cinco-mil-dolares-cidadao-americano-republicanos-vencerem-intercalares-20260910-153148"
         }
     ],
     "finance": [],
-    "last_update": "10/09/2026 12:27"
+    "last_update": "10/09/2026 16:43"
 }
