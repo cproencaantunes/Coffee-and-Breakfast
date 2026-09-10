@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.8,
-        "manha": 20.1,
-        "tarde": 28.7,
-        "noite": 21.0
+        "manha": 20.0,
+        "tarde": 29.1,
+        "noite": 20.7
     },
     "forecast": {
-        "max": 31.6,
-        "min": 19.2
+        "max": 31.3,
+        "min": 19.7
     },
     "news": [
         {
-            "title": "Portugal entra no Europeu de voleibol a jogar contra os melhores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/desporto/noticia/portugal-entra-europeu-voleibol-jogar-melhores-2187524"
+            "title": "A <em>chef </em>peruana Pia León nadou com atuns no Algarve e descobriu os jesuítas da Culatra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/fugas/reportagem/chef-peruana-pia-leon-nadou-atuns-algarve-descobriu-jesuitas-culatra-2187285"
         },
         {
-            "title": "Portugal: o labirinto da memória e a recusa da responsabilidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/publico-brasil/opiniao/portugal-labirinto-memoria-recusa-responsabilidade-2187549"
+            "title": "As atletas de elite têm “medo de engravidar” e dizer adeus à alta competição",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/impar/reportagem/atletas-elite-medo-engravidar-dizer-adeus-alta-competicao-2187579"
         },
         {
-            "title": "Com Fafá de Belém, brasileiros celebram Nossa Senhora da Nazaré em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/publico-brasil/noticia/fafa-belem-brasileiros-celebram-senhora-nazare-portugal-2187541"
+            "title": "Sócrates garante nada ter a ver com “espectáculo da renúncia” de advogados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/sociedade/noticia/socrates-garante-nada-espectaculo-renuncia-advogados-2187595"
         },
         {
-            "title": "Sem grandiosidade nem heroísmo, assim é o <em>Nacionalismo</em> de Odete",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/culturaipsilon/noticia/grandiosidade-heroismo-assim-nacionalismo-odete-2187505"
+            "title": "Ataque russo contra centro comercial em Sumi faz dois mortos e 20 feridos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/mundo/noticia/ataque-russo-centro-comercial-sumi-faz-dois-mortos-20-feridos-2187596"
         },
         {
-            "title": "Esforço adicional “não é comportável”: Governo lança bónus nas pensões e corte do IRS para cima da mesa do OE",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/politica/noticia/esforco-adicional-nao-comportavel-governo-lanca-bonus-pensoes-corte-irs-cima-mesa-oe-2187503"
+            "title": "Ataque israelita mata pais e duas crianças em Gaza, avançam médicos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/10/mundo/noticia/ataque-israelita-mata-pais-duas-criancas-gaza-avancam-medicos-2187570"
         }
     ],
     "finance": [],
-    "last_update": "10/09/2026 07:00"
+    "last_update": "10/09/2026 12:27"
 }
