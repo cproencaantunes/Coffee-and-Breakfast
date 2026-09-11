@@ -1,15 +1,27 @@
 {
     "weather": {
         "atual": 20.1,
-        "manha": 21.3,
-        "tarde": 31.1,
-        "noite": 24.6
+        "manha": 21.0,
+        "tarde": 31.0,
+        "noite": 23.9
     },
     "forecast": {
-        "max": 33.5,
-        "min": 18.8
+        "max": 32.6,
+        "min": 17.7
     },
     "news": [
+        {
+            "title": "Mais de metade dos municípios sob pressão habitacional com nova regra europeia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/11/economia/noticia/metade-municipios-pressao-habitacional-nova-regra-europeia-2187647"
+        },
+        {
+            "title": "11 de Setembro: um dia que ainda não acabou",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/11/mundo/noticia/11-setembro-dia-nao-acabou-2187694"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/11/opiniao/opiniao/cartas-director-2187631"
+        },
         {
             "title": "Uma moção de confiança no analfabetismo político",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/09/11/opiniao/opiniao/mocao-confianca-analfabetismo-politico-2187673"
@@ -17,20 +29,8 @@
         {
             "title": "PISA: 20 anos para trás e sete inquietações para a frente",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/09/11/opiniao/opiniao/pisa-20-anos-tras-sete-inquietacoes-frente-2187656"
-        },
-        {
-            "title": "Assinalando os 25 anos do ‘<em>nine eleven</em>’ nos EUA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/11/opiniao/opiniao/assinalando-25-anos-nine-eleven-eua-2187603"
-        },
-        {
-            "title": "Quem vai pagar a nossa velhice",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/11/opiniao/opiniao/vai-pagar-velhice-2187590"
-        },
-        {
-            "title": "Antes do PISA, há o território",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/11/opiniao/opiniao/pisa-ha-territorio-2187606"
         }
     ],
     "finance": [],
-    "last_update": "11/09/2026 00:39"
+    "last_update": "11/09/2026 05:23"
 }
