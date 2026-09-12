@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 22.4,
-        "manha": 20.1,
-        "tarde": 32.9,
-        "noite": 27.8
+        "manha": 20.4,
+        "tarde": 32.8,
+        "noite": 27.9
     },
     "forecast": {
-        "max": 35.0,
-        "min": 21.7
+        "max": 34.6,
+        "min": 21.8
     },
     "news": [
         {
-            "title": "Visto prévio destapa segredos da compra na REN que Miranda Sarmento não revela",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/economia/noticia/visto-previo-destapa-segredos-compra-ren-miranda-sarmento-nao-revela-2187739"
+            "title": "Palácio Estoril: uma história de reis, rainhas e espiões com quase um século",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/fugas/reportagem/palacio-estoril-historia-reis-rainhas-espioes-quase-seculo-2187054"
         },
         {
-            "title": "Governo gastou perto de 800 milhões com REN e Águas de Portugal num ano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/economia/noticia/governo-gastou-perto-800-milhoes-ren-aguas-portugal-ano-2187783"
+            "title": "Valorizar as boas memórias e tentar suavizar as outras",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/impar/noticia/valorizar-boas-memorias-tentar-suavizar-2187727"
         },
         {
-            "title": "O ar do tempo (2) e em Portugal (1)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/opiniao/opiniao/ar-tempo-2-portugal-1-2187784"
+            "title": "Curitiba, capital mais orgulhosa não há",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/fugas/reportagem/curitiba-capital-orgulhosa-nao-ha-2186954"
         },
         {
-            "title": "Segredos e mentiras",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/opiniao/opiniao/segredos-mentiras-2187795"
+            "title": "A montanha mágica",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/impar/cronica/montanha-magica-2187358"
         },
         {
-            "title": "Gestão da saúde para totós",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/opiniao/opiniao/gestao-saude-totos-2187572"
+            "title": "Aviso amarelo: GNR alerta para “agravamento significativo do perigo” de incêndios devido ao calor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/sociedade/noticia/aviso-amarelo-gnr-alerta-agravamento-significativo-perigo-incendios-devido-calor-2187838"
         }
     ],
     "finance": [],
-    "last_update": "12/09/2026 05:13"
+    "last_update": "12/09/2026 09:44"
 }
