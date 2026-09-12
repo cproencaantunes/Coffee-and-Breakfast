@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 22.4,
-        "manha": 20.4,
-        "tarde": 32.7,
-        "noite": 27.9
+        "atual": 25.6,
+        "manha": 21.5,
+        "tarde": 33.0,
+        "noite": 27.8
     },
     "forecast": {
-        "max": 33.9,
-        "min": 21.6
+        "max": 32.8,
+        "min": 19.9
     },
     "news": [
         {
-            "title": "Lula mantém vantagem sobre Flávio Bolsonaro em nova sondagem no Brasil",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/mundo/noticia/lula-mantem-vantagem-flavio-bolsonaro-nova-sondagem-brasil-2187875"
+            "title": "Ainda somos todos americanos?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/mundo/analise/americanos-2187856"
         },
         {
-            "title": "Sob investigação, Reform UK recebe donativos recorde: 72 milhões de libras em dois dias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/mundo/noticia/investigacao-reform-uk-recebe-donativos-recorde-72-milhoes-libras-dois-dias-2187870"
+            "title": "Burlas por telefone e SMS: porque não fazemos mais para as impedir?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/opiniao/opiniao/burlas-telefone-sms-nao-fazemos-impedir-2185902"
         },
         {
-            "title": "Só queria que fôssemos uma família como deve ser",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/p3/cronica/so-queria-fossemos-familia-2187730"
+            "title": "Legislar para destruir o ensino superior português",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/opiniao/opiniao/legislar-destruir-ensino-superior-portugues-2187577"
         },
         {
-            "title": "Gerson Baldé sexto no comprimento no Ultimate Championship",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/desporto/noticia/gerson-balde-sexto-comprimento-ultimate-championship-2187874"
+            "title": "A ilusão da convergência e a erosão estrutural: um diagnóstico do PISA 2025",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/opiniao/opiniao/ilusao-convergencia-erosao-estrutural-diagnostico-pisa-2025-2187755"
         },
         {
-            "title": "US Open: Ben Shelton assume desafio que quebrar jejum de 23 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/desporto/noticia/us-open-ben-shelton-assume-desafio-quebrar-jejum-23-anos-2187873"
+            "title": "Mobilidade no centro histórico de Lisboa: uma oportunidade para pensar a cidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/opiniao/opiniao/mobilidade-centro-historico-lisboa-oportunidade-pensar-cidade-2187611"
         }
     ],
     "finance": [],
-    "last_update": "12/09/2026 21:04"
+    "last_update": "12/09/2026 23:32"
 }
