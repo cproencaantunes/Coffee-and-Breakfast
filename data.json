@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 22.4,
-        "manha": 20.4,
-        "tarde": 32.8,
-        "noite": 27.6
+        "manha": 20.1,
+        "tarde": 32.9,
+        "noite": 27.8
     },
     "forecast": {
-        "max": 34.9,
-        "min": 21.4
+        "max": 35.0,
+        "min": 21.7
     },
     "news": [
         {
-            "title": "Para a <em>rentrée</em>, uma lista do tipo “está tudo aqui”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/culturaipsilon/opiniao/rentree-lista-tipo-aqui-2187785"
+            "title": "Visto prévio destapa segredos da compra na REN que Miranda Sarmento não revela",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/economia/noticia/visto-previo-destapa-segredos-compra-ren-miranda-sarmento-nao-revela-2187739"
         },
         {
-            "title": "A Turquia terrorista",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/opiniao/opiniao/turquia-terrorista-2187736"
+            "title": "Governo gastou perto de 800 milhões com REN e Águas de Portugal num ano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/economia/noticia/governo-gastou-perto-800-milhoes-ren-aguas-portugal-ano-2187783"
         },
         {
-            "title": "PISA: crónica de uma morte anunciada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/opiniao/opiniao/pisa-cronica-morte-anunciada-2187737"
+            "title": "O ar do tempo (2) e em Portugal (1)",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/opiniao/opiniao/ar-tempo-2-portugal-1-2187784"
         },
         {
-            "title": "Uma crise sem fronteiras — e sem atalhos fáceis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/opiniao/opiniao/crise-fronteiras-atalhos-faceis-2187593"
+            "title": "Segredos e mentiras",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/opiniao/opiniao/segredos-mentiras-2187795"
         },
         {
-            "title": "DECO questiona legalidade da tarifa fixa dos táxis no aeroporto de Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/local/noticia/deco-questiona-legalidade-tarifa-fixa-taxis-aeroporto-lisboa-2187826"
+            "title": "Gestão da saúde para totós",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/opiniao/opiniao/gestao-saude-totos-2187572"
         }
     ],
     "finance": [],
-    "last_update": "12/09/2026 00:46"
+    "last_update": "12/09/2026 05:13"
 }
