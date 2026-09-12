@@ -2,35 +2,35 @@
     "weather": {
         "atual": 22.4,
         "manha": 20.4,
-        "tarde": 33.0,
-        "noite": 28.0
+        "tarde": 32.7,
+        "noite": 27.7
     },
     "forecast": {
         "max": 34.3,
-        "min": 21.6
+        "min": 21.5
     },
     "news": [
         {
-            "title": "Providência cautelar “trava” concurso do ministério e aulas de ensino artístico não arrancam em Setembro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/sociedade/noticia/providencia-cautelar-trava-concurso-ministerio-aulas-ensino-artistico-nao-arrancam-setembro-2187850"
+            "title": "Estudo indica que já na Idade do Bronze a culinária era uma verdadeira arte",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/ciencia/noticia/estudo-indica-ja-idade-bronze-culinaria-verdadeira-arte-2187843"
         },
         {
-            "title": "Livre acusa Governo de “arrogância” e diz que bónus aos pensionistas “esvazia” Parlamento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/politica/noticia/livre-acusa-governo-arrogancia-bonus-pensionistas-esvazia-parlamento-2187848"
+            "title": "Acabou a espera de Enric Mas, Mikel Landa e da Espanha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/desporto/noticia/acabou-espera-enric-mikel-landa-espanha-2187861"
         },
         {
-            "title": "Preocupados com escalada, BRICS pedem “máxima contenção” a Irão e EUA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/mundo/noticia/preocupados-escalada-brics-pedem-maxima-contencao-irao-eua-2187849"
+            "title": "Durante o cancro continua a ser preciso cortar a barba e escolher o <em>soutien</em> certo. “Cuidarmos de nós é uma forma de cura”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/sociedade/noticia/durante-cancro-continua-preciso-cortar-barba-escolher-soutien-certo-cuidarmos-forma-cura-2186613"
         },
         {
-            "title": "Arte de bem receber com ginga brasileira ganha endereço em Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/publico-brasil/noticia/arte-bem-receber-ginga-brasileira-ganha-endereco-lisboa-2187712"
+            "title": "Suécia testa a vontade de os eleitores terem a extrema-direita no Governo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/mundo/noticia/suecia-testa-vontade-eleitores-terem-extremadireita-governo-2187777"
         },
         {
-            "title": "Na cama com a história: 7 hotéis icónicos de Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/fugas/noticia/cama-historia-7-hoteis-iconicos-portugal-2187340"
+            "title": "Trump está a plantar árvores geneticamente modificadas perto da Casa Branca. Porquê?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/12/azul/noticia/trump-plantar-arvores-geneticamente-modificadas-perto-casa-branca-2187255"
         }
     ],
     "finance": [],
-    "last_update": "12/09/2026 13:13"
+    "last_update": "12/09/2026 16:36"
 }
