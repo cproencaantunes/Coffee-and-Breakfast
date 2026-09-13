@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 25.9,
-        "manha": 21.1,
-        "tarde": 32.7,
-        "noite": 27.5
+        "manha": 21.2,
+        "tarde": 32.6,
+        "noite": 27.0
     },
     "forecast": {
         "max": 32.8,
-        "min": 20.3
+        "min": 20.0
     },
     "news": [
         {
-            "title": "Viver na Lua ou em Marte tem um enorme obstáculo: as pessoas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/ciencia/noticia/viver-lua-marte-enorme-obstaculo-pessoas-2181629"
+            "title": "PS diz que Fernando Alexandre é candidato a pior ministro da Educação desde o 25 de Abril",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/sociedade/noticia/ps-fernando-alexandre-candidato-pior-ministro-educacao-desde-25-abril-2187890"
         },
         {
-            "title": "No pós-25 de Abril, as primeiras nacionalizações afastaram os privados das “fábricas de dinheiro”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/economia/investigacao/pos25-abril-primeiras-nacionalizacoes-afastaram-privados-fabricas-dinheiro-2187771"
+            "title": "Castelo de Leiria e Sé de Lisboa são as novas Maravilhas de Portugal, mas não estão sozinhos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/fugas/noticia/castelo-leiria-lisboa-sao-novas-maravilhas-portugal-nao-estao-sozinhos-2187889"
         },
         {
-            "title": "Arquitectura, portas de entrada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/opiniao/cronica/arquitectura-portas-entrada-2187648"
+            "title": "Ataques russos fazem nove mortos na Ucrânia e aproximam-se da fronteira com a Polónia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/mundo/noticia/ataques-russos-fazem-nove-mortos-ucrania-aproximamse-fronteira-polonia-2187893"
         },
         {
-            "title": "Entre a espera e a incerteza",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/publico-brasil/opiniao/espera-incerteza-2187878"
+            "title": "PSP alerta para aumento de imigrantes em situação irregular que chegam de comboio e autocarro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/sociedade/noticia/psp-alerta-aumento-imigrantes-ilegais-chegam-comboio-autocarro-2187886"
         },
         {
-            "title": "Palcos da semana: a Circular entre <em>Macbeth </em>e a cultura urbana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/culturaipsilon/noticia/palcos-semana-circular-macbeth-cultura-urbana-2187791"
+            "title": "<em>A Hora do Chico!</em> venceu o Prémio MOTELX para Melhor Curta de Terror Portuguesa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/culturaipsilon/noticia/hora-chico-venceu-premio-motelx-melhor-curta-terror-portuguesa-2187888"
         }
     ],
     "finance": [],
-    "last_update": "13/09/2026 07:00"
+    "last_update": "13/09/2026 12:54"
 }
