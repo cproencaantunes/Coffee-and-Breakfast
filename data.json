@@ -2,35 +2,35 @@
     "weather": {
         "atual": 25.9,
         "manha": 21.2,
-        "tarde": 32.6,
-        "noite": 27.0
+        "tarde": 32.3,
+        "noite": 26.8
     },
     "forecast": {
         "max": 32.8,
-        "min": 20.0
+        "min": 20.1
     },
     "news": [
         {
-            "title": "PS diz que Fernando Alexandre é candidato a pior ministro da Educação desde o 25 de Abril",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/sociedade/noticia/ps-fernando-alexandre-candidato-pior-ministro-educacao-desde-25-abril-2187890"
+            "title": "Kimi Antonelli vence em Madrid e reforça liderança do Mundial de F1",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/desporto/noticia/kimi-antonelli-vence-madrid-reforca-lideranca-mundial-f1-2187907"
         },
         {
-            "title": "Castelo de Leiria e Sé de Lisboa são as novas Maravilhas de Portugal, mas não estão sozinhos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/fugas/noticia/castelo-leiria-lisboa-sao-novas-maravilhas-portugal-nao-estao-sozinhos-2187889"
+            "title": "O que fazer? Segunda é dia de <em>Florestas Submersas</em>, uma <em>Italiana </em>e Ronnie Wood",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/fugas/noticia/segunda-dia-florestas-submersas-italiana-ronnie-wood-2187786"
         },
         {
-            "title": "Ataques russos fazem nove mortos na Ucrânia e aproximam-se da fronteira com a Polónia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/mundo/noticia/ataques-russos-fazem-nove-mortos-ucrania-aproximamse-fronteira-polonia-2187893"
+            "title": "Para embaixador, UE desconhece avanços do Mercosul nas áreas sanitárias e ambientais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/publico-brasil/entrevista/embaixador-ue-desconhece-avancos-mercosul-areas-sanitarias-ambientais-2187894"
         },
         {
-            "title": "PSP alerta para aumento de imigrantes em situação irregular que chegam de comboio e autocarro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/sociedade/noticia/psp-alerta-aumento-imigrantes-ilegais-chegam-comboio-autocarro-2187886"
+            "title": "Trafaria Bluegrass, a América profunda com cheiro a Tejo (e farturas)",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/culturaipsilon/reportagem/trafaria-bluegrass-america-profunda-cheiro-tejo-farturas-2187899"
         },
         {
-            "title": "<em>A Hora do Chico!</em> venceu o Prémio MOTELX para Melhor Curta de Terror Portuguesa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/culturaipsilon/noticia/hora-chico-venceu-premio-motelx-melhor-curta-terror-portuguesa-2187888"
+            "title": "Portugal volta a perder no EuroVolley",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/desporto/noticia/portugal-volta-perder-eurovolley-2187905"
         }
     ],
     "finance": [],
-    "last_update": "13/09/2026 12:54"
+    "last_update": "13/09/2026 16:44"
 }
