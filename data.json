@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 25.9,
-        "manha": 21.0,
-        "tarde": 33.0,
-        "noite": 28.0
+        "manha": 21.1,
+        "tarde": 32.7,
+        "noite": 27.5
     },
     "forecast": {
         "max": 32.8,
-        "min": 19.9
+        "min": 20.3
     },
     "news": [
         {
-            "title": "Ainda somos todos americanos?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/mundo/analise/americanos-2187856"
+            "title": "Viver na Lua ou em Marte tem um enorme obstáculo: as pessoas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/ciencia/noticia/viver-lua-marte-enorme-obstaculo-pessoas-2181629"
         },
         {
-            "title": "Burlas por telefone e SMS: porque não fazemos mais para as impedir?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/opiniao/opiniao/burlas-telefone-sms-nao-fazemos-impedir-2185902"
+            "title": "No pós-25 de Abril, as primeiras nacionalizações afastaram os privados das “fábricas de dinheiro”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/economia/investigacao/pos25-abril-primeiras-nacionalizacoes-afastaram-privados-fabricas-dinheiro-2187771"
         },
         {
-            "title": "Legislar para destruir o ensino superior português",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/opiniao/opiniao/legislar-destruir-ensino-superior-portugues-2187577"
+            "title": "Arquitectura, portas de entrada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/opiniao/cronica/arquitectura-portas-entrada-2187648"
         },
         {
-            "title": "A ilusão da convergência e a erosão estrutural: um diagnóstico do PISA 2025",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/opiniao/opiniao/ilusao-convergencia-erosao-estrutural-diagnostico-pisa-2025-2187755"
+            "title": "Entre a espera e a incerteza",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/publico-brasil/opiniao/espera-incerteza-2187878"
         },
         {
-            "title": "Mobilidade no centro histórico de Lisboa: uma oportunidade para pensar a cidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/opiniao/opiniao/mobilidade-centro-historico-lisboa-oportunidade-pensar-cidade-2187611"
+            "title": "Palcos da semana: a Circular entre <em>Macbeth </em>e a cultura urbana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/culturaipsilon/noticia/palcos-semana-circular-macbeth-cultura-urbana-2187791"
         }
     ],
     "finance": [],
-    "last_update": "13/09/2026 01:56"
+    "last_update": "13/09/2026 07:00"
 }
