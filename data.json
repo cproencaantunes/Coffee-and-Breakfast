@@ -3,34 +3,34 @@
         "atual": 25.9,
         "manha": 21.2,
         "tarde": 32.3,
-        "noite": 28.1
+        "noite": 28.2
     },
     "forecast": {
         "max": 32.8,
-        "min": 19.9
+        "min": 19.8
     },
     "news": [
         {
-            "title": "De Itaquera a Lisboa: brasileiro quer achar foragidos da Justiça pelo Wi-Fi do ônibus",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/publico-brasil/noticia/itaquera-lisboa-brasileiro-quer-achar-foragidos-justica-wifi-onibus-2187689"
+            "title": "Famalicão empata o Sporting nos descontos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/desporto/cronica_de_jogo/famalicao-empata-sporting-descontos-2187923"
         },
         {
-            "title": "Prestianni e Pavlidis sossegam Benfica após um susto chamado Gil Vicente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/desporto/cronica_de_jogo/prestianni-pavlidis-sossegam-benfica-apos-susto-chamado-gil-vicente-2187910"
+            "title": "US Open: por detrás da campeã Elena Rybakina está Bulat Utemuratov",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/desporto/noticia/us-open-detras-campea-elena-rybakina-bulat-utemuratov-2187922"
         },
         {
-            "title": "Governo do Iémen tenta recuperar Mocha e houthis atacam Marib. Há milhares de deslocados pelo conflito",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/mundo/noticia/governo-iemen-tenta-recuperar-mocha-houthis-atacam-marib-ha-milhares-deslocados-conflito-2187913"
+            "title": "Perante pedidos de regulação de IA, Trump fala em exageros e “forças negativas”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/tecnologia/noticia/pedidos-regulacao-ia-trump-fala-exageros-forcas-negativas-2187915"
         },
         {
-            "title": "Projecções apontam para vitória da esquerda na Suécia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/mundo/noticia/projeccoes-apontam-vitoria-esquerda-suecia-2187908"
+            "title": "Enric Mas confirma triunfo na Vuelta 2026 - sem tempo para o saborear",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/desporto/noticia/enric-confirma-triunfo-vuelta-2026-tempo-saborear-2187921"
         },
         {
-            "title": "<em>Rothko Chapel</em> e <em>November</em> em estreia nacional no Vale do Ave",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/culturaipsilon/critica/rothko-chapel-november-estreia-nacional-vale-ave-2187898"
+            "title": "Ventura fica muito nervosinho com o assalto ao Parlamento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/politica/cronica/ventura-fica-nervosinho-assalto-parlamento-2187914"
         }
     ],
     "finance": [],
-    "last_update": "13/09/2026 19:04"
+    "last_update": "13/09/2026 21:54"
 }
