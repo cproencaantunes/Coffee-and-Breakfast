@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 25.9,
-        "manha": 21.2,
-        "tarde": 32.3,
-        "noite": 28.2
+        "atual": 25.4,
+        "manha": 20.9,
+        "tarde": 31.7,
+        "noite": 27.0
     },
     "forecast": {
-        "max": 32.8,
-        "min": 19.8
+        "max": 27.1,
+        "min": 18.9
     },
     "news": [
         {
-            "title": "Famalicão empata o Sporting nos descontos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/desporto/cronica_de_jogo/famalicao-empata-sporting-descontos-2187923"
+            "title": "PISA 2025: o perigo das verdades pela metade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/14/opiniao/opiniao/pisa-2025-perigo-verdades-metade-2187759"
         },
         {
-            "title": "US Open: por detrás da campeã Elena Rybakina está Bulat Utemuratov",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/desporto/noticia/us-open-detras-campea-elena-rybakina-bulat-utemuratov-2187922"
+            "title": "Uma abordagem temerária às contas públicas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/14/opiniao/opiniao/abordagem-temeraria-contas-publicas-2187916"
         },
         {
-            "title": "Perante pedidos de regulação de IA, Trump fala em exageros e “forças negativas”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/tecnologia/noticia/pedidos-regulacao-ia-trump-fala-exageros-forcas-negativas-2187915"
+            "title": "O paradoxo de Simpson",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/14/opiniao/opiniao/paradoxo-simpson-2187750"
         },
         {
-            "title": "Enric Mas confirma triunfo na Vuelta 2026 - sem tempo para o saborear",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/desporto/noticia/enric-confirma-triunfo-vuelta-2026-tempo-saborear-2187921"
+            "title": "Perfil das ministras: são mais especializadas e têm pastas menos centrais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/14/politica/noticia/perfil-ministras-sao-especializadas-pastas-menos-centrais-2187903"
         },
         {
-            "title": "Ventura fica muito nervosinho com o assalto ao Parlamento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/13/politica/cronica/ventura-fica-nervosinho-assalto-parlamento-2187914"
+            "title": "Afinal, quem ensina quem?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/14/opiniao/cronica/afinal-ensina-2187926"
         }
     ],
     "finance": [],
-    "last_update": "13/09/2026 21:54"
+    "last_update": "13/09/2026 23:45"
 }
