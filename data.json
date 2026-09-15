@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 25.0,
-        "manha": 20.9,
-        "tarde": 27.2,
-        "noite": 21.4
+        "atual": 20.7,
+        "manha": 19.8,
+        "tarde": 25.9,
+        "noite": 20.6
     },
     "forecast": {
-        "max": 26.0,
-        "min": 19.1
+        "max": 28.0,
+        "min": 18.8
     },
     "news": [
         {
-            "title": "Suspeitos de balearem turista na Rua Augusta entregam-se às autoridades",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/15/sociedade/noticia/suspeitos-balearem-turista-rua-augusta-entregamse-autoridades-2188188"
+            "title": "A polémica Seinfeld",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/opiniao/opiniao/polemica-seinfeld-2188138"
         },
         {
-            "title": "Stellantis testa o futuro das entregas numa caixa sobre rodas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/15/enter/noticia/stellantis-testa-futuro-entregas-caixa-rodas-2188165"
+            "title": "O médico do trabalho não está sozinho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/opiniao/opiniao/medico-trabalho-nao-sozinho-2188011"
         },
         {
-            "title": "Confiança da população dos EUA nas vacinas contra sarampo desce desde 2020",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/15/ciencia/noticia/confianca-populacao-eua-vacinas-sarampo-desce-desde-2020-2188079"
+            "title": "A censura moderna segundo Montenegro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/opiniao/opiniao/censura-moderna-segundo-montenegro-2188157"
         },
         {
-            "title": "Esquerda e Chega apoiam CPI aos exames. PS convoca secretariado para tomar decisão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/15/politica/noticia/esquerda-chega-apoiam-cpi-exames-ps-convoca-secretariado-tomar-decisao-2188088"
+            "title": "Artistas abandonam digressão de Ed Sheeran em protesto contra exclusão de Macklemore",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/15/culturaipsilon/noticia/artistas-abandonam-digressao-ed-sheeran-protesto-exclusao-macklemore-2188191"
         },
         {
-            "title": "Centrais sindicais e CIP põem salário mínimo na agenda da concertação social",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/15/economia/noticia/centrais-sindicais-cip-poem-salario-minimo-agenda-concertacao-social-2188173"
+            "title": "Mais do que um jornal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/15/publico-brasil/opiniao/jornal-2188192"
         }
     ],
     "finance": [],
-    "last_update": "15/09/2026 20:36"
+    "last_update": "15/09/2026 23:17"
 }
