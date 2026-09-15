@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 24.5,
-        "manha": 20.5,
-        "tarde": 27.2,
-        "noite": 20.9
+        "atual": 25.0,
+        "manha": 20.9,
+        "tarde": 27.3,
+        "noite": 21.4
     },
     "forecast": {
         "max": 26.5,
         "min": 18.7
     },
     "news": [
+        {
+            "title": "O calvário reformista de Fernando Alexandre",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/15/politica/noticia/calvario-reformista-fernando-alexandre-2188053"
+        },
         {
             "title": "Uma história de duas políticas",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/09/15/opiniao/opiniao/historia-duas-politicas-2187970"
@@ -25,12 +29,8 @@
         {
             "title": "Alunos diferentes, escolas iguais",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/09/15/opiniao/opiniao/alunos-diferentes-escolas-iguais-2187997"
-        },
-        {
-            "title": "Emigração: notas de um fim de verão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/15/opiniao/opiniao/emigracao-notas-fim-verao-2188027"
         }
     ],
     "finance": [],
-    "last_update": "14/09/2026 23:33"
+    "last_update": "15/09/2026 02:20"
 }
