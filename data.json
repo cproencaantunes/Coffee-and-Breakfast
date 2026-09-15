@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 25.0,
-        "manha": 21.3,
+        "manha": 20.9,
         "tarde": 27.2,
-        "noite": 21.6
+        "noite": 21.3
     },
     "forecast": {
-        "max": 26.2,
+        "max": 26.6,
         "min": 19.1
     },
     "news": [
         {
-            "title": "Coreia do Norte promete apoio “inabalável” à Rússia em “guerra sagrada” contra a Ucrânia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/15/mundo/noticia/coreia-norte-promete-apoio-inabalavel-russia-guerra-sagrada-ucrania-2188064"
+            "title": "<em>Rapper</em> Macklemore afastado da digressão de Ed Sheeran após declarações pró-Palestina",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/15/culturaipsilon/noticia/rapper-macklemore-afastado-digressao-ed-sheeran-apos-declaracoes-propalestina-2188103"
         },
         {
-            "title": "Número de brasileiros que pedem apoio para deixar Portugal aumenta 52%",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/15/publico-brasil/noticia/numero-brasileiros-pedem-apoio-deixar-portugal-aumenta-52-2188065"
+            "title": "APA garante viabilidade ambiental do projecto do eléctrico 16E, em Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/15/local/noticia/apa-garante-viabilidade-ambiental-projecto-electrico-16e-lisboa-2188113"
         },
         {
-            "title": "Pentágono admite escassez de munições devido à guerra do Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/15/mundo/noticia/pentagono-admite-escassez-municoes-devido-guerra-irao-2188060"
+            "title": "Ministro da Educação diz que turmas maiores não põem em causa qualidade do ensino",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/15/sociedade/noticia/ministro-educacao-turmas-maiores-nao-poem-causa-qualidade-ensino-2188104"
         },
         {
-            "title": "Despertador: as notícias do dia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/15/newsletter/despertador"
+            "title": "Linha do Norte com circulação numa só via em Gaia devido a atropelamento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/15/local/noticia/linha-norte-cortada-dois-sentidos-gaia-devido-atropelamento-2188110"
         },
         {
-            "title": "Supremo Tribunal dos EUA rejeita tentativa de Trump de restringir voto por correspondência",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/15/mundo/noticia/supremo-tribunal-eua-rejeita-tentativa-trump-restringir-voto-correspondencia-2188059"
+            "title": "Câmara do Porto apresenta até ao final do ano “nova política” de estacionamento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/15/local/noticia/camara-porto-apresenta-ate-final-ano-nova-politica-estacionamento-2188089"
         }
     ],
     "finance": [],
-    "last_update": "15/09/2026 08:07"
+    "last_update": "15/09/2026 13:56"
 }
