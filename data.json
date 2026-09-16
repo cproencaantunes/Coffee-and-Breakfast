@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.7,
-        "manha": 19.8,
-        "tarde": 25.6,
+        "manha": 19.7,
+        "tarde": 25.0,
         "noite": 20.6
     },
     "forecast": {
-        "max": 27.8,
+        "max": 27.7,
         "min": 19.0
     },
     "news": [
         {
-            "title": "Despertador: as notícias do dia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/newsletter/despertador"
+            "title": "Gillian Anderson abre os seus “ficheiros secretos” e revela que é pansexual ",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/impar/noticia/gillian-anderson-abre-ficheiros-secretos-revela-pansexual-2188216"
         },
         {
-            "title": "Pegada climática dos <em>chips</em> da Nvidia dispara com avanço da IA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/azul/noticia/pegada-climatica-chips-nvidia-dispara-avanco-ia-2188012"
+            "title": "Fórmula 1 no Algarve: preços por definir e data fora da época alta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/desporto/noticia/formula-1-algarve-precos-definir-data-epoca-alta-2188226"
         },
         {
-            "title": "Helicóptero da NBC cai em Los Angeles e faz três mortos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/mundo/noticia/helicoptero-noticias-nbc-cai-los-angeles-faz-tres-mortos-2188199"
+            "title": "Líderes da Meta e da Nvidia não querem abrandar o ritmo da inteligência artificial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/enter/noticia/lideres-meta-nvidia-nao-querem-abrandar-ritmo-inteligencia-artificial-2188225"
         },
         {
-            "title": "Para o Milan-Benfica, Amorim tem Modric — resta saber para quê",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/desporto/noticia/milanbenfica-amorim-modric-resta-saber-2188151"
+            "title": "O que fazer? Quinta é dia de Iminente, <em>Vagabundus</em> e <em>Kung-Fu</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/fugas/noticia/quinta-dia-iminente-vagabundus-kungfu-2188233"
         },
         {
-            "title": "Dignidade e maturidade para a AIMA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/publico-brasil/opiniao/dignidade-maturidade-aima-2188193"
+            "title": "Pelo menos 20 mortos em desabamento de edifício em Gaza, enquanto Israel fala em “concluir a missão”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/mundo/noticia/menos-20-mortos-desabamento-edificio-gaza-israel-fala-concluir-missao-2188219"
         }
     ],
     "finance": [],
-    "last_update": "16/09/2026 08:01"
+    "last_update": "16/09/2026 13:50"
 }
