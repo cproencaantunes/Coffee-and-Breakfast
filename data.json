@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.7,
-        "manha": 19.7,
-        "tarde": 24.8,
+        "atual": 20.5,
+        "manha": 21.0,
+        "tarde": 28.0,
         "noite": 20.6
     },
     "forecast": {
-        "max": 27.9,
-        "min": 19.1
+        "max": 28.1,
+        "min": 18.6
     },
     "news": [
         {
-            "title": "Estudo mostra que, afinal, nem todos os caminhos vão dar a Roma",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/ciencia/noticia/estudo-mostra-afinal-caminhos-vao-dar-roma-2188238"
+            "title": "Vítimas de Epstein exigem milhões de dólares do seu espólio por pornografia infantil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/mundo/noticia/vitimas-epstein-exigem-milhoes-dolares-espolio-pornografia-infantil-2188325"
         },
         {
-            "title": "A digressão de Ed Sheeran pode estar em risco após polémica com Macklemore?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/video/digressao-ed-sheeran-estar-risco-apos-polemica-macklemore-20260916-205124"
+            "title": "Evaristo, Gervásio, os amigos deles e as divagações del(I)a",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/culturaipsilon/opiniao/evaristo-gervasio-amigos-divagacoes-delia-2187983"
         },
         {
-            "title": "Google Pixel Watch 5: mais preciso, mais inteligente e mais caro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/enter/critica/google-pixel-watch-5-preciso-inteligente-caro-2188229"
+            "title": "Estado da União: os pontos críticos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/europa/opiniao/estado-uniao-pontos-criticos-2188290"
         },
         {
-            "title": "Rei Carlos desce do pedestal e responde às críticas do irmão da princesa Diana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/impar/noticia/rei-carlos-desce-pedestal-responde-criticas-irmao-princesa-diana-2188314"
+            "title": "Um preso político português. Montenegro calado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/opiniao/opiniao/preso-politico-portugues-montenegro-calado-2188244"
         },
         {
-            "title": "Chega critica, mas direita deverá aprovar novas regras para hastear bandeiras",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/politica/noticia/chega-critica-direita-devera-aprovar-novas-regras-hastear-bandeiras-2188281"
+            "title": "La Lhéngua i L futuro de la Tierra de Miranda",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/opiniao/opiniao/lhengua-i-l-futuro-tierra-miranda-2188286"
         }
     ],
     "finance": [],
-    "last_update": "16/09/2026 20:35"
+    "last_update": "16/09/2026 23:22"
 }
