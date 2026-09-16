@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.7,
-        "manha": 19.9,
-        "tarde": 26.1,
+        "manha": 19.8,
+        "tarde": 25.6,
         "noite": 20.6
     },
     "forecast": {
-        "max": 28.0,
-        "min": 18.8
+        "max": 27.8,
+        "min": 19.0
     },
     "news": [
         {
-            "title": "Aumento dos combustíveis: Montenegro não vai fazer nada?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/politica/noticia/aumento-combustiveis-montenegro-nao-vai-nada-2188195"
+            "title": "Despertador: as notícias do dia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/newsletter/despertador"
         },
         {
-            "title": "Os alunos não estão a aprender o que a escola tem de ensinar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/opiniao/opiniao/alunos-nao-estao-aprender-escola-ensinar-2188129"
+            "title": "Pegada climática dos <em>chips</em> da Nvidia dispara com avanço da IA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/azul/noticia/pegada-climatica-chips-nvidia-dispara-avanco-ia-2188012"
         },
         {
-            "title": "Lemos mais, mas lemos menos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/opiniao/opiniao/lemos-lemos-menos-2188125"
+            "title": "Helicóptero da NBC cai em Los Angeles e faz três mortos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/mundo/noticia/helicoptero-noticias-nbc-cai-los-angeles-faz-tres-mortos-2188199"
         },
         {
-            "title": "Mais de 1500 cineastas e ONG israelitas mostram apoio aos autores de <em>NAZA</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/culturaipsilon/noticia/1500-cineastas-ong-israelitas-mostram-apoio-autores-naza-2188194"
+            "title": "Para o Milan-Benfica, Amorim tem Modric — resta saber para quê",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/desporto/noticia/milanbenfica-amorim-modric-resta-saber-2188151"
         },
         {
-            "title": "A geopolítica do PISA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/opiniao/opiniao/geopolitica-pisa-2188117"
+            "title": "Dignidade e maturidade para a AIMA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/16/publico-brasil/opiniao/dignidade-maturidade-aima-2188193"
         }
     ],
     "finance": [],
-    "last_update": "16/09/2026 02:13"
+    "last_update": "16/09/2026 08:01"
 }
