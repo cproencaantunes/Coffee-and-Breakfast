@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.4,
-        "manha": 21.0,
-        "tarde": 27.8,
-        "noite": 20.2
+        "manha": 21.3,
+        "tarde": 27.2,
+        "noite": 19.9
     },
     "forecast": {
-        "max": 28.2,
-        "min": 18.2
+        "max": 28.6,
+        "min": 18.1
     },
     "news": [
         {
-            "title": "<em>Truly Naked</em>, <em>Só Uma Ilusão</em> e outras estreias para esta semana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/culturaipsilon/noticia/truly-naked-so-ilusao-estreias-semana-2187728"
+            "title": "Pelo menos 48 mortos na Nigéria após consumirem bebida “traçada” com metanol",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/mundo/noticia/menos-48-mortos-nigeria-apos-consumirem-bebida-tracada-metanol-2188364"
         },
         {
-            "title": "Chuvas torrenciais na Catalunha fazem um morto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/mundo/noticia/chuvas-torrenciais-catalunha-fazem-morto-2188331"
+            "title": "Botox e injectáveis para rugas: 21 estabelecimentos de estética suspensos desde 2023",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/sociedade/noticia/botox-injectaveis-rugas-21-estabelecimentos-estetica-suspensos-desde-2023-2188352"
         },
         {
-            "title": "<em>Feito Pipa</em> é selecionado como representante oficial do Brasil no Oscar de 2027",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/publico-brasil/noticia/pipa-selecionado-representante-oficial-brasil-oscar-2027-2188322"
+            "title": "PCP exige medidas gerais contra subida do custo de vida e antevê oposição ao OE2027",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/politica/noticia/pcp-exige-medidas-gerais-subida-custo-vida-anteve-oposicao-oe2027-2188353"
         },
         {
-            "title": "Acordo UE-Mercosul: “Nenhum acordo comercial exporta por nós”, diz ministro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/publico-brasil/noticia/acordo-uemercosul-acordo-comercial-exporta-ministro-2188308"
+            "title": "LVMH quis comprar em segredo acções da Hermès. Agora, herdeiro diz que a fortuna desapareceu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/impar/noticia/lvmh-quis-comprar-segredo-accoes-hermes-herdeiro-fortuna-desapareceu-2188337"
         },
         {
-            "title": "“Pastor devia ser uma profissão pública”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/azul/noticia/pastor-profissao-publica-2187823"
+            "title": "Chega vai reformular pedido da comissão de inquérito a Luís Neves para a lançar na próxima semana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/politica/noticia/chega-vai-reformular-pedido-comissao-inquerito-luis-neves-lancar-proxima-semana-2188355"
         }
     ],
     "finance": [],
-    "last_update": "17/09/2026 08:07"
+    "last_update": "17/09/2026 13:54"
 }
