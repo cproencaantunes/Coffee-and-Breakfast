@@ -3,34 +3,34 @@
         "atual": 20.4,
         "manha": 21.3,
         "tarde": 27.2,
-        "noite": 19.8
+        "noite": 19.6
     },
     "forecast": {
-        "max": 28.5,
-        "min": 18.1
+        "max": 28.6,
+        "min": 18.2
     },
     "news": [
         {
-            "title": "Ministério diz que Tomás já foi colocado e que há recursos para que possa ir à escola. Família aguarda decisão judicial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/sociedade/noticia/ministerio-tomas-ja-colocado-ha-recursos-possa-ir-escola-familia-aguarda-decisao-judicial-2188383"
+            "title": "Andebol: FC Porto vence Partizan e soma primeiros pontos na Champions",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/desporto/noticia/andebol-fc-porto-vence-partizan-soma-pontos-champions-2188451"
         },
         {
-            "title": "Arábia Saudita cai do campeonato e Sardenha encerra Mundial de Ralis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/desporto/noticia/arabia-saudita-cai-campeonato-sardenha-encerra-mundial-ralis-2188419"
+            "title": "Leapmotor prepara automóveis sem bateria auxiliar de 12 volts",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/enter/noticia/leapmotor-prepara-automoveis-bateria-auxiliar-12-volts-2188420"
         },
         {
-            "title": "Plano para o Tejo com avaliação ambiental da foz até Espanha avança “em breve”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/azul/noticia/plano-tejo-avaliacao-ambiental-foz-ate-espanha-avanca-breve-2188396"
+            "title": "Em operação internacional, seis são presos no Brasil e na Alemanha por tráfico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/publico-brasil/noticia/operacao-internacional-seis-sao-presos-brasil-alemanha-trafico-2188449"
         },
         {
-            "title": "Reforma em curso, alunos sem escola, pedidos sem resposta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/newsletter/educacao"
+            "title": "Luís Neves felicitou detenção de homem que já não é suspeito de ter baleado turista",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/sociedade/noticia/luis-neves-felicitou-detencao-homem-ja-nao-suspeito-baleado-turista-2188444"
         },
         {
-            "title": "Revelações sobre Diana e regresso de Harry dificultam a semana ao rei Carlos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/impar/noticia/revelacoes-diana-regresso-harry-dificultam-semana-rei-carlos-2188374"
+            "title": "Governo renova apoio aos transportes que já tinha acabado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/economia/noticia/governo-renova-apoio-transportes-ja-acabado-2188447"
         }
     ],
     "finance": [],
-    "last_update": "17/09/2026 17:50"
+    "last_update": "17/09/2026 20:42"
 }
