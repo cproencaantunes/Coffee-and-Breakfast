@@ -1,15 +1,23 @@
 {
     "weather": {
-        "atual": 20.5,
-        "manha": 21.0,
-        "tarde": 28.0,
-        "noite": 20.6
+        "atual": 20.4,
+        "manha": 21.5,
+        "tarde": 27.9,
+        "noite": 20.5
     },
     "forecast": {
         "max": 28.1,
         "min": 18.6
     },
     "news": [
+        {
+            "title": "A função pública dos malandros do costume",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/opiniao/opiniao/funcao-publica-malandros-costume-2188289"
+        },
+        {
+            "title": "IA e a tecno-(in)cultura de primeira espécie",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/opiniao/opiniao/ia-tecnoincultura-primeira-especie-2188310"
+        },
         {
             "title": "Vítimas de Epstein exigem milhões de dólares do seu espólio por pornografia infantil",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/mundo/noticia/vitimas-epstein-exigem-milhoes-dolares-espolio-pornografia-infantil-2188325"
@@ -21,16 +29,8 @@
         {
             "title": "Estado da União: os pontos críticos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/europa/opiniao/estado-uniao-pontos-criticos-2188290"
-        },
-        {
-            "title": "Um preso político português. Montenegro calado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/opiniao/opiniao/preso-politico-portugues-montenegro-calado-2188244"
-        },
-        {
-            "title": "La Lhéngua i L futuro de la Tierra de Miranda",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/opiniao/opiniao/lhengua-i-l-futuro-tierra-miranda-2188286"
         }
     ],
     "finance": [],
-    "last_update": "16/09/2026 23:22"
+    "last_update": "17/09/2026 02:17"
 }
