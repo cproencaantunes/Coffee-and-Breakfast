@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.4,
-        "manha": 21.3,
-        "tarde": 27.2,
-        "noite": 19.6
+        "atual": 18.6,
+        "manha": 19.1,
+        "tarde": 28.3,
+        "noite": 22.5
     },
     "forecast": {
-        "max": 28.6,
-        "min": 18.2
+        "max": 31.0,
+        "min": 18.7
     },
     "news": [
         {
-            "title": "Andebol: FC Porto vence Partizan e soma primeiros pontos na Champions",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/desporto/noticia/andebol-fc-porto-vence-partizan-soma-pontos-champions-2188451"
+            "title": "A ciência que se faz quando convém",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/opiniao/opiniao/ciencia-faz-convem-2188272"
         },
         {
-            "title": "Leapmotor prepara automóveis sem bateria auxiliar de 12 volts",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/enter/noticia/leapmotor-prepara-automoveis-bateria-auxiliar-12-volts-2188420"
+            "title": "A OCDE, o PISA e o “modelo chinês”. Mais sentido crítico, precisa-se",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/opiniao/opiniao/ocde-pisa-modelo-chines-sentido-critico-precisase-2188278"
         },
         {
-            "title": "Em operação internacional, seis são presos no Brasil e na Alemanha por tráfico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/publico-brasil/noticia/operacao-internacional-seis-sao-presos-brasil-alemanha-trafico-2188449"
+            "title": "Cuidados domiciliários no SNS, uma reforma desenhada no vácuo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/opiniao/opiniao/cuidados-domiciliarios-sns-reforma-desenhada-vacuo-2188283"
         },
         {
-            "title": "Luís Neves felicitou detenção de homem que já não é suspeito de ter baleado turista",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/sociedade/noticia/luis-neves-felicitou-detencao-homem-ja-nao-suspeito-baleado-turista-2188444"
+            "title": "O padrão Fernando Alexandre: passar culpas e alijar responsabilidades",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/opiniao/opiniao/padrao-fernando-alexandre-passar-culpas-alijar-responsabilidades-2188438"
         },
         {
-            "title": "Governo renova apoio aos transportes que já tinha acabado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/economia/noticia/governo-renova-apoio-transportes-ja-acabado-2188447"
+            "title": "BE considera apoios do Governo “migalhas devoradas pelo custo de vida”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/politica/noticia/be-considera-apoios-governo-migalhas-devoradas-custo-vida-2188456"
         }
     ],
     "finance": [],
-    "last_update": "17/09/2026 20:42"
+    "last_update": "17/09/2026 23:13"
 }
