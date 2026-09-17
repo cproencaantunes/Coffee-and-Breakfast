@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.4,
-        "manha": 21.5,
-        "tarde": 27.9,
-        "noite": 20.5
+        "manha": 21.0,
+        "tarde": 27.8,
+        "noite": 20.2
     },
     "forecast": {
-        "max": 28.1,
-        "min": 18.6
+        "max": 28.2,
+        "min": 18.2
     },
     "news": [
         {
-            "title": "A função pública dos malandros do costume",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/opiniao/opiniao/funcao-publica-malandros-costume-2188289"
+            "title": "<em>Truly Naked</em>, <em>Só Uma Ilusão</em> e outras estreias para esta semana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/culturaipsilon/noticia/truly-naked-so-ilusao-estreias-semana-2187728"
         },
         {
-            "title": "IA e a tecno-(in)cultura de primeira espécie",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/opiniao/opiniao/ia-tecnoincultura-primeira-especie-2188310"
+            "title": "Chuvas torrenciais na Catalunha fazem um morto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/mundo/noticia/chuvas-torrenciais-catalunha-fazem-morto-2188331"
         },
         {
-            "title": "Vítimas de Epstein exigem milhões de dólares do seu espólio por pornografia infantil",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/mundo/noticia/vitimas-epstein-exigem-milhoes-dolares-espolio-pornografia-infantil-2188325"
+            "title": "<em>Feito Pipa</em> é selecionado como representante oficial do Brasil no Oscar de 2027",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/publico-brasil/noticia/pipa-selecionado-representante-oficial-brasil-oscar-2027-2188322"
         },
         {
-            "title": "Evaristo, Gervásio, os amigos deles e as divagações del(I)a",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/culturaipsilon/opiniao/evaristo-gervasio-amigos-divagacoes-delia-2187983"
+            "title": "Acordo UE-Mercosul: “Nenhum acordo comercial exporta por nós”, diz ministro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/publico-brasil/noticia/acordo-uemercosul-acordo-comercial-exporta-ministro-2188308"
         },
         {
-            "title": "Estado da União: os pontos críticos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/europa/opiniao/estado-uniao-pontos-criticos-2188290"
+            "title": "“Pastor devia ser uma profissão pública”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/azul/noticia/pastor-profissao-publica-2187823"
         }
     ],
     "finance": [],
-    "last_update": "17/09/2026 02:17"
+    "last_update": "17/09/2026 08:07"
 }
