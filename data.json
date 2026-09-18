@@ -2,35 +2,35 @@
     "weather": {
         "atual": 18.5,
         "manha": 19.0,
-        "tarde": 28.1,
-        "noite": 22.2
+        "tarde": 28.0,
+        "noite": 22.0
     },
     "forecast": {
         "max": 30.8,
-        "min": 18.2
+        "min": 17.9
     },
     "news": [
         {
-            "title": "Ao cosmos e mais além: sete passeios para dar asas à magia em família",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/impar/noticia/cosmos-alem-sete-passeios-dar-asas-magia-familia-2188497"
+            "title": "A improvável história dos Glockenwise: para sempre, uma banda de Barcelos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/newsletter/ipsilon"
         },
         {
-            "title": "A desigualdade de género também se serve à mesa: mulheres cozinham mais, homens passam mais tempo a comer",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/sociedade/noticia/desigualdade-genero-tambem-serve-mesa-mulheres-cozinham-homens-passam-tempo-comer-2188273"
+            "title": "Lamine Yamal: “Já senti racismo umas mil vezes”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/desporto/noticia/lamine-yamal-ja-senti-racismo-mil-vezes-2188573"
         },
         {
-            "title": "Samsung Galaxy S26 FE é quase topo de gama a um preço quase acessível",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/enter/critica/samsung-galaxy-s26-fe-quase-topo-gama-preco-quase-acessivel-2188478"
+            "title": "CPI a Luís Neves: PS não explica porque chumba. E o Chega recua?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/politica/noticia/cpi-luis-neves-ps-nao-explica-chumba-chega-recua-2188566"
         },
         {
-            "title": "Sem escolas: o impacto da falta de vagas nas famílias imigrantes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/publico-brasil/opiniao/escolas-impacto-falta-vagas-familias-imigrantes-2188501"
+            "title": "“Crescimento de aeroportos e compromissos climáticos de um país são incompatíveis”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/azul/entrevista/crescimento-aeroportos-compromissos-climaticos-pais-sao-incompativeis-2188539"
         },
         {
-            "title": "Gasóleo sobe 6,5 cêntimos e gasolina cinco cêntimos, já com desconto do ISP",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/economia/noticia/gasoleo-sobe-65-centimos-gasolina-cinco-centimos-ja-desconto-isp-2188496"
+            "title": "Para alguns patrões, “ vinagre no rabo dos trabalhadores é Barca Velha”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/fugas/noticia/patroes-vinagre-rabo-trabalhadores-barca-velha-2188023"
         }
     ],
     "finance": [],
-    "last_update": "18/09/2026 12:29"
+    "last_update": "18/09/2026 16:47"
 }
