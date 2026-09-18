@@ -1,8 +1,8 @@
 {
     "weather": {
-        "atual": 18.6,
+        "atual": 18.5,
         "manha": 19.1,
-        "tarde": 28.3,
+        "tarde": 28.2,
         "noite": 22.5
     },
     "forecast": {
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "A ciência que se faz quando convém",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/opiniao/opiniao/ciencia-faz-convem-2188272"
+            "title": "Montenegro culpa Trump e não faz mais do que já tinha prometido",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/politica/noticia/montenegro-culpa-trump-nao-faz-ja-prometido-2188462"
         },
         {
-            "title": "A OCDE, o PISA e o “modelo chinês”. Mais sentido crítico, precisa-se",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/opiniao/opiniao/ocde-pisa-modelo-chines-sentido-critico-precisase-2188278"
+            "title": "Filhos de centenários vivem mais tempo e com menos doenças, revela novo estudo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/ciencia/noticia/filhos-centenarios-vivem-tempo-menos-doencas-revela-novo-estudo-2188454"
         },
         {
-            "title": "Cuidados domiciliários no SNS, uma reforma desenhada no vácuo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/opiniao/opiniao/cuidados-domiciliarios-sns-reforma-desenhada-vacuo-2188283"
+            "title": "As mamas são dela",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/opiniao/opiniao/mamas-sao-2188435"
         },
         {
-            "title": "O padrão Fernando Alexandre: passar culpas e alijar responsabilidades",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/opiniao/opiniao/padrao-fernando-alexandre-passar-culpas-alijar-responsabilidades-2188438"
+            "title": "O caso Seinfeld não é (só) para rir",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/opiniao/opiniao/caso-seinfeld-nao-so-rir-2188357"
         },
         {
-            "title": "BE considera apoios do Governo “migalhas devoradas pelo custo de vida”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/17/politica/noticia/be-considera-apoios-governo-migalhas-devoradas-custo-vida-2188456"
+            "title": "O problema não é o Volta. É a miséria que ele tornou visível",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/opiniao/opiniao/problema-nao-volta-miseria-tornou-visivel-2188372"
         }
     ],
     "finance": [],
-    "last_update": "17/09/2026 23:13"
+    "last_update": "18/09/2026 02:03"
 }
