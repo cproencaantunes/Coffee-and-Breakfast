@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.5,
-        "manha": 19.1,
-        "tarde": 28.2,
-        "noite": 22.5
+        "manha": 18.9,
+        "tarde": 28.0,
+        "noite": 22.6
     },
     "forecast": {
         "max": 31.0,
-        "min": 18.7
+        "min": 18.5
     },
     "news": [
         {
-            "title": "Montenegro culpa Trump e não faz mais do que já tinha prometido",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/politica/noticia/montenegro-culpa-trump-nao-faz-ja-prometido-2188462"
+            "title": "Coreia do Sul nega planos para enviar forças armadas para estreito de Ormuz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/mundo/noticia/coreia-sul-nega-planos-enviar-forcas-armadas-estreito-ormuz-2188464"
         },
         {
-            "title": "Filhos de centenários vivem mais tempo e com menos doenças, revela novo estudo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/ciencia/noticia/filhos-centenarios-vivem-tempo-menos-doencas-revela-novo-estudo-2188454"
+            "title": "Despertador: a síntese da actualidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/newsletter/despertador"
         },
         {
-            "title": "As mamas são dela",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/opiniao/opiniao/mamas-sao-2188435"
+            "title": "Austrália vai passar a prender turistas que ultrapassem prazo dos vistos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/mundo/noticia/australia-vai-passar-prender-turistas-ultrapassem-prazo-vistos-2188463"
         },
         {
-            "title": "O caso Seinfeld não é (só) para rir",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/opiniao/opiniao/caso-seinfeld-nao-so-rir-2188357"
+            "title": "Em cada esquina, uma catástrofe?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/culturaipsilon/cronica/esquina-catastrofe-2188040"
         },
         {
-            "title": "O problema não é o Volta. É a miséria que ele tornou visível",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/opiniao/opiniao/problema-nao-volta-miseria-tornou-visivel-2188372"
+            "title": "Escritora britânico-turca Elif Shafak vence Prémio Europeu Helena Vaz da Silva",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/culturaipsilon/noticia/escritora-britanicoturca-elif-shafak-vence-premio-europeu-helena-vaz-silva-2188363"
         }
     ],
     "finance": [],
-    "last_update": "18/09/2026 02:03"
+    "last_update": "18/09/2026 07:42"
 }
