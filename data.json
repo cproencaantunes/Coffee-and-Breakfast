@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.5,
-        "manha": 18.9,
-        "tarde": 28.0,
-        "noite": 22.6
+        "manha": 19.0,
+        "tarde": 28.1,
+        "noite": 22.2
     },
     "forecast": {
-        "max": 31.0,
-        "min": 18.5
+        "max": 30.8,
+        "min": 18.2
     },
     "news": [
         {
-            "title": "Coreia do Sul nega planos para enviar forças armadas para estreito de Ormuz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/mundo/noticia/coreia-sul-nega-planos-enviar-forcas-armadas-estreito-ormuz-2188464"
+            "title": "Ao cosmos e mais além: sete passeios para dar asas à magia em família",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/impar/noticia/cosmos-alem-sete-passeios-dar-asas-magia-familia-2188497"
         },
         {
-            "title": "Despertador: a síntese da actualidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/newsletter/despertador"
+            "title": "A desigualdade de género também se serve à mesa: mulheres cozinham mais, homens passam mais tempo a comer",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/sociedade/noticia/desigualdade-genero-tambem-serve-mesa-mulheres-cozinham-homens-passam-tempo-comer-2188273"
         },
         {
-            "title": "Austrália vai passar a prender turistas que ultrapassem prazo dos vistos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/mundo/noticia/australia-vai-passar-prender-turistas-ultrapassem-prazo-vistos-2188463"
+            "title": "Samsung Galaxy S26 FE é quase topo de gama a um preço quase acessível",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/enter/critica/samsung-galaxy-s26-fe-quase-topo-gama-preco-quase-acessivel-2188478"
         },
         {
-            "title": "Em cada esquina, uma catástrofe?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/culturaipsilon/cronica/esquina-catastrofe-2188040"
+            "title": "Sem escolas: o impacto da falta de vagas nas famílias imigrantes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/publico-brasil/opiniao/escolas-impacto-falta-vagas-familias-imigrantes-2188501"
         },
         {
-            "title": "Escritora britânico-turca Elif Shafak vence Prémio Europeu Helena Vaz da Silva",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/culturaipsilon/noticia/escritora-britanicoturca-elif-shafak-vence-premio-europeu-helena-vaz-silva-2188363"
+            "title": "Gasóleo sobe 6,5 cêntimos e gasolina cinco cêntimos, já com desconto do ISP",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/18/economia/noticia/gasoleo-sobe-65-centimos-gasolina-cinco-centimos-ja-desconto-isp-2188496"
         }
     ],
     "finance": [],
-    "last_update": "18/09/2026 07:42"
+    "last_update": "18/09/2026 12:29"
 }
