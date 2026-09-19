@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.8,
-        "manha": 19.4,
-        "tarde": 31.0,
+        "atual": 21.2,
+        "manha": 19.9,
+        "tarde": 30.6,
         "noite": 26.1
     },
     "forecast": {
-        "max": 32.0,
-        "min": 21.7
+        "max": 31.6,
+        "min": 21.3
     },
     "news": [
         {
-            "title": "Coesão, regiões ultraperiféricas e competitividade: as prioridades do Governo para negociar orçamento da UE",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/economia/noticia/coesao-regioes-ultraperifericas-competitividade-prioridades-governo-negociar-orcamento-ue-2188541"
+            "title": "Fernanda Martinho, assadora de frangos em Matosinhos: “É como os cozinheiros: cada um tem a sua mão”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/fugas/noticia/fernanda-martinho-assadora-frangos-matosinhos-cozinheiros-mao-2186323"
         },
         {
-            "title": "O que Moedas ainda pode fazer pelo lixo em Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/opiniao/editorial/moedas-lixo-lisboa-2188505"
+            "title": "Exército dos EUA quase interceptou navio chinês devido a relatório incorrecto produzido com IA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/mundo/noticia/exercito-eua-quase-interceptou-navio-chines-devido-relatorio-incorrecto-produzido-ia-2188613"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/opiniao/opiniao/cartas-director-2188577"
+            "title": "O dancehall, uma “ópera de dança punk”, “fotografias órfãs”: eis o festival Circular",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/culturaipsilon/noticia/dancehall-opera-danca-punk-fotografias-orfas-eis-festival-circular-2188535"
         },
         {
-            "title": "Os infortúnios da educação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/opiniao/opiniao/infortunios-educacao-2188593"
+            "title": "A importância (e a magia) das bibliotecas itinerantes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/impar/noticia/importancia-magia-bibliotecas-itinerantes-2188457"
         },
         {
-            "title": "Não, nem tudo é fado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/opiniao/opiniao/nao-fado-2188518"
+            "title": "Casa do Frango: no Parque das Nações, um elogio ao que é nacional",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/fugas/noticia/casa-frango-parque-nacoes-elogio-nacional-2187569"
         }
     ],
     "finance": [],
-    "last_update": "19/09/2026 05:15"
+    "last_update": "19/09/2026 09:53"
 }
