@@ -1,9 +1,9 @@
 {
     "weather": {
-        "atual": 21.2,
-        "manha": 19.3,
-        "tarde": 31.1,
-        "noite": 25.8
+        "atual": 20.8,
+        "manha": 19.4,
+        "tarde": 31.0,
+        "noite": 26.1
     },
     "forecast": {
         "max": 32.0,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
+            "title": "Coesão, regiões ultraperiféricas e competitividade: as prioridades do Governo para negociar orçamento da UE",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/economia/noticia/coesao-regioes-ultraperifericas-competitividade-prioridades-governo-negociar-orcamento-ue-2188541"
+        },
+        {
+            "title": "O que Moedas ainda pode fazer pelo lixo em Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/opiniao/editorial/moedas-lixo-lisboa-2188505"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/opiniao/opiniao/cartas-director-2188577"
+        },
+        {
             "title": "Os infortúnios da educação",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/opiniao/opiniao/infortunios-educacao-2188593"
         },
         {
             "title": "Não, nem tudo é fado",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/opiniao/opiniao/nao-fado-2188518"
-        },
-        {
-            "title": "O ar do tempo em Portugal (2)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/opiniao/opiniao/ar-tempo-portugal-2-2188599"
-        },
-        {
-            "title": "Discordar sem sair da mesa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/opiniao/opiniao/discordar-sair-mesa-2188360"
-        },
-        {
-            "title": "Queremos acabar com todos os espaços de respiração?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/opiniao/opiniao/queremos-acabar-espacos-respiracao-2188508"
         }
     ],
     "finance": [],
-    "last_update": "19/09/2026 00:45"
+    "last_update": "19/09/2026 05:15"
 }
