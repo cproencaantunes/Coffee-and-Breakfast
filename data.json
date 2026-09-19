@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 21.2,
-        "manha": 19.9,
-        "tarde": 30.5,
-        "noite": 26.0
+        "atual": 25.2,
+        "manha": 21.5,
+        "tarde": 31.1,
+        "noite": 26.7
     },
     "forecast": {
-        "max": 31.9,
-        "min": 21.0
+        "max": 32.8,
+        "min": 20.2
     },
     "news": [
         {
-            "title": "Um caminhante perdeu-se numa ilha desabitada dos EUA e foi salvo por dois praticantes de caiaque",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/impar/noticia/caminhante-perdeuse-ilha-desabitada-eua-salvo-dois-praticantes-caiaque-2188665"
+            "title": "E se Putin quiser testar o artigo 5.º da Aliança?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/mundo/analise/putin-quiser-testar-artigo-5-alianca-2188654"
         },
         {
-            "title": "Alfândega da Fé saiu oficialmente do excesso de endividamento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/local/noticia/alfandega-fe-saiu-oficialmente-excesso-endividamento-2188677"
+            "title": "PISA 2025: estaremos a fazer as perguntas certas?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/opiniao/opiniao/pisa-2025-estaremos-perguntas-certas-2188001"
         },
         {
-            "title": "Sporting empata com o Arouca e o fantasma da crise instala-se",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/desporto/cronica_de_jogo/sporting-empata-arouca-fantasma-crise-instalase-2188676"
+            "title": "Contra a amnésia, a memória como condição de um futuro democrático",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/opiniao/opiniao/amnesia-memoria-condicao-futuro-democratico-2188679"
         },
         {
-            "title": "Mota Pinto e Centeno criticam ausência de propostas reformistas do Governo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/politica/noticia/mota-pinto-centeno-criticam-ausencia-propostas-reformistas-governo-2188673"
+            "title": "Clínicas recusaram acesso, mas ERS avisa que informação clínica pertence ao utente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/sociedade/noticia/clinicas-recusaram-acesso-ers-avisa-informacao-clinica-pertence-utente-2188075"
         },
         {
-            "title": "CDS quer facilitar professores no privado e anuncia grupo para rever a Constituição",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/politica/noticia/cds-quer-facilitar-professores-privado-anuncia-grupo-rever-constituicao-2188675"
+            "title": "Rússia denuncia “grande ciberataque” ao seu sistema de votação electrónica",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/mundo/noticia/russia-denuncia-ciberataque-sistema-votacao-electronica-2188680"
         }
     ],
     "finance": [],
-    "last_update": "19/09/2026 21:54"
+    "last_update": "19/09/2026 23:45"
 }
