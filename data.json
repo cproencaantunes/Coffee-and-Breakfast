@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.2,
         "manha": 19.9,
-        "tarde": 30.9,
-        "noite": 26.1
+        "tarde": 30.5,
+        "noite": 25.9
     },
     "forecast": {
-        "max": 31.6,
-        "min": 21.2
+        "max": 32.0,
+        "min": 20.9
     },
     "news": [
         {
-            "title": "Nem “voluntarista nem “pai da austeridade”: a promessa de Luís Montenegro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/politica/noticia/voluntarista-pai-austeridade-promessa-luis-montenegro-2188638"
+            "title": "Iniciativa Liberal exige esforço do Estado para reduzir preço dos combustíveis em 30 cêntimos por litro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/politica/noticia/iniciativa-liberal-exige-esforco-estado-reduzir-preco-combustiveis-30-centimos-litro-2188643"
         },
         {
-            "title": "Brasil será o grande teste para o uso de inteligência artificial em eleições no mundo, diz executivo da OpenAI",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/mundo/entrevista/brasil-sera-teste-uso-inteligencia-artificial-eleicoes-mundo-executivo-openai-2188634"
+            "title": "Seis meses de urgência regional de obstetrícia: Loures realizou quase 1500 partos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/sociedade/noticia/seis-meses-urgencia-regional-obstetricia-loures-realizou-quase-1500-partos-2188575"
         },
         {
-            "title": "Trump diz que filho vai “reembolsar” oligarca russo que lhe pagou festas de casamento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/mundo/noticia/trump-filho-vai-reembolsar-oligarca-russo-pagou-festas-casamento-2188630"
+            "title": "Manifestação no Porto contra preço dos combustíveis pede medidas ao Governo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/economia/noticia/manifestacao-porto-preco-combustiveis-pede-medidas-governo-2188662"
         },
         {
-            "title": "Imigrantes podem tirar dúvidas sobre a AIMA na Casa do Brasil em Coimbra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/publico-brasil/noticia/evento-gratuito-advogada-brasileira-tira-duvidas-aima-portugal-2188625"
+            "title": "Mondlane entrega a Paulo Rangel <em>dossier </em>sobre violação de direitos humanos em Moçambique",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/mundo/noticia/mondlane-entrega-paulo-rangel-dossier-violacao-direitos-humanos-mocambique-2188661"
         },
         {
-            "title": "Chega mantém intervalo temporal da CPI a Luís Neves mas especifica mais o objecto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/politica/noticia/chega-mantem-intervalo-temporal-cpi-luis-neves-especifica-objecto-2188631"
+            "title": "Bases norte-americanas no Médio Oriente sofreram danos graves em ataques iranianos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/19/mundo/noticia/bases-norteamericanas-medio-oriente-sofreram-danos-graves-ataques-iranianos-2188653"
         }
     ],
     "finance": [],
-    "last_update": "19/09/2026 13:33"
+    "last_update": "19/09/2026 16:52"
 }
