@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 25.0,
-        "manha": 21.5,
-        "tarde": 31.3,
-        "noite": 26.8
+        "manha": 21.6,
+        "tarde": 31.5,
+        "noite": 27.0
     },
     "forecast": {
-        "max": 33.0,
-        "min": 19.8
+        "max": 32.7,
+        "min": 19.7
     },
     "news": [
         {
-            "title": "Cem anos depois, é urgente voltar à poesia instintiva e fundadora de Noémia de Sousa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/culturaipsilon/reportagem/cem-anos-urgente-voltar-poesia-instintiva-fundadora-noemia-sousa-2188605"
+            "title": "Trump e os filhos investem fortemente na IA enquanto o Presidente dos EUA se recusa a limitar o desenvolvimento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/mundo/noticia/trump-filhos-investem-fortemente-ia-presidente-eua-recusa-limitar-desenvolvimento-2188698"
         },
         {
-            "title": "Ataque dos EUA contra embarcação nas Caraíbas faz quatro mortos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/mundo/noticia/ataque-eua-embarcacao-caraibas-faz-quatro-mortos-2188689"
+            "title": "Assassinada a tiro uma jornalista e candidata a governadora no Peru",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/mundo/noticia/assassinam-tiro-jornalista-candidata-governadora-peru-2188695"
         },
         {
-            "title": "Palcos da semana: do Líbano, com Miolo e muito que pensar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/culturaipsilon/noticia/palcos-semana-libano-miolo-pensar-2188533"
+            "title": "Cadáver de homem encontrado a flutuar em praia do Funchal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/sociedade/noticia/cadaver-homem-encontrado-flutuar-praia-funchal-2188696"
         },
         {
-            "title": "O Volta não vai acabar. Como a Europa lidou com os desafios do depósito e reembolso?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/azul/noticia/volta-nao-vai-acabar-europa-lidou-problemas-deposito-reembolso-2188586"
+            "title": "Miranda Sarmento: descida do IVA nos combustíveis e alimentação levaria país a défice",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/economia/noticia/miranda-sarmento-descida-iva-combustiveis-alimentacao-levaria-pais-defice-2188694"
         },
         {
-            "title": "Pedro Cavalheiro (1961-2026), pincel e tinta sempre à mão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/culturaipsilon/noticia/pedro-cavalheiro-19612026-pincel-tinta-mao-2188601"
+            "title": "Após polémica, Ed Sheeran fala sobre Gaza em concerto: “Uma catástrofe injustificável e desproporcional”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/culturaipsilon/noticia/apos-polemica-ed-sheeran-fala-gaza-concerto-catastrofe-injustificavel-desproporcional-2188692"
         }
     ],
     "finance": [],
-    "last_update": "20/09/2026 08:00"
+    "last_update": "20/09/2026 13:17"
 }
