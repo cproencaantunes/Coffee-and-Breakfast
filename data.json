@@ -3,34 +3,34 @@
         "atual": 25.0,
         "manha": 21.6,
         "tarde": 31.4,
-        "noite": 27.2
+        "noite": 27.1
     },
     "forecast": {
-        "max": 32.5,
-        "min": 20.0
+        "max": 32.4,
+        "min": 19.6
     },
     "news": [
         {
-            "title": "A vida generosa e não apenas cruel",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/p3/cronica/vida-generosa-nao-apenas-cruel-2188564"
+            "title": "Da defesa à energia, França e Canadá saúdam reforço de laços bilaterais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/mundo/noticia/defesa-energia-franca-canada-saudam-reforco-lacos-bilaterais-2188728"
         },
         {
-            "title": "Resultados preliminares dão vitória ao Rússia Unida de Putin nas legislativas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/mundo/noticia/resultados-preliminares-dao-vitoria-russia-unida-putin-legislativas-2188730"
+            "title": "Boa arbitragem no Dragão, sem erros relevantes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/desporto/analise/boa-arbitragem-dragao-erros-relevantes-2188733"
         },
         {
-            "title": "Centeno propôs a Costa deixar pasta das Finanças para reformar gestão da Saúde",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/politica/noticia/centeno-propos-costa-deixar-pasta-financas-reformar-gestao-saude-2188729"
+            "title": "FC Porto, Benfica e duas improbabilidades que decidiram o clássico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/desporto/cronica_de_jogo/fc-porto-benfica-duas-improbabilidades-decidiram-classico-2188731"
         },
         {
-            "title": "Cientistas criam o primeiro mapa integrado do sistema da histamina no cérebro humano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/ciencia/noticia/cientistas-criam-mapa-integrado-sistema-histamina-cerebro-humano-2188502"
+            "title": "Au Kam San “dedicou a vida a lutar pela democracia” em Macau e agora arrisca 25 anos de prisão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/mundo/noticia/au-kam-san-dedicou-vida-lutar-democracia-macau-arrisca-25-anos-prisao-2188725"
         },
         {
-            "title": "Paulo Raimundo critica Governo e defende fixação de preços nos combustíveis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/politica/noticia/paulo-raimundo-critica-governo-defende-fixacao-precos-combustiveis-2188726"
+            "title": "Os novos extremos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/opiniao/editorial/novos-extremos-2188732"
         }
     ],
     "finance": [],
-    "last_update": "20/09/2026 19:56"
+    "last_update": "20/09/2026 22:04"
 }
