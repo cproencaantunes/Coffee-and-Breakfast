@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 25.0,
-        "manha": 21.2,
-        "tarde": 31.0,
-        "noite": 26.5
+        "manha": 21.5,
+        "tarde": 31.3,
+        "noite": 26.8
     },
     "forecast": {
-        "max": 32.8,
-        "min": 20.2
+        "max": 33.0,
+        "min": 19.8
     },
     "news": [
         {
-            "title": "E se Putin quiser testar o artigo 5.º da Aliança?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/mundo/analise/putin-quiser-testar-artigo-5-alianca-2188654"
+            "title": "Cem anos depois, é urgente voltar à poesia instintiva e fundadora de Noémia de Sousa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/culturaipsilon/reportagem/cem-anos-urgente-voltar-poesia-instintiva-fundadora-noemia-sousa-2188605"
         },
         {
-            "title": "PISA 2025: estaremos a fazer as perguntas certas?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/opiniao/opiniao/pisa-2025-estaremos-perguntas-certas-2188001"
+            "title": "Ataque dos EUA contra embarcação nas Caraíbas faz quatro mortos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/mundo/noticia/ataque-eua-embarcacao-caraibas-faz-quatro-mortos-2188689"
         },
         {
-            "title": "Contra a amnésia, a memória como condição de um futuro democrático",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/opiniao/opiniao/amnesia-memoria-condicao-futuro-democratico-2188679"
+            "title": "Palcos da semana: do Líbano, com Miolo e muito que pensar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/culturaipsilon/noticia/palcos-semana-libano-miolo-pensar-2188533"
         },
         {
-            "title": "Clínicas recusaram acesso, mas ERS avisa que informação clínica pertence ao utente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/sociedade/noticia/clinicas-recusaram-acesso-ers-avisa-informacao-clinica-pertence-utente-2188075"
+            "title": "O Volta não vai acabar. Como a Europa lidou com os desafios do depósito e reembolso?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/azul/noticia/volta-nao-vai-acabar-europa-lidou-problemas-deposito-reembolso-2188586"
         },
         {
-            "title": "Rússia denuncia “grande ciberataque” ao seu sistema de votação electrónica",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/mundo/noticia/russia-denuncia-ciberataque-sistema-votacao-electronica-2188680"
+            "title": "Pedro Cavalheiro (1961-2026), pincel e tinta sempre à mão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/culturaipsilon/noticia/pedro-cavalheiro-19612026-pincel-tinta-mao-2188601"
         }
     ],
     "finance": [],
-    "last_update": "20/09/2026 02:13"
+    "last_update": "20/09/2026 08:00"
 }
