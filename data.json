@@ -3,34 +3,34 @@
         "atual": 25.0,
         "manha": 21.6,
         "tarde": 31.4,
-        "noite": 27.0
+        "noite": 27.2
     },
     "forecast": {
-        "max": 32.3,
-        "min": 19.9
+        "max": 32.5,
+        "min": 20.0
     },
     "news": [
         {
-            "title": "Mourinho perde <em>derby </em>de Madrid às mãos do clã Simeone",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/desporto/noticia/mourinho-perde-derby-madrid-maos-cla-simeone-2188717"
+            "title": "A vida generosa e não apenas cruel",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/p3/cronica/vida-generosa-nao-apenas-cruel-2188564"
         },
         {
-            "title": "O que fazer? Segunda é dia de <em>Vozes da Floresta</em> e Encontros da Imagem",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/fugas/noticia/segunda-dia-vozes-floresta-encontros-imagem-2188529"
+            "title": "Resultados preliminares dão vitória ao Rússia Unida de Putin nas legislativas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/mundo/noticia/resultados-preliminares-dao-vitoria-russia-unida-putin-legislativas-2188730"
         },
         {
-            "title": "Ameaçou matar namorada e pai dela à frente da polícia, mas juiz deixou-o em liberdade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/sociedade/noticia/ameacou-matar-namorada-pai-frente-policia-juiz-deixouo-liberdade-2188707"
+            "title": "Centeno propôs a Costa deixar pasta das Finanças para reformar gestão da Saúde",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/politica/noticia/centeno-propos-costa-deixar-pasta-financas-reformar-gestao-saude-2188729"
         },
         {
-            "title": "Incêndios em Coimbra mobilizam mais de 800 operacionais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/sociedade/noticia/incendios-coimbra-mobilizam-700-operacionais-12-aeronaves-2188713"
+            "title": "Cientistas criam o primeiro mapa integrado do sistema da histamina no cérebro humano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/ciencia/noticia/cientistas-criam-mapa-integrado-sistema-histamina-cerebro-humano-2188502"
         },
         {
-            "title": "A Faia Brava protege o território há 26 anos e quer mais do que sobreviver",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/azul/noticia/faia-brava-protege-territorio-ha-26-anos-quer-sobreviver-2188128"
+            "title": "Paulo Raimundo critica Governo e defende fixação de preços nos combustíveis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/politica/noticia/paulo-raimundo-critica-governo-defende-fixacao-precos-combustiveis-2188726"
         }
     ],
     "finance": [],
-    "last_update": "20/09/2026 17:05"
+    "last_update": "20/09/2026 19:56"
 }
