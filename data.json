@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 25.0,
-        "manha": 21.6,
-        "tarde": 31.4,
-        "noite": 27.1
+        "atual": 24.1,
+        "manha": 20.8,
+        "tarde": 30.9,
+        "noite": 25.7
     },
     "forecast": {
-        "max": 32.4,
-        "min": 19.6
+        "max": 30.5,
+        "min": 21.1
     },
     "news": [
         {
-            "title": "Da defesa à energia, França e Canadá saúdam reforço de laços bilaterais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/mundo/noticia/defesa-energia-franca-canada-saudam-reforco-lacos-bilaterais-2188728"
+            "title": "Onde estão, afinal, os “alunos de Crato”?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/opiniao/opiniao/onde-estao-afinal-alunos-crato-2188635"
         },
         {
-            "title": "Boa arbitragem no Dragão, sem erros relevantes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/desporto/analise/boa-arbitragem-dragao-erros-relevantes-2188733"
+            "title": "Quando os governantes querem ser diretores-gerais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/opiniao/opiniao/governantes-querem-diretoresgerais-2188265"
         },
         {
-            "title": "FC Porto, Benfica e duas improbabilidades que decidiram o clássico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/desporto/cronica_de_jogo/fc-porto-benfica-duas-improbabilidades-decidiram-classico-2188731"
+            "title": "O segredo é a alma da fusão? E se corre mal?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/opiniao/opiniao/segredo-alma-fusao-corre-mal-2188256"
         },
         {
-            "title": "Au Kam San “dedicou a vida a lutar pela democracia” em Macau e agora arrisca 25 anos de prisão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/mundo/noticia/au-kam-san-dedicou-vida-lutar-democracia-macau-arrisca-25-anos-prisao-2188725"
+            "title": "Eu gostava de perceber",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/opiniao/opiniao/gostava-perceber-2188252"
         },
         {
-            "title": "Os novos extremos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/20/opiniao/editorial/novos-extremos-2188732"
+            "title": "As ameaças às áreas protegidas e o texto que receava escrever",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/opiniao/opiniao/ameacas-areas-protegidas-texto-receava-escrever-2188633"
         }
     ],
     "finance": [],
-    "last_update": "20/09/2026 22:04"
+    "last_update": "21/09/2026 00:37"
 }
