@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 24.1,
-        "manha": 20.8,
+        "manha": 21.0,
         "tarde": 30.9,
         "noite": 25.7
     },
     "forecast": {
-        "max": 30.5,
-        "min": 21.1
+        "max": 30.8,
+        "min": 20.7
     },
     "news": [
         {
-            "title": "Onde estão, afinal, os “alunos de Crato”?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/opiniao/opiniao/onde-estao-afinal-alunos-crato-2188635"
+            "title": "Santos Silva sobre Luís Neves: “Não devemos contribuir ingenuamente para uma operação política de liquidar a PJ”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/politica/entrevista/santos-silva-luis-neves-nao-devemos-contribuir-ingenuamente-operacao-politica-liquidar-pj-2188640"
         },
         {
-            "title": "Quando os governantes querem ser diretores-gerais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/opiniao/opiniao/governantes-querem-diretoresgerais-2188265"
+            "title": "Administrador judicial incluiu empresa do filho em 70 processos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/sociedade/noticia/administrador-judicial-incluiu-empresa-filho-70-processos-2188697"
         },
         {
-            "title": "O segredo é a alma da fusão? E se corre mal?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/opiniao/opiniao/segredo-alma-fusao-corre-mal-2188256"
+            "title": "Salário dos professores na UE é importante, mas não chega para atrair e reter docentes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/sociedade/noticia/salario-professores-ue-importante-nao-chega-atrair-reter-docentes-2188371"
         },
         {
-            "title": "Eu gostava de perceber",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/opiniao/opiniao/gostava-perceber-2188252"
+            "title": "Secretas mantêm “extremismos violentos” como ameaça e estudam recurso à IA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/politica/noticia/secretas-mantem-extremismos-violentos-ameaca-estudam-recurso-ia-2188715"
         },
         {
-            "title": "As ameaças às áreas protegidas e o texto que receava escrever",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/opiniao/opiniao/ameacas-areas-protegidas-texto-receava-escrever-2188633"
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/opiniao/opiniao/cartas-director-2188708"
         }
     ],
     "finance": [],
-    "last_update": "21/09/2026 00:37"
+    "last_update": "21/09/2026 05:37"
 }
