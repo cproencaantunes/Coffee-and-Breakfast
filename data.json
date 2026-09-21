@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 24.1,
-        "manha": 21.0,
-        "tarde": 30.9,
-        "noite": 25.7
+        "manha": 20.9,
+        "tarde": 30.8,
+        "noite": 26.1
     },
     "forecast": {
-        "max": 30.8,
-        "min": 20.7
+        "max": 31.1,
+        "min": 21.2
     },
     "news": [
         {
-            "title": "Santos Silva sobre Luís Neves: “Não devemos contribuir ingenuamente para uma operação política de liquidar a PJ”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/politica/entrevista/santos-silva-luis-neves-nao-devemos-contribuir-ingenuamente-operacao-politica-liquidar-pj-2188640"
+            "title": "PGR pede que escrutínio parlamentar de entidades contra a corrupção não seja mero policiamento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/politica/noticia/pgr-pede-escrutinio-parlamentar-entidades-corrupcao-nao-mero-policiamento-2188767"
         },
         {
-            "title": "Administrador judicial incluiu empresa do filho em 70 processos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/sociedade/noticia/administrador-judicial-incluiu-empresa-filho-70-processos-2188697"
+            "title": "Quase 23 mil jovens disputam vagas na 2.ª fase do superior. Candidaturas disparam 33% face ao ano passado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/sociedade/noticia/quase-23-mil-jovens-disputam-vagas-2-fase-superior-candidaturas-disparam-33-face-ano-passado-2188764"
         },
         {
-            "title": "Salário dos professores na UE é importante, mas não chega para atrair e reter docentes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/sociedade/noticia/salario-professores-ue-importante-nao-chega-atrair-reter-docentes-2188371"
+            "title": "Do Imax ao Ateneu: a viagem turbulenta do cinema em Vila Franca de Xira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/local/noticia/imax-ateneu-viagem-turbulenta-cinema-vila-franca-xira-2186659"
         },
         {
-            "title": "Secretas mantêm “extremismos violentos” como ameaça e estudam recurso à IA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/politica/noticia/secretas-mantem-extremismos-violentos-ameaca-estudam-recurso-ia-2188715"
+            "title": "Animais na Protecção Civil: da lei à realidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/p3/cronica/animais-proteccao-civil-lei-realidade-2188758"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/opiniao/opiniao/cartas-director-2188708"
+            "title": "Ex-marido de Lindsay Clancy sobre a morte dos três filhos: “Fiz o melhor que pude”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/impar/noticia/exmarido-lindsay-clancy-morte-tres-filhos-fiz-melhor-2188760"
         }
     ],
     "finance": [],
-    "last_update": "21/09/2026 05:37"
+    "last_update": "21/09/2026 11:22"
 }
