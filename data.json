@@ -2,35 +2,35 @@
     "weather": {
         "atual": 24.1,
         "manha": 20.9,
-        "tarde": 30.8,
-        "noite": 26.1
+        "tarde": 31.1,
+        "noite": 26.3
     },
     "forecast": {
-        "max": 31.1,
-        "min": 21.2
+        "max": 30.8,
+        "min": 21.4
     },
     "news": [
         {
-            "title": "PGR pede que escrutínio parlamentar de entidades contra a corrupção não seja mero policiamento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/politica/noticia/pgr-pede-escrutinio-parlamentar-entidades-corrupcao-nao-mero-policiamento-2188767"
+            "title": "Associação convida cidadãos a “ocupar” Costa Cabral aos sábados até ao Natal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/local/noticia/associacao-convida-cidadaos-ocupar-costa-cabral-sabados-ate-natal-2188825"
         },
         {
-            "title": "Quase 23 mil jovens disputam vagas na 2.ª fase do superior. Candidaturas disparam 33% face ao ano passado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/sociedade/noticia/quase-23-mil-jovens-disputam-vagas-2-fase-superior-candidaturas-disparam-33-face-ano-passado-2188764"
+            "title": "Canárias — Madeira: depois de 47h de um mar sem tréguas, só se pensa em voltar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/fugas/reportagem/canarias-madeira-47h-mar-treguas-so-pensa-voltar-2187965"
         },
         {
-            "title": "Do Imax ao Ateneu: a viagem turbulenta do cinema em Vila Franca de Xira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/local/noticia/imax-ateneu-viagem-turbulenta-cinema-vila-franca-xira-2186659"
+            "title": "Google aposta em novos portáteis para ligar o Android ao computador",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/enter/noticia/google-aposta-novos-portateis-ligar-android-computador-2188812"
         },
         {
-            "title": "Animais na Protecção Civil: da lei à realidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/p3/cronica/animais-proteccao-civil-lei-realidade-2188758"
+            "title": "Mais de 500 táxis querem trabalhar também como TVDE",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/economia/noticia/500-taxis-querem-trabalhar-tambem-tvde-2188818"
         },
         {
-            "title": "Ex-marido de Lindsay Clancy sobre a morte dos três filhos: “Fiz o melhor que pude”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/impar/noticia/exmarido-lindsay-clancy-morte-tres-filhos-fiz-melhor-2188760"
+            "title": "PCP alerta que falta de professores vai piorar e pede “responsabilidades políticas” ao Governo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/21/politica/noticia/pcp-alerta-falta-professores-vai-piorar-pede-responsabilidades-politicas-governo-2188797"
         }
     ],
     "finance": [],
-    "last_update": "21/09/2026 11:22"
+    "last_update": "21/09/2026 17:21"
 }
