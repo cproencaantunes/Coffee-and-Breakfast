@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 25.1,
-        "manha": 21.8,
-        "tarde": 31.2,
-        "noite": 25.4
+        "manha": 21.4,
+        "tarde": 31.6,
+        "noite": 26.0
     },
     "forecast": {
-        "max": 32.7,
-        "min": 20.4
+        "max": 31.6,
+        "min": 20.9
     },
     "news": [
         {
-            "title": "Morreu Jorge Palma",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/culturaipsilon/noticia/morreu-jorge-palma-2188860"
+            "title": "André Villas-Boas: “Há uma santa aliança entre Benfica e Sporting que não posso aceitar”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/desporto/noticia/andre-villasboas-ha-santa-alianca-benfica-sporting-nao-aceitar-2188875"
         },
         {
-            "title": "<em>NAZA </em>é a realidade que Israel não consegue negar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/opiniao/opiniao/naza-realidade-israel-nao-consegue-negar-2188826"
+            "title": "Só a camada de ozono e poluição por aerossóis estão no limite de segurança do planeta.  Alguns danos já são irreparáveis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/azul/noticia/humanidade-ja-transgrediu-sete-nove-fronteiras-planetarias-2188820"
         },
         {
-            "title": "O futuro já não é o que era",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/opiniao/opiniao/futuro-ja-nao-2188702"
+            "title": "Vice-presidente do PSD Leonor Beleza defende que país precisa de “medidas difíceis”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/politica/noticia/vicepresidente-psd-leonor-beleza-defende-pais-precisa-medidas-dificeis-2188868"
         },
         {
-            "title": "De Pisa a Babel: a desgraçada torre de marfim da Educação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/opiniao/opiniao/pisa-babel-desgracada-torre-marfim-educacao-2188699"
+            "title": "UE e Filipinas anunciam acordo para a liberalização do comércio bilateral",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/economia/noticia/ue-filipinas-anunciam-acordo-liberalizacao-comercio-bilateral-2188878"
         },
         {
-            "title": "A ciência não diz que trinta é igual a vinte e quatro!",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/opiniao/opiniao/ciencia-nao-trinta-igual-vinte-quatro-2188738"
+            "title": "Jornalista do PÚBLICO distinguida em prémio europeu de jornalismo de ciência e saúde",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/ciencia/noticia/jornalista-publico-distinguida-premio-europeu-jornalismo-ciencia-saude-2188870"
         }
     ],
     "finance": [],
-    "last_update": "22/09/2026 00:21"
+    "last_update": "22/09/2026 10:32"
 }
