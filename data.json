@@ -2,35 +2,35 @@
     "weather": {
         "atual": 25.1,
         "manha": 21.4,
-        "tarde": 31.6,
-        "noite": 26.0
+        "tarde": 31.7,
+        "noite": 26.5
     },
     "forecast": {
-        "max": 31.6,
-        "min": 20.9
+        "max": 31.7,
+        "min": 20.7
     },
     "news": [
         {
-            "title": "André Villas-Boas: “Há uma santa aliança entre Benfica e Sporting que não posso aceitar”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/desporto/noticia/andre-villasboas-ha-santa-alianca-benfica-sporting-nao-aceitar-2188875"
+            "title": "Ministério da Saúde avança com urgências concentradas em ortopedia e traumatologia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/sociedade/noticia/ministerio-saude-avanca-urgencias-concentradas-ortopedia-traumatologia-2188930"
         },
         {
-            "title": "Só a camada de ozono e poluição por aerossóis estão no limite de segurança do planeta.  Alguns danos já são irreparáveis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/azul/noticia/humanidade-ja-transgrediu-sete-nove-fronteiras-planetarias-2188820"
+            "title": "Hayden Panettiere: revelada oficialmente causa da morte da actriz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/impar/noticia/hayden-panettiere-revelada-oficialmente-causa-morte-actriz-2188934"
         },
         {
-            "title": "Vice-presidente do PSD Leonor Beleza defende que país precisa de “medidas difíceis”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/politica/noticia/vicepresidente-psd-leonor-beleza-defende-pais-precisa-medidas-dificeis-2188868"
+            "title": "O que fazer? Quarta é dia de festa com luz e estômago para Política",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/fugas/noticia/quarta-dia-festa-luz-estomago-politica-2188935"
         },
         {
-            "title": "UE e Filipinas anunciam acordo para a liberalização do comércio bilateral",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/economia/noticia/ue-filipinas-anunciam-acordo-liberalizacao-comercio-bilateral-2188878"
+            "title": "Seguro elogia papel do Conselho da Europa no reforço da democracia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/politica/noticia/seguro-elogia-papel-conselho-europa-reforco-democracia-2188926"
         },
         {
-            "title": "Jornalista do PÚBLICO distinguida em prémio europeu de jornalismo de ciência e saúde",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/ciencia/noticia/jornalista-publico-distinguida-premio-europeu-jornalismo-ciencia-saude-2188870"
+            "title": "Granit Xhaka afastado da selecção suíça após falsificar certificado de vacinação da covid-19",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/desporto/noticia/granit-xhaka-afastado-seleccao-suica-apos-falsificar-certificado-vacinacao-covid19-2188923"
         }
     ],
     "finance": [],
-    "last_update": "22/09/2026 10:32"
+    "last_update": "22/09/2026 15:13"
 }
