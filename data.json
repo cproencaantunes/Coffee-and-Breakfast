@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 23.1,
-        "manha": 21.8,
-        "tarde": 33.5,
-        "noite": 25.7
+        "manha": 21.6,
+        "tarde": 33.1,
+        "noite": 25.9
     },
     "forecast": {
-        "max": 32.2,
-        "min": 19.9
+        "max": 32.5,
+        "min": 19.4
     },
     "news": [
         {
-            "title": "Fecharam mais de 750 camas de cuidados continuados em cinco anos, aponta associação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/sociedade/noticia/fecharam-750-camas-cuidados-continuados-cinco-anos-aponta-associacao-2188993"
+            "title": "Tânia Carvalho nomeada directora artística do BallettVorpommern, na Alemanha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/culturaipsilon/noticia/tania-carvalho-nomeada-directora-artistica-ballettvorpommern-alemanha-2189018"
         },
         {
-            "title": "Despertador: a síntese da actualidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/newsletter/despertador"
+            "title": "Prefiro o macaco Tião aos fascistas no Brasil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/publico-brasil/opiniao/prefiro-macaco-tiao-fascistas-brasil-2189017"
         },
         {
-            "title": "ACP recolheu 20 mil assinaturas de lisboetas para levar trotinetas a referendo municipal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/local/noticia/acp-recolheu-20-mil-assinaturas-lisboetas-levar-trotinetas-referendo-municipal-2188991"
+            "title": "Ministério Público faz buscas na PJ por suspeitas de escutas ilegais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/sociedade/noticia/ministerio-publico-faz-buscas-pj-apos-denuncia-director-causa-escutas-ilegais-2189015"
         },
         {
-            "title": "O mito fundador",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/publico-brasil/cronica/mito-fundador-2188981"
+            "title": "Quase 90% dos apátridas vivem nos países que mais sofrem com alterações climáticas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/azul/noticia/quase-90-apatridas-vivem-paises-sofrem-alteracoes-climaticas-2189005"
         },
         {
-            "title": "A angústia de Montenegro antes de falar ao país",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/opiniao/opiniao/angustia-montenegro-falar-pais-2188918"
+            "title": "Euribor acima de 3% agrava crédito à habitação a taxa variável",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/economia/noticia/euribor-acima-3-agrava-credito-habitacao-taxa-variavel-2189014"
         }
     ],
     "finance": [],
-    "last_update": "23/09/2026 06:55"
+    "last_update": "23/09/2026 12:25"
 }
