@@ -2,35 +2,35 @@
     "weather": {
         "atual": 23.1,
         "manha": 21.6,
-        "tarde": 33.1,
-        "noite": 25.9
+        "tarde": 33.4,
+        "noite": 25.8
     },
     "forecast": {
-        "max": 32.5,
-        "min": 19.4
+        "max": 33.1,
+        "min": 18.3
     },
     "news": [
         {
-            "title": "Tânia Carvalho nomeada directora artística do BallettVorpommern, na Alemanha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/culturaipsilon/noticia/tania-carvalho-nomeada-directora-artistica-ballettvorpommern-alemanha-2189018"
+            "title": "Milei diz que Malvinas são “causa nacional” e volta a reivindicar soberania",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/mundo/noticia/milei-malvinas-sao-causa-nacional-volta-reivindicar-soberania-2189072"
         },
         {
-            "title": "Prefiro o macaco Tião aos fascistas no Brasil",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/publico-brasil/opiniao/prefiro-macaco-tiao-fascistas-brasil-2189017"
+            "title": "Nova casa dos “cachorrinhos” Gazela é mais espaçosa e senta cem de cada vez",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/fugas/noticia/nova-morada-cachorrinhos-gazela-espacosa-senta-cem-2189026"
         },
         {
-            "title": "Ministério Público faz buscas na PJ por suspeitas de escutas ilegais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/sociedade/noticia/ministerio-publico-faz-buscas-pj-apos-denuncia-director-causa-escutas-ilegais-2189015"
+            "title": "Na ONU, Presidente iraniano responde a Trump: “O Irão não foi feito para se render”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/mundo/noticia/onu-presidente-iraniano-responde-trump-irao-nao-render-2189043"
         },
         {
-            "title": "Quase 90% dos apátridas vivem nos países que mais sofrem com alterações climáticas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/azul/noticia/quase-90-apatridas-vivem-paises-sofrem-alteracoes-climaticas-2189005"
+            "title": "“Se estivesse a pregar a violência, Cabinda teria virado Iraque há muito tempo”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/mundo/noticia/pregar-violencia-cabinda-virado-iraque-ha-tempo-2189065"
         },
         {
-            "title": "Euribor acima de 3% agrava crédito à habitação a taxa variável",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/economia/noticia/euribor-acima-3-agrava-credito-habitacao-taxa-variavel-2189014"
+            "title": "Matosinhos abre 263 vagas de creche ainda neste ano e prepara mudanças no pré-escolar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/local/noticia/matosinhos-abre-263-vagas-creche-neste-ano-prepara-mudancas-preescolar-2189048"
         }
     ],
     "finance": [],
-    "last_update": "23/09/2026 12:25"
+    "last_update": "23/09/2026 17:33"
 }
