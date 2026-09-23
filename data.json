@@ -1,15 +1,36 @@
 {
     "weather": {
-        "atual": 23.1,
-        "manha": 21.6,
-        "tarde": 33.4,
-        "noite": 26.2
+        "atual": 23.8,
+        "manha": 20.4,
+        "tarde": 32.8,
+        "noite": 25.0
     },
     "forecast": {
-        "max": 33.5,
-        "min": 18.8
+        "max": 29.2,
+        "min": 17.8
     },
-    "news": [],
+    "news": [
+        {
+            "title": "Os custos da dívida crescem. A austeridade vai voltar?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/opiniao/opiniao/custos-divida-crescem-austeridade-vai-voltar-2189028"
+        },
+        {
+            "title": "<em>In memoriam</em> Walter Osswald",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/opiniao/opiniao/in-memoriam-walter-osswald-2189034"
+        },
+        {
+            "title": "Uma Assembleia Geral para os Direitos Humanos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/opiniao/opiniao/assembleia-geral-direitos-humanos-2189071"
+        },
+        {
+            "title": "Empatia, essa palavra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/opiniao/opiniao/empatia-palavra-2189032"
+        },
+        {
+            "title": "“PJ não descarta encenação” e o MP promove a especulação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/opiniao/opiniao/pj-nao-descarta-encenacao-mp-promove-especulacao-2189061"
+        }
+    ],
     "finance": [],
-    "last_update": "23/09/2026 20:48"
+    "last_update": "23/09/2026 23:18"
 }
