@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 23.1,
-        "manha": 21.7,
-        "tarde": 32.9,
-        "noite": 25.2
+        "manha": 21.8,
+        "tarde": 33.5,
+        "noite": 25.7
     },
     "forecast": {
-        "max": 32.0,
-        "min": 19.6
+        "max": 32.2,
+        "min": 19.9
     },
     "news": [
         {
-            "title": "Benfica estreia-se na Champions feminina com triunfo em Turim",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/desporto/noticia/benfica-estreiase-champions-feminina-triunfo-turim-2188988"
+            "title": "Fecharam mais de 750 camas de cuidados continuados em cinco anos, aponta associação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/sociedade/noticia/fecharam-750-camas-cuidados-continuados-cinco-anos-aponta-associacao-2188993"
         },
         {
-            "title": "Montenegro afirma que Portugal vai ter excedente este ano e crescer acima da média europeia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/politica/noticia/montenegro-afirma-portugal-vai-excedente-ano-crescer-acima-media-europeia-2188987"
+            "title": "Despertador: a síntese da actualidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/newsletter/despertador"
         },
         {
-            "title": "Guterres foi um bom líder para a ONU?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/mundo/noticia/guterres-bom-lider-onu-2188986"
+            "title": "ACP recolheu 20 mil assinaturas de lisboetas para levar trotinetas a referendo municipal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/local/noticia/acp-recolheu-20-mil-assinaturas-lisboetas-levar-trotinetas-referendo-municipal-2188991"
         },
         {
-            "title": "Negócio das fragatas inclui 325 milhões para a indústria nacional, diz ministro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/politica/noticia/negocio-fragatas-inclui-325-milhoes-industria-nacional-ministro-2188985"
+            "title": "O mito fundador",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/publico-brasil/cronica/mito-fundador-2188981"
         },
         {
-            "title": "Saúde cria grupo para melhorar cobrança de cuidados a estrangeiros não residentes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/22/sociedade/noticia/saude-cria-grupo-melhorar-cobranca-cuidados-estrangeiros-nao-residentes-2188983"
+            "title": "A angústia de Montenegro antes de falar ao país",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/23/opiniao/opiniao/angustia-montenegro-falar-pais-2188918"
         }
     ],
     "finance": [],
-    "last_update": "23/09/2026 01:01"
+    "last_update": "23/09/2026 06:55"
 }
