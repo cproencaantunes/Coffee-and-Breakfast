@@ -1,9 +1,9 @@
 {
     "weather": {
-        "atual": 23.8,
-        "manha": 20.4,
-        "tarde": 32.8,
-        "noite": 25.0
+        "atual": 24.0,
+        "manha": 20.7,
+        "tarde": 32.5,
+        "noite": 25.1
     },
     "forecast": {
         "max": 29.2,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
+            "title": "Carlos Cabreiro tem condições para continuar director da PJ?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/politica/noticia/carlos-cabreiro-condicoes-continuar-director-pj-2189113"
+        },
+        {
+            "title": "Reforma flexível: e se reformar-se não tiver de ser um interruptor?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/opiniao/opiniao/reforma-flexivel-reformarse-nao-interruptor-2189066"
+        },
+        {
+            "title": "Agite-se, em polémica, uma biblioteca “totalmente teatral”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/culturaipsilon/opiniao/agitese-polemica-biblioteca-totalmente-teatral-2188786"
+        },
+        {
             "title": "Os custos da dívida crescem. A austeridade vai voltar?",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/opiniao/opiniao/custos-divida-crescem-austeridade-vai-voltar-2189028"
         },
         {
             "title": "<em>In memoriam</em> Walter Osswald",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/opiniao/opiniao/in-memoriam-walter-osswald-2189034"
-        },
-        {
-            "title": "Uma Assembleia Geral para os Direitos Humanos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/opiniao/opiniao/assembleia-geral-direitos-humanos-2189071"
-        },
-        {
-            "title": "Empatia, essa palavra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/opiniao/opiniao/empatia-palavra-2189032"
-        },
-        {
-            "title": "“PJ não descarta encenação” e o MP promove a especulação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/opiniao/opiniao/pj-nao-descarta-encenacao-mp-promove-especulacao-2189061"
         }
     ],
     "finance": [],
-    "last_update": "23/09/2026 23:18"
+    "last_update": "24/09/2026 02:05"
 }
