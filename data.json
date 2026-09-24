@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 24.0,
-        "manha": 20.7,
-        "tarde": 32.5,
-        "noite": 25.1
+        "manha": 20.8,
+        "tarde": 33.2,
+        "noite": 25.3
     },
     "forecast": {
-        "max": 29.2,
-        "min": 17.8
+        "max": 29.5,
+        "min": 18.1
     },
     "news": [
         {
-            "title": "Carlos Cabreiro tem condições para continuar director da PJ?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/politica/noticia/carlos-cabreiro-condicoes-continuar-director-pj-2189113"
+            "title": "<em>Natal Amargo</em>, <em>Os Rivais de Amziah King</em> e outras estreias para esta semana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/culturaipsilon/noticia/natal-amargo-rivais-amziah-king-estreias-semana-2188486"
         },
         {
-            "title": "Reforma flexível: e se reformar-se não tiver de ser um interruptor?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/opiniao/opiniao/reforma-flexivel-reformarse-nao-interruptor-2189066"
+            "title": "De vítima a autora: como Liliana Meireles de Sousa transformou o sofrimento no livro <em>A Luz que Sobrou</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/impar/noticia/vitima-autora-liliana-meireles-sousa-transformou-sofrimento-livro-luz-sobrou-2188996"
         },
         {
-            "title": "Agite-se, em polémica, uma biblioteca “totalmente teatral”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/culturaipsilon/opiniao/agitese-polemica-biblioteca-totalmente-teatral-2188786"
+            "title": "Trump prometeu ser “falcão” com a China, mas “transformou-se em pomba”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/mundo/noticia/trump-prometeu-falcao-china-transformouse-pomba-2189041"
         },
         {
-            "title": "Os custos da dívida crescem. A austeridade vai voltar?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/opiniao/opiniao/custos-divida-crescem-austeridade-vai-voltar-2189028"
+            "title": "Juiz ordena à Administração Trump que restabeleça acesso da CNN, MS NOW e Politico à Casa Branca",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/mundo/noticia/juiz-ordena-administracao-trump-restabeleca-acesso-cnn-ms-now-politico-casa-branca-2189117"
         },
         {
-            "title": "<em>In memoriam</em> Walter Osswald",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/opiniao/opiniao/in-memoriam-walter-osswald-2189034"
+            "title": "ARTePorto quer ser pioneira e explorar o mercado da Região Norte até à Galiza",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/culturaipsilon/noticia/arteporto-quer-pioneira-explorar-mercado-regiao-norte-ate-galiza-2189003"
         }
     ],
     "finance": [],
-    "last_update": "24/09/2026 02:05"
+    "last_update": "24/09/2026 07:55"
 }
