@@ -3,34 +3,34 @@
         "atual": 24.0,
         "manha": 20.9,
         "tarde": 33.0,
-        "noite": 24.9
+        "noite": 25.2
     },
     "forecast": {
         "max": 28.6,
-        "min": 17.8
+        "min": 17.9
     },
     "news": [
         {
-            "title": "\"É a coisa mais degradante do mundo\". Despejo de idosa gera indignação em Madrid",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/video/degradante-mundo-despejo-idosa-gera-indignacao-madrid-20260924-180241"
+            "title": "João Félix foi o milagre na estreia de Jorge Jesus",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/desporto/cronica_de_jogo/joao-felix-milagre-estreia-jorge-jesus-2189255"
         },
         {
-            "title": "Macklemore anuncia digressão de beneficiência em apoio à Palestina",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/culturaipsilon/noticia/macklemore-anuncia-digressao-beneficiencia-apoio-palestina-2189226"
+            "title": "O que fazer neste fim-de-semana? Celebrar o Outono e puxar pelo Miolo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/fugas/noticia/neste-fimdesemana-celebrar-outono-puxar-miolo-2189215"
         },
         {
-            "title": "Muita pompa, pouca substância e o insistente espectro de Tucídides na visita de Xi",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/mundo/noticia/pompa-substancia-insistente-espectro-tucidides-visita-xi-2189230"
+            "title": "Conselho de Curadores da Nova recusa homologar eleição do reitor Paulo Pereira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/sociedade/noticia/conselho-curadores-nova-recusa-homologar-eleicao-reitor-paulo-pereira-2189252"
         },
         {
-            "title": "Autarcas da área de Lisboa apoiam Moedas e dizem que Volta criou “efeito negativo na higiene urbana”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/local/noticia/autarcas-area-lisboa-apoiam-moedas-volta-criou-efeito-negativo-higiene-urbana-2189224"
+            "title": "Bastonário avisa Governo que não abre vagas à força: “Se há falta de especialistas, o problema não está na Ordem dos Médicos”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/sociedade/noticia/bastonario-avisa-governo-nao-abre-vagas-forca-ha-falta-especialistas-problema-nao-ordem-medicos-2189253"
         },
         {
-            "title": "Os jovens não desapareceram. A democracia é que adormeceu?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/newsletter/azul"
+            "title": "E uma comissão de inquérito ao assalto ao gabinete de Ventura?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/24/newsletter/diarios-republica"
         }
     ],
     "finance": [],
-    "last_update": "24/09/2026 17:46"
+    "last_update": "24/09/2026 20:54"
 }
