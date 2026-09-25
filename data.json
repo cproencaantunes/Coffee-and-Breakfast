@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 22.5,
-        "manha": 19.1,
-        "tarde": 28.2,
-        "noite": 20.6
+        "atual": 23.0,
+        "manha": 19.2,
+        "tarde": 28.4,
+        "noite": 21.2
     },
     "forecast": {
         "max": 31.3,
-        "min": 20.1
+        "min": 20.2
     },
     "news": [
+        {
+            "title": "Hugo Soares não devia ter chamado aldrabão a Ventura?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/politica/noticia/hugo-soares-nao-chamado-aldrabao-ventura-2189264"
+        },
         {
             "title": "Demora tempo",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/opiniao/opiniao/demora-tempo-2189249"
@@ -25,12 +29,8 @@
         {
             "title": "Marx e Seligman na academia",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/opiniao/opiniao/marx-seligman-academia-2189180"
-        },
-        {
-            "title": "Quando um filho tem cancro, há escolhas que nunca deveríamos ser obrigados a fazer",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/opiniao/opiniao/filho-cancro-ha-escolhas-deveriamos-obrigados-2189164"
         }
     ],
     "finance": [],
-    "last_update": "24/09/2026 23:39"
+    "last_update": "25/09/2026 02:22"
 }
