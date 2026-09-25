@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 23.0,
-        "manha": 19.2,
+        "manha": 18.7,
         "tarde": 28.4,
-        "noite": 21.2
+        "noite": 21.6
     },
     "forecast": {
-        "max": 31.3,
-        "min": 20.2
+        "max": 31.7,
+        "min": 20.6
     },
     "news": [
         {
-            "title": "Hugo Soares não devia ter chamado aldrabão a Ventura?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/politica/noticia/hugo-soares-nao-chamado-aldrabao-ventura-2189264"
+            "title": "Julia Jacklin: “Escrevo em conversa comigo própria”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/culturaipsilon/entrevista/julia-jacklin-escrevo-conversa-comigo-propria-2188898"
         },
         {
-            "title": "Demora tempo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/opiniao/opiniao/demora-tempo-2189249"
+            "title": "No Rio de Janeiro, a dançar na cozinha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/publico-brasil/cronica/rio-janeiro-dancar-cozinha-2189268"
         },
         {
-            "title": "O Governo parece anestesiado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/opiniao/opiniao/governo-parece-anestesiado-2189247"
+            "title": "Desafiando ordem judicial, Casa Branca barra emissoras CNN e MS Now de jantar de Estado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/mundo/noticia/desafiando-ordem-judicial-casa-branca-barra-emissoras-cnn-ms-now-jantar-estado-2189266"
         },
         {
-            "title": "Para onde vamos todos viver?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/opiniao/opiniao/onde-vamos-viver-2189235"
+            "title": "Com “um tempo de festa” na mira, Cabrita estreia <i>Party life</i> com a voz de David Pessoa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/video/tempo-festa-mira-cabrita-estreia-party-life-junto-david-pessoa-20260916-142443"
         },
         {
-            "title": "Marx e Seligman na academia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/opiniao/opiniao/marx-seligman-academia-2189180"
+            "title": "“Sabíamos que tínhamos razão”: os estudantes da greve climática sete anos depois",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/azul/noticia/sabiamos-tinhamos-razao-estudantes-greve-climatica-sete-anos-2189179"
         }
     ],
     "finance": [],
-    "last_update": "25/09/2026 02:22"
+    "last_update": "25/09/2026 08:18"
 }
