@@ -2,35 +2,35 @@
     "weather": {
         "atual": 23.0,
         "manha": 18.9,
-        "tarde": 27.9,
-        "noite": 21.2
+        "tarde": 28.6,
+        "noite": 21.5
     },
     "forecast": {
-        "max": 31.4,
-        "min": 20.2
+        "max": 32.1,
+        "min": 20.6
     },
     "news": [
         {
-            "title": "Quatro mortos em lar no concelho de Estremoz onde foi detectado surto de gripe A",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/sociedade/noticia/quatro-mortos-lar-concelho-estremoz-onde-detectado-surto-gripe-2189309"
+            "title": "O mundo tem fome e é através do Maranhão que o Brasil o alimenta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/mundo/noticia/mundo-fome-atraves-maranhao-brasil-alimenta-2189301"
         },
         {
-            "title": "Em Palma, Maiorca conta-se nas ruas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/fugas/reportagem/palma-maiorca-contase-ruas-2188799"
+            "title": "Amrita Hepi vem ao TBA lembrar-nos de que há sempre algo antes do início",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/culturaipsilon/noticia/amrita-hepi-vem-tba-lembrarnos-ha-algo-inicio-2189341"
         },
         {
-            "title": "Nesta Maiorca, o turismo anda a outra velocidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/fugas/reportagem/maiorca-turismo-anda-velocidade-2188408"
+            "title": "O Barcelona está a redescobrir-se – e a ter sucesso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/desporto/noticia/barcelona-redescobrirse-sucesso-2189022"
         },
         {
-            "title": "FC Porto multado em quase 27 mil euros pelos incidentes no clássico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/desporto/noticia/fc-porto-multado-quase-27-mil-euros-incidencias-classico-2189308"
+            "title": "De visita a França, Papa Leão XIV alerta para os riscos da ciência e defende “correcta laicidade”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/mundo/noticia/visita-franca-papa-leao-xiv-alerta-riscos-ciencia-defende-correcta-laicidade-2189351"
         },
         {
-            "title": "Santa Marta é uma “cidade fantasma” há três dias. “Os bandidos mandaram fechar tudo” em resposta à “mão de ferro” de De la Espriella",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/mundo/noticia/santa-marta-cidade-fantasma-ha-tres-dias-bandidos-mandaram-fechar-resposta-mao-ferro-espriella-2189277"
+            "title": "“Muito preocupado”, pede a governos e UE protecção dos “mais vulneráveis”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/politica/noticia/preocupado-pede-governos-ue-proteccao-vulneraveis-2189363"
         }
     ],
     "finance": [],
-    "last_update": "25/09/2026 14:16"
+    "last_update": "25/09/2026 19:00"
 }
