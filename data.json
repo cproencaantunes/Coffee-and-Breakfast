@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 23.0,
-        "manha": 18.7,
-        "tarde": 28.4,
-        "noite": 21.6
+        "manha": 18.9,
+        "tarde": 27.9,
+        "noite": 21.2
     },
     "forecast": {
-        "max": 31.7,
-        "min": 20.6
+        "max": 31.4,
+        "min": 20.2
     },
     "news": [
         {
-            "title": "Julia Jacklin: “Escrevo em conversa comigo própria”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/culturaipsilon/entrevista/julia-jacklin-escrevo-conversa-comigo-propria-2188898"
+            "title": "Quatro mortos em lar no concelho de Estremoz onde foi detectado surto de gripe A",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/sociedade/noticia/quatro-mortos-lar-concelho-estremoz-onde-detectado-surto-gripe-2189309"
         },
         {
-            "title": "No Rio de Janeiro, a dançar na cozinha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/publico-brasil/cronica/rio-janeiro-dancar-cozinha-2189268"
+            "title": "Em Palma, Maiorca conta-se nas ruas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/fugas/reportagem/palma-maiorca-contase-ruas-2188799"
         },
         {
-            "title": "Desafiando ordem judicial, Casa Branca barra emissoras CNN e MS Now de jantar de Estado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/mundo/noticia/desafiando-ordem-judicial-casa-branca-barra-emissoras-cnn-ms-now-jantar-estado-2189266"
+            "title": "Nesta Maiorca, o turismo anda a outra velocidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/fugas/reportagem/maiorca-turismo-anda-velocidade-2188408"
         },
         {
-            "title": "Com “um tempo de festa” na mira, Cabrita estreia <i>Party life</i> com a voz de David Pessoa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/video/tempo-festa-mira-cabrita-estreia-party-life-junto-david-pessoa-20260916-142443"
+            "title": "FC Porto multado em quase 27 mil euros pelos incidentes no clássico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/desporto/noticia/fc-porto-multado-quase-27-mil-euros-incidencias-classico-2189308"
         },
         {
-            "title": "“Sabíamos que tínhamos razão”: os estudantes da greve climática sete anos depois",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/azul/noticia/sabiamos-tinhamos-razao-estudantes-greve-climatica-sete-anos-2189179"
+            "title": "Santa Marta é uma “cidade fantasma” há três dias. “Os bandidos mandaram fechar tudo” em resposta à “mão de ferro” de De la Espriella",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/mundo/noticia/santa-marta-cidade-fantasma-ha-tres-dias-bandidos-mandaram-fechar-resposta-mao-ferro-espriella-2189277"
         }
     ],
     "finance": [],
-    "last_update": "25/09/2026 08:18"
+    "last_update": "25/09/2026 14:16"
 }
