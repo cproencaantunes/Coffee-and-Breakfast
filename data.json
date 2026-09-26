@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.4,
         "manha": 21.7,
-        "tarde": 31.6,
-        "noite": 25.0
+        "tarde": 31.1,
+        "noite": 24.9
     },
     "forecast": {
-        "max": 27.8,
-        "min": 21.5
+        "max": 27.0,
+        "min": 21.3
     },
     "news": [
         {
-            "title": "Pedro Nuno Santos ataca paralisia política e aponta o dedo ao PS e à liderança de Carneiro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/politica/noticia/pedro-nuno-santos-ataca-paralisia-politica-aponta-dedo-ps-lideranca-carneiro-1905441"
+            "title": "Alemanha, França e Países Baixos já têm planos para abandonar os fósseis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/azul/noticia/alemanha-franca-paises-baixos-ja-planos-abandonar-fosseis-2189138"
         },
         {
-            "title": "Richard Zimler vai estrear-se a escrever primeiro em português",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/culturaipsilon/noticia/richard-zimler-vai-estrearse-escrever-portugues-2189399"
+            "title": "Quatro corpos recuperados após explosão em Atenas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/mundo/noticia/quatro-corpos-recuperados-apos-explosao-atenas-2189411"
         },
         {
-            "title": "Gomes Cravinho avisa que comprar caças F-35 aos EUA seria “erro grave”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/politica/noticia/gomes-cravinho-avisa-comprar-cacas-f35-eua-erro-grave-2189400"
+            "title": "<em>Macacos</em> chega ao Porto após ajudar a levar à Justiça caso da morte de um menino",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/publico-brasil/noticia/macacos-chega-porto-apos-ajudar-levar-justica-caso-morte-menino-2189407"
         },
         {
-            "title": "Governo pede à ANA mais detalhes sobre procura, pistas e expansão do novo aeroporto de Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/economia/noticia/governo-pede-ana-detalhes-procura-pistas-expansao-novo-aeroporto-lisboa-2189398"
+            "title": "George Russell vence Grande Prémio do Azerbaijão de Fórmula 1",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/desporto/noticia/george-russell-vence-premio-azerbaijao-formula-1-2189410"
         },
         {
-            "title": "Casa Branca exclui CNN de viagem de Donald Trump",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/mundo/noticia/casa-branca-exclui-cnn-viagem-donald-trump-2189394"
+            "title": "Clubes da Premier League ponderam processos contra Manchester City",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/desporto/noticia/clubes-premier-league-ponderam-processos-manchester-city-2189405"
         }
     ],
     "finance": [],
-    "last_update": "26/09/2026 11:55"
+    "last_update": "26/09/2026 15:22"
 }
