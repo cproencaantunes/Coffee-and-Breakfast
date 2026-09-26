@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.4,
         "manha": 21.7,
-        "tarde": 31.7,
-        "noite": 24.8
+        "tarde": 31.6,
+        "noite": 25.0
     },
     "forecast": {
         "max": 27.8,
-        "min": 21.1
+        "min": 21.5
     },
     "news": [
         {
-            "title": "Onde aprendeu George Orwell",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/opiniao/opiniao/onde-aprendeu-george-orwell-2189314"
+            "title": "Pedro Nuno Santos ataca paralisia política e aponta o dedo ao PS e à liderança de Carneiro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/politica/noticia/pedro-nuno-santos-ataca-paralisia-politica-aponta-dedo-ps-lideranca-carneiro-1905441"
         },
         {
-            "title": "O fim da União Europeia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/opiniao/opiniao/fim-uniao-europeia-2189373"
+            "title": "Richard Zimler vai estrear-se a escrever primeiro em português",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/culturaipsilon/noticia/richard-zimler-vai-estrearse-escrever-portugues-2189399"
         },
         {
-            "title": "Onde estão as mulheres no quadro do Grupo do Leão?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/culturaipsilon/opiniao/onde-estao-mulheres-quadro-grupo-leao-2189312"
+            "title": "Gomes Cravinho avisa que comprar caças F-35 aos EUA seria “erro grave”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/politica/noticia/gomes-cravinho-avisa-comprar-cacas-f35-eua-erro-grave-2189400"
         },
         {
-            "title": "Governo garantiu que ia ouvir sindicatos na Lei da Ciência, mas ninguém os chamou",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/ciencia/noticia/governo-garantiu-ia-ouvir-sindicatos-lei-ciencia-ninguem-chamou-2189289"
+            "title": "Governo pede à ANA mais detalhes sobre procura, pistas e expansão do novo aeroporto de Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/economia/noticia/governo-pede-ana-detalhes-procura-pistas-expansao-novo-aeroporto-lisboa-2189398"
         },
         {
-            "title": "Governo adoptou medidas contra a crise esquecendo-se dos mais pobres",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/politica/opiniao/governo-adoptou-medidas-crise-esquecendose-pobres-2189297"
+            "title": "Casa Branca exclui CNN de viagem de Donald Trump",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/mundo/noticia/casa-branca-exclui-cnn-viagem-donald-trump-2189394"
         }
     ],
     "finance": [],
-    "last_update": "26/09/2026 06:48"
+    "last_update": "26/09/2026 11:55"
 }
