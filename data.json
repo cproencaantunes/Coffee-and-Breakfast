@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.4,
         "manha": 21.7,
-        "tarde": 31.1,
-        "noite": 24.9
+        "tarde": 31.4,
+        "noite": 25.2
     },
     "forecast": {
-        "max": 27.0,
-        "min": 21.3
+        "max": 28.0,
+        "min": 21.2
     },
     "news": [
         {
-            "title": "Alemanha, França e Países Baixos já têm planos para abandonar os fósseis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/azul/noticia/alemanha-franca-paises-baixos-ja-planos-abandonar-fosseis-2189138"
+            "title": "Apoio extraordinário para o Douro não chegará aos anunciados 50 cêntimos por quilo de uva",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/terroir/noticia/apoio-extraordinario-douro-nao-chegara-anunciados-50-centimos-quilo-uva-2189339"
         },
         {
-            "title": "Quatro corpos recuperados após explosão em Atenas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/mundo/noticia/quatro-corpos-recuperados-apos-explosao-atenas-2189411"
+            "title": "Vai votar nestas eleições? O e-Título poderá ser baixado até no dia da votação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/publico-brasil/noticia/vai-votar-eleicoes-etitulo-podera-baixado-ate-dia-votacao-2189423"
         },
         {
-            "title": "<em>Macacos</em> chega ao Porto após ajudar a levar à Justiça caso da morte de um menino",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/publico-brasil/noticia/macacos-chega-porto-apos-ajudar-levar-justica-caso-morte-menino-2189407"
+            "title": "Em Paris, o Papa pediu esperança em vez de “aridez espiritual” e dignidade para os migrantes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/mundo/noticia/paris-papa-pediu-esperanca-aridez-espiritual-dignidade-migrantes-2189428"
         },
         {
-            "title": "George Russell vence Grande Prémio do Azerbaijão de Fórmula 1",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/desporto/noticia/george-russell-vence-premio-azerbaijao-formula-1-2189410"
+            "title": "Contra o voto masculino",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/publico-brasil/opiniao/voto-masculino-2189429"
         },
         {
-            "title": "Clubes da Premier League ponderam processos contra Manchester City",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/desporto/noticia/clubes-premier-league-ponderam-processos-manchester-city-2189405"
+            "title": "Maus tratos nas prisões: provedoria aponta falhas a serviço que investiga guardas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/sociedade/noticia/maus-tratos-prisoes-provedoria-aponta-falhas-servico-investiga-guardas-2189317"
         }
     ],
     "finance": [],
-    "last_update": "26/09/2026 15:22"
+    "last_update": "26/09/2026 18:49"
 }
