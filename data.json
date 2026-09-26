@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.4,
-        "manha": 21.2,
-        "tarde": 31.3,
+        "manha": 21.7,
+        "tarde": 31.7,
         "noite": 24.8
     },
     "forecast": {
-        "max": 28.7,
-        "min": 21.3
+        "max": 27.8,
+        "min": 21.1
     },
     "news": [
         {
-            "title": "CNN, 1 – Trump, 0",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/opiniao/opiniao/cnn-1-trump-0-2189306"
+            "title": "Onde aprendeu George Orwell",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/opiniao/opiniao/onde-aprendeu-george-orwell-2189314"
         },
         {
-            "title": "Xandão e Mendonção e o logro da máxima transparência",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/opiniao/opiniao/xandao-mendoncao-logro-maxima-transparencia-2189330"
+            "title": "O fim da União Europeia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/opiniao/opiniao/fim-uniao-europeia-2189373"
         },
         {
-            "title": "Arrumar a casa sem fechar a porta: a imigração em 2025 entre a regularização e o controlo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/opiniao/opiniao/arrumar-casa-fechar-porta-imigracao-2025-regularizacao-controlo-2189173"
+            "title": "Onde estão as mulheres no quadro do Grupo do Leão?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/culturaipsilon/opiniao/onde-estao-mulheres-quadro-grupo-leao-2189312"
         },
         {
-            "title": "Bugalho fez uma proposta de jeito – mas ninguém reparou",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/opiniao/opiniao/bugalho-fez-proposta-jeito-ninguem-reparou-2189287"
+            "title": "Governo garantiu que ia ouvir sindicatos na Lei da Ciência, mas ninguém os chamou",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/ciencia/noticia/governo-garantiu-ia-ouvir-sindicatos-lei-ciencia-ninguem-chamou-2189289"
         },
         {
-            "title": "Gabriel O Pensador tem show cancelado após morte de bombeira em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/25/publico-brasil/noticia/gabriel-pensador-show-cancelado-apos-morte-bombeira-portugal-2189379"
+            "title": "Governo adoptou medidas contra a crise esquecendo-se dos mais pobres",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/politica/opiniao/governo-adoptou-medidas-crise-esquecendose-pobres-2189297"
         }
     ],
     "finance": [],
-    "last_update": "26/09/2026 01:03"
+    "last_update": "26/09/2026 06:48"
 }
