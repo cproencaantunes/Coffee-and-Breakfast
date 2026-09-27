@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 0,
-        "manha": 0,
-        "tarde": 0,
-        "noite": 0
+        "atual": 24.1,
+        "manha": 22.1,
+        "tarde": 28.3,
+        "noite": 22.2
     },
     "forecast": {
-        "max": 0,
-        "min": 0
+        "max": 26.6,
+        "min": 18.2
     },
     "news": [
         {
-            "title": "Uma cimeira entre iguais?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/mundo/analise/cimeira-iguais-2189409"
+            "title": "<em>Brexit</em> fez disparar pedidos de nacionalidade de emigrantes portugueses no Reino Unido",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/sociedade/noticia/brexit-fez-disparar-pedidos-nacionalidade-emigrantes-portugueses-reino-unido-2188514"
         },
         {
-            "title": "Quem decide o que é anti-semitismo?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/opiniao/opiniao/decide-antisemitismo-2189162"
+            "title": "Volta: longe do coração",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/opiniao/opiniao/volta-longe-coracao-2189229"
         },
         {
-            "title": "PISA 2025: o que podem fazer as escolas?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/opiniao/opiniao/pisa-2025-podem-escolas-2189197"
+            "title": "Estaremos a fazer da IA um bicho de sete cabeças?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/enter/noticia/estaremos-ia-bicho-sete-cabecas-2188522"
         },
         {
-            "title": "Mapa Verde, a corrida aos centros de dados e a inteligência artificial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/opiniao/opiniao/mapa-verde-corrida-centros-dados-inteligencia-artificial-2189150"
+            "title": "Doar reembolso ou incluir embalagens de vidro: Bloco quer mudar sistema Volta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/politica/noticia/doar-reembolso-incluir-embalagens-vidro-bloco-quer-mudar-sistema-volta-2189273"
         },
         {
-            "title": "A maioria silenciosa que defende os direitos humanos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/opiniao/opiniao/maioria-silenciosa-defende-direitos-humanos-2189192"
+            "title": "Usar a casa para a reforma: cinco soluções",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/economia/noticia/usar-casa-reforma-cinco-solucoes-2189040"
         }
     ],
     "finance": [],
-    "last_update": "27/09/2026 00:01"
+    "last_update": "27/09/2026 05:57"
 }
