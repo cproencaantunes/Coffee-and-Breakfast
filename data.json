@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.4,
-        "manha": 21.7,
-        "tarde": 31.4,
-        "noite": 25.2
+        "atual": 0,
+        "manha": 0,
+        "tarde": 0,
+        "noite": 0
     },
     "forecast": {
-        "max": 28.0,
-        "min": 21.2
+        "max": 0,
+        "min": 0
     },
     "news": [
         {
-            "title": "Inglaterra e Espanha não crêem no tédio da pausa FIFA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/desporto/noticia/inglaterra-espanha-nao-creem-tedio-pausa-fifa-2189425"
+            "title": "Uma cimeira entre iguais?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/mundo/analise/cimeira-iguais-2189409"
         },
         {
-            "title": "Como animais antes da linguagem",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/p3/cronica/animais-linguagem-2189350"
+            "title": "Quem decide o que é anti-semitismo?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/opiniao/opiniao/decide-antisemitismo-2189162"
         },
         {
-            "title": "Governo confirma 44 centros de dados, mas continua sem dizer onde e como",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/enter/noticia/governo-confirma-44-centros-dados-continua-dizer-onde-2188871"
+            "title": "PISA 2025: o que podem fazer as escolas?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/opiniao/opiniao/pisa-2025-podem-escolas-2189197"
         },
         {
-            "title": "Trabalhistas britânicos juntam-se para tentar prolongar a “lua-de-mel” de Burnham",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/mundo/noticia/trabalhistas-britanicos-juntamse-tentar-prolongar-luademel-burnham-2189217"
+            "title": "Mapa Verde, a corrida aos centros de dados e a inteligência artificial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/opiniao/opiniao/mapa-verde-corrida-centros-dados-inteligencia-artificial-2189150"
         },
         {
-            "title": "Instituto Moreira Salles com exposição sobre o processo criativo de Fernando Lemos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/26/culturaipsilon/noticia/instituto-moreira-salles-exposicao-processo-criativo-fernando-lemos-2189420"
+            "title": "A maioria silenciosa que defende os direitos humanos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/opiniao/opiniao/maioria-silenciosa-defende-direitos-humanos-2189192"
         }
     ],
     "finance": [],
-    "last_update": "26/09/2026 21:41"
+    "last_update": "27/09/2026 00:01"
 }
