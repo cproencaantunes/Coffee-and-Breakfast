@@ -3,34 +3,34 @@
         "atual": 24.1,
         "manha": 21.6,
         "tarde": 28.2,
-        "noite": 22.4
+        "noite": 22.8
     },
     "forecast": {
-        "max": 27.0,
-        "min": 18.5
+        "max": 27.3,
+        "min": 18.7
     },
     "news": [
         {
-            "title": "Em terreno favorável, campanha de Lula pede vitória já na primeira volta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/mundo/reportagem/terreno-favoravel-campanha-lula-pede-vitoria-ja-primeira-volta-2189478"
+            "title": "Semana começa com chuva e trovoada para lembrar que o Verão terminou",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/azul/noticia/semana-comeca-chuva-trovoada-lembrar-verao-terminou-2189487"
         },
         {
-            "title": "Eleitores brasileiros em Portugal: 57% são mulheres e 74% têm menos de 50 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/publico-brasil/noticia/eleitores-brasileiros-portugal-57-sao-mulheres-74-menos-50-anos-2189461"
+            "title": "Nas mamas, um roseiral",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/p3/cronica/mamas-roseiral-2189354"
         },
         {
-            "title": "Fumo no interior da cabine obriga a aterragem de emergência no aeroporto do Porto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/sociedade/noticia/fumo-interior-cabine-obriga-aterragem-emergencia-aeroporto-porto-2189474"
+            "title": "Comício em favor de Lula e da democracia reúne centenas de pessoas em Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/publico-brasil/noticia/comicio-favor-lula-democracia-reune-centenas-pessoas-lisboa-2189485"
         },
         {
-            "title": "Reguladora obriga clínicas e hospitais privados a anular facturas a utentes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/sociedade/noticia/reguladora-obriga-clinicas-hospitais-privados-anular-facturas-utentes-2188168"
+            "title": "Portugal funcionou na Noruega com Félix e Ramos. E sem Ronaldo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/desporto/cronica_de_jogo/portugal-funcionou-noruega-felix-ramos-ronaldo-2189486"
         },
         {
-            "title": "V de Vanessa, V de Vilaça: Portugal de novo campeão do mundo de triatlo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/desporto/noticia/vasco-vilaca-sagrase-campeao-mundo-triatlo-2189472"
+            "title": "A estranha saída do presidente da AIMA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/opiniao/editorial/estranha-saida-presidente-aima-2189483"
         }
     ],
     "finance": [],
-    "last_update": "27/09/2026 19:29"
+    "last_update": "27/09/2026 22:39"
 }
