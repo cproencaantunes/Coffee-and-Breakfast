@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.6,
         "manha": 20.3,
-        "tarde": 27.1,
-        "noite": 23.5
+        "tarde": 26.5,
+        "noite": 21.8
     },
     "forecast": {
-        "max": 24.3,
-        "min": 20.7
+        "max": 24.1,
+        "min": 20.2
     },
     "news": [
         {
-            "title": "Crise na habitação leva espanhóis a acamparem nas ruas pela segunda noite consecutiva",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/28/fotogaleria/crise-habitacao-leva-espanhois-acamparem-ruas-segunda-noite-consecutiva-416026"
+            "title": "De \"sprint\" para a vitória: Vasco Vilaça é o primeiro homem português campeão do mundo de triatlo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/28/video/sprint-vitoria-vasco-vilaca-homem-portugues-campeao-mundo-triatlo-20260928-170225"
         },
         {
-            "title": "Taylor Swift é a artista mais premiada da história dos MTV Video Music Awards",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/28/culturaipsilon/noticia/taylor-swift-artista-premiada-historia-mtv-video-music-awards-2189496"
+            "title": "Nvidia cria sistema para vigiar e bloquear agentes de IA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/28/enter/noticia/nvidia-cria-sistema-vigiar-bloquear-agentes-ia-2189559"
         },
         {
-            "title": "O Coração Ainda Bate. À escuta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/28/impar/cronica/coracao-bate-escuta-2189488"
+            "title": "Passos prefere descentralizar a regionalizar e critica “entorse completo” nas CCDR",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/28/politica/noticia/passos-prefere-descentralizar-regionalizar-critica-entorse-completo-ccdr-2189547"
         },
         {
-            "title": "Despertador: temas para esta semana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/28/newsletter/despertador"
+            "title": "O Homem Que Matou Duas Vezes: oiça o primeiro episódio connosco, no Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/28/edicoes-publico/noticia/homem-matou-duas-vezes-oica-episodio-connosco-porto-2189569"
         },
         {
-            "title": "Sindicato da PSP realiza no Porto primeiro de vários protestos previstos pelo país",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/28/sociedade/noticia/sindicato-psp-realiza-porto-varios-protestos-previstos-pais-2189493"
+            "title": "Ministra pede Europa “mais interveniente” na crise dos combustíveis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/28/economia/noticia/ministra-pede-europa-interveniente-crise-combustiveis-2189568"
         }
     ],
     "finance": [],
-    "last_update": "28/09/2026 07:53"
+    "last_update": "28/09/2026 16:12"
 }
