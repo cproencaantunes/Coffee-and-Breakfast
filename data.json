@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 24.1,
-        "manha": 21.6,
-        "tarde": 28.2,
-        "noite": 22.8
+        "atual": 21.6,
+        "manha": 19.9,
+        "tarde": 26.9,
+        "noite": 22.0
     },
     "forecast": {
-        "max": 27.3,
-        "min": 18.7
+        "max": 23.4,
+        "min": 20.3
     },
     "news": [
         {
-            "title": "Semana começa com chuva e trovoada para lembrar que o Verão terminou",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/azul/noticia/semana-comeca-chuva-trovoada-lembrar-verao-terminou-2189487"
+            "title": "A implosão da União Europeia não é uma impossibilidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/28/opiniao/opiniao/implosao-uniao-europeia-nao-impossibilidade-2189470"
         },
         {
-            "title": "Nas mamas, um roseiral",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/p3/cronica/mamas-roseiral-2189354"
+            "title": "O PISA, o facilitismo e o acesso ao ensino superior",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/28/opiniao/opiniao/pisa-facilitismo-acesso-ensino-superior-2188391"
         },
         {
-            "title": "Comício em favor de Lula e da democracia reúne centenas de pessoas em Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/publico-brasil/noticia/comicio-favor-lula-democracia-reune-centenas-pessoas-lisboa-2189485"
+            "title": "Educar para a integridade: isto é prevenção!",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/28/opiniao/opiniao/educar-integridade-prevencao-2189335"
         },
         {
-            "title": "Portugal funcionou na Noruega com Félix e Ramos. E sem Ronaldo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/desporto/cronica_de_jogo/portugal-funcionou-noruega-felix-ramos-ronaldo-2189486"
+            "title": "África, o continente que o mapa não conseguiu diminuir",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/28/opiniao/opiniao/africa-continente-mapa-nao-conseguiu-diminuir-2189476"
         },
         {
-            "title": "A estranha saída do presidente da AIMA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/27/opiniao/editorial/estranha-saida-presidente-aima-2189483"
+            "title": "Conservar o quê?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/28/opiniao/opiniao/conservar-2189471"
         }
     ],
     "finance": [],
-    "last_update": "27/09/2026 22:39"
+    "last_update": "28/09/2026 01:16"
 }
