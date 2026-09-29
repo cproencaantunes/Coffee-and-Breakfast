@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 21.6,
-        "manha": 20.3,
-        "tarde": 26.5,
-        "noite": 22.0
+        "atual": 20.5,
+        "manha": 21.8,
+        "tarde": 24.5,
+        "noite": 21.6
     },
     "forecast": {
         "max": 24.6,
-        "min": 20.4
+        "min": 18.8
     },
     "news": [
         {
-            "title": "Lula avisa <em>influencers</em> brasileiros pagos pelas <em>bets</em> que vai atrás deles em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/28/publico-brasil/noticia/lula-avisa-influencers-brasileiros-pagos-bets-vai-atras-portugal-2189623"
+            "title": "A culpa é da vontade?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/opiniao/opiniao/culpa-vontade-2189456"
         },
         {
-            "title": "Maricarmen em casa: acordo com imobiliária permite que idosa de 87 anos regresse",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/28/mundo/noticia/maricarmen-casa-acordo-imobiliaria-permite-idosa-87-anos-regresse-2189624"
+            "title": "O que é a cobardia moral?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/opiniao/opiniao/cobardia-moral-2189591"
         },
         {
-            "title": "Cerca de 200 polícias manifestam-se na véspera de reunião com ministro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/28/sociedade/noticia/cerca-200-policias-manifestamse-vespera-reuniao-ministro-2189622"
+            "title": "INEM: entre a promessa e a realidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/opiniao/opiniao/inem-promessa-realidade-2189140"
         },
         {
-            "title": "Acusação no caso gémeas: Lacerda Sales e o director clínico do Santa Maria “abusaram das suas funções”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/28/sociedade/noticia/acusacao-caso-gemeas-lacerda-sales-serviuse-cargo-satisfazer-interesses-privados-2189611"
+            "title": "Português de 29 anos morre em acidente de trabalho na Suíça",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/sociedade/noticia/portugues-29-anos-morre-acidente-trabalho-suica-2189627"
         },
         {
-            "title": "O alvo era Marcelo e, aí, o Chega falhou",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/28/opiniao/editorial/alvo-marcelo-ai-chega-falhou-2189565"
+            "title": "Quantas Maricarmens serão precisas para nos levantarmos aqui?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/opiniao/opiniao/quantas-maricarmens-serao-precisas-levantarmos-aqui-2189526"
         }
     ],
     "finance": [],
-    "last_update": "28/09/2026 22:19"
+    "last_update": "29/09/2026 02:22"
 }
