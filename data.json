@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.5,
-        "manha": 21.7,
-        "tarde": 24.8,
-        "noite": 22.0
+        "manha": 21.5,
+        "tarde": 25.2,
+        "noite": 21.8
     },
     "forecast": {
-        "max": 24.5,
-        "min": 18.9
+        "max": 24.6,
+        "min": 18.3
     },
     "news": [
         {
-            "title": "Da Gucci a Miguel Vieira e Marques’Almeida: os 5 destaques da Semana da Moda de Milão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/impar/noticia/gucci-miguel-vieira-marquesalmeida-5-destaques-semana-moda-milao-2189606"
+            "title": "Sánchez avança com travão aos despejos até 2030 e renovação automática de contratos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/economia/noticia/sanchez-avanca-travao-despejos-ate-2030-renovacao-automatica-contratos-2189705"
         },
         {
-            "title": "Portugal está mais qualificado, mas continua a investir menos no ensino superior",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/sociedade/noticia/portugal-qualificado-continua-investir-menos-ensino-superior-2189528"
+            "title": "Eleições em São Tomé e Príncipe: ADI e MLSTP “podem negociar” e entender-se, “não há razões para crise”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/mundo/noticia/eleicoes-sao-tome-principe-adi-mlstp-podem-negociar-entenderse-nao-ha-razoes-crise-2189672"
         },
         {
-            "title": "Portugal é dos poucos países onde o salário de entrada dos professores na carreira caiu na última década",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/sociedade/noticia/portugal-paises-onde-salario-entrada-professores-carreira-caiu-ultima-decada-2189557"
+            "title": "Cada português desperdiça 161 quilos de comida por ano. Portugal acima da média da UE",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/sociedade/noticia/portugues-desperdica-161-quilos-comida-ano-portugal-acima-media-ue-2189699"
         },
         {
-            "title": "Suspeita de terrorismo no Reino Unido “envolve um actor estrangeiro”, diz Marco Rubio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/mundo/noticia/suspeita-terrorismo-reino-unido-envolve-actor-estrangeiro-marco-rubio-2189641"
+            "title": "CR da Lusa denuncia “decisões administrativas que permitem a interferência” editorial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/politica/noticia/cr-lusa-denuncia-decisoes-administrativas-permitem-interferencia-editorial-2189697"
         },
         {
-            "title": "Israel mata comandante de alta patente do Hamas num ataque a Gaza",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/mundo/noticia/israel-mata-comandante-alta-patente-hamas-ataque-gaza-2189637"
+            "title": "Novos ataques russos atingem infra-estruturas civis ucranianas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/video/novos-ataques-russos-atingem-infraestruturas-civis-ucranianas-20260929-163941"
         }
     ],
     "finance": [],
-    "last_update": "29/09/2026 09:13"
+    "last_update": "29/09/2026 16:12"
 }
