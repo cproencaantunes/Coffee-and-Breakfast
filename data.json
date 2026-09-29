@@ -3,34 +3,34 @@
         "atual": 20.5,
         "manha": 21.5,
         "tarde": 25.2,
-        "noite": 21.8
+        "noite": 21.6
     },
     "forecast": {
-        "max": 24.6,
+        "max": 25.2,
         "min": 18.3
     },
     "news": [
         {
-            "title": "Sánchez avança com travão aos despejos até 2030 e renovação automática de contratos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/economia/noticia/sanchez-avanca-travao-despejos-ate-2030-renovacao-automatica-contratos-2189705"
+            "title": "Mais nove mil estudantes colocados na 2.ª fase do concurso nacional de acesso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/sociedade/noticia/nove-mil-estudantes-colocados-2-fase-concurso-nacional-acesso-2189753"
         },
         {
-            "title": "Eleições em São Tomé e Príncipe: ADI e MLSTP “podem negociar” e entender-se, “não há razões para crise”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/mundo/noticia/eleicoes-sao-tome-principe-adi-mlstp-podem-negociar-entenderse-nao-ha-razoes-crise-2189672"
+            "title": "Liga das Nações: Espanha com aura de campeã no reencontro com a Croácia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/desporto/noticia/liga-nacoes-espanha-aura-campea-reencontro-croacia-2189748"
         },
         {
-            "title": "Cada português desperdiça 161 quilos de comida por ano. Portugal acima da média da UE",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/sociedade/noticia/portugues-desperdica-161-quilos-comida-ano-portugal-acima-media-ue-2189699"
+            "title": "Cinco dos sete sindicatos da PSP rejeitaram proposta sobre suplemento aos polícias nas fronteiras",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/sociedade/noticia/cinco-sete-sindicatos-psp-rejeitaram-proposta-suplemento-policias-fronteiras-2189756"
         },
         {
-            "title": "CR da Lusa denuncia “decisões administrativas que permitem a interferência” editorial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/politica/noticia/cr-lusa-denuncia-decisoes-administrativas-permitem-interferencia-editorial-2189697"
+            "title": "Caso Gémeas: Ministra da Justiça pede “decisão rápida” para “bem de todos”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/sociedade/noticia/caso-gemeas-ministra-justica-pede-decisao-rapida-bem-2189751"
         },
         {
-            "title": "Novos ataques russos atingem infra-estruturas civis ucranianas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/video/novos-ataques-russos-atingem-infraestruturas-civis-ucranianas-20260929-163941"
+            "title": "Capacete obrigatório para bicicletas e trotinetas eléctricas: o que está em causa?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/local/perguntaserespostas/capacete-obrigatorio-bicicletas-trotinetas-electricas-causa-2189750"
         }
     ],
     "finance": [],
-    "last_update": "29/09/2026 16:12"
+    "last_update": "29/09/2026 21:08"
 }
