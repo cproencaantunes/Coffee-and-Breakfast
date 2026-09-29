@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.5,
-        "manha": 21.8,
-        "tarde": 24.5,
-        "noite": 21.6
+        "manha": 21.7,
+        "tarde": 24.8,
+        "noite": 22.0
     },
     "forecast": {
-        "max": 24.6,
-        "min": 18.8
+        "max": 24.5,
+        "min": 18.9
     },
     "news": [
         {
-            "title": "A culpa é da vontade?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/opiniao/opiniao/culpa-vontade-2189456"
+            "title": "Da Gucci a Miguel Vieira e Marques’Almeida: os 5 destaques da Semana da Moda de Milão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/impar/noticia/gucci-miguel-vieira-marquesalmeida-5-destaques-semana-moda-milao-2189606"
         },
         {
-            "title": "O que é a cobardia moral?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/opiniao/opiniao/cobardia-moral-2189591"
+            "title": "Portugal está mais qualificado, mas continua a investir menos no ensino superior",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/sociedade/noticia/portugal-qualificado-continua-investir-menos-ensino-superior-2189528"
         },
         {
-            "title": "INEM: entre a promessa e a realidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/opiniao/opiniao/inem-promessa-realidade-2189140"
+            "title": "Portugal é dos poucos países onde o salário de entrada dos professores na carreira caiu na última década",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/sociedade/noticia/portugal-paises-onde-salario-entrada-professores-carreira-caiu-ultima-decada-2189557"
         },
         {
-            "title": "Português de 29 anos morre em acidente de trabalho na Suíça",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/sociedade/noticia/portugues-29-anos-morre-acidente-trabalho-suica-2189627"
+            "title": "Suspeita de terrorismo no Reino Unido “envolve um actor estrangeiro”, diz Marco Rubio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/mundo/noticia/suspeita-terrorismo-reino-unido-envolve-actor-estrangeiro-marco-rubio-2189641"
         },
         {
-            "title": "Quantas Maricarmens serão precisas para nos levantarmos aqui?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/opiniao/opiniao/quantas-maricarmens-serao-precisas-levantarmos-aqui-2189526"
+            "title": "Israel mata comandante de alta patente do Hamas num ataque a Gaza",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/mundo/noticia/israel-mata-comandante-alta-patente-hamas-ataque-gaza-2189637"
         }
     ],
     "finance": [],
-    "last_update": "29/09/2026 02:22"
+    "last_update": "29/09/2026 09:13"
 }
