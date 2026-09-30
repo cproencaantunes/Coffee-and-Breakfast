@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.2,
         "manha": 20.4,
-        "tarde": 23.6,
-        "noite": 18.9
+        "tarde": 23.4,
+        "noite": 19.5
     },
     "forecast": {
-        "max": 23.2,
+        "max": 23.4,
         "min": 16.4
     },
     "news": [
         {
-            "title": "Comboios regressam a Alcântara-Terra aos fins-de-semana e feriados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/local/noticia/comboios-regressam-alcantaraterra-finsdesemana-feriados-2189675"
+            "title": "Sindicatos desafiam Governo a aumentar salários da função pública entre 6,5% e 15%",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/economia/noticia/sindicatos-desafiam-governo-aumentar-salarios-funcao-publica-65-15-2189872"
         },
         {
-            "title": "Homem que planeou ataque no concerto de Taylor Swift perde processo contra a Disney",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/impar/noticia/homem-planeou-ataque-concerto-taylor-swift-perde-processo-disney-2189793"
+            "title": "\"Cornell 7\", os universitários acusados de violar uma colega",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/video/cornell-7-universitarios-acusados-violar-colega-20260930-171318"
         },
         {
-            "title": "Como os alunos do Técnico meteram nos carris um comboio de talento português",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/economia/noticia/alunos-tecnico-meteram-carris-comboio-talento-portugues-2189805"
+            "title": "Actor Nuno Homem de Sá condenado a segunda pena de prisão suspensa por violência doméstica",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/impar/noticia/actor-nuno-homem-sa-condenado-pena-prisao-suspensa-violencia-domestica-2189868"
         },
         {
-            "title": "Filhos do príncipe Harry foram alvo de <em>paparazzi </em>enquanto estavam na escola",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/impar/noticia/filhos-principe-harry-alvo-paparazzi-escola-2189797"
+            "title": "Na corrida ao Senado, democratas precisam de Peltola para quebrar o gelo no Alasca",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/mundo/noticia/corrida-senado-democratas-precisam-peltola-quebrar-gelo-alasca-2189850"
         },
         {
-            "title": "Aplicada prisão preventiva a homem suspeito de seis crimes de furto na Baixa de Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/local/noticia/aplicada-prisao-preventiva-homem-suspeito-seis-crimes-furto-baixa-lisboa-2189802"
+            "title": "Rui Pinto perde estatuto de testemunha protegida",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/sociedade/noticia/rui-pinto-fica-estatuto-testemunha-protegida-2189869"
         }
     ],
     "finance": [],
-    "last_update": "30/09/2026 13:08"
+    "last_update": "30/09/2026 18:40"
 }
