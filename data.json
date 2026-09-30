@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.5,
-        "manha": 21.5,
-        "tarde": 25.2,
-        "noite": 21.6
+        "atual": 21.2,
+        "manha": 20.5,
+        "tarde": 25.0,
+        "noite": 19.3
     },
     "forecast": {
-        "max": 25.2,
-        "min": 18.3
+        "max": 23.8,
+        "min": 16.5
     },
     "news": [
         {
-            "title": "Mais nove mil estudantes colocados na 2.ª fase do concurso nacional de acesso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/sociedade/noticia/nove-mil-estudantes-colocados-2-fase-concurso-nacional-acesso-2189753"
+            "title": "Está feito: o Orçamento já passou",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/politica/noticia/orcamento-ja-passou-2189766"
         },
         {
-            "title": "Liga das Nações: Espanha com aura de campeã no reencontro com a Croácia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/desporto/noticia/liga-nacoes-espanha-aura-campea-reencontro-croacia-2189748"
+            "title": "Trump reforça aliança com líderes do sector da IA em encontro na Casa Branca",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/enter/noticia/trump-reforca-alianca-lideres-sector-ia-encontro-casa-branca-2189763"
         },
         {
-            "title": "Cinco dos sete sindicatos da PSP rejeitaram proposta sobre suplemento aos polícias nas fronteiras",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/sociedade/noticia/cinco-sete-sindicatos-psp-rejeitaram-proposta-suplemento-policias-fronteiras-2189756"
+            "title": "E a ONU, tem futuro?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/opiniao/opiniao/onu-futuro-2189690"
         },
         {
-            "title": "Caso Gémeas: Ministra da Justiça pede “decisão rápida” para “bem de todos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/sociedade/noticia/caso-gemeas-ministra-justica-pede-decisao-rapida-bem-2189751"
+            "title": "O imposto do tempo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/opiniao/opiniao/imposto-tempo-2189659"
         },
         {
-            "title": "Capacete obrigatório para bicicletas e trotinetas eléctricas: o que está em causa?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/29/local/perguntaserespostas/capacete-obrigatorio-bicicletas-trotinetas-electricas-causa-2189750"
+            "title": "Uma oportunidade para regular a IA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/opiniao/opiniao/oportunidade-regular-ia-2189536"
         }
     ],
     "finance": [],
-    "last_update": "29/09/2026 21:08"
+    "last_update": "30/09/2026 00:51"
 }
