@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 21.2,
-        "manha": 20.6,
-        "tarde": 24.5,
-        "noite": 19.2
+        "manha": 20.4,
+        "tarde": 23.6,
+        "noite": 18.9
     },
     "forecast": {
-        "max": 23.9,
-        "min": 16.6
+        "max": 23.2,
+        "min": 16.4
     },
     "news": [
         {
-            "title": "A vida social das coisas que ainda não aconteceram",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/mundo/opiniao/vida-social-nao-aconteceram-2189664"
+            "title": "Comboios regressam a Alcântara-Terra aos fins-de-semana e feriados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/local/noticia/comboios-regressam-alcantaraterra-finsdesemana-feriados-2189675"
         },
         {
-            "title": "Parlamento arrisca quatro comissões de inquérito ao mesmo tempo. Só aconteceu uma vez",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/politica/noticia/parlamento-arrisca-quatro-comissoes-inquerito-tempo-so-aconteceu-2189447"
+            "title": "Homem que planeou ataque no concerto de Taylor Swift perde processo contra a Disney",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/impar/noticia/homem-planeou-ataque-concerto-taylor-swift-perde-processo-disney-2189793"
         },
         {
-            "title": "Sobrelotação agrava-se: em oito meses há mais 650 presos e menos 73 guardas prisionais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/sociedade/noticia/sobrelotacao-agravase-oito-meses-ha-650-presos-menos-73-guardas-prisionais-2189739"
+            "title": "Como os alunos do Técnico meteram nos carris um comboio de talento português",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/economia/noticia/alunos-tecnico-meteram-carris-comboio-talento-portugues-2189805"
         },
         {
-            "title": "Voltar à Lua, preparar Marte: os desafios médicos da nova era espacial e o papel único de Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/ciencia/opiniao/voltar-lua-preparar-marte-desafios-medicos-nova-espacial-papel-unico-portugal-2189109"
+            "title": "Filhos do príncipe Harry foram alvo de <em>paparazzi </em>enquanto estavam na escola",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/impar/noticia/filhos-principe-harry-alvo-paparazzi-escola-2189797"
         },
         {
-            "title": "O Homem Que Matou Duas Vezes. Episódio 1: “O Apelo”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/sociedade/noticia/homem-matou-duas-vezes-episodio-1-apelo-2186129"
+            "title": "Aplicada prisão preventiva a homem suspeito de seis crimes de furto na Baixa de Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/09/30/local/noticia/aplicada-prisao-preventiva-homem-suspeito-seis-crimes-furto-baixa-lisboa-2189802"
         }
     ],
     "finance": [],
-    "last_update": "30/09/2026 06:07"
+    "last_update": "30/09/2026 13:08"
 }
