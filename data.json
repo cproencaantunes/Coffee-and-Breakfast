@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.3,
-        "manha": 17.4,
-        "tarde": 23.0,
-        "noite": 18.7
+        "manha": 17.3,
+        "tarde": 22.8,
+        "noite": 18.2
     },
     "forecast": {
-        "max": 26.9,
-        "min": 16.7
+        "max": 27.6,
+        "min": 16.4
     },
     "news": [
         {
-            "title": "<i>Veias</i> é o primeiro passo para o novo álbum de Mela, numa parceria com Joana Alegre",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/video/veias-passo-novo-album-mela-parceria-joana-alegre-20260930-153123"
+            "title": "Desde o fim da “geringonça” que não se anunciava tão cedo a viabilização do Orçamento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/politica/noticia/desde-fim-geringonca-nao-anunciava-tao-cedo-viabilizacao-orcamento-2189936"
         },
         {
-            "title": "<em>NAZA</em>, <em>Fuck the Polis</em> e outras estreias para esta semana",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/culturaipsilon/noticia/naza-fuck-the-polis-estreias-semana-2189272"
+            "title": "Este vídeo mostra manifestantes em protesto pela habitação em Madrid? Não, é IA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/mundo/noticia/video-mostra-manifestantes-protesto-habitacao-madrid-nao-ia-2189961"
         },
         {
-            "title": "Tennessee suspende execuções até 2027 depois de Christa Pike sobreviver a duas injecções letais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/mundo/noticia/tennessee-suspende-execucoes-ate-2027-christa-pike-sobreviver-duas-injeccoes-letais-2189908"
+            "title": "Gestora do Volta admite compensar municípios por custos de limpeza urbana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/azul/noticia/gestora-volta-admite-compensar-municipios-custos-limpeza-urbana-2189963"
         },
         {
-            "title": "IGAS abre inquérito a mortes de idosos de lar em Estremoz com surto de gripe A",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/sociedade/noticia/igas-abre-inquerito-mortes-idosos-lar-estremoz-surto-gripe-2189907"
+            "title": "O que fazer? Sexta é dia de aves, sombras e teatro cómico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/fugas/noticia/sexta-dia-aves-sombras-teatro-comico-2189968"
         },
         {
-            "title": "“Pode estar em preparação” cimeira Trump-Xi-Putin para “redefinir a ordem mundial”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/mundo/noticia/estar-preparacao-cimeira-trumpxiputin-redefinir-ordem-mundial-2189829"
+            "title": "As canções podem ser antigas, mas os Rádio Macau estão demasiados vivos para nostalgia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/culturaipsilon/critica/cancoes-podem-antigas-radio-macau-estao-demasiados-vivos-nostalgia-2189958"
         }
     ],
     "finance": [],
-    "last_update": "01/10/2026 07:58"
+    "last_update": "01/10/2026 15:03"
 }
