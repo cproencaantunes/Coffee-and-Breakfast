@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.3,
-        "manha": 17.3,
-        "tarde": 23.1,
-        "noite": 18.1
+        "manha": 17.4,
+        "tarde": 23.0,
+        "noite": 18.7
     },
     "forecast": {
-        "max": 27.9,
-        "min": 16.2
+        "max": 26.9,
+        "min": 16.7
     },
     "news": [
         {
-            "title": "Volte-face na habitação: PSD e Chega aproximam-se depois das zangas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/politica/noticia/volteface-habitacao-psd-chega-aproximamse-zangas-2189900"
+            "title": "<i>Veias</i> é o primeiro passo para o novo álbum de Mela, numa parceria com Joana Alegre",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/video/veias-passo-novo-album-mela-parceria-joana-alegre-20260930-153123"
         },
         {
-            "title": "O autocarro não é do teu pai (nem a escola)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/opiniao/opiniao/autocarro-nao-pai-escola-2189880"
+            "title": "<em>NAZA</em>, <em>Fuck the Polis</em> e outras estreias para esta semana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/culturaipsilon/noticia/naza-fuck-the-polis-estreias-semana-2189272"
         },
         {
-            "title": "Jorge Palma, Viale Moutinho e vozes que não se rendem",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/culturaipsilon/opiniao/jorge-palma-viale-moutinho-vozes-nao-rendem-2189774"
+            "title": "Tennessee suspende execuções até 2027 depois de Christa Pike sobreviver a duas injecções letais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/mundo/noticia/tennessee-suspende-execucoes-ate-2027-christa-pike-sobreviver-duas-injeccoes-letais-2189908"
         },
         {
-            "title": "A coordenação do combate à droga deve manter-se na Polícia Judiciária",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/opiniao/opiniao/coordenacao-combate-droga-manterse-policia-judiciaria-2189480"
+            "title": "IGAS abre inquérito a mortes de idosos de lar em Estremoz com surto de gripe A",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/sociedade/noticia/igas-abre-inquerito-mortes-idosos-lar-estremoz-surto-gripe-2189907"
         },
         {
-            "title": "O que espera o Governo para recomendar teletrabalho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/opiniao/opiniao/espera-governo-recomendar-teletrabalho-2189531"
+            "title": "“Pode estar em preparação” cimeira Trump-Xi-Putin para “redefinir a ordem mundial”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/mundo/noticia/estar-preparacao-cimeira-trumpxiputin-redefinir-ordem-mundial-2189829"
         }
     ],
     "finance": [],
-    "last_update": "01/10/2026 01:40"
+    "last_update": "01/10/2026 07:58"
 }
