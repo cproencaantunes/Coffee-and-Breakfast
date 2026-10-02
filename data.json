@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.3,
-        "manha": 17.6,
-        "tarde": 26.6,
-        "noite": 22.7
+        "manha": 17.9,
+        "tarde": 27.3,
+        "noite": 23.0
     },
     "forecast": {
-        "max": 26.3,
-        "min": 19.4
+        "max": 27.0,
+        "min": 19.6
     },
     "news": [
         {
-            "title": "Seja responsável: desconfie da moderação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/02/ciencia/ensaio/responsavel-desconfie-moderacao-2189896"
+            "title": "De Santiago do Chile a Valparaíso, entre ruas, paisagens e museus imperdíveis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/02/fugas/noticia/santiago-chile-valparaiso-ruas-paisagens-museus-imperdiveis-2189677"
         },
         {
-            "title": "Lisboa Mistura festeja 30 anos de trabalho comunitário e musical da Sons da Lusofonia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/02/culturaipsilon/noticia/lisboa-mistura-festeja-30-anos-trabalho-comunitario-musical-sons-lusofonia-2189975"
+            "title": "Desta vez, com <em>Digger</em>, Tom Cruise estatela-se?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/02/culturaipsilon/noticia/digger-tom-cruise-estatelase-2189909"
         },
         {
-            "title": "O grande mito do nosso tempo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/02/culturaipsilon/opiniao/mito-tempo-2189701"
+            "title": "Câmara de Lisboa recusa exercer direito de preferência no antigo hospital de Arroios",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/02/local/noticia/camara-lisboa-recusa-exercer-direito-preferencia-antigo-hospital-arroios-2190006"
         },
         {
-            "title": "O estranho caso dos Estados Unidos da América",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/02/mundo/cronica/estranho-caso-estados-unidos-america-2190009"
+            "title": "Estado transfere área do antigo complexo logístico da Bobadela para Loures",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/02/local/noticia/estado-transfere-area-antigo-complexo-logistico-bobadela-loures-2190072"
         },
         {
-            "title": "“<em>Cash is king</em>”? Atrás nas sondagens, republicanos abrem cordões à bolsa na campanha das intercalares",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/02/mundo/noticia/cash-is-king-atras-sondagens-republicanos-abrem-cordoes-bolsa-campanha-intercalares-2190012"
+            "title": "Sana Berlim: uma casa portuguesa, com certeza",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/02/fugas/reportagem/sana-berlim-casa-portuguesa-certeza-2190061"
         }
     ],
     "finance": [],
-    "last_update": "02/10/2026 06:24"
+    "last_update": "02/10/2026 13:19"
 }
