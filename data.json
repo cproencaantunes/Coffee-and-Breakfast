@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.3,
-        "manha": 17.3,
-        "tarde": 23.0,
-        "noite": 18.4
+        "manha": 17.6,
+        "tarde": 26.5,
+        "noite": 23.5
     },
     "forecast": {
-        "max": 27.7,
-        "min": 16.3
+        "max": 27.5,
+        "min": 20.4
     },
     "news": [
         {
-            "title": "O que fazer neste fim-de-semana? Jogar entre a doçaria e os frutos secos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/fugas/noticia/neste-fimdesemana-jogar-docaria-frutos-secos-2189981"
+            "title": "Deixem o Luís ensinar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/02/opiniao/opiniao/deixem-luis-ensinar-2189999"
         },
         {
-            "title": "Ronaldo sai, o Orçamento fica",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/opiniao/editorial/ronaldo-sai-orcamento-fica-2189993"
+            "title": "Não percamos a capacidade de não nos surpreendermos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/02/opiniao/opiniao/nao-percamos-capacidade-nao-surpreendermos-2189972"
         },
         {
-            "title": "Christa Pike sobreviveu a duas injecções letais e luta pela vida no hospital",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/mundo/noticia/christa-pike-sobreviveu-duas-injeccoes-letais-luta-vida-hospital-2190025"
+            "title": "Quem guarda os curadores?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/02/opiniao/opiniao/guarda-curadores-2189946"
         },
         {
-            "title": "Tiago Torres da Silva em busca da comunicação diante do abismo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/culturaipsilon/noticia/tiago-torres-silva-busca-comunicacao-diante-abismo-2189969"
+            "title": "David à entrada do Mar Vermelho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/02/opiniao/opiniao/david-entrada-mar-vermelho-2189830"
         },
         {
-            "title": "Por um triz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/01/p3/cronica/triz-2189987"
+            "title": "Jesus Cris. E no princípio era o golo!",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/02/opiniao/opiniao/jesus-cris-principio-golo-2190018"
         }
     ],
     "finance": [],
-    "last_update": "01/10/2026 20:38"
+    "last_update": "02/10/2026 00:18"
 }
