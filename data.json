@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 22.6,
-        "manha": 20.1,
-        "tarde": 26.6,
-        "noite": 22.4
+        "manha": 20.4,
+        "tarde": 26.9,
+        "noite": 23.5
     },
     "forecast": {
-        "max": 28.1,
+        "max": 27.9,
         "min": 20.5
     },
     "news": [
         {
-            "title": "Um juiz pode defender-se com dureza?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/opiniao/opiniao/juiz-defenderse-dureza-2190115"
+            "title": "Os decisores políticos precisam de se tornar pessoas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/azul/opiniao/decisores-politicos-precisam-tornar-pessoas-2190095"
         },
         {
-            "title": "António Guterres, dez anos depois",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/opiniao/opiniao/antonio-guterres-dez-anos-2189821"
+            "title": "Puzone, Maradona, os vícios e um jogo na lama",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/desporto/noticia/puzone-maradona-vicios-jogo-lama-2190151"
         },
         {
-            "title": "A nossa ambição não pode acabar no salário mínimo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/opiniao/opiniao/ambicao-nao-acabar-salario-minimo-2189980"
+            "title": "Eleições no Brasil: um conto de duas cidades a bordo de um autocarro carioca",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/mundo/reportagem/eleicoes-brasil-conto-duas-cidades-bordo-autocarro-carioca-2190145"
         },
         {
-            "title": "Medicina: vem aí outra pandemia?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/opiniao/opiniao/medicina-vem-ai-pandemia-2189513"
+            "title": "Chefe da Casa Civil critica filho de Marcelo por ter escrito para Belém a pressionar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/sociedade/noticia/chefe-casa-civil-critica-filho-marcelo-escrito-belem-pressionar-2190158"
         },
         {
-            "title": "O sumo de dinossauros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/opiniao/cronica/sumo-dinossauros-2190078"
+            "title": "Estudo sugere que os animais podem ter surgido muito mais cedo do que fósseis indicam",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/ciencia/noticia/estudo-sugere-animais-podem-surgido-cedo-fosseis-indicam-2190097"
         }
     ],
     "finance": [],
-    "last_update": "03/10/2026 01:32"
+    "last_update": "03/10/2026 07:14"
 }
