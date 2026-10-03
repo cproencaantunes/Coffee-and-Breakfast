@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 18.3,
-        "manha": 17.9,
-        "tarde": 27.3,
-        "noite": 23.0
+        "atual": 22.6,
+        "manha": 20.1,
+        "tarde": 26.6,
+        "noite": 22.4
     },
     "forecast": {
-        "max": 26.7,
-        "min": 19.1
+        "max": 28.1,
+        "min": 20.5
     },
     "news": [
         {
-            "title": "Dois iranianos acusados no Reino Unido de alegado plano terrorista contra comunidade judaica",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/02/mundo/noticia/dois-iranianos-acusados-reino-unido-alegado-plano-terrorista-comunidade-judaica-2190161"
+            "title": "Um juiz pode defender-se com dureza?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/opiniao/opiniao/juiz-defenderse-dureza-2190115"
         },
         {
-            "title": "Vai votar neste domingo para presidente do Brasil? Veja as dicas para evitar filas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/02/publico-brasil/noticia/vai-votar-neste-domingo-presidente-brasil-veja-dicas-evitar-filas-2190159"
+            "title": "António Guterres, dez anos depois",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/opiniao/opiniao/antonio-guterres-dez-anos-2189821"
         },
         {
-            "title": "Mãe das gémeas luso-brasileiras: “Pedi ao Governo tudo o que era um direito das meninas”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/02/sociedade/noticia/mae-gemeas-lusobrasileiras-pedi-governo-direito-meninas-2190156"
+            "title": "A nossa ambição não pode acabar no salário mínimo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/opiniao/opiniao/ambicao-nao-acabar-salario-minimo-2189980"
         },
         {
-            "title": "Espectáculos internacionais, problemas nacionais: Portugal e a segurança nos eventos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/02/culturaipsilon/opiniao/espectaculos-internacionais-problemas-nacionais-portugal-seguranca-eventos-2189862"
+            "title": "Medicina: vem aí outra pandemia?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/opiniao/opiniao/medicina-vem-ai-pandemia-2189513"
         },
         {
-            "title": "Outubro arranca com novas regras para tuk-tuks no Porto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/02/local/noticia/outubro-arranca-novas-regras-tuktuks-porto-2190127"
+            "title": "O sumo de dinossauros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/opiniao/cronica/sumo-dinossauros-2190078"
         }
     ],
     "finance": [],
-    "last_update": "02/10/2026 22:39"
+    "last_update": "03/10/2026 01:32"
 }
