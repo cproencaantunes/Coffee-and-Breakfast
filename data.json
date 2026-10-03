@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 22.6,
-        "manha": 20.4,
-        "tarde": 26.9,
-        "noite": 23.5
+        "manha": 20.6,
+        "tarde": 25.1,
+        "noite": 22.4
     },
     "forecast": {
-        "max": 27.9,
-        "min": 20.5
+        "max": 27.4,
+        "min": 19.8
     },
     "news": [
         {
-            "title": "Os decisores políticos precisam de se tornar pessoas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/azul/opiniao/decisores-politicos-precisam-tornar-pessoas-2190095"
+            "title": "Scope melhora <em>rating</em> de Portugal para “A+” com perspectiva “estável”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/economia/noticia/scope-melhora-rating-portugal-perspectiva-estavel-2190195"
         },
         {
-            "title": "Puzone, Maradona, os vícios e um jogo na lama",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/desporto/noticia/puzone-maradona-vicios-jogo-lama-2190151"
+            "title": "Relação revoga decisão de não-pronúncia de cinco arguidos no processo Montepio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/economia/noticia/relacao-revoga-decisao-naopronuncia-cinco-arguidos-processo-montepio-2190198"
         },
         {
-            "title": "Eleições no Brasil: um conto de duas cidades a bordo de um autocarro carioca",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/mundo/reportagem/eleicoes-brasil-conto-duas-cidades-bordo-autocarro-carioca-2190145"
+            "title": "Em Espanha, a “bolha está a rebentar” e os inquilinos querem parar o país",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/economia/noticia/espanha-bolha-rebentar-inquilinos-querem-parar-pais-2190160"
         },
         {
-            "title": "Chefe da Casa Civil critica filho de Marcelo por ter escrito para Belém a pressionar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/sociedade/noticia/chefe-casa-civil-critica-filho-marcelo-escrito-belem-pressionar-2190158"
+            "title": "MAAT prepara exposições de Christian Marclay e sobre IA para 2027",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/culturaipsilon/noticia/maat-prepara-exposicoes-christian-marclay-ia-2027-2190177"
         },
         {
-            "title": "Estudo sugere que os animais podem ter surgido muito mais cedo do que fósseis indicam",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/ciencia/noticia/estudo-sugere-animais-podem-surgido-cedo-fosseis-indicam-2190097"
+            "title": "Mulher de 102 anos morre em inundações em Espanha, dezenas de pessoas resgatadas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/mundo/noticia/mulher-102-anos-morre-inundacoes-espanha-dezenas-pessoas-resgatadas-2190196"
         }
     ],
     "finance": [],
-    "last_update": "03/10/2026 07:14"
+    "last_update": "03/10/2026 12:49"
 }
