@@ -2,35 +2,35 @@
     "weather": {
         "atual": 22.6,
         "manha": 20.6,
-        "tarde": 25.1,
-        "noite": 22.4
+        "tarde": 26.8,
+        "noite": 21.8
     },
     "forecast": {
-        "max": 27.4,
-        "min": 19.8
+        "max": 26.8,
+        "min": 19.9
     },
     "news": [
         {
-            "title": "Scope melhora <em>rating</em> de Portugal para “A+” com perspectiva “estável”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/economia/noticia/scope-melhora-rating-portugal-perspectiva-estavel-2190195"
+            "title": "Liga das Nações: “O problema nesta altura é a Noruega”, vinca Jorge Jesus",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/desporto/noticia/liga-nacoes-problema-altura-noruega-vinca-jorge-jesus-2190210"
         },
         {
-            "title": "Relação revoga decisão de não-pronúncia de cinco arguidos no processo Montepio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/economia/noticia/relacao-revoga-decisao-naopronuncia-cinco-arguidos-processo-montepio-2190198"
+            "title": "Diploma que reforça acesso dos consumidores a garrafas de gás entra em vigor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/economia/noticia/diploma-reforca-acesso-consumidores-garrafas-gas-entra-vigor-2190213"
         },
         {
-            "title": "Em Espanha, a “bolha está a rebentar” e os inquilinos querem parar o país",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/economia/noticia/espanha-bolha-rebentar-inquilinos-querem-parar-pais-2190160"
+            "title": "“Os danos têm de ser reparados”: ONU confronta EUA com o legado nuclear nas Ilhas Marshall",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/azul/noticia/danos-reparados-onu-confronta-eua-legado-nuclear-ilhas-marshall-2190043"
         },
         {
-            "title": "MAAT prepara exposições de Christian Marclay e sobre IA para 2027",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/culturaipsilon/noticia/maat-prepara-exposicoes-christian-marclay-ia-2027-2190177"
+            "title": "Milícia próxima do Governo etíope diz ter tomado o controlo do aeroporto de Tigré",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/mundo/noticia/milicia-proxima-governo-etiope-tomado-controlo-aeroporto-tigre-2190214"
         },
         {
-            "title": "Mulher de 102 anos morre em inundações em Espanha, dezenas de pessoas resgatadas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/mundo/noticia/mulher-102-anos-morre-inundacoes-espanha-dezenas-pessoas-resgatadas-2190196"
+            "title": "Pequenas conversas, grandes caminhos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/impar/cronica/conversas-caminhos-2190209"
         }
     ],
     "finance": [],
-    "last_update": "03/10/2026 12:49"
+    "last_update": "03/10/2026 16:51"
 }
