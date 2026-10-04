@@ -2,35 +2,35 @@
     "weather": {
         "atual": 21.9,
         "manha": 19.9,
-        "tarde": 24.8,
-        "noite": 22.4
+        "tarde": 25.7,
+        "noite": 23.7
     },
     "forecast": {
-        "max": 25.9,
-        "min": 18.8
+        "max": 26.1,
+        "min": 18.4
     },
     "news": [
         {
-            "title": "“É um mega evento, igual a um Maracanã lotado”, diz cônsul sobre votação em Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/04/publico-brasil/noticia/mega-evento-igual-maracana-lotado-consul-votacao-lisboa-2190260"
+            "title": "Só lhe faltava este: Evenepoel é campeão europeu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/04/desporto/noticia/so-faltava-evenepoel-campeao-europeu-2190279"
         },
         {
-            "title": "Votação mais organizada em Lisboa para uma comunidade brasileira dividida",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/04/mundo/noticia/votacao-organizada-lisboa-comunidade-brasileira-dividida-2190259"
+            "title": "Mais de mil anos depois, um czar búlgaro regressou finalmente a casa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/04/mundo/noticia/mil-anos-czar-bulgaro-regressou-finalmente-casa-2190277"
         },
         {
-            "title": "Elfyn Evans sagra-se campeão do mundo de ralis pela primeira vez",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/04/desporto/noticia/elfyn-evans-sagrase-campeao-mundo-ralis-primeira-2190261"
+            "title": "Brasileira com dois títulos de eleitor é barrada no Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/04/publico-brasil/noticia/brasileira-dois-titulos-eleitor-barrada-porto-2190270"
         },
         {
-            "title": "Terceira idade comparece às urnas em Portugal: “Acordem”, pede eleitor",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/04/publico-brasil/noticia/terceira-idade-comparece-urnas-portugal-acordem-pede-eleitor-2190248"
+            "title": "Brasileiros são impedidos de votar com documento português no Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/04/publico-brasil/noticia/brasileiros-sao-impedidos-votar-documento-portugues-porto-2190269"
         },
         {
-            "title": "Unidade de tratamento do jogo recebeu caso com dívida de 3 milhões",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/04/sociedade/noticia/unidade-tratamento-jogo-recebeu-caso-divida-3-milhoes-2190254"
+            "title": "Dentro do “bailarico solidário” com o Barracuda, bar de rock que luta para sobreviver",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/04/culturaipsilon/reportagem/dentro-bailarico-solidario-barracuda-bar-rock-luta-sobreviver-2190274"
         }
     ],
     "finance": [],
-    "last_update": "04/10/2026 14:32"
+    "last_update": "04/10/2026 18:27"
 }
