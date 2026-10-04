@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 22.6,
-        "manha": 20.6,
-        "tarde": 26.8,
-        "noite": 21.4
+        "atual": 21.9,
+        "manha": 19.4,
+        "tarde": 21.6,
+        "noite": 22.8
     },
     "forecast": {
-        "max": 26.3,
+        "max": 25.2,
         "min": 19.1
     },
     "news": [
         {
-            "title": "Presidente do Tribunal de Contas disposta a levar a reforma deste órgão ao Constitucional",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/politica/noticia/presidente-tribunal-contas-disposta-levar-reforma-orgao-constitucional-2190234"
+            "title": "<em>Quo vadis</em>, <em>boomers</em>?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/04/opiniao/opiniao/quo-vadis-boomers-2189649"
         },
         {
-            "title": "“Pluralismo” ou “atentado”: é aceitável benzer uma escola pública numa República laica?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/politica/noticia/pluralismo-atentado-aceitavel-benzer-escolas-republica-laica-2190223"
+            "title": "As construções das elites e a (des)legitimação da Constituição",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/04/opiniao/opiniao/construcoes-elites-deslegitimacao-constituicao-2189923"
         },
         {
-            "title": "Espanha de Lamine Yamal continua a reinar na Liga das Nações",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/desporto/noticia/espanha-lamine-yamal-continua-reinar-liga-nacoes-2190231"
+            "title": "Porto, cidade mineral. E respirável?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/04/opiniao/opiniao/porto-cidade-mineral-respiravel-2190207"
         },
         {
-            "title": "Primeiro foi a “abertura” e, com tempo, Vítor Matos quer tornar a Cucina di Toscani mais “italiana”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/fugas/noticia/abertura-tempo-vitor-matos-quer-tornar-cucina-di-toscani-italiana-2189660"
+            "title": "Alcatrão e penas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/04/opiniao/opiniao/alcatrao-penas-2190206"
         },
         {
-            "title": "Basquetebol: Benfica vence Sporting no derby que marca 1.ª jornada da Liga",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/03/desporto/noticia/basquetebol-benfica-vence-sporting-derby-marca-1-jornada-liga-2190232"
+            "title": "O que fica quando alguém parte",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/04/opiniao/cronica/fica-alguem-parte-2189518"
         }
     ],
     "finance": [],
-    "last_update": "03/10/2026 22:31"
+    "last_update": "04/10/2026 02:14"
 }
