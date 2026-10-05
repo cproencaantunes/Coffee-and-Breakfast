@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 21.2,
-        "manha": 18.8,
-        "tarde": 26.3,
-        "noite": 20.6
+        "manha": 19.0,
+        "tarde": 25.8,
+        "noite": 20.7
     },
     "forecast": {
-        "max": 22.7,
-        "min": 18.5
+        "max": 22.9,
+        "min": 18.7
     },
     "news": [
         {
-            "title": "Após chumbo de medidas para habitação, Sánchez anuncia eleições antecipadas em Espanha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/mundo/noticia/apos-chumbo-medidas-habitacao-sanchez-anuncia-eleicoes-antecipadas-espanha-2190295"
+            "title": "Nacionalistas sérvios da Bósnia declaram vitória em eleições com abstenção recorde",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/mundo/noticia/nacionalistas-servios-bosnia-declaram-vitoria-eleicoes-abstencao-recorde-2190346"
         },
         {
-            "title": "Viviane com <em>Ela Por Elas</em>: “Sempre tive uma paixão grande por vozes femininas”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/culturaipsilon/noticia/viviane-paixao-vozes-femininas-2190199"
+            "title": "Eléctrico do Terreiro do Paço à Expo poderá obrigar a transferir centenas de árvores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/local/noticia/electrico-terreiro-paco-expo-podera-obrigar-transferir-centenas-arvores-2190150"
         },
         {
-            "title": "Agricultores portugueses não conseguem competir. “Espanha invade-nos com produtos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/economia/noticia/agricultores-portugueses-nao-conseguem-competir-espanha-invadenos-produtos-2190182"
+            "title": "Aguiar-Branco defende limite de duas comissões de inquérito a funcionar em simultâneo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/politica/noticia/aguiarbranco-defende-limite-duas-comissoes-inquerito-funcionar-simultaneo-2190343"
         },
         {
-            "title": "Num planeta a ferver, qual é o legado climático de António Guterres?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/azul/noticia/planeta-ferver-legado-climatico-antonio-guterres-2190139"
+            "title": "O rapper Mark Delman estreia em show no Coliseu de Lisboa e prepara novo álbum",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/publico-brasil/entrevista/rapper-mark-delman-estreia-show-coliseu-lisboa-prepara-novo-album-2190330"
         },
         {
-            "title": "Avisos de cancro nos rótulos das bebidas alcoólicas? “Já vamos tarde”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/ciencia/noticia/avisos-cancro-rotulos-bebidas-alcoolicas-ja-vamos-tarde-2190149"
+            "title": "Esquerda, Chega e IL criticam discurso de Seguro, PS lança apelo ao PSD (que recusa)",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/politica/noticia/esquerda-chega-il-criticam-discurso-seguro-ps-lanca-apelo-psd-recusa-2190336"
         }
     ],
     "finance": [],
-    "last_update": "05/10/2026 07:52"
+    "last_update": "05/10/2026 16:33"
 }
