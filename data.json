@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 21.2,
-        "manha": 18.6,
-        "tarde": 26.0,
-        "noite": 20.2
+        "manha": 18.8,
+        "tarde": 26.3,
+        "noite": 20.6
     },
     "forecast": {
-        "max": 23.6,
-        "min": 18.0
+        "max": 22.7,
+        "min": 18.5
     },
     "news": [
         {
-            "title": "O altruísmo eficaz e as contas do fim do mundo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/opiniao/opiniao/altruismo-eficaz-contas-fim-mundo-2190247"
+            "title": "Após chumbo de medidas para habitação, Sánchez anuncia eleições antecipadas em Espanha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/mundo/noticia/apos-chumbo-medidas-habitacao-sanchez-anuncia-eleicoes-antecipadas-espanha-2190295"
         },
         {
-            "title": "O escrutínio e a mentira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/opiniao/opiniao/escrutinio-mentira-2190258"
+            "title": "Viviane com <em>Ela Por Elas</em>: “Sempre tive uma paixão grande por vozes femininas”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/culturaipsilon/noticia/viviane-paixao-vozes-femininas-2190199"
         },
         {
-            "title": "Reparações históricas: mentiras e falsas dicotomias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/opiniao/opiniao/reparacoes-historicas-mentiras-falsas-dicotomias-2189817"
+            "title": "Agricultores portugueses não conseguem competir. “Espanha invade-nos com produtos”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/economia/noticia/agricultores-portugueses-nao-conseguem-competir-espanha-invadenos-produtos-2190182"
         },
         {
-            "title": "O valor da incoerência do Governo são 390 milhões de euros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/opiniao/opiniao/valor-incoerencia-governo-sao-390-milhoes-euros-2189939"
+            "title": "Num planeta a ferver, qual é o legado climático de António Guterres?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/azul/noticia/planeta-ferver-legado-climatico-antonio-guterres-2190139"
         },
         {
-            "title": "Uma carta ao mundo é enviada a quem?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/opiniao/opiniao/carta-mundo-enviada-2189932"
+            "title": "Avisos de cancro nos rótulos das bebidas alcoólicas? “Já vamos tarde”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/ciencia/noticia/avisos-cancro-rotulos-bebidas-alcoolicas-ja-vamos-tarde-2190149"
         }
     ],
     "finance": [],
-    "last_update": "05/10/2026 01:22"
+    "last_update": "05/10/2026 07:52"
 }
