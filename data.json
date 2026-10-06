@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.1,
-        "manha": 19.2,
-        "tarde": 22.9,
-        "noite": 18.8
+        "manha": 19.6,
+        "tarde": 23.1,
+        "noite": 19.1
     },
     "forecast": {
-        "max": 23.5,
-        "min": 17.5
+        "max": 24.0,
+        "min": 18.1
     },
     "news": [
         {
-            "title": "Lamento, mas esta não é uma crónica sobre bola",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/opiniao/opiniao/lamento-nao-cronica-bola-2190324"
+            "title": "Tem agendamento na AIMA? Saiba que há greve de trabalhadores nesta terça-feira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/publico-brasil/noticia/agendamento-aima-saiba-ha-greve-trabalhadores-tercafeira-2190383"
         },
         {
-            "title": "Mesmo sem Netanyahu, a guerra continuará",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/opiniao/opiniao/netanyahu-guerra-continuara-2190356"
+            "title": "Portugal acumula 102 processos de infracção em Bruxelas. Um terço é sobre ambiente, energia e clima",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/azul/noticia/portugal-102-processos-infraccao-transposicao-directivas-europeias-2190381"
         },
         {
-            "title": "Valores?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/opiniao/opiniao/valores-2190365"
+            "title": "Mais um Nobel para uma descoberta motivada pela curiosidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/ciencia/opiniao/nobel-descoberta-motivada-curiosidade-2190378"
         },
         {
-            "title": "A nova economia da IA: o desaparecimento da interação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/opiniao/opiniao/nova-economia-ia-desaparecimento-interacao-2189927"
+            "title": "Autarcas do Algarve vão à Dinamarca estudar solução para o lixo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/local/noticia/autarcas-algarve-vao-dinamarca-estudar-solucao-lixo-2190331"
         },
         {
-            "title": "Habitação: o remédio está a matar o doente e aumenta-se a dose",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/opiniao/opiniao/habitacao-remedio-matar-doente-aumentase-dose-2190250"
+            "title": "O Coração Ainda Bate. SOS",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/impar/cronica/coracao-bate-sos-2190389"
         }
     ],
     "finance": [],
-    "last_update": "06/10/2026 02:41"
+    "last_update": "06/10/2026 09:33"
 }
