@@ -3,34 +3,34 @@
         "atual": 20.1,
         "manha": 19.4,
         "tarde": 24.1,
-        "noite": 19.4
+        "noite": 19.2
     },
     "forecast": {
-        "max": 24.1,
-        "min": 17.3
+        "max": 24.0,
+        "min": 16.7
     },
     "news": [
         {
-            "title": "Separatistas regressam ao poder no Quebeque mas remetem referendo para o pós-Trump",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/mundo/noticia/separatistas-regressam-quebeque-remetem-referendo-postrump-2190438"
+            "title": "A Croácia preparou-se para tudo, menos para Mikel Merino",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/desporto/noticia/croacia-preparouse-menos-mikel-merino-2190495"
         },
         {
-            "title": "Reflorestação entra no mercado de carbono, mas sem dar resposta aos eucaliptais abandonados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/azul/noticia/reflorestacao-entra-mercado-carbono-dar-resposta-eucaliptais-abandonados-2190422"
+            "title": "Moedas diz que para Passos “é mais fácil falar do que fazer”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/politica/noticia/moedas-passos-facil-falar-2190490"
         },
         {
-            "title": "Morreu Jeffrey Archer, romancista <em>best-seller</em> e político de reputação escandalosa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/culturaipsilon/noticia/morreu-jeffrey-archer-romancista-bestseller-politico-reputacao-escandalosa-2190420"
+            "title": "PS admite mudar viabilização do OE2027 se este tiver “medidas surpresa” gravosas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/politica/noticia/ps-admite-mudar-viabilizacao-oe2027-medidas-surpresa-gravosas-2190485"
         },
         {
-            "title": "Fusão Paramount e Warner Bros. é oficial. Agora, juntas são a Skydance",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/culturaipsilon/noticia/fusao-paramount-warner-bros-oficial-juntas-sao-skydance-2190451"
+            "title": "Os limites do voto de rejeição",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/publico-brasil/opiniao/limites-voto-rejeicao-2190494"
         },
         {
-            "title": "Shakira e Piqué voltam a tribunal para decidir regime de visitas dos filhos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/impar/noticia/shakira-pique-voltam-tribunal-decidir-regime-visitas-filhos-2190449"
+            "title": "Seguro, um bom aliado do Governo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/opiniao/editorial/seguro-bom-aliado-governo-2190486"
         }
     ],
     "finance": [],
-    "last_update": "06/10/2026 16:21"
+    "last_update": "06/10/2026 21:21"
 }
