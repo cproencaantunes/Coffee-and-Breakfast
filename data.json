@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 21.2,
-        "manha": 19.0,
-        "tarde": 25.8,
-        "noite": 20.7
+        "atual": 20.1,
+        "manha": 19.2,
+        "tarde": 22.9,
+        "noite": 18.8
     },
     "forecast": {
-        "max": 23.0,
-        "min": 18.6
+        "max": 23.5,
+        "min": 17.5
     },
     "news": [
         {
-            "title": "O triunfo da cunha (e a alegoria de Ana Sá Lopes)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/opiniao/opiniao/triunfo-cunha-alegoria-ana-sa-lopes-2190316"
+            "title": "Lamento, mas esta não é uma crónica sobre bola",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/opiniao/opiniao/lamento-nao-cronica-bola-2190324"
         },
         {
-            "title": "Roubados em Portugal, brasileiros superam dificuldades e criam negócio pet na Maia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/publico-brasil/noticia/roubados-portugal-brasileiros-superam-dificuldades-criam-negocio-pet-maia-2190355"
+            "title": "Mesmo sem Netanyahu, a guerra continuará",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/opiniao/opiniao/netanyahu-guerra-continuara-2190356"
         },
         {
-            "title": "Froholdt, Prestianni e Mora entre os finalistas do prémio Golden Boy",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/desporto/noticia/froholdt-prestianni-mora-finalistas-premio-golden-boy-2190370"
+            "title": "Valores?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/opiniao/opiniao/valores-2190365"
         },
         {
-            "title": "A França renovada deu a volta a Lukebakio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/desporto/noticia/franca-renovada-deu-volta-lukebakio-2190369"
+            "title": "A nova economia da IA: o desaparecimento da interação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/opiniao/opiniao/nova-economia-ia-desaparecimento-interacao-2189927"
         },
         {
-            "title": "Gaza: três anos depois",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/05/mundo/opiniao/gaza-tres-anos-2190351"
+            "title": "Habitação: o remédio está a matar o doente e aumenta-se a dose",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/opiniao/opiniao/habitacao-remedio-matar-doente-aumentase-dose-2190250"
         }
     ],
     "finance": [],
-    "last_update": "05/10/2026 22:58"
+    "last_update": "06/10/2026 02:41"
 }
