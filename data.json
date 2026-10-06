@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.1,
-        "manha": 19.6,
-        "tarde": 23.1,
-        "noite": 19.1
+        "manha": 19.4,
+        "tarde": 24.1,
+        "noite": 19.4
     },
     "forecast": {
-        "max": 24.0,
-        "min": 18.1
+        "max": 24.1,
+        "min": 17.3
     },
     "news": [
         {
-            "title": "Tem agendamento na AIMA? Saiba que há greve de trabalhadores nesta terça-feira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/publico-brasil/noticia/agendamento-aima-saiba-ha-greve-trabalhadores-tercafeira-2190383"
+            "title": "Separatistas regressam ao poder no Quebeque mas remetem referendo para o pós-Trump",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/mundo/noticia/separatistas-regressam-quebeque-remetem-referendo-postrump-2190438"
         },
         {
-            "title": "Portugal acumula 102 processos de infracção em Bruxelas. Um terço é sobre ambiente, energia e clima",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/azul/noticia/portugal-102-processos-infraccao-transposicao-directivas-europeias-2190381"
+            "title": "Reflorestação entra no mercado de carbono, mas sem dar resposta aos eucaliptais abandonados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/azul/noticia/reflorestacao-entra-mercado-carbono-dar-resposta-eucaliptais-abandonados-2190422"
         },
         {
-            "title": "Mais um Nobel para uma descoberta motivada pela curiosidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/ciencia/opiniao/nobel-descoberta-motivada-curiosidade-2190378"
+            "title": "Morreu Jeffrey Archer, romancista <em>best-seller</em> e político de reputação escandalosa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/culturaipsilon/noticia/morreu-jeffrey-archer-romancista-bestseller-politico-reputacao-escandalosa-2190420"
         },
         {
-            "title": "Autarcas do Algarve vão à Dinamarca estudar solução para o lixo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/local/noticia/autarcas-algarve-vao-dinamarca-estudar-solucao-lixo-2190331"
+            "title": "Fusão Paramount e Warner Bros. é oficial. Agora, juntas são a Skydance",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/culturaipsilon/noticia/fusao-paramount-warner-bros-oficial-juntas-sao-skydance-2190451"
         },
         {
-            "title": "O Coração Ainda Bate. SOS",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/impar/cronica/coracao-bate-sos-2190389"
+            "title": "Shakira e Piqué voltam a tribunal para decidir regime de visitas dos filhos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/impar/noticia/shakira-pique-voltam-tribunal-decidir-regime-visitas-filhos-2190449"
         }
     ],
     "finance": [],
-    "last_update": "06/10/2026 09:33"
+    "last_update": "06/10/2026 16:21"
 }
