@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.4,
-        "manha": 18.2,
-        "tarde": 23.9,
+        "manha": 18.1,
+        "tarde": 23.4,
         "noite": 18.2
     },
     "forecast": {
-        "max": 27.9,
-        "min": 15.4
+        "max": 27.6,
+        "min": 15.5
     },
     "news": [
         {
-            "title": "<em>Sad Jokes</em>: a vida secreta dos sentimentos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/culturaipsilon/critica/sad-jokes-vida-secreta-sentimentos-2190296"
+            "title": "O que fazer? Quinta é dia de dar palco a <em>Úlulu </em>e à Colecção Ormsson",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/fugas/noticia/quinta-dia-dar-palco-ululu-coleccao-ormsson-2190550"
         },
         {
-            "title": "OMS desaconselha medicamentos e cirurgia para obesidade em crianças",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/sociedade/noticia/oms-desaconselha-medicamentos-cirurgia-obesidade-criancas-2190478"
+            "title": "Gonzaguinha oitentão seria “menos apaziguador”, diz roteirista de filme premiado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/publico-brasil/noticia/gonzaguinha-oitentao-menos-apaziguador-roteirista-filme-premiado-2190489"
         },
         {
-            "title": "Despertador: a síntese da actualidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/newsletter/despertador"
+            "title": "Ministério diz que foram tomadas “medidas transitórias” para assegurar turmas de Marvila sem professor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/sociedade/noticia/ministerio-tomadas-medidas-transitorias-assegurar-turmas-marvila-professor-2190543"
         },
         {
-            "title": "Uma constelação luso-brasileira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/publico-brasil/opiniao/constelacao-lusobrasileira-2190502"
+            "title": "“Uma mina nunca acaba”: a Urgeiriça ainda vive sob a ameaça invisível da radiação?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/p3/noticia/mina-acaba-urgeirica-vive-ameaca-invisivel-radiacao-2162346"
         },
         {
-            "title": "Cineasta brasileiro filmou crise da habitação em Lisboa. Agora, tem de deixar a casa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/publico-brasil/noticia/cineasta-brasileiro-filmou-crise-habitacao-lisboa-deixar-casa-2190468"
+            "title": "Ministra da Segurança Social e presidente da CGA chamados à AR para explicarem corte em 3000 pensões",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/politica/noticia/ministra-seguranca-social-presidente-cga-chamados-ar-explicarem-corte-3000-pensoes-2190544"
         }
     ],
     "finance": [],
-    "last_update": "07/10/2026 07:52"
+    "last_update": "07/10/2026 14:52"
 }
