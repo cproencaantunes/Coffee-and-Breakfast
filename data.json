@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.1,
-        "manha": 19.4,
-        "tarde": 24.1,
-        "noite": 19.2
+        "atual": 18.4,
+        "manha": 17.9,
+        "tarde": 23.7,
+        "noite": 17.8
     },
     "forecast": {
-        "max": 24.0,
-        "min": 16.7
+        "max": 27.9,
+        "min": 14.9
     },
     "news": [
         {
-            "title": "A Croácia preparou-se para tudo, menos para Mikel Merino",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/desporto/noticia/croacia-preparouse-menos-mikel-merino-2190495"
+            "title": "Jaguar Type 01: ícone britânico renasce eléctrico e com mais de 1000 cavalos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/enter/noticia/jaguar-type-01-icone-britanico-renasce-electrico-1000-cavalos-2190337"
         },
         {
-            "title": "Moedas diz que para Passos “é mais fácil falar do que fazer”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/politica/noticia/moedas-passos-facil-falar-2190490"
+            "title": "Montenegro destrona Sócrates",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/opiniao/opiniao/montenegro-destrona-socrates-2190405"
         },
         {
-            "title": "PS admite mudar viabilização do OE2027 se este tiver “medidas surpresa” gravosas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/politica/noticia/ps-admite-mudar-viabilizacao-oe2027-medidas-surpresa-gravosas-2190485"
+            "title": "Então estavam à espera que Seguro falasse de Luís Neves?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/politica/noticia/entao-espera-seguro-falasse-luis-neves-2190503"
         },
         {
-            "title": "Os limites do voto de rejeição",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/publico-brasil/opiniao/limites-voto-rejeicao-2190494"
+            "title": "<em>Drone</em> afunda navio ao largo da Bulgária, Zelensky responsabiliza Rússia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/mundo/noticia/drone-afunda-navio-largo-bulgaria-zelensky-responsabiliza-russia-2190499"
         },
         {
-            "title": "Seguro, um bom aliado do Governo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/06/opiniao/editorial/seguro-bom-aliado-governo-2190486"
+            "title": "Sobre a destruição moral do Estado de Israel",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/opiniao/opiniao/destruicao-moral-estado-israel-2190436"
         }
     ],
     "finance": [],
-    "last_update": "06/10/2026 21:21"
+    "last_update": "07/10/2026 01:06"
 }
