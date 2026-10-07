@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.4,
-        "manha": 17.9,
-        "tarde": 23.7,
-        "noite": 17.8
+        "manha": 18.2,
+        "tarde": 23.9,
+        "noite": 18.2
     },
     "forecast": {
         "max": 27.9,
-        "min": 14.9
+        "min": 15.4
     },
     "news": [
         {
-            "title": "Jaguar Type 01: ícone britânico renasce eléctrico e com mais de 1000 cavalos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/enter/noticia/jaguar-type-01-icone-britanico-renasce-electrico-1000-cavalos-2190337"
+            "title": "<em>Sad Jokes</em>: a vida secreta dos sentimentos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/culturaipsilon/critica/sad-jokes-vida-secreta-sentimentos-2190296"
         },
         {
-            "title": "Montenegro destrona Sócrates",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/opiniao/opiniao/montenegro-destrona-socrates-2190405"
+            "title": "OMS desaconselha medicamentos e cirurgia para obesidade em crianças",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/sociedade/noticia/oms-desaconselha-medicamentos-cirurgia-obesidade-criancas-2190478"
         },
         {
-            "title": "Então estavam à espera que Seguro falasse de Luís Neves?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/politica/noticia/entao-espera-seguro-falasse-luis-neves-2190503"
+            "title": "Despertador: a síntese da actualidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/newsletter/despertador"
         },
         {
-            "title": "<em>Drone</em> afunda navio ao largo da Bulgária, Zelensky responsabiliza Rússia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/mundo/noticia/drone-afunda-navio-largo-bulgaria-zelensky-responsabiliza-russia-2190499"
+            "title": "Uma constelação luso-brasileira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/publico-brasil/opiniao/constelacao-lusobrasileira-2190502"
         },
         {
-            "title": "Sobre a destruição moral do Estado de Israel",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/opiniao/opiniao/destruicao-moral-estado-israel-2190436"
+            "title": "Cineasta brasileiro filmou crise da habitação em Lisboa. Agora, tem de deixar a casa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/publico-brasil/noticia/cineasta-brasileiro-filmou-crise-habitacao-lisboa-deixar-casa-2190468"
         }
     ],
     "finance": [],
-    "last_update": "07/10/2026 01:06"
+    "last_update": "07/10/2026 07:52"
 }
