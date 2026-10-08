@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.1,
-        "manha": 16.8,
+        "manha": 17.0,
         "tarde": 27.2,
-        "noite": 21.8
+        "noite": 21.1
     },
     "forecast": {
-        "max": 25.9,
+        "max": 25.8,
         "min": 16.8
     },
     "news": [
         {
-            "title": "Adopção pelas famílias LGBT em Portugal: afinal, o que é uma família tradicional?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/p3/noticia/adopcao-familias-lgbt-portugal-afinal-familia-tradicional-2190624"
+            "title": "La Belle Françoise: lições de uma princesa para as empresas contemporâneas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/publico-brasil/opiniao/belle-francoise-licoes-princesa-empresas-contemporaneas-2190616"
         },
         {
-            "title": "Ventura tem razão no conflito com Aguiar Branco?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/politica/noticia/ventura-razao-conflito-aguiar-branco-2190623"
+            "title": "Entre petiscos, moqueca e samba: José Avillez abre as portas para celebrar o Brasil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/publico-brasil/noticia/petiscos-moqueca-samba-jose-avillez-abre-portas-celebrar-brasil-2190584"
         },
         {
-            "title": "Para além do PISA (1)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/opiniao/opiniao/alem-pisa-1-2190535"
+            "title": "“Técnica é só o caminho. O que interessa é ter ideias”, diz o pianista Raúl da Costa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/culturaipsilon/noticia/tecnica-so-caminho-interessa-ideias-pianista-raul-costa-2190591"
         },
         {
-            "title": "Ainda se lembram do Acordo Ortográfico? Também eles",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/culturaipsilon/opiniao/lembram-acordo-ortografico-tambem-2190496"
+            "title": "IVA zero, rendas e super-ricos: o que os partidos querem levar ao OE2027",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/politica/noticia/iva-zero-rendas-superricos-partidos-querem-levar-oe2027-2190140"
         },
         {
-            "title": "Onde está o regulamento da CML sobre <em>tuk-tuks</em>?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/opiniao/opiniao/onde-regulamento-cml-tuktuks-2190552"
+            "title": "António Vitorino: “Não vou dizer ‘bloco central só houve um, o de Soares e Mota Pinto e mais nenhum’”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/politica/entrevista/antonio-vitorino-nao-vou-dizer-bloco-central-so-soares-mota-pinto-2190570"
         }
     ],
     "finance": [],
-    "last_update": "08/10/2026 00:32"
+    "last_update": "08/10/2026 06:47"
 }
