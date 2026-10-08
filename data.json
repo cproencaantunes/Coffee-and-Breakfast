@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 19.0,
-        "manha": 18.6,
-        "tarde": 23.1,
-        "noite": 18.7
+        "atual": 18.1,
+        "manha": 16.8,
+        "tarde": 27.2,
+        "noite": 21.8
     },
     "forecast": {
-        "max": 27.1,
-        "min": 17.0
+        "max": 25.9,
+        "min": 16.8
     },
     "news": [
         {
-            "title": "Desafio: unir o Brasil, sem golpes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/opiniao/editorial/desafio-unir-brasil-golpes-2190497"
+            "title": "Adopção pelas famílias LGBT em Portugal: afinal, o que é uma família tradicional?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/p3/noticia/adopcao-familias-lgbt-portugal-afinal-familia-tradicional-2190624"
         },
         {
-            "title": "Num mundo cheio de tretas, “já não interessa o que é profundo ou não é”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/culturaipsilon/noticia/mundo-cheio-tretas-ja-nao-interessa-profundo-nao-2190429"
+            "title": "Ventura tem razão no conflito com Aguiar Branco?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/politica/noticia/ventura-razao-conflito-aguiar-branco-2190623"
         },
         {
-            "title": "Cerca de 300 pessoas protestam em Lisboa contra visita de Marco Rubio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/mundo/noticia/cerca-300-pessoas-protestam-lisboa-visita-marco-rubio-2190610"
+            "title": "Para além do PISA (1)",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/opiniao/opiniao/alem-pisa-1-2190535"
         },
         {
-            "title": "Livrarias denunciam atrasos no pagamento de manuais escolares, mas ministério diz que estão a ser feitos “de forma regular”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/sociedade/noticia/livrarias-denunciam-atrasos-pagamento-manuais-escolares-ministerio-estao-forma-regular-2190604"
+            "title": "Ainda se lembram do Acordo Ortográfico? Também eles",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/culturaipsilon/opiniao/lembram-acordo-ortografico-tambem-2190496"
         },
         {
-            "title": "Tem mais de 45 anos e está desempregado? Feira oferece ajuda para buscar trabalho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/07/publico-brasil/noticia/45-anos-desempregado-feira-oferece-ajuda-buscar-trabalho-2190614"
+            "title": "Onde está o regulamento da CML sobre <em>tuk-tuks</em>?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/opiniao/opiniao/onde-regulamento-cml-tuktuks-2190552"
         }
     ],
     "finance": [],
-    "last_update": "07/10/2026 20:17"
+    "last_update": "08/10/2026 00:32"
 }
