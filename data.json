@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.1,
-        "manha": 17.0,
-        "tarde": 27.2,
-        "noite": 21.1
+        "manha": 17.3,
+        "tarde": 27.4,
+        "noite": 21.0
     },
     "forecast": {
         "max": 25.8,
-        "min": 16.8
+        "min": 16.5
     },
     "news": [
         {
-            "title": "La Belle Françoise: lições de uma princesa para as empresas contemporâneas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/publico-brasil/opiniao/belle-francoise-licoes-princesa-empresas-contemporaneas-2190616"
+            "title": "Como a ocupação \"ocupou Israel\"",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/newsletter/o-estado-das-coisas"
         },
         {
-            "title": "Entre petiscos, moqueca e samba: José Avillez abre as portas para celebrar o Brasil",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/publico-brasil/noticia/petiscos-moqueca-samba-jose-avillez-abre-portas-celebrar-brasil-2190584"
+            "title": "Trump quer transformar o seu clube de golfe na Florida no novo Camp David",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/mundo/noticia/trump-quer-transformar-clube-golfe-florida-novo-camp-david-2190669"
         },
         {
-            "title": "“Técnica é só o caminho. O que interessa é ter ideias”, diz o pianista Raúl da Costa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/culturaipsilon/noticia/tecnica-so-caminho-interessa-ideias-pianista-raul-costa-2190591"
+            "title": "O Ícone de uma herdade alentejana de peso e em profunda transformação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/terroir/noticia/icone-herdade-alentejana-peso-profunda-transformacao-2190638"
         },
         {
-            "title": "IVA zero, rendas e super-ricos: o que os partidos querem levar ao OE2027",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/politica/noticia/iva-zero-rendas-superricos-partidos-querem-levar-oe2027-2190140"
+            "title": "Iolanda sobre <em>Quebranto</em>: “Escrevo sobre coisas que deixei por resolver”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/culturaipsilon/noticia/iolanda-quebranto-escrevo-deixei-resolver-2190342"
         },
         {
-            "title": "António Vitorino: “Não vou dizer ‘bloco central só houve um, o de Soares e Mota Pinto e mais nenhum’”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/politica/entrevista/antonio-vitorino-nao-vou-dizer-bloco-central-so-soares-mota-pinto-2190570"
+            "title": "Brasil: mais do que o desafio de vencer, será o de governar um país dividido",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/publico-brasil/opiniao/brasil-desafio-vencer-sera-governar-pais-dividido-2190682"
         }
     ],
     "finance": [],
-    "last_update": "08/10/2026 06:47"
+    "last_update": "08/10/2026 14:10"
 }
