@@ -2,35 +2,35 @@
     "weather": {
         "atual": 18.1,
         "manha": 17.3,
-        "tarde": 27.4,
-        "noite": 21.0
+        "tarde": 27.5,
+        "noite": 20.8
     },
     "forecast": {
-        "max": 25.8,
-        "min": 16.5
+        "max": 25.9,
+        "min": 16.4
     },
     "news": [
         {
-            "title": "Como a ocupação \"ocupou Israel\"",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/newsletter/o-estado-das-coisas"
+            "title": "O que ainda temos para descobrir sobre Anne Carson, Nobel da Literatura 2026",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/culturaipsilon/noticia/descobrir-anne-carson-nobel-literatura-2026-2190739"
         },
         {
-            "title": "Trump quer transformar o seu clube de golfe na Florida no novo Camp David",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/mundo/noticia/trump-quer-transformar-clube-golfe-florida-novo-camp-david-2190669"
+            "title": "CGA exige devolução de pensão recebida a mais ainda em Outubro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/economia/noticia/cga-exige-devolucao-pensao-recebida-outubro-2190754"
         },
         {
-            "title": "O Ícone de uma herdade alentejana de peso e em profunda transformação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/terroir/noticia/icone-herdade-alentejana-peso-profunda-transformacao-2190638"
+            "title": "Oposição unânime nas críticas ao OE2027, PS “sem certezas” de que cumpra condições para viabilização",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/politica/noticia/oposicao-unanime-criticas-oe2027-ps-certezas-cumpra-condicoes-viabilizacao-2190730"
         },
         {
-            "title": "Iolanda sobre <em>Quebranto</em>: “Escrevo sobre coisas que deixei por resolver”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/culturaipsilon/noticia/iolanda-quebranto-escrevo-deixei-resolver-2190342"
+            "title": "Bolsas de criação literária atribuídas em Março serão pagas este mês",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/culturaipsilon/noticia/bolsas-criacao-literaria-atribuidas-marco-serao-pagas-mes-2190753"
         },
         {
-            "title": "Brasil: mais do que o desafio de vencer, será o de governar um país dividido",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/publico-brasil/opiniao/brasil-desafio-vencer-sera-governar-pais-dividido-2190682"
+            "title": "Já temos Orçamento: ainda há o risco do PS sair do barco?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/08/politica/noticia/ja-orcamento-ha-risco-ps-sair-barco-2190755"
         }
     ],
     "finance": [],
-    "last_update": "08/10/2026 14:10"
+    "last_update": "08/10/2026 20:19"
 }
