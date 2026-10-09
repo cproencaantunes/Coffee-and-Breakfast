@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 20.3,
-        "manha": 17.2,
-        "tarde": 25.2,
-        "noite": 19.2
+        "manha": 17.3,
+        "tarde": 25.7,
+        "noite": 19.3
     },
     "forecast": {
-        "max": 26.9,
-        "min": 13.4
+        "max": 27.2,
+        "min": 13.2
     },
     "news": [
         {
-            "title": "Nós merecemos a democracia?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/publico-brasil/opiniao/merecemos-democracia-2190757"
+            "title": "Semana de quatro dias melhorou ansiedade e produtividade de funcionários públicos nos Açores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/economia/noticia/semana-quatro-dias-melhorou-ansiedade-produtividade-funcionarios-publicos-acores-2190829"
         },
         {
-            "title": "Filho de brasileira não se adapta a escolas em Portugal e ela e o marido compram uma",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/publico-brasil/noticia/filho-brasileira-nao-adapta-escolas-portugal-marido-compram-2190752"
+            "title": "O TAD e o buraco 5",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/desporto/opiniao/tad-buraco-5-2190834"
         },
         {
-            "title": "Brasil, um instante de fulgor para tanta canção desesperada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/mundo/cronica/brasil-instante-fulgor-tanta-cancao-desesperada-2190718"
+            "title": "Trabalhadores da Lusa denunciam ingerência editorial à Assembleia da República e à ERC ",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/sociedade/noticia/trabalhadores-lusa-denunciam-ingerencia-editorial-assembleia-republica-erc-2190832"
         },
         {
-            "title": "Dentro dos novos discos de Emmy Curl e Bandua, raízes para construir o futuro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/culturaipsilon/noticia/dentro-novos-discos-emmy-curl-bandua-raizes-construir-futuro-2190480"
+            "title": "Sem noites em branco, com mais de 150 pessoas e uma ‘ajudinha’ da IA: como se fez o OE2027",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/politica/reportagem/noites-branco-150-pessoas-ajudinha-ia-fez-oe2027-2190775"
         },
         {
-            "title": "Tempos de hiperpolítica",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/culturaipsilon/opiniao/tempos-hiperpolitica-2190349"
+            "title": "As últimas horas nos corredores do Orçamento do Estado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/video/ultimas-horas-corredores-onde-nasce-orcamento-estado-20261009-120820"
         }
     ],
     "finance": [],
-    "last_update": "09/10/2026 06:55"
+    "last_update": "09/10/2026 14:00"
 }
