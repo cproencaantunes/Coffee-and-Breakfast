@@ -2,35 +2,35 @@
     "weather": {
         "atual": 20.3,
         "manha": 17.3,
-        "tarde": 25.7,
-        "noite": 19.3
+        "tarde": 25.6,
+        "noite": 19.4
     },
     "forecast": {
-        "max": 27.2,
-        "min": 13.2
+        "max": 27.9,
+        "min": 13.5
     },
     "news": [
         {
-            "title": "Semana de quatro dias melhorou ansiedade e produtividade de funcionários públicos nos Açores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/economia/noticia/semana-quatro-dias-melhorou-ansiedade-produtividade-funcionarios-publicos-acores-2190829"
+            "title": "Câmara Municipal do Porto anuncia pré-acordo para comprar cinemas do Stop",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/local/noticia/camara-municipal-porto-anuncia-preacordo-comprar-cinemas-stop-2190882"
         },
         {
-            "title": "O TAD e o buraco 5",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/desporto/opiniao/tad-buraco-5-2190834"
+            "title": "Yuval Abraham: “Se fôssemos jornalistas palestinianos, teríamos sido mortos por Israel”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/culturaipsilon/noticia/yuval-abraham-fossemos-jornalistas-palestinianos-teriamos-mortos-israel-2190804"
         },
         {
-            "title": "Trabalhadores da Lusa denunciam ingerência editorial à Assembleia da República e à ERC ",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/sociedade/noticia/trabalhadores-lusa-denunciam-ingerencia-editorial-assembleia-republica-erc-2190832"
+            "title": "Como um programa de televisão deu origem à moda da \"caça ao pedófilo\" na internet",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/video/programa-televisao-deu-origem-moda-caca-pedofilo-internet-20261009-175012"
         },
         {
-            "title": "Sem noites em branco, com mais de 150 pessoas e uma ‘ajudinha’ da IA: como se fez o OE2027",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/politica/reportagem/noites-branco-150-pessoas-ajudinha-ia-fez-oe2027-2190775"
+            "title": "As crianças do “Lebensborn” são as vítimas esquecidas do Terceiro Reich",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/p3/noticia/criancas-lebensborn-sao-vitimas-esquecidas-terceiro-reich-2155983"
         },
         {
-            "title": "As últimas horas nos corredores do Orçamento do Estado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/video/ultimas-horas-corredores-onde-nasce-orcamento-estado-20261009-120820"
+            "title": "Estudantes anunciam protesto em Lisboa contra descongelamento das propinas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/p3/noticia/estudantes-anunciam-protesto-lisboa-descongelamento-propinas-2190884"
         }
     ],
     "finance": [],
-    "last_update": "09/10/2026 14:00"
+    "last_update": "09/10/2026 19:19"
 }
