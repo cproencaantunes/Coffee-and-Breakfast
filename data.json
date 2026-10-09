@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 20.3,
-        "manha": 17.3,
-        "tarde": 25.6,
-        "noite": 19.4
+        "atual": 18.0,
+        "manha": 16.5,
+        "tarde": 25.3,
+        "noite": 19.7
     },
     "forecast": {
-        "max": 27.9,
-        "min": 13.5
+        "max": 25.1,
+        "min": 16.7
     },
     "news": [
         {
-            "title": "Câmara Municipal do Porto anuncia pré-acordo para comprar cinemas do Stop",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/local/noticia/camara-municipal-porto-anuncia-preacordo-comprar-cinemas-stop-2190882"
+            "title": "O efeito Maricarmen, o descontentamento habitacional e um Governo a brincar com o fogo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/opiniao/opiniao/efeito-maricarmen-descontentamento-habitacional-governo-brincar-fogo-2190791"
         },
         {
-            "title": "Yuval Abraham: “Se fôssemos jornalistas palestinianos, teríamos sido mortos por Israel”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/culturaipsilon/noticia/yuval-abraham-fossemos-jornalistas-palestinianos-teriamos-mortos-israel-2190804"
+            "title": "Semana de quatro dias: experimentar mais e melhor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/opiniao/opiniao/semana-quatro-dias-experimentar-melhor-2190787"
         },
         {
-            "title": "Como um programa de televisão deu origem à moda da \"caça ao pedófilo\" na internet",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/video/programa-televisao-deu-origem-moda-caca-pedofilo-internet-20261009-175012"
+            "title": "É um erro, não o façam",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/opiniao/opiniao/erro-nao-facam-2190806"
         },
         {
-            "title": "As crianças do “Lebensborn” são as vítimas esquecidas do Terceiro Reich",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/p3/noticia/criancas-lebensborn-sao-vitimas-esquecidas-terceiro-reich-2155983"
+            "title": "Correr tudo a Anne Carson",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/opiniao/cronica/correr-anne-carson-2190797"
         },
         {
-            "title": "Estudantes anunciam protesto em Lisboa contra descongelamento das propinas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/p3/noticia/estudantes-anunciam-protesto-lisboa-descongelamento-propinas-2190884"
+            "title": "Vem aí o diabo, diz Mário Centeno. E tem imensa graça",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/opiniao/opiniao/vem-ai-diabo-mario-centeno-imensa-graca-2190849"
         }
     ],
     "finance": [],
-    "last_update": "09/10/2026 19:19"
+    "last_update": "09/10/2026 23:39"
 }
