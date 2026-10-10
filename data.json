@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 17.3,
-        "manha": 15.6,
-        "tarde": 27.8,
-        "noite": 19.3
+        "atual": 17.8,
+        "manha": 18.4,
+        "tarde": 23.8,
+        "noite": 18.7
     },
     "forecast": {
-        "max": 24.5,
-        "min": 15.9
+        "max": 24.0,
+        "min": 17.0
     },
     "news": [
         {
-            "title": "Trump liga a Putin, distribui cheques e visita a retaguarda para salvar republicanos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/mundo/noticia/trump-liga-putin-distribui-cheques-visita-retaguarda-salvar-republicanos-2190930"
+            "title": "Como se amaluca uma casa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/11/opiniao/opiniao/amaluca-casa-2190936"
         },
         {
-            "title": "FC Porto ficou a um centímetro de perder pontos na Madeira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/desporto/cronica_de_jogo/fc-porto-ficou-centimetro-perder-pontos-madeira-2190962"
+            "title": "Obama em Lisboa pede líderes que “compreendam valor da igualdade”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/politica/noticia/obama-lisboa-pede-lideres-compreendam-valor-igualdade-2190966"
         },
         {
-            "title": "Diziam ser polícias, mas era mentira. GNR registou 193 burlas em cerca de dois anos e meio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/sociedade/noticia/diziam-policias-mentira-gnr-registou-193-burlas-cerca-ano-meio-2190960"
+            "title": "Junior Messias e os golos depois dos frigoríficos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/desporto/noticia/junior-messias-golos-frigorificos-2190965"
         },
         {
-            "title": "Professoras de São Paulo vão a Braga trocar conhecimento sobre políticas educacionais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/publico-brasil/noticia/professoras-sao-paulo-vao-braga-trocar-conhecimento-politicas-educacionais-2190955"
+            "title": "Sindicato dos chefes da PSP alerta para desmotivação se exigências não forem correspondidas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/sociedade/noticia/sindicato-chefes-psp-alerta-desmotivacao-exigencias-nao-correspondidas-2190964"
         },
         {
-            "title": "Nove mortos, incluindo crianças, em ataque a tiro na Pensilvânia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/mundo/noticia/nove-mortos-incluindo-criancas-ataque-tiro-pensilvania-2190959"
+            "title": "Christa Pike regressa à prisão após sobreviver a tentativa de execução falhada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/mundo/noticia/christa-pike-regressa-prisao-apos-sobreviver-tentativa-execucao-falhada-2190958"
         }
     ],
     "finance": [],
-    "last_update": "10/10/2026 19:49"
+    "last_update": "10/10/2026 23:03"
 }
