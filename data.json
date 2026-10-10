@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.0,
-        "manha": 16.9,
-        "tarde": 25.6,
-        "noite": 20.2
+        "manha": 16.7,
+        "tarde": 25.9,
+        "noite": 19.7
     },
     "forecast": {
-        "max": 25.1,
-        "min": 15.5
+        "max": 25.0,
+        "min": 16.2
     },
     "news": [
         {
-            "title": "O efeito Maricarmen, o descontentamento habitacional e um Governo a brincar com o fogo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/opiniao/opiniao/efeito-maricarmen-descontentamento-habitacional-governo-brincar-fogo-2190791"
+            "title": "Eléctricos baratos e a dança das tarifas: o que muda na mobilidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/enter/podcast/electricos-baratos-danca-tarifas-muda-mobilidade-2190912"
         },
         {
-            "title": "Semana de quatro dias: experimentar mais e melhor",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/opiniao/opiniao/semana-quatro-dias-experimentar-melhor-2190787"
+            "title": "FeelAzores: São Miguel sobre duas rodas, uma ilha para descobrir devagar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/fugas/reportagem/feelazores-sao-miguel-duas-rodas-ilha-descobrir-devagar-2190313"
         },
         {
-            "title": "É um erro, não o façam",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/opiniao/opiniao/erro-nao-facam-2190806"
+            "title": "Começa hoje a última oportunidade para concorrer ao ensino superior e só tem três dias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/sociedade/noticia/comeca-hoje-ultima-oportunidade-concorrer-ensino-superior-so-tres-dias-2190910"
         },
         {
-            "title": "Correr tudo a Anne Carson",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/opiniao/cronica/correr-anne-carson-2190797"
+            "title": "Manter o aquecimento global abaixo de 1,5 graus é “uma questão de sobrevivência”, diz presidente da COP31",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/azul/noticia/manter-aquecimento-global-abaixo-15-graus-questao-sobrevivencia-presidente-cop31-2190643"
         },
         {
-            "title": "Vem aí o diabo, diz Mário Centeno. E tem imensa graça",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/09/opiniao/opiniao/vem-ai-diabo-mario-centeno-imensa-graca-2190849"
+            "title": "Este caixote de lixo usa a tecnologia para evitar sujar as mãos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/enter/noticia/caixote-lixo-usa-tecnologia-evitar-sujar-maos-2190875"
         }
     ],
     "finance": [],
-    "last_update": "10/10/2026 03:13"
+    "last_update": "10/10/2026 10:12"
 }
