@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 18.0,
-        "manha": 16.7,
-        "tarde": 25.9,
-        "noite": 19.7
+        "atual": 17.3,
+        "manha": 15.6,
+        "tarde": 27.8,
+        "noite": 18.9
     },
     "forecast": {
-        "max": 25.0,
-        "min": 16.2
+        "max": 24.1,
+        "min": 15.8
     },
     "news": [
         {
-            "title": "Eléctricos baratos e a dança das tarifas: o que muda na mobilidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/enter/podcast/electricos-baratos-danca-tarifas-muda-mobilidade-2190912"
+            "title": "Zelensky critica EUA: acordo de Trump sugere a Putin que pode “continuar a atacar”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/mundo/noticia/zelensky-critica-eua-acordo-trump-sugere-putin-continuar-atacar-2190938"
         },
         {
-            "title": "FeelAzores: São Miguel sobre duas rodas, uma ilha para descobrir devagar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/fugas/reportagem/feelazores-sao-miguel-duas-rodas-ilha-descobrir-devagar-2190313"
+            "title": "Sismo de magnitude 7,5 no Panamá. Registadas cerca de cem réplicas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/video/sismo-magnitude-75-panama-registadas-cerca-cem-replicas-20261010-163659"
         },
         {
-            "title": "Começa hoje a última oportunidade para concorrer ao ensino superior e só tem três dias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/sociedade/noticia/comeca-hoje-ultima-oportunidade-concorrer-ensino-superior-so-tres-dias-2190910"
+            "title": "LNEC alerta para risco de novos deslizamentos em Arruda, mesmo que chova menos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/local/noticia/lnec-alerta-risco-novos-deslizamentos-arruda-chova-menos-2190937"
         },
         {
-            "title": "Manter o aquecimento global abaixo de 1,5 graus é “uma questão de sobrevivência”, diz presidente da COP31",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/azul/noticia/manter-aquecimento-global-abaixo-15-graus-questao-sobrevivencia-presidente-cop31-2190643"
+            "title": "Aos 50 anos, a Adolfo Domínguez veio à ModaLisboa à procura das novas gerações",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/impar/reportagem/50-anos-adolfo-dominguez-veio-modalisboa-procura-novas-geracoes-2190909"
         },
         {
-            "title": "Este caixote de lixo usa a tecnologia para evitar sujar as mãos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/enter/noticia/caixote-lixo-usa-tecnologia-evitar-sujar-maos-2190875"
+            "title": "A \"cultura de morte\" e uma surpresa de Outubro vinda de Moscovo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/newsletter/aquinaamerica"
         }
     ],
     "finance": [],
-    "last_update": "10/10/2026 10:12"
+    "last_update": "10/10/2026 15:59"
 }
