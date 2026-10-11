@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 17.4,
-        "manha": 18.2,
-        "tarde": 23.4,
-        "noite": 18.3
+        "manha": 18.1,
+        "tarde": 23.3,
+        "noite": 17.9
     },
     "forecast": {
-        "max": 24.2,
-        "min": 16.0
+        "max": 23.9,
+        "min": 15.2
     },
     "news": [
         {
-            "title": "Poluição do rio afasta Corredor Verde do Leça da final de prémio europeu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/11/azul/noticia/poluicao-rio-afasta-corredor-verde-leca-final-premio-europeu-2190801"
+            "title": "Marina Sena: “Minha visão de quem eu sou muda muito quando estou em Portugal”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/11/publico-brasil/noticia/marina-sena-visao-muda-portugal-2190900"
         },
         {
-            "title": "Mundo dos neandertais também era feito de madeira — e não só de pedra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/11/ciencia/noticia/mundo-neandertais-tambem-madeira-nao-so-pedra-2190805"
+            "title": "Dona de fármaco para doença rara da pele ainda não fez pedido para vender em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/11/sociedade/noticia/dona-farmaco-doenca-rara-pele-nao-fez-pedido-vender-portugal-2191003"
         },
         {
-            "title": "China prepara normas rigorosas no <em>design</em> automóvel perante problemas de segurança",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/11/mundo/noticia/china-prepara-normas-rigorosas-design-automovel-problemas-seguranca-2190970"
+            "title": "Abuso de suicídio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/11/opiniao/opiniao/abuso-suicidio-2190979"
         },
         {
-            "title": "Trump critica Zelensky e diz que Ucrânia precisa de um novo presidente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/11/mundo/noticia/trump-critica-zelensky-ucrania-precisa-novo-presidente-2190969"
+            "title": "Zelensky promete “organizar eleições” na Ucrânia em troca de cessar-fogo de 60 dias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/11/mundo/noticia/zelensky-promete-organizar-eleicoes-ucrania-troca-cessarfogo-60-dias-2191001"
         },
         {
-            "title": "Antonio Guerra leva as feridas da mineração ao Instituto Cervantes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/11/azul/noticia/antonio-guerra-leva-feridas-mineracao-instituto-cervantes-2190508"
+            "title": "Madalena Costa revalida título mundial de patinagem livre",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/11/desporto/noticia/madalena-costa-revalida-titulo-mundial-patinagem-livre-2191000"
         }
     ],
     "finance": [],
-    "last_update": "11/10/2026 09:27"
+    "last_update": "11/10/2026 16:01"
 }
