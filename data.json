@@ -1,9 +1,9 @@
 {
     "weather": {
-        "atual": 17.8,
+        "atual": 17.9,
         "manha": 18.4,
-        "tarde": 23.8,
-        "noite": 18.7
+        "tarde": 23.7,
+        "noite": 18.5
     },
     "forecast": {
         "max": 24.0,
@@ -11,26 +11,26 @@
     },
     "news": [
         {
-            "title": "Como se amaluca uma casa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/11/opiniao/opiniao/amaluca-casa-2190936"
+            "title": "A herança do facilitismo: quem são, afinal, os “rascas”?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/11/opiniao/opiniao/heranca-facilitismo-sao-afinal-rascas-2190796"
         },
         {
-            "title": "Obama em Lisboa pede líderes que “compreendam valor da igualdade”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/politica/noticia/obama-lisboa-pede-lideres-compreendam-valor-igualdade-2190966"
+            "title": "Como pagar um Serviço Nacional de Habitação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/11/opiniao/opiniao/pagar-servico-nacional-habitacao-2190795"
         },
         {
-            "title": "Junior Messias e os golos depois dos frigoríficos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/desporto/noticia/junior-messias-golos-frigorificos-2190965"
+            "title": "Portugal não é mais egoísta. É mais mal desenhado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/11/opiniao/opiniao/portugal-nao-egoista-mal-desenhado-2190520"
         },
         {
-            "title": "Sindicato dos chefes da PSP alerta para desmotivação se exigências não forem correspondidas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/sociedade/noticia/sindicato-chefes-psp-alerta-desmotivacao-exigencias-nao-correspondidas-2190964"
+            "title": "O canário na mina de carvão… da IA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/11/opiniao/opiniao/canario-mina-carvao-ia-2190539"
         },
         {
-            "title": "Christa Pike regressa à prisão após sobreviver a tentativa de execução falhada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/10/mundo/noticia/christa-pike-regressa-prisao-apos-sobreviver-tentativa-execucao-falhada-2190958"
+            "title": "Quando o silêncio da Administração Pública tem valor positivo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/11/opiniao/opiniao/silencio-administracao-publica-valor-positivo-2190516"
         }
     ],
     "finance": [],
-    "last_update": "10/10/2026 23:03"
+    "last_update": "11/10/2026 02:45"
 }
