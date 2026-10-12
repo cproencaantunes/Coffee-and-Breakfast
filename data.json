@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 0,
-        "manha": 0,
-        "tarde": 0,
-        "noite": 0
+        "atual": 16.8,
+        "manha": 16.3,
+        "tarde": 23.8,
+        "noite": 18.0
     },
     "forecast": {
-        "max": 0,
-        "min": 0
+        "max": 26.2,
+        "min": 16.7
     },
     "news": [
         {
-            "title": "O que Demóstenes pode ensinar a Portugal sobre a democracia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/12/opiniao/opiniao/demostenes-ensinar-portugal-democracia-2190973"
+            "title": "Executiva brasileira quer fazer de Lisboa polo de internacionalização de empresas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/12/publico-brasil/noticia/executiva-brasileira-quer-lisboa-polo-internacionalizacao-empresas-2191002"
         },
         {
-            "title": "Por que os brasileiros discriminados votam em Bolsonaro?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/12/opiniao/opiniao/brasileiros-discriminados-votam-bolsonaro-2190975"
+            "title": "PCP apresenta pacote para habitação com novas regras para solos e património público",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/12/politica/noticia/pcp-apresenta-pacote-habitacao-novas-regras-solos-patrimonio-publico-2190961"
         },
         {
-            "title": "A produtividade que perdemos sem dar por isso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/12/opiniao/opiniao/produtividade-perdemos-dar-2190976"
+            "title": "Quando os jovens escapam por entre os dedos: fracassos de políticas públicas em três países africanos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/12/mundo/noticia/jovens-escapam-dedos-fracassos-politicas-publicas-tres-paises-africanos-2190848"
         },
         {
-            "title": "Para além do PISA (2)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/12/opiniao/opiniao/alem-pisa-2-2190997"
+            "title": "Rogério Bravo: da PJ às empresas de cibersegurança",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/12/sociedade/investigacao/rogerio-bravo-pj-empresas-ciberseguranca-2190985"
         },
         {
-            "title": "Furacão <em>Simon</em> atinge costa centro-oeste do México com inundações e ventos fortes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/11/mundo/noticia/furacao-simon-atinge-costa-centrooeste-mexico-inundacoes-ventos-fortes-2191026"
+            "title": "Um ano depois, 37% das câmaras sem maioria conseguiu fazer acordos para governar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/12/politica/noticia/ano-63-camaras-continuam-minoria-lei-eleitoral-autarquica-volta-debate-2190845"
         }
     ],
     "finance": [],
-    "last_update": "12/10/2026 00:04"
+    "last_update": "12/10/2026 06:43"
 }
