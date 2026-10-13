@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 17.5,
-        "manha": 17.8,
-        "tarde": 26.3,
-        "noite": 20.6
+        "atual": 17.0,
+        "manha": 17.0,
+        "tarde": 31.0,
+        "noite": 23.9
     },
     "forecast": {
-        "max": 29.8,
-        "min": 16.7
+        "max": 30.1,
+        "min": 18.7
     },
     "news": [
         {
-            "title": "Novo director da PSP quer uma polícia com respeito absoluto pelos direitos humanos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/sociedade/noticia/novo-director-psp-quer-policia-respeito-absoluto-direitos-humanos-2191287"
+            "title": "Uma tristeza de morte",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/14/opiniao/opiniao/tristeza-morte-2191185"
         },
         {
-            "title": "Como escolher um portátil para a faculdade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/video/escolher-portatil-faculdade-20261013-190303"
+            "title": "“Britin” ou o regresso do filho pródigo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/14/opiniao/opiniao/britin-regresso-filho-prodigo-2191191"
         },
         {
-            "title": "Os 25 carros mais vistosos do Salão Automóvel de Paris",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/enter/noticia/25-carros-vistosos-salao-automovel-paris-2191211"
+            "title": "RX ao orçamento da saúde",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/14/opiniao/opiniao/rx-orcamento-saude-2191070"
         },
         {
-            "title": "Prémios: Lisboa é capital europeia dos cruzeiros, Portugal é o melhor país para cruzeiros fluviais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/fugas/noticia/premios-lisboa-capital-europeia-cruzeiros-portugal-melhor-cruzeiros-fluviais-2191176"
+            "title": "Não temos dois pesos e duas medidas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/14/opiniao/opiniao/nao-dois-pesos-duas-medidas-2191199"
         },
         {
-            "title": "Biblioteca Oliveira Lima: um tesouro sobre a história de Brasil e Portugal em Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/publico-brasil/noticia/biblioteca-oliveira-lima-tesouro-historia-brasil-portugal-lisboa-2191296"
+            "title": "Confusão entre prisão e 112 atrasou socorro a Christa Pike após execução mal sucedida",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/14/mundo/noticia/confusao-prisao-112-atrasou-socorro-christa-pike-apos-execucao-mal-sucedida-2191310"
         }
     ],
     "finance": [],
-    "last_update": "13/10/2026 19:37"
+    "last_update": "13/10/2026 23:29"
 }
