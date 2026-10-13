@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 16.9,
-        "manha": 17.3,
-        "tarde": 26.7,
-        "noite": 19.7
+        "manha": 17.5,
+        "tarde": 27.0,
+        "noite": 20.2
     },
     "forecast": {
-        "max": 30.6,
-        "min": 15.3
+        "max": 30.2,
+        "min": 15.8
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/opiniao/opiniao/cartas-director-2191103"
+            "title": "Ricardo Carrilho <em>versus</em> Luís Neves: que novo caso é este que se passa no MAI?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/sociedade/noticia/ricardo-carrilho-versus-luis-neves-novo-caso-passa-mai-2191212"
         },
         {
-            "title": "FMI à espera de mais inflação e menos crescimento que o Governo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/economia/noticia/fmi-espera-inflacao-menos-crescimento-governo-2191158"
+            "title": "Câmara de Cascais compra Atlântida Cine e garante continuação de cinema em Carcavelos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/local/noticia/camara-cascais-compra-atlantida-cine-garante-continuacao-cinema-carcavelos-2191210"
         },
         {
-            "title": "RJ Mitte, da série <em>Breaking Bad</em> e activista pelos direitos das pessoas com deficiência, morre aos 34 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/culturaipsilon/noticia/rj-mitte-serie-breaking-bad-activista-direitos-pessoas-deficiencia-morre-34-anos-2191172"
+            "title": "Mais de um terço do calçado da Shein e Temu falha regras europeias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/impar/noticia/terco-calcado-shein-temu-falha-regras-europeias-2191209"
         },
         {
-            "title": "Documentos falsificados ajudaram a ocultar património de Abramovich, diz investigação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/mundo/noticia/documentos-falsificados-ajudaram-ocultar-patrimonio-abramovich-investigacao-2191170"
+            "title": "Kim junta mísseis, bombas e <em>drones</em> e abre um museu de “tesouros nacionais” na Coreia do Norte",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/mundo/noticia/kim-junta-misseis-bombas-drones-abre-museu-tesouros-nacionais-coreia-norte-2191204"
         },
         {
-            "title": "O problema da habitação dispensa maniqueísmos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/opiniao/opiniao/problema-habitacao-dispensa-maniqueismos-2191095"
+            "title": "INE confirma inflação de 3,6% em Setembro, a mais alta em três anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/economia/noticia/ine-confirma-inflacao-36-setembro-alta-tres-anos-2191194"
         }
     ],
     "finance": [],
-    "last_update": "13/10/2026 04:25"
+    "last_update": "13/10/2026 12:17"
 }
