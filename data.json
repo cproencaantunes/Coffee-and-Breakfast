@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 16.9,
-        "manha": 17.5,
-        "tarde": 27.0,
-        "noite": 20.2
+        "atual": 17.5,
+        "manha": 17.8,
+        "tarde": 26.3,
+        "noite": 20.6
     },
     "forecast": {
-        "max": 30.2,
-        "min": 15.8
+        "max": 29.8,
+        "min": 16.7
     },
     "news": [
         {
-            "title": "Ricardo Carrilho <em>versus</em> Luís Neves: que novo caso é este que se passa no MAI?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/sociedade/noticia/ricardo-carrilho-versus-luis-neves-novo-caso-passa-mai-2191212"
+            "title": "Novo director da PSP quer uma polícia com respeito absoluto pelos direitos humanos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/sociedade/noticia/novo-director-psp-quer-policia-respeito-absoluto-direitos-humanos-2191287"
         },
         {
-            "title": "Câmara de Cascais compra Atlântida Cine e garante continuação de cinema em Carcavelos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/local/noticia/camara-cascais-compra-atlantida-cine-garante-continuacao-cinema-carcavelos-2191210"
+            "title": "Como escolher um portátil para a faculdade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/video/escolher-portatil-faculdade-20261013-190303"
         },
         {
-            "title": "Mais de um terço do calçado da Shein e Temu falha regras europeias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/impar/noticia/terco-calcado-shein-temu-falha-regras-europeias-2191209"
+            "title": "Os 25 carros mais vistosos do Salão Automóvel de Paris",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/enter/noticia/25-carros-vistosos-salao-automovel-paris-2191211"
         },
         {
-            "title": "Kim junta mísseis, bombas e <em>drones</em> e abre um museu de “tesouros nacionais” na Coreia do Norte",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/mundo/noticia/kim-junta-misseis-bombas-drones-abre-museu-tesouros-nacionais-coreia-norte-2191204"
+            "title": "Prémios: Lisboa é capital europeia dos cruzeiros, Portugal é o melhor país para cruzeiros fluviais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/fugas/noticia/premios-lisboa-capital-europeia-cruzeiros-portugal-melhor-cruzeiros-fluviais-2191176"
         },
         {
-            "title": "INE confirma inflação de 3,6% em Setembro, a mais alta em três anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/economia/noticia/ine-confirma-inflacao-36-setembro-alta-tres-anos-2191194"
+            "title": "Biblioteca Oliveira Lima: um tesouro sobre a história de Brasil e Portugal em Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/13/publico-brasil/noticia/biblioteca-oliveira-lima-tesouro-historia-brasil-portugal-lisboa-2191296"
         }
     ],
     "finance": [],
-    "last_update": "13/10/2026 12:17"
+    "last_update": "13/10/2026 19:37"
 }
