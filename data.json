@@ -2,35 +2,35 @@
     "weather": {
         "atual": 17.0,
         "manha": 17.0,
-        "tarde": 31.0,
+        "tarde": 30.9,
         "noite": 23.9
     },
     "forecast": {
         "max": 30.1,
-        "min": 18.7
+        "min": 18.4
     },
     "news": [
+        {
+            "title": "FMI avisa países que subida dos juros torna ajustamento orçamental “urgente”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/14/economia/noticia/fmi-avisa-paises-subida-juros-torna-ajustamento-orcamental-urgente-2191291"
+        },
+        {
+            "title": "Edifício da Aramco atingido em Dhahran em plena escalada entre houthis e sauditas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/14/mundo/noticia/edificio-aramco-atingido-dhahran-plena-escalada-houthis-sauditas-2191311"
+        },
+        {
+            "title": "Hóquei em patins: Portugal perde com Espanha na 2.ª jornada do Mundial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/14/desporto/noticia/hoquei-patins-portugal-perde-espanha-2-jornada-mundial-2191312"
+        },
         {
             "title": "Uma tristeza de morte",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/10/14/opiniao/opiniao/tristeza-morte-2191185"
         },
         {
-            "title": "“Britin” ou o regresso do filho pródigo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/14/opiniao/opiniao/britin-regresso-filho-prodigo-2191191"
-        },
-        {
-            "title": "RX ao orçamento da saúde",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/14/opiniao/opiniao/rx-orcamento-saude-2191070"
-        },
-        {
-            "title": "Não temos dois pesos e duas medidas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/14/opiniao/opiniao/nao-dois-pesos-duas-medidas-2191199"
-        },
-        {
-            "title": "Confusão entre prisão e 112 atrasou socorro a Christa Pike após execução mal sucedida",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/14/mundo/noticia/confusao-prisao-112-atrasou-socorro-christa-pike-apos-execucao-mal-sucedida-2191310"
+            "title": "Cancelo e Forbs brilham em ronda da Champions com surpresa Viking",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/14/desporto/noticia/cancelo-forbs-brilham-ronda-champions-surpresa-viking-2191304"
         }
     ],
     "finance": [],
-    "last_update": "13/10/2026 23:29"
+    "last_update": "14/10/2026 02:35"
 }
