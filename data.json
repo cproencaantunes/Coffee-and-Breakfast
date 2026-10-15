@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 22.5,
-        "manha": 19.1,
-        "tarde": 29.2,
-        "noite": 23.6
+        "atual": 22.2,
+        "manha": 19.2,
+        "tarde": 27.3,
+        "noite": 23.5
     },
     "forecast": {
-        "max": 30.7,
-        "min": 17.0
+        "max": 28.9,
+        "min": 18.5
     },
     "news": [
         {
-            "title": "Procriação medicamente assistida: PSD defende novo estatuto, esquerda com “reservas”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/politica/noticia/procriacao-medicamente-assistida-psd-defende-novo-estatuto-esquerda-reservas-2191515"
+            "title": "Saúde: falhas nas reformas e semiótica dos números",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/opiniao/editorial/saude-falhas-reformas-semiotica-numeros-2191534"
         },
         {
-            "title": "Seguro avisa que “o pior que pode acontecer” na luta por causas justas é violar a lei",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/politica/noticia/seguro-avisa-pior-acontecer-luta-causas-justas-violar-lei-2191516"
+            "title": "O que fazer neste fim-de-semana? Brindes à poesia, cerveja e MPB",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/fugas/noticia/neste-fimdesemana-brindes-poesia-cerveja-mpb-2191549"
         },
         {
-            "title": "China e Coreia do Norte abrem “novo capítulo” nas relações com inauguração de ponte que estava pronta há 12 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/mundo/noticia/china-coreia-norte-abrem-novo-capitulo-relacoes-inauguracao-ponte-pronta-ha-12-anos-2191522"
+            "title": "Colisão entre comboio e autocarro à entrada do Eurotúnel provoca 19 feridos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/mundo/noticia/colisao-comboio-autocarro-entrada-eurotunel-provoca-19-feridos-2191557"
         },
         {
-            "title": "Uma em cada cinco cidadanias concedidas por Luxemburgo foi para brasileiros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/publico-brasil/noticia/cinco-cidadanias-concedidas-luxemburgo-brasileiros-2191520"
+            "title": "Palavras e utopias, do Rovuma ao Maputo: Moçambique ontem e hoje no Doclisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/culturaipsilon/noticia/palavras-utopias-rovuma-maputo-mocambique-ontem-hoje-doclisboa-2191068"
         },
         {
-            "title": "Queixosa de Russell Brand disse à polícia que se culpava pela violação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/impar/noticia/queixosa-russell-brand-policia-culpava-violacao-2191506"
+            "title": "Fast tech: a distopia começa no carrinho de compras",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/newsletter/azul"
         }
     ],
     "finance": [],
-    "last_update": "15/10/2026 17:28"
+    "last_update": "15/10/2026 20:40"
 }
