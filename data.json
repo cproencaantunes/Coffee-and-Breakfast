@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 22.2,
-        "manha": 19.2,
-        "tarde": 27.3,
-        "noite": 23.5
+        "atual": 21.8,
+        "manha": 17.7,
+        "tarde": 30.0,
+        "noite": 20.7
     },
     "forecast": {
-        "max": 28.9,
-        "min": 18.5
+        "max": 24.0,
+        "min": 17.1
     },
     "news": [
         {
-            "title": "Saúde: falhas nas reformas e semiótica dos números",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/opiniao/editorial/saude-falhas-reformas-semiotica-numeros-2191534"
+            "title": "Os equívocos de Pedro Passos Coelho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/opiniao/opiniao/equivocos-pedro-passos-coelho-2191552"
         },
         {
-            "title": "O que fazer neste fim-de-semana? Brindes à poesia, cerveja e MPB",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/fugas/noticia/neste-fimdesemana-brindes-poesia-cerveja-mpb-2191549"
+            "title": "Quando uma casa vale mais do que uma vida: capitalismo, democracia e a crise da habitação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/opiniao/opiniao/casa-vale-vida-capitalismo-democracia-crise-habitacao-2191487"
         },
         {
-            "title": "Colisão entre comboio e autocarro à entrada do Eurotúnel provoca 19 feridos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/mundo/noticia/colisao-comboio-autocarro-entrada-eurotunel-provoca-19-feridos-2191557"
+            "title": "Passos na fronteira da seriedade artificial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/opiniao/opiniao/passos-fronteira-seriedade-artificial-2191513"
         },
         {
-            "title": "Palavras e utopias, do Rovuma ao Maputo: Moçambique ontem e hoje no Doclisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/culturaipsilon/noticia/palavras-utopias-rovuma-maputo-mocambique-ontem-hoje-doclisboa-2191068"
+            "title": "Três crianças mortas em escola primária dos EUA. Suspeito é adolescente de 16 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/mundo/noticia/tres-criancas-mortas-escola-primaria-eua-suspeito-adolescente-16-anos-2191567"
         },
         {
-            "title": "Fast tech: a distopia começa no carrinho de compras",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/newsletter/azul"
+            "title": "O silêncio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/opiniao/opiniao/silencio-2191509"
         }
     ],
     "finance": [],
-    "last_update": "15/10/2026 20:40"
+    "last_update": "15/10/2026 23:24"
 }
