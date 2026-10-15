@@ -2,35 +2,35 @@
     "weather": {
         "atual": 22.5,
         "manha": 19.1,
-        "tarde": 28.8,
+        "tarde": 29.2,
         "noite": 23.6
     },
     "forecast": {
-        "max": 30.3,
-        "min": 16.9
+        "max": 30.7,
+        "min": 17.0
     },
     "news": [
         {
-            "title": "Harry e Meghan fazem a primeira visita “oficial” a dois desde o regresso ao Reino Unido",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/impar/noticia/harry-meghan-fazem-primeira-visita-oficial-dois-desde-regresso-reino-unido-2191462"
+            "title": "Procriação medicamente assistida: PSD defende novo estatuto, esquerda com “reservas”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/politica/noticia/procriacao-medicamente-assistida-psd-defende-novo-estatuto-esquerda-reservas-2191515"
         },
         {
-            "title": "The Jesus and Mary Chain e Linda Martini no regresso do Super Bock em Stock",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/culturaipsilon/noticia/the-jesus-and-mary-chain-linda-martini-regresso-super-bock-stock-2191474"
+            "title": "Seguro avisa que “o pior que pode acontecer” na luta por causas justas é violar a lei",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/politica/noticia/seguro-avisa-pior-acontecer-luta-causas-justas-violar-lei-2191516"
         },
         {
-            "title": "A taxa normal de IVA mais comum entre países da União Europeia é de 21%? Verdadeiro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/politica/noticia/taxa-normal-iva-comum-paises-uniao-europeia-21-verdadeiro-2191469"
+            "title": "China e Coreia do Norte abrem “novo capítulo” nas relações com inauguração de ponte que estava pronta há 12 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/mundo/noticia/china-coreia-norte-abrem-novo-capitulo-relacoes-inauguracao-ponte-pronta-ha-12-anos-2191522"
         },
         {
-            "title": "Senado brasileiro aprova fim da “escala 6x1” sem cortes salariais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/mundo/noticia/senado-brasileiro-aprova-fim-escala-6x1-cortes-salariais-2191470"
+            "title": "Uma em cada cinco cidadanias concedidas por Luxemburgo foi para brasileiros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/publico-brasil/noticia/cinco-cidadanias-concedidas-luxemburgo-brasileiros-2191520"
         },
         {
-            "title": "O Kimpton Quinta da Marinha está no campo de golfe, mas não quer ser só para golfistas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/fugas/reportagem/kimpton-quinta-marinha-campo-golfe-nao-quer-so-golfistas-2191213"
+            "title": "Queixosa de Russell Brand disse à polícia que se culpava pela violação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/15/impar/noticia/queixosa-russell-brand-policia-culpava-violacao-2191506"
         }
     ],
     "finance": [],
-    "last_update": "15/10/2026 12:15"
+    "last_update": "15/10/2026 17:28"
 }
