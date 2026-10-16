@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 21.9,
-        "manha": 18.9,
-        "tarde": 29.0,
-        "noite": 20.6
+        "atual": 21.7,
+        "manha": 17.6,
+        "tarde": 30.5,
+        "noite": 20.4
     },
     "forecast": {
-        "max": 24.0,
-        "min": 18.2
+        "max": 24.9,
+        "min": 18.1
     },
     "news": [
         {
-            "title": "Da medicina ao activismo feminista: quem são os rostos do Movimento pela Habitação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/sociedade/noticia/medicina-activismo-feminista-sao-rostos-movimento-habitacao-2191598"
+            "title": "No Escuro: <i>The Devils</i> e os filmes “malditos” dos anos 70",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/video/escuro-the-devils-filmes-malditos-anos-70-20261016-183115"
         },
         {
-            "title": "Partidos do Governo e Chega juntam-se para limitar acesso de não residentes ao SNS",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/politica/noticia/partidos-governo-chega-juntamse-limitar-acesso-nao-residentes-sns-2191618"
+            "title": "“Uma família com um único progenitor não é metade de uma família”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/sociedade/noticia/familia-unico-progenitor-nao-metade-familia-2191636"
         },
         {
-            "title": "Milhares nas ruas de Tirana: protestos intensificam-se na Albânia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/video/protestos-estudantis-intensificamse-albania-primeroministro-rejeita-demissao-20261016-171224"
+            "title": "Costa Rica inaugura prisão de segurança máxima para os “Pablos Escobar de 2026”. Bukele é a inspiração",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/mundo/noticia/costa-rica-inaugura-prisao-seguranca-maxima-pablos-escobar-2026-bukele-inspiracao-2191630"
         },
         {
-            "title": "O superdesportivo que voa na imaginação e aterrou num golpe de ilusionismo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/enter/opiniao/superdesportivo-voa-imaginacao-aterrou-golpe-ilusionismo-2191647"
+            "title": "PlayStation vai deixar de ter jogos físicos: é um direito que estamos a perder?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/p3/noticia/playstation-vai-deixar-jogos-fisicos-direito-perder-2191108"
         },
         {
-            "title": "Portuguesa Cerealis avança para a compra da maioria do capital da francesa Panzani",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/economia/noticia/portuguesa-cerealis-avanca-compra-maioria-capital-francesa-panzani-2191648"
+            "title": "A temperatura do luto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/p3/cronica/temperatura-luto-2191476"
         }
     ],
     "finance": [],
-    "last_update": "16/10/2026 17:02"
+    "last_update": "16/10/2026 20:12"
 }
