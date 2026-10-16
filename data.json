@@ -1,15 +1,19 @@
 {
     "weather": {
-        "atual": 21.8,
-        "manha": 17.7,
-        "tarde": 30.0,
-        "noite": 20.7
+        "atual": 21.7,
+        "manha": 18.0,
+        "tarde": 30.3,
+        "noite": 21.5
     },
     "forecast": {
         "max": 24.0,
         "min": 17.1
     },
     "news": [
+        {
+            "title": "A pobreza que fica",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/opiniao/opiniao/pobreza-fica-2191545"
+        },
         {
             "title": "Os equívocos de Pedro Passos Coelho",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/opiniao/opiniao/equivocos-pedro-passos-coelho-2191552"
@@ -25,12 +29,8 @@
         {
             "title": "Três crianças mortas em escola primária dos EUA. Suspeito é adolescente de 16 anos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/mundo/noticia/tres-criancas-mortas-escola-primaria-eua-suspeito-adolescente-16-anos-2191567"
-        },
-        {
-            "title": "O silêncio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/opiniao/opiniao/silencio-2191509"
         }
     ],
     "finance": [],
-    "last_update": "15/10/2026 23:24"
+    "last_update": "16/10/2026 02:07"
 }
