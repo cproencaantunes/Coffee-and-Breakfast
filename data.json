@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 21.7,
-        "manha": 17.6,
-        "tarde": 30.3,
-        "noite": 20.9
+        "atual": 21.9,
+        "manha": 18.9,
+        "tarde": 29.0,
+        "noite": 20.6
     },
     "forecast": {
-        "max": 24.6,
-        "min": 17.3
+        "max": 24.0,
+        "min": 18.2
     },
     "news": [
         {
-            "title": "Etiquetas da fruta, pacotes de açúcar e caricas trocam-se em Santa Maria da Feira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/impar/noticia/etiquetas-fruta-pacotes-acucar-caricas-trocamse-santa-maria-feira-2191608"
+            "title": "Da medicina ao activismo feminista: quem são os rostos do Movimento pela Habitação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/sociedade/noticia/medicina-activismo-feminista-sao-rostos-movimento-habitacao-2191598"
         },
         {
-            "title": "Como se chega a melhor escanção do mundo? O campeonato decide-se em Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/fugas/noticia/chega-melhor-escancao-mundo-campeonato-mundial-decidese-lisboa-2191193"
+            "title": "Partidos do Governo e Chega juntam-se para limitar acesso de não residentes ao SNS",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/politica/noticia/partidos-governo-chega-juntamse-limitar-acesso-nao-residentes-sns-2191618"
         },
         {
-            "title": "Gilsons em Portugal: os sucessos, os conflitos, o luto e o peso de <em>Várias Queixas</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/publico-brasil/noticia/gilsons-portugal-sucessos-conflitos-luto-peso-varias-queixas-2191587"
+            "title": "Milhares nas ruas de Tirana: protestos intensificam-se na Albânia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/video/protestos-estudantis-intensificamse-albania-primeroministro-rejeita-demissao-20261016-171224"
         },
         {
-            "title": "Morreu o jornalista e escritor Joaquim Letria aos 82 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/culturaipsilon/noticia/morreu-jornalista-escritor-joaquim-letria-82-anos-2191611"
+            "title": "O superdesportivo que voa na imaginação e aterrou num golpe de ilusionismo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/enter/opiniao/superdesportivo-voa-imaginacao-aterrou-golpe-ilusionismo-2191647"
         },
         {
-            "title": "Autor do “ChatGPT maléfico” condenado a pena suspensa após colaborar com PJ",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/sociedade/noticia/autor-chatgpt-malefico-condenado-pena-suspensa-apos-colaborar-pj-2191602"
+            "title": "Portuguesa Cerealis avança para a compra da maioria do capital da francesa Panzani",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/economia/noticia/portuguesa-cerealis-avanca-compra-maioria-capital-francesa-panzani-2191648"
         }
     ],
     "finance": [],
-    "last_update": "16/10/2026 12:48"
+    "last_update": "16/10/2026 17:02"
 }
