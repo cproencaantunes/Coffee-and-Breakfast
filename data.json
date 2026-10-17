@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 19.2,
-        "manha": 19.2,
-        "tarde": 23.8,
-        "noite": 19.0
+        "manha": 19.0,
+        "tarde": 23.7,
+        "noite": 18.5
     },
     "forecast": {
-        "max": 23.7,
-        "min": 17.5
+        "max": 23.6,
+        "min": 17.7
     },
     "news": [
         {
-            "title": "O Dubai diz ao mundo que está de volta — e já só pensa no futuro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/fugas/reportagem/dubai-mundo-volta-ja-so-pensa-futuro-2191028"
+            "title": "Carneiro alerta para “rastilho social”  e quer nova lei das rendas “na gaveta”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/politica/noticia/carneiro-alerta-rastilho-social-quer-nova-lei-rendas-gaveta-2191709"
         },
         {
-            "title": "A enorme exigência de um possível posicionamento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/publico-brasil/cronica/enorme-exigencia-possivel-posicionamento-2191694"
+            "title": "Papa Leão XIV tem alta hospitalar neste sábado, quatro dias depois da cirurgia pulmonar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/sociedade/noticia/papa-leao-xiv-alta-hospitalar-neste-sabado-quatro-dias-cirurgia-pulmonar-2191708"
         },
         {
-            "title": "A paisagem no centro da discussão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/azul/opiniao/paisagem-centro-discussao-2191525"
+            "title": "De Bilbau à Cantábria: está sol e amanhã é domingo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/fugas/noticia/bilbau-cantabria-sol-amanha-domingo-2191119"
         },
         {
-            "title": "Venha dar uma volta por este pequeno reino com a rainha das maçãs reinetas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/fugas/cronica/venha-dar-volta-reino-rainha-macas-reinetas-2191059"
+            "title": "Presidente do Egipto diz que a sua presidência termina em 2030",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/mundo/noticia/presidente-egitpo-presidencia-termina-2030-2191707"
         },
         {
-            "title": "“O brasileiro é curioso e vai amar o espumante invertido”, afirma dono da Ervideira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/publico-brasil/noticia/brasileiro-curioso-vai-amar-espumante-invertido-afirma-dono-ervideira-2191677"
+            "title": "Centro de reabilitação em Ourém já recebeu 50 militares ucranianos feridos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/sociedade/reportagem/centro-reabilitacao-ourem-ja-recebeu-50-militares-ucranianos-feridos-2191705"
         }
     ],
     "finance": [],
-    "last_update": "17/10/2026 07:16"
+    "last_update": "17/10/2026 11:49"
 }
