@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 18.9,
-        "manha": 18.8,
-        "tarde": 24.4,
-        "noite": 18.3
+        "atual": 19.2,
+        "manha": 19.2,
+        "tarde": 23.8,
+        "noite": 19.0
     },
     "forecast": {
-        "max": 25.1,
-        "min": 16.4
+        "max": 23.7,
+        "min": 17.5
     },
     "news": [
         {
-            "title": "O verbo do ódio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/opiniao/opiniao/verbo-odio-2191686"
+            "title": "O Dubai diz ao mundo que está de volta — e já só pensa no futuro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/fugas/reportagem/dubai-mundo-volta-ja-so-pensa-futuro-2191028"
         },
         {
-            "title": "Tempestade imperfeita",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/opiniao/opiniao/tempestade-imperfeita-2191679"
+            "title": "A enorme exigência de um possível posicionamento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/publico-brasil/cronica/enorme-exigencia-possivel-posicionamento-2191694"
         },
         {
-            "title": "Parêntesis para contar uma história",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/opiniao/opiniao/parentesis-contar-historia-2191511"
+            "title": "A paisagem no centro da discussão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/azul/opiniao/paisagem-centro-discussao-2191525"
         },
         {
-            "title": "Quando o cliente cai na loja…",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/opiniao/opiniao/cliente-cai-loja-2191620"
+            "title": "Venha dar uma volta por este pequeno reino com a rainha das maçãs reinetas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/fugas/cronica/venha-dar-volta-reino-rainha-macas-reinetas-2191059"
         },
         {
-            "title": "Uma lição de cidadania para políticos fracos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/opiniao/opiniao/licao-cidadania-politicos-fracos-2191689"
+            "title": "“O brasileiro é curioso e vai amar o espumante invertido”, afirma dono da Ervideira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/publico-brasil/noticia/brasileiro-curioso-vai-amar-espumante-invertido-afirma-dono-ervideira-2191677"
         }
     ],
     "finance": [],
-    "last_update": "17/10/2026 02:00"
+    "last_update": "17/10/2026 07:16"
 }
