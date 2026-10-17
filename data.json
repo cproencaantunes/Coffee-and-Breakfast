@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 18.9,
+        "atual": 19.2,
         "manha": 19.0,
-        "tarde": 24.1,
-        "noite": 17.7
+        "tarde": 23.7,
+        "noite": 18.2
     },
     "forecast": {
-        "max": 23.6,
-        "min": 16.8
+        "max": 23.4,
+        "min": 17.3
     },
     "news": [
         {
-            "title": "A banalidade do mal de um robô",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/p3/cronica/banalidade-mal-robo-2191624"
+            "title": "Manifestantes no Porto decidem voltar a acampar na Praça D. João I",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/sociedade/noticia/manifestantes-porto-decidem-voltar-acampar-praca-d-joao-i-2191743"
         },
         {
-            "title": "Bárbara Paz traz filme sobre enchentes no Sul do Brasil a Seia, marcada pelo fogo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/publico-brasil/noticia/barbara-paz-traz-filme-enchentes-sul-brasil-seia-marcada-fogo-2191730"
+            "title": "Duas equipas da I Liga já caíram na Taça de Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/desporto/noticia/duas-equipas-i-liga-ja-cairam-taca-portugal-2191744"
         },
         {
-            "title": "PS indica Carlos Tavares para a comissão de fiscalização dos investimentos na Defesa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/politica/noticia/ps-indica-carlos-tavares-comissao-fiscalizacao-investimentos-defesa-2191642"
+            "title": "“Esta luta é mais do que necessária, é óbvio que ia chegar até nós”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/sociedade/reportagem/luta-necessaria-obvio-ia-chegar-ate-2191741"
         },
         {
-            "title": "Saber voar e saber pousar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/publico-brasil/cronica/saber-voar-saber-pousar-2191738"
+            "title": "Prosperidade dos EUA tem “sangue açoriano e português”, diz Bolieiro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/politica/noticia/prosperidade-eua-sangue-acoriano-portugues-bolieiro-2191742"
         },
         {
-            "title": "O novo sempre vem e também se manifesta acampado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/opiniao/opiniao/novo-vem-tambem-manifesta-acampado-2191726"
+            "title": "Às escuras e revoltada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/opiniao/editorial/escuras-revoltada-2191713"
         }
     ],
     "finance": [],
-    "last_update": "17/10/2026 19:48"
+    "last_update": "17/10/2026 21:50"
 }
