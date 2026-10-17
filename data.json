@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 19.2,
-        "manha": 19.0,
-        "tarde": 23.7,
-        "noite": 18.2
+        "atual": 17.8,
+        "manha": 17.6,
+        "tarde": 22.5,
+        "noite": 21.4
     },
     "forecast": {
-        "max": 23.4,
-        "min": 17.3
+        "max": 23.3,
+        "min": 15.7
     },
     "news": [
         {
-            "title": "Manifestantes no Porto decidem voltar a acampar na Praça D. João I",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/sociedade/noticia/manifestantes-porto-decidem-voltar-acampar-praca-d-joao-i-2191743"
+            "title": "Faltam dois mil milhões no orçamento do SNS",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/opiniao/opiniao/faltam-dois-mil-milhoes-orcamento-sns-2191231"
         },
         {
-            "title": "Duas equipas da I Liga já caíram na Taça de Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/desporto/noticia/duas-equipas-i-liga-ja-cairam-taca-portugal-2191744"
+            "title": "Facilitismo no acesso ao ensino superior",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/opiniao/opiniao/facilitismo-acesso-ensino-superior-2191562"
         },
         {
-            "title": "“Esta luta é mais do que necessária, é óbvio que ia chegar até nós”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/sociedade/reportagem/luta-necessaria-obvio-ia-chegar-ate-2191741"
+            "title": "A menopausa (também) é uma questão política",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/opiniao/opiniao/menopausa-tambem-questao-politica-2191514"
         },
         {
-            "title": "Prosperidade dos EUA tem “sangue açoriano e português”, diz Bolieiro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/politica/noticia/prosperidade-eua-sangue-acoriano-portugues-bolieiro-2191742"
+            "title": "MPM 2026: saúde democrática e pluralismo dos <em>media</em> sob pressão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/opiniao/opiniao/mpm-2026-saude-democratica-pluralismo-media-pressao-2191504"
         },
         {
-            "title": "Às escuras e revoltada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/opiniao/editorial/escuras-revoltada-2191713"
+            "title": "Como uma pilha de livros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/opiniao/cronica/pilha-livros-2191703"
         }
     ],
     "finance": [],
-    "last_update": "17/10/2026 21:50"
+    "last_update": "17/10/2026 23:36"
 }
