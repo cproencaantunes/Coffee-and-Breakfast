@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 19.1,
-        "manha": 18.9,
-        "tarde": 24.7,
-        "noite": 18.5
+        "atual": 18.9,
+        "manha": 18.8,
+        "tarde": 24.4,
+        "noite": 18.3
     },
     "forecast": {
         "max": 25.1,
-        "min": 16.8
+        "min": 16.4
     },
     "news": [
         {
-            "title": "A culpa é das crianças",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/opiniao/cronica/culpa-criancas-2191616"
+            "title": "O verbo do ódio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/opiniao/opiniao/verbo-odio-2191686"
         },
         {
-            "title": "Uma notícia chocante: às vezes, o Chega tem razão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/opiniao/opiniao/noticia-chocante-vezes-chega-razao-2191660"
+            "title": "Tempestade imperfeita",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/opiniao/opiniao/tempestade-imperfeita-2191679"
         },
         {
-            "title": "Portugal perde com França e falha final do Mundial de hóquei em patins",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/desporto/noticia/portugal-perde-franca-falha-final-mundial-hoquei-patins-2191690"
+            "title": "Parêntesis para contar uma história",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/opiniao/opiniao/parentesis-contar-historia-2191511"
         },
         {
-            "title": "Para o oitavo dia de protesto, manifestantes prometem continuar a reivindicar o direito à habitação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/local/noticia/oitavo-dia-protesto-manifestantes-prometem-continuar-reivindicar-direito-habitacao-2191685"
+            "title": "Quando o cliente cai na loja…",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/opiniao/opiniao/cliente-cai-loja-2191620"
         },
         {
-            "title": "Papa Leão XIV fala com Putin a partir do hospital para pedir cessar-fogo com a Ucrânia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/16/mundo/noticia/papa-leao-xiv-fala-putin-partir-hospital-pedir-cessarfogo-ucrania-2191682"
+            "title": "Uma lição de cidadania para políticos fracos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/opiniao/opiniao/licao-cidadania-politicos-fracos-2191689"
         }
     ],
     "finance": [],
-    "last_update": "16/10/2026 23:06"
+    "last_update": "17/10/2026 02:00"
 }
