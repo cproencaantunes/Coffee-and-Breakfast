@@ -2,35 +2,35 @@
     "weather": {
         "atual": 18.9,
         "manha": 19.0,
-        "tarde": 23.8,
-        "noite": 17.7
+        "tarde": 24.1,
+        "noite": 17.5
     },
     "forecast": {
-        "max": 24.0,
-        "min": 17.1
+        "max": 24.2,
+        "min": 16.8
     },
     "news": [
         {
-            "title": "Irão repete que estreito de Ormuz está “fechado”, número de ataques aumenta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/mundo/noticia/irao-repete-estreito-ormuz-fechado-numero-ataques-aumenta-2191712"
+            "title": "Primeiro-ministro eurocéptico checo sofre revés nas eleições para o Senado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/mundo/noticia/primeiroministro-euroceptico-checo-sofre-reves-eleicoes-senado-2191731"
         },
         {
-            "title": "BE pede ao Governo que apoie venda imediata da<em> Visão </em>para evitar encerramento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/politica/noticia/be-pede-governo-apoie-venda-imediata-visao-evitar-encerramento-2191714"
+            "title": "Protestos em Lisboa: “Na rua nos querem, na rua nos verão”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/sociedade/reportagem/protestos-lisboa-rua-querem-rua-verao-2191732"
         },
         {
-            "title": "ICAD estima que haja 21 mil consumidores problemáticos de opiáceos e 53 mil dependentes de<em> cannabis</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/sociedade/noticia/icad-estima-21-mil-consumidores-problematicos-opiaceos-53-mil-dependentes-cannabis-2191719"
+            "title": "Reunião do IPCC acaba sem acordo, pondo em risco negociações sobre o clima",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/azul/noticia/reuniao-ipcc-acaba-acordo-pondo-risco-negociacoes-clima-2191729"
         },
         {
-            "title": "Flávio Bolsonaro diz que “não está no radar”nomear Jair Balsonaro para futuro Governo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/mundo/noticia/flavio-bolsonaro-nao-radarnomear-jair-balsonaro-futuro-governo-2191717"
+            "title": "França: Bally Bagayoko, o autarca que se tornou o centro das atenções nos protestos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/mundo/perfil/franca-bally-bagayoko-autarca-tornou-centro-atencoes-protestos-2191728"
         },
         {
-            "title": "Cães grandes envelhecem mais depressa do que os pequenos a nível molecular",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/ciencia/noticia/caes-envelhecem-depressa-nivel-molecular-2191351"
+            "title": "Ensino superior: mais 1168 novos estudantes colocados na 3.ª fase do concurso nacional",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/17/sociedade/noticia/ensino-superior-1168-novos-estudantes-colocados-3-fase-concurso-nacional-2191727"
         }
     ],
     "finance": [],
-    "last_update": "17/10/2026 14:36"
+    "last_update": "17/10/2026 17:36"
 }
