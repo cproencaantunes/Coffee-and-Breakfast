@@ -2,35 +2,35 @@
     "weather": {
         "atual": 17.0,
         "manha": 17.2,
-        "tarde": 23.9,
+        "tarde": 24.0,
         "noite": 21.2
     },
     "forecast": {
-        "max": 24.9,
-        "min": 14.1
+        "max": 24.6,
+        "min": 14.0
     },
     "news": [
         {
-            "title": "Palcos da semana: leves, anti-racistas, por linhas de <em>Desassossego</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/culturaipsilon/noticia/palcos-semana-leves-antiracistas-linhas-desassossego-2191588"
+            "title": "Provedora de Justiça pede informações sobre carga policial no Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/sociedade/noticia/provedora-justica-pede-informacoes-carga-policial-porto-2191762"
         },
         {
-            "title": "O Nobel da optogenética e o caminho até à visão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/ciencia/ensaio/nobel-optogenetica-caminho-ate-visao-2191248"
+            "title": "Leão XIV promete regresso gradual às funções no primeiro evento após cirurgia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/mundo/noticia/leao-xiv-promete-regresso-gradual-funcoes-evento-apos-cirurgia-2191765"
         },
         {
-            "title": "A inteligência artificial, a flor e a náusea",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/publico-brasil/opiniao/inteligencia-artificial-flor-nausea-2191749"
+            "title": "Ataque ucraniano atinge São Petersburgo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/mundo/noticia/ataque-ucraniano-atinge-sao-petersburgo-2191761"
         },
         {
-            "title": "No atelier de Alberto Carneiro, <em>“o jardim vai mudar na próxima primavera”</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/culturaipsilon/noticia/atelier-alberto-carneiro-jardim-vai-mudar-proxima-primavera-2191512"
+            "title": "Samsung Galaxy S26 FE procura ser um topo de gama mais acessível",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/video/samsung-galaxy-s26-fe-procura-topo-gama-acessivel-20261018-093744"
         },
         {
-            "title": "Rob Hopkins: “Só conseguimos construir o futuro que somos capazes de imaginar”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/azul/entrevista/rob-hopkins-so-conseguimos-construir-futuro-capazes-imaginar-2189269"
+            "title": "O Brasil é a voz da democracia dentro do BRICS, diz líder da oposição de Belarus",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/publico-brasil/entrevista/brasil-voz-democracia-dentro-brics-chefe-oposicao-belarus-2191735"
         }
     ],
     "finance": [],
-    "last_update": "18/10/2026 07:02"
+    "last_update": "18/10/2026 12:15"
 }
