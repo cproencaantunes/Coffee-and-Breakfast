@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 17.0,
-        "manha": 17.3,
-        "tarde": 23.3,
-        "noite": 20.7
+        "manha": 17.2,
+        "tarde": 23.9,
+        "noite": 21.2
     },
     "forecast": {
-        "max": 24.7,
-        "min": 15.2
+        "max": 24.9,
+        "min": 14.1
     },
     "news": [
         {
-            "title": "Faltam dois mil milhões no orçamento do SNS",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/opiniao/opiniao/faltam-dois-mil-milhoes-orcamento-sns-2191231"
+            "title": "Palcos da semana: leves, anti-racistas, por linhas de <em>Desassossego</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/culturaipsilon/noticia/palcos-semana-leves-antiracistas-linhas-desassossego-2191588"
         },
         {
-            "title": "Facilitismo no acesso ao ensino superior",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/opiniao/opiniao/facilitismo-acesso-ensino-superior-2191562"
+            "title": "O Nobel da optogenética e o caminho até à visão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/ciencia/ensaio/nobel-optogenetica-caminho-ate-visao-2191248"
         },
         {
-            "title": "A menopausa (também) é uma questão política",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/opiniao/opiniao/menopausa-tambem-questao-politica-2191514"
+            "title": "A inteligência artificial, a flor e a náusea",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/publico-brasil/opiniao/inteligencia-artificial-flor-nausea-2191749"
         },
         {
-            "title": "MPM 2026: saúde democrática e pluralismo dos <em>media</em> sob pressão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/opiniao/opiniao/mpm-2026-saude-democratica-pluralismo-media-pressao-2191504"
+            "title": "No atelier de Alberto Carneiro, <em>“o jardim vai mudar na próxima primavera”</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/culturaipsilon/noticia/atelier-alberto-carneiro-jardim-vai-mudar-proxima-primavera-2191512"
         },
         {
-            "title": "Como uma pilha de livros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/opiniao/cronica/pilha-livros-2191703"
+            "title": "Rob Hopkins: “Só conseguimos construir o futuro que somos capazes de imaginar”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/azul/entrevista/rob-hopkins-so-conseguimos-construir-futuro-capazes-imaginar-2189269"
         }
     ],
     "finance": [],
-    "last_update": "18/10/2026 02:00"
+    "last_update": "18/10/2026 07:02"
 }
