@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 17.0,
-        "manha": 17.2,
-        "tarde": 24.6,
-        "noite": 20.5
+        "atual": 18.9,
+        "manha": 15.9,
+        "tarde": 24.4,
+        "noite": 16.7
     },
     "forecast": {
-        "max": 24.7,
-        "min": 14.3
+        "max": 20.6,
+        "min": 11.1
     },
     "news": [
         {
-            "title": "Amorim & Ramos depuram AC Milan, Mourinho implacável em Madrid",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/desporto/noticia/amorim-ramos-depuram-ac-milan-mourinho-implacavel-madrid-2191795"
+            "title": "Manifestações pela habitação: PSP pede retirada de tendas por falta de licenciamento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/19/sociedade/noticia/manifestacoes-habitacao-psp-pede-retirada-tendas-falta-licenciamento-2191799"
         },
         {
-            "title": "Portugal vence Espanha e conquista bronze no Mundial de hóquei em patins",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/desporto/noticia/portugal-vence-espanha-conquista-bronze-mundial-hoquei-patins-2191794"
+            "title": "O futuro da TAP não acaba nos 49,9%",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/19/opiniao/opiniao/futuro-tap-nao-acaba-499-2191767"
         },
         {
-            "title": "Os miúdos não estão bem",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/opiniao/editorial/miudos-nao-estao-bem-2191787"
+            "title": "Temos ciência, mas falta-nos uma economia à sua altura",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/19/opiniao/opiniao/ciencia-faltanos-economia-altura-2191565"
         },
         {
-            "title": "Não se escrevem romances com uma bandeira. No Fólio, a literatura é para todos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/culturaipsilon/noticia/nao-escrevem-romances-bandeira-folio-literatura-2191771"
+            "title": "A nova estrutura de saúde pública",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/19/opiniao/opiniao/nova-estrutura-saude-publica-2191388"
         },
         {
-            "title": "BE diz que destino da lei do arrendamento é o “caixote do lixo” e vê Ventura “à rasca”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/18/politica/noticia/be-destino-lei-arrendamento-caixote-lixo-ve-ventura-rasca-2191791"
+            "title": "A educação numa era de disrupção: colocar os pais no lugar central",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/19/opiniao/opiniao/educacao-disrupcao-colocar-pais-lugar-central-2191380"
         }
     ],
     "finance": [],
-    "last_update": "18/10/2026 22:00"
+    "last_update": "19/10/2026 00:34"
 }
