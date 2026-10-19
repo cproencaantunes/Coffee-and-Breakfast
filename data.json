@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.9,
-        "manha": 15.9,
+        "manha": 15.8,
         "tarde": 24.4,
-        "noite": 16.7
+        "noite": 16.5
     },
     "forecast": {
-        "max": 20.6,
-        "min": 11.1
+        "max": 21.0,
+        "min": 11.3
     },
     "news": [
         {
-            "title": "Manifestações pela habitação: PSP pede retirada de tendas por falta de licenciamento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/19/sociedade/noticia/manifestacoes-habitacao-psp-pede-retirada-tendas-falta-licenciamento-2191799"
+            "title": "Habitação: o que propusemos e o que vamos propor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/19/opiniao/opiniao/habitacao-propusemos-vamos-propor-2191766"
         },
         {
-            "title": "O futuro da TAP não acaba nos 49,9%",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/19/opiniao/opiniao/futuro-tap-nao-acaba-499-2191767"
+            "title": "João Miguel Tavares, para onde vai a direita portuguesa?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/19/politica/noticia/joao-miguel-tavares-onde-vai-direita-portuguesa-2191782"
         },
         {
-            "title": "Temos ciência, mas falta-nos uma economia à sua altura",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/19/opiniao/opiniao/ciencia-faltanos-economia-altura-2191565"
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/19/opiniao/opiniao/cartas-director-2191763"
         },
         {
-            "title": "A nova estrutura de saúde pública",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/19/opiniao/opiniao/nova-estrutura-saude-publica-2191388"
+            "title": "Poucas propostas e muitas acusações em debate entre Lula e Flávio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/19/mundo/noticia/propostas-acusacoes-debate-lula-flavio-2191803"
         },
         {
-            "title": "A educação numa era de disrupção: colocar os pais no lugar central",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/19/opiniao/opiniao/educacao-disrupcao-colocar-pais-lugar-central-2191380"
+            "title": "A coligação eleitoral de Trump, Musk e Putin",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/19/newsletter/aquinaamerica"
         }
     ],
     "finance": [],
-    "last_update": "19/10/2026 00:34"
+    "last_update": "19/10/2026 05:27"
 }
