@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 13.4,
-        "manha": 14.0,
+        "manha": 13.6,
         "tarde": 20.1,
-        "noite": 14.7
+        "noite": 15.0
     },
     "forecast": {
-        "max": 20.8,
-        "min": 12.2
+        "max": 21.4,
+        "min": 12.3
     },
     "news": [
         {
-            "title": "Orbán saiu do poder. Como sair da sua sombra?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/opiniao/opiniao/orban-saiu-sair-sombra-2190800"
+            "title": "Acções contra médicos aumentam, as indemnizações disparam e as coberturas dos seguros ficam aquém",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/sociedade/noticia/accoes-medicos-aumentam-indemnizacoes-disparam-coberturas-seguros-ficam-aquem-2189603"
         },
         {
-            "title": "A saúde laboral não se compra ao quilo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/opiniao/opiniao/saude-laboral-nao-compra-quilo-2190989"
+            "title": "“Ser tecnicamente irrepreensível não chega.” Há médicos condenados por não explicarem riscos de cirurgia a doentes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/sociedade/noticia/tecnicamente-irrepreensivel-nao-chega-ha-medicos-condenados-nao-explicarem-riscos-cirurgia-doentes-2189618"
         },
         {
-            "title": "Supervisão policial (enfraquecida) – parte 2",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/opiniao/opiniao/supervisao-policial-enfraquecida-parte-2-2191521"
+            "title": "Marine Le Pen quer capitalizar o 17 de Outubro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/opiniao/opiniao/marine-le-pen-quer-capitalizar-17-outubro-2191917"
         },
         {
-            "title": "Fotografia não é com gato",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/opiniao/cronica/fotografia-nao-gato-2191836"
+            "title": "A política como fezada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/opiniao/opiniao/politica-fezada-2191869"
         },
         {
-            "title": "Oito anos e meio de prisão. Nem um dia na cadeia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/19/opiniao/cronica/oito-anos-meio-prisao-dia-cadeia-2191867"
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/opiniao/opiniao/cartas-director-2191868"
         }
     ],
     "finance": [],
-    "last_update": "20/10/2026 00:47"
+    "last_update": "20/10/2026 05:30"
 }
