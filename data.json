@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.4,
         "manha": 13.4,
-        "tarde": 19.6,
-        "noite": 14.6
+        "tarde": 19.9,
+        "noite": 14.5
     },
     "forecast": {
-        "max": 21.5,
-        "min": 12.1
+        "max": 21.4,
+        "min": 12.0
     },
     "news": [
         {
-            "title": "Recolher obrigatório em várias zonas de França é para manter, diz Lecornu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/mundo/noticia/recolher-obrigatorio-varias-zonas-franca-manter-lecornu-2191944"
+            "title": "Menos carros e mais peões, um quiosque e mais verde: Porto repensa Praça Pedro Nunes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/local/noticia/menos-carros-peoes-quiosque-verde-porto-repensa-praca-pedro-nunes-2192008"
         },
         {
-            "title": "Marca curitibana ganha o mundo com modelo de negócio compacto e destaque ao café brasileiro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/publico-brasil/noticia/marca-curitibana-ganha-mundo-modelo-negocio-compacto-destaque-cafe-brasileiro-2191901"
+            "title": "A poucos dias das eleições, figuras de oposição na Sérvia são vítimas de <em>spyware</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/mundo/noticia/dias-eleicoes-figuras-oposicao-servia-sao-vitimas-spyware-2191999"
         },
         {
-            "title": "E se as outras espécies para lá dos humanos tivessem diplomatas a defendê-las?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/azul/noticia/especies-humanos-diplomatas-defendelas-2191826"
+            "title": "EUA ordenam remoção da chinesa DeepSeek de todas as agências federais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/enter/noticia/eua-ordenam-remocao-chinesa-deepseek-agencias-federais-2192001"
         },
         {
-            "title": "Selena Gomez revela que os <em>vapes</em> com nicotina lhe alteraram a voz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/impar/noticia/selena-gomez-revela-vapes-nicotina-alteraram-voz-2191937"
+            "title": "“Perdeu o seu telemóvel?”, o BdP aconselha-o a informar o banco",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/economia/noticia/perdeu-telemovel-bdp-aconselhao-informar-banco-2191995"
         },
         {
-            "title": "Dois feridos e 55 detidos no desmantelamento da <em>acampada</em> em Lisboa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/sociedade/noticia/dois-feridos-55-detidos-desmantelamento-acampada-lisboa-2191940"
+            "title": "Comissão lança nova estratégia para UE não ser “mera espectadora” das mudanças no Árctico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/mundo/noticia/comissao-lanca-nova-estrategia-ue-nao-mera-espectadora-mudancas-arctico-2191993"
         }
     ],
     "finance": [],
-    "last_update": "20/10/2026 10:35"
+    "last_update": "20/10/2026 15:26"
 }
