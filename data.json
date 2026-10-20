@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 13.4,
-        "manha": 13.6,
-        "tarde": 20.1,
-        "noite": 15.0
+        "manha": 13.4,
+        "tarde": 19.6,
+        "noite": 14.6
     },
     "forecast": {
-        "max": 21.4,
-        "min": 12.3
+        "max": 21.5,
+        "min": 12.1
     },
     "news": [
         {
-            "title": "Acções contra médicos aumentam, as indemnizações disparam e as coberturas dos seguros ficam aquém",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/sociedade/noticia/accoes-medicos-aumentam-indemnizacoes-disparam-coberturas-seguros-ficam-aquem-2189603"
+            "title": "Recolher obrigatório em várias zonas de França é para manter, diz Lecornu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/mundo/noticia/recolher-obrigatorio-varias-zonas-franca-manter-lecornu-2191944"
         },
         {
-            "title": "“Ser tecnicamente irrepreensível não chega.” Há médicos condenados por não explicarem riscos de cirurgia a doentes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/sociedade/noticia/tecnicamente-irrepreensivel-nao-chega-ha-medicos-condenados-nao-explicarem-riscos-cirurgia-doentes-2189618"
+            "title": "Marca curitibana ganha o mundo com modelo de negócio compacto e destaque ao café brasileiro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/publico-brasil/noticia/marca-curitibana-ganha-mundo-modelo-negocio-compacto-destaque-cafe-brasileiro-2191901"
         },
         {
-            "title": "Marine Le Pen quer capitalizar o 17 de Outubro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/opiniao/opiniao/marine-le-pen-quer-capitalizar-17-outubro-2191917"
+            "title": "E se as outras espécies para lá dos humanos tivessem diplomatas a defendê-las?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/azul/noticia/especies-humanos-diplomatas-defendelas-2191826"
         },
         {
-            "title": "A política como fezada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/opiniao/opiniao/politica-fezada-2191869"
+            "title": "Selena Gomez revela que os <em>vapes</em> com nicotina lhe alteraram a voz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/impar/noticia/selena-gomez-revela-vapes-nicotina-alteraram-voz-2191937"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/opiniao/opiniao/cartas-director-2191868"
+            "title": "Dois feridos e 55 detidos no desmantelamento da <em>acampada</em> em Lisboa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/sociedade/noticia/dois-feridos-55-detidos-desmantelamento-acampada-lisboa-2191940"
         }
     ],
     "finance": [],
-    "last_update": "20/10/2026 05:30"
+    "last_update": "20/10/2026 10:35"
 }
