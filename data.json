@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 12.7,
-        "manha": 14.0,
-        "tarde": 21.3,
-        "noite": 13.7
+        "atual": 14.2,
+        "manha": 14.5,
+        "tarde": 21.0,
+        "noite": 14.7
     },
     "forecast": {
-        "max": 20.3,
-        "min": 9.0
+        "max": 20.2,
+        "min": 11.6
     },
     "news": [
         {
-            "title": "A crise da habitação não é um espetáculo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/opiniao/opiniao/crise-habitacao-nao-espetaculo-2191964"
+            "title": "Tempo de casa não mede o valor do executivo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/publico-brasil/opiniao/tempo-casa-nao-mede-valor-executivo-2192052"
         },
         {
-            "title": "Ainda o PISA: a cronologia do facilitismo e o álibi da complexidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/opiniao/opiniao/pisa-cronologia-facilitismo-alibi-complexidade-2191954"
+            "title": "“Quem passou fome, não tem medo de nada”, diz <em>chef</em> com três negócios no Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/publico-brasil/noticia/passou-fome-nao-medo-nada-chef-tres-negocios-porto-2192036"
         },
         {
-            "title": "Passos Coelho quer voltar a ser primeiro-ministro. Quem disse?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/opiniao/opiniao/passos-coelho-quer-voltar-primeiroministro-2191951"
+            "title": "Ter 1,7 graus de aquecimento global é possível — se deixarmos os combustíveis fósseis",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/azul/noticia/17-graus-aquecimento-global-possivel-deixarmos-combustiveis-fosseis-2192002"
         },
         {
-            "title": "Ana Moura, Tim, Vitorino ou Dino: a música juntou-se aos protestos pela habitação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/video/ana-moura-tim-vitorino-dino-musica-juntouse-protestos-habitacao-20261021-000845"
+            "title": "Sporting pode fazer história. E Rui Borges também",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/desporto/noticia/sporting-historia-rui-borges-tambem-2191996"
         },
         {
-            "title": "A <em>acampada</em> do Porto e o poder político a mostrar os dentes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/opiniao/opiniao/acampada-porto-politico-mostrar-dentes-2192030"
+            "title": "Adriana Calcanhotto de volta, em voz e violão: “Talvez Coimbra me salve de novo”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/culturaipsilon/noticia/adriana-calcanhotto-volta-voz-violao-coimbra-salve-novo-2191725"
         }
     ],
     "finance": [],
-    "last_update": "21/10/2026 01:06"
+    "last_update": "21/10/2026 06:44"
 }
