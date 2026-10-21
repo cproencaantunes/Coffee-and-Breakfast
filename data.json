@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.2,
-        "manha": 14.5,
-        "tarde": 20.5,
-        "noite": 14.7
+        "atual": 13.0,
+        "manha": 10.0,
+        "tarde": 21.0,
+        "noite": 14.2
     },
     "forecast": {
-        "max": 19.9,
-        "min": 11.3
+        "max": 21.8,
+        "min": 11.8
     },
     "news": [
         {
-            "title": "A autonomia artística também é uma responsabilidade pública",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/culturaipsilon/opiniao/autonomia-artistica-tambem-responsabilidade-publica-2192033"
+            "title": "As <em>acampadas</em> não são para falar de habitação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/opiniao/opiniao/acampadas-nao-sao-falar-habitacao-2192095"
         },
         {
-            "title": "Estudantes pedem travão ao aumento das propinas e temem mais barreiras ao acesso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/sociedade/noticia/estudantes-pedem-travao-aumento-propinas-temem-barreiras-acesso-2192190"
+            "title": "Regresso a Vasco, numa viva memória com Paris ao centro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/culturaipsilon/opiniao/regresso-vasco-viva-memoria-paris-centro-2191963"
         },
         {
-            "title": "Empresas vão ter mais tempo para recuperar os 434 milhões do Fundo de Compensação do Trabalho",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/economia/noticia/empresas-vao-tempo-recuperar-434-milhoes-fundo-compensacao-trabalho-2192184"
+            "title": "O que falta na ferrovia é concorrência?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/opiniao/opiniao/falta-ferrovia-concorrencia-2190789"
         },
         {
-            "title": "<em>A Desconhecida</em>: onde estás tu, espectador, para a experiência violenta das coisas?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/culturaipsilon/noticia/desconhecida-onde-espectador-experiencia-violenta-2191852"
+            "title": "Carneiro acusa AD e Chega de tentar reduzir manifestações a “acções de extrema-esquerda”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/politica/noticia/carneiro-acusa-ad-chega-tentar-reduzir-manifestacoes-accoes-extremaesquerda-2192197"
         },
         {
-            "title": "Editor de Thélyson Orélien revela que a inteligência artificial foi utilizada em <em>C’était ça ou mourir</em>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/culturaipsilon/noticia/editor-thelyson-orelien-revela-inteligencia-artificial-utilizada-cetait-ca-mourir-2192182"
+            "title": "Brasil, mostra a tua cara!",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/opiniao/cronica/brasil-mostra-cara-2191975"
         }
     ],
     "finance": [],
-    "last_update": "21/10/2026 20:59"
+    "last_update": "21/10/2026 23:55"
 }
