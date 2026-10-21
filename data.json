@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 13.4,
-        "manha": 13.4,
-        "tarde": 19.9,
-        "noite": 14.8
+        "atual": 12.7,
+        "manha": 14.0,
+        "tarde": 21.3,
+        "noite": 13.7
     },
     "forecast": {
-        "max": 21.3,
-        "min": 11.8
+        "max": 20.3,
+        "min": 9.0
     },
     "news": [
         {
-            "title": "Do Porto para Espanha: uma videochamada entre <i> acampadas </i> ibéricas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/video/porto-espanha-videochamada-entre-acampadas-ibericas-20261020-230757"
+            "title": "A crise da habitação não é um espetáculo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/opiniao/opiniao/crise-habitacao-nao-espetaculo-2191964"
         },
         {
-            "title": "Acampada: Luís Neves está desejoso que haja caos?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/politica/noticia/acampada-luis-neves-desejoso-caos-2192060"
+            "title": "Ainda o PISA: a cronologia do facilitismo e o álibi da complexidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/opiniao/opiniao/pisa-cronologia-facilitismo-alibi-complexidade-2191954"
         },
         {
-            "title": "Duas centenas de pessoas em Braga em solidariedade com <em>acampadas</em> de Lisboa e Porto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/sociedade/noticia/duas-centenas-braga-solidariedade-acampadas-lisboa-porto-2192059"
+            "title": "Passos Coelho quer voltar a ser primeiro-ministro. Quem disse?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/opiniao/opiniao/passos-coelho-quer-voltar-primeiroministro-2191951"
         },
         {
-            "title": "Grupo em Évora convoca nova concentração para sexta-feira e começa a desmobilizar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/sociedade/noticia/grupo-evora-convoca-nova-concentracao-sextafeira-comeca-desmobilizar-2192058"
+            "title": "Ana Moura, Tim, Vitorino ou Dino: a música juntou-se aos protestos pela habitação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/video/ana-moura-tim-vitorino-dino-musica-juntouse-protestos-habitacao-20261021-000845"
         },
         {
-            "title": "PSG mostrou ao Barcelona quem ainda manda na Europa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/20/desporto/noticia/psg-mostrou-barcelona-manda-europa-2192055"
+            "title": "A <em>acampada</em> do Porto e o poder político a mostrar os dentes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/opiniao/opiniao/acampada-porto-politico-mostrar-dentes-2192030"
         }
     ],
     "finance": [],
-    "last_update": "20/10/2026 22:47"
+    "last_update": "21/10/2026 01:06"
 }
