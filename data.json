@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 12.7,
-        "manha": 13.3,
-        "tarde": 21.1,
-        "noite": 13.9
+        "atual": 14.2,
+        "manha": 14.5,
+        "tarde": 20.5,
+        "noite": 14.7
     },
     "forecast": {
-        "max": 20.5,
-        "min": 9.8
+        "max": 19.9,
+        "min": 11.3
     },
     "news": [
         {
-            "title": "Cinco homens acusados em Taiwan após atropelamento de humorista que gozou com Xi",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/mundo/noticia/cinco-homens-acusados-taiwan-apos-atropelamento-humorista-gozou-xi-2192148"
+            "title": "A autonomia artística também é uma responsabilidade pública",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/culturaipsilon/opiniao/autonomia-artistica-tambem-responsabilidade-publica-2192033"
         },
         {
-            "title": "PRR na habitação fez mais reabilitação do que casas novas, diz Pedro Dominguinhos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/economia/noticia/prr-habitacao-fez-reabilitacao-casas-novas-pedro-dominguinhos-2192161"
+            "title": "Estudantes pedem travão ao aumento das propinas e temem mais barreiras ao acesso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/sociedade/noticia/estudantes-pedem-travao-aumento-propinas-temem-barreiras-acesso-2192190"
         },
         {
-            "title": "\"Bukangi\": turistas juntam-se para ver o tubarão preso num canal da Coreia do Sul",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/video/bukangi-turistas-juntamse-tubarao-preso-canal-coreia-sul-20261021-164252"
+            "title": "Empresas vão ter mais tempo para recuperar os 434 milhões do Fundo de Compensação do Trabalho",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/economia/noticia/empresas-vao-tempo-recuperar-434-milhoes-fundo-compensacao-trabalho-2192184"
         },
         {
-            "title": "Com os juros nos 5%, a França está cada vez mais isolada na luta contra os mercados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/economia/noticia/juros-5-franca-isolada-luta-mercados-2192165"
+            "title": "<em>A Desconhecida</em>: onde estás tu, espectador, para a experiência violenta das coisas?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/culturaipsilon/noticia/desconhecida-onde-espectador-experiencia-violenta-2191852"
         },
         {
-            "title": "Pais detidos na Guarda por crimes sexuais contra filha de 13 anos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/sociedade/noticia/pais-detidos-guarda-crimes-sexuais-filha-13-anos-2192171"
+            "title": "Editor de Thélyson Orélien revela que a inteligência artificial foi utilizada em <em>C’était ça ou mourir</em>",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/culturaipsilon/noticia/editor-thelyson-orelien-revela-inteligencia-artificial-utilizada-cetait-ca-mourir-2192182"
         }
     ],
     "finance": [],
-    "last_update": "21/10/2026 17:44"
+    "last_update": "21/10/2026 20:59"
 }
