@@ -3,34 +3,34 @@
         "atual": 12.7,
         "manha": 13.3,
         "tarde": 21.1,
-        "noite": 14.0
+        "noite": 13.9
     },
     "forecast": {
-        "max": 20.6,
-        "min": 9.7
+        "max": 20.5,
+        "min": 9.8
     },
     "news": [
         {
-            "title": "Governo britânico aprova campo de gás no mar do Norte e o protesto está na rua",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/azul/noticia/governo-britanico-aprova-campo-gas-mar-norte-protesto-rua-2192071"
+            "title": "Cinco homens acusados em Taiwan após atropelamento de humorista que gozou com Xi",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/mundo/noticia/cinco-homens-acusados-taiwan-apos-atropelamento-humorista-gozou-xi-2192148"
         },
         {
-            "title": "Habitação: ida a julgamento de manifestantes suspeitos de desobediência nas mãos do Ministério Público",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/sociedade/noticia/habitacao-ida-julgamento-manifestantes-suspeitos-desobediencia-maos-ministerio-publico-2192097"
+            "title": "PRR na habitação fez mais reabilitação do que casas novas, diz Pedro Dominguinhos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/economia/noticia/prr-habitacao-fez-reabilitacao-casas-novas-pedro-dominguinhos-2192161"
         },
         {
-            "title": "Rússia liberta cidadão norte-americano preso desde 2022",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/mundo/noticia/russia-liberta-cidadao-norteamericano-preso-desde-2022-2192094"
+            "title": "\"Bukangi\": turistas juntam-se para ver o tubarão preso num canal da Coreia do Sul",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/video/bukangi-turistas-juntamse-tubarao-preso-canal-coreia-sul-20261021-164252"
         },
         {
-            "title": "Seguro chama partidos a Belém para audiências sobre coesão social",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/politica/noticia/seguro-chama-partidos-belem-audiencias-coesao-social-2192092"
+            "title": "Com os juros nos 5%, a França está cada vez mais isolada na luta contra os mercados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/economia/noticia/juros-5-franca-isolada-luta-mercados-2192165"
         },
         {
-            "title": "Starbucks passa a exigir consumo obrigatório para ocupar lugares em cafés da China",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/p3/noticia/starbucks-passa-exigir-consumo-obrigatorio-ocupar-lugares-cafes-china-2192068"
+            "title": "Pais detidos na Guarda por crimes sexuais contra filha de 13 anos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/sociedade/noticia/pais-detidos-guarda-crimes-sexuais-filha-13-anos-2192171"
         }
     ],
     "finance": [],
-    "last_update": "21/10/2026 12:32"
+    "last_update": "21/10/2026 17:44"
 }
