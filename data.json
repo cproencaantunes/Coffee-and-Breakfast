@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.2,
-        "manha": 14.5,
-        "tarde": 21.0,
-        "noite": 14.7
+        "atual": 12.7,
+        "manha": 13.3,
+        "tarde": 21.1,
+        "noite": 14.0
     },
     "forecast": {
-        "max": 20.2,
-        "min": 11.6
+        "max": 20.6,
+        "min": 9.7
     },
     "news": [
         {
-            "title": "Tempo de casa não mede o valor do executivo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/publico-brasil/opiniao/tempo-casa-nao-mede-valor-executivo-2192052"
+            "title": "Governo britânico aprova campo de gás no mar do Norte e o protesto está na rua",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/azul/noticia/governo-britanico-aprova-campo-gas-mar-norte-protesto-rua-2192071"
         },
         {
-            "title": "“Quem passou fome, não tem medo de nada”, diz <em>chef</em> com três negócios no Porto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/publico-brasil/noticia/passou-fome-nao-medo-nada-chef-tres-negocios-porto-2192036"
+            "title": "Habitação: ida a julgamento de manifestantes suspeitos de desobediência nas mãos do Ministério Público",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/sociedade/noticia/habitacao-ida-julgamento-manifestantes-suspeitos-desobediencia-maos-ministerio-publico-2192097"
         },
         {
-            "title": "Ter 1,7 graus de aquecimento global é possível — se deixarmos os combustíveis fósseis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/azul/noticia/17-graus-aquecimento-global-possivel-deixarmos-combustiveis-fosseis-2192002"
+            "title": "Rússia liberta cidadão norte-americano preso desde 2022",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/mundo/noticia/russia-liberta-cidadao-norteamericano-preso-desde-2022-2192094"
         },
         {
-            "title": "Sporting pode fazer história. E Rui Borges também",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/desporto/noticia/sporting-historia-rui-borges-tambem-2191996"
+            "title": "Seguro chama partidos a Belém para audiências sobre coesão social",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/politica/noticia/seguro-chama-partidos-belem-audiencias-coesao-social-2192092"
         },
         {
-            "title": "Adriana Calcanhotto de volta, em voz e violão: “Talvez Coimbra me salve de novo”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/culturaipsilon/noticia/adriana-calcanhotto-volta-voz-violao-coimbra-salve-novo-2191725"
+            "title": "Starbucks passa a exigir consumo obrigatório para ocupar lugares em cafés da China",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/21/p3/noticia/starbucks-passa-exigir-consumo-obrigatorio-ocupar-lugares-cafes-china-2192068"
         }
     ],
     "finance": [],
-    "last_update": "21/10/2026 06:44"
+    "last_update": "21/10/2026 12:32"
 }
