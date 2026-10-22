@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.0,
         "manha": 9.4,
-        "tarde": 20.0,
-        "noite": 13.9
+        "tarde": 20.1,
+        "noite": 14.1
     },
     "forecast": {
-        "max": 22.5,
-        "min": 12.7
+        "max": 22.2,
+        "min": 12.2
     },
     "news": [
         {
-            "title": "Juliana Linhares estreia em Portugal <em>Até Cansar o Cansaço</em>, um “sonho colectivo”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/culturaipsilon/noticia/juliana-linhares-estreia-portugal-ate-cansar-cansaco-sonho-colectivo-2192251"
+            "title": "Torreense foi incapaz de travar o Ferencváros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/desporto/noticia/torreense-incapaz-travar-ferencvaros-2192332"
         },
         {
-            "title": "Depois de aceitar reunião trilateral, Rússia volta a atacar Ucrânia e faz vítimas mortais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/mundo/noticia/aceitar-reuniao-trilateral-russia-volta-atacar-ucrania-faz-vitimas-mortais-2192260"
+            "title": "Ministro e extrema-direita criticam brasileiros que protestam por moradia em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/publico-brasil/noticia/ministro-extremadireita-criticam-brasileiros-protestam-moradia-portugal-2192272"
         },
         {
-            "title": "As <i>acampadas</i> pela habitação são legais? E a actuação da polícia? Uma jurista responde",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/video/as-acampadas-pela-habitacao-legais-actuacao-policia-jurista-responde-123205"
+            "title": "As cidades criativas e a sua atracção em discussão no MATE",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/culturaipsilon/noticia/cidades-criativas-atraccao-discussao-mate-2192263"
         },
         {
-            "title": "Com medo do imposto sobre grandes fortunas, Meta fecha acordo para manter Zuckerberg na Califórnia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/enter/noticia/medo-imposto-fortunas-meta-fecha-acordo-manter-zuckerberg-california-2192241"
+            "title": "Encontro em Ponte de Lima coloca a casta Loureiro sob os holofotes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/fugas/noticia/encontro-ponte-lima-coloca-casta-loureiro-holofotes-2191969"
         },
         {
-            "title": "TC enterra lei que impede reinscrição de trabalhadores na Caixa Geral de Aposentações",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/economia/noticia/tc-enterra-lei-impede-reinscricao-trabalhadores-caixa-geral-aposentacoes-2192256"
+            "title": "PS e BE condenam declarações de presidente do IHRU sobre disponibilidade dos jovens para o “sacrifício”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/sociedade/noticia/ps-be-condenam-declaracoes-presidente-ihru-disponibilidade-jovens-sacrificio-2192282"
         }
     ],
     "finance": [],
-    "last_update": "22/10/2026 14:11"
+    "last_update": "22/10/2026 18:56"
 }
