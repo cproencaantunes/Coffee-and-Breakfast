@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 13.0,
-        "manha": 10.0,
-        "tarde": 21.0,
-        "noite": 14.2
+        "manha": 9.6,
+        "tarde": 20.3,
+        "noite": 14.3
     },
     "forecast": {
-        "max": 21.8,
-        "min": 11.8
+        "max": 22.7,
+        "min": 12.8
     },
     "news": [
         {
-            "title": "As <em>acampadas</em> não são para falar de habitação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/opiniao/opiniao/acampadas-nao-sao-falar-habitacao-2192095"
+            "title": "<em>Memórias do Cárcere</em>, <em>A Desconhecida</em> e outras estreias para esta semana",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/culturaipsilon/noticia/memorias-carcere-desconhecida-estreias-semana-2191603"
         },
         {
-            "title": "Regresso a Vasco, numa viva memória com Paris ao centro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/culturaipsilon/opiniao/regresso-vasco-viva-memoria-paris-centro-2191963"
+            "title": "Dois mortos e oito feridos em ataque ao aeroporto de Dammam, cidade petrolífera da Arábia Saudita",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/mundo/noticia/dois-mortos-oito-feridos-ataque-aeroporto-dammam-cidade-petrolifera-arabia-saudita-2192205"
         },
         {
-            "title": "O que falta na ferrovia é concorrência?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/opiniao/opiniao/falta-ferrovia-concorrencia-2190789"
+            "title": "Avanço ou retrocesso?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/publico-brasil/opiniao/avanco-retrocesso-2192204"
         },
         {
-            "title": "Carneiro acusa AD e Chega de tentar reduzir manifestações a “acções de extrema-esquerda”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/politica/noticia/carneiro-acusa-ad-chega-tentar-reduzir-manifestacoes-accoes-extremaesquerda-2192197"
+            "title": "“A Europa está zangada porque está em declínio”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/mundo/noticia/europa-zangada-declinio-2192113"
         },
         {
-            "title": "Brasil, mostra a tua cara!",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/opiniao/cronica/brasil-mostra-cara-2191975"
+            "title": "Aterro do Zambujal vai a julgamento. Estado pede 81 milhões de euros por solos e águas contaminados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/azul/noticia/aterro-zambujal-vai-julgamento-estado-pede-81-milhoes-euros-solos-aguas-contaminados-2192072"
         }
     ],
     "finance": [],
-    "last_update": "22/10/2026 02:21"
+    "last_update": "22/10/2026 08:04"
 }
