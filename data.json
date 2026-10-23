@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 13.0,
-        "manha": 9.4,
-        "tarde": 20.1,
-        "noite": 14.5
+        "atual": 12.9,
+        "manha": 16.0,
+        "tarde": 22.2,
+        "noite": 14.1
     },
     "forecast": {
-        "max": 22.0,
-        "min": 12.8
+        "max": 22.5,
+        "min": 9.4
     },
     "news": [
         {
-            "title": "Sp. Braga fez soar alto o “chicote” para voltar às vitórias frente ao Gent",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/desporto/cronica_de_jogo/sp-braga-fez-soar-alto-chicote-voltar-vitorias-frente-gent-2192334"
+            "title": "Quem provoca quem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/23/opiniao/opiniao/provoca-2192335"
         },
         {
-            "title": "Benfica em ritmo tranquilo no topo da Liga Europa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/desporto/cronica_de_jogo/benfica-ritmo-tranquilo-topo-liga-europa-2192342"
+            "title": "A direita e os protestos sobre a habitação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/23/opiniao/opiniao/direita-protestos-habitacao-2192331"
         },
         {
-            "title": "“As vozes da rua não estão a ser suficientes”: movimento pela habitação avança com Iniciativa Legislativa de Cidadãos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/sociedade/noticia/vozes-rua-nao-estao-suficientes-protesto-habitacao-avanca-iniciativa-legislativa-cidadaos-2192285"
+            "title": "Movimento antitransgénero: uma intervenção externa em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/23/opiniao/opiniao/movimento-antitransgenero-intervencao-externa-portugal-2192208"
         },
         {
-            "title": "Traição americana, vitória russa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/opiniao/editorial/traicao-americana-vitoria-russa-2192338"
+            "title": "O salário que não cabe no cartaz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/23/opiniao/opiniao/salario-nao-cabe-cartaz-2192247"
         },
         {
-            "title": "Mariana Leite Soares mostra-nos como é ouvir a vida quase em absoluto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/22/culturaipsilon/noticia/mariana-leite-soares-mostranos-ouvir-vida-quase-absoluto-2192307"
+            "title": "Da relativa inércia e resistência passiva à ação coletiva pelo direito à habitação?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/23/opiniao/opiniao/relativa-inercia-resistencia-passiva-acao-coletiva-direito-habitacao-2192289"
         }
     ],
     "finance": [],
-    "last_update": "22/10/2026 22:01"
+    "last_update": "23/10/2026 01:04"
 }
