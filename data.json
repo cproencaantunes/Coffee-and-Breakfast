@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 12.9,
-        "manha": 15.8,
-        "tarde": 21.5,
+        "atual": 13.6,
+        "manha": 11.0,
+        "tarde": 21.7,
         "noite": 14.4
     },
     "forecast": {
-        "max": 22.5,
-        "min": 9.6
+        "max": 23.1,
+        "min": 11.0
     },
     "news": [
         {
-            "title": "Sacrifícios e sacrificados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/23/opiniao/editorial/sacrificios-sacrificados-2192456"
+            "title": "Um colossal fiasco",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/opiniao/opiniao/colossal-fiasco-2192482"
         },
         {
-            "title": "Menzies assegura vitória nos aeroportos de Lisboa, Porto e Faro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/23/economia/noticia/menzies-assegura-vitoria-aeroportos-lisboa-porto-faro-2192487"
+            "title": "Um curso complicado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/opiniao/opiniao/curso-complicado-2192369"
         },
         {
-            "title": "Ministério Público abre inquérito a intervenção policial no Porto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/23/sociedade/noticia/ministerio-publico-abre-inquerito-intervencao-policial-porto-2192485"
+            "title": "Manifestantes da <em>acampada</em> de Lisboa decidem voltar a acampar no sábado no Rossio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/sociedade/noticia/manifestantes-acampada-lisboa-decidem-voltar-acampar-sabado-rossio-2192493"
         },
         {
-            "title": "“Não é fácil ser israelita num tempo em que Israel comete genocídio”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/23/mundo/reportagem/nao-facil-israelita-tempo-israel-comete-genocidio-2192449"
+            "title": "Sobre a reforma da saúde pública",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/opiniao/opiniao/reforma-saude-publica-2192211"
         },
         {
-            "title": "Oposição pressiona com habitação no Orçamento, Governo conta com garantias do PS",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/23/politica/noticia/oposicao-pressiona-habitacao-orcamento-governo-conta-garantias-ps-2192478"
+            "title": "É urgente uma Assembleia Cidadã pela Habitação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/opiniao/opiniao/urgente-assembleia-cidada-habitacao-2192378"
         }
     ],
     "finance": [],
-    "last_update": "23/10/2026 20:45"
+    "last_update": "23/10/2026 23:38"
 }
