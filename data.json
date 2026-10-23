@@ -2,35 +2,35 @@
     "weather": {
         "atual": 12.9,
         "manha": 15.8,
-        "tarde": 21.2,
-        "noite": 13.8
+        "tarde": 21.5,
+        "noite": 14.1
     },
     "forecast": {
-        "max": 22.0,
-        "min": 9.9
+        "max": 22.1,
+        "min": 10.2
     },
     "news": [
         {
-            "title": "Pai de Meghan Markle denunciado por posse de pornografia infantil. Filha sabia desde 2018",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/23/impar/noticia/pai-meghan-markle-denunciado-posse-pornografia-infantil-filha-sabia-desde-2018-2192381"
+            "title": "Troca de habitação por compensações “subavaliadas” pela Câmara do Porto origina denúncias ao Ministério Público",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/23/local/noticia/troca-habitacao-compensacoes-subavaliadas-camara-porto-origina-denuncias-ministerio-publico-2192440"
         },
         {
-            "title": "Governo já tomou “muitas medidas” na habitação mas efeitos levam tempo, diz ministro das Finanças",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/23/economia/noticia/governo-ja-tomou-medidas-habitacao-efeitos-levam-tempo-ministro-financas-2192382"
+            "title": "<em>Startup</em> americana quer criar “cães de guerra” geneticamente melhorados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/23/enter/noticia/startup-americana-quer-criar-caes-guerra-geneticamente-melhorados-2192421"
         },
         {
-            "title": "Leffest 2026 anuncia-se: David Cronenberg, Lars von Trier e outros diabos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/23/culturaipsilon/noticia/leffest-2026-anunciase-david-cronenberg-lars-von-trier-diabos-2192202"
+            "title": "E se aprendêssemos mais qualquer coisa sobre os espumantes Távora-Varosa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/23/fugas/noticia/aprendessemos-qualquer-espumantes-tavoravarosa-2191971"
         },
         {
-            "title": "Na freguesia mais cara do país, um T0 de 30 metros quadrados custa 223 mil euros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/23/economia/noticia/freguesia-cara-pais-t0-30-metros-quadrados-custa-223-mil-euros-2192379"
+            "title": "Rússia e Ucrânia devolvem 270 prisioneiros de guerra cada e centenas de corpos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/23/mundo/noticia/russia-ucrania-devolvem-270-prisioneiros-guerra-centenas-corpos-2192420"
         },
         {
-            "title": "Camilo e <em>Memórias do Cárcere</em>: não andávamos a precisar de um filme português assim?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/23/culturaipsilon/podcast/camilo-memorias-carcere-nao-andavamos-precisar-filme-portugues-assim-2192252"
+            "title": "Campeã olímpica e mundial da maratona suspensa por <em>doping</em>. Não é a primeira",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/23/desporto/noticia/campea-olimpica-mundial-maratona-suspensa-doping-nao-primeira-2192432"
         }
     ],
     "finance": [],
-    "last_update": "23/10/2026 12:15"
+    "last_update": "23/10/2026 17:34"
 }
