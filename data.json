@@ -3,34 +3,34 @@
         "atual": 13.6,
         "manha": 10.2,
         "tarde": 21.4,
-        "noite": 14.3
+        "noite": 14.4
     },
     "forecast": {
-        "max": 23.7,
-        "min": 11.0
+        "max": 24.1,
+        "min": 10.9
     },
     "news": [
         {
-            "title": "Rebeca Andrade é tricampeã mundial no salto e chega a 10 medalhas em Mundiais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/publico-brasil/noticia/rebeca-andrade-tricampea-mundial-salto-chega-10-medalhas-mundiais-2192538"
+            "title": "Entre a poesia e a terra, o Doclisboa premiou Eric Baudelaire e Manuel Mozos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/culturaipsilon/noticia/poesia-terra-doclisboa-premiou-eric-baudelaire-manuel-mozos-2192526"
         },
         {
-            "title": "Drawing Room perde galerias de peso, mas continua a atrair jovens e coleccionadores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/culturaipsilon/noticia/drawing-room-feira-jovens-coleccionadores-volta-lisboa-2192454"
+            "title": "FC Porto arranca triunfo sofrido em Barcelos e mantém registo 100% vitorioso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/desporto/cronica_de_jogo/fc-porto-arranca-triunfo-sofrido-barcelos-mantem-registo-100-vitorioso-2192547"
         },
         {
-            "title": "Canoísta Ricardo Coelho campeão mundial C1 de maratonas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/desporto/noticia/canoista-ricardo-coelho-campeao-mundial-c1-maratonas-2192535"
+            "title": "Artista Eduardo Matos vence Prémio de Desenho FLAD na Feira Drawing Room",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/culturaipsilon/noticia/artista-eduardo-matos-vence-premio-desenho-flad-feira-drawing-room-2192546"
         },
         {
-            "title": "Vinícola aposta em sofisticação do paladar de brasileiros e distribuição estratégica",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/publico-brasil/noticia/vinicola-aposta-sofisticacao-paladar-brasileiros-distribuicao-estrategica-2192501"
+            "title": "Sérvia vai a votos dividida entre a “Máfia” de Vucic e o sonho democrático dos jovens",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/mundo/noticia/servia-vai-votos-dividida-mafia-vucic-sonho-democratico-jovens-2192486"
         },
         {
-            "title": "E, agora, quem poderá nos defender?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/publico-brasil/cronica/podera-defender-2192533"
+            "title": "Manifestantes desafiam a PSP e decidem voltar a montar tendas em Lisboa e no Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/sociedade/noticia/manifestantes-desafiam-psp-decidem-voltar-montar-tendas-lisboa-porto-2192544"
         }
     ],
     "finance": [],
-    "last_update": "24/10/2026 19:08"
+    "last_update": "24/10/2026 22:04"
 }
