@@ -1,15 +1,19 @@
 {
     "weather": {
         "atual": 13.6,
-        "manha": 11.0,
-        "tarde": 21.7,
-        "noite": 14.4
+        "manha": 10.7,
+        "tarde": 22.0,
+        "noite": 14.2
     },
     "forecast": {
         "max": 23.1,
         "min": 11.0
     },
     "news": [
+        {
+            "title": "Menezes acusa Nuno Melo de mentir e nega ter sido chamado para reunião sobre terreno",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/politica/noticia/menezes-acusa-nuno-melo-mentir-nega-chamado-reuniao-terreno-2192491"
+        },
         {
             "title": "Um colossal fiasco",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/opiniao/opiniao/colossal-fiasco-2192482"
@@ -25,12 +29,8 @@
         {
             "title": "Sobre a reforma da saúde pública",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/opiniao/opiniao/reforma-saude-publica-2192211"
-        },
-        {
-            "title": "É urgente uma Assembleia Cidadã pela Habitação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/opiniao/opiniao/urgente-assembleia-cidada-habitacao-2192378"
         }
     ],
     "finance": [],
-    "last_update": "23/10/2026 23:38"
+    "last_update": "24/10/2026 02:24"
 }
