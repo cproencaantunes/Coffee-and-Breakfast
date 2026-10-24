@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 13.6,
-        "manha": 10.3,
-        "tarde": 22.0,
-        "noite": 14.4
+        "manha": 10.2,
+        "tarde": 21.4,
+        "noite": 13.9
     },
     "forecast": {
-        "max": 23.2,
-        "min": 11.6
+        "max": 23.4,
+        "min": 10.9
     },
     "news": [
         {
-            "title": "Do mergulho em Copacabana à subida ao Cristo Redentor: um Rio que corre o ano inteiro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/fugas/noticia/rio-corre-ano-2191640"
+            "title": "Irão intensificou planos para matar americanos no Médio Oriente, avisam serviços secretos dos EUA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/mundo/noticia/irao-intensificou-planos-matar-americanos-medio-oriente-avisam-servicos-secretos-eua-2192509"
         },
         {
-            "title": "Habitação: protestos continuam neste sábado em várias cidades do país",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/sociedade/noticia/habitacao-protestos-continuam-neste-sabado-varias-cidades-pais-2192499"
+            "title": "IL acusa Governo de inacção e pergunta pela lista de imóveis devolutos do Estado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/politica/noticia/il-acusa-governo-inaccao-pergunta-lista-imoveis-devolutos-estado-2192507"
         },
         {
-            "title": "Fraude nas falências: como uma farmácia se valorizou em 390 mil euros em minutos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/sociedade/noticia/fraude-falencias-farmacia-valorizou-390-mil-euros-minutos-2192483"
+            "title": "Ciberataque ao Recenseamento Nacional de Bombeiros: copiados dados pessoais e aplicação suspensa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/sociedade/noticia/ciberataque-recenseamento-nacional-bombeiros-copiados-dados-pessoais-aplicacao-suspensa-2192505"
         },
         {
-            "title": "Entre o cheiro do forno e do tabuleiro cheio de maçãs",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/fugas/cronica/cheiro-forno-tabuleiro-cheio-macas-2191816"
+            "title": "O estigma na sexualidade feminina: qual é o pior insulto que se pode dar a uma mulher?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/video/estigma-sexualidade-feminina-pior-insulto-dar-mulher-20261023-201414"
         },
         {
-            "title": "O prato do dia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/publico-brasil/opiniao/prato-dia-2192497"
+            "title": "Polícia alemã detém suspeito após incêndio no “ninho da águia” de Hitler",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/mundo/noticia/policia-alema-detem-suspeito-apos-incendio-ninho-aguia-hitler-2192506"
         }
     ],
     "finance": [],
-    "last_update": "24/10/2026 07:42"
+    "last_update": "24/10/2026 12:18"
 }
