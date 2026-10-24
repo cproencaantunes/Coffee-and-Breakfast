@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 13.6,
-        "manha": 10.7,
+        "manha": 10.3,
         "tarde": 22.0,
-        "noite": 14.2
+        "noite": 14.4
     },
     "forecast": {
-        "max": 23.1,
-        "min": 11.0
+        "max": 23.2,
+        "min": 11.6
     },
     "news": [
         {
-            "title": "Menezes acusa Nuno Melo de mentir e nega ter sido chamado para reunião sobre terreno",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/politica/noticia/menezes-acusa-nuno-melo-mentir-nega-chamado-reuniao-terreno-2192491"
+            "title": "Do mergulho em Copacabana à subida ao Cristo Redentor: um Rio que corre o ano inteiro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/fugas/noticia/rio-corre-ano-2191640"
         },
         {
-            "title": "Um colossal fiasco",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/opiniao/opiniao/colossal-fiasco-2192482"
+            "title": "Habitação: protestos continuam neste sábado em várias cidades do país",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/sociedade/noticia/habitacao-protestos-continuam-neste-sabado-varias-cidades-pais-2192499"
         },
         {
-            "title": "Um curso complicado",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/opiniao/opiniao/curso-complicado-2192369"
+            "title": "Fraude nas falências: como uma farmácia se valorizou em 390 mil euros em minutos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/sociedade/noticia/fraude-falencias-farmacia-valorizou-390-mil-euros-minutos-2192483"
         },
         {
-            "title": "Manifestantes da <em>acampada</em> de Lisboa decidem voltar a acampar no sábado no Rossio",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/sociedade/noticia/manifestantes-acampada-lisboa-decidem-voltar-acampar-sabado-rossio-2192493"
+            "title": "Entre o cheiro do forno e do tabuleiro cheio de maçãs",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/fugas/cronica/cheiro-forno-tabuleiro-cheio-macas-2191816"
         },
         {
-            "title": "Sobre a reforma da saúde pública",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/opiniao/opiniao/reforma-saude-publica-2192211"
+            "title": "O prato do dia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/publico-brasil/opiniao/prato-dia-2192497"
         }
     ],
     "finance": [],
-    "last_update": "24/10/2026 02:24"
+    "last_update": "24/10/2026 07:42"
 }
