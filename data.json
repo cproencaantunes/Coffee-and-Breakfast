@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 12.2,
-        "manha": 16.0,
-        "tarde": 24.3,
-        "noite": 16.6
+        "manha": 16.1,
+        "tarde": 24.2,
+        "noite": 16.3
     },
     "forecast": {
-        "max": 22.5,
-        "min": 11.9
+        "max": 22.6,
+        "min": 11.7
     },
     "news": [
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/opiniao/opiniao/cartas-director-2192390"
+            "title": "Polícia volta a avançar sobre manifestantes pacíficos em protestos pela habitação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/video/policia-volta-avancar-manifestantes-pacificos-protestos-habitacao-20261025-094213"
         },
         {
-            "title": "As imagens da intervenção policial nas <em>acampadas</em> em Lisboa e no Porto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/fotogaleria/policia-avancou-dispersar-manifestacoes-habitacao-lisboa-porto-416135"
+            "title": "BE e Livre criticam carga policial: “O silêncio do primeiro-ministro não pode ser o silêncio do Presidente da República”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/politica/noticia/be-livre-criticam-carga-policial-silencio-primeiroministro-nao-silencio-presidente-republica-2192542"
         },
         {
-            "title": "A ingenuidade da Igreja",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/opiniao/opiniao/ingenuidade-igreja-2192098"
+            "title": "Querido indeciso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/publico-brasil/opiniao/querido-indeciso-2192554"
         },
         {
-            "title": "Quem protesta por quem? A crise da habitação e a desigualdade na representação da desigualdade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/opiniao/opiniao/protesta-crise-habitacao-desigualdade-representacao-desigualdade-2192444"
+            "title": "Urnas abertas em Portugal: brasileiros decidem o futuro do Brasil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/publico-brasil/noticia/urnas-abertas-portugal-brasileiros-decidem-futuro-brasil-2192551"
         },
         {
-            "title": "Habitação acessível a preço de saldo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/opiniao/opiniao/habitacao-acessivel-preco-saldo-2192380"
+            "title": "Habitação: <em>acampadas </em>em Lisboa e no Porto contam mais de 50 feridos, PSP fala em 11",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/sociedade/noticia/habitacao-acampadas-lisboa-porto-contam-50-feridos-psp-fala-11-2192550"
         }
     ],
     "finance": [],
-    "last_update": "25/10/2026 05:28"
+    "last_update": "25/10/2026 10:20"
 }
