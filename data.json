@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 13.6,
-        "manha": 10.2,
-        "tarde": 21.4,
-        "noite": 14.4
+        "atual": 12.5,
+        "manha": 12.4,
+        "tarde": 24.6,
+        "noite": 17.1
     },
     "forecast": {
-        "max": 24.1,
-        "min": 10.9
+        "max": 22.7,
+        "min": 12.0
     },
     "news": [
         {
+            "title": "A ingenuidade da Igreja",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/opiniao/opiniao/ingenuidade-igreja-2192098"
+        },
+        {
+            "title": "Quem protesta por quem? A crise da habitação e a desigualdade na representação da desigualdade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/opiniao/opiniao/protesta-crise-habitacao-desigualdade-representacao-desigualdade-2192444"
+        },
+        {
+            "title": "Habitação acessível a preço de saldo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/opiniao/opiniao/habitacao-acessivel-preco-saldo-2192380"
+        },
+        {
+            "title": "Ensinar a usar a IA não chega: é preciso ensinar a governá-la",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/opiniao/opiniao/ensinar-usar-ia-nao-chega-preciso-ensinar-governala-2192217"
+        },
+        {
             "title": "Entre a poesia e a terra, o Doclisboa premiou Eric Baudelaire e Manuel Mozos",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/culturaipsilon/noticia/poesia-terra-doclisboa-premiou-eric-baudelaire-manuel-mozos-2192526"
-        },
-        {
-            "title": "FC Porto arranca triunfo sofrido em Barcelos e mantém registo 100% vitorioso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/desporto/cronica_de_jogo/fc-porto-arranca-triunfo-sofrido-barcelos-mantem-registo-100-vitorioso-2192547"
-        },
-        {
-            "title": "Artista Eduardo Matos vence Prémio de Desenho FLAD na Feira Drawing Room",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/culturaipsilon/noticia/artista-eduardo-matos-vence-premio-desenho-flad-feira-drawing-room-2192546"
-        },
-        {
-            "title": "Sérvia vai a votos dividida entre a “Máfia” de Vucic e o sonho democrático dos jovens",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/mundo/noticia/servia-vai-votos-dividida-mafia-vucic-sonho-democratico-jovens-2192486"
-        },
-        {
-            "title": "Manifestantes desafiam a PSP e decidem voltar a montar tendas em Lisboa e no Porto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/sociedade/noticia/manifestantes-desafiam-psp-decidem-voltar-montar-tendas-lisboa-porto-2192544"
         }
     ],
     "finance": [],
-    "last_update": "24/10/2026 22:04"
+    "last_update": "25/10/2026 00:39"
 }
