@@ -2,35 +2,35 @@
     "weather": {
         "atual": 12.2,
         "manha": 16.1,
-        "tarde": 24.0,
-        "noite": 16.5
+        "tarde": 23.1,
+        "noite": 16.7
     },
     "forecast": {
-        "max": 22.7,
-        "min": 11.4
+        "max": 22.1,
+        "min": 12.2
     },
     "news": [
         {
-            "title": "Israel removeu à força mais de dois mil palestinianos em Hebron, na Cisjordânia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/mundo/noticia/israel-removeu-forca-dois-mil-palestinianos-hebron-cisjordania-2192571"
+            "title": "Abril: obituário (vida e morte do direito à habitação)",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/opiniao/opiniao/abril-obituario-vida-morte-direito-habitacao-2192573"
         },
         {
-            "title": "Brasileiros no Algarve divididos entre coração e razão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/mundo/noticia/brasileiros-algarve-divididos-coracao-razao-2192572"
+            "title": "<em>Terminal</em> e <em>Virgem Fandango</em> distinguidos pelo Prémio Nacional da Animação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/culturaipsilon/noticia/terminal-virgem-fandango-distinguidos-premio-nacional-animacao-2192583"
         },
         {
-            "title": "Cargas policiais: SOS Racismo pede demissão do MAI, inquérito à IGAI  e pede a Seguro que se pronuncie",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/sociedade/noticia/cargas-policiais-manifestantes-sos-racismo-pede-demissao-mai-inquerito-igai-actuacao-psp-2192570"
+            "title": "Bruno Fernandes fica “de castigo” no banco e vê nova derrota do Manchester United",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/desporto/noticia/bruno-fernandes-fica-castigo-banco-ve-nova-derrota-manchester-united-2192587"
         },
         {
-            "title": "Longe do Brasil, mas presentes na urna: “A distância não diminui a nossa voz”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/publico-brasil/noticia/longe-brasil-presentes-urna-distancia-nao-diminui-voz-2192549"
+            "title": "Abstenção cai na maior parte dos países e pode se refletir no Brasil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/publico-brasil/noticia/abstencao-cai-maior-parte-parte-paises-refletir-brasil-2192574"
         },
         {
-            "title": "Entre receber e transmitir. Paisagem, património e a responsabilidade de transformar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/azul/opiniao/receber-transmitir-paisagem-patrimonio-responsabilidade-transformar-2192037"
+            "title": "Brasileiros decidem o futuro do país em clima de grande divisão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/mundo/noticia/brasileiros-decidem-futuro-pais-clima-divisao-2192577"
         }
     ],
     "finance": [],
-    "last_update": "25/10/2026 14:39"
+    "last_update": "25/10/2026 17:57"
 }
