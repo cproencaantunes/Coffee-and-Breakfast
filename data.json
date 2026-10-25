@@ -1,15 +1,23 @@
 {
     "weather": {
-        "atual": 12.5,
-        "manha": 12.4,
-        "tarde": 24.6,
-        "noite": 17.1
+        "atual": 12.2,
+        "manha": 16.0,
+        "tarde": 24.3,
+        "noite": 16.6
     },
     "forecast": {
-        "max": 22.7,
-        "min": 12.0
+        "max": 22.5,
+        "min": 11.9
     },
     "news": [
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/opiniao/opiniao/cartas-director-2192390"
+        },
+        {
+            "title": "As imagens da intervenção policial nas <em>acampadas</em> em Lisboa e no Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/fotogaleria/policia-avancou-dispersar-manifestacoes-habitacao-lisboa-porto-416135"
+        },
         {
             "title": "A ingenuidade da Igreja",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/opiniao/opiniao/ingenuidade-igreja-2192098"
@@ -21,16 +29,8 @@
         {
             "title": "Habitação acessível a preço de saldo",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/opiniao/opiniao/habitacao-acessivel-preco-saldo-2192380"
-        },
-        {
-            "title": "Ensinar a usar a IA não chega: é preciso ensinar a governá-la",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/opiniao/opiniao/ensinar-usar-ia-nao-chega-preciso-ensinar-governala-2192217"
-        },
-        {
-            "title": "Entre a poesia e a terra, o Doclisboa premiou Eric Baudelaire e Manuel Mozos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/24/culturaipsilon/noticia/poesia-terra-doclisboa-premiou-eric-baudelaire-manuel-mozos-2192526"
         }
     ],
     "finance": [],
-    "last_update": "25/10/2026 00:39"
+    "last_update": "25/10/2026 05:28"
 }
