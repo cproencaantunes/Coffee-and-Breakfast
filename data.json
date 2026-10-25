@@ -3,34 +3,34 @@
         "atual": 12.2,
         "manha": 16.1,
         "tarde": 23.1,
-        "noite": 16.7
+        "noite": 16.4
     },
     "forecast": {
-        "max": 22.1,
-        "min": 12.2
+        "max": 21.5,
+        "min": 11.7
     },
     "news": [
         {
-            "title": "Está em causa o normal funcionamento da democracia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/politica/cronica/causa-normal-funcionamento-democracia-2192595"
+            "title": "Sporting perdeu e voltou a ficar de mãos vazias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/desporto/cronica_de_jogo/sporting-voltou-ficar-maos-vazias-2192605"
         },
         {
-            "title": "Ambulâncias suspendem marcha lenta após serem incluídas nos apoios aos custos com combustíveis",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/sociedade/noticia/ambulancias-suspendem-marcha-lenta-apos-serem-incluidas-apoios-custos-combustiveis-2192594"
+            "title": "PS quer chamar a depor Montenegro, Costa, Lucília Gago e Amadeu Guerra na CPI sobre Luís Neves",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/politica/noticia/ps-quer-chamar-depor-montenegro-costa-lucilia-gago-amadeu-guerra-cpi-luis-neves-2192603"
         },
         {
-            "title": "A habitação e a hipoteca do futuro dos jovens",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/impar/opiniao/habitacao-hipoteca-futuro-jovens-2192596"
+            "title": "“O silêncio não pode ser o do Presidente”: partidos e sociedade civil pressionam Seguro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/politica/noticia/silencio-nao-presidente-partidos-sociedade-civil-pressionam-seguro-2192600"
         },
         {
-            "title": "Luís Neves nega ordens à PSP e desvaloriza bastonadas sobre manifestantes: “O que eu vi foi força física”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/sociedade/noticia/luis-neves-nega-ordens-psp-desvaloriza-bastonadas-manifestantes-vi-forca-fisica-2192589"
+            "title": "Muita parra, alguma uva",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/culturaipsilon/critica/parra-uva-2192586"
         },
         {
-            "title": "Lula vence em Lisboa e no Porto com 60% dos votos. Flávio ganha em Faro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/publico-brasil/noticia/lula-vence-lisboa-porto-60-votos-flavio-ganha-faro-2192591"
+            "title": "No Barcelona-Real, a vertigem venceu o controlo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/desporto/noticia/barcelonareal-vertigem-venceu-controlo-2192599"
         }
     ],
     "finance": [],
-    "last_update": "25/10/2026 20:17"
+    "last_update": "25/10/2026 22:54"
 }
