@@ -2,35 +2,35 @@
     "weather": {
         "atual": 12.2,
         "manha": 16.1,
-        "tarde": 24.2,
-        "noite": 16.3
+        "tarde": 24.0,
+        "noite": 16.5
     },
     "forecast": {
-        "max": 22.6,
-        "min": 11.7
+        "max": 22.7,
+        "min": 11.4
     },
     "news": [
         {
-            "title": "Polícia volta a avançar sobre manifestantes pacíficos em protestos pela habitação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/video/policia-volta-avancar-manifestantes-pacificos-protestos-habitacao-20261025-094213"
+            "title": "Israel removeu à força mais de dois mil palestinianos em Hebron, na Cisjordânia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/mundo/noticia/israel-removeu-forca-dois-mil-palestinianos-hebron-cisjordania-2192571"
         },
         {
-            "title": "BE e Livre criticam carga policial: “O silêncio do primeiro-ministro não pode ser o silêncio do Presidente da República”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/politica/noticia/be-livre-criticam-carga-policial-silencio-primeiroministro-nao-silencio-presidente-republica-2192542"
+            "title": "Brasileiros no Algarve divididos entre coração e razão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/mundo/noticia/brasileiros-algarve-divididos-coracao-razao-2192572"
         },
         {
-            "title": "Querido indeciso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/publico-brasil/opiniao/querido-indeciso-2192554"
+            "title": "Cargas policiais: SOS Racismo pede demissão do MAI, inquérito à IGAI  e pede a Seguro que se pronuncie",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/sociedade/noticia/cargas-policiais-manifestantes-sos-racismo-pede-demissao-mai-inquerito-igai-actuacao-psp-2192570"
         },
         {
-            "title": "Urnas abertas em Portugal: brasileiros decidem o futuro do Brasil",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/publico-brasil/noticia/urnas-abertas-portugal-brasileiros-decidem-futuro-brasil-2192551"
+            "title": "Longe do Brasil, mas presentes na urna: “A distância não diminui a nossa voz”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/publico-brasil/noticia/longe-brasil-presentes-urna-distancia-nao-diminui-voz-2192549"
         },
         {
-            "title": "Habitação: <em>acampadas </em>em Lisboa e no Porto contam mais de 50 feridos, PSP fala em 11",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/sociedade/noticia/habitacao-acampadas-lisboa-porto-contam-50-feridos-psp-fala-11-2192550"
+            "title": "Entre receber e transmitir. Paisagem, património e a responsabilidade de transformar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/azul/opiniao/receber-transmitir-paisagem-patrimonio-responsabilidade-transformar-2192037"
         }
     ],
     "finance": [],
-    "last_update": "25/10/2026 10:20"
+    "last_update": "25/10/2026 14:39"
 }
