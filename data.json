@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.5,
         "manha": 14.3,
-        "tarde": 21.8,
-        "noite": 15.3
+        "tarde": 22.2,
+        "noite": 15.1
     },
     "forecast": {
-        "max": 23.8,
-        "min": 12.0
+        "max": 23.1,
+        "min": 12.4
     },
     "news": [
         {
-            "title": "Agência para a Energia lança passaporte climático para acompanhar acção dos municípios",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/azul/noticia/agencia-energia-lanca-passaporte-climatico-acompanhar-accao-municipios-2192675"
+            "title": "Provedora de Justiça pede explicações urgentes à PSP sobre actuação nos protestos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/sociedade/noticia/provedora-justica-pede-explicacoes-urgentes-psp-actuacao-protestos-2192732"
         },
         {
-            "title": "O festival das caminhadas com arte volta com <em>Paz & Amor</em> e mais de 80 actividades",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/fugas/noticia/festival-caminhadas-arte-volta-paz-amor-80-actividades-2192689"
+            "title": "Montenegro quebra silêncio sobre manifestações no debate do Orçamento",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/politica/noticia/montenegro-quebra-silencio-manifestacoes-debate-orcamento-2192700"
         },
         {
-            "title": "Segurança Social só tem 32 casas devolutas, o que “dificilmente resolve questões da habitação”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/economia/noticia/seguranca-social-so-32-casas-devolutas-dificilmente-resolve-questoes-habitacao-2192702"
+            "title": "Grace Passô: “A nossa democracia continua em perigo, mas estamos vivos”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/culturaipsilon/noticia/grace-passo-democracia-continua-perigo-vivos-2192724"
         },
         {
-            "title": "CFP considera excedente plausível mas apela a gestão mais eficiente",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/economia/noticia/cfp-considera-excedente-plausivel-apela-gestao-eficiente-2192701"
+            "title": "Da Sérvia a Janones, passando por D. João I",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/opiniao/editorial/servia-janones-passando-d-joao-i-2192725"
         },
         {
-            "title": "iPad Mini cresce no ecrã e estreia resistência à água",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/enter/noticia/ipad-mini-cresce-ecra-estreia-resistencia-agua-2192680"
+            "title": "Contra os “inimigos fascistas”, fazer a <em>Festa</em>, com essa alegria que é também “raiva”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/culturaipsilon/noticia/inimigos-fascistas-festa-alegria-tambem-raiva-2192569"
         }
     ],
     "finance": [],
-    "last_update": "26/10/2026 17:50"
+    "last_update": "26/10/2026 22:02"
 }
