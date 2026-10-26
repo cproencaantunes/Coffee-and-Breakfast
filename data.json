@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 12.2,
-        "manha": 16.1,
-        "tarde": 23.1,
-        "noite": 16.4
+        "atual": 14.3,
+        "manha": 14.3,
+        "tarde": 21.3,
+        "noite": 14.3
     },
     "forecast": {
-        "max": 21.5,
-        "min": 11.7
+        "max": 24.0,
+        "min": 12.8
     },
     "news": [
         {
-            "title": "Sporting perdeu e voltou a ficar de mãos vazias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/desporto/cronica_de_jogo/sporting-voltou-ficar-maos-vazias-2192605"
+            "title": "EUA, Trump e o mundo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/opiniao/opiniao/eua-trump-mundo-2191984"
         },
         {
-            "title": "PS quer chamar a depor Montenegro, Costa, Lucília Gago e Amadeu Guerra na CPI sobre Luís Neves",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/politica/noticia/ps-quer-chamar-depor-montenegro-costa-lucilia-gago-amadeu-guerra-cpi-luis-neves-2192603"
+            "title": "Inversão de meios e fins",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/opiniao/opiniao/inversao-meios-fins-2191972"
         },
         {
-            "title": "“O silêncio não pode ser o do Presidente”: partidos e sociedade civil pressionam Seguro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/politica/noticia/silencio-nao-presidente-partidos-sociedade-civil-pressionam-seguro-2192600"
+            "title": "Quando o diagnóstico é desconhecido, o risco é errar na receita",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/opiniao/opiniao/diagnostico-desconhecido-risco-errar-receita-2192304"
         },
         {
-            "title": "Muita parra, alguma uva",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/culturaipsilon/critica/parra-uva-2192586"
+            "title": "Quem disse que Netanyahu sai?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/opiniao/opiniao/netanyahu-sai-2192438"
         },
         {
-            "title": "No Barcelona-Real, a vertigem venceu o controlo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/25/desporto/noticia/barcelonareal-vertigem-venceu-controlo-2192599"
+            "title": "A discriminação das crianças que continuamos a não reconhecer",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/opiniao/opiniao/discriminacao-criancas-continuamos-nao-reconhecer-2192250"
         }
     ],
     "finance": [],
-    "last_update": "25/10/2026 22:54"
+    "last_update": "26/10/2026 00:50"
 }
