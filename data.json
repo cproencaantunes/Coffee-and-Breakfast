@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.5,
         "manha": 14.4,
-        "tarde": 20.9,
-        "noite": 14.8
+        "tarde": 21.4,
+        "noite": 15.1
     },
     "forecast": {
-        "max": 23.9,
-        "min": 13.0
+        "max": 23.7,
+        "min": 12.4
     },
     "news": [
         {
-            "title": "Vamos ter de falar sobre as nossas democracias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/mundo/opiniao/vamos-falar-democracias-2192578"
+            "title": "Anthropic processada por usar música de Elvis Presley para treinar a IA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/enter/noticia/anthropic-processada-usar-musica-elvis-presley-treinar-ia-2192632"
         },
         {
-            "title": "Cartas ao director",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/opiniao/opiniao/cartas-director-2192391"
+            "title": "Governo conclui as 61 zonas de conservação após anos a pagar multas à UE por atraso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/azul/noticia/governo-conclui-61-zonas-conservacao-apos-anos-pagar-multas-ue-atraso-2192636"
         },
         {
-            "title": "Lula ganhou. E agora, Brasil?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/mundo/noticia/lula-ganhou-brasil-2192613"
+            "title": "IGAI abre processo à intervenção da PSP com bastões e cães nas acampadas de Lisboa e Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/sociedade/noticia/igai-abre-processo-intervencao-psp-bastoes-caes-acampadas-lisboa-porto-2192628"
         },
         {
-            "title": "Reviravolta de Lula: a festa e a desilusão lado a lado nas ruas do Brasil",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/fotogaleria/reviravolta-lula-festa-desilusao-lado-lado-ruas-brasil-416139"
+            "title": "A grandeza do Brasil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/opiniao/cronica/grandeza-brasil-2192637"
         },
         {
-            "title": "EUA, Trump e o mundo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/opiniao/opiniao/eua-trump-mundo-2191984"
+            "title": "Habitação: protestos não param enquanto se espera pelo tribunal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/sociedade/noticia/habitacao-protestos-nao-param-espera-tribunal-2192630"
         }
     ],
     "finance": [],
-    "last_update": "26/10/2026 05:33"
+    "last_update": "26/10/2026 11:48"
 }
