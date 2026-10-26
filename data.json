@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.3,
-        "manha": 14.3,
-        "tarde": 21.3,
-        "noite": 14.3
+        "atual": 14.5,
+        "manha": 14.4,
+        "tarde": 20.9,
+        "noite": 14.8
     },
     "forecast": {
-        "max": 24.0,
-        "min": 12.8
+        "max": 23.9,
+        "min": 13.0
     },
     "news": [
         {
+            "title": "Vamos ter de falar sobre as nossas democracias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/mundo/opiniao/vamos-falar-democracias-2192578"
+        },
+        {
+            "title": "Cartas ao director",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/opiniao/opiniao/cartas-director-2192391"
+        },
+        {
+            "title": "Lula ganhou. E agora, Brasil?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/mundo/noticia/lula-ganhou-brasil-2192613"
+        },
+        {
+            "title": "Reviravolta de Lula: a festa e a desilusão lado a lado nas ruas do Brasil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/fotogaleria/reviravolta-lula-festa-desilusao-lado-lado-ruas-brasil-416139"
+        },
+        {
             "title": "EUA, Trump e o mundo",
             "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/opiniao/opiniao/eua-trump-mundo-2191984"
-        },
-        {
-            "title": "Inversão de meios e fins",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/opiniao/opiniao/inversao-meios-fins-2191972"
-        },
-        {
-            "title": "Quando o diagnóstico é desconhecido, o risco é errar na receita",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/opiniao/opiniao/diagnostico-desconhecido-risco-errar-receita-2192304"
-        },
-        {
-            "title": "Quem disse que Netanyahu sai?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/opiniao/opiniao/netanyahu-sai-2192438"
-        },
-        {
-            "title": "A discriminação das crianças que continuamos a não reconhecer",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/opiniao/opiniao/discriminacao-criancas-continuamos-nao-reconhecer-2192250"
         }
     ],
     "finance": [],
-    "last_update": "26/10/2026 00:50"
+    "last_update": "26/10/2026 05:33"
 }
