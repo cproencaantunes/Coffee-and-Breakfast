@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.5,
-        "manha": 14.3,
-        "tarde": 22.2,
-        "noite": 15.1
+        "atual": 13.7,
+        "manha": 15.8,
+        "tarde": 22.8,
+        "noite": 17.1
     },
     "forecast": {
-        "max": 23.1,
-        "min": 12.4
+        "max": 25.5,
+        "min": 13.3
     },
     "news": [
         {
-            "title": "Provedora de Justiça pede explicações urgentes à PSP sobre actuação nos protestos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/sociedade/noticia/provedora-justica-pede-explicacoes-urgentes-psp-actuacao-protestos-2192732"
+            "title": "Distúrbios em Bilbau: 19 detidos, sete menores, depois de cancelado evento com Vito Quiles",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/mundo/noticia/disturbios-bilbau-19-detidos-sete-menores-cancelado-evento-vito-quiles-2192738"
         },
         {
-            "title": "Montenegro quebra silêncio sobre manifestações no debate do Orçamento",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/politica/noticia/montenegro-quebra-silencio-manifestacoes-debate-orcamento-2192700"
+            "title": "Um país acampado nos seus bloqueios",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/opiniao/opiniao/pais-acampado-bloqueios-2192627"
         },
         {
-            "title": "Grace Passô: “A nossa democracia continua em perigo, mas estamos vivos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/culturaipsilon/noticia/grace-passo-democracia-continua-perigo-vivos-2192724"
+            "title": "Os netos de Abril",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/opiniao/opiniao/netos-abril-2192696"
         },
         {
-            "title": "Da Sérvia a Janones, passando por D. João I",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/opiniao/editorial/servia-janones-passando-d-joao-i-2192725"
+            "title": "Bodes expiatórios não constroem casas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/opiniao/opiniao/bodes-expiatorios-nao-constroem-casas-2192643"
         },
         {
-            "title": "Contra os “inimigos fascistas”, fazer a <em>Festa</em>, com essa alegria que é também “raiva”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/26/culturaipsilon/noticia/inimigos-fascistas-festa-alegria-tambem-raiva-2192569"
+            "title": "Crise na habitação: a imigração como bode expiatório",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/opiniao/opiniao/crise-habitacao-imigracao-bode-expiatorio-2192650"
         }
     ],
     "finance": [],
-    "last_update": "26/10/2026 22:02"
+    "last_update": "27/10/2026 01:41"
 }
