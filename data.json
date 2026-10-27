@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 13.5,
-        "manha": 15.4,
-        "tarde": 22.9,
-        "noite": 17.6
+        "manha": 16.1,
+        "tarde": 23.2,
+        "noite": 18.1
     },
     "forecast": {
-        "max": 25.0,
+        "max": 23.2,
         "min": 12.9
     },
     "news": [
         {
-            "title": "Fármaco da Amgen e imunoterapia prolongam sobrevivência em doentes com cancro do pulmão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/ciencia/noticia/farmaco-amgen-imunoterapia-prolongam-sobrevivencia-doentes-cancro-pulmao-2192669"
+            "title": "Há mais CO2 na atmosfera do que nunca. A transição energética junta-lhe outros gases",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/azul/noticia/ha-co2-atmosfera-transicao-energetica-juntalhe-gases-2192759"
         },
         {
-            "title": "<em>Elus</em>, mais do que um livro, é um estudo sobre “a fábrica social de construção das identidades”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/sociedade/noticia/elus-livro-estudo-fabrica-social-construcao-identidades-2189322"
+            "title": "Carlos III a caminho das Caraíbas, onde crescem os pedidos de reparações da escravatura",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/impar/noticia/carlos-iii-caminho-caraibas-onde-crescem-pedidos-reparacoes-escravatura-2192754"
         },
         {
-            "title": "Impasse mantém-se e atira eleição de fiscalização das secretas para depois do OE2027",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/politica/noticia/impasse-mantemse-atira-eleicao-fiscalizacao-secretas-oe2027-2192719"
+            "title": "Líderes da Finlândia e da Noruega falam com Putin sobre paz na Ucrânia, mas os ataques continuam",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/mundo/noticia/lideres-finlandia-noruega-falam-putin-paz-ucrania-ataques-continuam-2192783"
         },
         {
-            "title": "Quando os cidadãos querem mudar as leis: 47% das iniciativas populares têm sucesso",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/sociedade/noticia/cidadaos-querem-mudar-leis-47-iniciativas-populares-sucesso-2192729"
+            "title": "Farmácias já administraram mais de 520 mil vacinas contra a gripe, mais 15% do que em 2025",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/sociedade/noticia/farmacias-ja-administraram-520-mil-vacinas-gripe-15-2025-2192774"
         },
         {
-            "title": "“Muito preocupado”, Seguro sem pressa para tomar posição sobre a carga policial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/politica/noticia/preocupado-seguro-pressa-tomar-posicao-carga-policial-2192728"
+            "title": "Fundão deu novo parecer negativo ao projeto reformulado da central solar Sophia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/azul/noticia/fundao-deu-novo-parecer-negativo-projeto-reformulado-central-solar-sophia-2192752"
         }
     ],
     "finance": [],
-    "last_update": "27/10/2026 06:59"
+    "last_update": "27/10/2026 13:00"
 }
