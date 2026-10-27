@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 13.7,
-        "manha": 15.8,
-        "tarde": 22.8,
-        "noite": 17.1
+        "atual": 13.5,
+        "manha": 15.4,
+        "tarde": 22.9,
+        "noite": 17.6
     },
     "forecast": {
-        "max": 25.5,
-        "min": 13.3
+        "max": 25.0,
+        "min": 12.9
     },
     "news": [
         {
-            "title": "Distúrbios em Bilbau: 19 detidos, sete menores, depois de cancelado evento com Vito Quiles",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/mundo/noticia/disturbios-bilbau-19-detidos-sete-menores-cancelado-evento-vito-quiles-2192738"
+            "title": "Fármaco da Amgen e imunoterapia prolongam sobrevivência em doentes com cancro do pulmão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/ciencia/noticia/farmaco-amgen-imunoterapia-prolongam-sobrevivencia-doentes-cancro-pulmao-2192669"
         },
         {
-            "title": "Um país acampado nos seus bloqueios",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/opiniao/opiniao/pais-acampado-bloqueios-2192627"
+            "title": "<em>Elus</em>, mais do que um livro, é um estudo sobre “a fábrica social de construção das identidades”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/sociedade/noticia/elus-livro-estudo-fabrica-social-construcao-identidades-2189322"
         },
         {
-            "title": "Os netos de Abril",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/opiniao/opiniao/netos-abril-2192696"
+            "title": "Impasse mantém-se e atira eleição de fiscalização das secretas para depois do OE2027",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/politica/noticia/impasse-mantemse-atira-eleicao-fiscalizacao-secretas-oe2027-2192719"
         },
         {
-            "title": "Bodes expiatórios não constroem casas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/opiniao/opiniao/bodes-expiatorios-nao-constroem-casas-2192643"
+            "title": "Quando os cidadãos querem mudar as leis: 47% das iniciativas populares têm sucesso",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/sociedade/noticia/cidadaos-querem-mudar-leis-47-iniciativas-populares-sucesso-2192729"
         },
         {
-            "title": "Crise na habitação: a imigração como bode expiatório",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/opiniao/opiniao/crise-habitacao-imigracao-bode-expiatorio-2192650"
+            "title": "“Muito preocupado”, Seguro sem pressa para tomar posição sobre a carga policial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/politica/noticia/preocupado-seguro-pressa-tomar-posicao-carga-policial-2192728"
         }
     ],
     "finance": [],
-    "last_update": "27/10/2026 01:41"
+    "last_update": "27/10/2026 06:59"
 }
