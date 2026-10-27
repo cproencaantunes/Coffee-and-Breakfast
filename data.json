@@ -2,35 +2,35 @@
     "weather": {
         "atual": 13.5,
         "manha": 16.1,
-        "tarde": 23.2,
-        "noite": 18.1
+        "tarde": 22.8,
+        "noite": 17.8
     },
     "forecast": {
-        "max": 23.2,
+        "max": 23.9,
         "min": 12.9
     },
     "news": [
         {
-            "title": "Há mais CO2 na atmosfera do que nunca. A transição energética junta-lhe outros gases",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/azul/noticia/ha-co2-atmosfera-transicao-energetica-juntalhe-gases-2192759"
+            "title": "Paradeiro de Flávio Bolsonaro é desconhecido e aliados dizem que foi para os EUA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/mundo/noticia/paradeiro-flavio-bolsonaro-desconhecido-aliados-eua-2192839"
         },
         {
-            "title": "Carlos III a caminho das Caraíbas, onde crescem os pedidos de reparações da escravatura",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/impar/noticia/carlos-iii-caminho-caraibas-onde-crescem-pedidos-reparacoes-escravatura-2192754"
+            "title": "Montenegro elogia actuação da PSP nos protestos pela habitação e aponta o dedo à esquerda",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/video/montenegro-elogia-actuacao-psp-protestos-habitacao-aponta-dedo-esquerda-20261027-171700"
         },
         {
-            "title": "Líderes da Finlândia e da Noruega falam com Putin sobre paz na Ucrânia, mas os ataques continuam",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/mundo/noticia/lideres-finlandia-noruega-falam-putin-paz-ucrania-ataques-continuam-2192783"
+            "title": "Viana do Castelo defende novas fontes de financiamento para aliviar custos com lixo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/local/noticia/viana-castelo-defende-novas-fontes-financiamento-aliviar-custos-lixo-2192834"
         },
         {
-            "title": "Farmácias já administraram mais de 520 mil vacinas contra a gripe, mais 15% do que em 2025",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/sociedade/noticia/farmacias-ja-administraram-520-mil-vacinas-gripe-15-2025-2192774"
+            "title": "“Transformação através da arte”: <em>Alquimia</em> regressa ao Coliseu do Porto ",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/local/noticia/transformacao-atraves-arte-alquimia-regressa-coliseu-porto-2192829"
         },
         {
-            "title": "Fundão deu novo parecer negativo ao projeto reformulado da central solar Sophia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/azul/noticia/fundao-deu-novo-parecer-negativo-projeto-reformulado-central-solar-sophia-2192752"
+            "title": "O futebol mandou Kane dar uma volta. E ele deu a volta ao futebol",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/27/desporto/noticia/futebol-mandou-kane-dar-volta-deu-volta-futebol-2192823"
         }
     ],
     "finance": [],
-    "last_update": "27/10/2026 13:00"
+    "last_update": "27/10/2026 18:35"
 }
