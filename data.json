@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 15.7,
-        "manha": 16.0,
-        "tarde": 23.2,
-        "noite": 17.3
+        "atual": 15.9,
+        "manha": 16.3,
+        "tarde": 22.9,
+        "noite": 16.2
     },
     "forecast": {
-        "max": 25.3,
-        "min": 11.4
+        "max": 26.2,
+        "min": 12.6
     },
     "news": [
         {
-            "title": "O choque das indignações",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/28/opiniao/opiniao/choque-indignacoes-2192828"
+            "title": "Despertador: Obras públicas tiveram no ano passado o maior desvio financeiro desde 2006",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/28/newsletter/despertador"
         },
         {
-            "title": "O activo russo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/28/opiniao/opiniao/activo-russo-2192840"
+            "title": "A espetacularização política do medo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/28/publico-brasil/opiniao/espetacularizacao-politica-medo-2192858"
         },
         {
-            "title": "Christiania",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/28/opiniao/opiniao/christiania-2192782"
+            "title": "Ciclo Vozes do Fado com Alexandra, Raquel Tavares, Ana Sofia Varela e Kajó Soares",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/28/culturaipsilon/noticia/ciclo-vozes-fado-alexandra-raquel-tavares-ana-sofia-varela-kajo-soares-2192855"
         },
         {
-            "title": "A vitória de Lula e o efeito Janones",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/28/opiniao/opiniao/vitoria-lula-efeito-janones-2192769"
+            "title": "Nunca houve tantos candidatos às bolsas científicas da Europa. Falta o dinheiro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/28/ciencia/noticia/tantos-candidatos-bolsas-cientificas-europa-falta-dinheiro-2191090"
         },
         {
-            "title": "Soberania é liberdade. Mas a que custo?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/28/opiniao/opiniao/soberania-liberdade-custo-2192809"
+            "title": "Monica Maurer luta pela sobrevivência das imagens da Palestina",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/28/culturaipsilon/noticia/monica-maurer-luta-sobrevivencia-imagens-palestina-2192830"
         }
     ],
     "finance": [],
-    "last_update": "28/10/2026 01:54"
+    "last_update": "28/10/2026 07:41"
 }
