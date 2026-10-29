@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 14.1,
-        "manha": 16.0,
-        "tarde": 25.9,
-        "noite": 17.4
+        "manha": 15.8,
+        "tarde": 25.7,
+        "noite": 17.3
     },
     "forecast": {
-        "max": 27.1,
-        "min": 14.5
+        "max": 26.3,
+        "min": 15.1
     },
     "news": [
         {
-            "title": "Partidos em Belém: PAN e JPP pedem “consensos alargados” para promover coesão social",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/politica/noticia/partidos-belem-pan-jpp-pedem-consensos-alargados-promover-coesao-social-2193018"
+            "title": "Apple rende-se aos ecrãs tácteis e lança MacBook Pro com tecnologia OLED",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/enter/noticia/apple-rendese-ecras-tacteis-lanca-macbook-pro-tecnologia-oled-2193085"
         },
         {
-            "title": "<em>Web designer</em> do PÚBLICO vence concurso de banda desenhada da Amadora",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/culturaipsilon/noticia/web-designer-publico-vence-concurso-banda-desenhada-amadora-2193022"
+            "title": "Aguiar-Branco remete à Comissão de Transparência queixa de Fabian Figueiredo contra o Chega",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/politica/noticia/aguiarbranco-remete-comissao-transparencia-queixa-fabian-figueiredo-chega-2193090"
         },
         {
-            "title": "Uma Lisboa com porcos e elefantes: a história da cidade também se faz com animais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/local/noticia/lisboa-porcos-elefantes-historia-cidade-tambem-faz-animais-2192946"
+            "title": "A AIMA faz anos. Os parabéns deviam ser para quem lá trabalha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/opiniao/opiniao/aima-faz-anos-parabens-trabalha-2193057"
         },
         {
-            "title": "Sobe para 69 o número de mortos em Toledo, enquanto prosseguem as buscas nos comboios",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/mundo/noticia/sobe-69-numero-mortos-toledo-prosseguem-buscas-comboios-2193023"
+            "title": "O copo meio cheio da biodiversidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/newsletter/azul"
         },
         {
-            "title": "Ajuda humanitária a caminho de Oleshky durante cessar-fogo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/mundo/noticia/ajuda-humanitaria-caminho-oleshky-durante-cessarfogo-2193020"
+            "title": "Imagem de Trump, Epstein e Beyoncé num avião é verdadeira? Não, foi gerada com inteligência artificial",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/mundo/noticia/imagem-trump-epstein-beyonce-aviao-verdadeira-nao-gerada-inteligencia-artificial-2193043"
         }
     ],
     "finance": [],
-    "last_update": "29/10/2026 10:32"
+    "last_update": "29/10/2026 17:10"
 }
