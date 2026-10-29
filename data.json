@@ -2,35 +2,35 @@
     "weather": {
         "atual": 14.1,
         "manha": 15.8,
-        "tarde": 25.7,
-        "noite": 17.3
+        "tarde": 26.0,
+        "noite": 17.1
     },
     "forecast": {
-        "max": 26.3,
-        "min": 15.1
+        "max": 26.7,
+        "min": 14.7
     },
     "news": [
         {
-            "title": "Apple rende-se aos ecrãs tácteis e lança MacBook Pro com tecnologia OLED",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/enter/noticia/apple-rendese-ecras-tacteis-lanca-macbook-pro-tecnologia-oled-2193085"
+            "title": "Esperança democrata no Alasca em risco após revelação de plano para diluir voto republicano",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/mundo/noticia/esperanca-democrata-alasca-risco-apos-revelacao-plano-diluir-voto-republicano-2193110"
         },
         {
-            "title": "Aguiar-Branco remete à Comissão de Transparência queixa de Fabian Figueiredo contra o Chega",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/politica/noticia/aguiarbranco-remete-comissao-transparencia-queixa-fabian-figueiredo-chega-2193090"
+            "title": "Alexia Putellas, a terceira Bola de Ouro de quem teve de reaprender a andar",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/desporto/perfil/alexia-putellas-terceira-bola-ouro-reaprender-andar-2193103"
         },
         {
-            "title": "A AIMA faz anos. Os parabéns deviam ser para quem lá trabalha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/opiniao/opiniao/aima-faz-anos-parabens-trabalha-2193057"
+            "title": "Famalicão elimina Sp. Braga da Taça da Liga nos penáltis e garante duelo com Sporting",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/desporto/noticia/famalicao-elimina-sp-braga-taca-liga-penaltis-garante-duelo-sporting-2193121"
         },
         {
-            "title": "O copo meio cheio da biodiversidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/newsletter/azul"
+            "title": "Governo rejeita reparações, mas quer reconciliação com ex-colónias",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/politica/noticia/governo-rejeita-reparacoes-quer-reconciliacao-excolonias-2193134"
         },
         {
-            "title": "Imagem de Trump, Epstein e Beyoncé num avião é verdadeira? Não, foi gerada com inteligência artificial",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/mundo/noticia/imagem-trump-epstein-beyonce-aviao-verdadeira-nao-gerada-inteligencia-artificial-2193043"
+            "title": "Um Governo desesperado em busca da \"subversão\"",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/newsletter/diarios-republica"
         }
     ],
     "finance": [],
-    "last_update": "29/10/2026 17:10"
+    "last_update": "29/10/2026 22:10"
 }
