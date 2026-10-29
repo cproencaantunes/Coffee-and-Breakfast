@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.5,
-        "manha": 16.5,
-        "tarde": 25.8,
-        "noite": 17.5
+        "atual": 14.1,
+        "manha": 16.0,
+        "tarde": 25.9,
+        "noite": 17.4
     },
     "forecast": {
-        "max": 26.9,
-        "min": 14.9
+        "max": 27.1,
+        "min": 14.5
     },
     "news": [
         {
-            "title": "Porto: sob pressão da PSP, manifestantes voltam a remover tendas da Praça D. João I",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/sociedade/noticia/porto-pressao-psp-manifestantes-voltam-remover-tendas-praca-d-joao-i-2193005"
+            "title": "Partidos em Belém: PAN e JPP pedem “consensos alargados” para promover coesão social",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/politica/noticia/partidos-belem-pan-jpp-pedem-consensos-alargados-promover-coesao-social-2193018"
         },
         {
-            "title": "“A propriedade é o roubo!”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/opiniao/opiniao/propriedade-roubo-2192972"
+            "title": "<em>Web designer</em> do PÚBLICO vence concurso de banda desenhada da Amadora",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/culturaipsilon/noticia/web-designer-publico-vence-concurso-banda-desenhada-amadora-2193022"
         },
         {
-            "title": "Bruxelas terá de corrigir o que Lisboa não quis mudar?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/opiniao/opiniao/bruxelas-tera-corrigir-lisboa-nao-quis-mudar-2192950"
+            "title": "Uma Lisboa com porcos e elefantes: a história da cidade também se faz com animais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/local/noticia/lisboa-porcos-elefantes-historia-cidade-tambem-faz-animais-2192946"
         },
         {
-            "title": "Para uns foi Olimpo, para outros foi e é apenas Olympia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/culturaipsilon/opiniao/olimpo-apenas-olympia-2192601"
+            "title": "Sobe para 69 o número de mortos em Toledo, enquanto prosseguem as buscas nos comboios",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/mundo/noticia/sobe-69-numero-mortos-toledo-prosseguem-buscas-comboios-2193023"
         },
         {
-            "title": "Desobedecer nem sempre é crime (e neste caso não é)",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/opiniao/opiniao/desobedecer-crime-neste-caso-nao-2192935"
+            "title": "Ajuda humanitária a caminho de Oleshky durante cessar-fogo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/mundo/noticia/ajuda-humanitaria-caminho-oleshky-durante-cessarfogo-2193020"
         }
     ],
     "finance": [],
-    "last_update": "29/10/2026 03:22"
+    "last_update": "29/10/2026 10:32"
 }
