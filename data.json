@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 15.9,
-        "manha": 16.4,
-        "tarde": 24.5,
-        "noite": 16.6
+        "atual": 14.5,
+        "manha": 16.5,
+        "tarde": 25.8,
+        "noite": 17.5
     },
     "forecast": {
-        "max": 25.9,
-        "min": 13.5
+        "max": 26.9,
+        "min": 14.9
     },
     "news": [
         {
-            "title": "Quatro portugueses entre os finalistas do Prémio Oceanos 2026",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/28/culturaipsilon/noticia/quatro-portugueses-finalistas-premio-oceanos-2026-2192996"
+            "title": "Porto: sob pressão da PSP, manifestantes voltam a remover tendas da Praça D. João I",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/sociedade/noticia/porto-pressao-psp-manifestantes-voltam-remover-tendas-praca-d-joao-i-2193005"
         },
         {
-            "title": "Benfica perde com Arsenal e soma segunda derrota na Champions feminina",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/28/desporto/noticia/benfica-perde-arsenal-soma-segunda-derrota-champions-feminina-2192998"
+            "title": "“A propriedade é o roubo!”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/opiniao/opiniao/propriedade-roubo-2192972"
         },
         {
-            "title": "Fabian Figueiredo faz queixa a Aguiar-Branco após Ventura publicar imagens suas não consentidas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/28/politica/noticia/fabian-figueiredo-faz-queixa-aguiarbranco-apos-ventura-publicar-imagens-nao-consentidas-2192997"
+            "title": "Bruxelas terá de corrigir o que Lisboa não quis mudar?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/opiniao/opiniao/bruxelas-tera-corrigir-lisboa-nao-quis-mudar-2192950"
         },
         {
-            "title": "FC Porto segue na Taça da Liga com penálti de Giménez",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/28/desporto/cronica_de_jogo/fc-porto-derrota-ac-viseu-segue-frente-taca-liga-2192992"
+            "title": "Para uns foi Olimpo, para outros foi e é apenas Olympia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/culturaipsilon/opiniao/olimpo-apenas-olympia-2192601"
         },
         {
-            "title": "Os candidatos à gestão da RTP têm \"conflitos de interesses graves\"?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/28/newsletter/livre-estilo"
+            "title": "Desobedecer nem sempre é crime (e neste caso não é)",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/opiniao/opiniao/desobedecer-crime-neste-caso-nao-2192935"
         }
     ],
     "finance": [],
-    "last_update": "28/10/2026 23:52"
+    "last_update": "29/10/2026 03:22"
 }
