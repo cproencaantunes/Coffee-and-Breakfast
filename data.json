@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 16.5,
-        "manha": 17.5,
-        "tarde": 26.9,
-        "noite": 19.0
+        "manha": 17.3,
+        "tarde": 26.5,
+        "noite": 19.2
     },
     "forecast": {
-        "max": 26.1,
-        "min": 13.8
+        "max": 25.3,
+        "min": 13.3
     },
     "news": [
         {
-            "title": "Com o “desencanto lúcido” de <i>Viola no saco</i>, os Cassete Pirata lançam enfim <i>A Sombra</i>",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/video/desencanto-lucido-viola-saco-cassete-pirata-lancam-enfim-sombra-20261028-120146"
+            "title": "Gaza: as pessoas estão a voltar a ter apenas uma refeição por dia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/mundo/noticia/gaza-pessoas-estao-voltar-apenas-refeicao-dia-2193232"
         },
         {
-            "title": "Mediadores do Qatar regressam a Teerão para tentar alcançar acordo entre os EUA e o Irão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/mundo/noticia/mediadores-qatar-regressam-teerao-tentar-alcancar-acordo-eua-irao-2193156"
+            "title": "Primeiros humanos precisavam de pedra, além de água, para se fixarem no deserto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/ciencia/noticia/humanos-precisavam-pedra-alem-agua-fixarem-deserto-2193206"
         },
         {
-            "title": "Too Many Suns estreiam-se em português com <i>Douro</i>, a anunciar um novo álbum para 2027",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/video/too-many-suns-estreiamse-portugues-douro-anunciar-novo-album-2027-20261028-162658"
+            "title": "E se criássemos a Infraestrutura Nacional de Inteligência para o Vinho?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/terroir/opiniao/criassemos-infraestrutura-nacional-inteligencia-vinho-2193176"
         },
         {
-            "title": "Tolerância zero à alteração da lei sobre a segurança nos espectáculos desportivos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/desporto/opiniao/tolerancia-zero-alteracao-lei-seguranca-espectaculos-desportivos-2193146"
+            "title": "Municípios apostam em eficiência energética para cumprir metas de acção climática",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/azul/noticia/municipios-apostam-eficiencia-energetica-cumprir-metas-accao-climatica-2192918"
         },
         {
-            "title": "Todos os contactos de lobbyistas com o Parlamento registados a partir de 1 de Janeiro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/politica/noticia/contactos-lobistas-parlamento-serao-registados-partir-1-janeiro-2193104"
+            "title": "Christa Pike fala após sobreviver a execução: “Há dor na minha mente e na minha alma”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/mundo/noticia/christa-pike-fala-apos-sobreviver-execucao-ha-dor-mente-alma-2193229"
         }
     ],
     "finance": [],
-    "last_update": "30/10/2026 09:15"
+    "last_update": "30/10/2026 16:21"
 }
