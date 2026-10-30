@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.1,
-        "manha": 15.8,
-        "tarde": 26.0,
-        "noite": 17.1
+        "atual": 16.3,
+        "manha": 17.2,
+        "tarde": 26.8,
+        "noite": 18.4
     },
     "forecast": {
-        "max": 26.7,
-        "min": 14.7
+        "max": 26.3,
+        "min": 13.1
     },
     "news": [
         {
-            "title": "Esperança democrata no Alasca em risco após revelação de plano para diluir voto republicano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/mundo/noticia/esperanca-democrata-alasca-risco-apos-revelacao-plano-diluir-voto-republicano-2193110"
+            "title": "Governo do Brasil atrasa salários de trabalhadores locais em embaixadas e consulados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/publico-brasil/noticia/governo-brasil-atrasa-salarios-trabalhadores-locais-embaixadas-consulados-2193147"
         },
         {
-            "title": "Alexia Putellas, a terceira Bola de Ouro de quem teve de reaprender a andar",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/desporto/perfil/alexia-putellas-terceira-bola-ouro-reaprender-andar-2193103"
+            "title": "A opinião pública é mais sensata do que a dos políticos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/opiniao/opiniao/opiniao-publica-sensata-politicos-2193129"
         },
         {
-            "title": "Famalicão elimina Sp. Braga da Taça da Liga nos penáltis e garante duelo com Sporting",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/desporto/noticia/famalicao-elimina-sp-braga-taca-liga-penaltis-garante-duelo-sporting-2193121"
+            "title": "Tudo começa numa casa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/opiniao/opiniao/comeca-casa-2193038"
         },
         {
-            "title": "Governo rejeita reparações, mas quer reconciliação com ex-colónias",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/politica/noticia/governo-rejeita-reparacoes-quer-reconciliacao-excolonias-2193134"
+            "title": "Não há balas de prata – a ansiedade permanente por uma fórmula instantânea para a habitação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/opiniao/opiniao/nao-ha-balas-prata-ansiedade-permanente-formula-instantanea-habitacao-2192959"
         },
         {
-            "title": "Um Governo desesperado em busca da \"subversão\"",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/29/newsletter/diarios-republica"
+            "title": "“Apenas” cães assanhados e uma bastonada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/opiniao/opiniao/apenas-caes-assanhados-bastonada-2193128"
         }
     ],
     "finance": [],
-    "last_update": "29/10/2026 22:10"
+    "last_update": "30/10/2026 02:15"
 }
