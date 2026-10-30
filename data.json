@@ -2,35 +2,35 @@
     "weather": {
         "atual": 16.5,
         "manha": 17.3,
-        "tarde": 26.5,
+        "tarde": 26.6,
         "noite": 19.2
     },
     "forecast": {
-        "max": 25.3,
-        "min": 13.3
+        "max": 26.1,
+        "min": 13.5
     },
     "news": [
         {
-            "title": "Gaza: as pessoas estão a voltar a ter apenas uma refeição por dia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/mundo/noticia/gaza-pessoas-estao-voltar-apenas-refeicao-dia-2193232"
+            "title": "“No caminho para a morte da minha filha, eu vi muita beleza”: falar sobre luto com uma chavena de chá",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/sociedade/noticia/caminho-morte-filha-vi-beleza-falar-luto-chavena-cha-2192913"
         },
         {
-            "title": "Primeiros humanos precisavam de pedra, além de água, para se fixarem no deserto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/ciencia/noticia/humanos-precisavam-pedra-alem-agua-fixarem-deserto-2193206"
+            "title": "Nova Iorque termina a sessão a perder, Nasdaq 100 desliza 3,5%",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/economia/noticia/nova-iorque-termina-sessao-perder-nasdaq-100-desliza-35-2193283"
         },
         {
-            "title": "E se criássemos a Infraestrutura Nacional de Inteligência para o Vinho?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/terroir/opiniao/criassemos-infraestrutura-nacional-inteligencia-vinho-2193176"
+            "title": "Campanha xenófoba no Facebook e no TikTok inunda a França a meses das presidenciais",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/mundo/noticia/campanha-xenofoba-facebook-tiktok-inunda-franca-meses-presidenciais-2193251"
         },
         {
-            "title": "Municípios apostam em eficiência energética para cumprir metas de acção climática",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/azul/noticia/municipios-apostam-eficiencia-energetica-cumprir-metas-accao-climatica-2192918"
+            "title": "O medo de acontecer",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/p3/cronica/medo-acontecer-2193204"
         },
         {
-            "title": "Christa Pike fala após sobreviver a execução: “Há dor na minha mente e na minha alma”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/mundo/noticia/christa-pike-fala-apos-sobreviver-execucao-ha-dor-mente-alma-2193229"
+            "title": "Governo vai fechar ano com 85 Lojas do Cidadão e 1200 Espaços Cidadão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/politica/noticia/governo-vai-fechar-ano-85-lojas-cidadao-1200-espacos-cidadao-2193285"
         }
     ],
     "finance": [],
-    "last_update": "30/10/2026 16:21"
+    "last_update": "30/10/2026 21:13"
 }
