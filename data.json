@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 16.0,
-        "manha": 16.3,
-        "tarde": 25.6,
+        "manha": 16.4,
+        "tarde": 25.7,
         "noite": 17.5
     },
     "forecast": {
-        "max": 25.2,
-        "min": 13.4
+        "max": 25.0,
+        "min": 13.7
     },
     "news": [
         {
-            "title": "Os novos rostos do Centro Cultural Vila Flor e do GUIdance, em Guimarães",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/culturaipsilon/noticia/novos-rostos-centro-cultural-vila-flor-guidance-guimaraes-2193187"
+            "title": "EUA aprovam venda de mísseis Patriot para a Ucrânia, Zelensky pede rapidez na entrega",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/mundo/noticia/eua-aprovam-venda-misseis-patriot-ucrania-zelensky-pede-rapidez-entrega-2193312"
         },
         {
-            "title": "A deriva autoritária de Montenegro choca com a busca de consensos de Seguro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/politica/opiniao/deriva-autoritaria-montenegro-choca-busca-consensos-seguro-2193208"
+            "title": "Depois de 14 anos, dispensa de metadona regressa às farmácias — mas para já só em três regiões",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/sociedade/noticia/14-anos-dispensa-metadona-regressa-farmacias-ja-so-tres-regioes-2193310"
         },
         {
-            "title": "Reagrupamento familiar some novamente do <em>site</em> da AIMA sem explicação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/publico-brasil/noticia/reagrupamento-familiar-some-novamente-site-aima-explicacao-2193260"
+            "title": "Flávio Bolsonaro admite voltar a candidatar-se à Presidência do Brasil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/mundo/noticia/flavio-bolsonaro-admite-voltar-candidatarse-presidencia-brasil-2193308"
         },
         {
-            "title": "Desculpe lá, mas as criancinhas à porta merecem rebuçados melhores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/fugas/cronica/desculpe-criancinhas-porta-merecem-rebucados-melhores-2192590"
+            "title": "Jerry Seinfeld, que já não é o mesmo Jerry Seinfeld, sobe ao Coliseu e à Meo Arena",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/culturaipsilon/noticia/jerry-seinfeld-ja-nao-jerry-seinfeld-sobe-coliseu-meo-arena-2193305"
         },
         {
-            "title": "René Vignal, o guarda-redes ladrão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/desporto/noticia/rene-vignal-guardaredes-ladrao-2193253"
+            "title": "A marmita é o prato do dia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/fugas/noticia/marmita-prato-dia-2193150"
         }
     ],
     "finance": [],
-    "last_update": "31/10/2026 07:41"
+    "last_update": "31/10/2026 13:59"
 }
