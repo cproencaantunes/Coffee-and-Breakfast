@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 16.5,
-        "manha": 17.3,
-        "tarde": 26.6,
-        "noite": 19.2
+        "atual": 15.7,
+        "manha": 15.8,
+        "tarde": 25.4,
+        "noite": 17.0
     },
     "forecast": {
-        "max": 26.1,
-        "min": 13.5
+        "max": 25.1,
+        "min": 13.3
     },
     "news": [
         {
-            "title": "“No caminho para a morte da minha filha, eu vi muita beleza”: falar sobre luto com uma chavena de chá",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/sociedade/noticia/caminho-morte-filha-vi-beleza-falar-luto-chavena-cha-2192913"
+            "title": "Protestos pela habitação: cidadãos pedem para accionar mecanismo de prevenção da tortura",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/politica/noticia/protestos-habitacao-cidadaos-pedem-accionar-mecanismo-prevencao-tortura-2193294"
         },
         {
-            "title": "Nova Iorque termina a sessão a perder, Nasdaq 100 desliza 3,5%",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/economia/noticia/nova-iorque-termina-sessao-perder-nasdaq-100-desliza-35-2193283"
+            "title": "A vitória dos ganzados",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/opiniao/opiniao/vitoria-ganzados-2193207"
         },
         {
-            "title": "Campanha xenófoba no Facebook e no TikTok inunda a França a meses das presidenciais",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/mundo/noticia/campanha-xenofoba-facebook-tiktok-inunda-franca-meses-presidenciais-2193251"
+            "title": "Crise em casa e na rua",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/opiniao/opiniao/crise-casa-rua-2193286"
         },
         {
-            "title": "O medo de acontecer",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/p3/cronica/medo-acontecer-2193204"
+            "title": "Da Sérvia ao Brasil, os truques à moda antiga já não resultam",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/mundo/opiniao/servia-brasil-truques-moda-antiga-ja-nao-resultam-2193233"
         },
         {
-            "title": "Governo vai fechar ano com 85 Lojas do Cidadão e 1200 Espaços Cidadão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/30/politica/noticia/governo-vai-fechar-ano-85-lojas-cidadao-1200-espacos-cidadao-2193285"
+            "title": "O povo é sereno. O Governo também?",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/opiniao/opiniao/povo-sereno-governo-tambem-2193216"
         }
     ],
     "finance": [],
-    "last_update": "30/10/2026 21:13"
+    "last_update": "31/10/2026 01:12"
 }
