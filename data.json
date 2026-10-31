@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 15.7,
-        "manha": 15.8,
-        "tarde": 25.4,
-        "noite": 17.0
+        "atual": 16.0,
+        "manha": 16.3,
+        "tarde": 25.6,
+        "noite": 17.5
     },
     "forecast": {
-        "max": 25.1,
-        "min": 13.3
+        "max": 25.2,
+        "min": 13.4
     },
     "news": [
         {
-            "title": "Protestos pela habitação: cidadãos pedem para accionar mecanismo de prevenção da tortura",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/politica/noticia/protestos-habitacao-cidadaos-pedem-accionar-mecanismo-prevencao-tortura-2193294"
+            "title": "Os novos rostos do Centro Cultural Vila Flor e do GUIdance, em Guimarães",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/culturaipsilon/noticia/novos-rostos-centro-cultural-vila-flor-guidance-guimaraes-2193187"
         },
         {
-            "title": "A vitória dos ganzados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/opiniao/opiniao/vitoria-ganzados-2193207"
+            "title": "A deriva autoritária de Montenegro choca com a busca de consensos de Seguro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/politica/opiniao/deriva-autoritaria-montenegro-choca-busca-consensos-seguro-2193208"
         },
         {
-            "title": "Crise em casa e na rua",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/opiniao/opiniao/crise-casa-rua-2193286"
+            "title": "Reagrupamento familiar some novamente do <em>site</em> da AIMA sem explicação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/publico-brasil/noticia/reagrupamento-familiar-some-novamente-site-aima-explicacao-2193260"
         },
         {
-            "title": "Da Sérvia ao Brasil, os truques à moda antiga já não resultam",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/mundo/opiniao/servia-brasil-truques-moda-antiga-ja-nao-resultam-2193233"
+            "title": "Desculpe lá, mas as criancinhas à porta merecem rebuçados melhores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/fugas/cronica/desculpe-criancinhas-porta-merecem-rebucados-melhores-2192590"
         },
         {
-            "title": "O povo é sereno. O Governo também?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/opiniao/opiniao/povo-sereno-governo-tambem-2193216"
+            "title": "René Vignal, o guarda-redes ladrão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/desporto/noticia/rene-vignal-guardaredes-ladrao-2193253"
         }
     ],
     "finance": [],
-    "last_update": "31/10/2026 01:12"
+    "last_update": "31/10/2026 07:41"
 }
