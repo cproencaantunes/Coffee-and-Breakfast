@@ -2,35 +2,35 @@
     "weather": {
         "atual": 16.0,
         "manha": 16.4,
-        "tarde": 25.7,
-        "noite": 17.5
+        "tarde": 25.8,
+        "noite": 17.6
     },
     "forecast": {
-        "max": 25.0,
-        "min": 13.7
+        "max": 25.2,
+        "min": 13.4
     },
     "news": [
         {
-            "title": "EUA aprovam venda de mísseis Patriot para a Ucrânia, Zelensky pede rapidez na entrega",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/mundo/noticia/eua-aprovam-venda-misseis-patriot-ucrania-zelensky-pede-rapidez-entrega-2193312"
+            "title": "Provedoria de Justiça está na manifestação e acampada de Lisboa a monitorizar PSP",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/sociedade/noticia/provedoria-justica-manifestacao-acampada-lisboa-monitorizar-psp-2193314"
         },
         {
-            "title": "Depois de 14 anos, dispensa de metadona regressa às farmácias — mas para já só em três regiões",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/sociedade/noticia/14-anos-dispensa-metadona-regressa-farmacias-ja-so-tres-regioes-2193310"
+            "title": "Judoca Patrícia Sampaio vice-campeã nos -78kg do Grand Slam de Abu Dhabi",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/desporto/noticia/judoca-patricia-sampaio-vicecampea-78kg-grand-slam-abu-dhabi-2193325"
         },
         {
-            "title": "Flávio Bolsonaro admite voltar a candidatar-se à Presidência do Brasil",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/mundo/noticia/flavio-bolsonaro-admite-voltar-candidatarse-presidencia-brasil-2193308"
+            "title": "Man. United perde com Chelsea e pode fechar ronda em zona de despromoção",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/desporto/noticia/man-united-perde-chelsea-fechar-ronda-zona-despromocao-2193321"
         },
         {
-            "title": "Jerry Seinfeld, que já não é o mesmo Jerry Seinfeld, sobe ao Coliseu e à Meo Arena",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/culturaipsilon/noticia/jerry-seinfeld-ja-nao-jerry-seinfeld-sobe-coliseu-meo-arena-2193305"
+            "title": "Como a reeleição de Lula e a polarização podem impulsionar busca por imóveis em Portugal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/publico-brasil/noticia/reeleicao-lula-polarizacao-podem-impulsionar-busca-imoveis-portugal-2193234"
         },
         {
-            "title": "A marmita é o prato do dia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/fugas/noticia/marmita-prato-dia-2193150"
+            "title": "Governo e Câmara de Lisboa invocam mercado de Natal para impedir acampada no Rossio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/10/31/sociedade/noticia/governo-camara-lisboa-invocam-mercado-natal-impedir-acampada-rossio-2193319"
         }
     ],
     "finance": [],
-    "last_update": "31/10/2026 13:59"
+    "last_update": "31/10/2026 18:16"
 }
