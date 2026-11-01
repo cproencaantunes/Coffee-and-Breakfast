@@ -2,35 +2,35 @@
     "weather": {
         "atual": 15.1,
         "manha": 17.0,
-        "tarde": 24.9,
-        "noite": 17.1
+        "tarde": 25.1,
+        "noite": 17.4
     },
     "forecast": {
-        "max": 25.4,
-        "min": 13.5
+        "max": 25.7,
+        "min": 13.8
     },
     "news": [
         {
-            "title": "Porto: exposição revela o Foco oculto e encontra “beleza” na ruína",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/local/noticia/exposicao-revela-foco-oculto-encontra-beleza-ruina-2192902"
+            "title": "Do zero ao título da WNBA em dois anos — a proeza das Valkyries",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/desporto/noticia/zero-titulo-wnba-dois-anos-proeza-valkyries-2193380"
         },
         {
-            "title": "Guterres reitera direito à autodeterminação do povo sarauí após fim da missão da ONU",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/mundo/noticia/guterres-reitera-direito-autodeterminacao-povo-saraui-apos-fim-missao-onu-2193365"
+            "title": "Pedro Duarte convida acampada do Porto para reunião sobre “acampamentos ocasionais”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/sociedade/noticia/pedro-duarte-convida-acampada-porto-reuniao-acampamentos-ocasionais-2193377"
         },
         {
-            "title": "Somalilândia: o reconhecimento que pode comprometer a sua maior conquista",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/mundo/opiniao/somalilandia-reconhecimento-comprometer-maior-conquista-2193220"
+            "title": "Pela primeira vez desde as eleições, Eisenkot admite apoio de deputados dos partidos árabes para governar Israel",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/mundo/noticia/primeira-desde-eleicoes-eisenkot-admite-apoio-deputados-partidos-arabes-governar-israel-2193371"
         },
         {
-            "title": "O testemunho de Lokas Cruz, médica e membro da equipa de cuidados da Acampada Porto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/sociedade/noticia/testemunho-lokas-cruz-medica-membro-equipa-cuidados-acampada-porto-2193361"
+            "title": "Pedra, Planta, Animal e Escritor",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/culturaipsilon/cronica/pedra-planta-animal-escritor-2193356"
         },
         {
-            "title": "INEM confirma 25 feridos após cargas policiais nas acampadas de Lisboa e Porto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/sociedade/noticia/inem-confirma-25-feridos-apos-cargas-policiais-acampadas-lisboa-porto-2193358"
+            "title": "Andebol: FC Porto quebra série invicta de quase dois anos do Sporting",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/desporto/noticia/andebol-fc-porto-quebra-serie-invicta-quase-dois-anos-sporting-2193375"
         }
     ],
     "finance": [],
-    "last_update": "01/11/2026 15:33"
+    "last_update": "01/11/2026 19:57"
 }
