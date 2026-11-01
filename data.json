@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.9,
-        "manha": 16.5,
-        "tarde": 25.2,
-        "noite": 17.1
+        "atual": 15.1,
+        "manha": 16.6,
+        "tarde": 25.1,
+        "noite": 17.3
     },
     "forecast": {
         "max": 25.6,
-        "min": 13.9
+        "min": 13.8
     },
     "news": [
         {
-            "title": "A vitória da decência",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/mundo/analise/vitoria-decencia-2193311"
+            "title": "Dezenas de manifestantes em vigília pelos detidos na esquadra do Heroísmo, no Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/sociedade/noticia/dezenas-manifestantes-vigilia-detidos-esquadra-heroismo-porto-2193343"
         },
         {
-            "title": "Acampadas decidem voltar a passar a noite com tendas montadas. No Porto, forma-se um cordão humano",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/sociedade/noticia/acampada-lisboa-decide-voltar-passar-noite-rossio-tendas-montadas-2193336"
+            "title": "Palcos da semana: Pantónio, Pedra Dura e animação no museu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/culturaipsilon/noticia/palcos-semana-pantonio-pedra-dura-animacao-museu-2193337"
         },
         {
-            "title": "Quem tem medo do protesto?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/opiniao/opiniao/medo-protesto-2192465"
+            "title": "Algarve recupera quota de mercado nas receitas de Verão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/economia/noticia/algarve-recupera-quota-mercado-receitas-verao-2193262"
         },
         {
-            "title": "A imigração salvou a construção",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/opiniao/opiniao/imigracao-salvou-construcao-2192907"
+            "title": "Continuar a amar e a viver não significa esquecer quem partiu",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/impar/opiniao/continuar-amar-viver-nao-significa-esquecer-partiu-2192990"
         },
         {
-            "title": "Quem paga a solidariedade? Todos querem direitos. E os deveres?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/opiniao/opiniao/paga-solidariedade-querem-direitos-deveres-2193107"
+            "title": "Mélanie Berger-Volle (1921-2026), uma vida que é exemplo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/mundo/cronica/melanie-bergervolle-19212026-vida-exemplo-2192980"
         }
     ],
     "finance": [],
-    "last_update": "01/11/2026 01:37"
+    "last_update": "01/11/2026 08:21"
 }
