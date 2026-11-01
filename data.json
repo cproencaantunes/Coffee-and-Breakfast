@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 15.1,
-        "manha": 16.6,
-        "tarde": 25.1,
-        "noite": 17.3
+        "manha": 17.0,
+        "tarde": 24.9,
+        "noite": 17.1
     },
     "forecast": {
-        "max": 25.6,
-        "min": 13.8
+        "max": 25.4,
+        "min": 13.5
     },
     "news": [
         {
-            "title": "Dezenas de manifestantes em vigília pelos detidos na esquadra do Heroísmo, no Porto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/sociedade/noticia/dezenas-manifestantes-vigilia-detidos-esquadra-heroismo-porto-2193343"
+            "title": "Porto: exposição revela o Foco oculto e encontra “beleza” na ruína",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/local/noticia/exposicao-revela-foco-oculto-encontra-beleza-ruina-2192902"
         },
         {
-            "title": "Palcos da semana: Pantónio, Pedra Dura e animação no museu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/culturaipsilon/noticia/palcos-semana-pantonio-pedra-dura-animacao-museu-2193337"
+            "title": "Guterres reitera direito à autodeterminação do povo sarauí após fim da missão da ONU",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/mundo/noticia/guterres-reitera-direito-autodeterminacao-povo-saraui-apos-fim-missao-onu-2193365"
         },
         {
-            "title": "Algarve recupera quota de mercado nas receitas de Verão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/economia/noticia/algarve-recupera-quota-mercado-receitas-verao-2193262"
+            "title": "Somalilândia: o reconhecimento que pode comprometer a sua maior conquista",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/mundo/opiniao/somalilandia-reconhecimento-comprometer-maior-conquista-2193220"
         },
         {
-            "title": "Continuar a amar e a viver não significa esquecer quem partiu",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/impar/opiniao/continuar-amar-viver-nao-significa-esquecer-partiu-2192990"
+            "title": "O testemunho de Lokas Cruz, médica e membro da equipa de cuidados da Acampada Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/sociedade/noticia/testemunho-lokas-cruz-medica-membro-equipa-cuidados-acampada-porto-2193361"
         },
         {
-            "title": "Mélanie Berger-Volle (1921-2026), uma vida que é exemplo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/mundo/cronica/melanie-bergervolle-19212026-vida-exemplo-2192980"
+            "title": "INEM confirma 25 feridos após cargas policiais nas acampadas de Lisboa e Porto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/sociedade/noticia/inem-confirma-25-feridos-apos-cargas-policiais-acampadas-lisboa-porto-2193358"
         }
     ],
     "finance": [],
-    "last_update": "01/11/2026 08:21"
+    "last_update": "01/11/2026 15:33"
 }
