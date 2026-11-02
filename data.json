@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 15.1,
-        "manha": 17.0,
-        "tarde": 25.1,
-        "noite": 17.0
+        "atual": 14.7,
+        "manha": 15.6,
+        "tarde": 25.5,
+        "noite": 16.5
     },
     "forecast": {
-        "max": 25.5,
-        "min": 13.3
+        "max": 22.4,
+        "min": 11.4
     },
     "news": [
         {
-            "title": "FC Porto vence Óquei de Barcelos e conquista Elite Cup",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/desporto/noticia/fc-porto-vence-oquei-barcelos-conquista-elite-cup-2193390"
+            "title": "Pitágoras e as batatas fritas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/02/opiniao/opiniao/pitagoras-batatas-fritas-2193362"
         },
         {
-            "title": "Kimi Antonelli tinha pressa de revisitar o Brasil de Ayrton Senna como campeão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/desporto/noticia/kimi-antonelli-pressa-revisitar-brasil-ayrton-senna-campeao-2193386"
+            "title": "Na terceira semana da justa luta pela habitação digna",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/02/opiniao/opiniao/terceira-semana-justa-luta-habitacao-digna-2193364"
         },
         {
-            "title": "Só depois de intervenção da Provedoria é que polícia deixou passar ferido para ser assistido",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/sociedade/noticia/so-intervencao-provedoria-policia-deixou-passar-ferido-assistido-2193383"
+            "title": "Quando a garrafa cai do céu...",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/02/opiniao/opiniao/garrafa-cai-ceu-2193097"
         },
         {
-            "title": "“O tempo do respeitinho já lá vai”. À terceira carga policial, acampadas continuam a somar apoios",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/politica/noticia/tempo-respeitinho-ja-vai-terceira-accao-policial-acampadas-continuam-somar-apoios-2193381"
+            "title": "O que ainda falta ao Simplex",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/02/opiniao/opiniao/falta-simplex-2193135"
         },
         {
-            "title": "O testemunho de uma mãe detida: “Fui tratada como se fosse uma criminosa. Não fiz nada de errado”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/01/sociedade/noticia/testemunho-mae-detida-tratada-criminosa-nao-fiz-nada-errado-2193382"
+            "title": "Os modelos de desenvolvimento baseados em IA: desequilíbrios e novas plataformas de abordagem",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/02/opiniao/opiniao/modelos-desenvolvimento-baseados-sistemas-ia-desequilibrios-fundamentais-novas-plataformas-abordagem-2193051"
         }
     ],
     "finance": [],
-    "last_update": "01/11/2026 23:17"
+    "last_update": "02/11/2026 03:14"
 }
