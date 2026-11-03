@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 12.7,
-        "manha": 12.4,
-        "tarde": 22.6,
-        "noite": 15.1
+        "manha": 12.1,
+        "tarde": 22.8,
+        "noite": 14.9
     },
     "forecast": {
-        "max": 20.3,
-        "min": 9.8
+        "max": 20.9,
+        "min": 9.6
     },
     "news": [
         {
-            "title": "Prémio Gulbenkian Património para Nuno Valentim e reabilitação da Quinta de Crasto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/03/culturaipsilon/noticia/premio-gulbenkian-patrimonio-nuno-valentim-reabilitacao-quinta-crasto-2193551"
+            "title": "Luís Montenegro fala ao país às oito da noite sobre habitação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/03/politica/noticia/luis-montenegro-fala-pais-oito-noite-habitacao-2193642"
         },
         {
-            "title": "Avenida do Brasil: a <i>chef</i> que fugiu do tradicional em restaurante e hotel em Portugal",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/03/video/avenida-brasil-michele-marques-20261102-180827"
+            "title": "A mudança também se faz através da música? Quem são os músicos da Acampada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/03/impar/noticia/mudanca-tambem-faz-atraves-musica-sao-musicos-acampada-2193623"
         },
         {
-            "title": "Quanto investe Portugal na natureza? As ONG dizem que o OE2027 não responde",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/03/azul/noticia/investe-portugal-natureza-ong-oe2027-nao-responde-2193544"
+            "title": "“Incerteza está tornando difícil avançar com meu negócio em Portugal”, diz empresária",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/03/publico-brasil/noticia/incerteza-tornando-dificil-avancar-negocio-portugal-empresaria-2193632"
         },
         {
-            "title": "Carros eléctricos para famílias vulneráveis: o que se sabe sobre os novos apoios",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/03/azul/noticia/carros-electricos-familias-vulneraveis-sabe-novos-apoios-2193501"
+            "title": "Dono francês do Novo Banco assina compra de seguradora GamaLife",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/03/economia/noticia/dono-frances-novo-banco-assina-compra-seguradora-gamalife-2193634"
         },
         {
-            "title": "Tenerife anuncia morte de jogador após choque violento em jogo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/03/desporto/noticia/tenerife-anuncia-morte-jogador-apos-choque-violento-jogo-2193548"
+            "title": "Ministro dos Transportes espanhol anuncia medidas para “minimizar risco” na ferrovia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/03/mundo/noticia/ministro-transportes-espanhol-anuncia-medidas-minimizar-risco-ferrovia-2193628"
         }
     ],
     "finance": [],
-    "last_update": "03/11/2026 10:15"
+    "last_update": "03/11/2026 18:08"
 }
