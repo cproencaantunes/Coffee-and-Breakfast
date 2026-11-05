@@ -2,35 +2,35 @@
     "weather": {
         "atual": 10.8,
         "manha": 11.3,
-        "tarde": 18.1,
-        "noite": 12.7
+        "tarde": 18.0,
+        "noite": 12.1
     },
     "forecast": {
-        "max": 17.5,
-        "min": 13.4
+        "max": 18.6,
+        "min": 12.7
     },
     "news": [
         {
-            "title": "ONU aprova classificação internacional de locais de morte criada na Universidade de Coimbra",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/ciencia/noticia/onu-aprova-classificacao-internacional-locais-morte-criada-universidade-coimbra-2193841"
+            "title": "<em>Influencer</em>, mas pouco",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/opiniao/editorial/influencer-2193964"
         },
         {
-            "title": "Tribunal revoga acesso da FlixBus a Sete Rios, mas empresa vai recorrer",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/local/noticia/tribunal-revoga-acesso-flixbus-sete-rios-empresa-vai-recorrer-2193904"
+            "title": "Nuno Melo diz que revelou ataque ao seu telemóvel para fazer pedagogia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/politica/noticia/nuno-melo-revelou-ataque-telemovel-pedagogia-2193960"
         },
         {
-            "title": "Antigos autarcas de Barcelos absolvidos de alegado favorecimento a empresários de eventos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/sociedade/noticia/antigos-autarcas-barcelos-absolvidos-alegado-favorecimento-empresarios-eventos-2193905"
+            "title": "Zoltan Istvan: “A Europa está a caminhar para a completa irrelevância” na IA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/enter/entrevista/zoltan-istvan-europa-caminhar-completa-irrelevancia-ia-2193942"
         },
         {
-            "title": "Advogado de Duarte Lima entregou ao tribunal relatório clínico sobre estado do arguido",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/sociedade/noticia/advogado-duarte-lima-entregou-tribunal-relatorio-clinico-estado-arguido-2193848"
+            "title": "Vidas reescritas: o real a marcar a nova literatura portuguesa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/culturaipsilon/noticia/vidas-reescritas-real-marcar-nova-literatura-portuguesa-2193474"
         },
         {
-            "title": "A parcela M7 da Quinta dos Muros voltou a dar um grande tinto",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/terroir/noticia/parcela-m7-quinta-muros-voltou-dar-tinto-2193849"
+            "title": "O adeus de Cristiano Ronaldo não fez justiça a CR7",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/desporto/noticia/adeus-cristiano-ronaldo-nao-fez-justica-cr7-2193919"
         }
     ],
     "finance": [],
-    "last_update": "05/11/2026 15:54"
+    "last_update": "05/11/2026 21:40"
 }
