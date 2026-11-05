@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.4,
-        "manha": 12.7,
-        "tarde": 20.7,
-        "noite": 13.6
+        "atual": 10.8,
+        "manha": 11.5,
+        "tarde": 18.1,
+        "noite": 12.1
     },
     "forecast": {
-        "max": 19.0,
-        "min": 8.3
+        "max": 18.9,
+        "min": 10.9
     },
     "news": [
         {
-            "title": "Decomposição da mãe",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/04/impar/cronica/decomposicao-mae-2193749"
+            "title": "Somos (quase) todos antidemocráticos e a culpa não é da comunicação social",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/opiniao/opiniao/quase-antidemocraticos-culpa-nao-comunicacao-social-2193777"
         },
         {
-            "title": "Ampliação do Museu da Presidência da República despeja histórica estação de correios",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/04/local/noticia/ampliacao-museu-presidencia-republica-despeja-historica-estacao-correios-2193782"
+            "title": "Conselho de Redação da Lusa dá parecer negativo à nomeação de Diana Ramos para direcção de informação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/sociedade/noticia/conselho-redacao-lusa-parecer-negativo-nomeacao-diana-ramos-direccao-informacao-2193829"
         },
         {
-            "title": "Habitação: BE acusa Montenegro de ignorar violência policial e não apresentar medidas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/04/politica/noticia/habitacao-be-acusa-montenegro-ignorar-violencia-policial-nao-apresentar-medidas-2193785"
+            "title": "Reaver o nosso aliado",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/opiniao/cronica/reaver-aliado-2193702"
         },
         {
-            "title": "<em>Cartas aos Nossos Filhos</em>: pais escrevem sobre “a experiência diferente” de ser homem hoje",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/04/impar/noticia/cartas-filhos-pais-escrevem-experiencia-diferente-homem-hoje-2193720"
+            "title": "Um grande dia de festa: o início do fim da era Trump",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/opiniao/opiniao/dia-festa-inicio-fim-trump-2193804"
         },
         {
-            "title": "Ciberataque a frigoríficos causou perdas materiais em três supermercados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/04/economia/noticia/ciberataque-frigorificos-causou-perdas-materiais-tres-supermercados-2193769"
+            "title": "Três em cada dez pessoas afirmam não terem recebido cuidados de saúde a tempo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/sociedade/noticia/tres-dez-pessoas-afirmam-nao-terem-recebido-cuidados-saude-tempo-2193794"
         }
     ],
     "finance": [],
-    "last_update": "04/11/2026 19:00"
+    "last_update": "05/11/2026 00:36"
 }
