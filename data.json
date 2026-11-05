@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 10.8,
-        "manha": 11.5,
-        "tarde": 18.0,
-        "noite": 12.5
+        "manha": 11.3,
+        "tarde": 18.1,
+        "noite": 12.7
     },
     "forecast": {
-        "max": 20.0,
-        "min": 12.8
+        "max": 17.5,
+        "min": 13.4
     },
     "news": [
         {
-            "title": "Quem matou Rosalina? A fortuna de Lúcio Tomé Feteira",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/sociedade/noticia/matou-rosalina-fortuna-lucio-tome-feteira-2192308"
+            "title": "ONU aprova classificação internacional de locais de morte criada na Universidade de Coimbra",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/ciencia/noticia/onu-aprova-classificacao-internacional-locais-morte-criada-universidade-coimbra-2193841"
         },
         {
-            "title": "Por que você não volta pro teu país agora?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/publico-brasil/opiniao/voce-nao-volta-pro-pais-2193813"
+            "title": "Tribunal revoga acesso da FlixBus a Sete Rios, mas empresa vai recorrer",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/local/noticia/tribunal-revoga-acesso-flixbus-sete-rios-empresa-vai-recorrer-2193904"
         },
         {
-            "title": "Benfica quer trabalhar hoje pelas folgas de amanhã",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/desporto/noticia/benfica-quer-trabalhar-hoje-folgas-amanha-2193767"
+            "title": "Antigos autarcas de Barcelos absolvidos de alegado favorecimento a empresários de eventos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/sociedade/noticia/antigos-autarcas-barcelos-absolvidos-alegado-favorecimento-empresarios-eventos-2193905"
         },
         {
-            "title": "Coimbra em Blues de regresso para mostrar música ainda em constante mutação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/culturaipsilon/noticia/coimbra-blues-regresso-mostrar-musica-constante-mutacao-2193798"
+            "title": "Advogado de Duarte Lima entregou ao tribunal relatório clínico sobre estado do arguido",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/sociedade/noticia/advogado-duarte-lima-entregou-tribunal-relatorio-clinico-estado-arguido-2193848"
         },
         {
-            "title": "Um ano de Pedro Duarte: dos transportes gratuitos às bastonadas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/local/noticia/ano-pedro-duarte-transportes-gratuitos-bastonadas-2193803"
+            "title": "A parcela M7 da Quinta dos Muros voltou a dar um grande tinto",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/terroir/noticia/parcela-m7-quinta-muros-voltou-dar-tinto-2193849"
         }
     ],
     "finance": [],
-    "last_update": "05/11/2026 07:30"
+    "last_update": "05/11/2026 15:54"
 }
