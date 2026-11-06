@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 12.6,
-        "manha": 13.3,
-        "tarde": 17.3,
-        "noite": 16.7
+        "manha": 13.1,
+        "tarde": 16.1,
+        "noite": 15.8
     },
     "forecast": {
-        "max": 22.2,
-        "min": 15.2
+        "max": 22.5,
+        "min": 15.0
     },
     "news": [
         {
-            "title": "A inteligência artificial da Airbnb quer planear as suas férias a partir de 2027",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/enter/noticia/inteligencia-artificial-airbnb-quer-planear-ferias-partir-2027-2193980"
+            "title": "Samba por uma Causa: músicos se unem em Lisboa para apoiar educação na Guiné-Bissau",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/publico-brasil/noticia/samba-causa-musicos-unem-lisboa-apoiar-educacao-guinebissau-2194061"
         },
         {
-            "title": "A Noite do Circo volta a apresentar-se entre arte sacra e esculturas de cortiça",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/local/noticia/noite-circo-volta-apresentarse-arte-sacra-esculturas-cortica-2193918"
+            "title": "Au Kam San punido com 12 anos e meio de prisão num “julgamento político” e “perseguição infundada”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/mundo/noticia/au-kam-san-punido-12-anos-meio-prisao-julgamento-politico-perseguicao-infundada-2194038"
         },
         {
-            "title": "Paraíba traz a Lisboa o forró de raiz que quer virar patrimônio da humanidade",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/publico-brasil/noticia/paraiba-traz-lisboa-forro-raiz-quer-virar-patrimonio-humanidade-2193952"
+            "title": "Pai de Meghan detido nos EUA por suspeita de pornografia infantil",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/impar/noticia/pai-meghan-detido-eua-suspeita-pornografia-infantil-2194051"
         },
         {
-            "title": "Aviso amarelo em oito distritos: depressão <em>Bruna</em> traz chuva até 13 de Novembro",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/azul/noticia/aviso-amarelo-oito-distritos-depressao-bruna-traz-chuva-ate-13-novembro-2193977"
+            "title": "Leffest em 26 filmes",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/infografia/best-of-leffest-921"
         },
         {
-            "title": "Vendas no Brasil sobem 12% e Cartuxa terá faturamento recorde: 33,2 milhões de euros",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/publico-brasil/noticia/vendas-brasil-sobem-12-cartuxa-tera-faturamento-recorde-332-milhoes-euros-2193911"
+            "title": "Crise bancária deixa três milhões de paraguaios sem acesso às contas: Presidente demite-se",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/video/crise-bancaria-deixa-tres-milhoes-paraguaios-acesso-contas-presidente-demitese-20261106-150049"
         }
     ],
     "finance": [],
-    "last_update": "06/11/2026 08:42"
+    "last_update": "06/11/2026 16:27"
 }
