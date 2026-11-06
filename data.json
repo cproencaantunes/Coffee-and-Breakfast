@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 12.7,
-        "manha": 13.6,
-        "tarde": 16.5,
-        "noite": 16.2
+        "atual": 12.6,
+        "manha": 13.3,
+        "tarde": 17.3,
+        "noite": 16.7
     },
     "forecast": {
-        "max": 22.3,
-        "min": 15.6
+        "max": 22.2,
+        "min": 15.2
     },
     "news": [
         {
-            "title": "Assobiem para o lado. Não aconteceu nada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/opiniao/opiniao/assobiem-lado-nao-aconteceu-nada-2193951"
+            "title": "A inteligência artificial da Airbnb quer planear as suas férias a partir de 2027",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/enter/noticia/inteligencia-artificial-airbnb-quer-planear-ferias-partir-2027-2193980"
         },
         {
-            "title": "A direita de que a esquerda gosta",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/opiniao/opiniao/direita-esquerda-gosta-2193957"
+            "title": "A Noite do Circo volta a apresentar-se entre arte sacra e esculturas de cortiça",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/local/noticia/noite-circo-volta-apresentarse-arte-sacra-esculturas-cortica-2193918"
         },
         {
-            "title": "Entrar, resolver e sair",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/opiniao/cronica/entrar-resolver-sair-2193857"
+            "title": "Paraíba traz a Lisboa o forró de raiz que quer virar patrimônio da humanidade",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/publico-brasil/noticia/paraiba-traz-lisboa-forro-raiz-quer-virar-patrimonio-humanidade-2193952"
         },
         {
-            "title": "O plágio do orangotango, agora na habitação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/opiniao/opiniao/plagio-orangotango-habitacao-2193937"
+            "title": "Aviso amarelo em oito distritos: depressão <em>Bruna</em> traz chuva até 13 de Novembro",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/azul/noticia/aviso-amarelo-oito-distritos-depressao-bruna-traz-chuva-ate-13-novembro-2193977"
         },
         {
-            "title": "Localizadas em Portugal duas filhas de mulher detida em Espanha por tráfico de menores",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/sociedade/noticia/localizadas-portugal-duas-filhas-mulher-detida-espanha-trafico-menores-2193974"
+            "title": "Vendas no Brasil sobem 12% e Cartuxa terá faturamento recorde: 33,2 milhões de euros",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/publico-brasil/noticia/vendas-brasil-sobem-12-cartuxa-tera-faturamento-recorde-332-milhoes-euros-2193911"
         }
     ],
     "finance": [],
-    "last_update": "06/11/2026 01:53"
+    "last_update": "06/11/2026 08:42"
 }
