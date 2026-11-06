@@ -2,35 +2,35 @@
     "weather": {
         "atual": 12.6,
         "manha": 13.1,
-        "tarde": 16.1,
-        "noite": 15.8
+        "tarde": 15.0,
+        "noite": 15.4
     },
     "forecast": {
-        "max": 22.5,
-        "min": 15.0
+        "max": 22.4,
+        "min": 14.6
     },
     "news": [
         {
-            "title": "Samba por uma Causa: músicos se unem em Lisboa para apoiar educação na Guiné-Bissau",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/publico-brasil/noticia/samba-causa-musicos-unem-lisboa-apoiar-educacao-guinebissau-2194061"
+            "title": "Miranda Sarmento sem sinais de abertura a propostas da oposição para o OE",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/economia/noticia/miranda-sarmento-sinais-abertura-propostas-oposicao-oe-2194117"
         },
         {
-            "title": "Au Kam San punido com 12 anos e meio de prisão num “julgamento político” e “perseguição infundada”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/mundo/noticia/au-kam-san-punido-12-anos-meio-prisao-julgamento-politico-perseguicao-infundada-2194038"
+            "title": "Morreu Sebastián Lelio, destacado realizador do cinema chileno",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/culturaipsilon/noticia/morreu-sebastian-lelio-destacado-realizador-cinema-chileno-2194109"
         },
         {
-            "title": "Pai de Meghan detido nos EUA por suspeita de pornografia infantil",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/impar/noticia/pai-meghan-detido-eua-suspeita-pornografia-infantil-2194051"
+            "title": "Chicha feia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/p3/cronica/chicha-feia-2194031"
         },
         {
-            "title": "Leffest em 26 filmes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/infografia/best-of-leffest-921"
+            "title": "João Galamba: “A realidade demonstrou-me que na política não há amigos”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/politica/entrevista/joao-galamba-realidade-demonstroume-politica-nao-ha-amigos-2194009"
         },
         {
-            "title": "Crise bancária deixa três milhões de paraguaios sem acesso às contas: Presidente demite-se",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/video/crise-bancaria-deixa-tres-milhoes-paraguaios-acesso-contas-presidente-demitese-20261106-150049"
+            "title": "UE acusa TikTok de não proteger a saúde mental dos utilizadores e os pôr numa “toca”",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/enter/noticia/ue-acusa-tiktok-nao-proteger-saude-mental-utilizadores-toca-2194108"
         }
     ],
     "finance": [],
-    "last_update": "06/11/2026 16:27"
+    "last_update": "06/11/2026 21:51"
 }
