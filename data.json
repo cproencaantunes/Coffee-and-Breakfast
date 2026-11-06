@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 10.8,
-        "manha": 11.3,
-        "tarde": 18.0,
-        "noite": 12.1
+        "atual": 12.7,
+        "manha": 13.6,
+        "tarde": 16.5,
+        "noite": 16.2
     },
     "forecast": {
-        "max": 18.6,
-        "min": 12.7
+        "max": 22.3,
+        "min": 15.6
     },
     "news": [
         {
-            "title": "<em>Influencer</em>, mas pouco",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/opiniao/editorial/influencer-2193964"
+            "title": "Assobiem para o lado. Não aconteceu nada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/opiniao/opiniao/assobiem-lado-nao-aconteceu-nada-2193951"
         },
         {
-            "title": "Nuno Melo diz que revelou ataque ao seu telemóvel para fazer pedagogia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/politica/noticia/nuno-melo-revelou-ataque-telemovel-pedagogia-2193960"
+            "title": "A direita de que a esquerda gosta",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/opiniao/opiniao/direita-esquerda-gosta-2193957"
         },
         {
-            "title": "Zoltan Istvan: “A Europa está a caminhar para a completa irrelevância” na IA",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/enter/entrevista/zoltan-istvan-europa-caminhar-completa-irrelevancia-ia-2193942"
+            "title": "Entrar, resolver e sair",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/opiniao/cronica/entrar-resolver-sair-2193857"
         },
         {
-            "title": "Vidas reescritas: o real a marcar a nova literatura portuguesa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/culturaipsilon/noticia/vidas-reescritas-real-marcar-nova-literatura-portuguesa-2193474"
+            "title": "O plágio do orangotango, agora na habitação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/opiniao/opiniao/plagio-orangotango-habitacao-2193937"
         },
         {
-            "title": "O adeus de Cristiano Ronaldo não fez justiça a CR7",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/05/desporto/noticia/adeus-cristiano-ronaldo-nao-fez-justica-cr7-2193919"
+            "title": "Localizadas em Portugal duas filhas de mulher detida em Espanha por tráfico de menores",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/sociedade/noticia/localizadas-portugal-duas-filhas-mulher-detida-espanha-trafico-menores-2193974"
         }
     ],
     "finance": [],
-    "last_update": "05/11/2026 21:40"
+    "last_update": "06/11/2026 01:53"
 }
