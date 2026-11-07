@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 12.6,
-        "manha": 13.1,
-        "tarde": 15.0,
-        "noite": 15.4
+        "atual": 15.3,
+        "manha": 15.4,
+        "tarde": 21.9,
+        "noite": 18.9
     },
     "forecast": {
-        "max": 22.4,
-        "min": 14.6
+        "max": 20.0,
+        "min": 16.9
     },
     "news": [
         {
-            "title": "Miranda Sarmento sem sinais de abertura a propostas da oposição para o OE",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/economia/noticia/miranda-sarmento-sinais-abertura-propostas-oposicao-oe-2194117"
+            "title": "Conselho de Redacção diz que Lusa está sem director de informação em funções desde a meia-noite",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/07/sociedade/noticia/conselho-redaccao-lusa-director-informacao-funcoes-desde-meianoite-2194126"
         },
         {
-            "title": "Morreu Sebastián Lelio, destacado realizador do cinema chileno",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/culturaipsilon/noticia/morreu-sebastian-lelio-destacado-realizador-cinema-chileno-2194109"
+            "title": "Bowen foi traída pela IA",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/07/opiniao/opiniao/bowen-traida-ia-2193982"
         },
         {
-            "title": "Chicha feia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/p3/cronica/chicha-feia-2194031"
+            "title": "Diário do colapso do sistema sérvio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/07/mundo/opiniao/diario-colapso-sistema-servio-2193910"
         },
         {
-            "title": "João Galamba: “A realidade demonstrou-me que na política não há amigos”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/politica/entrevista/joao-galamba-realidade-demonstroume-politica-nao-ha-amigos-2194009"
+            "title": "A expansão é um diluente",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/07/opiniao/cronica/expansao-diluente-2194003"
         },
         {
-            "title": "UE acusa TikTok de não proteger a saúde mental dos utilizadores e os pôr numa “toca”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/06/enter/noticia/ue-acusa-tiktok-nao-proteger-saude-mental-utilizadores-toca-2194108"
+            "title": "Os novos donos do Rossio",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/07/opiniao/opiniao/novos-donos-rossio-2193983"
         }
     ],
     "finance": [],
-    "last_update": "06/11/2026 21:51"
+    "last_update": "07/11/2026 01:25"
 }
