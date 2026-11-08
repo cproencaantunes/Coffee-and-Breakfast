@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 14.9,
-        "manha": 15.5,
-        "tarde": 21.7,
-        "noite": 18.3
+        "atual": 18.1,
+        "manha": 17.8,
+        "tarde": 22.0,
+        "noite": 19.9
     },
     "forecast": {
-        "max": 21.1,
-        "min": 17.1
+        "max": 20.6,
+        "min": 18.1
     },
     "news": [
         {
-            "title": "Porto: câmara diz que decidiu montar pista de gelo na praça da acampada antes dos protestos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/07/local/noticia/porto-camara-decidiu-montar-pista-gelo-praca-acampada-protestos-2194181"
+            "title": "Após promover Stephen Miller, Trump foi às artes marciais procurar um porta-voz para a Casa Branca",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/mundo/noticia/apos-promover-stephen-miller-trump-artes-marciais-procurar-portavoz-casa-branca-2194182"
         },
         {
-            "title": "Luis Suárez, o “velho” herói do novo Sporting",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/07/desporto/cronica_de_jogo/luis-suarez-velho-heroi-novo-sporting-2194180"
+            "title": "S. Paulo também se enganou",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/opiniao/opiniao/s-paulo-tambem-enganou-2193880"
         },
         {
-            "title": "Presidente de Israel mandata Eisenkot para formar governo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/07/mundo/noticia/presidente-israel-mandata-eisenkot-formar-governo-2194179"
+            "title": "Escolher quem se odeia",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/opiniao/opiniao/escolher-odeia-2194152"
         },
         {
-            "title": "Eleição renhida na Nova Zelândia deixa o país em <em>suspense</em> até ao dia 27",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/07/mundo/noticia/eleicao-renhida-nova-zelandia-deixa-pais-suspense-ate-dia-27-2194176"
+            "title": "Professores não profissionalizados no 1.º ciclo é crime pedagógico",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/opiniao/opiniao/professores-nao-profissionalizados-1-ciclo-crime-pedagogico-2193237"
         },
         {
-            "title": "Portugal repete o 3.º lugar masculino no Mundial de padel",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/07/desporto/noticia/portugal-repete-3-lugar-masculino-mundial-padel-2194178"
+            "title": "Montenegro, um primeiro-ministro que é a 4.ª escolha",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/opiniao/opiniao/montenegro-primeiroministro-4-escolha-2194148"
         }
     ],
     "finance": [],
-    "last_update": "07/11/2026 23:13"
+    "last_update": "08/11/2026 03:12"
 }
