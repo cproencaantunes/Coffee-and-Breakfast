@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 18.1,
-        "manha": 17.8,
-        "tarde": 22.0,
-        "noite": 19.9
+        "manha": 17.7,
+        "tarde": 20.7,
+        "noite": 19.2
     },
     "forecast": {
-        "max": 20.6,
-        "min": 18.1
+        "max": 19.8,
+        "min": 18.0
     },
     "news": [
         {
-            "title": "Após promover Stephen Miller, Trump foi às artes marciais procurar um porta-voz para a Casa Branca",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/mundo/noticia/apos-promover-stephen-miller-trump-artes-marciais-procurar-portavoz-casa-branca-2194182"
+            "title": "Tam, a “melhor <em>chef </em>da Ásia”, põe toda a Tailândia na mesa",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/fugas/reportagem/tam-melhor-chef-asia-poe-tailandia-mesa-2192789"
         },
         {
-            "title": "S. Paulo também se enganou",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/opiniao/opiniao/s-paulo-tambem-enganou-2193880"
+            "title": "Polónia chora as vítimas do tiroteio em Cracóvia, enquanto cresce o medo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/mundo/reportagem/polonia-chora-vitimas-tiroteio-cracovia-cresce-medo-2194191"
         },
         {
-            "title": "Escolher quem se odeia",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/opiniao/opiniao/escolher-odeia-2194152"
+            "title": "As aldeias estão condenadas? Em Chãos estão lançadas as bases para provar que não",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/local/reportagem/aldeias-estao-condenadas-chaos-estao-lancadas-bases-provar-nao-2192151"
         },
         {
-            "title": "Professores não profissionalizados no 1.º ciclo é crime pedagógico",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/opiniao/opiniao/professores-nao-profissionalizados-1-ciclo-crime-pedagogico-2193237"
+            "title": "COP31: Glossário de termos e conceitos para entender a cimeira do clima",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/azul/noticia/cop31-glossario-termos-conceitos-entender-cimeira-clima-2194076"
         },
         {
-            "title": "Montenegro, um primeiro-ministro que é a 4.ª escolha",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/opiniao/opiniao/montenegro-primeiroministro-4-escolha-2194148"
+            "title": "Sismo de 5,7 atinge centro do Japão e deixa pelo menos 20 feridos",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/mundo/noticia/sismo-57-atinge-centro-japao-deixa-menos-20-feridos-2194188"
         }
     ],
     "finance": [],
-    "last_update": "08/11/2026 03:12"
+    "last_update": "08/11/2026 10:51"
 }
