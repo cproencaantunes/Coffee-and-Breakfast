@@ -2,35 +2,35 @@
     "weather": {
         "atual": 18.1,
         "manha": 17.7,
-        "tarde": 20.2,
-        "noite": 19.3
+        "tarde": 19.6,
+        "noite": 19.5
     },
     "forecast": {
-        "max": 20.3,
-        "min": 18.2
+        "max": 20.2,
+        "min": 18.3
     },
     "news": [
         {
-            "title": "Sudão detém Haroun, ex-líder do partido no poder, procurado pelo TPI",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/mundo/noticia/sudao-detem-haroun-exlider-partido-procurado-tpi-2194203"
+            "title": "ANC com “resultado absolutamente catastrófico” nas eleições municipais da África do Sul",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/mundo/noticia/anc-resultado-absolutamente-catastrofico-eleicoes-municipais-africa-sul-2194237"
         },
         {
-            "title": "Eisenkot à espera que os seus 28 dias tenham final feliz como no filme de Danny Boyle",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/mundo/noticia/eisenkot-espera-28-dias-final-feliz-filme-danny-boyle-2194211"
+            "title": "Vizela, a acusação de violência doméstica e um silêncio de morte",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/politica/cronica/vizela-acusacao-violencia-domestica-silencio-morte-2194234"
         },
         {
-            "title": "Carneiro usa palavras de Cavaco para acusar Governo de incompetência na habitação",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/politica/noticia/carneiro-usa-palavras-cavaco-acusar-governo-incompetencia-habitacao-2194208"
+            "title": "<em>Trick-or-treating</em> com Fran Lebowitz",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/p3/cronica/trickortreating-fran-lebowitz-2194046"
         },
         {
-            "title": "Acampada pela habitação manteve tendas no Rossio, apesar de Renata Cambra defender retirada",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/sociedade/noticia/acampada-habitacao-manteve-tendas-rossio-apesar-renata-cambra-defender-retirada-2194206"
+            "title": "A carga no Porto: pontapés, bastões na cabeça, nos genitais e agressões a jornalistas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/sociedade/investigacao/carga-porto-pontapes-bastoes-cabeca-genitais-agressoes-jornalistas-2194022"
         },
         {
-            "title": "PS chama ministra da Saúde ao Parlamento por mortes nas urgências de Portimão",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/politica/noticia/ps-chama-ministra-saude-parlamento-mortes-urgencias-portimao-2194207"
+            "title": "FC Porto vence e a perfeição continua perfeita",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/desporto/cronica_de_jogo/fc-porto-vence-perfeicao-continua-perfeita-2194235"
         }
     ],
     "finance": [],
-    "last_update": "08/11/2026 16:49"
+    "last_update": "08/11/2026 20:51"
 }
