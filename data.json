@@ -2,35 +2,35 @@
     "weather": {
         "atual": 18.1,
         "manha": 17.7,
-        "tarde": 20.7,
-        "noite": 19.2
+        "tarde": 20.2,
+        "noite": 19.3
     },
     "forecast": {
-        "max": 19.8,
-        "min": 18.0
+        "max": 20.3,
+        "min": 18.2
     },
     "news": [
         {
-            "title": "Tam, a “melhor <em>chef </em>da Ásia”, põe toda a Tailândia na mesa",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/fugas/reportagem/tam-melhor-chef-asia-poe-tailandia-mesa-2192789"
+            "title": "Sudão detém Haroun, ex-líder do partido no poder, procurado pelo TPI",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/mundo/noticia/sudao-detem-haroun-exlider-partido-procurado-tpi-2194203"
         },
         {
-            "title": "Polónia chora as vítimas do tiroteio em Cracóvia, enquanto cresce o medo",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/mundo/reportagem/polonia-chora-vitimas-tiroteio-cracovia-cresce-medo-2194191"
+            "title": "Eisenkot à espera que os seus 28 dias tenham final feliz como no filme de Danny Boyle",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/mundo/noticia/eisenkot-espera-28-dias-final-feliz-filme-danny-boyle-2194211"
         },
         {
-            "title": "As aldeias estão condenadas? Em Chãos estão lançadas as bases para provar que não",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/local/reportagem/aldeias-estao-condenadas-chaos-estao-lancadas-bases-provar-nao-2192151"
+            "title": "Carneiro usa palavras de Cavaco para acusar Governo de incompetência na habitação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/politica/noticia/carneiro-usa-palavras-cavaco-acusar-governo-incompetencia-habitacao-2194208"
         },
         {
-            "title": "COP31: Glossário de termos e conceitos para entender a cimeira do clima",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/azul/noticia/cop31-glossario-termos-conceitos-entender-cimeira-clima-2194076"
+            "title": "Acampada pela habitação manteve tendas no Rossio, apesar de Renata Cambra defender retirada",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/sociedade/noticia/acampada-habitacao-manteve-tendas-rossio-apesar-renata-cambra-defender-retirada-2194206"
         },
         {
-            "title": "Sismo de 5,7 atinge centro do Japão e deixa pelo menos 20 feridos",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/mundo/noticia/sismo-57-atinge-centro-japao-deixa-menos-20-feridos-2194188"
+            "title": "PS chama ministra da Saúde ao Parlamento por mortes nas urgências de Portimão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/politica/noticia/ps-chama-ministra-saude-parlamento-mortes-urgencias-portimao-2194207"
         }
     ],
     "finance": [],
-    "last_update": "08/11/2026 10:51"
+    "last_update": "08/11/2026 16:49"
 }
