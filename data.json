@@ -1,36 +1,36 @@
 {
     "weather": {
         "atual": 19.2,
-        "manha": 19.3,
-        "tarde": 19.5,
-        "noite": 18.4
+        "manha": 19.2,
+        "tarde": 19.8,
+        "noite": 18.5
     },
     "forecast": {
-        "max": 19.6,
-        "min": 18.2
+        "max": 20.2,
+        "min": 18.3
     },
     "news": [
         {
-            "title": "Na Grande Lisboa espera-se até um ano por uma vaga na rede de cuidados continuados",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/09/sociedade/noticia/lisboa-esperase-ate-ano-vaga-rede-cuidados-continuados-2194196"
+            "title": "Reguladora da Saúde abre averiguações às três mortes ocorridas no Hospital de Portimão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/09/sociedade/noticia/reguladora-saude-abre-averiguacoes-tres-mortes-ocorridas-hospital-portimao-2194336"
         },
         {
-            "title": "O que pensaria Carl Sagan sobre a IA no século XXI?",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/09/ciencia/opiniao/pensaria-carl-sagan-ia-seculo-xxi-2191499"
+            "title": "Subida do salário mínimo em França não afasta espectro das greves e dos protestos nas ruas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/09/mundo/noticia/subida-salario-minimo-franca-nao-afasta-espectro-greves-protestos-ruas-2194318"
         },
         {
-            "title": "Bancos tornaram a excepção para não reembolso “em regra”",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/09/economia/noticia/bancos-tornaram-excepcao-nao-reembolso-regra-2193997"
+            "title": "Mértola, Aljustrel e Grândola juntam forças no turismo e património das minas",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/09/fugas/noticia/mertola-aljustrel-grandola-juntam-forcas-turismo-patrimonio-minas-2194339"
         },
         {
-            "title": "Fraudes digitais: Bancos obrigados a repor dinheiro e só depois provar “negligência grosseira” dos clientes",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/09/economia/noticia/fraudes-digitais-bancos-obrigados-repor-dinheiro-so-provar-negligencia-grosseira-clientes-2193989"
+            "title": "Habitação: Aguiar-Branco pede aos partidos que “resistam à tentação” da rua",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/09/politica/noticia/habitacao-aguiarbranco-pede-partidos-resistam-tentacao-rua-2194329"
         },
         {
-            "title": "Na Web Summit, chegou a hora de dar a palavra aos robôs",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/09/economia/noticia/web-summit-chegou-hora-dar-palavra-robos-2194115"
+            "title": "Homem do Jogo: Martim Fernandes continua de prego a fundo",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/09/desporto/noticia/homem-jogo-martim-fernandes-continua-prego-fundo-2194322"
         }
     ],
     "finance": [],
-    "last_update": "09/11/2026 07:23"
+    "last_update": "09/11/2026 17:56"
 }
