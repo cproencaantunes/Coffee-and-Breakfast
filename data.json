@@ -1,36 +1,36 @@
 {
     "weather": {
-        "atual": 18.1,
-        "manha": 17.7,
-        "tarde": 19.6,
-        "noite": 19.5
+        "atual": 19.1,
+        "manha": 19.2,
+        "tarde": 19.4,
+        "noite": 18.4
     },
     "forecast": {
-        "max": 20.2,
-        "min": 18.3
+        "max": 19.3,
+        "min": 18.0
     },
     "news": [
         {
-            "title": "ANC com “resultado absolutamente catastrófico” nas eleições municipais da África do Sul",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/mundo/noticia/anc-resultado-absolutamente-catastrofico-eleicoes-municipais-africa-sul-2194237"
+            "title": "Vamos pensar na abundância de habitação",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/09/opiniao/opiniao/vamos-pensar-abundancia-habitacao-2194230"
         },
         {
-            "title": "Vizela, a acusação de violência doméstica e um silêncio de morte",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/politica/cronica/vizela-acusacao-violencia-domestica-silencio-morte-2194234"
+            "title": "O défice que não se vê",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/09/opiniao/opiniao/defice-nao-ve-2194124"
         },
         {
-            "title": "<em>Trick-or-treating</em> com Fran Lebowitz",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/p3/cronica/trickortreating-fran-lebowitz-2194046"
+            "title": "Trump considera “improvável” ordenar novos ataques contra o Irão",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/mundo/noticia/trump-considera-improvavel-ordenar-novos-ataques-irao-2194243"
         },
         {
-            "title": "A carga no Porto: pontapés, bastões na cabeça, nos genitais e agressões a jornalistas",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/sociedade/investigacao/carga-porto-pontapes-bastoes-cabeca-genitais-agressoes-jornalistas-2194022"
+            "title": "Portugal perde com Argentina e termina em quarto lugar a Finalíssima de futsal",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/desporto/noticia/portugal-perde-argentina-termina-quarto-lugar-finalissima-futsal-2194242"
         },
         {
-            "title": "FC Porto vence e a perfeição continua perfeita",
-            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/desporto/cronica_de_jogo/fc-porto-vence-perfeicao-continua-perfeita-2194235"
+            "title": "A vitória do Benfica e um mundo visto a correr",
+            "url": "https://www.publico.pthttps://www.publico.pt/2026/11/08/desporto/cronica_de_jogo/vitoria-benfica-mundo-visto-correr-2194236"
         }
     ],
     "finance": [],
-    "last_update": "08/11/2026 20:51"
+    "last_update": "09/11/2026 00:16"
 }
